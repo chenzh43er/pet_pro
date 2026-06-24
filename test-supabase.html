@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Supabase 连接测试 - Find Paw Pal</title>
+    <style>
+        * { box-sizing: border-box; }
+        body {
+            font-family: system-ui, sans-serif;
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 20px;
+            color: #222;
+            line-height: 1.5;
+        }
+        h1 { font-size: 1.5rem; margin-bottom: 8px; }
+        p { color: #666; margin-bottom: 24px; }
+        .row { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 16px; }
+        button, input {
+            font: inherit;
+            padding: 8px 14px;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+        }
+        button {
+            cursor: pointer;
+            background: #37bbb6;
+            color: #fff;
+            border-color: #37bbb6;
+        }
+        button.secondary { background: #fff; color: #333; }
+        #log {
+            background: #f7f7f7;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 16px;
+            white-space: pre-wrap;
+            word-break: break-all;
+            min-height: 200px;
+            font-size: 13px;
+        }
+        .ok { color: #0a7; font-weight: 600; }
+        .err { color: #c00; font-weight: 600; }
+        a { color: #37bbb6; }
+    </style>
+</head>
+<body>
+    <h1>Supabase 连接测试</h1>
+    <p>用于排查 API 是否可用。请通过 HTTP 服务打开本页（例如 <code>npx serve .</code>），不要直接用 file:// 打开。</p>
+
+    <div class="row">
+        <button id="btn-list">测试列表 search_pet (dog, 3条)</button>
+        <button id="btn-detail" class="secondary">测试详情 fetchPetById</button>
+        <input id="pet-id" type="number" value="6729" min="1" placeholder="宠物 ID">
+    </div>
+
+    <div id="status"></div>
+    <pre id="log">点击上方按钮开始测试…</pre>
+
+    <p style="margin-top:24px">
+        <a href="./pet-adoption.html?type=dog">→ 领养列表页</a> ·
+        <a href="./detail-adoption.html?id=6729">→ 详情页示例 (id=6729)</a> ·
+        <a href="./index.html">→ 首页</a>
+    </p>
+
+    <script type="module">
+        import { fetchPets, fetchPetById } from './js/supabaseApi.js';
+
+        const statusEl = document.getElementById('status');
+        const logEl = document.getElementById('log');
+
+        function setStatus(ok, msg) {
+            statusEl.innerHTML = `<p class="${ok ? 'ok' : 'err'}">${msg}</p>`;
+        }
+
+        function show(data) {
+            logEl.textContent = typeof data === 'string' ? data : JSON.stringify(data, null, 2);
+        }
+
+        document.getElementById('btn-list').addEventListener('click', async () => {
+            setStatus(true, '请求中…');
+            const start = performance.now();
+            const { data, error } = await fetchPets({ type: 'dog', limit: 3, offset: 0 });
+            const ms = Math.round(performance.now() - start);
+
+            if (error) {
+                setStatus(false, `列表查询失败 (${ms}ms)`);
+                show(error);
+                return;
+            }
+
+            const count = data?.data?.length ?? 0;
+            const total = data?.total ?? '?';
+            setStatus(true, `列表查询成功 (${ms}ms) — 返回 ${count} 条，总计 ${total}`);
+            show(data);
+        });
+
+        document.getElementById('btn-detail').addEventListener('click', async () => {
+            const id = parseInt(document.getElementById('pet-id').value, 10);
+            if (!id) {
+                setStatus(false, '请输入有效的宠物 ID');
+                return;
+            }
+
+            setStatus(true, '请求中…');
+            const start = performance.now();
+            const { data, error } = await fetchPetById(id);
+            const ms = Math.round(performance.now() - start);
+
+            if (error) {
+                setStatus(false, `详情查询失败 (${ms}ms)`);
+                show(error);
+                return;
+            }
+
+            setStatus(true, `详情查询成功 (${ms}ms) — ${data.name} (${data.type}, ${data.state})`);
+            show(data);
+        });
+    </script>
+</body>
+</html>
