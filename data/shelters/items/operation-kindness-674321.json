@@ -1,0 +1,21 @@
+{
+  "officeId": 674321,
+  "slug": "operation-kindness-674321",
+  "name": "Operation Kindness",
+  "address": "3201 Earhart Drive, Carrollton, TX 75006",
+  "street": "3201 Earhart Drive",
+  "addressCity": "Carrollton",
+  "stateCode": "TX",
+  "zip": "75006",
+  "phone": "972-418-7297",
+  "image": "./img/shelter/office/674321.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/operation-kindness-674321/",
+  "stateSlug": "texas",
+  "stateName": "Texas",
+  "citySlug": "carrollton",
+  "cityName": "Carrollton",
+  "cityLabel": "Carrollton, TX",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/texas/carrollton/",
+  "fetchedAt": "2026-06-27T20:03:43.409378+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/674321.jpg?f=webp&w=730"
+}

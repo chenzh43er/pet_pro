@@ -1,0 +1,21 @@
+{
+  "officeId": 152625,
+  "slug": "alaska-humane-society-152625",
+  "name": "Alaska Humane Society",
+  "address": "1200 East 76th Avenue, Anchorage, AK 99518",
+  "street": "1200 East 76th Avenue",
+  "addressCity": "Anchorage",
+  "stateCode": "AK",
+  "zip": "99518",
+  "phone": "907-344-8808",
+  "image": "./img/shelter/office/152625.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/alaska-humane-society-152625/",
+  "stateSlug": "alaska",
+  "stateName": "Alaska",
+  "citySlug": "anchorage",
+  "cityName": "Anchorage",
+  "cityLabel": "Anchorage, AK",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/alaska/anchorage/",
+  "fetchedAt": "2026-06-27T18:19:07.806149+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/152625.jpg?f=webp&w=730"
+}

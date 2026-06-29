@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:46:40.840611+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "rocky-river",
+    "name": "Rocky River",
+    "label": "Rocky River, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/rocky-river/",
+  "offices": [
+    {
+      "officeId": 431528,
+      "slug": "lakewood-animal-shelter-431528",
+      "name": "Lakewood Animal Shelter",
+      "address": "1299 Cleveland Metro Park Drive, Rocky River, OH 44116",
+      "phone": "216-529-5020",
+      "image": "./img/shelter/office/431528.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lakewood-animal-shelter-431528/",
+      "imageUrl": "https://cdn.findpawpal.com/office/431528.jpg?f=webp&w=730"
+    }
+  ]
+}

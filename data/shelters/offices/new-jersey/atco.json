@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:24:55.758979+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "atco",
+    "name": "Atco",
+    "label": "Atco, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/atco/",
+  "offices": [
+    {
+      "officeId": 94657,
+      "slug": "little-miracles-rabbit-rescue-94657",
+      "name": "Little Miracles Rabbit Rescue",
+      "address": "2308 Auburn Avenue, Atco, NJ 08004",
+      "phone": "856-210-6028",
+      "image": "./img/shelter/office/94657.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/little-miracles-rabbit-rescue-94657/",
+      "imageUrl": "https://cdn.findpawpal.com/office/94657.jpg?f=webp&w=730"
+    }
+  ]
+}

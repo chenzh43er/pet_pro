@@ -1,0 +1,135 @@
+{
+  "fetchedAt": "2026-06-27T19:14:55.200090+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "minneapolis",
+    "name": "Minneapolis",
+    "label": "Minneapolis, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/minneapolis/",
+  "offices": [
+    {
+      "officeId": 389634,
+      "slug": "small-dog-rescue-of-minnesota-389634",
+      "name": "Small Dog Rescue of Minnesota",
+      "address": "3853 Columbus Avenue, Minneapolis, MN 55407",
+      "phone": "",
+      "image": "./img/shelter/office/389634.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/small-dog-rescue-of-minnesota-389634/",
+      "imageUrl": "https://cdn.findpawpal.com/office/389634.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 393873,
+      "slug": "pet-haven-inc-of-minnesota-393873",
+      "name": "Pet Haven Inc. of Minnesota",
+      "address": "PO Box 19105, Minneapolis, MN 55419",
+      "phone": "952-831-3825",
+      "image": "./img/shelter/office/393873.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-haven-inc-of-minnesota-393873/",
+      "imageUrl": "https://cdn.findpawpal.com/office/393873.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 400039,
+      "slug": "minneapolis-animal-care-and-control-400039",
+      "name": "Minneapolis Animal Care & Control",
+      "address": "212 17th Avenue North, Minneapolis, MN 55411",
+      "phone": "612-673-6222",
+      "image": "./img/shelter/office/400039.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/minneapolis-animal-care-and-control-400039/",
+      "imageUrl": "https://cdn.findpawpal.com/office/400039.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 400061,
+      "slug": "second-chance-st-bernard-rescue-400061",
+      "name": "Second Chance St. Bernard Rescue",
+      "address": "1800 2nd Street Northeast, Minneapolis, MN 55418",
+      "phone": "763-425-2154",
+      "image": "./img/shelter/office/400061.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/second-chance-st-bernard-rescue-400061/",
+      "imageUrl": "https://cdn.findpawpal.com/office/400061.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 400070,
+      "slug": "all-creatures-great-and-small-400070",
+      "name": "All Creatures Great & Small",
+      "address": "6320 14th Avenue South, Minneapolis, MN 55423",
+      "phone": "612-869-2833",
+      "image": "./img/shelter/office/400070.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/all-creatures-great-and-small-400070/",
+      "imageUrl": "https://cdn.findpawpal.com/office/400070.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 418890,
+      "slug": "angel-animals-network-418890",
+      "name": "Angel Animals Network",
+      "address": "PO Box 26354, Minneapolis, MN 55426",
+      "phone": "952-925-3309",
+      "image": "./img/shelter/office/418890.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/angel-animals-network-418890/",
+      "imageUrl": "https://cdn.findpawpal.com/office/418890.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 419789,
+      "slug": "greyhound-pets-of-america-419789",
+      "name": "Greyhound Pets of America",
+      "address": "PO Box 490183, Minneapolis, MN 55449",
+      "phone": "763-785-4000",
+      "image": "./img/shelter/office/419789.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhound-pets-of-america-419789/",
+      "imageUrl": "https://cdn.findpawpal.com/office/419789.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 421430,
+      "slug": "cat-house-arf-421430",
+      "name": "Cat House Arf",
+      "address": "322 East Hennepin Avenue, Minneapolis, MN 55414",
+      "phone": "612-623-1067",
+      "image": "./img/shelter/office/421430.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cat-house-arf-421430/",
+      "imageUrl": "https://cdn.findpawpal.com/office/421430.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 421923,
+      "slug": "german-shepherd-breed-rescue-421923",
+      "name": "German Shepherd Breed Rescue",
+      "address": "1208 88th Avenue North, Minneapolis, MN 55444",
+      "phone": "763-560-6854",
+      "image": "./img/shelter/office/421923.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/german-shepherd-breed-rescue-421923/",
+      "imageUrl": "https://cdn.findpawpal.com/office/421923.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 421927,
+      "slug": "southern-star-min-pin-rescue-421927",
+      "name": "Southern Star Min Pin Rescue",
+      "address": "4626 North Penn Avenue, Minneapolis, MN 55412",
+      "phone": "612-720-8393",
+      "image": "./img/shelter/office/421927.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/southern-star-min-pin-rescue-421927/",
+      "imageUrl": "https://cdn.findpawpal.com/office/421927.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 524567,
+      "slug": "animal-control-services-robbinsdale-524567",
+      "name": "Animal Control Services Robbinsdale",
+      "address": "3611 Grimes Avenue North, Minneapolis, MN 55422",
+      "phone": "763-588-3056",
+      "image": "./img/shelter/office/524567.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-control-services-robbinsdale-524567/",
+      "imageUrl": "https://cdn.findpawpal.com/office/524567.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 533177,
+      "slug": "crossroads-animal-shelter-533177",
+      "name": "Crossroads Animal Shelter",
+      "address": "10 South 5th Street, Minneapolis, MN 55402",
+      "phone": "763-684-1234",
+      "image": "./img/shelter/office/533177.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/crossroads-animal-shelter-533177/",
+      "imageUrl": "https://cdn.findpawpal.com/office/533177.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:01:03.806713+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "maynardville",
+    "name": "Maynardville",
+    "label": "Maynardville, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/maynardville/",
+  "offices": [
+    {
+      "officeId": 636403,
+      "slug": "union-county-humane-society-636403",
+      "name": "Union County Humane Society",
+      "address": "719 Hickory Star Road, Maynardville, TN 37807",
+      "phone": "865-992-7969",
+      "image": "https://cdn.findpawpal.com/office/636403.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/union-county-humane-society-636403/"
+    }
+  ]
+}

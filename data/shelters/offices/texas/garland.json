@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T20:05:09.670147+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "garland",
+    "name": "Garland",
+    "label": "Garland, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/garland/",
+  "offices": [
+    {
+      "officeId": 493133,
+      "slug": "greyhound-friends-of-texas-493133",
+      "name": "Greyhound Friends of Texas",
+      "address": "PO Box 451345, Garland, TX 75045",
+      "phone": "972-414-6627",
+      "image": "./img/shelter/office/493133.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhound-friends-of-texas-493133/",
+      "imageUrl": "https://cdn.findpawpal.com/office/493133.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 494824,
+      "slug": "garland-animal-control-494824",
+      "name": "Garland Animal Control",
+      "address": "600 Tower Street, Garland, TX 75040",
+      "phone": "972-205-3570",
+      "image": "./img/shelter/office/494824.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/garland-animal-control-494824/",
+      "imageUrl": "https://cdn.findpawpal.com/office/494824.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 518240,
+      "slug": "animal-adoption-center-of-garland-518240",
+      "name": "Animal Adoption Center of Garland",
+      "address": "117 North Garland Avenue, Garland, TX 75040",
+      "phone": "972-494-5463",
+      "image": "./img/shelter/office/518240.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-adoption-center-of-garland-518240/",
+      "imageUrl": "https://cdn.findpawpal.com/office/518240.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674439,
+      "slug": "north-texas-rabbit-sanctuary-674439",
+      "name": "North Texas Rabbit Sanctuary",
+      "address": "1013 Lesa Lane, Garland, TX 75042",
+      "phone": "972-205-1881",
+      "image": "./img/shelter/office/674439.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/north-texas-rabbit-sanctuary-674439/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674439.jpg?f=webp&w=730"
+    }
+  ]
+}

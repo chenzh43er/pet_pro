@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:02:48.091036+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "baldwin",
+    "name": "Baldwin",
+    "label": "Baldwin, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/baldwin/",
+  "offices": [
+    {
+      "officeId": 395335,
+      "slug": "baltimore-county-animal-control-395335",
+      "name": "Baltimore County Animal Control",
+      "address": "13800 Manor Road, Baldwin, MD 21013",
+      "phone": "410-887-5961",
+      "image": "./img/shelter/office/395335.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/baltimore-county-animal-control-395335/",
+      "imageUrl": "https://cdn.findpawpal.com/office/395335.jpg?f=webp&w=730"
+    }
+  ]
+}

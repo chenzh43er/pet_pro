@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:47:56.371455+00:00",
+  "state": {
+    "slug": "oklahoma",
+    "name": "Oklahoma"
+  },
+  "city": {
+    "slug": "ada",
+    "name": "Ada",
+    "label": "Ada, OK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oklahoma/ada/",
+  "offices": [
+    {
+      "officeId": 707658,
+      "slug": "pontotoc-animal-welfare-shelter-707658",
+      "name": "Pontotoc Animal Welfare Shelter",
+      "address": "1200 Sandy Creek Drive, Ada, OK 74820",
+      "phone": "580-332-5233",
+      "image": "./img/shelter/office/707658.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pontotoc-animal-welfare-shelter-707658/",
+      "imageUrl": "https://cdn.findpawpal.com/office/707658.jpg?f=webp&w=730"
+    }
+  ]
+}

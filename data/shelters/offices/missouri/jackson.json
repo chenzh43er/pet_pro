@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:19:16.087026+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "jackson",
+    "name": "Jackson",
+    "label": "Jackson, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/jackson/",
+  "offices": [
+    {
+      "officeId": 191858,
+      "slug": "safe-harbor-animal-sanctuary-191858",
+      "name": "Safe Harbor Animal Sanctuary",
+      "address": "359 Cree Lane, Jackson, MO 63755",
+      "phone": "573-243-9823",
+      "image": "./img/shelter/office/191858.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/safe-harbor-animal-sanctuary-191858/",
+      "imageUrl": "https://cdn.findpawpal.com/office/191858.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 192069,
+      "slug": "jackson-animal-control-192069",
+      "name": "Jackson Animal Control",
+      "address": "525 South Hope Street, Jackson, MO 63755",
+      "phone": "573-243-3151",
+      "image": "./img/shelter/office/192069.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/jackson-animal-control-192069/",
+      "imageUrl": "https://cdn.findpawpal.com/office/192069.jpg?f=webp&w=730"
+    }
+  ]
+}

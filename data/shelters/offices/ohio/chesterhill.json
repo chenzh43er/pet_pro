@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:43:38.481903+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "chesterhill",
+    "name": "Chesterhill",
+    "label": "Chesterhill, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/chesterhill/",
+  "offices": [
+    {
+      "officeId": 457720,
+      "slug": "morgan-county-humane-society-457720",
+      "name": "Morgan County Humane Society",
+      "address": "1625 Mill Street, Chesterhill, OH 43728",
+      "phone": "614-554-5831",
+      "image": "./img/shelter/office/457720.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/morgan-county-humane-society-457720/",
+      "imageUrl": "https://cdn.findpawpal.com/office/457720.jpg?f=webp&w=730"
+    }
+  ]
+}

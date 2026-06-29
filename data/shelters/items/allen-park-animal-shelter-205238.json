@@ -1,0 +1,21 @@
+{
+  "officeId": 205238,
+  "slug": "allen-park-animal-shelter-205238",
+  "name": "Allen Park Animal Shelter",
+  "address": "16850 Southfield Road, Allen Park, MI 48101",
+  "street": "16850 Southfield Road",
+  "addressCity": "Allen Park",
+  "stateCode": "MI",
+  "zip": "48101",
+  "phone": "313-928-4608",
+  "image": "./img/shelter/office/205238.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/allen-park-animal-shelter-205238/",
+  "stateSlug": "michigan",
+  "stateName": "Michigan",
+  "citySlug": "allen-park",
+  "cityName": "Allen Park",
+  "cityLabel": "Allen Park, MI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/michigan/allen-park/",
+  "fetchedAt": "2026-06-27T19:09:15.384948+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/205238.jpg?f=webp&w=730"
+}

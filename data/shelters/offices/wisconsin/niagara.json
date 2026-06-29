@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:23:36.364122+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "niagara",
+    "name": "Niagara",
+    "label": "Niagara, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/niagara/",
+  "offices": [
+    {
+      "officeId": 520660,
+      "slug": "niagara-animal-control-520660",
+      "name": "Niagara Animal Control",
+      "address": "551 Roosevelt Road, Niagara, WI 54151",
+      "phone": "715-251-4654",
+      "image": "https://cdn.findpawpal.com/office/520660.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/niagara-animal-control-520660/"
+    }
+  ]
+}

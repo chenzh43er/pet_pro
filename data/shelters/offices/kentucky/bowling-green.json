@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:56:26.086323+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "bowling-green",
+    "name": "Bowling Green",
+    "label": "Bowling Green, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/bowling-green/",
+  "offices": [
+    {
+      "officeId": 110658,
+      "slug": "bowling-green-animal-control-110658",
+      "name": "Bowling Green Animal Control",
+      "address": "911 Kentucky Street, Bowling Green, KY 42101",
+      "phone": "270-393-4000",
+      "image": "./img/shelter/office/110658.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bowling-green-animal-control-110658/",
+      "imageUrl": "https://cdn.findpawpal.com/office/110658.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 126056,
+      "slug": "humane-society-animal-shelter-126056",
+      "name": "Humane Society Animal Shelter",
+      "address": "1925 Old Louisville Road, Bowling Green, KY 42101",
+      "phone": "270-842-8572",
+      "image": "./img/shelter/office/126056.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-animal-shelter-126056/",
+      "imageUrl": "https://cdn.findpawpal.com/office/126056.jpg?f=webp&w=730"
+    }
+  ]
+}

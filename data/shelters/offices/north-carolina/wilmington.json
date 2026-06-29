@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T19:42:01.208727+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "wilmington",
+    "name": "Wilmington",
+    "label": "Wilmington, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/wilmington/",
+  "offices": [
+    {
+      "officeId": 213009,
+      "slug": "carolina-boxer-rescue-213009",
+      "name": "Carolina Boxer Rescue",
+      "address": "2402 Barnsley Court, Wilmington, NC 28411",
+      "phone": "910-431-8499",
+      "image": "./img/shelter/office/213009.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/carolina-boxer-rescue-213009/",
+      "imageUrl": "https://cdn.findpawpal.com/office/213009.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 230848,
+      "slug": "new-hanover-humane-society-inc-230848",
+      "name": "New Hanover Humane Society Inc",
+      "address": "2405 North 23rd Street, Wilmington, NC 28405",
+      "phone": "910-763-6692",
+      "image": "./img/shelter/office/230848.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hanover-humane-society-inc-230848/",
+      "imageUrl": "https://cdn.findpawpal.com/office/230848.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 230853,
+      "slug": "wilmington-nc-bird-club-230853",
+      "name": "Wilmington Nc Bird Club",
+      "address": "325 Brenda Drive, Wilmington, NC 28409",
+      "phone": "910-836-4039",
+      "image": "./img/shelter/office/230853.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wilmington-nc-bird-club-230853/",
+      "imageUrl": "https://cdn.findpawpal.com/office/230853.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 257560,
+      "slug": "new-hanover-county-animal-control-257560",
+      "name": "New Hanover County Animal Control",
+      "address": "220 Division Drive, Wilmington, NC 28401",
+      "phone": "910-798-7500",
+      "image": "./img/shelter/office/257560.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hanover-county-animal-control-257560/",
+      "imageUrl": "https://cdn.findpawpal.com/office/257560.jpg?f=webp&w=730"
+    }
+  ]
+}

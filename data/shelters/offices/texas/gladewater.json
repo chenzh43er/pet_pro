@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T20:05:17.160658+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "gladewater",
+    "name": "Gladewater",
+    "label": "Gladewater, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/gladewater/",
+  "offices": [
+    {
+      "officeId": 537190,
+      "slug": "corgi-critters-n-e-t-rescue-inc-537190",
+      "name": "Corgi Critters N.E.T. Rescue, Inc.",
+      "address": "1212 North Edwards Street, Gladewater, TX 75647",
+      "phone": "903-918-3352",
+      "image": "./img/shelter/office/537190.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/corgi-critters-n-e-t-rescue-inc-537190/",
+      "imageUrl": "https://cdn.findpawpal.com/office/537190.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 538914,
+      "slug": "gladewater-animal-control-538914",
+      "name": "Gladewater Animal Control",
+      "address": "511 South Tyler Street, Gladewater, TX 75647",
+      "phone": "903-845-5801",
+      "image": "https://cdn.findpawpal.com/office/538914.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/gladewater-animal-control-538914/"
+    }
+  ]
+}

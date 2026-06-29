@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:22:18.048467+00:00",
+  "state": {
+    "slug": "nebraska",
+    "name": "Nebraska"
+  },
+  "city": {
+    "slug": "blair",
+    "name": "Blair",
+    "label": "Blair, NE"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nebraska/blair/",
+  "offices": [
+    {
+      "officeId": 390199,
+      "slug": "blair-animal-control-390199",
+      "name": "Blair Animal Control",
+      "address": "1535 Colfax Street, Blair, NE 68008",
+      "phone": "402-426-4747",
+      "image": "./img/shelter/office/390199.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/blair-animal-control-390199/",
+      "imageUrl": "https://cdn.findpawpal.com/office/390199.jpg?f=webp&w=730"
+    }
+  ]
+}

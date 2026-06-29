@@ -1,0 +1,21 @@
+{
+  "officeId": 40544,
+  "slug": "paws-for-life-40544",
+  "name": "Paws For Life",
+  "address": "800 North Pueblo Boulevard, Pueblo, CO 81003",
+  "street": "800 North Pueblo Boulevard",
+  "addressCity": "Pueblo",
+  "stateCode": "CO",
+  "zip": "81003",
+  "phone": "719-543-6464",
+  "image": "./img/shelter/office/40544.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/paws-for-life-40544/",
+  "stateSlug": "colorado",
+  "stateName": "Colorado",
+  "citySlug": "pueblo",
+  "cityName": "Pueblo",
+  "cityLabel": "Pueblo, CO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/colorado/pueblo/",
+  "fetchedAt": "2026-06-27T18:35:03.836912+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/40544.jpg?f=webp&w=730"
+}

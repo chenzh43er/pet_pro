@@ -1,0 +1,21 @@
+{
+  "officeId": 190626,
+  "slug": "river-rouge-animal-shelter-190626",
+  "name": "River Rouge Animal Shelter",
+  "address": "100 West Pleasant Street, River Rouge, MI 48218",
+  "street": "100 West Pleasant Street",
+  "addressCity": "River Rouge",
+  "stateCode": "MI",
+  "zip": "48218",
+  "phone": "313-205-1732",
+  "image": "./img/shelter/office/190626.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/river-rouge-animal-shelter-190626/",
+  "stateSlug": "michigan",
+  "stateName": "Michigan",
+  "citySlug": "river-rouge",
+  "cityName": "River Rouge",
+  "cityLabel": "River Rouge, MI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/michigan/river-rouge/",
+  "fetchedAt": "2026-06-27T19:12:23.152010+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/190626.jpg?f=webp&w=730"
+}

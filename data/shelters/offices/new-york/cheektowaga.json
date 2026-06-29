@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:32:31.706593+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "cheektowaga",
+    "name": "Cheektowaga",
+    "label": "Cheektowaga, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/cheektowaga/",
+  "offices": [
+    {
+      "officeId": 314923,
+      "slug": "buffalo-greyhound-adoption-inc-314923",
+      "name": "Buffalo Greyhound Adoption, Inc.",
+      "address": "PO Box 1096, Cheektowaga, NY 14227",
+      "phone": "716-873-1165",
+      "image": "https://cdn.findpawpal.com/office/314923.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/buffalo-greyhound-adoption-inc-314923/"
+    },
+    {
+      "officeId": 396890,
+      "slug": "reptile-adoption-rehabilitation-education-inc-396890",
+      "name": "Reptile Adoption, Rehabilitation Education, Inc.",
+      "address": "739 Borden Road, Cheektowaga, NY 14227",
+      "phone": "716-656-7273",
+      "image": "./img/shelter/office/396890.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/reptile-adoption-rehabilitation-education-inc-396890/",
+      "imageUrl": "https://cdn.findpawpal.com/office/396890.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T19:29:36.535109+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "west-milford",
+    "name": "West Milford",
+    "label": "West Milford, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/west-milford/",
+  "offices": [
+    {
+      "officeId": 95621,
+      "slug": "the-last-resort-95621",
+      "name": "The Last Resort",
+      "address": "139 Point Breeze Drive, West Milford, NJ 07421",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/95621.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/the-last-resort-95621/"
+    },
+    {
+      "officeId": 95764,
+      "slug": "west-milford-animal-shelter-society-95764",
+      "name": "West Milford Animal Shelter Society",
+      "address": "Lycosky Rd, West Milford, NJ 07480",
+      "phone": "973-728-2859",
+      "image": "./img/shelter/office/95764.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/west-milford-animal-shelter-society-95764/",
+      "imageUrl": "https://cdn.findpawpal.com/office/95764.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 96756,
+      "slug": "west-milford-animal-shelter-96756",
+      "name": "West Milford Animal Shelter",
+      "address": "LYCOSKY Dr, West Milford, NJ 07480",
+      "phone": "973-728-2859",
+      "image": "./img/shelter/office/96756.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/west-milford-animal-shelter-96756/",
+      "imageUrl": "https://cdn.findpawpal.com/office/96756.jpg?f=webp&w=730"
+    }
+  ]
+}

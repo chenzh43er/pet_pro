@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:01:58.018287+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "silver-point",
+    "name": "Silver Point",
+    "label": "Silver Point, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/silver-point/",
+  "offices": [
+    {
+      "officeId": 685079,
+      "slug": "shepherds-green-dragonwood-pig-refuge-685079",
+      "name": "Shepherds Green Dragonwood Pig Refuge",
+      "address": "910 Medley Amonet Road, Silver Point, TN 38582",
+      "phone": "931-858-5670",
+      "image": "https://cdn.findpawpal.com/office/685079.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/shepherds-green-dragonwood-pig-refuge-685079/"
+    }
+  ]
+}

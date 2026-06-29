@@ -1,0 +1,50 @@
+{
+  "fetchedAt": "2026-06-27T18:14:48.047629+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "inverness",
+    "name": "Inverness",
+    "label": "Inverness, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/inverness/",
+  "offices": [
+    {
+      "slug": "humane-society-of-citrus-county-271707",
+      "name": "Humane Society of Citrus County",
+      "address": "PO Box 2283, Inverness, FL 34451",
+      "phone": "352-745-4583",
+      "image": "./img/shelter/office/271707.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-citrus-county-271707/",
+      "imageUrl": "https://cdn.findpawpal.com/office/271707.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "citrus-county-animal-services-325233",
+      "name": "Citrus County Animal Services",
+      "address": "4030 South Airport Road, Inverness, FL 34450",
+      "phone": "352-746-8400",
+      "image": "./img/shelter/office/325233.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/citrus-county-animal-services-325233/",
+      "imageUrl": "https://cdn.findpawpal.com/office/325233.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "saving-angels-rescue-353059",
+      "name": "Saving Angels Rescue",
+      "address": "6740 East Entwood Court, Inverness, FL 34453",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/353059.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/saving-angels-rescue-353059/"
+    },
+    {
+      "slug": "saving-angels-dog-and-cat-rescue-358512",
+      "name": "Saving Angels Dog and Cat Rescue",
+      "address": "5005 East Shady Acres Drive, Inverness, FL 34453",
+      "phone": "352-419-0223",
+      "image": "./img/shelter/office/358512.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/saving-angels-dog-and-cat-rescue-358512/",
+      "imageUrl": "https://cdn.findpawpal.com/office/358512.jpg?f=webp&w=730"
+    }
+  ]
+}

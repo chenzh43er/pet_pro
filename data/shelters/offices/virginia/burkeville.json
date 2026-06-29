@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:13:04.884886+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "burkeville",
+    "name": "Burkeville",
+    "label": "Burkeville, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/burkeville/",
+  "offices": [
+    {
+      "officeId": 575220,
+      "slug": "white-bird-appaloosa-horse-rescue-575220",
+      "name": "White Bird Appaloosa Horse Rescue",
+      "address": "1688 Burke Tavern Road, Burkeville, VA 23922",
+      "phone": "540-364-3452",
+      "image": "https://cdn.findpawpal.com/office/575220.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/white-bird-appaloosa-horse-rescue-575220/"
+    }
+  ]
+}

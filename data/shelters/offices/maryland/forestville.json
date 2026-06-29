@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T19:03:30.805966+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "forestville",
+    "name": "Forestville",
+    "label": "Forestville, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/forestville/",
+  "offices": [
+    {
+      "officeId": 369928,
+      "slug": "forestville-animal-shelter-369928",
+      "name": "Forestville Animal Shelter",
+      "address": "8311 D'Arcy Road, Forestville, MD 20747",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/369928.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/forestville-animal-shelter-369928/"
+    },
+    {
+      "officeId": 371756,
+      "slug": "prince-georges-animal-shelter-371756",
+      "name": "Prince Georges Animal Shelter",
+      "address": "8311 D'Arcy Road, Forestville, MD 20747",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/371756.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/prince-georges-animal-shelter-371756/"
+    }
+  ]
+}

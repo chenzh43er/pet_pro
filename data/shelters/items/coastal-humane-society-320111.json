@@ -1,0 +1,21 @@
+{
+  "officeId": 320111,
+  "slug": "coastal-humane-society-320111",
+  "name": "Coastal Humane Society",
+  "address": "30 Range Road, Brunswick, ME 04011",
+  "street": "30 Range Road",
+  "addressCity": "Brunswick",
+  "stateCode": "ME",
+  "zip": "04011",
+  "phone": "207-725-5051",
+  "image": "./img/shelter/office/320111.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/coastal-humane-society-320111/",
+  "stateSlug": "maine",
+  "stateName": "Maine",
+  "citySlug": "brunswick",
+  "cityName": "Brunswick",
+  "cityLabel": "Brunswick, ME",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/maine/brunswick/",
+  "fetchedAt": "2026-06-27T19:01:19.965944+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/320111.jpg?f=webp&w=730"
+}

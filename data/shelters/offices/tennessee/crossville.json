@@ -1,0 +1,75 @@
+{
+  "fetchedAt": "2026-06-27T19:59:49.575358+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "crossville",
+    "name": "Crossville",
+    "label": "Crossville, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/crossville/",
+  "offices": [
+    {
+      "officeId": 426316,
+      "slug": "cumberland-county-animal-control-426316",
+      "name": "Cumberland County Animal Control",
+      "address": "96 Maryetta Street, Crossville, TN 38555",
+      "phone": "931-456-9873",
+      "image": "./img/shelter/office/426316.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cumberland-county-animal-control-426316/",
+      "imageUrl": "https://cdn.findpawpal.com/office/426316.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 437800,
+      "slug": "heaven-sent-pet-rescue-437800",
+      "name": "Heaven Sent Pet Rescue",
+      "address": "14 Eagle Circle, Crossville, TN 38558",
+      "phone": "931-484-2319",
+      "image": "./img/shelter/office/437800.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/heaven-sent-pet-rescue-437800/",
+      "imageUrl": "https://cdn.findpawpal.com/office/437800.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 460420,
+      "slug": "road-home-animal-rescue-460420",
+      "name": "Road Home Animal Rescue",
+      "address": "4586 U.s. 127, Crossville, TN 38572",
+      "phone": "931-200-1492",
+      "image": "./img/shelter/office/460420.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/road-home-animal-rescue-460420/",
+      "imageUrl": "https://cdn.findpawpal.com/office/460420.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 460660,
+      "slug": "wags-and-whiskers-pet-rescue-460660",
+      "name": "Wags and Whiskers Pet Rescue",
+      "address": "121 Creek View Drive, Crossville, TN 38555",
+      "phone": "931-788-2201",
+      "image": "./img/shelter/office/460660.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wags-and-whiskers-pet-rescue-460660/",
+      "imageUrl": "https://cdn.findpawpal.com/office/460660.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 581084,
+      "slug": "eskie-rescuers-united-581084",
+      "name": "Eskie Rescuers United",
+      "address": "199 Carter Town Road, Crossville, TN 38571",
+      "phone": "931-707-5513",
+      "image": "./img/shelter/office/581084.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/eskie-rescuers-united-581084/",
+      "imageUrl": "https://cdn.findpawpal.com/office/581084.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 685009,
+      "slug": "humane-society-of-cumberland-685009",
+      "name": "Humane Society of Cumberland",
+      "address": "PO Box 612, Crossville, TN 38557",
+      "phone": "931-484-9700",
+      "image": "./img/shelter/office/685009.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-cumberland-685009/",
+      "imageUrl": "https://cdn.findpawpal.com/office/685009.jpg?f=webp&w=730"
+    }
+  ]
+}

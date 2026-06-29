@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:32:18.279970+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "canandaigua",
+    "name": "Canandaigua",
+    "label": "Canandaigua, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/canandaigua/",
+  "offices": [
+    {
+      "officeId": 312459,
+      "slug": "ontario-humane-society-312459",
+      "name": "Ontario Humane Society",
+      "address": "2976 County House Road, Canandaigua, NY 14424",
+      "phone": "585-396-4590",
+      "image": "./img/shelter/office/312459.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ontario-humane-society-312459/",
+      "imageUrl": "https://cdn.findpawpal.com/office/312459.jpg?f=webp&w=730"
+    }
+  ]
+}

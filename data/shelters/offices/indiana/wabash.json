@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:52:17.767582+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "wabash",
+    "name": "Wabash",
+    "label": "Wabash, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/wabash/",
+  "offices": [
+    {
+      "officeId": 251734,
+      "slug": "animal-shelter-wabash-251734",
+      "name": "Animal Shelter Wabash",
+      "address": "390 Smith Street, Wabash, IN 46992",
+      "phone": "219-563-3511",
+      "image": "./img/shelter/office/251734.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-shelter-wabash-251734/",
+      "imageUrl": "https://cdn.findpawpal.com/office/251734.jpg?f=webp&w=730"
+    }
+  ]
+}

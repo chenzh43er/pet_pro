@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:46:41.951166+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "mchenry",
+    "name": "McHenry",
+    "label": "McHenry, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/mchenry/",
+  "offices": [
+    {
+      "officeId": 412165,
+      "slug": "animal-outreach-society-412165",
+      "name": "Animal Outreach Society",
+      "address": "5408 Greenbrier Drive, McHenry, IL 60050",
+      "phone": "815-385-0005",
+      "image": "./img/shelter/office/412165.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-outreach-society-412165/",
+      "imageUrl": "https://cdn.findpawpal.com/office/412165.jpg?f=webp&w=730"
+    }
+  ]
+}

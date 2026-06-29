@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T18:34:01.524860+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "divide",
+    "name": "Divide",
+    "label": "Divide, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/divide/",
+  "offices": [
+    {
+      "officeId": 40416,
+      "slug": "the-flash-and-thelma-memorial-hedgehog-rescue-40416",
+      "name": "The Flash and Thelma Memorial Hedgehog Rescue",
+      "address": "62 Aztec Circle, Divide, CO 80814",
+      "phone": "719-687-8087",
+      "image": "https://cdn.findpawpal.com/office/40416.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/the-flash-and-thelma-memorial-hedgehog-rescue-40416/"
+    },
+    {
+      "officeId": 40426,
+      "slug": "teller-county-regional-animal-40426",
+      "name": "Teller County Regional Animal",
+      "address": "308 Weaverville Road, Divide, CO 80814",
+      "phone": "719-686-7707",
+      "image": "./img/shelter/office/40426.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/teller-county-regional-animal-40426/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40426.jpg?f=webp&w=730"
+    }
+  ]
+}

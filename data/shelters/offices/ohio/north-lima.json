@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:46:04.835849+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "north-lima",
+    "name": "North Lima",
+    "label": "North Lima, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/north-lima/",
+  "offices": [
+    {
+      "officeId": 686534,
+      "slug": "its-a-ruff-life-rescue-686534",
+      "name": "It's A Ruff Life Rescue",
+      "address": "11315 Sharrott Road, North Lima, OH 44452",
+      "phone": "234-759-4100",
+      "image": "./img/shelter/office/686534.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/its-a-ruff-life-rescue-686534/",
+      "imageUrl": "https://cdn.findpawpal.com/office/686534.jpg?f=webp&w=730"
+    }
+  ]
+}

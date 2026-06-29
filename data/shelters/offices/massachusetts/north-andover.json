@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:07:33.400137+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "north-andover",
+    "name": "North Andover",
+    "label": "North Andover, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/north-andover/",
+  "offices": [
+    {
+      "officeId": 39962,
+      "slug": "animal-shelter-org-39962",
+      "name": "Animal Shelter.Org",
+      "address": "95 Lacy Street, North Andover, MA 01845",
+      "phone": "978-688-8008",
+      "image": "./img/shelter/office/39962.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-shelter-org-39962/",
+      "imageUrl": "https://cdn.findpawpal.com/office/39962.jpg?f=webp&w=730"
+    }
+  ]
+}

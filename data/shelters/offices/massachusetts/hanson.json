@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:06:28.620603+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "hanson",
+    "name": "Hanson",
+    "label": "Hanson, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/hanson/",
+  "offices": [
+    {
+      "officeId": 41806,
+      "slug": "hanson-animal-control-41806",
+      "name": "Hanson Animal Control",
+      "address": "LIBERTY St, Hanson, MA 02341",
+      "phone": "781-294-7963",
+      "image": "https://cdn.findpawpal.com/office/41806.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/hanson-animal-control-41806/"
+    }
+  ]
+}

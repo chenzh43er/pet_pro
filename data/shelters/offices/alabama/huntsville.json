@@ -1,0 +1,51 @@
+{
+  "fetchedAt": "2026-06-27T18:17:53.594712+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "huntsville",
+    "name": "Huntsville",
+    "label": "Huntsville, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/huntsville/",
+  "offices": [
+    {
+      "slug": "ark-inc-shelter-6556",
+      "name": "Ark Inc Shelter",
+      "address": "139 Bo Cole Road Northwest, Huntsville, AL 35806",
+      "phone": "256-851-4088",
+      "image": "./img/shelter/office/6556.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ark-inc-shelter-6556/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6556.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "huntsville-animal-control-center-6563",
+      "name": "Huntsville Animal Control Center",
+      "address": "4950 Triana Boulevard Southwest, Huntsville, AL 35805",
+      "phone": "256-883-3782",
+      "image": "./img/shelter/office/6563.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/huntsville-animal-control-center-6563/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6563.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greater-huntsville-humane-society-6568",
+      "name": "Greater Huntsville Humane Society",
+      "address": "2812 Johnson Road Southwest, Huntsville, AL 35805",
+      "phone": "256-881-8081",
+      "image": "./img/shelter/office/6568.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greater-huntsville-humane-society-6568/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6568.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "madison-county-animal-control-6962",
+      "name": "Madison County Animal Control",
+      "address": "3210 South Hi Lo Circle Northeast, Huntsville, AL 35811",
+      "phone": "256-532-1519",
+      "image": "./img/shelter/office/6962.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/madison-county-animal-control-6962/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6962.jpg?f=webp&w=730"
+    }
+  ]
+}

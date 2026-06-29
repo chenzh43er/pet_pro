@@ -1,0 +1,21 @@
+{
+  "officeId": 214014,
+  "slug": "pitt-county-animal-shelter-214014",
+  "name": "Pitt County Animal Shelter",
+  "address": "1825 West 5th Street, Greenville, NC 27834",
+  "street": "1825 West 5th Street",
+  "addressCity": "Greenville",
+  "stateCode": "NC",
+  "zip": "27834",
+  "phone": "252-830-4387",
+  "image": "./img/shelter/office/214014.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pitt-county-animal-shelter-214014/",
+  "stateSlug": "north-carolina",
+  "stateName": "North Carolina",
+  "citySlug": "greenville",
+  "cityName": "Greenville",
+  "cityLabel": "Greenville, NC",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/north-carolina/greenville/",
+  "fetchedAt": "2026-06-27T19:39:27.914931+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/214014.jpg?f=webp&w=730"
+}

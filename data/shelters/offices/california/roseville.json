@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:29:59.940209+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "roseville",
+    "name": "Roseville",
+    "label": "Roseville, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/roseville/",
+  "offices": [
+    {
+      "slug": "placer-spca-361365",
+      "name": "Placer SPCA",
+      "address": "150 Corporation Yard Road, Roseville, CA 95678",
+      "phone": "916-782-7722",
+      "image": "./img/shelter/office/361365.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/placer-spca-361365/",
+      "imageUrl": "https://cdn.findpawpal.com/office/361365.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "roseville-city-animal-control-363573",
+      "name": "Roseville City Animal Control",
+      "address": "1051 Junction Boulevard, Roseville, CA 95678",
+      "phone": "916-774-5090",
+      "image": "./img/shelter/office/363573.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/roseville-city-animal-control-363573/",
+      "imageUrl": "https://cdn.findpawpal.com/office/363573.jpg?f=webp&w=730"
+    }
+  ]
+}

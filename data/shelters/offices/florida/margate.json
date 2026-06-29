@@ -1,0 +1,42 @@
+{
+  "fetchedAt": "2026-06-27T18:15:34.084072+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "margate",
+    "name": "Margate",
+    "label": "Margate, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/margate/",
+  "offices": [
+    {
+      "slug": "cats-exclusive-inc-272367",
+      "name": "Cats Exclusive Inc.",
+      "address": "6350 West Atlantic Boulevard, Margate, FL 33063",
+      "phone": "954-975-8349",
+      "image": "./img/shelter/office/272367.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cats-exclusive-inc-272367/",
+      "imageUrl": "https://cdn.findpawpal.com/office/272367.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kazs-corner-pet-rescue-283940",
+      "name": "Kaz's Corner Pet Rescue",
+      "address": "6982 Northwest 19th Street, Margate, FL 33063",
+      "phone": "954-605-0923",
+      "image": "./img/shelter/office/283940.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kazs-corner-pet-rescue-283940/",
+      "imageUrl": "https://cdn.findpawpal.com/office/283940.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "duck-haven-358663",
+      "name": "Duck Haven",
+      "address": "2627 Northwest 61st Avenue, Margate, FL 33063",
+      "phone": "954-979-5044",
+      "image": "./img/shelter/office/358663.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/duck-haven-358663/",
+      "imageUrl": "https://cdn.findpawpal.com/office/358663.jpg?f=webp&w=730"
+    }
+  ]
+}

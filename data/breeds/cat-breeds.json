@@ -1,0 +1,716 @@
+[
+  {
+    "slug": "abyssinian",
+    "name": "Abyssinian",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/abyssinian/",
+    "path": "/cat-breed/abyssinian/",
+    "features": [
+      "Western",
+      "Medium"
+    ],
+    "alt": "Abyssinian",
+    "listImage": "./img/breed/abyssinian.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/abyssinian.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "american-bobtail",
+    "name": "American Bobtail",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/american-bobtail/",
+    "path": "/cat-breed/american-bobtail/",
+    "features": [
+      "Other",
+      "Medium-to-Large"
+    ],
+    "alt": "American Bobtail",
+    "listImage": "./img/breed/american-bobtail.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/american-bobtail.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "american-curl",
+    "name": "American Curl",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/american-curl/",
+    "path": "/cat-breed/american-curl/",
+    "features": [
+      "Other",
+      "Medium"
+    ],
+    "alt": "American Curl",
+    "listImage": "./img/breed/american-curl.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/american-curl.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "american-shorthair",
+    "name": "American Shorthair",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/american-shorthair/",
+    "path": "/cat-breed/american-shorthair/",
+    "features": [
+      "Western",
+      "Medium"
+    ],
+    "alt": "American Shorthair",
+    "listImage": "./img/breed/american-shorthair.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/american-shorthair.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "american-wirehair",
+    "name": "American Wirehair",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/american-wirehair/",
+    "path": "/cat-breed/american-wirehair/",
+    "features": [
+      "Other",
+      "Medium"
+    ],
+    "alt": "American Wirehair",
+    "listImage": "./img/breed/american-wirehair.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/american-wirehair.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "balinese",
+    "name": "Balinese",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/balinese/",
+    "path": "/cat-breed/balinese/",
+    "features": [
+      "Other",
+      "Medium"
+    ],
+    "alt": "Balinese",
+    "listImage": "./img/breed/balinese.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/balinese.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "bengal",
+    "name": "Bengal",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/bengal/",
+    "path": "/cat-breed/bengal/",
+    "features": [
+      "Exotic",
+      "Medium-to-Large"
+    ],
+    "alt": "Bengal",
+    "listImage": "./img/breed/bengal.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/bengal.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "birman",
+    "name": "Birman",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/birman/",
+    "path": "/cat-breed/birman/",
+    "features": [
+      "Eastern",
+      "Medium-to-Large"
+    ],
+    "alt": "Birman",
+    "listImage": "./img/breed/birman.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/birman.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "bombay",
+    "name": "Bombay",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/bombay/",
+    "path": "/cat-breed/bombay/",
+    "features": [
+      "Western",
+      "Medium"
+    ],
+    "alt": "Bombay",
+    "listImage": "./img/breed/bombay.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/bombay.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "british-longhair",
+    "name": "British Longhair",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/british-longhair/",
+    "path": "/cat-breed/british-longhair/",
+    "features": [
+      "Western",
+      "Medium-to-Large"
+    ],
+    "alt": "British Longhair",
+    "listImage": "./img/breed/british-longhair.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/british-longhair.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "british-shorthair",
+    "name": "British Shorthair",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/british-shorthair/",
+    "path": "/cat-breed/british-shorthair/",
+    "features": [
+      "Western",
+      "Medium-to-Large"
+    ],
+    "alt": "British Shorthair",
+    "listImage": "./img/breed/british-shorthair.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/british-shorthair.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "burmese",
+    "name": "Burmese",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/burmese/",
+    "path": "/cat-breed/burmese/",
+    "features": [
+      "Eastern",
+      "Medium-to-Large"
+    ],
+    "alt": "Burmese",
+    "listImage": "./img/breed/burmese.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/burmese.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "burmilla",
+    "name": "Burmilla",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/burmilla/",
+    "path": "/cat-breed/burmilla/",
+    "features": [
+      "Other",
+      "Medium"
+    ],
+    "alt": "Burmilla",
+    "listImage": "./img/breed/burmilla.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/burmilla.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "chartreux",
+    "name": "Chartreux",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/chartreux/",
+    "path": "/cat-breed/chartreux/",
+    "features": [
+      "Other",
+      "Medium-to-Large"
+    ],
+    "alt": "Chartreux",
+    "listImage": "./img/breed/chartreux.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/chartreux.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "cornish-rex",
+    "name": "Cornish Rex",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/cornish-rex/",
+    "path": "/cat-breed/cornish-rex/",
+    "features": [
+      "Western",
+      "Small"
+    ],
+    "alt": "Cornish Rex",
+    "listImage": "./img/breed/cornish-rex.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/cornish-rex.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "devon-rex",
+    "name": "Devon Rex",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/devon-rex/",
+    "path": "/cat-breed/devon-rex/",
+    "features": [
+      "Other",
+      "Small-to-Medium"
+    ],
+    "alt": "Devon Rex",
+    "listImage": "./img/breed/devon-rex.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/devon-rex.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "egyptian-mau",
+    "name": "Egyptian Mau",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/egyptian-mau/",
+    "path": "/cat-breed/egyptian-mau/",
+    "features": [
+      "Exotic",
+      "Medium"
+    ],
+    "alt": "Egyptian Mau",
+    "listImage": "./img/breed/egyptian-mau.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/egyptian-mau.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "european-shorthair",
+    "name": "European Shorthair",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/european-shorthair/",
+    "path": "/cat-breed/european-shorthair/",
+    "features": [
+      "Other",
+      "Medium-to-Large"
+    ],
+    "alt": "European Shorthair",
+    "listImage": "./img/breed/european-shorthair.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/european-shorthair.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "exotic-shorthair",
+    "name": "Exotic Shorthair",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/exotic-shorthair/",
+    "path": "/cat-breed/exotic-shorthair/",
+    "features": [
+      "Persian",
+      "Medium"
+    ],
+    "alt": "Exotic Shorthair",
+    "listImage": "./img/breed/exotic-shorthair.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/exotic-shorthair.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "himalayan",
+    "name": "Himalayan/Colorpoint Persian",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/himalayan/",
+    "path": "/cat-breed/himalayan/",
+    "features": [
+      "Persian",
+      "Medium"
+    ],
+    "alt": "Himalayan/Colorpoint Persian",
+    "listImage": "./img/breed/himalayan.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/himalayan.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "japanese-bobtail",
+    "name": "Japanese Bobtail",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/japanese-bobtail/",
+    "path": "/cat-breed/japanese-bobtail/",
+    "features": [
+      "Other",
+      "Medium"
+    ],
+    "alt": "Japanese Bobtail",
+    "listImage": "./img/breed/japanese-bobtail.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/japanese-bobtail.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "khao-manee",
+    "name": "Khao Manee",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/khao-manee/",
+    "path": "/cat-breed/khao-manee/",
+    "features": [
+      "Eastern",
+      "Medium"
+    ],
+    "alt": "Khao Manee",
+    "listImage": "./img/breed/khao-manee.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/khao-manee.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "korat",
+    "name": "Korat",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/korat/",
+    "path": "/cat-breed/korat/",
+    "features": [
+      "Other",
+      "Medium"
+    ],
+    "alt": "Korat",
+    "listImage": "./img/breed/korat.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/korat.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "laperm",
+    "name": "LaPerm",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/laperm/",
+    "path": "/cat-breed/laperm/",
+    "features": [
+      "Other",
+      "Small-to-Medium"
+    ],
+    "alt": "LaPerm",
+    "listImage": "./img/breed/laperm.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/laperm.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "lykoi",
+    "name": "Lykoi",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/lykoi/",
+    "path": "/cat-breed/lykoi/",
+    "features": [
+      "Western",
+      "Medium"
+    ],
+    "alt": "Lykoi",
+    "listImage": "./img/breed/lykoi.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/lykoi.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "maine-coon",
+    "name": "Maine Coon",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/maine-coon/",
+    "path": "/cat-breed/maine-coon/",
+    "features": [
+      "Western",
+      "Large"
+    ],
+    "alt": "Maine Coon",
+    "listImage": "./img/breed/maine-coon.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/maine-coon.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "manx",
+    "name": "Manx",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/manx/",
+    "path": "/cat-breed/manx/",
+    "features": [
+      "Other",
+      "Medium-to-Large"
+    ],
+    "alt": "Manx",
+    "listImage": "./img/breed/manx.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/manx.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "munchkin",
+    "name": "Munchkin",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/munchkin/",
+    "path": "/cat-breed/munchkin/",
+    "features": [
+      "Western",
+      "Medium"
+    ],
+    "alt": "Munchkin",
+    "listImage": "./img/breed/munchkin.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/munchkin.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "nebelung",
+    "name": "Nebelung",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/nebelung/",
+    "path": "/cat-breed/nebelung/",
+    "features": [
+      "Other",
+      "Medium"
+    ],
+    "alt": "Nebelung",
+    "listImage": "./img/breed/nebelung.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/nebelung.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "norwegian-forest-cat",
+    "name": "Norwegian Forest Cat",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/norwegian-forest-cat/",
+    "path": "/cat-breed/norwegian-forest-cat/",
+    "features": [
+      "Western",
+      "Medium"
+    ],
+    "alt": "Norwegian Forest Cat",
+    "listImage": "./img/breed/norwegian-forest-cat.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/norwegian-forest-cat.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "ocicat",
+    "name": "Ocicat",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/ocicat/",
+    "path": "/cat-breed/ocicat/",
+    "features": [
+      "Other",
+      "Medium-to-Large"
+    ],
+    "alt": "Ocicat",
+    "listImage": "./img/breed/ocicat.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/ocicat.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "oriental-shorthair",
+    "name": "Oriental Shorthair",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/oriental-shorthair/",
+    "path": "/cat-breed/oriental-shorthair/",
+    "features": [
+      "Eastern",
+      "Medium"
+    ],
+    "alt": "Oriental Shorthair",
+    "listImage": "./img/breed/oriental-shorthair.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/oriental-shorthair.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "persian",
+    "name": "Persian",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/persian/",
+    "path": "/cat-breed/persian/",
+    "features": [
+      "Persian",
+      "Medium"
+    ],
+    "alt": "Persian",
+    "listImage": "./img/breed/persian.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/persian.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "peterbald",
+    "name": "Peterbald",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/peterbald/",
+    "path": "/cat-breed/peterbald/",
+    "features": [
+      "Eastern",
+      "Medium"
+    ],
+    "alt": "Peterbald",
+    "listImage": "./img/breed/peterbald.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/peterbald.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "pixie-bob",
+    "name": "Pixie-bob",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/pixie-bob/",
+    "path": "/cat-breed/pixie-bob/",
+    "features": [
+      "Other",
+      "Medium-to-Large"
+    ],
+    "alt": "Pixie-bob",
+    "listImage": "./img/breed/pixie-bob.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/pixie-bob.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "ragamuffin",
+    "name": "Ragamuffin",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/ragamuffin/",
+    "path": "/cat-breed/ragamuffin/",
+    "features": [
+      "Western",
+      "Large"
+    ],
+    "alt": "Ragamuffin",
+    "listImage": "./img/breed/ragamuffin.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/ragamuffin.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "ragdoll",
+    "name": "Ragdoll",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/ragdoll/",
+    "path": "/cat-breed/ragdoll/",
+    "features": [
+      "Western",
+      "Large"
+    ],
+    "alt": "Ragdoll",
+    "listImage": "./img/breed/ragdoll.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/ragdoll.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "russian-blue",
+    "name": "Russian Blue",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/russian-blue/",
+    "path": "/cat-breed/russian-blue/",
+    "features": [
+      "Western",
+      "Medium"
+    ],
+    "alt": "Russian Blue",
+    "listImage": "./img/breed/russian-blue.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/russian-blue.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "savannah",
+    "name": "Savannah",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/savannah/",
+    "path": "/cat-breed/savannah/",
+    "features": [
+      "Exotic",
+      "Medium-to-Large"
+    ],
+    "alt": "Savannah",
+    "listImage": "./img/breed/savannah.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/savannah.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "scottish-fold",
+    "name": "Scottish Fold (Highland Fold)",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/scottish-fold/",
+    "path": "/cat-breed/scottish-fold/",
+    "features": [
+      "Western",
+      "Medium"
+    ],
+    "alt": "Scottish Fold (Highland Fold)",
+    "listImage": "./img/breed/scottish-fold.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/scottish-fold.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "selkirk-rex",
+    "name": "Selkirk Rex",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/selkirk-rex/",
+    "path": "/cat-breed/selkirk-rex/",
+    "features": [
+      "Other",
+      "Medium-to-Large"
+    ],
+    "alt": "Selkirk Rex",
+    "listImage": "./img/breed/selkirk-rex.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/selkirk-rex.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "siamese",
+    "name": "Siamese",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/siamese/",
+    "path": "/cat-breed/siamese/",
+    "features": [
+      "Eastern",
+      "Medium-to-Large"
+    ],
+    "alt": "Siamese",
+    "listImage": "./img/breed/siamese.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/siamese.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "siberian",
+    "name": "Siberian",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/siberian/",
+    "path": "/cat-breed/siberian/",
+    "features": [
+      "Western",
+      "Medium-to-Large"
+    ],
+    "alt": "Siberian",
+    "listImage": "./img/breed/siberian.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/siberian.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "singapura",
+    "name": "Singapura",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/singapura/",
+    "path": "/cat-breed/singapura/",
+    "features": [
+      "Eastern",
+      "Small"
+    ],
+    "alt": "Singapura",
+    "listImage": "./img/breed/singapura.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/singapura.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "snowshoe",
+    "name": "Snowshoe",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/snowshoe/",
+    "path": "/cat-breed/snowshoe/",
+    "features": [
+      "Other",
+      "Medium"
+    ],
+    "alt": "Snowshoe",
+    "listImage": "./img/breed/snowshoe.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/snowshoe.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "somali",
+    "name": "Somali",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/somali/",
+    "path": "/cat-breed/somali/",
+    "features": [
+      "Other",
+      "Medium"
+    ],
+    "alt": "Somali",
+    "listImage": "./img/breed/somali.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/somali.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "sphynx",
+    "name": "Sphynx",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/sphynx/",
+    "path": "/cat-breed/sphynx/",
+    "features": [
+      "Other",
+      "Medium"
+    ],
+    "alt": "Sphynx",
+    "listImage": "./img/breed/sphynx.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/sphynx.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "tonkinese",
+    "name": "Tonkinese",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/tonkinese/",
+    "path": "/cat-breed/tonkinese/",
+    "features": [
+      "Eastern",
+      "Medium"
+    ],
+    "alt": "Tonkinese",
+    "listImage": "./img/breed/tonkinese.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/tonkinese.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "toyger",
+    "name": "Toyger",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/toyger/",
+    "path": "/cat-breed/toyger/",
+    "features": [
+      "Other",
+      "Medium-to-Large"
+    ],
+    "alt": "Toyger",
+    "listImage": "./img/breed/toyger.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/toyger.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "turkish-angora",
+    "name": "Turkish Angora",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/turkish-angora/",
+    "path": "/cat-breed/turkish-angora/",
+    "features": [
+      "Western",
+      "Medium"
+    ],
+    "alt": "Turkish Angora",
+    "listImage": "./img/breed/turkish-angora.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/turkish-angora.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "turkish-van",
+    "name": "Turkish Van",
+    "type": "cat",
+    "url": "https://www.findpawpal.com/cat-breed/turkish-van/",
+    "path": "/cat-breed/turkish-van/",
+    "features": [
+      "Western",
+      "Large"
+    ],
+    "alt": "Turkish Van",
+    "listImage": "./img/breed/turkish-van.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/turkish-van.jpg?f=webp&w=320"
+  }
+]

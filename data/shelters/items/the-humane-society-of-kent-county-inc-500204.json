@@ -1,0 +1,21 @@
+{
+  "officeId": 500204,
+  "slug": "the-humane-society-of-kent-county-inc-500204",
+  "name": "The Humane Society of Kent County, Inc.",
+  "address": "10720 Augustine Herman Highway, Chestertown, MD 21620",
+  "street": "10720 Augustine Herman Highway",
+  "addressCity": "Chestertown",
+  "stateCode": "MD",
+  "zip": "21620",
+  "phone": "410-778-3648",
+  "image": "./img/shelter/office/500204.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/the-humane-society-of-kent-county-inc-500204/",
+  "stateSlug": "maryland",
+  "stateName": "Maryland",
+  "citySlug": "chestertown",
+  "cityName": "Chestertown",
+  "cityLabel": "Chestertown, MD",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/maryland/chestertown/",
+  "fetchedAt": "2026-06-27T19:03:10.159694+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/500204.jpg?f=webp&w=730"
+}

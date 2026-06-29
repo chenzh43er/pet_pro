@@ -1,0 +1,52 @@
+{
+  "fetchedAt": "2026-06-27T18:50:58.661202+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "michigan",
+    "name": "Michigan",
+    "label": "Michigan, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/michigan/",
+  "offices": [
+    {
+      "officeId": 200603,
+      "slug": "michiana-humane-society-and-spca-200603",
+      "name": "Michiana Humane Society & Spca",
+      "address": "722 Highway 212, Michigan, IN 46360",
+      "phone": "219-872-4499",
+      "image": "https://cdn.findpawpal.com/office/200603.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/michiana-humane-society-and-spca-200603/"
+    },
+    {
+      "officeId": 215261,
+      "slug": "safe-haven-cat-shelter-215261",
+      "name": "Safe Haven Cat Shelter",
+      "address": "509 Highway 212, Michigan, IN 46360",
+      "phone": "219-879-5778",
+      "image": "https://cdn.findpawpal.com/office/215261.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/safe-haven-cat-shelter-215261/"
+    },
+    {
+      "officeId": 219438,
+      "slug": "michigan-city-animal-control-219438",
+      "name": "Michigan City Animal Control",
+      "address": "1801 Kentucky Street, Michigan, IN 46360",
+      "phone": "219-873-1500",
+      "image": "./img/shelter/office/219438.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan-city-animal-control-219438/",
+      "imageUrl": "https://cdn.findpawpal.com/office/219438.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 253373,
+      "slug": "frieds-cat-shelter-inc-253373",
+      "name": "Fried's Cat Shelter Inc",
+      "address": "509 Highway 212, Michigan, IN 46360",
+      "phone": "219-874-6932",
+      "image": "https://cdn.findpawpal.com/office/253373.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/frieds-cat-shelter-inc-253373/"
+    }
+  ]
+}

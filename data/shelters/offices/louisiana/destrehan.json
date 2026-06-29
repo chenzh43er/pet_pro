@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:59:30.994722+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "destrehan",
+    "name": "Destrehan",
+    "label": "Destrehan, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/destrehan/",
+  "offices": [
+    {
+      "officeId": 281846,
+      "slug": "st-charles-humane-society-281846",
+      "name": "St. Charles Humane Society",
+      "address": "PO Box 240, Destrehan, LA 70047",
+      "phone": "985-785-9136",
+      "image": "./img/shelter/office/281846.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/st-charles-humane-society-281846/",
+      "imageUrl": "https://cdn.findpawpal.com/office/281846.jpg?f=webp&w=730"
+    }
+  ]
+}

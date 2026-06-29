@@ -1,0 +1,51 @@
+{
+  "fetchedAt": "2026-06-27T18:15:56.290535+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "naples",
+    "name": "Naples",
+    "label": "Naples, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/naples/",
+  "offices": [
+    {
+      "slug": "humane-society-of-collier-county-272859",
+      "name": "Humane Society of Collier County",
+      "address": "370 Airport Pulling Road North, Naples, FL 34104",
+      "phone": "941-643-1555",
+      "image": "./img/shelter/office/272859.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-collier-county-272859/",
+      "imageUrl": "https://cdn.findpawpal.com/office/272859.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "collier-county-domestic-animal-services-285767",
+      "name": "Collier County Domestic Animal Services",
+      "address": "7610 Davis Boulevard, Naples, FL 34104",
+      "phone": "239-252-7387",
+      "image": "./img/shelter/office/285767.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/collier-county-domestic-animal-services-285767/",
+      "imageUrl": "https://cdn.findpawpal.com/office/285767.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "golden-retriever-rescue-of-southwest-florida-inc-285776",
+      "name": "Golden Retriever Rescue of Southwest Florida, Inc.",
+      "address": "PO Box 110987, Naples, FL 34108",
+      "phone": "941-650-5363",
+      "image": "./img/shelter/office/285776.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/golden-retriever-rescue-of-southwest-florida-inc-285776/",
+      "imageUrl": "https://cdn.findpawpal.com/office/285776.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "naples-animal-control-326306",
+      "name": "Naples Animal Control",
+      "address": "6017 Pine Ridge Road, Naples, FL 34119",
+      "phone": "239-290-6274",
+      "image": "./img/shelter/office/326306.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/naples-animal-control-326306/",
+      "imageUrl": "https://cdn.findpawpal.com/office/326306.jpg?f=webp&w=730"
+    }
+  ]
+}

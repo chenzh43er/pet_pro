@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:28:09.810563+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "paterson",
+    "name": "Paterson",
+    "label": "Paterson, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/paterson/",
+  "offices": [
+    {
+      "officeId": 100503,
+      "slug": "paterson-pound-100503",
+      "name": "Paterson Pound",
+      "address": "44 Ryle Road, Paterson, NJ 07522",
+      "phone": "973-881-3540",
+      "image": "./img/shelter/office/100503.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/paterson-pound-100503/",
+      "imageUrl": "https://cdn.findpawpal.com/office/100503.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 105114,
+      "slug": "paterson-animal-control-105114",
+      "name": "Paterson Animal Control",
+      "address": "44 Ryle Road, Paterson, NJ 07522",
+      "phone": "973-881-3640",
+      "image": "./img/shelter/office/105114.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/paterson-animal-control-105114/",
+      "imageUrl": "https://cdn.findpawpal.com/office/105114.jpg?f=webp&w=730"
+    }
+  ]
+}

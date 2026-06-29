@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:59:59.184318+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "kenner",
+    "name": "Kenner",
+    "label": "Kenner, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/kenner/",
+  "offices": [
+    {
+      "officeId": 288189,
+      "slug": "animal-havens-league-288189",
+      "name": "Animal Havens League",
+      "address": "2201 Colorado Avenue, Kenner, LA 70062",
+      "phone": "",
+      "image": "./img/shelter/office/288189.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-havens-league-288189/",
+      "imageUrl": "https://cdn.findpawpal.com/office/288189.jpg?f=webp&w=730"
+    }
+  ]
+}

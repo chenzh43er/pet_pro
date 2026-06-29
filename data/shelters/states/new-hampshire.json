@@ -1,0 +1,482 @@
+{
+  "stateSlug": "new-hampshire",
+  "count": 68,
+  "shelters": [
+    {
+      "slug": "mountainview-shih-tzu-rescue-43636",
+      "name": "Mountainview Shih Tzu Rescue",
+      "address": "2308 Washburn Road, Alexandria, NH 03222",
+      "phone": "603-532-0335",
+      "image": "https://cdn.findpawpal.com/office/43636.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "atkinson-animal-control-44118",
+      "name": "Atkinson Animal Control",
+      "address": "177 Main Street, Atkinson, NH 03811",
+      "phone": "603-362-4739",
+      "image": "https://cdn.findpawpal.com/office/44118.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-league-of-nh-43844",
+      "name": "Animal Rescue League of NH",
+      "address": "545 Route 101, Bedford, NH 03110",
+      "phone": "603-472-3647",
+      "image": "https://cdn.findpawpal.com/office/43844.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bedford-animal-control-44167",
+      "name": "Bedford Animal Control",
+      "address": "545 New Hampshire 101, Bedford, NH 03110",
+      "phone": "603-472-3647",
+      "image": "https://cdn.findpawpal.com/office/44167.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bedford-animal-shelter-43724",
+      "name": "Bedford Animal Shelter",
+      "address": "Route 101 W, Bedford, NH 03104",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/43724.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mount-washington-humane-society-43585",
+      "name": "Mount Washington Humane Society",
+      "address": "95 Main Street, Berlin, NH 03570",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/43585.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "white-mountain-animal-league-43779",
+      "name": "White Mountain Animal League",
+      "address": "RFD 1, Box 187, Bethlehem, NH 03574",
+      "phone": "603-869-2080",
+      "image": "https://cdn.findpawpal.com/office/43779.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "collie-rescue-league-of-new-england-43625",
+      "name": "Collie Rescue League of New England",
+      "address": "Rr 1, Box 197, Canaan, NH 03741",
+      "phone": "781-523-8247",
+      "image": "https://cdn.findpawpal.com/office/43625.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greyhound-placement-service-43838",
+      "name": "Greyhound Placement Service",
+      "address": "12 Donovan Road, Candia, NH 03034",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/43838.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "river-valley-animal-control-44178",
+      "name": "River Valley Animal Control",
+      "address": "60 Cummings Avenue, Charlestown, NH 03603",
+      "phone": "603-826-3061",
+      "image": "https://cdn.findpawpal.com/office/44178.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "river-valley-animal-protection-lg-44017",
+      "name": "River Valley Animal Protection Lg",
+      "address": "60 Cummings Avenue, Charlestown, NH 03603",
+      "phone": "603-826-3061",
+      "image": "https://cdn.findpawpal.com/office/44017.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chester-animal-control-44151",
+      "name": "Chester Animal Control",
+      "address": "84 Chester Street, Chester, NH 03036",
+      "phone": "603-887-2090",
+      "image": "https://cdn.findpawpal.com/office/44151.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "live-and-let-live-farm-44183",
+      "name": "Live and Let Live Farm",
+      "address": "20 Paradice Lane, Chichester, NH 03258",
+      "phone": "603-798-5615",
+      "image": "https://cdn.findpawpal.com/office/44183.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "claremont-spca-44211",
+      "name": "Claremont SPCA",
+      "address": "Westclaremont Rd, Claremont, NH 03743",
+      "phone": "603-542-4531",
+      "image": "https://cdn.findpawpal.com/office/44211.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "north-country-humane-society-47300",
+      "name": "North Country Humane Society",
+      "address": "60 Pleasant Street, Colebrook, NH 03576",
+      "phone": "603-237-4385",
+      "image": "https://cdn.findpawpal.com/office/47300.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "caribbean-animal-welfare-initiative-the-pegasus-foundation-44079",
+      "name": "Caribbean Animal Welfare Initiative - the Pegasus Foundation",
+      "address": "27 Merrimack Street, Concord, NH 03301",
+      "phone": "603-225-3918",
+      "image": "https://cdn.findpawpal.com/office/44079.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "concord-spca-47545",
+      "name": "Concord SPCA",
+      "address": "130 Washington Street, Concord, NH 03303",
+      "phone": "603-753-6751",
+      "image": "https://cdn.findpawpal.com/office/47545.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "conway-animal-control-44082",
+      "name": "Conway Animal Control",
+      "address": "223 East Main Street, Conway, NH 03818",
+      "phone": "603-447-5955",
+      "image": "https://cdn.findpawpal.com/office/44082.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "conway-area-humane-society-43583",
+      "name": "Conway Area Humane Society",
+      "address": "223 East Main Street, Conway, NH 03818",
+      "phone": "603-447-5955",
+      "image": "https://cdn.findpawpal.com/office/43583.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "eastern-slopes-animal-welfare-league-47674",
+      "name": "Eastern Slopes Animal Welfare League",
+      "address": "256 Allard Hill Road, Conway, NH 03818",
+      "phone": "603-356-5538",
+      "image": "https://cdn.findpawpal.com/office/47674.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "derry-animal-control-47670",
+      "name": "Derry Animal Control",
+      "address": "14 Manning Street, Derry, NH 03038",
+      "phone": "603-432-6143",
+      "image": "https://cdn.findpawpal.com/office/47670.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cocheco-valley-humane-society-47685",
+      "name": "Cocheco Valley Humane Society",
+      "address": "262 County Farm Road, Dover, NH 03820",
+      "phone": "603-749-5322",
+      "image": "https://cdn.findpawpal.com/office/47685.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dover-animal-control-44234",
+      "name": "Dover Animal Control",
+      "address": "46 Locust Street, Dover, NH 03820",
+      "phone": "603-742-4646",
+      "image": "https://cdn.findpawpal.com/office/44234.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greater-derry-humane-society-43893",
+      "name": "Greater Derry Humane Society",
+      "address": "PO Box 142, East Derry, NH 03041",
+      "phone": "603-434-1512",
+      "image": "https://cdn.findpawpal.com/office/43893.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "therapuppy-com-43884",
+      "name": "Therapuppy.Com",
+      "address": "PO Box 194, East Derry, NH 03041",
+      "phone": "603-895-4840",
+      "image": "https://cdn.findpawpal.com/office/43884.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "upper-valley-humane-society-43654",
+      "name": "Upper Valley Humane Society",
+      "address": "300 Old Route 10, Enfield, NH 03748",
+      "phone": "603-448-6888",
+      "image": "https://cdn.findpawpal.com/office/43654.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "equine-protection-of-north-america-47390",
+      "name": "Equine Protection of North America",
+      "address": "PO Box 315, Epping, NH 03042",
+      "phone": "603-679-1896",
+      "image": "https://cdn.findpawpal.com/office/47390.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-hampshire-animal-control-association-44146",
+      "name": "New Hampshire Animal Control Association",
+      "address": "38 Glen Street, Farmington, NH 03835",
+      "phone": "603-755-3631",
+      "image": "https://cdn.findpawpal.com/office/44146.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pampered-paws-sanctuary-44164",
+      "name": "Pampered Paws Sanctuary",
+      "address": "5 Deer Cove Circle, Farmington, NH 03835",
+      "phone": "603-755-1091",
+      "image": "https://cdn.findpawpal.com/office/44164.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "turtle-rock-rescue-inc-43716",
+      "name": "Turtle Rock Rescue, Inc.",
+      "address": "PO Box 476, Fitzwilliam, NH 03447",
+      "phone": "603-585-9995",
+      "image": "https://cdn.findpawpal.com/office/43716.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "franklin-animal-shelter-44108",
+      "name": "Franklin Animal Shelter",
+      "address": "71 Punch Brook Rd, Franklin, NH 03235",
+      "phone": "603-934-4132",
+      "image": "https://cdn.findpawpal.com/office/44108.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "franklin-animal-shelter-44303",
+      "name": "Franklin Animal Shelter",
+      "address": "71 Punchbrook Rd, Franklin, NH 03235",
+      "phone": "603-934-4132",
+      "image": "https://cdn.findpawpal.com/office/44303.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cocker-spaniel-rescue-of-new-england-43886",
+      "name": "Cocker Spaniel Rescue of New England",
+      "address": "PO Box 162, Greenfield, NH 03047",
+      "phone": "603-547-3363",
+      "image": "https://cdn.findpawpal.com/office/43886.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "seacoast-area-feline-education-and-rescue-inc-47341",
+      "name": "Seacoast Area Feline Education and Rescue, Inc.",
+      "address": "PO Box 1531, Hampton, NH 03843",
+      "phone": "603-929-4975",
+      "image": "https://cdn.findpawpal.com/office/47341.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bare-paws-rescue-43574",
+      "name": "Bare Paws Rescue",
+      "address": "PO Box 7193, Laconia, NH 03247",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/43574.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "laconia-animal-control-44187",
+      "name": "Laconia Animal Control",
+      "address": "126 New Salem Street, Laconia, NH 03246",
+      "phone": "603-524-5252",
+      "image": "https://cdn.findpawpal.com/office/44187.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-hampshire-humane-society-44219",
+      "name": "New Hampshire Humane Society",
+      "address": "1305 Meredith Center Road, Laconia, NH 03246",
+      "phone": "603-524-3252",
+      "image": "https://cdn.findpawpal.com/office/44219.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lancaster-humane-society-43881",
+      "name": "Lancaster Humane Society",
+      "address": "62 Martin Meadow Pond Road, Lancaster, NH 03584",
+      "phone": "603-788-4500",
+      "image": "https://cdn.findpawpal.com/office/43881.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "above-the-notch-humane-society-43785",
+      "name": "Above the Notch Humane Society",
+      "address": "1985 Saint Johnsbury Road, Littleton, NH 03561",
+      "phone": "603-444-6285",
+      "image": "https://cdn.findpawpal.com/office/43785.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-animal-rescue-43645",
+      "name": "Second Chance Animal Rescue",
+      "address": "1517 Meadow Street, Littleton, NH 03561",
+      "phone": "603-259-3244",
+      "image": "https://cdn.findpawpal.com/office/43645.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "londonderry-animal-control-44262",
+      "name": "Londonderry Animal Control",
+      "address": "268 Mammoth Road, Londonderry, NH 03053",
+      "phone": "603-432-1138",
+      "image": "https://cdn.findpawpal.com/office/44262.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-allies-47176",
+      "name": "Animal Allies",
+      "address": "PO Box 693, Manchester, NH 03105",
+      "phone": "603-228-6755",
+      "image": "https://cdn.findpawpal.com/office/47176.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "manchester-animal-control-44043",
+      "name": "Manchester Animal Control",
+      "address": "490 Dunbarton Road, Manchester, NH 03102",
+      "phone": "603-628-6130",
+      "image": "https://cdn.findpawpal.com/office/44043.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "manchester-animal-shelter-43817",
+      "name": "Manchester Animal Shelter",
+      "address": "490 Dunbarton Road, Manchester, NH 03102",
+      "phone": "603-628-3544",
+      "image": "https://cdn.findpawpal.com/office/43817.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "manchester-animal-shelter-43934",
+      "name": "Manchester Animal Shelter",
+      "address": "365 Dunbarton Road, Manchester, NH 03102",
+      "phone": "603-628-3544",
+      "image": "https://cdn.findpawpal.com/office/43934.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ferret-wise-education-and-rehabilitation-center-43737",
+      "name": "Ferret Wise, Education & Rehabilitation Center",
+      "address": "PO Box 561, Marlborough, NH 03455",
+      "phone": "603-876-4975",
+      "image": "https://cdn.findpawpal.com/office/43737.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-for-greater-nashua-43695",
+      "name": "Humane Society for Greater Nashua",
+      "address": "24 Ferry Road, Nashua, NH 03064",
+      "phone": "603-889-2275",
+      "image": "https://cdn.findpawpal.com/office/43695.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-hampshire-equine-humane-association-43694",
+      "name": "New Hampshire Equine Humane Association",
+      "address": "PO Box 385, New Ipswich, NH 03071",
+      "phone": "603-878-0821",
+      "image": "https://cdn.findpawpal.com/office/43694.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cats1st-44000",
+      "name": "Cats1st",
+      "address": "PO Box 46, Newfields, NH 03856",
+      "phone": "603-760-7877",
+      "image": "https://cdn.findpawpal.com/office/44000.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lakes-region-humane-society-44227",
+      "name": "Lakes Region Humane Society",
+      "address": "11 Old Route 28, Ossipee, NH 03864",
+      "phone": "603-539-1077",
+      "image": "https://cdn.findpawpal.com/office/44227.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pelham-dog-pound-47451",
+      "name": "Pelham Dog Pound",
+      "address": "Simpson Mill Rd, Pelham, NH 03076",
+      "phone": "603-635-2211",
+      "image": "https://cdn.findpawpal.com/office/47451.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pelham-town-animal-control-44343",
+      "name": "Pelham Town Animal Control",
+      "address": "SIMPSON MILL Rd, Pelham, NH 03076",
+      "phone": "603-635-2211",
+      "image": "https://cdn.findpawpal.com/office/44343.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "portsmouth-animal-control-44120",
+      "name": "Portsmouth Animal Control",
+      "address": "3 Junkins Avenue, Portsmouth, NH 03801",
+      "phone": "603-436-8279",
+      "image": "https://cdn.findpawpal.com/office/44120.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-england-basset-hound-rescue-43876",
+      "name": "New England Basset Hound Rescue",
+      "address": "PO Box 835, Raymond, NH 03077",
+      "phone": "603-895-9766",
+      "image": "https://cdn.findpawpal.com/office/43876.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "helping-hands-4-paws-43757",
+      "name": "Helping Hands 4 Paws",
+      "address": "PO Box 232, Rindge, NH 03461",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/43757.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-hampshire-doberman-rescue-43821",
+      "name": "New Hampshire Doberman Rescue",
+      "address": "PO Box 1911, Rochester, NH 03866",
+      "phone": "267-457-1329",
+      "image": "https://cdn.findpawpal.com/office/43821.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "feline-friends-rescue-adoption-league-44010",
+      "name": "Feline Friends Rescue Adoption League",
+      "address": "PO Box 2452, Salem, NH 03079",
+      "phone": "603-893-2483",
+      "image": "https://cdn.findpawpal.com/office/44010.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "just-cats-inc-43811",
+      "name": "Just Cats, Inc.",
+      "address": "PO Box 875, Salem, NH 03079",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/43811.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "salem-animal-rescue-league-43923",
+      "name": "Salem Animal Rescue League",
+      "address": "4 SARL Drive, Salem, NH 03079",
+      "phone": "603-893-3210",
+      "image": "https://cdn.findpawpal.com/office/43923.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-placement-service-and-puppy-rescue-43991",
+      "name": "Animal Placement Service & Puppy Rescue",
+      "address": "PO Box 611, Sandown, NH 03873",
+      "phone": "603-887-2228",
+      "image": "https://cdn.findpawpal.com/office/43991.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "doberman-rescue-unlimited-43969",
+      "name": "Doberman Rescue Unlimited",
+      "address": "52 Tenney Road, Sandown, NH 03873",
+      "phone": "603-887-1200",
+      "image": "https://cdn.findpawpal.com/office/43969.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pap911-47313",
+      "name": "Pap911",
+      "address": "26 Hawkwood Rd, Sandown, NH 03873",
+      "phone": "603-887-0799",
+      "image": "https://cdn.findpawpal.com/office/47313.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "somersworth-animal-control-44011",
+      "name": "Somersworth Animal Control",
+      "address": "12 Lilac Lane, Somersworth, NH 03878",
+      "phone": "603-692-3131",
+      "image": "https://cdn.findpawpal.com/office/44011.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-hampshire-spca-47301",
+      "name": "New Hampshire SPCA",
+      "address": "104 Portsmouth Avenue, Stratham, NH 03885",
+      "phone": "603-772-2921",
+      "image": "https://cdn.findpawpal.com/office/47301.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "monadnock-humane-society-43633",
+      "name": "Monadnock Humane Society",
+      "address": "101 West Swanzey Road, Swanzey, NH 03446",
+      "phone": "603-352-9011",
+      "image": "https://cdn.findpawpal.com/office/43633.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "swanzey-animal-control-47583",
+      "name": "Swanzey Animal Control",
+      "address": "101 West Swanzey Road, Swanzey, NH 03446",
+      "phone": "603-352-0035",
+      "image": "https://cdn.findpawpal.com/office/47583.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "weare-animal-guardians-43790",
+      "name": "Weare Animal Guardians",
+      "address": "PO Box 572, Weare, NH 03281",
+      "phone": "603-529-5543",
+      "image": "https://cdn.findpawpal.com/office/43790.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "house-rabbit-society-43696",
+      "name": "House Rabbit Society",
+      "address": "PO Box 1017, Wolfeboro Falls, NH 03896",
+      "phone": "603-569-9372",
+      "image": "https://cdn.findpawpal.com/office/43696.jpg?f=webp&w=730"
+    }
+  ]
+}

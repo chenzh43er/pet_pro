@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:11:35.079600+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "manistee",
+    "name": "Manistee",
+    "label": "Manistee, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/manistee/",
+  "offices": [
+    {
+      "officeId": 190337,
+      "slug": "feline-utopian-rescue-and-refuge-inc-190337",
+      "name": "Feline Utopian Rescue and Refuge, Inc.",
+      "address": "331 Piney Rd, Manistee, MI 49660",
+      "phone": "231-398-0168",
+      "image": "https://cdn.findpawpal.com/office/190337.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/feline-utopian-rescue-and-refuge-inc-190337/"
+    },
+    {
+      "officeId": 237606,
+      "slug": "manistee-county-animal-control-237606",
+      "name": "Manistee County Animal Control",
+      "address": "736 Paws Trail, Manistee, MI 49660",
+      "phone": "231-723-3170",
+      "image": "./img/shelter/office/237606.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/manistee-county-animal-control-237606/",
+      "imageUrl": "https://cdn.findpawpal.com/office/237606.jpg?f=webp&w=730"
+    }
+  ]
+}

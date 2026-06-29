@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:46:18.940472+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "kewanee",
+    "name": "Kewanee",
+    "label": "Kewanee, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/kewanee/",
+  "offices": [
+    {
+      "officeId": 521530,
+      "slug": "henry-county-humane-society-521530",
+      "name": "Henry County Humane Society",
+      "address": "197 North Fischer Avenue, Kewanee, IL 61443",
+      "phone": "309-852-0040",
+      "image": "./img/shelter/office/521530.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/henry-county-humane-society-521530/",
+      "imageUrl": "https://cdn.findpawpal.com/office/521530.jpg?f=webp&w=730"
+    }
+  ]
+}

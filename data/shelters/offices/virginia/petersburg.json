@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T20:15:40.140679+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "petersburg",
+    "name": "Petersburg",
+    "label": "Petersburg, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/petersburg/",
+  "offices": [
+    {
+      "officeId": 555121,
+      "slug": "petersburg-animal-control-555121",
+      "name": "Petersburg Animal Control",
+      "address": "1600 Johnson Rd, Petersburg, VA 23805",
+      "phone": "804-732-3654",
+      "image": "https://cdn.findpawpal.com/office/555121.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/petersburg-animal-control-555121/"
+    },
+    {
+      "officeId": 561383,
+      "slug": "spca-of-petersburg-561383",
+      "name": "SPCA of Petersburg",
+      "address": "PO Box 1174, Petersburg, VA 23804",
+      "phone": "",
+      "image": "./img/shelter/office/561383.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/spca-of-petersburg-561383/",
+      "imageUrl": "https://cdn.findpawpal.com/office/561383.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 646749,
+      "slug": "petersburg-animal-shelter-646749",
+      "name": "Petersburg Animal Shelter",
+      "address": "PO Box 2109, Petersburg, VA 23804",
+      "phone": "804-732-4222",
+      "image": "./img/shelter/office/646749.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/petersburg-animal-shelter-646749/",
+      "imageUrl": "https://cdn.findpawpal.com/office/646749.jpg?f=webp&w=730"
+    }
+  ]
+}

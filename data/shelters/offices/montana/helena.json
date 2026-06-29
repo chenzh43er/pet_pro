@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:21:51.169155+00:00",
+  "state": {
+    "slug": "montana",
+    "name": "Montana"
+  },
+  "city": {
+    "slug": "helena",
+    "name": "Helena",
+    "label": "Helena, MT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/montana/helena/",
+  "offices": [
+    {
+      "officeId": 349915,
+      "slug": "lewis-and-clark-humane-society-349915",
+      "name": "Lewis & Clark Humane Society",
+      "address": "1712 East Custer Avenue, Helena, MT 59602",
+      "phone": "406-442-1660",
+      "image": "./img/shelter/office/349915.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lewis-and-clark-humane-society-349915/",
+      "imageUrl": "https://cdn.findpawpal.com/office/349915.jpg?f=webp&w=730"
+    }
+  ]
+}

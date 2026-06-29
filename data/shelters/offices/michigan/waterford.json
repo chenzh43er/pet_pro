@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:13:11.564852+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "waterford",
+    "name": "Waterford",
+    "label": "Waterford, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/waterford/",
+  "offices": [
+    {
+      "officeId": 209033,
+      "slug": "waterford-animal-control-209033",
+      "name": "Waterford Animal Control",
+      "address": "1 Public Works Drive, Waterford, MI 48328",
+      "phone": "248-858-1075",
+      "image": "./img/shelter/office/209033.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/waterford-animal-control-209033/",
+      "imageUrl": "https://cdn.findpawpal.com/office/209033.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:15:29.702685+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "newport-news",
+    "name": "Newport News",
+    "label": "Newport News, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/newport-news/",
+  "offices": [
+    {
+      "officeId": 574951,
+      "slug": "peninsula-spca-574951",
+      "name": "Peninsula SPCA",
+      "address": "523 J Clyde Morris Blvd, Newport News, VA 23601",
+      "phone": "757-595-1399",
+      "image": "https://cdn.findpawpal.com/office/574951.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/peninsula-spca-574951/"
+    }
+  ]
+}

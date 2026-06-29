@@ -1,0 +1,43 @@
+{
+  "fetchedAt": "2026-06-27T19:07:57.456242+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "plymouth",
+    "name": "Plymouth",
+    "label": "Plymouth, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/plymouth/",
+  "offices": [
+    {
+      "officeId": 40360,
+      "slug": "friends-of-the-plymouth-pound-40360",
+      "name": "Friends of the Plymouth Pound",
+      "address": "PO Box 578, Plymouth, MA 02360",
+      "phone": "508-224-6651",
+      "image": "https://cdn.findpawpal.com/office/40360.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-the-plymouth-pound-40360/"
+    },
+    {
+      "officeId": 44158,
+      "slug": "plymouth-town-animal-shelter-44158",
+      "name": "Plymouth Town Animal Shelter",
+      "address": "2199 State Road, Plymouth, MA 02360",
+      "phone": "508-888-1186",
+      "image": "./img/shelter/office/44158.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/plymouth-town-animal-shelter-44158/",
+      "imageUrl": "https://cdn.findpawpal.com/office/44158.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 44195,
+      "slug": "friends-of-the-animals-dba-a2z-adoption-44195",
+      "name": "Friends of the Animals Dba A2z Adoption",
+      "address": "36 Shoreline Way, Plymouth, MA 02360",
+      "phone": "508-224-5950",
+      "image": "https://cdn.findpawpal.com/office/44195.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-the-animals-dba-a2z-adoption-44195/"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "stateSlug": "delaware",
+  "count": 13,
+  "shelters": [
+    {
+      "slug": "dumpster-cats-223865",
+      "name": "Dumpster Cats",
+      "address": "506 Ponderosa Drive, Bear, DE 19701",
+      "phone": "302-834-2859",
+      "image": "https://cdn.findpawpal.com/office/223865.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "best-of-friends-house-inc-282000",
+      "name": "Best of Friends House, Inc",
+      "address": "100 Carlsons Way, Dover, DE 19901",
+      "phone": "301-514-9916",
+      "image": "https://cdn.findpawpal.com/office/282000.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "georgetown-animal-shelter-242575",
+      "name": "Georgetown Animal Shelter",
+      "address": "19947 Shingle Point Road, Georgetown, DE 19947",
+      "phone": "302-856-6460",
+      "image": "https://cdn.findpawpal.com/office/242575.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "summerwinds-stables-inc-243392",
+      "name": "Summerwinds Stables, Inc.",
+      "address": "148 Greystone Road, Hartly, DE 19953",
+      "phone": "302-192-8038",
+      "image": "https://cdn.findpawpal.com/office/243392.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tri-state-equine-adoption-and-rescue-257498",
+      "name": "Tri-State Equine Adoption and Rescue",
+      "address": "PO Box 245, Marydel, DE 19964",
+      "phone": "302-492-0492",
+      "image": "https://cdn.findpawpal.com/office/257498.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-for-life-and-mid-atlantic-282033",
+      "name": "Paws For Life & Mid Atlantic",
+      "address": "4450 Summit Bridge Road, Middletown, DE 19709",
+      "phone": "302-376-7297",
+      "image": "https://cdn.findpawpal.com/office/282033.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "delaware-action-for-animals-287904",
+      "name": "Delaware Action for Animals",
+      "address": "PO Box 423, Newark, DE 19715",
+      "phone": "302-368-3330",
+      "image": "https://cdn.findpawpal.com/office/287904.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "delaware-spca-239536",
+      "name": "Delaware SPCA",
+      "address": "455 Stanton Christiana Road, Newark, DE 19713",
+      "phone": "302-998-2281",
+      "image": "https://cdn.findpawpal.com/office/239536.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tri-state-bird-rescue-and-research-257575",
+      "name": "Tri-State Bird Rescue & Research",
+      "address": "170 Possum Hollow Road, Newark, DE 19711",
+      "phone": "302-737-9543",
+      "image": "https://cdn.findpawpal.com/office/257575.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "delaware-humane-association-282042",
+      "name": "Delaware Humane Association",
+      "address": "701 A Street, Wilmington, DE 19801",
+      "phone": "302-571-0111",
+      "image": "https://cdn.findpawpal.com/office/282042.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "faithful-friends-animal-society-223858",
+      "name": "Faithful Friends Animal Society",
+      "address": "12 Germay Drive, Wilmington, DE 19804",
+      "phone": "302-427-8514",
+      "image": "https://cdn.findpawpal.com/office/223858.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "national-brittany-rescue-and-adoption-network-223884",
+      "name": "National Brittany Rescue and Adoption Network",
+      "address": "2664 Drayton Drive, Wilmington, DE 19808",
+      "phone": "302-999-8650",
+      "image": "https://cdn.findpawpal.com/office/223884.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kent-county-spca-225944",
+      "name": "Kent County SPCA",
+      "address": "32 shelter Circle, Wyoming, DE 19934",
+      "phone": "302-698-3006",
+      "image": "https://cdn.findpawpal.com/office/225944.jpg?f=webp&w=730"
+    }
+  ]
+}

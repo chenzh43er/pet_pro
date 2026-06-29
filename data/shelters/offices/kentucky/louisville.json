@@ -1,0 +1,153 @@
+{
+  "fetchedAt": "2026-06-27T18:57:39.107336+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "louisville",
+    "name": "Louisville",
+    "label": "Louisville, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/louisville/",
+  "offices": [
+    {
+      "officeId": 109483,
+      "slug": "greyhounds-of-shamrock-109483",
+      "name": "Greyhounds of Shamrock",
+      "address": "PO Box 991216, Louisville, KY 40269",
+      "phone": "502-241-3140",
+      "image": "./img/shelter/office/109483.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhounds-of-shamrock-109483/",
+      "imageUrl": "https://cdn.findpawpal.com/office/109483.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 109654,
+      "slug": "kentucky-chihuahua-rescue-109654",
+      "name": "Kentucky Chihuahua Rescue",
+      "address": "6200 Lynnchester Drive, Louisville, KY 40219",
+      "phone": "502-216-8034",
+      "image": "./img/shelter/office/109654.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kentucky-chihuahua-rescue-109654/",
+      "imageUrl": "https://cdn.findpawpal.com/office/109654.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 109693,
+      "slug": "ariel-rescue-rehab-109693",
+      "name": "Ariel Rescue Rehab",
+      "address": "1235 Bicknell Avenue, Louisville, KY 40215",
+      "phone": "502-836-5628",
+      "image": "./img/shelter/office/109693.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ariel-rescue-rehab-109693/",
+      "imageUrl": "https://cdn.findpawpal.com/office/109693.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 109764,
+      "slug": "schnauzer-friends-rescue-and-adoption-louisville-109764",
+      "name": "Schnauzer Friends Rescue and Adoption Louisville",
+      "address": "2943 Arlington Road, Louisville, KY 40220",
+      "phone": "502-459-6574",
+      "image": "./img/shelter/office/109764.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/schnauzer-friends-rescue-and-adoption-louisville-109764/",
+      "imageUrl": "https://cdn.findpawpal.com/office/109764.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 110733,
+      "slug": "louisville-animal-control-110733",
+      "name": "Louisville Animal Control",
+      "address": "9750 Ormsby Station Road, Louisville, KY 40223",
+      "phone": "502-410-5494",
+      "image": "./img/shelter/office/110733.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/louisville-animal-control-110733/",
+      "imageUrl": "https://cdn.findpawpal.com/office/110733.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 110857,
+      "slug": "chelseas-legacy-110857",
+      "name": "Chelsea's Legacy",
+      "address": "PO Box 17425, Louisville, KY 40217",
+      "phone": "",
+      "image": "./img/shelter/office/110857.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/chelseas-legacy-110857/",
+      "imageUrl": "https://cdn.findpawpal.com/office/110857.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 110903,
+      "slug": "bluegrass-basset-rescue-inc-110903",
+      "name": "Bluegrass Basset Rescue, Inc.",
+      "address": "1615 Fernwood Avenue, Louisville, KY 40205",
+      "phone": "502-773-0922",
+      "image": "./img/shelter/office/110903.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bluegrass-basset-rescue-inc-110903/",
+      "imageUrl": "https://cdn.findpawpal.com/office/110903.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 114642,
+      "slug": "animal-care-society-114642",
+      "name": "Animal Care Society",
+      "address": "12207 Westport Road, Louisville, KY 40245",
+      "phone": "502-426-6303",
+      "image": "./img/shelter/office/114642.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-care-society-114642/",
+      "imageUrl": "https://cdn.findpawpal.com/office/114642.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 114722,
+      "slug": "louisville-metro-animal-services-114722",
+      "name": "Louisville Metro Animal Services",
+      "address": "3705 Manslick Road, Louisville, KY 40215",
+      "phone": "502-361-1318",
+      "image": "https://cdn.findpawpal.com/office/114722.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/louisville-metro-animal-services-114722/"
+    },
+    {
+      "officeId": 116009,
+      "slug": "kentucky-humane-society-main-campus-116009",
+      "name": "Kentucky Humane Society Main Campus",
+      "address": "241 Steedly Drive, Louisville, KY 40214",
+      "phone": "502-366-3355",
+      "image": "./img/shelter/office/116009.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kentucky-humane-society-main-campus-116009/",
+      "imageUrl": "https://cdn.findpawpal.com/office/116009.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 116061,
+      "slug": "alley-cat-advocates-inc-116061",
+      "name": "Alley Cat Advocates Inc",
+      "address": "3044 Bardstown Road, Louisville, KY 40205",
+      "phone": "502-634-8777",
+      "image": "./img/shelter/office/116061.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/alley-cat-advocates-inc-116061/",
+      "imageUrl": "https://cdn.findpawpal.com/office/116061.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 119273,
+      "slug": "greyhound-rescue-and-adoption-119273",
+      "name": "Greyhound Rescue & Adoption",
+      "address": "PO Box 99913, Louisville, KY 40269",
+      "phone": "502-493-0457",
+      "image": "./img/shelter/office/119273.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhound-rescue-and-adoption-119273/",
+      "imageUrl": "https://cdn.findpawpal.com/office/119273.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 119334,
+      "slug": "waggin-tails-pomeranian-and-english-bulldog-rescue-119334",
+      "name": "Waggin Tails Pomeranian and English Bulldog Rescue",
+      "address": "6404 Maravian Drive, Louisville, KY 40258",
+      "phone": "270-317-3051",
+      "image": "https://cdn.findpawpal.com/office/119334.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/waggin-tails-pomeranian-and-english-bulldog-rescue-119334/"
+    },
+    {
+      "officeId": 119344,
+      "slug": "friends-of-animals-of-kentucky-119344",
+      "name": "Friends of Animals of Kentucky",
+      "address": "505 Cannons Lane, Louisville, KY 40207",
+      "phone": "",
+      "image": "./img/shelter/office/119344.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-animals-of-kentucky-119344/",
+      "imageUrl": "https://cdn.findpawpal.com/office/119344.jpg?f=webp&w=730"
+    }
+  ]
+}

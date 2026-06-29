@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:42:38.428577+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "alexandria",
+    "name": "Alexandria",
+    "label": "Alexandria, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/alexandria/",
+  "offices": [
+    {
+      "officeId": 580552,
+      "slug": "mission-impawssible-inc-580552",
+      "name": "Mission Impawssible, Inc.",
+      "address": "137 North Liberty Street, Alexandria, OH 43001",
+      "phone": "614-743-9540",
+      "image": "./img/shelter/office/580552.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mission-impawssible-inc-580552/",
+      "imageUrl": "https://cdn.findpawpal.com/office/580552.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 587465,
+      "slug": "cat-assistance-team-of-central-ohio-587465",
+      "name": "Cat Assistance Team of Central Ohio",
+      "address": "PO Box 41, Alexandria, OH 43001",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/587465.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/cat-assistance-team-of-central-ohio-587465/"
+    }
+  ]
+}

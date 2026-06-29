@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:24:50.614138+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "alloway",
+    "name": "Alloway",
+    "label": "Alloway, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/alloway/",
+  "offices": [
+    {
+      "officeId": 95564,
+      "slug": "american-society-for-the-welfare-of-cats-95564",
+      "name": "American Society for the Welfare of Cats",
+      "address": "PO Box 594, Alloway, NJ 08001",
+      "phone": "856-935-2870",
+      "image": "https://cdn.findpawpal.com/office/95564.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/american-society-for-the-welfare-of-cats-95564/"
+    }
+  ]
+}

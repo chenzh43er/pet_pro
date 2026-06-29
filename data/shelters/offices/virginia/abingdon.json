@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:12:30.526866+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "abingdon",
+    "name": "Abingdon",
+    "label": "Abingdon, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/abingdon/",
+  "offices": [
+    {
+      "officeId": 554817,
+      "slug": "best-little-cat-house-in-va-554817",
+      "name": "Best Little Cat House In Va",
+      "address": "26474 Honey Locust Road, Abingdon, VA 24211",
+      "phone": "540-842-2404",
+      "image": "./img/shelter/office/554817.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/best-little-cat-house-in-va-554817/",
+      "imageUrl": "https://cdn.findpawpal.com/office/554817.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 644703,
+      "slug": "washington-county-va-cc-porter-animal-shelter-644703",
+      "name": "Washington County VA CC Porter Animal Shelter",
+      "address": "27252 Porter Lane, Abingdon, VA 24211",
+      "phone": "540-676-6210",
+      "image": "./img/shelter/office/644703.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/washington-county-va-cc-porter-animal-shelter-644703/",
+      "imageUrl": "https://cdn.findpawpal.com/office/644703.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:11:19.267296+00:00",
+  "state": {
+    "slug": "utah",
+    "name": "Utah"
+  },
+  "city": {
+    "slug": "roosevelt",
+    "name": "Roosevelt",
+    "label": "Roosevelt, UT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/utah/roosevelt/",
+  "offices": [
+    {
+      "officeId": 633393,
+      "slug": "roosevelt-city-dog-shelter-633393",
+      "name": "Roosevelt City Dog Shelter",
+      "address": "46 U.s. 40, Roosevelt, UT 84066",
+      "phone": "435-725-3649",
+      "image": "./img/shelter/office/633393.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/roosevelt-city-dog-shelter-633393/",
+      "imageUrl": "https://cdn.findpawpal.com/office/633393.jpg?f=webp&w=730"
+    }
+  ]
+}

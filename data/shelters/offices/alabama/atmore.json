@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-06-27T18:16:49.786230+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "atmore",
+    "name": "Atmore",
+    "label": "Atmore, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/atmore/",
+  "offices": [
+    {
+      "slug": "atmore-animal-shelter-7120",
+      "name": "Atmore Animal Shelter",
+      "address": "206 Cindebran Dr, Atmore, AL 36502",
+      "phone": "251-368-0859",
+      "image": "https://cdn.findpawpal.com/office/7120.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/atmore-animal-shelter-7120/"
+    }
+  ]
+}

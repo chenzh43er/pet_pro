@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:51:52.753364+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "avondale",
+    "name": "Avondale",
+    "label": "Avondale, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/avondale/",
+  "offices": [
+    {
+      "officeId": 428657,
+      "slug": "chenoa-manor-428657",
+      "name": "Chenoa Manor",
+      "address": "733 Glen Willow Road, Avondale, PA 19311",
+      "phone": "610-268-0120",
+      "image": "./img/shelter/office/428657.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/chenoa-manor-428657/",
+      "imageUrl": "https://cdn.findpawpal.com/office/428657.jpg?f=webp&w=730"
+    }
+  ]
+}

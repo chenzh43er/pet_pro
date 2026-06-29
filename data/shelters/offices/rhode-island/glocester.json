@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T19:56:06.659724+00:00",
+  "state": {
+    "slug": "rhode-island",
+    "name": "Rhode Island"
+  },
+  "city": {
+    "slug": "glocester",
+    "name": "Glocester",
+    "label": "Glocester, RI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/rhode-island/glocester/",
+  "offices": [
+    {
+      "officeId": 540218,
+      "slug": "glocester-town-animal-shelter-540218",
+      "name": "Glocester Town Animal Shelter",
+      "address": "121 Chestnut Hill Road, Glocester, RI 02814",
+      "phone": "401-568-3885",
+      "image": "https://cdn.findpawpal.com/office/540218.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/glocester-town-animal-shelter-540218/"
+    },
+    {
+      "officeId": 572311,
+      "slug": "glocester-town-animal-shelter-572311",
+      "name": "Glocester Town Animal Shelter",
+      "address": "121 Chestnut Hill Road, Glocester, RI 02814",
+      "phone": "401-568-3885",
+      "image": "https://cdn.findpawpal.com/office/572311.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/glocester-town-animal-shelter-572311/"
+    }
+  ]
+}

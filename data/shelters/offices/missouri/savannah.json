@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:20:28.322634+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "savannah",
+    "name": "Savannah",
+    "label": "Savannah, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/savannah/",
+  "offices": [
+    {
+      "officeId": 239956,
+      "slug": "helping-hand-animal-care-239956",
+      "name": "Helping Hand Animal Care",
+      "address": "PO Box 229, Savannah, MO 64405",
+      "phone": "",
+      "image": "./img/shelter/office/239956.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/helping-hand-animal-care-239956/",
+      "imageUrl": "https://cdn.findpawpal.com/office/239956.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 240635,
+      "slug": "mshoogys-animal-rescue-240635",
+      "name": "M'shoogy's Animal Rescue",
+      "address": "11519 State Highway C, Savannah, MO 64485",
+      "phone": "816-324-5824",
+      "image": "./img/shelter/office/240635.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mshoogys-animal-rescue-240635/",
+      "imageUrl": "https://cdn.findpawpal.com/office/240635.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:30:14.972789+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "san-jacinto",
+    "name": "San Jacinto",
+    "label": "San Jacinto, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/san-jacinto/",
+  "offices": [
+    {
+      "officeId": 477244,
+      "slug": "ramona-animal-shelter-inc-477244",
+      "name": "Ramona Animal Shelter Inc",
+      "address": "690 Humane Way, San Jacinto, CA 92582",
+      "phone": "951-654-8002",
+      "image": "./img/shelter/office/477244.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ramona-animal-shelter-inc-477244/",
+      "imageUrl": "https://cdn.findpawpal.com/office/477244.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 539073,
+      "slug": "ramona-animal-control-539073",
+      "name": "Ramona Animal Control",
+      "address": "438 South State Street, San Jacinto, CA 92583",
+      "phone": "951-487-6565",
+      "image": "./img/shelter/office/539073.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ramona-animal-control-539073/",
+      "imageUrl": "https://cdn.findpawpal.com/office/539073.jpg?f=webp&w=730"
+    }
+  ]
+}

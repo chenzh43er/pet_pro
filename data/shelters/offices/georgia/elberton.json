@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:39:40.272481+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "elberton",
+    "name": "Elberton",
+    "label": "Elberton, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/elberton/",
+  "offices": [
+    {
+      "officeId": 149646,
+      "slug": "elbert-county-animal-control-149646",
+      "name": "Elbert County Animal Control",
+      "address": "2160 Hulmes Chapel Road, Elberton, GA 30635",
+      "phone": "706-283-5054",
+      "image": "./img/shelter/office/149646.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/elbert-county-animal-control-149646/",
+      "imageUrl": "https://cdn.findpawpal.com/office/149646.jpg?f=webp&w=730"
+    }
+  ]
+}

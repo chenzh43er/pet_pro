@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:33:03.500038+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "east-hampton",
+    "name": "East Hampton",
+    "label": "East Hampton, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/east-hampton/",
+  "offices": [
+    {
+      "officeId": 315723,
+      "slug": "elsas-ark-inc-315723",
+      "name": "Elsa's Ark, Inc.",
+      "address": "PO Box 2900, East Hampton, NY 11937",
+      "phone": "631-329-2900",
+      "image": "./img/shelter/office/315723.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/elsas-ark-inc-315723/",
+      "imageUrl": "https://cdn.findpawpal.com/office/315723.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 403436,
+      "slug": "animal-rescue-fund-of-the-hamptons-403436",
+      "name": "Animal Rescue Fund of the Hamptons",
+      "address": "90 Daniels Hole Road, East Hampton, NY 11937",
+      "phone": "631-537-0400",
+      "image": "https://cdn.findpawpal.com/office/403436.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-rescue-fund-of-the-hamptons-403436/"
+    }
+  ]
+}

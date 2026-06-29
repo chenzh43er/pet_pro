@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:33:18.367985+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "fairport",
+    "name": "Fairport",
+    "label": "Fairport, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/fairport/",
+  "offices": [
+    {
+      "officeId": 333620,
+      "slug": "brightstar-german-shepherd-rescue-333620",
+      "name": "Brightstar German Shepherd Rescue",
+      "address": "30 Wheatstone Circle, Fairport, NY 14450",
+      "phone": "585-293-0549",
+      "image": "./img/shelter/office/333620.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/brightstar-german-shepherd-rescue-333620/",
+      "imageUrl": "https://cdn.findpawpal.com/office/333620.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 334314,
+      "slug": "humane-society-at-lollypop-farm-334314",
+      "name": "Humane Society at Lollypop Farm",
+      "address": "99 Victor Road, Fairport, NY 14450",
+      "phone": "716-223-1330",
+      "image": "./img/shelter/office/334314.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-at-lollypop-farm-334314/",
+      "imageUrl": "https://cdn.findpawpal.com/office/334314.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "fetchedAt": "2026-06-27T19:45:55.740197+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "new-philadelphia",
+    "name": "New Philadelphia",
+    "label": "New Philadelphia, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/new-philadelphia/",
+  "offices": [
+    {
+      "officeId": 458546,
+      "slug": "tuscarawas-county-humane-society-458546",
+      "name": "Tuscarawas County Humane Society",
+      "address": "1432 Tall Timber Road Northeast, New Philadelphia, OH 44663",
+      "phone": "330-343-6060",
+      "image": "./img/shelter/office/458546.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tuscarawas-county-humane-society-458546/",
+      "imageUrl": "https://cdn.findpawpal.com/office/458546.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 467435,
+      "slug": "safe-harbour-doberman-rescue-467435",
+      "name": "Safe Harbour Doberman Rescue",
+      "address": "2206 Herbert Street Southeast, New Philadelphia, OH 44663",
+      "phone": "330-859-1102",
+      "image": "./img/shelter/office/467435.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/safe-harbour-doberman-rescue-467435/",
+      "imageUrl": "https://cdn.findpawpal.com/office/467435.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 467442,
+      "slug": "tuscarawas-county-dog-pound-467442",
+      "name": "Tuscarawas County Dog Pound",
+      "address": "441 University Drive Northeast, New Philadelphia, OH 44663",
+      "phone": "330-339-2616",
+      "image": "https://cdn.findpawpal.com/office/467442.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/tuscarawas-county-dog-pound-467442/"
+    },
+    {
+      "officeId": 686640,
+      "slug": "from-heaven-to-earth-rescue-inc-686640",
+      "name": "From Heaven to Earth Rescue, Inc.",
+      "address": "499 Dietrich Dr SE, New Philadelphia, OH 44663",
+      "phone": "330-465-6040",
+      "image": "./img/shelter/office/686640.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/from-heaven-to-earth-rescue-inc-686640/",
+      "imageUrl": "https://cdn.findpawpal.com/office/686640.jpg?f=webp&w=730"
+    }
+  ]
+}

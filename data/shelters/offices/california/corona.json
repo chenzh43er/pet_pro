@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:25:06.270765+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "corona",
+    "name": "Corona",
+    "label": "Corona, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/corona/",
+  "offices": [
+    {
+      "officeId": 392323,
+      "slug": "corona-animal-shelter-392323",
+      "name": "Corona Animal Shelter",
+      "address": "608 Harrington Street, Corona, CA 92880",
+      "phone": "951-736-2309",
+      "image": "./img/shelter/office/392323.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/corona-animal-shelter-392323/",
+      "imageUrl": "https://cdn.findpawpal.com/office/392323.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 668356,
+      "slug": "city-of-norco-animal-shelter-668356",
+      "name": "City of Norco Animal Shelter",
+      "address": "266 East 6th Street, Corona, CA 92879",
+      "phone": "909-737-8972",
+      "image": "./img/shelter/office/668356.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/city-of-norco-animal-shelter-668356/",
+      "imageUrl": "https://cdn.findpawpal.com/office/668356.jpg?f=webp&w=730"
+    }
+  ]
+}

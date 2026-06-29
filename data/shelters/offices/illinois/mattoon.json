@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:46:38.733122+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "mattoon",
+    "name": "Mattoon",
+    "label": "Mattoon, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/mattoon/",
+  "offices": [
+    {
+      "officeId": 382398,
+      "slug": "coles-county-humane-association-382398",
+      "name": "Coles County Humane Association",
+      "address": "PO Box 101, Mattoon, IL 61938",
+      "phone": "217-234-6721",
+      "image": "https://cdn.findpawpal.com/office/382398.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/coles-county-humane-association-382398/"
+    },
+    {
+      "officeId": 411777,
+      "slug": "genesis-animal-rescue-411777",
+      "name": "Genesis Animal Rescue",
+      "address": "PO Box 1985, Mattoon, IL 61938",
+      "phone": "800-688-7934",
+      "image": "https://cdn.findpawpal.com/office/411777.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/genesis-animal-rescue-411777/"
+    }
+  ]
+}

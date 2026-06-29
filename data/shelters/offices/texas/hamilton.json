@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:05:31.923351+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "hamilton",
+    "name": "Hamilton",
+    "label": "Hamilton, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/hamilton/",
+  "offices": [
+    {
+      "officeId": 478719,
+      "slug": "baraboo-roadside-rescue-retirement-ranch-478719",
+      "name": "Baraboo Roadside Rescue Retirement Ranch",
+      "address": "10215 Farm to Market 218, Hamilton, TX 76531",
+      "phone": "254-372-3987",
+      "image": "https://cdn.findpawpal.com/office/478719.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/baraboo-roadside-rescue-retirement-ranch-478719/"
+    }
+  ]
+}

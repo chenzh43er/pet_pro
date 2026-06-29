@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:15:12.733148+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "lake-wales",
+    "name": "Lake Wales",
+    "label": "Lake Wales, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/lake-wales/",
+  "offices": [
+    {
+      "slug": "darlynns-darlins-inc-288722",
+      "name": "Darlynn's Darlins, Inc.",
+      "address": "2842 Rosalie Lake Road, Lake Wales, FL 33898",
+      "phone": "863-696-3424",
+      "image": "./img/shelter/office/288722.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/darlynns-darlins-inc-288722/",
+      "imageUrl": "https://cdn.findpawpal.com/office/288722.jpg?f=webp&w=730"
+    }
+  ]
+}

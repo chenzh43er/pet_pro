@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:44:56.146019+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "collinsville",
+    "name": "Collinsville",
+    "label": "Collinsville, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/collinsville/",
+  "offices": [
+    {
+      "officeId": 383958,
+      "slug": "collinsville-animal-control-shelter-383958",
+      "name": "Collinsville Animal Control Shelter",
+      "address": "298 Simpson Road, Collinsville, IL 62234",
+      "phone": "618-346-5213",
+      "image": "./img/shelter/office/383958.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/collinsville-animal-control-shelter-383958/",
+      "imageUrl": "https://cdn.findpawpal.com/office/383958.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 386463,
+      "slug": "hartz-second-chance-hs-386463",
+      "name": "Hartz Second Chance Hs",
+      "address": "119 United Drive, Collinsville, IL 62234",
+      "phone": "618-975-4434",
+      "image": "./img/shelter/office/386463.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hartz-second-chance-hs-386463/",
+      "imageUrl": "https://cdn.findpawpal.com/office/386463.jpg?f=webp&w=730"
+    }
+  ]
+}

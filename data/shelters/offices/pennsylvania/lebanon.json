@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:53:36.715856+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "lebanon",
+    "name": "Lebanon",
+    "label": "Lebanon, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/lebanon/",
+  "offices": [
+    {
+      "officeId": 596269,
+      "slug": "friends-of-all-animals-596269",
+      "name": "Friends of All Animals",
+      "address": "777 North 8th Avenue, Lebanon, PA 17046",
+      "phone": "717-272-6466",
+      "image": "https://cdn.findpawpal.com/office/596269.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-all-animals-596269/"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T19:43:23.633663+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "cambridge",
+    "name": "Cambridge",
+    "label": "Cambridge, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/cambridge/",
+  "offices": [
+    {
+      "officeId": 422702,
+      "slug": "humane-society-of-guernsey-county-422702",
+      "name": "Humane Society of Guernsey County",
+      "address": "62800 Bennett Avenue, Cambridge, OH 43725",
+      "phone": "614-439-1903",
+      "image": "./img/shelter/office/422702.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-guernsey-county-422702/",
+      "imageUrl": "https://cdn.findpawpal.com/office/422702.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 457421,
+      "slug": "save-a-dog-foundation-457421",
+      "name": "Save-A-Dog Foundation",
+      "address": "10655 Twin Oaks Drive, Cambridge, OH 43725",
+      "phone": "740-432-3900",
+      "image": "https://cdn.findpawpal.com/office/457421.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/save-a-dog-foundation-457421/"
+    },
+    {
+      "officeId": 466196,
+      "slug": "guersney-county-dog-warden-466196",
+      "name": "Guersney County Dog Warden",
+      "address": "62824 Bennett Avenue, Cambridge, OH 43725",
+      "phone": "740-432-2219",
+      "image": "./img/shelter/office/466196.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/guersney-county-dog-warden-466196/",
+      "imageUrl": "https://cdn.findpawpal.com/office/466196.jpg?f=webp&w=730"
+    }
+  ]
+}

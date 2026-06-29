@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:00:33.509861+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "plaquemine",
+    "name": "Plaquemine",
+    "label": "Plaquemine, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/plaquemine/",
+  "offices": [
+    {
+      "officeId": 243008,
+      "slug": "save-our-strays-rescue-243008",
+      "name": "Save Our Strays Rescue",
+      "address": "PO Box 267, Plaquemine, LA 70765",
+      "phone": "225-687-7994",
+      "image": "./img/shelter/office/243008.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/save-our-strays-rescue-243008/",
+      "imageUrl": "https://cdn.findpawpal.com/office/243008.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 243901,
+      "slug": "iberville-parish-animal-control-243901",
+      "name": "Iberville Parish Animal Control",
+      "address": "59815 Bayou Road, Plaquemine, LA 70764",
+      "phone": "225-687-5881",
+      "image": "./img/shelter/office/243901.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/iberville-parish-animal-control-243901/",
+      "imageUrl": "https://cdn.findpawpal.com/office/243901.jpg?f=webp&w=730"
+    }
+  ]
+}

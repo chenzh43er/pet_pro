@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:25:21.317559+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "butler",
+    "name": "Butler",
+    "label": "Butler, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/butler/",
+  "offices": [
+    {
+      "officeId": 96084,
+      "slug": "tri-boro-animal-welfare-96084",
+      "name": "Tri-Boro Animal Welfare",
+      "address": "12 Belleview Avenue, Butler, NJ 07405",
+      "phone": "973-831-5555",
+      "image": "./img/shelter/office/96084.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tri-boro-animal-welfare-96084/",
+      "imageUrl": "https://cdn.findpawpal.com/office/96084.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 101089,
+      "slug": "butler-animal-control-101089",
+      "name": "Butler Animal Control",
+      "address": "12 Belleview Avenue, Butler, NJ 07405",
+      "phone": "973-831-5555",
+      "image": "./img/shelter/office/101089.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/butler-animal-control-101089/",
+      "imageUrl": "https://cdn.findpawpal.com/office/101089.jpg?f=webp&w=730"
+    }
+  ]
+}

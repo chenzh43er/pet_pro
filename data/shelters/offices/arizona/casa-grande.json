@@ -1,0 +1,51 @@
+{
+  "fetchedAt": "2026-06-27T18:19:45.844296+00:00",
+  "state": {
+    "slug": "arizona",
+    "name": "Arizona"
+  },
+  "city": {
+    "slug": "casa-grande",
+    "name": "Casa Grande",
+    "label": "Casa Grande, AZ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arizona/casa-grande/",
+  "offices": [
+    {
+      "slug": "equine-eden-rescue-center-168144",
+      "name": "Equine Eden Rescue Center",
+      "address": "2400 South Montgomery Road, Casa Grande, AZ 85193",
+      "phone": "520-414-1060",
+      "image": "./img/shelter/office/168144.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/equine-eden-rescue-center-168144/",
+      "imageUrl": "https://cdn.findpawpal.com/office/168144.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "valley-humane-society-171423",
+      "name": "Valley Humane Society",
+      "address": "15699 West Aniceto Road, Casa Grande, AZ 85193",
+      "phone": "520-836-0904",
+      "image": "./img/shelter/office/171423.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/valley-humane-society-171423/",
+      "imageUrl": "https://cdn.findpawpal.com/office/171423.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pinal-county-animal-control-182117",
+      "name": "Pinal County Animal Control",
+      "address": "764 North 11 Mile Corner Road, Casa Grande, AZ 85194",
+      "phone": "520-866-7600",
+      "image": "./img/shelter/office/182117.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pinal-county-animal-control-182117/",
+      "imageUrl": "https://cdn.findpawpal.com/office/182117.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "casa-grande-animal-control-182131",
+      "name": "Casa Grande Animal Control",
+      "address": "102 South Sacaton Street, Casa Grande, AZ 85122",
+      "phone": "520-426-9300",
+      "image": "./img/shelter/office/182131.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/casa-grande-animal-control-182131/",
+      "imageUrl": "https://cdn.findpawpal.com/office/182131.jpg?f=webp&w=730"
+    }
+  ]
+}

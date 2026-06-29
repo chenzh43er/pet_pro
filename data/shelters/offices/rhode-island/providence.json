@@ -1,0 +1,65 @@
+{
+  "fetchedAt": "2026-06-27T19:56:27.739171+00:00",
+  "state": {
+    "slug": "rhode-island",
+    "name": "Rhode Island"
+  },
+  "city": {
+    "slug": "providence",
+    "name": "Providence",
+    "label": "Providence, RI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/rhode-island/providence/",
+  "offices": [
+    {
+      "officeId": 565178,
+      "slug": "providence-animal-rescue-league-565178",
+      "name": "Providence Animal Rescue League",
+      "address": "34 Elbow Street, Providence, RI 02903",
+      "phone": "401-421-1399",
+      "image": "./img/shelter/office/565178.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/providence-animal-rescue-league-565178/",
+      "imageUrl": "https://cdn.findpawpal.com/office/565178.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 650068,
+      "slug": "providence-animal-control-center-650068",
+      "name": "Providence Animal Control Center",
+      "address": "200 Terminal Road, Providence, RI 02905",
+      "phone": "401-243-6040",
+      "image": "./img/shelter/office/650068.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/providence-animal-control-center-650068/",
+      "imageUrl": "https://cdn.findpawpal.com/office/650068.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 685689,
+      "slug": "north-providence-shelter-685689",
+      "name": "North Providence Shelter",
+      "address": "900 Smithfield Road, Providence, RI 02904",
+      "phone": "401-233-1492",
+      "image": "./img/shelter/office/685689.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/north-providence-shelter-685689/",
+      "imageUrl": "https://cdn.findpawpal.com/office/685689.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 708095,
+      "slug": "defenders-of-animals-708095",
+      "name": "Defenders of Animals",
+      "address": "PO Box 5634, Providence, RI 02903",
+      "phone": "401-738-3710",
+      "image": "./img/shelter/office/708095.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/defenders-of-animals-708095/",
+      "imageUrl": "https://cdn.findpawpal.com/office/708095.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 708097,
+      "slug": "almost-home-rescue-of-rhode-island-708097",
+      "name": "Almost Home Rescue of Rhode Island",
+      "address": "PO Box 6111, Providence, RI 02940",
+      "phone": "401-575-6153",
+      "image": "./img/shelter/office/708097.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/almost-home-rescue-of-rhode-island-708097/",
+      "imageUrl": "https://cdn.findpawpal.com/office/708097.jpg?f=webp&w=730"
+    }
+  ]
+}

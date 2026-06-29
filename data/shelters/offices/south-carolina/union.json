@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:58:29.029675+00:00",
+  "state": {
+    "slug": "south-carolina",
+    "name": "South Carolina"
+  },
+  "city": {
+    "slug": "union",
+    "name": "Union",
+    "label": "Union, SC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-carolina/union/",
+  "offices": [
+    {
+      "officeId": 599215,
+      "slug": "union-county-animal-shelter-599215",
+      "name": "Union County Animal Shelter",
+      "address": "1657 Jonesville Highway, Union, SC 29379",
+      "phone": "864-429-2808",
+      "image": "./img/shelter/office/599215.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/union-county-animal-shelter-599215/",
+      "imageUrl": "https://cdn.findpawpal.com/office/599215.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 651503,
+      "slug": "every-cat-counts-651503",
+      "name": "Every Cat Counts",
+      "address": "PO Box 339, Union, SC 29379",
+      "phone": "864-426-3908",
+      "image": "./img/shelter/office/651503.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/every-cat-counts-651503/",
+      "imageUrl": "https://cdn.findpawpal.com/office/651503.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 651506,
+      "slug": "union-county-humane-society-651506",
+      "name": "Union County Humane Society",
+      "address": "218 North Pinckney Street, Union, SC 29379",
+      "phone": "864-427-6423",
+      "image": "./img/shelter/office/651506.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/union-county-humane-society-651506/",
+      "imageUrl": "https://cdn.findpawpal.com/office/651506.jpg?f=webp&w=730"
+    }
+  ]
+}

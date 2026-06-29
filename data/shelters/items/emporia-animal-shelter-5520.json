@@ -1,0 +1,21 @@
+{
+  "officeId": 5520,
+  "slug": "emporia-animal-shelter-5520",
+  "name": "Emporia Animal Shelter",
+  "address": "518 Mechanic Street, Emporia, KS 66801",
+  "street": "518 Mechanic Street",
+  "addressCity": "Emporia",
+  "stateCode": "KS",
+  "zip": "66801",
+  "phone": "316-342-5105",
+  "image": "./img/shelter/office/5520.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/emporia-animal-shelter-5520/",
+  "stateSlug": "kansas",
+  "stateName": "Kansas",
+  "citySlug": "emporia",
+  "cityName": "Emporia",
+  "cityLabel": "Emporia, KS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kansas/emporia/",
+  "fetchedAt": "2026-06-27T18:54:54.677372+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/5520.jpg?f=webp&w=730"
+}

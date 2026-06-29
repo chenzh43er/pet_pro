@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:00:22.641615+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "hendersonville",
+    "name": "Hendersonville",
+    "label": "Hendersonville, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/hendersonville/",
+  "offices": [
+    {
+      "officeId": 573924,
+      "slug": "freedom-farm-animal-sanctuary-573924",
+      "name": "Freedom Farm Animal Sanctuary",
+      "address": "PO Box 2482, Hendersonville, TN 37077",
+      "phone": "615-664-2380",
+      "image": "./img/shelter/office/573924.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/freedom-farm-animal-sanctuary-573924/",
+      "imageUrl": "https://cdn.findpawpal.com/office/573924.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 574269,
+      "slug": "hendersonville-animal-control-574269",
+      "name": "Hendersonville Animal Control",
+      "address": "1 Executive Park Drive, Hendersonville, TN 37075",
+      "phone": "615-264-5355",
+      "image": "./img/shelter/office/574269.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hendersonville-animal-control-574269/",
+      "imageUrl": "https://cdn.findpawpal.com/office/574269.jpg?f=webp&w=730"
+    }
+  ]
+}

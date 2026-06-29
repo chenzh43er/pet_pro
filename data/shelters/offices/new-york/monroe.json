@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T19:35:07.200352+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "monroe",
+    "name": "Monroe",
+    "label": "Monroe, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/monroe/",
+  "offices": [
+    {
+      "officeId": 397794,
+      "slug": "monroe-humane-society-397794",
+      "name": "Monroe Humane Society",
+      "address": "PO Box 675, Monroe, NY 10949",
+      "phone": "914-783-3734",
+      "image": "https://cdn.findpawpal.com/office/397794.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/monroe-humane-society-397794/"
+    },
+    {
+      "officeId": 418514,
+      "slug": "monroe-animal-shelter-418514",
+      "name": "Monroe Animal Shelter",
+      "address": "103 Mine Road, Monroe, NY 10950",
+      "phone": "845-782-0302",
+      "image": "https://cdn.findpawpal.com/office/418514.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/monroe-animal-shelter-418514/"
+    }
+  ]
+}

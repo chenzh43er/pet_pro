@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:49:21.046359+00:00",
+  "state": {
+    "slug": "oklahoma",
+    "name": "Oklahoma"
+  },
+  "city": {
+    "slug": "ponca",
+    "name": "Ponca",
+    "label": "Ponca, OK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oklahoma/ponca/",
+  "offices": [
+    {
+      "officeId": 561865,
+      "slug": "ponca-city-humane-society-561865",
+      "name": "Ponca City Humane Society",
+      "address": "900 West Prospect Avenue, Ponca, OK 74601",
+      "phone": "580-767-8877",
+      "image": "./img/shelter/office/561865.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ponca-city-humane-society-561865/",
+      "imageUrl": "https://cdn.findpawpal.com/office/561865.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 569072,
+      "slug": "ponca-city-animal-control-569072",
+      "name": "Ponca City Animal Control",
+      "address": "100 Pecan Place, Ponca, OK 74604",
+      "phone": "580-767-0401",
+      "image": "./img/shelter/office/569072.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ponca-city-animal-control-569072/",
+      "imageUrl": "https://cdn.findpawpal.com/office/569072.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 648939,
+      "slug": "ponca-animal-welfare-society-648939",
+      "name": "Ponca Animal Welfare Society",
+      "address": "PO Box 2602, Ponca, OK 74602",
+      "phone": "580-765-7297",
+      "image": "./img/shelter/office/648939.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ponca-animal-welfare-society-648939/",
+      "imageUrl": "https://cdn.findpawpal.com/office/648939.jpg?f=webp&w=730"
+    }
+  ]
+}

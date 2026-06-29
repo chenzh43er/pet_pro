@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-06-27T18:20:07.818293+00:00",
+  "state": {
+    "slug": "arizona",
+    "name": "Arizona"
+  },
+  "city": {
+    "slug": "fountain-hills",
+    "name": "Fountain Hills",
+    "label": "Fountain Hills, AZ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arizona/fountain-hills/",
+  "offices": [
+    {
+      "slug": "standing-proud-pit-bull-rescue-center-167754",
+      "name": "Standing Proud Pit Bull Rescue Center",
+      "address": "10604 Arista Lane, Fountain Hills, AZ 85268",
+      "phone": "847-361-9045",
+      "image": "https://cdn.findpawpal.com/office/167754.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/standing-proud-pit-bull-rescue-center-167754/"
+    }
+  ]
+}

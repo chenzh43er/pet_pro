@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:55:57.814225+00:00",
+  "state": {
+    "slug": "rhode-island",
+    "name": "Rhode Island"
+  },
+  "city": {
+    "slug": "cranston",
+    "name": "Cranston",
+    "label": "Cranston, RI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/rhode-island/cranston/",
+  "offices": [
+    {
+      "officeId": 540224,
+      "slug": "cranston-animal-shelter-540224",
+      "name": "Cranston Animal Shelter",
+      "address": "920 Phenix Avenue, Cranston, RI 02921",
+      "phone": "401-464-8700",
+      "image": "./img/shelter/office/540224.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cranston-animal-shelter-540224/",
+      "imageUrl": "https://cdn.findpawpal.com/office/540224.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 565173,
+      "slug": "lincoln-greyhound-adoption-program-565173",
+      "name": "Lincoln Greyhound Adoption Program",
+      "address": "83 Broadmoor Road, Cranston, RI 02910",
+      "phone": "401-781-6231",
+      "image": "./img/shelter/office/565173.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lincoln-greyhound-adoption-program-565173/",
+      "imageUrl": "https://cdn.findpawpal.com/office/565173.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 708096,
+      "slug": "animals-depend-on-people-too-inc-708096",
+      "name": "Animals Depend On People Too, Inc.",
+      "address": "920 Phenix Avenue, Cranston, RI 02921",
+      "phone": "401-461-1000",
+      "image": "./img/shelter/office/708096.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animals-depend-on-people-too-inc-708096/",
+      "imageUrl": "https://cdn.findpawpal.com/office/708096.jpg?f=webp&w=730"
+    }
+  ]
+}

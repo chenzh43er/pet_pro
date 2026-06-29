@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:17:01.337389+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "woodstock",
+    "name": "Woodstock",
+    "label": "Woodstock, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/woodstock/",
+  "offices": [
+    {
+      "officeId": 706788,
+      "slug": "humane-society-of-shenandoah-county-706788",
+      "name": "Humane Society of Shenandoah County",
+      "address": "PO Box 173, Woodstock, VA 22664",
+      "phone": "703-984-8431",
+      "image": "https://cdn.findpawpal.com/office/706788.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-shenandoah-county-706788/"
+    }
+  ]
+}

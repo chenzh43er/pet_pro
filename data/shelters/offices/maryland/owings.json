@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:04:15.446262+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "owings",
+    "name": "Owings",
+    "label": "Owings, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/owings/",
+  "offices": [
+    {
+      "officeId": 369880,
+      "slug": "freedom-hill-horse-rescue-369880",
+      "name": "Freedom Hill Horse Rescue",
+      "address": "8705 Sam Hill Drive, Owings, MD 20736",
+      "phone": "410-474-7662",
+      "image": "https://cdn.findpawpal.com/office/369880.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/freedom-hill-horse-rescue-369880/"
+    }
+  ]
+}

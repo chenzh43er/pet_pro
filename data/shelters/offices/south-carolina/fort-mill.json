@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:57:21.487474+00:00",
+  "state": {
+    "slug": "south-carolina",
+    "name": "South Carolina"
+  },
+  "city": {
+    "slug": "fort-mill",
+    "name": "Fort Mill",
+    "label": "Fort Mill, SC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-carolina/fort-mill/",
+  "offices": [
+    {
+      "officeId": 599495,
+      "slug": "blue-kangaroo-petting-zoo-and-rescue-599495",
+      "name": "Blue Kangaroo Petting Zoo and Rescue",
+      "address": "184 Fort Mill Highway, Fort Mill, SC 29707",
+      "phone": "803-228-4150",
+      "image": "./img/shelter/office/599495.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/blue-kangaroo-petting-zoo-and-rescue-599495/",
+      "imageUrl": "https://cdn.findpawpal.com/office/599495.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 599498,
+      "slug": "airedale-rescue-group-599498",
+      "name": "Airedale Rescue Group",
+      "address": "10581 Harrisburg Road, Fort Mill, SC 29707",
+      "phone": "803-547-2829",
+      "image": "./img/shelter/office/599498.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/airedale-rescue-group-599498/",
+      "imageUrl": "https://cdn.findpawpal.com/office/599498.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 651568,
+      "slug": "york-county-humane-society-651568",
+      "name": "York County Humane Society",
+      "address": "2036 Carolina Place Drive, Fort Mill, SC 29708",
+      "phone": "803-322-6495",
+      "image": "./img/shelter/office/651568.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/york-county-humane-society-651568/",
+      "imageUrl": "https://cdn.findpawpal.com/office/651568.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:28:35.099828+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "oakdale",
+    "name": "Oakdale",
+    "label": "Oakdale, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/oakdale/",
+  "offices": [
+    {
+      "officeId": 489418,
+      "slug": "oakdale-animal-control-489418",
+      "name": "Oakdale Animal Control",
+      "address": "9800 Liberini Avenue, Oakdale, CA 95361",
+      "phone": "209-847-5625",
+      "image": "./img/shelter/office/489418.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/oakdale-animal-control-489418/",
+      "imageUrl": "https://cdn.findpawpal.com/office/489418.jpg?f=webp&w=730"
+    }
+  ]
+}

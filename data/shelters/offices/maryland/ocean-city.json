@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:04:12.536987+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "ocean-city",
+    "name": "Ocean City",
+    "label": "Ocean City, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/ocean-city/",
+  "offices": [
+    {
+      "officeId": 552375,
+      "slug": "town-cats-552375",
+      "name": "Town Cats",
+      "address": "PO Box 1714, Ocean City, MD 21843",
+      "phone": "410-208-0922",
+      "image": "https://cdn.findpawpal.com/office/552375.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/town-cats-552375/"
+    }
+  ]
+}

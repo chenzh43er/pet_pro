@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T20:18:14.383328+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "lynnwood",
+    "name": "Lynnwood",
+    "label": "Lynnwood, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/lynnwood/",
+  "offices": [
+    {
+      "officeId": 611081,
+      "slug": "lynnwood-city-animal-control-611081",
+      "name": "Lynnwood City Animal Control",
+      "address": "19321 44th Avenue West, Lynnwood, WA 98036",
+      "phone": "425-670-5660",
+      "image": "./img/shelter/office/611081.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lynnwood-city-animal-control-611081/",
+      "imageUrl": "https://cdn.findpawpal.com/office/611081.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 614674,
+      "slug": "animals-crusaders-614674",
+      "name": "Animals' Crusaders",
+      "address": "18700 44th Avenue West, Lynnwood, WA 98037",
+      "phone": "206-712-9471",
+      "image": "./img/shelter/office/614674.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animals-crusaders-614674/",
+      "imageUrl": "https://cdn.findpawpal.com/office/614674.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 714676,
+      "slug": "paws-714676",
+      "name": "PAWS",
+      "address": "15305 44th Avenue West, Lynnwood, WA 98087",
+      "phone": "425-787-2500",
+      "image": "./img/shelter/office/714676.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/paws-714676/",
+      "imageUrl": "https://cdn.findpawpal.com/office/714676.jpg?f=webp&w=730"
+    }
+  ]
+}

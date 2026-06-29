@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:19:14.164330+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "sultan",
+    "name": "Sultan",
+    "label": "Sultan, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/sultan/",
+  "offices": [
+    {
+      "officeId": 593584,
+      "slug": "pasados-safe-haven-593584",
+      "name": "Pasado's Safe Haven",
+      "address": "PO Box 171, Sultan, WA 98294",
+      "phone": "360-793-9393",
+      "image": "./img/shelter/office/593584.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pasados-safe-haven-593584/",
+      "imageUrl": "https://cdn.findpawpal.com/office/593584.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 621407,
+      "slug": "hope-for-horses-621407",
+      "name": "Hope for Horses",
+      "address": "PO Box 1790, Sultan, WA 98072",
+      "phone": "",
+      "image": "./img/shelter/office/621407.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hope-for-horses-621407/",
+      "imageUrl": "https://cdn.findpawpal.com/office/621407.jpg?f=webp&w=730"
+    }
+  ]
+}

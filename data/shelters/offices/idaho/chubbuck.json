@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:42:52.317895+00:00",
+  "state": {
+    "slug": "idaho",
+    "name": "Idaho"
+  },
+  "city": {
+    "slug": "chubbuck",
+    "name": "Chubbuck",
+    "label": "Chubbuck, ID"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/idaho/chubbuck/",
+  "offices": [
+    {
+      "officeId": 356336,
+      "slug": "chubbuck-animal-shelter-356336",
+      "name": "Chubbuck Animal Shelter",
+      "address": "PO Box 5604, Chubbuck, ID 83202",
+      "phone": "208-237-7172",
+      "image": "https://cdn.findpawpal.com/office/356336.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/chubbuck-animal-shelter-356336/"
+    }
+  ]
+}

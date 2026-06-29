@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:40:36.962535+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "nashville",
+    "name": "Nashville",
+    "label": "Nashville, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/nashville/",
+  "offices": [
+    {
+      "officeId": 266120,
+      "slug": "nash-county-animal-control-266120",
+      "name": "Nash County Animal Control",
+      "address": "PO Box 849, Nashville, NC 27856",
+      "phone": "",
+      "image": "./img/shelter/office/266120.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/nash-county-animal-control-266120/",
+      "imageUrl": "https://cdn.findpawpal.com/office/266120.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 272564,
+      "slug": "nash-county-animal-shelter-272564",
+      "name": "Nash County Animal Shelter",
+      "address": "921 South 1st Street, Nashville, NC 27856",
+      "phone": "252-459-9855",
+      "image": "./img/shelter/office/272564.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/nash-county-animal-shelter-272564/",
+      "imageUrl": "https://cdn.findpawpal.com/office/272564.jpg?f=webp&w=730"
+    }
+  ]
+}

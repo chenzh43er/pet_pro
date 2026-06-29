@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:24:18.167552+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "big-bear-lake",
+    "name": "Big Bear Lake",
+    "label": "Big Bear Lake, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/big-bear-lake/",
+  "offices": [
+    {
+      "officeId": 364831,
+      "slug": "big-bear-valley-humane-society-364831",
+      "name": "Big Bear Valley Humane Society",
+      "address": "PO Box 1724, Big Bear Lake, CA 92315",
+      "phone": "909-866-5555",
+      "image": "./img/shelter/office/364831.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/big-bear-valley-humane-society-364831/",
+      "imageUrl": "https://cdn.findpawpal.com/office/364831.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:14:48.964209+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "lexington",
+    "name": "Lexington",
+    "label": "Lexington, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/lexington/",
+  "offices": [
+    {
+      "officeId": 644714,
+      "slug": "rockbridge-spca-644714",
+      "name": "Rockbridge SPCA",
+      "address": "10 Animal Place, Lexington, VA 24450",
+      "phone": "540-463-5123",
+      "image": "https://cdn.findpawpal.com/office/644714.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/rockbridge-spca-644714/"
+    }
+  ]
+}

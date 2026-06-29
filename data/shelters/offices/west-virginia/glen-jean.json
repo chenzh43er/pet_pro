@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:20:29.390298+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "glen-jean",
+    "name": "Glen Jean",
+    "label": "Glen Jean, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/glen-jean/",
+  "offices": [
+    {
+      "officeId": 493818,
+      "slug": "fayette-humane-society-inc-493818",
+      "name": "Fayette Humane Society, Inc.",
+      "address": "PO Box 262, Glen Jean, WV 25846",
+      "phone": "304-469-6846",
+      "image": "https://cdn.findpawpal.com/office/493818.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/fayette-humane-society-inc-493818/"
+    }
+  ]
+}

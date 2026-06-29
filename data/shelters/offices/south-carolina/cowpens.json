@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:57:12.625731+00:00",
+  "state": {
+    "slug": "south-carolina",
+    "name": "South Carolina"
+  },
+  "city": {
+    "slug": "cowpens",
+    "name": "Cowpens",
+    "label": "Cowpens, SC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-carolina/cowpens/",
+  "offices": [
+    {
+      "officeId": 592534,
+      "slug": "purr-fect-kitty-rescue-592534",
+      "name": "Purr-Fect Kitty Rescue",
+      "address": "820 Sunny Slope Drive, Cowpens, SC 29330",
+      "phone": "864-494-5928",
+      "image": "./img/shelter/office/592534.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/purr-fect-kitty-rescue-592534/",
+      "imageUrl": "https://cdn.findpawpal.com/office/592534.jpg?f=webp&w=730"
+    }
+  ]
+}

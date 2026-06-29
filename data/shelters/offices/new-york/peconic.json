@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:35:54.266929+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "peconic",
+    "name": "Peconic",
+    "label": "Peconic, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/peconic/",
+  "offices": [
+    {
+      "officeId": 400713,
+      "slug": "peconic-animal-control-400713",
+      "name": "Peconic Animal Control",
+      "address": "165 Peconic Lane, Peconic, NY 11958",
+      "phone": "631-765-1811",
+      "image": "https://cdn.findpawpal.com/office/400713.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/peconic-animal-control-400713/"
+    }
+  ]
+}

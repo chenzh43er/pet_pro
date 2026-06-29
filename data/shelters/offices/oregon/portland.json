@@ -1,0 +1,275 @@
+{
+  "fetchedAt": "2026-06-27T19:51:14.138478+00:00",
+  "state": {
+    "slug": "oregon",
+    "name": "Oregon"
+  },
+  "city": {
+    "slug": "portland",
+    "name": "Portland",
+    "label": "Portland, OR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oregon/portland/",
+  "offices": [
+    {
+      "officeId": 555192,
+      "slug": "family-dogs-new-life-shelter-555192",
+      "name": "Family Dogs New Life Shelter",
+      "address": "9101 Southeast Stanley Avenue, Portland, OR 97206",
+      "phone": "503-771-5596",
+      "image": "./img/shelter/office/555192.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/family-dogs-new-life-shelter-555192/",
+      "imageUrl": "https://cdn.findpawpal.com/office/555192.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 580531,
+      "slug": "fondation-for-global-biodiversity-education-for-children-580531",
+      "name": "Fondation for Global Biodiversity Education for Children",
+      "address": "205 Southeast Grand Avenue, Portland, OR 97214",
+      "phone": "503-232-7067",
+      "image": "./img/shelter/office/580531.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fondation-for-global-biodiversity-education-for-children-580531/",
+      "imageUrl": "https://cdn.findpawpal.com/office/580531.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 600933,
+      "slug": "rat-allies-600933",
+      "name": "Rat Allies",
+      "address": "PO Box 3453, Portland, OR 97208",
+      "phone": "503-287-7894",
+      "image": "./img/shelter/office/600933.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rat-allies-600933/",
+      "imageUrl": "https://cdn.findpawpal.com/office/600933.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 600950,
+      "slug": "dog-nose-news-600950",
+      "name": "Dog Nose News",
+      "address": "PO Box 12568, Portland, OR 97212",
+      "phone": "",
+      "image": "./img/shelter/office/600950.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dog-nose-news-600950/",
+      "imageUrl": "https://cdn.findpawpal.com/office/600950.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 604362,
+      "slug": "pawsitively-pit-bull-604362",
+      "name": "Pawsitively Pit Bull",
+      "address": "PO Box 16156, Portland, OR 97292",
+      "phone": "503-255-2313",
+      "image": "./img/shelter/office/604362.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pawsitively-pit-bull-604362/",
+      "imageUrl": "https://cdn.findpawpal.com/office/604362.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 604420,
+      "slug": "oregon-humane-society-604420",
+      "name": "Oregon Humane Society",
+      "address": "1067 Northeast Columbia Boulevard, Portland, OR 97211",
+      "phone": "503-285-7722",
+      "image": "./img/shelter/office/604420.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon-humane-society-604420/",
+      "imageUrl": "https://cdn.findpawpal.com/office/604420.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 613064,
+      "slug": "coalition-to-end-primate-experimentation-613064",
+      "name": "Coalition to End Primate Experimentation",
+      "address": "PO Box 6058, Portland, OR 97228",
+      "phone": "503-230-9990",
+      "image": "./img/shelter/office/613064.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/coalition-to-end-primate-experimentation-613064/",
+      "imageUrl": "https://cdn.findpawpal.com/office/613064.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 613068,
+      "slug": "four-feet-forward-613068",
+      "name": "Four Feet Forward",
+      "address": "1324 Southeast 36th Avenue, Portland, OR 97214",
+      "phone": "503-704-8598",
+      "image": "./img/shelter/office/613068.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/four-feet-forward-613068/",
+      "imageUrl": "https://cdn.findpawpal.com/office/613068.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 613097,
+      "slug": "humane-oregon-political-action-committee-613097",
+      "name": "Humane Oregon Political Action Committee",
+      "address": "PO Box 40372, Portland, OR 97240",
+      "phone": "",
+      "image": "./img/shelter/office/613097.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-oregon-political-action-committee-613097/",
+      "imageUrl": "https://cdn.findpawpal.com/office/613097.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 622100,
+      "slug": "animal-law-review-622100",
+      "name": "Animal Law Review",
+      "address": "10015 Southwest Terwilliger Boulevard, Portland, OR 97219",
+      "phone": "503-768-6600",
+      "image": "./img/shelter/office/622100.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-law-review-622100/",
+      "imageUrl": "https://cdn.findpawpal.com/office/622100.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 622120,
+      "slug": "cascade-dog-defenders-league-622120",
+      "name": "Cascade Dog Defenders' League",
+      "address": "PO Box 3453, Portland, OR 97208",
+      "phone": "",
+      "image": "./img/shelter/office/622120.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cascade-dog-defenders-league-622120/",
+      "imageUrl": "https://cdn.findpawpal.com/office/622120.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 622127,
+      "slug": "animal-legal-defense-fund-622127",
+      "name": "Animal Legal Defense Fund",
+      "address": "919 Southwest Taylor Street, Portland, OR 97205",
+      "phone": "503-231-1602",
+      "image": "./img/shelter/office/622127.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-legal-defense-fund-622127/",
+      "imageUrl": "https://cdn.findpawpal.com/office/622127.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 659569,
+      "slug": "rabbit-advocates-659569",
+      "name": "Rabbit Advocates",
+      "address": "PO Box 14235, Portland, OR 97293",
+      "phone": "503-617-1625",
+      "image": "./img/shelter/office/659569.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rabbit-advocates-659569/",
+      "imageUrl": "https://cdn.findpawpal.com/office/659569.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 659574,
+      "slug": "caper-animal-protectionists-659574",
+      "name": "Caper Animal Protectionists",
+      "address": "PO Box 66051, Portland, OR 97290",
+      "phone": "",
+      "image": "./img/shelter/office/659574.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/caper-animal-protectionists-659574/",
+      "imageUrl": "https://cdn.findpawpal.com/office/659574.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 659575,
+      "slug": "companion-animal-news-network-international-659575",
+      "name": "Companion Animal News Network International",
+      "address": "5519 Northeast 30th Avenue, Portland, OR 97211",
+      "phone": "",
+      "image": "./img/shelter/office/659575.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/companion-animal-news-network-international-659575/",
+      "imageUrl": "https://cdn.findpawpal.com/office/659575.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 659581,
+      "slug": "vets-for-pets-659581",
+      "name": "Vets for Pets",
+      "address": "6327 Southwest Capitol Highway, Portland, OR 97239",
+      "phone": "503-245-4686",
+      "image": "./img/shelter/office/659581.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/vets-for-pets-659581/",
+      "imageUrl": "https://cdn.findpawpal.com/office/659581.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 661216,
+      "slug": "cascade-ferret-network-661216",
+      "name": "Cascade Ferret Network",
+      "address": "PO Box 14884, Portland, OR 97293",
+      "phone": "503-231-0887",
+      "image": "./img/shelter/office/661216.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cascade-ferret-network-661216/",
+      "imageUrl": "https://cdn.findpawpal.com/office/661216.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 661221,
+      "slug": "other-mothers-animal-rescue-and-rehabilitation-inc-661221",
+      "name": "Other Mothers Animal Rescue and Rehabilitation, Inc.",
+      "address": "PO Box 8021, Portland, OR 97207",
+      "phone": "503-452-0465",
+      "image": "./img/shelter/office/661221.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/other-mothers-animal-rescue-and-rehabilitation-inc-661221/",
+      "imageUrl": "https://cdn.findpawpal.com/office/661221.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 661241,
+      "slug": "oregon-friends-of-shelter-animals-661241",
+      "name": "Oregon Friends of Shelter Animals",
+      "address": "4240 Northwest 185th Avenue, Portland, OR 97229",
+      "phone": "503-747-7818",
+      "image": "./img/shelter/office/661241.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon-friends-of-shelter-animals-661241/",
+      "imageUrl": "https://cdn.findpawpal.com/office/661241.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 695453,
+      "slug": "feral-cat-coalition-of-oregon-695453",
+      "name": "Feral Cat Coalition of Oregon",
+      "address": "PO Box 82734, Portland, OR 97282",
+      "phone": "503-797-2606",
+      "image": "./img/shelter/office/695453.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/feral-cat-coalition-of-oregon-695453/",
+      "imageUrl": "https://cdn.findpawpal.com/office/695453.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 695455,
+      "slug": "house-of-dreams-695455",
+      "name": "House of Dreams",
+      "address": "PO Box 30971, Portland, OR 97294",
+      "phone": "503-262-0763",
+      "image": "./img/shelter/office/695455.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/house-of-dreams-695455/",
+      "imageUrl": "https://cdn.findpawpal.com/office/695455.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 695459,
+      "slug": "animal-rescue-and-care-fund-695459",
+      "name": "Animal Rescue & Care Fund",
+      "address": "PO Box 14956, Portland, OR 97293",
+      "phone": "",
+      "image": "./img/shelter/office/695459.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-rescue-and-care-fund-695459/",
+      "imageUrl": "https://cdn.findpawpal.com/office/695459.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 695463,
+      "slug": "donoteatpigs-org-695463",
+      "name": "Donoteatpigs.Org",
+      "address": "PO Box 14442, Portland, OR 97293",
+      "phone": "",
+      "image": "./img/shelter/office/695463.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/donoteatpigs-org-695463/",
+      "imageUrl": "https://cdn.findpawpal.com/office/695463.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 695473,
+      "slug": "animal-aid-inc-695473",
+      "name": "Animal Aid Inc",
+      "address": "5335 Southwest 42nd Avenue, Portland, OR 97221",
+      "phone": "503-292-6628",
+      "image": "./img/shelter/office/695473.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-aid-inc-695473/",
+      "imageUrl": "https://cdn.findpawpal.com/office/695473.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 695516,
+      "slug": "portland-animal-control-695516",
+      "name": "Portland Animal Control",
+      "address": "1732 Northeast Alberta Street, Portland, OR 97211",
+      "phone": "503-249-9996",
+      "image": "./img/shelter/office/695516.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/portland-animal-control-695516/",
+      "imageUrl": "https://cdn.findpawpal.com/office/695516.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 712951,
+      "slug": "macaw-landing-foundation-712951",
+      "name": "Macaw Landing Foundation",
+      "address": "PO Box 17364, Portland, OR 97217",
+      "phone": "",
+      "image": "./img/shelter/office/712951.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/macaw-landing-foundation-712951/",
+      "imageUrl": "https://cdn.findpawpal.com/office/712951.jpg?f=webp&w=730"
+    }
+  ]
+}

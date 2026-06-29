@@ -1,0 +1,32 @@
+{
+  "fetchedAt": "2026-06-27T18:16:55.983415+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "punta-gorda",
+    "name": "Punta Gorda",
+    "label": "Punta Gorda, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/punta-gorda/",
+  "offices": [
+    {
+      "slug": "parrot-outreach-society-271701",
+      "name": "Parrot Outreach Society",
+      "address": "PO Box 511978, Punta Gorda, FL 33951",
+      "phone": "941-815-0879",
+      "image": "./img/shelter/office/271701.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/parrot-outreach-society-271701/",
+      "imageUrl": "https://cdn.findpawpal.com/office/271701.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "charlotte-county-animal-control-359791",
+      "name": "Charlotte County Animal Control",
+      "address": "26571 Airport Road, Punta Gorda, FL 33982",
+      "phone": "941-833-5690",
+      "image": "https://cdn.findpawpal.com/office/359791.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/charlotte-county-animal-control-359791/"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:21:05.317359+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "new-milton",
+    "name": "New Milton",
+    "label": "New Milton, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/new-milton/",
+  "offices": [
+    {
+      "officeId": 453662,
+      "slug": "hartlief-farms-wildlife-rehabilitation-center-inc-453662",
+      "name": "Hartlief Farms Wildlife Rehabilitation Center, Inc.",
+      "address": "PO Box 115A, New Milton, WV 26411",
+      "phone": "304-349-2117",
+      "image": "./img/shelter/office/453662.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hartlief-farms-wildlife-rehabilitation-center-inc-453662/",
+      "imageUrl": "https://cdn.findpawpal.com/office/453662.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 508159,
+      "slug": "humane-society-of-north-central-west-virginia-508159",
+      "name": "Humane Society of North Central West Virginia",
+      "address": "1282 Grove Summers Rd, New Milton, WV 26411",
+      "phone": "304-349-4695",
+      "image": "./img/shelter/office/508159.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-north-central-west-virginia-508159/",
+      "imageUrl": "https://cdn.findpawpal.com/office/508159.jpg?f=webp&w=730"
+    }
+  ]
+}

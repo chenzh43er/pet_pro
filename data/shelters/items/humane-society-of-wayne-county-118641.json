@@ -1,0 +1,21 @@
+{
+  "officeId": 118641,
+  "slug": "humane-society-of-wayne-county-118641",
+  "name": "Humane Society of Wayne County",
+  "address": "PO Box 1400, Monticello, KY 42633",
+  "street": "PO Box 1400",
+  "addressCity": "Monticello",
+  "stateCode": "KY",
+  "zip": "42633",
+  "phone": "606-348-3640",
+  "image": "./img/shelter/office/118641.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-wayne-county-118641/",
+  "stateSlug": "kentucky",
+  "stateName": "Kentucky",
+  "citySlug": "monticello",
+  "cityName": "Monticello",
+  "cityLabel": "Monticello, KY",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kentucky/monticello/",
+  "fetchedAt": "2026-06-27T18:57:49.456320+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/118641.jpg?f=webp&w=730"
+}

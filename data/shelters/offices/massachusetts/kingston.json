@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T19:06:42.224664+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "kingston",
+    "name": "Kingston",
+    "label": "Kingston, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/kingston/",
+  "offices": [
+    {
+      "officeId": 41021,
+      "slug": "kingston-animal-shelter-41021",
+      "name": "Kingston Animal Shelter",
+      "address": "1 Briarwood Court, Kingston, MA 02364",
+      "phone": "508-427-8525",
+      "image": "https://cdn.findpawpal.com/office/41021.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/kingston-animal-shelter-41021/"
+    },
+    {
+      "officeId": 41833,
+      "slug": "kingston-animal-control-41833",
+      "name": "Kingston Animal Control",
+      "address": "28 Evergreen Street, Kingston, MA 02364",
+      "phone": "781-585-0529",
+      "image": "https://cdn.findpawpal.com/office/41833.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/kingston-animal-control-41833/"
+    }
+  ]
+}

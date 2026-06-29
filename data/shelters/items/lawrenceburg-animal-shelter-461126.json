@@ -1,0 +1,21 @@
+{
+  "officeId": 461126,
+  "slug": "lawrenceburg-animal-shelter-461126",
+  "name": "Lawrenceburg Animal Shelter",
+  "address": "815 Gaither Avenue, Lawrenceburg, TN 38464",
+  "street": "815 Gaither Avenue",
+  "addressCity": "Lawrenceburg",
+  "stateCode": "TN",
+  "zip": "38464",
+  "phone": "931-244-7340",
+  "image": "./img/shelter/office/461126.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/lawrenceburg-animal-shelter-461126/",
+  "stateSlug": "tennessee",
+  "stateName": "Tennessee",
+  "citySlug": "lawrenceburg",
+  "cityName": "Lawrenceburg",
+  "cityLabel": "Lawrenceburg, TN",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/tennessee/lawrenceburg/",
+  "fetchedAt": "2026-06-27T20:00:44.187426+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/461126.jpg?f=webp&w=730"
+}

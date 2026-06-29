@@ -1,0 +1,94 @@
+{
+  "fetchedAt": "2026-06-27T19:38:36.599184+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "charlotte",
+    "name": "Charlotte",
+    "label": "Charlotte, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/charlotte/",
+  "offices": [
+    {
+      "officeId": 211988,
+      "slug": "mecklenburg-county-spca-211988",
+      "name": "Mecklenburg County SPCA",
+      "address": "PO Box 36293, Charlotte, NC 28236",
+      "phone": "",
+      "image": "./img/shelter/office/211988.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mecklenburg-county-spca-211988/",
+      "imageUrl": "https://cdn.findpawpal.com/office/211988.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 212903,
+      "slug": "pets-are-loving-support-212903",
+      "name": "Pets Are Loving Support",
+      "address": "PO Box 32141, Charlotte, NC 28232",
+      "phone": "704-561-5179",
+      "image": "./img/shelter/office/212903.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pets-are-loving-support-212903/",
+      "imageUrl": "https://cdn.findpawpal.com/office/212903.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 212930,
+      "slug": "animal-rescue-and-relief-inc-212930",
+      "name": "Animal Rescue and Relief, Inc.",
+      "address": "1001 East W.T. Harris Boulevard, Charlotte, NC 28213",
+      "phone": "704-737-7544",
+      "image": "./img/shelter/office/212930.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-rescue-and-relief-inc-212930/",
+      "imageUrl": "https://cdn.findpawpal.com/office/212930.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 226698,
+      "slug": "charlotte-spca-226698",
+      "name": "Charlotte SPCA",
+      "address": "6319 Fair Valley Drive, Charlotte, NC 28226",
+      "phone": "",
+      "image": "./img/shelter/office/226698.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/charlotte-spca-226698/",
+      "imageUrl": "https://cdn.findpawpal.com/office/226698.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 226706,
+      "slug": "mecklenburg-county-humane-society-226706",
+      "name": "Mecklenburg County Humane Society",
+      "address": "1815 Park Drive, Charlotte, NC 28204",
+      "phone": "704-377-1714",
+      "image": "./img/shelter/office/226706.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mecklenburg-county-humane-society-226706/",
+      "imageUrl": "https://cdn.findpawpal.com/office/226706.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 229489,
+      "slug": "humane-society-of-charlotte-229489",
+      "name": "Humane Society of Charlotte",
+      "address": "2700 Toomey Avenue, Charlotte, NC 28203",
+      "phone": "704-377-0534",
+      "image": "./img/shelter/office/229489.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-charlotte-229489/",
+      "imageUrl": "https://cdn.findpawpal.com/office/229489.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 257334,
+      "slug": "margaret-hailey-cat-sanctuary-257334",
+      "name": "Margaret Hailey Cat Sanctuary",
+      "address": "1005 Hawfield Road, Charlotte, NC 28214",
+      "phone": "704-392-4360",
+      "image": "https://cdn.findpawpal.com/office/257334.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/margaret-hailey-cat-sanctuary-257334/"
+    },
+    {
+      "officeId": 265958,
+      "slug": "charlotte-animal-control-bur-265958",
+      "name": "Charlotte Animal Control Bur",
+      "address": "8315 Byrum Drive, Charlotte, NC 28217",
+      "phone": "704-336-3786",
+      "image": "./img/shelter/office/265958.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/charlotte-animal-control-bur-265958/",
+      "imageUrl": "https://cdn.findpawpal.com/office/265958.jpg?f=webp&w=730"
+    }
+  ]
+}

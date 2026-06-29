@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:08:10.904863+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "salem",
+    "name": "Salem",
+    "label": "Salem, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/salem/",
+  "offices": [
+    {
+      "officeId": 39798,
+      "slug": "northeast-animal-shelter-39798",
+      "name": "Northeast Animal Shelter",
+      "address": "347 Highland Avenue, Salem, MA 01970",
+      "phone": "978-745-9888",
+      "image": "./img/shelter/office/39798.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/northeast-animal-shelter-39798/",
+      "imageUrl": "https://cdn.findpawpal.com/office/39798.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 41431,
+      "slug": "salem-animal-shelter-41431",
+      "name": "Salem Animal Shelter",
+      "address": "347 Highland Avenue, Salem, MA 01970",
+      "phone": "978-745-9888",
+      "image": "./img/shelter/office/41431.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/salem-animal-shelter-41431/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41431.jpg?f=webp&w=730"
+    }
+  ]
+}

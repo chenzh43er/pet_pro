@@ -1,0 +1,21 @@
+{
+  "officeId": 5893,
+  "slug": "ellis-animal-control-5893",
+  "name": "Ellis Animal Control",
+  "address": "1750 130th Avenue, Ellis, KS 67637",
+  "street": "1750 130th Avenue",
+  "addressCity": "Ellis",
+  "stateCode": "KS",
+  "zip": "67637",
+  "phone": "785-726-2500",
+  "image": "./img/shelter/office/5893.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/ellis-animal-control-5893/",
+  "stateSlug": "kansas",
+  "stateName": "Kansas",
+  "citySlug": "ellis",
+  "cityName": "Ellis",
+  "cityLabel": "Ellis, KS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kansas/ellis/",
+  "fetchedAt": "2026-06-27T18:54:53.181007+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/5893.jpg?f=webp&w=730"
+}

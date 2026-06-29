@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:48:26.209402+00:00",
+  "state": {
+    "slug": "oklahoma",
+    "name": "Oklahoma"
+  },
+  "city": {
+    "slug": "duncan",
+    "name": "Duncan",
+    "label": "Duncan, OK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oklahoma/duncan/",
+  "offices": [
+    {
+      "officeId": 647026,
+      "slug": "duncan-animal-shelter-647026",
+      "name": "Duncan Animal Shelter",
+      "address": "800 Martin Luther King Junior Avenue, Duncan, OK 73533",
+      "phone": "580-252-6608",
+      "image": "./img/shelter/office/647026.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/duncan-animal-shelter-647026/",
+      "imageUrl": "https://cdn.findpawpal.com/office/647026.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 684847,
+      "slug": "stephens-county-humane-society-684847",
+      "name": "Stephens County Humane Society",
+      "address": "714 Martin Luther King Junior Avenue, Duncan, OK 73533",
+      "phone": "580-252-7387",
+      "image": "https://cdn.findpawpal.com/office/684847.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/stephens-county-humane-society-684847/"
+    }
+  ]
+}

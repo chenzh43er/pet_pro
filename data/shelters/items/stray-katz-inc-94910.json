@@ -1,0 +1,21 @@
+{
+  "officeId": 94910,
+  "slug": "stray-katz-inc-94910",
+  "name": "Stray Katz, Inc.",
+  "address": "33 Shelburne Drive, Ewing, NJ 08638",
+  "street": "33 Shelburne Drive",
+  "addressCity": "Ewing",
+  "stateCode": "NJ",
+  "zip": "08638",
+  "phone": "609-883-5869",
+  "image": "./img/shelter/office/94910.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/stray-katz-inc-94910/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "ewing",
+  "cityName": "Ewing",
+  "cityLabel": "Ewing, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/ewing/",
+  "fetchedAt": "2026-06-27T19:26:01.880905+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/94910.jpg?f=webp&w=730"
+}

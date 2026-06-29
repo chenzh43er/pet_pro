@@ -1,0 +1,21 @@
+{
+  "officeId": 257110,
+  "slug": "small-animal-rescue-257110",
+  "name": "Small Animal Rescue",
+  "address": "7701 Impson Street, Denham Springs, LA 70706",
+  "street": "7701 Impson Street",
+  "addressCity": "Denham Springs",
+  "stateCode": "LA",
+  "zip": "70706",
+  "phone": "225-664-9974",
+  "image": "./img/shelter/office/257110.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/small-animal-rescue-257110/",
+  "stateSlug": "louisiana",
+  "stateName": "Louisiana",
+  "citySlug": "denham-springs",
+  "cityName": "Denham Springs",
+  "cityLabel": "Denham Springs, LA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/louisiana/denham-springs/",
+  "fetchedAt": "2026-06-27T18:59:28.036173+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/257110.jpg?f=webp&w=730"
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 133662,
+  "slug": "gwinnett-humane-society-133662",
+  "name": "Gwinnett Humane Society",
+  "address": "3724 Lawrenceville Highway, Lawrenceville, GA 30044",
+  "street": "3724 Lawrenceville Highway",
+  "addressCity": "Lawrenceville",
+  "stateCode": "GA",
+  "zip": "30044",
+  "phone": "770-798-7711",
+  "image": "./img/shelter/office/133662.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/gwinnett-humane-society-133662/",
+  "stateSlug": "georgia",
+  "stateName": "Georgia",
+  "citySlug": "lawrenceville",
+  "cityName": "Lawrenceville",
+  "cityLabel": "Lawrenceville, GA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/georgia/lawrenceville/",
+  "fetchedAt": "2026-06-27T18:40:32.356339+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/133662.jpg?f=webp&w=730"
+}

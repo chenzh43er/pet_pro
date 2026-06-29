@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:03:40.427267+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "canutillo",
+    "name": "Canutillo",
+    "label": "Canutillo, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/canutillo/",
+  "offices": [
+    {
+      "officeId": 537151,
+      "slug": "animal-rescue-league-of-el-paso-inc-537151",
+      "name": "Animal Rescue League of El Paso, Inc",
+      "address": "7256 La Junta Drive, Canutillo, TX 79835",
+      "phone": "915-877-5002",
+      "image": "./img/shelter/office/537151.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-rescue-league-of-el-paso-inc-537151/",
+      "imageUrl": "https://cdn.findpawpal.com/office/537151.jpg?f=webp&w=730"
+    }
+  ]
+}

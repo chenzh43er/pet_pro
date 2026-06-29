@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:02:22.705755+00:00",
+  "state": {
+    "slug": "maine",
+    "name": "Maine"
+  },
+  "city": {
+    "slug": "springvale",
+    "name": "Springvale",
+    "label": "Springvale, ME"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maine/springvale/",
+  "offices": [
+    {
+      "officeId": 320353,
+      "slug": "sanford-municipal-shelter-320353",
+      "name": "Sanford Municipal Shelter",
+      "address": "PO Box 35, Springvale, ME 04083",
+      "phone": "",
+      "image": "./img/shelter/office/320353.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sanford-municipal-shelter-320353/",
+      "imageUrl": "https://cdn.findpawpal.com/office/320353.jpg?f=webp&w=730"
+    }
+  ]
+}

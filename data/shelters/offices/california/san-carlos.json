@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:30:07.366529+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "san-carlos",
+    "name": "San Carlos",
+    "label": "San Carlos, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/san-carlos/",
+  "offices": [
+    {
+      "officeId": 361068,
+      "slug": "homeless-cat-network-361068",
+      "name": "Homeless Cat Network",
+      "address": "PO Box 6, San Carlos, CA 94070",
+      "phone": "650-286-9013",
+      "image": "./img/shelter/office/361068.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/homeless-cat-network-361068/",
+      "imageUrl": "https://cdn.findpawpal.com/office/361068.jpg?f=webp&w=730"
+    }
+  ]
+}

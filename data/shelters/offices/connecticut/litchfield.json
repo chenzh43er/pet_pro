@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:36:26.713251+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "litchfield",
+    "name": "Litchfield",
+    "label": "Litchfield, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/litchfield/",
+  "offices": [
+    {
+      "officeId": 148118,
+      "slug": "meow-inc-148118",
+      "name": "Meow, Inc.",
+      "address": "10 Naser Road, Litchfield, CT 06759",
+      "phone": "860-567-3277",
+      "image": "./img/shelter/office/148118.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/meow-inc-148118/",
+      "imageUrl": "https://cdn.findpawpal.com/office/148118.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:40:30.796358+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "morehead-city",
+    "name": "Morehead City",
+    "label": "Morehead City, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/morehead-city/",
+  "offices": [
+    {
+      "officeId": 241924,
+      "slug": "morehead-city-animal-control-241924",
+      "name": "Morehead City Animal Control",
+      "address": "3820 Bridges Street, Morehead City, NC 28557",
+      "phone": "252-728-8585",
+      "image": "./img/shelter/office/241924.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/morehead-city-animal-control-241924/",
+      "imageUrl": "https://cdn.findpawpal.com/office/241924.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 256775,
+      "slug": "pet-adoption-and-welfare-society-256775",
+      "name": "Pet Adoption & Welfare Society",
+      "address": "3010 Arendell Street, Morehead City, NC 28557",
+      "phone": "252-247-3341",
+      "image": "./img/shelter/office/256775.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-adoption-and-welfare-society-256775/",
+      "imageUrl": "https://cdn.findpawpal.com/office/256775.jpg?f=webp&w=730"
+    }
+  ]
+}

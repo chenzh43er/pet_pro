@@ -1,0 +1,10 @@
+{
+  "dog": {
+    "count": 6647,
+    "file": "dog-names.json"
+  },
+  "cat": {
+    "count": 2145,
+    "file": "cat-names.json"
+  }
+}

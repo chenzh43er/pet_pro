@@ -1,0 +1,21 @@
+{
+  "officeId": 101665,
+  "slug": "old-bridge-animal-control-101665",
+  "name": "Old Bridge Animal Control",
+  "address": "1 Old Bridge Plaza, Old Bridge, NJ 08857",
+  "street": "1 Old Bridge Plaza",
+  "addressCity": "Old Bridge",
+  "stateCode": "NJ",
+  "zip": "08857",
+  "phone": "732-721-5600",
+  "image": "./img/shelter/office/101665.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/old-bridge-animal-control-101665/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "old-bridge",
+  "cityName": "Old Bridge",
+  "cityLabel": "Old Bridge, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/old-bridge/",
+  "fetchedAt": "2026-06-27T19:27:57.849599+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/101665.jpg?f=webp&w=730"
+}

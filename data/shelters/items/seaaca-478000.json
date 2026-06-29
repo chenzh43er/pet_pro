@@ -1,0 +1,21 @@
+{
+  "officeId": 478000,
+  "slug": "seaaca-478000",
+  "name": "SEAACA",
+  "address": "9777 Seaaca Street, Downey, CA 90241",
+  "street": "9777 Seaaca Street",
+  "addressCity": "Downey",
+  "stateCode": "CA",
+  "zip": "90241",
+  "phone": "562-803-3301",
+  "image": "./img/shelter/office/478000.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/seaaca-478000/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "downey",
+  "cityName": "Downey",
+  "cityLabel": "Downey, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/downey/",
+  "fetchedAt": "2026-06-27T18:25:28.214473+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/478000.jpg?f=webp&w=730"
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 115327,
+  "slug": "lexington-humane-society-115327",
+  "name": "Lexington Humane Society",
+  "address": "1600 Old Frankfort Pike, Lexington, KY 40504",
+  "street": "1600 Old Frankfort Pike",
+  "addressCity": "Lexington",
+  "stateCode": "KY",
+  "zip": "40504",
+  "phone": "859-233-0044",
+  "image": "./img/shelter/office/115327.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/lexington-humane-society-115327/",
+  "stateSlug": "kentucky",
+  "stateName": "Kentucky",
+  "citySlug": "lexington",
+  "cityName": "Lexington",
+  "cityLabel": "Lexington, KY",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kentucky/lexington/",
+  "fetchedAt": "2026-06-27T18:57:34.526227+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/115327.jpg?f=webp&w=730"
+}

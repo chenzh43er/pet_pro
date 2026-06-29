@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:58:33.502312+00:00",
+  "state": {
+    "slug": "south-carolina",
+    "name": "South Carolina"
+  },
+  "city": {
+    "slug": "walterboro",
+    "name": "Walterboro",
+    "label": "Walterboro, SC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-carolina/walterboro/",
+  "offices": [
+    {
+      "officeId": 551717,
+      "slug": "colleton-county-spca-551717",
+      "name": "Colleton County SPCA",
+      "address": "PO Box 2204, Walterboro, SC 29488",
+      "phone": "843-538-2273",
+      "image": "./img/shelter/office/551717.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/colleton-county-spca-551717/",
+      "imageUrl": "https://cdn.findpawpal.com/office/551717.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 709524,
+      "slug": "colleton-county-animal-control-709524",
+      "name": "Colleton County Animal Control",
+      "address": "33 Poor Farm Road, Walterboro, SC 29488",
+      "phone": "843-893-2651",
+      "image": "./img/shelter/office/709524.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/colleton-county-animal-control-709524/",
+      "imageUrl": "https://cdn.findpawpal.com/office/709524.jpg?f=webp&w=730"
+    }
+  ]
+}

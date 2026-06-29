@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:26:07.156294+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "galt",
+    "name": "Galt",
+    "label": "Galt, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/galt/",
+  "offices": [
+    {
+      "officeId": 385340,
+      "slug": "galt-animal-control-385340",
+      "name": "Galt Animal Control",
+      "address": "774 Rachel Drive, Galt, CA 95632",
+      "phone": "209-745-6302",
+      "image": "./img/shelter/office/385340.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/galt-animal-control-385340/",
+      "imageUrl": "https://cdn.findpawpal.com/office/385340.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 47300,
+  "slug": "north-country-humane-society-47300",
+  "name": "North Country Humane Society",
+  "address": "60 Pleasant Street, Colebrook, NH 03576",
+  "street": "60 Pleasant Street",
+  "addressCity": "Colebrook",
+  "stateCode": "NH",
+  "zip": "03576",
+  "phone": "603-237-4385",
+  "image": "./img/shelter/office/47300.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/north-country-humane-society-47300/",
+  "stateSlug": "new-hampshire",
+  "stateName": "New Hampshire",
+  "citySlug": "colebrook",
+  "cityName": "Colebrook",
+  "cityLabel": "Colebrook, NH",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-hampshire/colebrook/",
+  "fetchedAt": "2026-06-27T19:23:56.784535+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/47300.jpg?f=webp&w=730"
+}

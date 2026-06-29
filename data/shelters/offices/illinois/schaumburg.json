@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T18:48:04.946847+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "schaumburg",
+    "name": "Schaumburg",
+    "label": "Schaumburg, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/schaumburg/",
+  "offices": [
+    {
+      "officeId": 411535,
+      "slug": "strays-halfway-house-411535",
+      "name": "Strays Halfway House",
+      "address": "PO Box 68811, Schaumburg, IL 60168",
+      "phone": "630-351-3150",
+      "image": "https://cdn.findpawpal.com/office/411535.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/strays-halfway-house-411535/"
+    },
+    {
+      "officeId": 412003,
+      "slug": "halos-haven-412003",
+      "name": "Halo's Haven",
+      "address": "1612 Warwick Lane, Schaumburg, IL 60193",
+      "phone": "847-334-1339",
+      "image": "./img/shelter/office/412003.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/halos-haven-412003/",
+      "imageUrl": "https://cdn.findpawpal.com/office/412003.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "fetchedAt": "2026-06-27T18:17:34.817585+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "vero-beach",
+    "name": "Vero Beach",
+    "label": "Vero Beach, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/vero-beach/",
+  "offices": [
+    {
+      "slug": "indian-river-animal-shelter-284379",
+      "name": "Indian River Animal Shelter",
+      "address": "78th St, Vero Beach, FL 32960",
+      "phone": "772-978-4600",
+      "image": "./img/shelter/office/284379.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/indian-river-animal-shelter-284379/",
+      "imageUrl": "https://cdn.findpawpal.com/office/284379.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ferret-friends-disaster-response-international-284386",
+      "name": "Ferret Friends Disaster Response International",
+      "address": "8775 20th Street, Vero Beach, FL 32966",
+      "phone": "772-567-0997",
+      "image": "https://cdn.findpawpal.com/office/284386.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/ferret-friends-disaster-response-international-284386/"
+    },
+    {
+      "slug": "doggone-292428",
+      "name": "Doggone",
+      "address": "PO Box 651155, Vero Beach, FL 32965",
+      "phone": "561-569-8436",
+      "image": "./img/shelter/office/292428.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/doggone-292428/",
+      "imageUrl": "https://cdn.findpawpal.com/office/292428.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-vero-beach-323023",
+      "name": "Humane Society of Vero Beach",
+      "address": "4701 41st Street, Vero Beach, FL 32967",
+      "phone": "561-567-2309",
+      "image": "./img/shelter/office/323023.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-vero-beach-323023/",
+      "imageUrl": "https://cdn.findpawpal.com/office/323023.jpg?f=webp&w=730"
+    }
+  ]
+}

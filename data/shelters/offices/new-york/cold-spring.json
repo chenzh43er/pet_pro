@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:32:37.592830+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "cold-spring",
+    "name": "Cold Spring",
+    "label": "Cold Spring, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/cold-spring/",
+  "offices": [
+    {
+      "officeId": 401019,
+      "slug": "cold-spring-animal-control-401019",
+      "name": "Cold Spring Animal Control",
+      "address": "61 Torchia Road, Cold Spring, NY 10516",
+      "phone": "845-661-3638",
+      "image": "./img/shelter/office/401019.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cold-spring-animal-control-401019/",
+      "imageUrl": "https://cdn.findpawpal.com/office/401019.jpg?f=webp&w=730"
+    }
+  ]
+}

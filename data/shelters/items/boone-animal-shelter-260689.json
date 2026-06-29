@@ -1,0 +1,21 @@
+{
+  "officeId": 260689,
+  "slug": "boone-animal-shelter-260689",
+  "name": "Boone Animal Shelter",
+  "address": "200 Casey Lane, Boone, NC 28607",
+  "street": "200 Casey Lane",
+  "addressCity": "Boone",
+  "stateCode": "NC",
+  "zip": "28607",
+  "phone": "828-264-7865",
+  "image": "./img/shelter/office/260689.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/boone-animal-shelter-260689/",
+  "stateSlug": "north-carolina",
+  "stateName": "North Carolina",
+  "citySlug": "boone",
+  "cityName": "Boone",
+  "cityLabel": "Boone, NC",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/north-carolina/boone/",
+  "fetchedAt": "2026-06-27T19:38:11.508029+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/260689.jpg?f=webp&w=730"
+}

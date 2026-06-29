@@ -1,0 +1,21 @@
+{
+  "officeId": 453586,
+  "slug": "bangor-animal-shelter-453586",
+  "name": "Bangor Animal Shelter",
+  "address": "541 Maine Avenue, Bangor, ME 04401",
+  "street": "541 Maine Avenue",
+  "addressCity": "Bangor",
+  "stateCode": "ME",
+  "zip": "04401",
+  "phone": "207-947-3205",
+  "image": "./img/shelter/office/453586.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/bangor-animal-shelter-453586/",
+  "stateSlug": "maine",
+  "stateName": "Maine",
+  "citySlug": "bangor",
+  "cityName": "Bangor",
+  "cityLabel": "Bangor, ME",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/maine/bangor/",
+  "fetchedAt": "2026-06-27T19:01:10.842895+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/453586.jpg?f=webp&w=730"
+}

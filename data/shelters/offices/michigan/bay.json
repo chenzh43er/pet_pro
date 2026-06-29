@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T19:09:25.787278+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "bay",
+    "name": "Bay",
+    "label": "Bay, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/bay/",
+  "offices": [
+    {
+      "officeId": 209795,
+      "slug": "katy-bishops-animal-friends-209795",
+      "name": "Katy Bishop's Animal Friends",
+      "address": "PO Box 1593, Bay, MI 48706",
+      "phone": "",
+      "image": "./img/shelter/office/209795.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/katy-bishops-animal-friends-209795/",
+      "imageUrl": "https://cdn.findpawpal.com/office/209795.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 209803,
+      "slug": "few-steps-from-home-animal-rescue-209803",
+      "name": "Few Steps From Home Animal Rescue",
+      "address": "PO Box 1547, Bay, MI 48706",
+      "phone": "",
+      "image": "./img/shelter/office/209803.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/few-steps-from-home-animal-rescue-209803/",
+      "imageUrl": "https://cdn.findpawpal.com/office/209803.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 228267,
+      "slug": "few-steps-from-home-228267",
+      "name": "Few Steps From Home",
+      "address": "932 Huron Avenue, Bay, MI 48706",
+      "phone": "989-671-7331",
+      "image": "./img/shelter/office/228267.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/few-steps-from-home-228267/",
+      "imageUrl": "https://cdn.findpawpal.com/office/228267.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 237356,
+      "slug": "bay-county-animal-control-237356",
+      "name": "Bay County Animal Control",
+      "address": "800 Livingston Street, Bay, MI 48708",
+      "phone": "989-894-0679",
+      "image": "./img/shelter/office/237356.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bay-county-animal-control-237356/",
+      "imageUrl": "https://cdn.findpawpal.com/office/237356.jpg?f=webp&w=730"
+    }
+  ]
+}

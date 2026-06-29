@@ -1,0 +1,63 @@
+{
+  "fetchedAt": "2026-06-27T19:20:15.006088+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "poplar-bluff",
+    "name": "Poplar Bluff",
+    "label": "Poplar Bluff, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/poplar-bluff/",
+  "offices": [
+    {
+      "officeId": 191778,
+      "slug": "on-the-other-side-of-the-fence-191778",
+      "name": "On The Other Side Of The Fence",
+      "address": "520 County Road 5351, Poplar Bluff, MO 63901",
+      "phone": "573-686-7551",
+      "image": "https://cdn.findpawpal.com/office/191778.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/on-the-other-side-of-the-fence-191778/"
+    },
+    {
+      "officeId": 191912,
+      "slug": "poplar-bluff-police-department-191912",
+      "name": "Poplar Bluff Police Department",
+      "address": "330 North 2nd Street, Poplar Bluff, MO 63901",
+      "phone": "573-785-5776",
+      "image": "./img/shelter/office/191912.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/poplar-bluff-police-department-191912/",
+      "imageUrl": "https://cdn.findpawpal.com/office/191912.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 204896,
+      "slug": "pawtners-for-life-humane-society-204896",
+      "name": "Pawtners for Life Humane Society",
+      "address": "2064 County Road 607, Poplar Bluff, MO 63901",
+      "phone": "573-686-5102",
+      "image": "https://cdn.findpawpal.com/office/204896.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/pawtners-for-life-humane-society-204896/"
+    },
+    {
+      "officeId": 212883,
+      "slug": "poplar-bluff-animal-control-212883",
+      "name": "Poplar Bluff Animal Control",
+      "address": "BUTLER St, Poplar Bluff, MO 63901",
+      "phone": "573-686-8635",
+      "image": "./img/shelter/office/212883.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/poplar-bluff-animal-control-212883/",
+      "imageUrl": "https://cdn.findpawpal.com/office/212883.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 238542,
+      "slug": "animal-welfare-alliance-of-southeast-missouri-238542",
+      "name": "Animal Welfare Alliance of Southeast Missouri",
+      "address": "930 North Westwood Boulevard, Poplar Bluff, MO 63901",
+      "phone": "",
+      "image": "./img/shelter/office/238542.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-welfare-alliance-of-southeast-missouri-238542/",
+      "imageUrl": "https://cdn.findpawpal.com/office/238542.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T19:08:45.462803+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "wakefield",
+    "name": "Wakefield",
+    "label": "Wakefield, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/wakefield/",
+  "offices": [
+    {
+      "officeId": 40888,
+      "slug": "animal-control-of-wakefield-and-stoneham-40888",
+      "name": "Animal Control of Wakefield & Stoneham",
+      "address": "1 Lafayette Street, Wakefield, MA 01880",
+      "phone": "781-231-0474",
+      "image": "./img/shelter/office/40888.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-control-of-wakefield-and-stoneham-40888/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40888.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 44494,
+      "slug": "protection-of-animals-in-wakefield-society-44494",
+      "name": "Protection of Animals In Wakefield Society",
+      "address": "PO Box 1842, Wakefield, MA 01880",
+      "phone": "781-246-6111",
+      "image": "https://cdn.findpawpal.com/office/44494.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/protection-of-animals-in-wakefield-society-44494/"
+    },
+    {
+      "officeId": 44664,
+      "slug": "wakefield-animal-control-44664",
+      "name": "Wakefield Animal Control",
+      "address": "383 Lowell Street, Wakefield, MA 01880",
+      "phone": "781-968-5166",
+      "image": "./img/shelter/office/44664.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wakefield-animal-control-44664/",
+      "imageUrl": "https://cdn.findpawpal.com/office/44664.jpg?f=webp&w=730"
+    }
+  ]
+}

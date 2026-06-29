@@ -1,0 +1,85 @@
+{
+  "fetchedAt": "2026-06-27T19:22:40.310637+00:00",
+  "state": {
+    "slug": "nebraska",
+    "name": "Nebraska"
+  },
+  "city": {
+    "slug": "lincoln",
+    "name": "Lincoln",
+    "label": "Lincoln, NE"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nebraska/lincoln/",
+  "offices": [
+    {
+      "officeId": 390358,
+      "slug": "lincoln-animal-control-center-390358",
+      "name": "Lincoln Animal Control Center",
+      "address": "3140 N Street, Lincoln, NE 68510",
+      "phone": "402-441-7900",
+      "image": "./img/shelter/office/390358.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lincoln-animal-control-center-390358/",
+      "imageUrl": "https://cdn.findpawpal.com/office/390358.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 395711,
+      "slug": "nebraska-no-kill-canine-rescue-395711",
+      "name": "Nebraska No Kill Canine Rescue",
+      "address": "PO Box 6295, Lincoln, NE 68506",
+      "phone": "",
+      "image": "./img/shelter/office/395711.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska-no-kill-canine-rescue-395711/",
+      "imageUrl": "https://cdn.findpawpal.com/office/395711.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 486435,
+      "slug": "versatile-adoption-rescue-486435",
+      "name": "Versatile Adoption Rescue",
+      "address": "5900 Saltillo Road, Lincoln, NE 68516",
+      "phone": "",
+      "image": "./img/shelter/office/486435.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/versatile-adoption-rescue-486435/",
+      "imageUrl": "https://cdn.findpawpal.com/office/486435.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 495575,
+      "slug": "ricks-reptile-rescue-and-sanctuary-495575",
+      "name": "Rick's Reptile Rescue and Sanctuary",
+      "address": "1545 South 13th Street, Lincoln, NE 68502",
+      "phone": "402-432-6878",
+      "image": "./img/shelter/office/495575.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ricks-reptile-rescue-and-sanctuary-495575/",
+      "imageUrl": "https://cdn.findpawpal.com/office/495575.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 547354,
+      "slug": "coalition-for-pet-protection-547354",
+      "name": "Coalition for Pet Protection",
+      "address": "1609 South 23rd Street, Lincoln, NE 68502",
+      "phone": "402-475-0321",
+      "image": "./img/shelter/office/547354.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/coalition-for-pet-protection-547354/",
+      "imageUrl": "https://cdn.findpawpal.com/office/547354.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 669821,
+      "slug": "second-chance-feline-rescue-669821",
+      "name": "Second Chance Feline Rescue",
+      "address": "PO Box 22560, Lincoln, NE 68542",
+      "phone": "402-475-2882",
+      "image": "./img/shelter/office/669821.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/second-chance-feline-rescue-669821/",
+      "imageUrl": "https://cdn.findpawpal.com/office/669821.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 669871,
+      "slug": "capital-humane-society-669871",
+      "name": "Capital Humane Society",
+      "address": "2320 Park Boulevard, Lincoln, NE 68502",
+      "phone": "402-441-4488",
+      "image": "./img/shelter/office/669871.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/capital-humane-society-669871/",
+      "imageUrl": "https://cdn.findpawpal.com/office/669871.jpg?f=webp&w=730"
+    }
+  ]
+}

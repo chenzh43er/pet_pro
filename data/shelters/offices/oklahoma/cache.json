@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:48:11.557480+00:00",
+  "state": {
+    "slug": "oklahoma",
+    "name": "Oklahoma"
+  },
+  "city": {
+    "slug": "cache",
+    "name": "Cache",
+    "label": "Cache, OK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oklahoma/cache/",
+  "offices": [
+    {
+      "officeId": 707703,
+      "slug": "cache-city-animal-control-707703",
+      "name": "Cache City Animal Control",
+      "address": "404 C Avenue, Cache, OK 73527",
+      "phone": "580-429-3067",
+      "image": "./img/shelter/office/707703.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cache-city-animal-control-707703/",
+      "imageUrl": "https://cdn.findpawpal.com/office/707703.jpg?f=webp&w=730"
+    }
+  ]
+}

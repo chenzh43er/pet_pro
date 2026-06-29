@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:24:40.186157+00:00",
+  "state": {
+    "slug": "new-hampshire",
+    "name": "New Hampshire"
+  },
+  "city": {
+    "slug": "sandown",
+    "name": "Sandown",
+    "label": "Sandown, NH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-hampshire/sandown/",
+  "offices": [
+    {
+      "officeId": 43969,
+      "slug": "doberman-rescue-unlimited-43969",
+      "name": "Doberman Rescue Unlimited",
+      "address": "52 Tenney Road, Sandown, NH 03873",
+      "phone": "603-887-1200",
+      "image": "./img/shelter/office/43969.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/doberman-rescue-unlimited-43969/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43969.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 43991,
+      "slug": "animal-placement-service-and-puppy-rescue-43991",
+      "name": "Animal Placement Service & Puppy Rescue",
+      "address": "PO Box 611, Sandown, NH 03873",
+      "phone": "603-887-2228",
+      "image": "./img/shelter/office/43991.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-placement-service-and-puppy-rescue-43991/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43991.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 47313,
+      "slug": "pap911-47313",
+      "name": "Pap911",
+      "address": "26 Hawkwood Rd, Sandown, NH 03873",
+      "phone": "603-887-0799",
+      "image": "./img/shelter/office/47313.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pap911-47313/",
+      "imageUrl": "https://cdn.findpawpal.com/office/47313.jpg?f=webp&w=730"
+    }
+  ]
+}

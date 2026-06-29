@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:13:13.067384+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "wayne",
+    "name": "Wayne",
+    "label": "Wayne, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/wayne/",
+  "offices": [
+    {
+      "officeId": 227387,
+      "slug": "wayne-animal-shelter-227387",
+      "name": "Wayne Animal Shelter",
+      "address": "4000 Biddle Street, Wayne, MI 48184",
+      "phone": "734-721-1643",
+      "image": "./img/shelter/office/227387.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wayne-animal-shelter-227387/",
+      "imageUrl": "https://cdn.findpawpal.com/office/227387.jpg?f=webp&w=730"
+    }
+  ]
+}

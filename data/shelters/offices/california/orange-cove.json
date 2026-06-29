@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:28:47.105929+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "orange-cove",
+    "name": "Orange Cove",
+    "label": "Orange Cove, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/orange-cove/",
+  "offices": [
+    {
+      "officeId": 388062,
+      "slug": "noahs-friends-animal-sanctuary-388062",
+      "name": "Noah's Friends Animal Sanctuary",
+      "address": "PO Box 238, Orange Cove, CA 93646",
+      "phone": "559-626-0738",
+      "image": "./img/shelter/office/388062.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/noahs-friends-animal-sanctuary-388062/",
+      "imageUrl": "https://cdn.findpawpal.com/office/388062.jpg?f=webp&w=730"
+    }
+  ]
+}

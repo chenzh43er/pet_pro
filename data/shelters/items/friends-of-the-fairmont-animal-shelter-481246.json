@@ -1,0 +1,21 @@
+{
+  "officeId": 481246,
+  "slug": "friends-of-the-fairmont-animal-shelter-481246",
+  "name": "Friends of the Fairmont Animal Shelter",
+  "address": "2700 Fairmont Dr, San Leandro, CA 94578",
+  "street": "2700 Fairmont Dr",
+  "addressCity": "San Leandro",
+  "stateCode": "CA",
+  "zip": "94578",
+  "phone": "510-667-7707",
+  "image": "./img/shelter/office/481246.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/friends-of-the-fairmont-animal-shelter-481246/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "san-leandro",
+  "cityName": "San Leandro",
+  "cityLabel": "San Leandro, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/san-leandro/",
+  "fetchedAt": "2026-06-27T18:30:21.548880+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/481246.jpg?f=webp&w=730"
+}

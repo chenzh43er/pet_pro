@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:40:26.328358+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "midland",
+    "name": "Midland",
+    "label": "Midland, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/midland/",
+  "offices": [
+    {
+      "officeId": 213010,
+      "slug": "dogs-hope-rescue-213010",
+      "name": "Dogs Hope Rescue",
+      "address": "10503 Robert Bost Road, Midland, NC 28107",
+      "phone": "704-888-5106",
+      "image": "https://cdn.findpawpal.com/office/213010.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/dogs-hope-rescue-213010/"
+    }
+  ]
+}

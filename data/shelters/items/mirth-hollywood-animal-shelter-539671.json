@@ -1,0 +1,21 @@
+{
+  "officeId": 539671,
+  "slug": "mirth-hollywood-animal-shelter-539671",
+  "name": "Mirth Hollywood Animal Shelter",
+  "address": "13131 Sherman Way, Los Angeles, CA 91605",
+  "street": "13131 Sherman Way",
+  "addressCity": "Los Angeles",
+  "stateCode": "CA",
+  "zip": "91605",
+  "phone": "888-452-7381",
+  "image": "./img/shelter/office/539671.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/mirth-hollywood-animal-shelter-539671/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "los-angeles",
+  "cityName": "Los Angeles",
+  "cityLabel": "Los Angeles, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/los-angeles/",
+  "fetchedAt": "2026-06-27T18:27:28.259888+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/539671.jpg?f=webp&w=730"
+}

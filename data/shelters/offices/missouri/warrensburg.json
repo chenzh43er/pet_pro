@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:21:15.396740+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "warrensburg",
+    "name": "Warrensburg",
+    "label": "Warrensburg, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/warrensburg/",
+  "offices": [
+    {
+      "officeId": 192541,
+      "slug": "animal-shelter-192541",
+      "name": "Animal Shelter",
+      "address": "35 Southwest 101 Road, Warrensburg, MO 64093",
+      "phone": "660-747-7156",
+      "image": "./img/shelter/office/192541.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-shelter-192541/",
+      "imageUrl": "https://cdn.findpawpal.com/office/192541.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 229815,
+      "slug": "old-drum-humane-society-229815",
+      "name": "Old Drum Humane Society",
+      "address": "228 Fairview Road, Warrensburg, MO 64093",
+      "phone": "660-747-7572",
+      "image": "./img/shelter/office/229815.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/old-drum-humane-society-229815/",
+      "imageUrl": "https://cdn.findpawpal.com/office/229815.jpg?f=webp&w=730"
+    }
+  ]
+}

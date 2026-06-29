@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:25:04.788599+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "corning",
+    "name": "Corning",
+    "label": "Corning, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/corning/",
+  "offices": [
+    {
+      "officeId": 385598,
+      "slug": "corning-city-animal-control-385598",
+      "name": "Corning City Animal Control",
+      "address": "774 3rd Street, Corning, CA 96021",
+      "phone": "530-824-7000",
+      "image": "./img/shelter/office/385598.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/corning-city-animal-control-385598/",
+      "imageUrl": "https://cdn.findpawpal.com/office/385598.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 389365,
+      "slug": "second-chance-pet-rescue-389365",
+      "name": "Second Chance Pet Rescue",
+      "address": "4312 Rawson Road, Corning, CA 96021",
+      "phone": "530-824-1985",
+      "image": "./img/shelter/office/389365.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/second-chance-pet-rescue-389365/",
+      "imageUrl": "https://cdn.findpawpal.com/office/389365.jpg?f=webp&w=730"
+    }
+  ]
+}

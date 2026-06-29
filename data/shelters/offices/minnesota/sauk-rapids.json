@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:15:22.183728+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "sauk-rapids",
+    "name": "Sauk Rapids",
+    "label": "Sauk Rapids, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/sauk-rapids/",
+  "offices": [
+    {
+      "officeId": 421320,
+      "slug": "central-minnesota-animal-care-and-control-421320",
+      "name": "Central Minnesota Animal Care and Control",
+      "address": "1021 South Benton Drive, Sauk Rapids, MN 56379",
+      "phone": "320-257-0103",
+      "image": "https://cdn.findpawpal.com/office/421320.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/central-minnesota-animal-care-and-control-421320/"
+    }
+  ]
+}

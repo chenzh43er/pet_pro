@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:31:57.366737+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "walnut-creek",
+    "name": "Walnut Creek",
+    "label": "Walnut Creek, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/walnut-creek/",
+  "offices": [
+    {
+      "officeId": 380322,
+      "slug": "community-concern-for-cats-380322",
+      "name": "Community Concern for Cats",
+      "address": "PO Box 3795, Walnut Creek, CA 94598",
+      "phone": "925-938-2287",
+      "image": "./img/shelter/office/380322.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/community-concern-for-cats-380322/",
+      "imageUrl": "https://cdn.findpawpal.com/office/380322.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 536390,
+      "slug": "tony-la-russas-animal-rescue-foundation-536390",
+      "name": "Tony La Russa's Animal Rescue Foundation",
+      "address": "2890 Mitchell Drive, Walnut Creek, CA 94598",
+      "phone": "925-256-1273",
+      "image": "./img/shelter/office/536390.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tony-la-russas-animal-rescue-foundation-536390/",
+      "imageUrl": "https://cdn.findpawpal.com/office/536390.jpg?f=webp&w=730"
+    }
+  ]
+}

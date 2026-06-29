@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:41:23.057246+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "sandersville",
+    "name": "Sandersville",
+    "label": "Sandersville, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/sandersville/",
+  "offices": [
+    {
+      "officeId": 142498,
+      "slug": "sandersville-animal-control-142498",
+      "name": "Sandersville Animal Control",
+      "address": "430 Beck Boulevard, Sandersville, GA 31082",
+      "phone": "478-552-2756",
+      "image": "./img/shelter/office/142498.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sandersville-animal-control-142498/",
+      "imageUrl": "https://cdn.findpawpal.com/office/142498.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 144033,
+      "slug": "washington-county-animal-hospital-144033",
+      "name": "Washington County Animal Hospital",
+      "address": "1182 Highway 15, Sandersville, GA 31082",
+      "phone": "478-552-9011",
+      "image": "./img/shelter/office/144033.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/washington-county-animal-hospital-144033/",
+      "imageUrl": "https://cdn.findpawpal.com/office/144033.jpg?f=webp&w=730"
+    }
+  ]
+}

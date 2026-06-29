@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:17:26.699497+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "centralia",
+    "name": "Centralia",
+    "label": "Centralia, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/centralia/",
+  "offices": [
+    {
+      "officeId": 614830,
+      "slug": "centralia-animal-control-614830",
+      "name": "Centralia Animal Control",
+      "address": "118 West Maple Street, Centralia, WA 98531",
+      "phone": "360-740-1105",
+      "image": "./img/shelter/office/614830.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/centralia-animal-control-614830/",
+      "imageUrl": "https://cdn.findpawpal.com/office/614830.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 714698,
+      "slug": "lewis-county-shelter-714698",
+      "name": "Lewis County Shelter",
+      "address": "621 South Diamond Street, Centralia, WA 98531",
+      "phone": "360-736-5140",
+      "image": "./img/shelter/office/714698.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lewis-county-shelter-714698/",
+      "imageUrl": "https://cdn.findpawpal.com/office/714698.jpg?f=webp&w=730"
+    }
+  ]
+}

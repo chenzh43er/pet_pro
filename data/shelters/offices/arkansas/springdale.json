@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:23:18.919376+00:00",
+  "state": {
+    "slug": "arkansas",
+    "name": "Arkansas"
+  },
+  "city": {
+    "slug": "springdale",
+    "name": "Springdale",
+    "label": "Springdale, AR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arkansas/springdale/",
+  "offices": [
+    {
+      "officeId": 253961,
+      "slug": "for-pets-sake-253961",
+      "name": "For Pets Sake",
+      "address": "PO Box 6601, Springdale, AR 72766",
+      "phone": "479-750-7171",
+      "image": "./img/shelter/office/253961.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/for-pets-sake-253961/",
+      "imageUrl": "https://cdn.findpawpal.com/office/253961.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 254789,
+      "slug": "adopt-a-pet-254789",
+      "name": "Adopt A Pet",
+      "address": "203 East Randall Wobbe Lane, Springdale, AR 72764",
+      "phone": "",
+      "image": "./img/shelter/office/254789.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/adopt-a-pet-254789/",
+      "imageUrl": "https://cdn.findpawpal.com/office/254789.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 272649,
+      "slug": "city-of-springdale-animal-services-272649",
+      "name": "City Of Springdale, Animal Services",
+      "address": "321 West Randall Wobbe Lane, Springdale, AR 72764",
+      "phone": "479-750-8163",
+      "image": "./img/shelter/office/272649.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/city-of-springdale-animal-services-272649/",
+      "imageUrl": "https://cdn.findpawpal.com/office/272649.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:04:33.571746+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "riviera-beach",
+    "name": "Riviera Beach",
+    "label": "Riviera Beach, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/riviera-beach/",
+  "offices": [
+    {
+      "officeId": 372391,
+      "slug": "noahs-children-372391",
+      "name": "Noah's Children",
+      "address": "951 Chestnut Manor Court, Riviera Beach, MD 21226",
+      "phone": "410-570-2298",
+      "image": "./img/shelter/office/372391.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/noahs-children-372391/",
+      "imageUrl": "https://cdn.findpawpal.com/office/372391.jpg?f=webp&w=730"
+    }
+  ]
+}

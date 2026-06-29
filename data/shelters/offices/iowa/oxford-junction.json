@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:53:57.854137+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa"
+  },
+  "city": {
+    "slug": "oxford-junction",
+    "name": "Oxford Junction",
+    "label": "Oxford Junction, IA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/oxford-junction/",
+  "offices": [
+    {
+      "officeId": 327271,
+      "slug": "animal-welfare-foundation-of-iowa-327271",
+      "name": "Animal Welfare Foundation of Iowa",
+      "address": "2512 Davenport Avenue, Oxford Junction, IA 52323",
+      "phone": "563-826-2208",
+      "image": "https://cdn.findpawpal.com/office/327271.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-welfare-foundation-of-iowa-327271/"
+    }
+  ]
+}

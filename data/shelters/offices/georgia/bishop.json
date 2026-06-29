@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:38:35.760340+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "bishop",
+    "name": "Bishop",
+    "label": "Bishop, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/bishop/",
+  "offices": [
+    {
+      "officeId": 135653,
+      "slug": "oconee-county-animal-control-135653",
+      "name": "Oconee County Animal Control",
+      "address": "1171 Branch Road, Bishop, GA 30621",
+      "phone": "706-769-3956",
+      "image": "./img/shelter/office/135653.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/oconee-county-animal-control-135653/",
+      "imageUrl": "https://cdn.findpawpal.com/office/135653.jpg?f=webp&w=730"
+    }
+  ]
+}

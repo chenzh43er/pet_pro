@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:38:31.264694+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "avondale-estates",
+    "name": "Avondale Estates",
+    "label": "Avondale Estates, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/avondale-estates/",
+  "offices": [
+    {
+      "officeId": 140768,
+      "slug": "avondale-estates-animal-control-140768",
+      "name": "Avondale Estates Animal Control",
+      "address": "129 Lake Street, Avondale Estates, GA 30002",
+      "phone": "404-292-8800",
+      "image": "https://cdn.findpawpal.com/office/140768.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/avondale-estates-animal-control-140768/"
+    }
+  ]
+}

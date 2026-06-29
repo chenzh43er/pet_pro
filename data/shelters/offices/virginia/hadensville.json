@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:14:23.159200+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "hadensville",
+    "name": "Hadensville",
+    "label": "Hadensville, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/hadensville/",
+  "offices": [
+    {
+      "officeId": 706703,
+      "slug": "pet-rescue-foundation-706703",
+      "name": "Pet Rescue Foundation",
+      "address": "PO Box 70, Hadensville, VA 23067",
+      "phone": "804-627-6066",
+      "image": "https://cdn.findpawpal.com/office/706703.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-rescue-foundation-706703/"
+    }
+  ]
+}

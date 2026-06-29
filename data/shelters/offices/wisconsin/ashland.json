@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:21:59.007429+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "ashland",
+    "name": "Ashland",
+    "label": "Ashland, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/ashland/",
+  "offices": [
+    {
+      "officeId": 514459,
+      "slug": "chequamegon-humane-associates-514459",
+      "name": "Chequamegon Humane Associates",
+      "address": "405 Old Airport Road, Ashland, WI 54806",
+      "phone": "715-682-9744",
+      "image": "./img/shelter/office/514459.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/chequamegon-humane-associates-514459/",
+      "imageUrl": "https://cdn.findpawpal.com/office/514459.jpg?f=webp&w=730"
+    }
+  ]
+}

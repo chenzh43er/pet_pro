@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:34:41.587048+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "mamaroneck",
+    "name": "Mamaroneck",
+    "label": "Mamaroneck, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/mamaroneck/",
+  "offices": [
+    {
+      "officeId": 441026,
+      "slug": "mamaroneck-animal-control-441026",
+      "name": "Mamaroneck Animal Control",
+      "address": "141 Halstead Avenue, Mamaroneck, NY 10543",
+      "phone": "914-381-6177",
+      "image": "./img/shelter/office/441026.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mamaroneck-animal-control-441026/",
+      "imageUrl": "https://cdn.findpawpal.com/office/441026.jpg?f=webp&w=730"
+    }
+  ]
+}

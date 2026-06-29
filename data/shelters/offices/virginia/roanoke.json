@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T20:15:53.851170+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "roanoke",
+    "name": "Roanoke",
+    "label": "Roanoke, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/roanoke/",
+  "offices": [
+    {
+      "officeId": 512070,
+      "slug": "roanoke-county-animal-control-512070",
+      "name": "Roanoke County Animal Control",
+      "address": "5925 Cove Road, Roanoke, VA 24019",
+      "phone": "540-777-8606",
+      "image": "./img/shelter/office/512070.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/roanoke-county-animal-control-512070/",
+      "imageUrl": "https://cdn.findpawpal.com/office/512070.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 561473,
+      "slug": "angels-of-assisi-561473",
+      "name": "Angels of Assisi",
+      "address": "415 Campbell Avenue Southwest, Roanoke, VA 24016",
+      "phone": "540-344-8707",
+      "image": "./img/shelter/office/561473.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/angels-of-assisi-561473/",
+      "imageUrl": "https://cdn.findpawpal.com/office/561473.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 683068,
+      "slug": "roanoke-county-animal-shelter-683068",
+      "name": "Roanoke County Animal Shelter",
+      "address": "PO Box 29800, Roanoke, VA 24018",
+      "phone": "703-561-8040",
+      "image": "./img/shelter/office/683068.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/roanoke-county-animal-shelter-683068/",
+      "imageUrl": "https://cdn.findpawpal.com/office/683068.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 706744,
+      "slug": "roanoke-valley-spca-706744",
+      "name": "Roanoke Valley SPCA",
+      "address": "1340 Baldwin Ave NE, Roanoke, VA 24012",
+      "phone": "540-344-4840",
+      "image": "./img/shelter/office/706744.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/roanoke-valley-spca-706744/",
+      "imageUrl": "https://cdn.findpawpal.com/office/706744.jpg?f=webp&w=730"
+    }
+  ]
+}

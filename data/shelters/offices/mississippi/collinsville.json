@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:16:10.333583+00:00",
+  "state": {
+    "slug": "mississippi",
+    "name": "Mississippi"
+  },
+  "city": {
+    "slug": "collinsville",
+    "name": "Collinsville",
+    "label": "Collinsville, MS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/mississippi/collinsville/",
+  "offices": [
+    {
+      "officeId": 109173,
+      "slug": "critter-sitter-boarding-kennel-109173",
+      "name": "Critter Sitter Boarding Kennel",
+      "address": "8884 Highway 19, Collinsville, MS 39325",
+      "phone": "601-626-0088",
+      "image": "./img/shelter/office/109173.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/critter-sitter-boarding-kennel-109173/",
+      "imageUrl": "https://cdn.findpawpal.com/office/109173.jpg?f=webp&w=730"
+    }
+  ]
+}

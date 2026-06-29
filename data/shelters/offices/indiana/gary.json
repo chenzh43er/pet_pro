@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:50:09.913246+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "gary",
+    "name": "Gary",
+    "label": "Gary, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/gary/",
+  "offices": [
+    {
+      "officeId": 213981,
+      "slug": "humane-society-of-northwest-213981",
+      "name": "Humane Society of Northwest",
+      "address": "6100 Melton Road, Gary, IN 46403",
+      "phone": "219-938-3339",
+      "image": "./img/shelter/office/213981.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-northwest-213981/",
+      "imageUrl": "https://cdn.findpawpal.com/office/213981.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 223113,
+      "slug": "gary-animal-control-center-223113",
+      "name": "Gary Animal Control Center",
+      "address": "625 West 9th Place, Gary, IN 46402",
+      "phone": "219-885-7507",
+      "image": "./img/shelter/office/223113.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gary-animal-control-center-223113/",
+      "imageUrl": "https://cdn.findpawpal.com/office/223113.jpg?f=webp&w=730"
+    }
+  ]
+}

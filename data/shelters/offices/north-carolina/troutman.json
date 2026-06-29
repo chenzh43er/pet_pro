@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:41:41.756673+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "troutman",
+    "name": "Troutman",
+    "label": "Troutman, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/troutman/",
+  "offices": [
+    {
+      "officeId": 214598,
+      "slug": "all-dogs-heaven-214598",
+      "name": "All Dogs' Heaven",
+      "address": "327 Rankin Hill Road, Troutman, NC 28166",
+      "phone": "704-528-8239",
+      "image": "./img/shelter/office/214598.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/all-dogs-heaven-214598/",
+      "imageUrl": "https://cdn.findpawpal.com/office/214598.jpg?f=webp&w=730"
+    }
+  ]
+}

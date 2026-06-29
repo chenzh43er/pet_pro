@@ -1,0 +1,64 @@
+{
+  "fetchedAt": "2026-06-27T20:09:13.709541+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "seguin",
+    "name": "Seguin",
+    "label": "Seguin, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/seguin/",
+  "offices": [
+    {
+      "officeId": 493310,
+      "slug": "hill-country-greyhound-adoptions-493310",
+      "name": "Hill Country Greyhound Adoptions",
+      "address": "PO Box 543, Seguin, TX 78156",
+      "phone": "830-303-2229",
+      "image": "./img/shelter/office/493310.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hill-country-greyhound-adoptions-493310/",
+      "imageUrl": "https://cdn.findpawpal.com/office/493310.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 518489,
+      "slug": "guadalupe-county-humane-society-518489",
+      "name": "Guadalupe County Humane Society",
+      "address": "2484 Highway 46, Seguin, TX 78155",
+      "phone": "830-372-2055",
+      "image": "./img/shelter/office/518489.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/guadalupe-county-humane-society-518489/",
+      "imageUrl": "https://cdn.findpawpal.com/office/518489.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 518493,
+      "slug": "sara-sanctuary-society-for-animal-rescue-and-adoption-518493",
+      "name": "SARA Sanctuary (Society for Animal Rescue and Adoption)",
+      "address": "1050 Rawhide Road, Seguin, TX 78155",
+      "phone": "830-401-0280",
+      "image": "https://cdn.findpawpal.com/office/518493.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/sara-sanctuary-society-for-animal-rescue-and-adoption-518493/"
+    },
+    {
+      "officeId": 633384,
+      "slug": "etosha-rescue-and-adoption-center-633384",
+      "name": "Etosha Rescue & Adoption Center",
+      "address": "1136 East Kingsbury Street, Seguin, TX 78155",
+      "phone": "830-401-0150",
+      "image": "./img/shelter/office/633384.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/etosha-rescue-and-adoption-center-633384/",
+      "imageUrl": "https://cdn.findpawpal.com/office/633384.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 702255,
+      "slug": "seguin-animal-control-702255",
+      "name": "Seguin Animal Control",
+      "address": "809 South River Street, Seguin, TX 78155",
+      "phone": "830-401-2335",
+      "image": "./img/shelter/office/702255.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/seguin-animal-control-702255/",
+      "imageUrl": "https://cdn.findpawpal.com/office/702255.jpg?f=webp&w=730"
+    }
+  ]
+}

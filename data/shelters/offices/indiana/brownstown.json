@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:49:29.509015+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "brownstown",
+    "name": "Brownstown",
+    "label": "Brownstown, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/brownstown/",
+  "offices": [
+    {
+      "officeId": 201443,
+      "slug": "brownstown-pound-201443",
+      "name": "Brownstown Pound",
+      "address": "200 West Walnut Street, Brownstown, IN 47220",
+      "phone": "",
+      "image": "./img/shelter/office/201443.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/brownstown-pound-201443/",
+      "imageUrl": "https://cdn.findpawpal.com/office/201443.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 168230,
+  "slug": "huachuca-city-animal-shelter-168230",
+  "name": "Huachuca City Animal Shelter",
+  "address": "500 Howard Street, Huachuca City, AZ 85616",
+  "street": "500 Howard Street",
+  "addressCity": "Huachuca City",
+  "stateCode": "AZ",
+  "zip": "85616",
+  "phone": "520-456-1337",
+  "image": "./img/shelter/office/168230.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/huachuca-city-animal-shelter-168230/",
+  "stateSlug": "arizona",
+  "stateName": "Arizona",
+  "citySlug": "huachuca-city",
+  "cityName": "Huachuca City",
+  "cityLabel": "Huachuca City, AZ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/arizona/huachuca-city/",
+  "fetchedAt": "2026-06-27T18:20:19.988661+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/168230.jpg?f=webp&w=730"
+}

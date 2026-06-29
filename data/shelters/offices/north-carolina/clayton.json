@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:38:39.541864+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "clayton",
+    "name": "Clayton",
+    "label": "Clayton, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/clayton/",
+  "offices": [
+    {
+      "officeId": 258190,
+      "slug": "johnston-county-spca-258190",
+      "name": "Johnston County SPCA",
+      "address": "720 Durham Street, Clayton, NC 27520",
+      "phone": "919-553-3749",
+      "image": "./img/shelter/office/258190.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/johnston-county-spca-258190/",
+      "imageUrl": "https://cdn.findpawpal.com/office/258190.jpg?f=webp&w=730"
+    }
+  ]
+}

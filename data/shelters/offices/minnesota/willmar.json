@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:15:43.323632+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "willmar",
+    "name": "Willmar",
+    "label": "Willmar, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/willmar/",
+  "offices": [
+    {
+      "officeId": 420751,
+      "slug": "hawk-creek-animal-shelter-420751",
+      "name": "Hawk Creek Animal Shelter",
+      "address": "250 28th Street Southwest, Willmar, MN 56201",
+      "phone": "320-235-7612",
+      "image": "./img/shelter/office/420751.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hawk-creek-animal-shelter-420751/",
+      "imageUrl": "https://cdn.findpawpal.com/office/420751.jpg?f=webp&w=730"
+    }
+  ]
+}

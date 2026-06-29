@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:20:22.364702+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "rocky-mount",
+    "name": "Rocky Mount",
+    "label": "Rocky Mount, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/rocky-mount/",
+  "offices": [
+    {
+      "officeId": 209458,
+      "slug": "rocky-mount-animal-shelter-209458",
+      "name": "Rocky Mount Animal Shelter",
+      "address": "1000 Highway West, Rocky Mount, MO 65072",
+      "phone": "573-392-3725",
+      "image": "./img/shelter/office/209458.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rocky-mount-animal-shelter-209458/",
+      "imageUrl": "https://cdn.findpawpal.com/office/209458.jpg?f=webp&w=730"
+    }
+  ]
+}

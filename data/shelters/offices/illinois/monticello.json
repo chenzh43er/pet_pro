@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:46:58.803469+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "monticello",
+    "name": "Monticello",
+    "label": "Monticello, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/monticello/",
+  "offices": [
+    {
+      "officeId": 581491,
+      "slug": "piatt-county-animal-shelter-581491",
+      "name": "Piatt County Animal Shelter",
+      "address": "301 South Charter Street, Monticello, IL 61856",
+      "phone": "217-762-7227",
+      "image": "./img/shelter/office/581491.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/piatt-county-animal-shelter-581491/",
+      "imageUrl": "https://cdn.findpawpal.com/office/581491.jpg?f=webp&w=730"
+    }
+  ]
+}

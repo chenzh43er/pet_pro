@@ -1,0 +1,21 @@
+{
+  "officeId": 214491,
+  "slug": "snowflake-animal-rescue-214491",
+  "name": "Snowflake Animal Rescue",
+  "address": "PO Box 99672, Raleigh, NC 27624",
+  "street": "PO Box 99672",
+  "addressCity": "Raleigh",
+  "stateCode": "NC",
+  "zip": "27624",
+  "phone": "919-990-2478",
+  "image": "./img/shelter/office/214491.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/snowflake-animal-rescue-214491/",
+  "stateSlug": "north-carolina",
+  "stateName": "North Carolina",
+  "citySlug": "raleigh",
+  "cityName": "Raleigh",
+  "cityLabel": "Raleigh, NC",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/north-carolina/raleigh/",
+  "fetchedAt": "2026-06-27T19:40:59.937471+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/214491.jpg?f=webp&w=730"
+}

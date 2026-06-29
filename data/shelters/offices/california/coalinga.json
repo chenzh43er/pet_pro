@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:25:00.275896+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "coalinga",
+    "name": "Coalinga",
+    "label": "Coalinga, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/coalinga/",
+  "offices": [
+    {
+      "officeId": 362284,
+      "slug": "city-of-coalinga-claremont-custody-center-362284",
+      "name": "City of Coalinga Claremont Custody Center",
+      "address": "185 West Gale Avenue, Coalinga, CA 93210",
+      "phone": "559-935-1525",
+      "image": "./img/shelter/office/362284.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/city-of-coalinga-claremont-custody-center-362284/",
+      "imageUrl": "https://cdn.findpawpal.com/office/362284.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:25:43.785493+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "encino",
+    "name": "Encino",
+    "label": "Encino, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/encino/",
+  "offices": [
+    {
+      "slug": "persians-and-friends-rescue-inc-363634",
+      "name": "Persians and Friends Rescue, Inc",
+      "address": "PO Box 17173, Encino, CA 91416",
+      "phone": "818-300-7915",
+      "image": "./img/shelter/office/363634.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/persians-and-friends-rescue-inc-363634/",
+      "imageUrl": "https://cdn.findpawpal.com/office/363634.jpg?f=webp&w=730"
+    }
+  ]
+}

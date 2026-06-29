@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:25:58.835913+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "fountain-valley",
+    "name": "Fountain Valley",
+    "label": "Fountain Valley, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/fountain-valley/",
+  "offices": [
+    {
+      "officeId": 362696,
+      "slug": "animal-assistance-league-362696",
+      "name": "Animal Assistance League",
+      "address": "10409 Sioux River Circle, Fountain Valley, CA 92708",
+      "phone": "714-893-4393",
+      "image": "./img/shelter/office/362696.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-assistance-league-362696/",
+      "imageUrl": "https://cdn.findpawpal.com/office/362696.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 381738,
+      "slug": "the-lily-sanctuary-381738",
+      "name": "The Lily Sanctuary",
+      "address": "PO Box 9294, Fountain Valley, CA 92728",
+      "phone": "714-531-3141",
+      "image": "./img/shelter/office/381738.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-lily-sanctuary-381738/",
+      "imageUrl": "https://cdn.findpawpal.com/office/381738.jpg?f=webp&w=730"
+    }
+  ]
+}

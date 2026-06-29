@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:27:16.093642+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "littlerock",
+    "name": "Littlerock",
+    "label": "Littlerock, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/littlerock/",
+  "offices": [
+    {
+      "officeId": 360362,
+      "slug": "hooves-paws-animal-rescue-360362",
+      "name": "Hooves PAWS Animal Rescue",
+      "address": "PO Box 1469, Littlerock, CA 93543",
+      "phone": "661-944-3740",
+      "image": "./img/shelter/office/360362.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hooves-paws-animal-rescue-360362/",
+      "imageUrl": "https://cdn.findpawpal.com/office/360362.jpg?f=webp&w=730"
+    }
+  ]
+}

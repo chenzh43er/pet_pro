@@ -1,0 +1,424 @@
+{
+  "fetchedAt": "2026-06-27T17:48:39.751967+00:00",
+  "state": {
+    "slug": "utah",
+    "name": "Utah",
+    "offices": 104
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/utah/",
+  "cities": [
+    {
+      "slug": "aurora",
+      "name": "Aurora",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/aurora/"
+    },
+    {
+      "slug": "brigham",
+      "name": "Brigham",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/brigham/"
+    },
+    {
+      "slug": "cedar",
+      "name": "Cedar",
+      "offices": 6,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/cedar/"
+    },
+    {
+      "slug": "coalville",
+      "name": "Coalville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/coalville/"
+    },
+    {
+      "slug": "delta",
+      "name": "Delta",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/delta/"
+    },
+    {
+      "slug": "draper",
+      "name": "Draper",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/draper/"
+    },
+    {
+      "slug": "duchesne",
+      "name": "Duchesne",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/duchesne/"
+    },
+    {
+      "slug": "eagle-mountain",
+      "name": "Eagle Mountain",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/eagle-mountain/"
+    },
+    {
+      "slug": "elsinore",
+      "name": "Elsinore",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/elsinore/"
+    },
+    {
+      "slug": "ephraim",
+      "name": "Ephraim",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/ephraim/"
+    },
+    {
+      "slug": "farmington",
+      "name": "Farmington",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/farmington/"
+    },
+    {
+      "slug": "fruit-heights",
+      "name": "Fruit Heights",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/fruit-heights/"
+    },
+    {
+      "slug": "green-river",
+      "name": "Green River",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/green-river/"
+    },
+    {
+      "slug": "heber",
+      "name": "Heber",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/heber/"
+    },
+    {
+      "slug": "herriman",
+      "name": "Herriman",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/herriman/"
+    },
+    {
+      "slug": "hurricane",
+      "name": "Hurricane",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/hurricane/"
+    },
+    {
+      "slug": "hyde-park",
+      "name": "Hyde Park",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/hyde-park/"
+    },
+    {
+      "slug": "ivins",
+      "name": "Ivins",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/ivins/"
+    },
+    {
+      "slug": "kanab",
+      "name": "Kanab",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/kanab/"
+    },
+    {
+      "slug": "kaysville",
+      "name": "Kaysville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/kaysville/"
+    },
+    {
+      "slug": "kearns",
+      "name": "Kearns",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/kearns/"
+    },
+    {
+      "slug": "layton",
+      "name": "Layton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/layton/"
+    },
+    {
+      "slug": "lindon",
+      "name": "Lindon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/lindon/"
+    },
+    {
+      "slug": "logan",
+      "name": "Logan",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/logan/"
+    },
+    {
+      "slug": "midvale",
+      "name": "Midvale",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/midvale/"
+    },
+    {
+      "slug": "moab",
+      "name": "Moab",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/moab/"
+    },
+    {
+      "slug": "monticello",
+      "name": "Monticello",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/monticello/"
+    },
+    {
+      "slug": "morgan",
+      "name": "Morgan",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/morgan/"
+    },
+    {
+      "slug": "moroni",
+      "name": "Moroni",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/moroni/"
+    },
+    {
+      "slug": "murray",
+      "name": "Murray",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/murray/"
+    },
+    {
+      "slug": "ogden",
+      "name": "Ogden",
+      "offices": 7,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/ogden/"
+    },
+    {
+      "slug": "orangeville",
+      "name": "Orangeville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/orangeville/"
+    },
+    {
+      "slug": "orem",
+      "name": "Orem",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/orem/"
+    },
+    {
+      "slug": "park",
+      "name": "Park",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/park/"
+    },
+    {
+      "slug": "parowan",
+      "name": "Parowan",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/parowan/"
+    },
+    {
+      "slug": "price",
+      "name": "Price",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/price/"
+    },
+    {
+      "slug": "provo",
+      "name": "Provo",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/provo/"
+    },
+    {
+      "slug": "richfield",
+      "name": "Richfield",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/richfield/"
+    },
+    {
+      "slug": "richmond",
+      "name": "Richmond",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/richmond/"
+    },
+    {
+      "slug": "riverton",
+      "name": "Riverton",
+      "offices": 6,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/riverton/"
+    },
+    {
+      "slug": "roosevelt",
+      "name": "Roosevelt",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/roosevelt/"
+    },
+    {
+      "slug": "roy",
+      "name": "Roy",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/roy/"
+    },
+    {
+      "slug": "salina",
+      "name": "Salina",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/salina/"
+    },
+    {
+      "slug": "salt-lake",
+      "name": "Salt Lake",
+      "offices": 10,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/salt-lake/"
+    },
+    {
+      "slug": "sandy",
+      "name": "Sandy",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/sandy/"
+    },
+    {
+      "slug": "santa-clara",
+      "name": "Santa Clara",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/santa-clara/"
+    },
+    {
+      "slug": "santaquin",
+      "name": "Santaquin",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/santaquin/"
+    },
+    {
+      "slug": "sigurd",
+      "name": "Sigurd",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/sigurd/"
+    },
+    {
+      "slug": "south-salt-lake",
+      "name": "South Salt Lake",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/south-salt-lake/"
+    },
+    {
+      "slug": "spanish-fork",
+      "name": "Spanish Fork",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/spanish-fork/"
+    },
+    {
+      "slug": "springville",
+      "name": "Springville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/springville/"
+    },
+    {
+      "slug": "st-george",
+      "name": "St. George",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/st-george/"
+    },
+    {
+      "slug": "sunset",
+      "name": "Sunset",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/sunset/"
+    },
+    {
+      "slug": "tooele",
+      "name": "Tooele",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/tooele/"
+    },
+    {
+      "slug": "tremonton",
+      "name": "Tremonton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/tremonton/"
+    },
+    {
+      "slug": "vernal",
+      "name": "Vernal",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/vernal/"
+    },
+    {
+      "slug": "washington",
+      "name": "Washington",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/washington/"
+    },
+    {
+      "slug": "west-jordan",
+      "name": "West Jordan",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/west-jordan/"
+    },
+    {
+      "slug": "west-valley",
+      "name": "West Valley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/west-valley/"
+    }
+  ]
+}

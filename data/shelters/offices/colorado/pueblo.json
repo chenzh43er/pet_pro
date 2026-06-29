@@ -1,0 +1,65 @@
+{
+  "fetchedAt": "2026-06-27T18:35:03.836912+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "pueblo",
+    "name": "Pueblo",
+    "label": "Pueblo, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/pueblo/",
+  "offices": [
+    {
+      "officeId": 40030,
+      "slug": "pueblo-humane-society-40030",
+      "name": "Pueblo Humane Society",
+      "address": "PO Box 8174, Pueblo, CO 81008",
+      "phone": "719-595-1893",
+      "image": "./img/shelter/office/40030.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pueblo-humane-society-40030/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40030.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40319,
+      "slug": "animal-advocacy-volunteer-network-40319",
+      "name": "Animal Advocacy Volunteer Network",
+      "address": "PO Box 3177, Pueblo, CO 81005",
+      "phone": "719-546-2828",
+      "image": "./img/shelter/office/40319.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-advocacy-volunteer-network-40319/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40319.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40380,
+      "slug": "fur-purries-40380",
+      "name": "Fur Purries",
+      "address": "111 West Abriendo Avenue, Pueblo, CO 81004",
+      "phone": "719-542-1523",
+      "image": "./img/shelter/office/40380.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fur-purries-40380/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40380.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40544,
+      "slug": "paws-for-life-40544",
+      "name": "Paws For Life",
+      "address": "800 North Pueblo Boulevard, Pueblo, CO 81003",
+      "phone": "719-543-6464",
+      "image": "./img/shelter/office/40544.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/paws-for-life-40544/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40544.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 43765,
+      "slug": "pueblo-animal-league-43765",
+      "name": "Pueblo Animal League",
+      "address": "1595 Stockyard Road, Pueblo, CO 81001",
+      "phone": "719-545-3951",
+      "image": "./img/shelter/office/43765.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pueblo-animal-league-43765/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43765.jpg?f=webp&w=730"
+    }
+  ]
+}

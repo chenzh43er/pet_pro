@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:22:59.727224+00:00",
+  "state": {
+    "slug": "nebraska",
+    "name": "Nebraska"
+  },
+  "city": {
+    "slug": "wayne",
+    "name": "Wayne",
+    "label": "Wayne, NE"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nebraska/wayne/",
+  "offices": [
+    {
+      "officeId": 486272,
+      "slug": "northeast-nebraska-humane-society-486272",
+      "name": "Northeast Nebraska Humane Society",
+      "address": "PO Box 151, Wayne, NE 68787",
+      "phone": "402-375-5148",
+      "image": "./img/shelter/office/486272.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/northeast-nebraska-humane-society-486272/",
+      "imageUrl": "https://cdn.findpawpal.com/office/486272.jpg?f=webp&w=730"
+    }
+  ]
+}

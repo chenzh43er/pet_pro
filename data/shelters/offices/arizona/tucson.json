@@ -1,0 +1,220 @@
+{
+  "fetchedAt": "2026-06-27T18:21:12.995650+00:00",
+  "state": {
+    "slug": "arizona",
+    "name": "Arizona"
+  },
+  "city": {
+    "slug": "tucson",
+    "name": "Tucson",
+    "label": "Tucson, AZ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arizona/tucson/",
+  "offices": [
+    {
+      "officeId": 157099,
+      "slug": "hermitage-cat-shelter-157099",
+      "name": "Hermitage Cat Shelter",
+      "address": "5278 East 21st Street, Tucson, AZ 85711",
+      "phone": "520-571-7839",
+      "image": "./img/shelter/office/157099.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hermitage-cat-shelter-157099/",
+      "imageUrl": "https://cdn.findpawpal.com/office/157099.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 157165,
+      "slug": "penasco-paws-157165",
+      "name": "Penasco PAWS",
+      "address": "PO Box 5081, Tucson, AZ 85703",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/157165.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/penasco-paws-157165/"
+    },
+    {
+      "officeId": 157248,
+      "slug": "castaway-treasures-157248",
+      "name": "Castaway Treasures",
+      "address": "10905 West Mars Road, Tucson, AZ 85743",
+      "phone": "520-682-7630",
+      "image": "./img/shelter/office/157248.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/castaway-treasures-157248/",
+      "imageUrl": "https://cdn.findpawpal.com/office/157248.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 157264,
+      "slug": "foundation-for-animals-in-risk-157264",
+      "name": "Foundation for Animals In Risk",
+      "address": "2937 East Grant Road, Tucson, AZ 85716",
+      "phone": "520-722-3553",
+      "image": "./img/shelter/office/157264.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/foundation-for-animals-in-risk-157264/",
+      "imageUrl": "https://cdn.findpawpal.com/office/157264.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 157342,
+      "slug": "animal-assistance-inc-157342",
+      "name": "Animal Assistance, Inc.",
+      "address": "2354 West Rapallo Way, Tucson, AZ 85741",
+      "phone": "520-326-0986",
+      "image": "./img/shelter/office/157342.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-assistance-inc-157342/",
+      "imageUrl": "https://cdn.findpawpal.com/office/157342.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 157537,
+      "slug": "arizona-greyhound-rescue-157537",
+      "name": "Arizona Greyhound Rescue",
+      "address": "8987 East Tanque Verde Road, Tucson, AZ 85749",
+      "phone": "520-886-7411",
+      "image": "./img/shelter/office/157537.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/arizona-greyhound-rescue-157537/",
+      "imageUrl": "https://cdn.findpawpal.com/office/157537.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 166812,
+      "slug": "animal-crusaders-166812",
+      "name": "Animal Crusaders",
+      "address": "PO Box 31586, Tucson, AZ 85751",
+      "phone": "520-798-6569",
+      "image": "https://cdn.findpawpal.com/office/166812.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-crusaders-166812/"
+    },
+    {
+      "officeId": 166834,
+      "slug": "haven4cats-166834",
+      "name": "Haven4Cats",
+      "address": "6075 East 21st Street, Tucson, AZ 85711",
+      "phone": "520-666-9934",
+      "image": "./img/shelter/office/166834.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/haven4cats-166834/",
+      "imageUrl": "https://cdn.findpawpal.com/office/166834.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 167133,
+      "slug": "animal-rescue-foundation-167133",
+      "name": "Animal Rescue Foundation",
+      "address": "5425 East Broadway Boulevard, Tucson, AZ 85711",
+      "phone": "520-319-9292",
+      "image": "./img/shelter/office/167133.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-rescue-foundation-167133/",
+      "imageUrl": "https://cdn.findpawpal.com/office/167133.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 167919,
+      "slug": "tucson-animal-shelter-167919",
+      "name": "Tucson Animal Shelter",
+      "address": "2011 East 12th Street, Tucson, AZ 85719",
+      "phone": "520-792-9200",
+      "image": "./img/shelter/office/167919.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tucson-animal-shelter-167919/",
+      "imageUrl": "https://cdn.findpawpal.com/office/167919.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 168831,
+      "slug": "southern-arizona-beagle-rescue-168831",
+      "name": "Southern Arizona Beagle Rescue",
+      "address": "PO Box 43715, Tucson, AZ 85733",
+      "phone": "520-327-7199",
+      "image": "https://cdn.findpawpal.com/office/168831.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/southern-arizona-beagle-rescue-168831/"
+    },
+    {
+      "officeId": 171043,
+      "slug": "pigs-a-lot-sanctuary-171043",
+      "name": "Pigs A Lot Sanctuary",
+      "address": "10909 West Mars Road, Tucson, AZ 85743",
+      "phone": "520-682-0310",
+      "image": "./img/shelter/office/171043.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pigs-a-lot-sanctuary-171043/",
+      "imageUrl": "https://cdn.findpawpal.com/office/171043.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 171127,
+      "slug": "rehoming-unwanted-furry-friends-171127",
+      "name": "Rehoming Unwanted Furry Friends",
+      "address": "8987 East Tanque Verde Road, Tucson, AZ 85749",
+      "phone": "520-490-0401",
+      "image": "./img/shelter/office/171127.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rehoming-unwanted-furry-friends-171127/",
+      "imageUrl": "https://cdn.findpawpal.com/office/171127.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 171542,
+      "slug": "humane-society-of-southern-arizona-171542",
+      "name": "Humane Society of Southern Arizona",
+      "address": "3450 North Kelvin Boulevard, Tucson, AZ 85716",
+      "phone": "520-327-6088",
+      "image": "./img/shelter/office/171542.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-southern-arizona-171542/",
+      "imageUrl": "https://cdn.findpawpal.com/office/171542.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 172060,
+      "slug": "pima-county-animal-control-172060",
+      "name": "Pima County Animal Control",
+      "address": "4000 North Silverbell Road, Tucson, AZ 85745",
+      "phone": "520-243-5900",
+      "image": "./img/shelter/office/172060.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pima-county-animal-control-172060/",
+      "imageUrl": "https://cdn.findpawpal.com/office/172060.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 180362,
+      "slug": "avian-haven-180362",
+      "name": "Avian Haven",
+      "address": "PO Box 32897, Tucson, AZ 85751",
+      "phone": "520-750-1121",
+      "image": "https://cdn.findpawpal.com/office/180362.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/avian-haven-180362/"
+    },
+    {
+      "officeId": 180371,
+      "slug": "center-for-animal-rescue-and-adoption-180371",
+      "name": "Center for Animal Rescue and Adoption",
+      "address": "PO Box 1628, Tucson, AZ 85702",
+      "phone": "520-237-2331",
+      "image": "https://cdn.findpawpal.com/office/180371.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/center-for-animal-rescue-and-adoption-180371/"
+    },
+    {
+      "officeId": 183280,
+      "slug": "not-so-grande-183280",
+      "name": "Not So Grande",
+      "address": "11246 West Anthony Drive, Tucson, AZ 85743",
+      "phone": "520-638-6913",
+      "image": "./img/shelter/office/183280.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/not-so-grande-183280/",
+      "imageUrl": "https://cdn.findpawpal.com/office/183280.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 183334,
+      "slug": "sahuaro-dachshund-rescue-183334",
+      "name": "Sahuaro Dachshund Rescue",
+      "address": "4080 East Pinal Street, Tucson, AZ 85739",
+      "phone": "520-818-1323",
+      "image": "./img/shelter/office/183334.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sahuaro-dachshund-rescue-183334/",
+      "imageUrl": "https://cdn.findpawpal.com/office/183334.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 191181,
+      "slug": "rescued-helpers-inc-191181",
+      "name": "Rescued Helpers Inc.",
+      "address": "1325 West Kleindale Road, Tucson, AZ 85705",
+      "phone": "520-888-7377",
+      "image": "./img/shelter/office/191181.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rescued-helpers-inc-191181/",
+      "imageUrl": "https://cdn.findpawpal.com/office/191181.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 191265,
+      "slug": "friends-of-alley-cats-of-tucson-191265",
+      "name": "Friends of Alley Cats of Tucson",
+      "address": "601 North Craycroft Road, Tucson, AZ 85711",
+      "phone": "520-850-0001",
+      "image": "./img/shelter/office/191265.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-alley-cats-of-tucson-191265/",
+      "imageUrl": "https://cdn.findpawpal.com/office/191265.jpg?f=webp&w=730"
+    }
+  ]
+}

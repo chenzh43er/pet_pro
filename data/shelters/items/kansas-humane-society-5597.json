@@ -1,0 +1,21 @@
+{
+  "officeId": 5597,
+  "slug": "kansas-humane-society-5597",
+  "name": "Kansas Humane Society",
+  "address": "3313 North Hillside Street, Wichita, KS 67219",
+  "street": "3313 North Hillside Street",
+  "addressCity": "Wichita",
+  "stateCode": "KS",
+  "zip": "67219",
+  "phone": "316-524-9196",
+  "image": "./img/shelter/office/5597.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/kansas-humane-society-5597/",
+  "stateSlug": "kansas",
+  "stateName": "Kansas",
+  "citySlug": "wichita",
+  "cityName": "Wichita",
+  "cityLabel": "Wichita, KS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kansas/wichita/",
+  "fetchedAt": "2026-06-27T18:56:06.564786+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/5597.jpg?f=webp&w=730"
+}

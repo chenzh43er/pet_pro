@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:05:46.866640+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "hillsboro",
+    "name": "Hillsboro",
+    "label": "Hillsboro, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/hillsboro/",
+  "offices": [
+    {
+      "officeId": 540141,
+      "slug": "hillsboro-animal-control-540141",
+      "name": "Hillsboro Animal Control",
+      "address": "303 North Waco Street, Hillsboro, TX 76645",
+      "phone": "254-582-2381",
+      "image": "./img/shelter/office/540141.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hillsboro-animal-control-540141/",
+      "imageUrl": "https://cdn.findpawpal.com/office/540141.jpg?f=webp&w=730"
+    }
+  ]
+}

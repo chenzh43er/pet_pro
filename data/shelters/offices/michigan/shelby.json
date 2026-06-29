@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:12:37.920005+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "shelby",
+    "name": "Shelby",
+    "label": "Shelby, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/shelby/",
+  "offices": [
+    {
+      "officeId": 205625,
+      "slug": "michigan-animal-crew-205625",
+      "name": "Michigan Animal Crew",
+      "address": "14151 Lakeside Boulevard North, Shelby, MI 48315",
+      "phone": "586-615-3526",
+      "image": "./img/shelter/office/205625.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan-animal-crew-205625/",
+      "imageUrl": "https://cdn.findpawpal.com/office/205625.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 237289,
+      "slug": "oceana-county-animal-shelter-237289",
+      "name": "Oceana County Animal Shelter",
+      "address": "2185 West Baseline Road, Shelby, MI 49455",
+      "phone": "231-861-5395",
+      "image": "./img/shelter/office/237289.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/oceana-county-animal-shelter-237289/",
+      "imageUrl": "https://cdn.findpawpal.com/office/237289.jpg?f=webp&w=730"
+    }
+  ]
+}

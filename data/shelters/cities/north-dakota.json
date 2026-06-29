@@ -1,0 +1,109 @@
+{
+  "fetchedAt": "2026-06-27T17:48:22.835388+00:00",
+  "state": {
+    "slug": "north-dakota",
+    "name": "North Dakota",
+    "offices": 26
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-dakota/",
+  "cities": [
+    {
+      "slug": "bowman",
+      "name": "Bowman",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-dakota/bowman/"
+    },
+    {
+      "slug": "dickinson",
+      "name": "Dickinson",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-dakota/dickinson/"
+    },
+    {
+      "slug": "fargo",
+      "name": "Fargo",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-dakota/fargo/"
+    },
+    {
+      "slug": "grand-forks",
+      "name": "Grand Forks",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-dakota/grand-forks/"
+    },
+    {
+      "slug": "hazelton",
+      "name": "Hazelton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-dakota/hazelton/"
+    },
+    {
+      "slug": "jamestown",
+      "name": "Jamestown",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-dakota/jamestown/"
+    },
+    {
+      "slug": "mandan",
+      "name": "Mandan",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-dakota/mandan/"
+    },
+    {
+      "slug": "minot",
+      "name": "Minot",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-dakota/minot/"
+    },
+    {
+      "slug": "new-town",
+      "name": "New Town",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-dakota/new-town/"
+    },
+    {
+      "slug": "noonan",
+      "name": "Noonan",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-dakota/noonan/"
+    },
+    {
+      "slug": "oakes",
+      "name": "Oakes",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-dakota/oakes/"
+    },
+    {
+      "slug": "valley",
+      "name": "Valley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-dakota/valley/"
+    },
+    {
+      "slug": "west-fargo",
+      "name": "West Fargo",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-dakota/west-fargo/"
+    },
+    {
+      "slug": "williston",
+      "name": "Williston",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-dakota/williston/"
+    }
+  ]
+}

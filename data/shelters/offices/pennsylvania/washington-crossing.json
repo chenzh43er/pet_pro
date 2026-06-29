@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:55:24.914071+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "washington-crossing",
+    "name": "Washington Crossing",
+    "label": "Washington Crossing, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/washington-crossing/",
+  "offices": [
+    {
+      "officeId": 429282,
+      "slug": "washington-crossings-animal-control-429282",
+      "name": "Washington Crossings Animal Control",
+      "address": "1098 Washington Crossing Road, Washington Crossing, PA 18977",
+      "phone": "215-321-4673",
+      "image": "./img/shelter/office/429282.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/washington-crossings-animal-control-429282/",
+      "imageUrl": "https://cdn.findpawpal.com/office/429282.jpg?f=webp&w=730"
+    }
+  ]
+}

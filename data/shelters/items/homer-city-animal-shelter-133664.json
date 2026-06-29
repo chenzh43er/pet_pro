@@ -1,0 +1,21 @@
+{
+  "officeId": 133664,
+  "slug": "homer-city-animal-shelter-133664",
+  "name": "Homer City Animal Shelter",
+  "address": "4060 Heath Street, Homer, AK 99603",
+  "street": "4060 Heath Street",
+  "addressCity": "Homer",
+  "stateCode": "AK",
+  "zip": "99603",
+  "phone": "907-235-3141",
+  "image": "./img/shelter/office/133664.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/homer-city-animal-shelter-133664/",
+  "stateSlug": "alaska",
+  "stateName": "Alaska",
+  "citySlug": "homer",
+  "cityName": "Homer",
+  "cityLabel": "Homer, AK",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/alaska/homer/",
+  "fetchedAt": "2026-06-27T18:19:17.883666+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/133664.jpg?f=webp&w=730"
+}

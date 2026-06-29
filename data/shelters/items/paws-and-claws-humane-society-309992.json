@@ -1,0 +1,21 @@
+{
+  "officeId": 309992,
+  "slug": "paws-and-claws-humane-society-309992",
+  "name": "PAWS & Claws Humane Society",
+  "address": "706 West Quay Avenue, Artesia, NM 88210",
+  "street": "706 West Quay Avenue",
+  "addressCity": "Artesia",
+  "stateCode": "NM",
+  "zip": "88210",
+  "phone": "505-748-1276",
+  "image": "./img/shelter/office/309992.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/paws-and-claws-humane-society-309992/",
+  "stateSlug": "new-mexico",
+  "stateName": "New Mexico",
+  "citySlug": "artesia",
+  "cityName": "Artesia",
+  "cityLabel": "Artesia, NM",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-mexico/artesia/",
+  "fetchedAt": "2026-06-27T19:29:55.843398+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/309992.jpg?f=webp&w=730"
+}

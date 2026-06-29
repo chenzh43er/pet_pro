@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:07:03.656570+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "medfield",
+    "name": "Medfield",
+    "label": "Medfield, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/medfield/",
+  "offices": [
+    {
+      "officeId": 41447,
+      "slug": "medfield-animal-shelter-41447",
+      "name": "Medfield Animal Shelter",
+      "address": "101 Bridge Street, Medfield, MA 02052",
+      "phone": "508-359-8989",
+      "image": "./img/shelter/office/41447.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/medfield-animal-shelter-41447/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41447.jpg?f=webp&w=730"
+    }
+  ]
+}

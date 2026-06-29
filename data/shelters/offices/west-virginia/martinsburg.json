@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T20:20:53.378558+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "martinsburg",
+    "name": "Martinsburg",
+    "label": "Martinsburg, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/martinsburg/",
+  "offices": [
+    {
+      "officeId": 494021,
+      "slug": "t-a-fish-and-reptile-private-rescue-494021",
+      "name": "T A Fish and Reptile Private Rescue",
+      "address": "710 Virginia Avenue, Martinsburg, WV 25401",
+      "phone": "304-262-6136",
+      "image": "./img/shelter/office/494021.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/t-a-fish-and-reptile-private-rescue-494021/",
+      "imageUrl": "https://cdn.findpawpal.com/office/494021.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 507936,
+      "slug": "wvhumane-com-507936",
+      "name": "Wvhumane.Com",
+      "address": "PO Box 6125, Martinsburg, WV 25402",
+      "phone": "304-262-4198",
+      "image": "./img/shelter/office/507936.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wvhumane-com-507936/",
+      "imageUrl": "https://cdn.findpawpal.com/office/507936.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 666994,
+      "slug": "berkeley-county-humane-society-666994",
+      "name": "Berkeley County Humane Society",
+      "address": "554 Charles Town Road, Martinsburg, WV 25405",
+      "phone": "304-267-8389",
+      "image": "./img/shelter/office/666994.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/berkeley-county-humane-society-666994/",
+      "imageUrl": "https://cdn.findpawpal.com/office/666994.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "fetchedAt": "2026-06-27T20:19:11.148641+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "stanwood",
+    "name": "Stanwood",
+    "label": "Stanwood, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/stanwood/",
+  "offices": [
+    {
+      "officeId": 567210,
+      "slug": "kuitan-equine-rescue-567210",
+      "name": "Kuitan Equine Rescue",
+      "address": "31106 54th Avenue Northwest, Stanwood, WA 98292",
+      "phone": "360-629-4024",
+      "image": "https://cdn.findpawpal.com/office/567210.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/kuitan-equine-rescue-567210/"
+    },
+    {
+      "officeId": 610803,
+      "slug": "pigs-peace-sanctuary-610803",
+      "name": "Pigs Peace Sanctuary",
+      "address": "PO Box 295, Stanwood, WA 98292",
+      "phone": "360-629-6433",
+      "image": "https://cdn.findpawpal.com/office/610803.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/pigs-peace-sanctuary-610803/"
+    },
+    {
+      "officeId": 614685,
+      "slug": "happypaws-farm-614685",
+      "name": "Happypaws Farm",
+      "address": "8404 Wayne Avenue, Stanwood, WA 98292",
+      "phone": "360-652-5844",
+      "image": "https://cdn.findpawpal.com/office/614685.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/happypaws-farm-614685/"
+    },
+    {
+      "officeId": 628990,
+      "slug": "for-the-horse-equine-rescue-628990",
+      "name": "For the Horse Equine Rescue",
+      "address": "5917 306th Street Northwest, Stanwood, WA 98292",
+      "phone": "360-629-5153",
+      "image": "https://cdn.findpawpal.com/office/628990.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/for-the-horse-equine-rescue-628990/"
+    },
+    {
+      "officeId": 714675,
+      "slug": "northwest-organization-for-animal-help-714675",
+      "name": "Northwest Organization for Animal Help",
+      "address": "31300 Brandstrom Road, Stanwood, WA 98292",
+      "phone": "360-629-7055",
+      "image": "https://cdn.findpawpal.com/office/714675.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/northwest-organization-for-animal-help-714675/"
+    }
+  ]
+}

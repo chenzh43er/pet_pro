@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:26:38.703906+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "indio",
+    "name": "Indio",
+    "label": "Indio, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/indio/",
+  "offices": [
+    {
+      "officeId": 392201,
+      "slug": "indio-animal-shelter-392201",
+      "name": "Indio Animal Shelter",
+      "address": "45355 Van Buren Street, Indio, CA 92201",
+      "phone": "760-347-2319",
+      "image": "./img/shelter/office/392201.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/indio-animal-shelter-392201/",
+      "imageUrl": "https://cdn.findpawpal.com/office/392201.jpg?f=webp&w=730"
+    }
+  ]
+}

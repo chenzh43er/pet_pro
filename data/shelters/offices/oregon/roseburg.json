@@ -1,0 +1,54 @@
+{
+  "fetchedAt": "2026-06-27T19:51:19.991477+00:00",
+  "state": {
+    "slug": "oregon",
+    "name": "Oregon"
+  },
+  "city": {
+    "slug": "roseburg",
+    "name": "Roseburg",
+    "label": "Roseburg, OR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oregon/roseburg/",
+  "offices": [
+    {
+      "officeId": 601105,
+      "slug": "douglas-county-animal-control-601105",
+      "name": "Douglas County Animal Control",
+      "address": "1036 Southeast Douglas Avenue, Roseburg, OR 97470",
+      "phone": "541-440-4327",
+      "image": "./img/shelter/office/601105.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/douglas-county-animal-control-601105/",
+      "imageUrl": "https://cdn.findpawpal.com/office/601105.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 604248,
+      "slug": "new-beginnings-spca-604248",
+      "name": "New Beginnings SPCA",
+      "address": "1212 Southeast Stephens Street, Roseburg, OR 97470",
+      "phone": "541-464-4313",
+      "image": "./img/shelter/office/604248.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-beginnings-spca-604248/",
+      "imageUrl": "https://cdn.findpawpal.com/office/604248.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 622025,
+      "slug": "saving-grace-pet-adoption-center-622025",
+      "name": "Saving Grace Pet Adoption Center",
+      "address": "450 Old Del Rio Road, Roseburg, OR 97471",
+      "phone": "541-672-3907",
+      "image": "https://cdn.findpawpal.com/office/622025.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/saving-grace-pet-adoption-center-622025/"
+    },
+    {
+      "officeId": 659526,
+      "slug": "umpqua-valley-humane-society-659526",
+      "name": "Umpqua Valley Humane Society",
+      "address": "PO Box 217, Roseburg, OR 97470",
+      "phone": "541-629-5634",
+      "image": "./img/shelter/office/659526.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/umpqua-valley-humane-society-659526/",
+      "imageUrl": "https://cdn.findpawpal.com/office/659526.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 367043,
+  "slug": "california-state-animal-shelter-367043",
+  "name": "California State Animal Shelter",
+  "address": "34511 California 16, Woodland, CA 95695",
+  "street": "34511 California 16",
+  "addressCity": "Woodland",
+  "stateCode": "CA",
+  "zip": "95695",
+  "phone": "530-662-4989",
+  "image": "./img/shelter/office/367043.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/california-state-animal-shelter-367043/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "woodland",
+  "cityName": "Woodland",
+  "cityLabel": "Woodland, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/woodland/",
+  "fetchedAt": "2026-06-27T18:32:17.164424+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/367043.jpg?f=webp&w=730"
+}

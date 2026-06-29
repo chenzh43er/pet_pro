@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:27:27.841716+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "mendham",
+    "name": "Mendham",
+    "label": "Mendham, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/mendham/",
+  "offices": [
+    {
+      "officeId": 95158,
+      "slug": "alpha-affiliates-inc-95158",
+      "name": "Alpha Affiliates, Inc.",
+      "address": "PO Box 176, Mendham, NJ 07945",
+      "phone": "201-539-2770",
+      "image": "./img/shelter/office/95158.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/alpha-affiliates-inc-95158/",
+      "imageUrl": "https://cdn.findpawpal.com/office/95158.jpg?f=webp&w=730"
+    }
+  ]
+}

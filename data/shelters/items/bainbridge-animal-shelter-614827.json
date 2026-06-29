@@ -1,0 +1,21 @@
+{
+  "officeId": 614827,
+  "slug": "bainbridge-animal-shelter-614827",
+  "name": "Bainbridge Animal Shelter",
+  "address": "7501 Northeast Dolphin Drive, Bainbridge Island, WA 98110",
+  "street": "7501 Northeast Dolphin Drive",
+  "addressCity": "Bainbridge Island",
+  "stateCode": "WA",
+  "zip": "98110",
+  "phone": "206-855-9057",
+  "image": "./img/shelter/office/614827.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/bainbridge-animal-shelter-614827/",
+  "stateSlug": "washington",
+  "stateName": "Washington",
+  "citySlug": "bainbridge-island",
+  "cityName": "Bainbridge Island",
+  "cityLabel": "Bainbridge Island, WA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/washington/bainbridge-island/",
+  "fetchedAt": "2026-06-27T20:17:11.759485+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/614827.jpg?f=webp&w=730"
+}

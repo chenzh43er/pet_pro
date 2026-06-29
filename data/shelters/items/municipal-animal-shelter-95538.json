@@ -1,0 +1,21 @@
+{
+  "officeId": 95538,
+  "slug": "municipal-animal-shelter-95538",
+  "name": "Municipal Animal Shelter",
+  "address": "125 Municipal Boulevard, Edison, NJ 08817",
+  "street": "125 Municipal Boulevard",
+  "addressCity": "Edison",
+  "stateCode": "NJ",
+  "zip": "08817",
+  "phone": "732-248-7278",
+  "image": "./img/shelter/office/95538.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/municipal-animal-shelter-95538/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "edison",
+  "cityName": "Edison",
+  "cityLabel": "Edison, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/edison/",
+  "fetchedAt": "2026-06-27T19:25:54.449840+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/95538.jpg?f=webp&w=730"
+}

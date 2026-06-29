@@ -1,0 +1,21 @@
+{
+  "officeId": 262285,
+  "slug": "friends-of-the-shelter-262285",
+  "name": "Friends of the Shelter",
+  "address": "162 Chamisa Street, Los Alamos, NM 87544",
+  "street": "162 Chamisa Street",
+  "addressCity": "Los Alamos",
+  "stateCode": "NM",
+  "zip": "87544",
+  "phone": "505-662-3252",
+  "image": "./img/shelter/office/262285.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/friends-of-the-shelter-262285/",
+  "stateSlug": "new-mexico",
+  "stateName": "New Mexico",
+  "citySlug": "los-alamos",
+  "cityName": "Los Alamos",
+  "cityLabel": "Los Alamos, NM",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-mexico/los-alamos/",
+  "fetchedAt": "2026-06-27T19:30:42.038699+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/262285.jpg?f=webp&w=730"
+}

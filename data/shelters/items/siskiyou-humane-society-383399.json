@@ -1,0 +1,21 @@
+{
+  "officeId": 383399,
+  "slug": "siskiyou-humane-society-383399",
+  "name": "Siskiyou Humane Society",
+  "address": "1208 North Mount Shasta Boulevard, Mount Shasta, CA 96067",
+  "street": "1208 North Mount Shasta Boulevard",
+  "addressCity": "Mount Shasta",
+  "stateCode": "CA",
+  "zip": "96067",
+  "phone": "530-926-4052",
+  "image": "./img/shelter/office/383399.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/siskiyou-humane-society-383399/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "mount-shasta",
+  "cityName": "Mount Shasta",
+  "cityLabel": "Mount Shasta, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/mount-shasta/",
+  "fetchedAt": "2026-06-27T18:28:12.323386+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/383399.jpg?f=webp&w=730"
+}

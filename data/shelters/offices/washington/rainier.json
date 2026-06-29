@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:18:47.253043+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "rainier",
+    "name": "Rainier",
+    "label": "Rainier, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/rainier/",
+  "offices": [
+    {
+      "officeId": 629055,
+      "slug": "rainier-animal-control-629055",
+      "name": "Rainier Animal Control",
+      "address": "600 Minnesota Street North, Rainier, WA 98576",
+      "phone": "360-446-2636",
+      "image": "./img/shelter/office/629055.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rainier-animal-control-629055/",
+      "imageUrl": "https://cdn.findpawpal.com/office/629055.jpg?f=webp&w=730"
+    }
+  ]
+}

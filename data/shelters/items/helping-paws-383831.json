@@ -1,0 +1,21 @@
+{
+  "officeId": 383831,
+  "slug": "helping-paws-383831",
+  "name": "Helping Paws",
+  "address": "2500 Harding Lane, Woodstock, IL 60098",
+  "street": "2500 Harding Lane",
+  "addressCity": "Woodstock",
+  "stateCode": "IL",
+  "zip": "60098",
+  "phone": "813-338-4400",
+  "image": "./img/shelter/office/383831.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/helping-paws-383831/",
+  "stateSlug": "illinois",
+  "stateName": "Illinois",
+  "citySlug": "woodstock",
+  "cityName": "Woodstock",
+  "cityLabel": "Woodstock, IL",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/illinois/woodstock/",
+  "fetchedAt": "2026-06-27T18:48:57.728332+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/383831.jpg?f=webp&w=730"
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:15:08.839273+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "perham",
+    "name": "Perham",
+    "label": "Perham, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/perham/",
+  "offices": [
+    {
+      "officeId": 389856,
+      "slug": "perham-animal-control-389856",
+      "name": "Perham Animal Control",
+      "address": "670 3rd Avenue Southeast, Perham, MN 56573",
+      "phone": "218-346-2120",
+      "image": "./img/shelter/office/389856.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/perham-animal-control-389856/",
+      "imageUrl": "https://cdn.findpawpal.com/office/389856.jpg?f=webp&w=730"
+    }
+  ]
+}

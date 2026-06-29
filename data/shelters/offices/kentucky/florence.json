@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:57:00.497831+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "florence",
+    "name": "Florence",
+    "label": "Florence, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/florence/",
+  "offices": [
+    {
+      "officeId": 118838,
+      "slug": "the-pet-castle-inc-animal-rescue-118838",
+      "name": "The Pet Castle, Inc. Animal Rescue",
+      "address": "PO Box 6684, Florence, KY 41022",
+      "phone": "859-760-7098",
+      "image": "./img/shelter/office/118838.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-pet-castle-inc-animal-rescue-118838/",
+      "imageUrl": "https://cdn.findpawpal.com/office/118838.jpg?f=webp&w=730"
+    }
+  ]
+}

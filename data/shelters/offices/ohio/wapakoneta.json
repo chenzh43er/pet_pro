@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:47:30.755341+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "wapakoneta",
+    "name": "Wapakoneta",
+    "label": "Wapakoneta, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/wapakoneta/",
+  "offices": [
+    {
+      "officeId": 588786,
+      "slug": "auglaize-county-humane-society-588786",
+      "name": "Auglaize County Humane Society",
+      "address": "PO Box 305, Wapakoneta, OH 45895",
+      "phone": "419-738-7808",
+      "image": "./img/shelter/office/588786.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/auglaize-county-humane-society-588786/",
+      "imageUrl": "https://cdn.findpawpal.com/office/588786.jpg?f=webp&w=730"
+    }
+  ]
+}

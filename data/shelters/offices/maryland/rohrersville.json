@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:04:36.556707+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "rohrersville",
+    "name": "Rohrersville",
+    "label": "Rohrersville, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/rohrersville/",
+  "offices": [
+    {
+      "officeId": 371627,
+      "slug": "potomac-stray-cat-rescue-inc-371627",
+      "name": "Potomac Stray Cat Rescue, Inc.",
+      "address": "PO Box 66, Rohrersville, MD 21779",
+      "phone": "301-432-5037",
+      "image": "https://cdn.findpawpal.com/office/371627.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/potomac-stray-cat-rescue-inc-371627/"
+    }
+  ]
+}

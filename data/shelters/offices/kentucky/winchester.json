@@ -1,0 +1,54 @@
+{
+  "fetchedAt": "2026-06-27T18:58:53.870320+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "winchester",
+    "name": "Winchester",
+    "label": "Winchester, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/winchester/",
+  "offices": [
+    {
+      "officeId": 109413,
+      "slug": "humane-society-109413",
+      "name": "Humane Society",
+      "address": "Hwy 15, Winchester, KY 40391",
+      "phone": "859-744-3735",
+      "image": "./img/shelter/office/109413.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-109413/",
+      "imageUrl": "https://cdn.findpawpal.com/office/109413.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 114404,
+      "slug": "fables-german-shepherd-rescue-114404",
+      "name": "Fables German Shepherd Rescue",
+      "address": "801 Vienna Road, Winchester, KY 40391",
+      "phone": "859-745-0354",
+      "image": "./img/shelter/office/114404.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fables-german-shepherd-rescue-114404/",
+      "imageUrl": "https://cdn.findpawpal.com/office/114404.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 115652,
+      "slug": "clark-county-animal-shelter-115652",
+      "name": "Clark County Animal Shelter",
+      "address": "5000 Ironworks Road, Winchester, KY 40391",
+      "phone": "859-737-0053",
+      "image": "./img/shelter/office/115652.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/clark-county-animal-shelter-115652/",
+      "imageUrl": "https://cdn.findpawpal.com/office/115652.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 115720,
+      "slug": "kentucky-lab-rescue-inc-115720",
+      "name": "Kentucky Lab Rescue, Inc.",
+      "address": "1101 Sugar Ridge Road, Winchester, KY 40391",
+      "phone": "859-744-3555",
+      "image": "https://cdn.findpawpal.com/office/115720.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/kentucky-lab-rescue-inc-115720/"
+    }
+  ]
+}

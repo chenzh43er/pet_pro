@@ -1,0 +1,21 @@
+{
+  "officeId": 112201,
+  "slug": "choctaw-county-animal-shelter-112201",
+  "name": "Choctaw County Animal Shelter",
+  "address": "8841 Highway 15, Ackerman, MS 39735",
+  "street": "8841 Highway 15",
+  "addressCity": "Ackerman",
+  "stateCode": "MS",
+  "zip": "39735",
+  "phone": "662-285-9006",
+  "image": "./img/shelter/office/112201.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/choctaw-county-animal-shelter-112201/",
+  "stateSlug": "mississippi",
+  "stateName": "Mississippi",
+  "citySlug": "ackerman",
+  "cityName": "Ackerman",
+  "cityLabel": "Ackerman, MS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/mississippi/ackerman/",
+  "fetchedAt": "2026-06-27T19:15:50.854510+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/112201.jpg?f=webp&w=730"
+}

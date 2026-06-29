@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:45:14.890824+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "louisville",
+    "name": "Louisville",
+    "label": "Louisville, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/louisville/",
+  "offices": [
+    {
+      "officeId": 444486,
+      "slug": "stark-county-humane-society-444486",
+      "name": "Stark County Humane Society",
+      "address": "5100 Peach Street Northeast, Louisville, OH 44641",
+      "phone": "330-453-5529",
+      "image": "./img/shelter/office/444486.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/stark-county-humane-society-444486/",
+      "imageUrl": "https://cdn.findpawpal.com/office/444486.jpg?f=webp&w=730"
+    }
+  ]
+}

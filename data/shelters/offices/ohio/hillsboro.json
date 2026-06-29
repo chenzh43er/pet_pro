@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T19:44:43.083045+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "hillsboro",
+    "name": "Hillsboro",
+    "label": "Hillsboro, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/hillsboro/",
+  "offices": [
+    {
+      "officeId": 430929,
+      "slug": "a-journey-home-animal-refuge-inc-430929",
+      "name": "A Journey Home Animal Refuge, Inc.",
+      "address": "5631 Riber Road, Hillsboro, OH 45133",
+      "phone": "937-840-9918",
+      "image": "./img/shelter/office/430929.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/a-journey-home-animal-refuge-inc-430929/",
+      "imageUrl": "https://cdn.findpawpal.com/office/430929.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 580418,
+      "slug": "highland-county-dog-pound-580418",
+      "name": "Highland County Dog Pound",
+      "address": "9357 Highway 124, Hillsboro, OH 45133",
+      "phone": "937-393-1421",
+      "image": "https://cdn.findpawpal.com/office/580418.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/highland-county-dog-pound-580418/"
+    },
+    {
+      "officeId": 686374,
+      "slug": "highland-county-humane-society-686374",
+      "name": "Highland County Humane Society",
+      "address": "9331 Route 124, Hillsboro, OH 45133",
+      "phone": "937-393-2110",
+      "image": "./img/shelter/office/686374.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/highland-county-humane-society-686374/",
+      "imageUrl": "https://cdn.findpawpal.com/office/686374.jpg?f=webp&w=730"
+    }
+  ]
+}

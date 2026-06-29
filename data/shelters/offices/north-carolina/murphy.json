@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:40:35.343434+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "murphy",
+    "name": "Murphy",
+    "label": "Murphy, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/murphy/",
+  "offices": [
+    {
+      "officeId": 256932,
+      "slug": "valley-river-humane-society-256932",
+      "name": "Valley River Humane Society",
+      "address": "1211 Highway 64, Murphy, NC 28906",
+      "phone": "828-837-6137",
+      "image": "./img/shelter/office/256932.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/valley-river-humane-society-256932/",
+      "imageUrl": "https://cdn.findpawpal.com/office/256932.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 265639,
+      "slug": "project-paws-inc-265639",
+      "name": "Project PAWS, Inc.",
+      "address": "PO Box 1646, Murphy, NC 28906",
+      "phone": "828-837-9687",
+      "image": "https://cdn.findpawpal.com/office/265639.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/project-paws-inc-265639/"
+    }
+  ]
+}

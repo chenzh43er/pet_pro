@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T20:11:07.391829+00:00",
+  "state": {
+    "slug": "utah",
+    "name": "Utah"
+  },
+  "city": {
+    "slug": "orem",
+    "name": "Orem",
+    "label": "Orem, UT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/utah/orem/",
+  "offices": [
+    {
+      "officeId": 494122,
+      "slug": "save-a-dog-and-kids-inc-494122",
+      "name": "Save A Dog & Kids, Inc.",
+      "address": "851 High Country Drive, Orem, UT 84097",
+      "phone": "801-225-6491",
+      "image": "./img/shelter/office/494122.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/save-a-dog-and-kids-inc-494122/",
+      "imageUrl": "https://cdn.findpawpal.com/office/494122.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 702251,
+      "slug": "labrador-retriever-club-and-rescue-of-utah-702251",
+      "name": "Labrador Retriever Club and Rescue of Utah",
+      "address": "PO Box 971511, Orem, UT 84097",
+      "phone": "801-426-5414",
+      "image": "https://cdn.findpawpal.com/office/702251.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/labrador-retriever-club-and-rescue-of-utah-702251/"
+    }
+  ]
+}

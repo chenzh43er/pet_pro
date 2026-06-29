@@ -1,0 +1,21 @@
+{
+  "officeId": 580633,
+  "slug": "forgotten-animal-shelter-580633",
+  "name": "Forgotten Animal Shelter",
+  "address": "PO Box 46, Medina, OH 44258",
+  "street": "PO Box 46",
+  "addressCity": "Medina",
+  "stateCode": "OH",
+  "zip": "44258",
+  "phone": "330-723-9918",
+  "image": "./img/shelter/office/580633.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/forgotten-animal-shelter-580633/",
+  "stateSlug": "ohio",
+  "stateName": "Ohio",
+  "citySlug": "medina",
+  "cityName": "Medina",
+  "cityLabel": "Medina, OH",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/ohio/medina/",
+  "fetchedAt": "2026-06-27T19:45:28.542348+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/580633.jpg?f=webp&w=730"
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:52:47.304626+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "elizabethtown",
+    "name": "Elizabethtown",
+    "label": "Elizabethtown, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/elizabethtown/",
+  "offices": [
+    {
+      "officeId": 644877,
+      "slug": "elizabethtown-area-animal-control-644877",
+      "name": "Elizabethtown Area Animal Control",
+      "address": "1096 West Bainbridge Street, Elizabethtown, PA 17022",
+      "phone": "866-986-2186",
+      "image": "./img/shelter/office/644877.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/elizabethtown-area-animal-control-644877/",
+      "imageUrl": "https://cdn.findpawpal.com/office/644877.jpg?f=webp&w=730"
+    }
+  ]
+}

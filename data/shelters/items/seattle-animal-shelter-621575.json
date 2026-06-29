@@ -1,0 +1,21 @@
+{
+  "officeId": 621575,
+  "slug": "seattle-animal-shelter-621575",
+  "name": "Seattle Animal Shelter",
+  "address": "2061 15th Avenue West, Seattle, WA 98119",
+  "street": "2061 15th Avenue West",
+  "addressCity": "Seattle",
+  "stateCode": "WA",
+  "zip": "98119",
+  "phone": "206-386-7387",
+  "image": "./img/shelter/office/621575.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/seattle-animal-shelter-621575/",
+  "stateSlug": "washington",
+  "stateName": "Washington",
+  "citySlug": "seattle",
+  "cityName": "Seattle",
+  "cityLabel": "Seattle, WA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/washington/seattle/",
+  "fetchedAt": "2026-06-27T20:18:57.718039+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/621575.jpg?f=webp&w=730"
+}

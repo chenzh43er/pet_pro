@@ -1,0 +1,21 @@
+{
+  "officeId": 337711,
+  "slug": "animal-shelter-of-the-wood-river-valley-337711",
+  "name": "Animal Shelter Of The Wood River Valley",
+  "address": "100 Croy Creek Road, Hailey, ID 83333",
+  "street": "100 Croy Creek Road",
+  "addressCity": "Hailey",
+  "stateCode": "ID",
+  "zip": "83333",
+  "phone": "208-788-4351",
+  "image": "./img/shelter/office/337711.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/animal-shelter-of-the-wood-river-valley-337711/",
+  "stateSlug": "idaho",
+  "stateName": "Idaho",
+  "citySlug": "hailey",
+  "cityName": "Hailey",
+  "cityLabel": "Hailey, ID",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/idaho/hailey/",
+  "fetchedAt": "2026-06-27T18:43:03.169716+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/337711.jpg?f=webp&w=730"
+}

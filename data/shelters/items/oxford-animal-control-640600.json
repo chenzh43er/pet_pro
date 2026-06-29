@@ -1,0 +1,21 @@
+{
+  "officeId": 640600,
+  "slug": "oxford-animal-control-640600",
+  "name": "Oxford Animal Control",
+  "address": "101 East High Street, Oxford, OH 45056",
+  "street": "101 East High Street",
+  "addressCity": "Oxford",
+  "stateCode": "OH",
+  "zip": "45056",
+  "phone": "513-524-5260",
+  "image": "./img/shelter/office/640600.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/oxford-animal-control-640600/",
+  "stateSlug": "ohio",
+  "stateName": "Ohio",
+  "citySlug": "oxford",
+  "cityName": "Oxford",
+  "cityLabel": "Oxford, OH",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/ohio/oxford/",
+  "fetchedAt": "2026-06-27T19:46:21.292896+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/640600.jpg?f=webp&w=730"
+}

@@ -1,0 +1,64 @@
+{
+  "fetchedAt": "2026-06-27T19:51:21.509161+00:00",
+  "state": {
+    "slug": "oregon",
+    "name": "Oregon"
+  },
+  "city": {
+    "slug": "salem",
+    "name": "Salem",
+    "label": "Salem, OR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oregon/salem/",
+  "offices": [
+    {
+      "officeId": 622219,
+      "slug": "willamette-humane-society-622219",
+      "name": "Willamette Humane Society",
+      "address": "4246 Turner Road Southeast, Salem, OR 97317",
+      "phone": "503-585-5900",
+      "image": "./img/shelter/office/622219.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/willamette-humane-society-622219/",
+      "imageUrl": "https://cdn.findpawpal.com/office/622219.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 661267,
+      "slug": "foundation-for-puerto-rico-street-animals-661267",
+      "name": "Foundation for Puerto Rico Street Animals",
+      "address": "PO Box 3965, Salem, OR 97302",
+      "phone": "503-544-6610",
+      "image": "https://cdn.findpawpal.com/office/661267.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/foundation-for-puerto-rico-street-animals-661267/"
+    },
+    {
+      "officeId": 661282,
+      "slug": "marion-county-animal-shelter-661282",
+      "name": "Marion County Animal Shelter",
+      "address": "3550 Aumsville Highway Southeast, Salem, OR 97317",
+      "phone": "503-566-6966",
+      "image": "./img/shelter/office/661282.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/marion-county-animal-shelter-661282/",
+      "imageUrl": "https://cdn.findpawpal.com/office/661282.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 712978,
+      "slug": "marion-county-dog-control-712978",
+      "name": "Marion County Dog Control",
+      "address": "5155 Silverton Road Northeast, Salem, OR 97305",
+      "phone": "",
+      "image": "./img/shelter/office/712978.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/marion-county-dog-control-712978/",
+      "imageUrl": "https://cdn.findpawpal.com/office/712978.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 712979,
+      "slug": "tiny-treasures-rescue-712979",
+      "name": "Tiny Treasures Rescue",
+      "address": "1024 Cunningham Lane South, Salem, OR 97302",
+      "phone": "503-949-6212",
+      "image": "./img/shelter/office/712979.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tiny-treasures-rescue-712979/",
+      "imageUrl": "https://cdn.findpawpal.com/office/712979.jpg?f=webp&w=730"
+    }
+  ]
+}

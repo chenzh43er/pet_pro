@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:02:16.514399+00:00",
+  "state": {
+    "slug": "maine",
+    "name": "Maine"
+  },
+  "city": {
+    "slug": "prospect-harbor",
+    "name": "Prospect Harbor",
+    "label": "Prospect Harbor, ME"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maine/prospect-harbor/",
+  "offices": [
+    {
+      "officeId": 323111,
+      "slug": "mature-animals-for-mature-adults-323111",
+      "name": "Mature Animals for Mature Adults",
+      "address": "PO Box 94, Prospect Harbor, ME 04669",
+      "phone": "207-422-2358",
+      "image": "./img/shelter/office/323111.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mature-animals-for-mature-adults-323111/",
+      "imageUrl": "https://cdn.findpawpal.com/office/323111.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:53:40.094191+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa"
+  },
+  "city": {
+    "slug": "marshalltown",
+    "name": "Marshalltown",
+    "label": "Marshalltown, IA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/marshalltown/",
+  "offices": [
+    {
+      "officeId": 327360,
+      "slug": "animal-rescue-league-327360",
+      "name": "Animal Rescue League",
+      "address": "1921 Taylor Avenue, Marshalltown, IA 50158",
+      "phone": "641-753-9046",
+      "image": "./img/shelter/office/327360.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-rescue-league-327360/",
+      "imageUrl": "https://cdn.findpawpal.com/office/327360.jpg?f=webp&w=730"
+    }
+  ]
+}

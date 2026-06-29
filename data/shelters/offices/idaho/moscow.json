@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:43:19.702544+00:00",
+  "state": {
+    "slug": "idaho",
+    "name": "Idaho"
+  },
+  "city": {
+    "slug": "moscow",
+    "name": "Moscow",
+    "label": "Moscow, ID"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/idaho/moscow/",
+  "offices": [
+    {
+      "officeId": 358639,
+      "slug": "humane-society-of-the-palouse-358639",
+      "name": "Humane Society of the Palouse",
+      "address": "2019 White Avenue, Moscow, ID 83843",
+      "phone": "208-883-1166",
+      "image": "./img/shelter/office/358639.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-the-palouse-358639/",
+      "imageUrl": "https://cdn.findpawpal.com/office/358639.jpg?f=webp&w=730"
+    }
+  ]
+}

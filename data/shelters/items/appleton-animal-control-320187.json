@@ -1,0 +1,21 @@
+{
+  "officeId": 320187,
+  "slug": "appleton-animal-control-320187",
+  "name": "Appleton Animal Control",
+  "address": "174 Mitchell Lane, Appleton, ME 04862",
+  "street": "174 Mitchell Lane",
+  "addressCity": "Appleton",
+  "stateCode": "ME",
+  "zip": "04862",
+  "phone": "207-845-2888",
+  "image": "./img/shelter/office/320187.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/appleton-animal-control-320187/",
+  "stateSlug": "maine",
+  "stateName": "Maine",
+  "citySlug": "appleton",
+  "cityName": "Appleton",
+  "cityLabel": "Appleton, ME",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/maine/appleton/",
+  "fetchedAt": "2026-06-27T19:01:07.814198+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/320187.jpg?f=webp&w=730"
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:19:15.419804+00:00",
+  "state": {
+    "slug": "alaska",
+    "name": "Alaska"
+  },
+  "city": {
+    "slug": "haines",
+    "name": "Haines",
+    "label": "Haines, AK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alaska/haines/",
+  "offices": [
+    {
+      "slug": "haines-animal-rescue-kennel-716967",
+      "name": "Haines Animal Rescue Kennel",
+      "address": "1 mile Small Tracts Rd, Haines, AK 99827",
+      "phone": "907-766-3334",
+      "image": "./img/shelter/office/716967.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/haines-animal-rescue-kennel-716967/",
+      "imageUrl": "https://cdn.findpawpal.com/office/716967.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:25:03.039328+00:00",
+  "state": {
+    "slug": "wyoming",
+    "name": "Wyoming"
+  },
+  "city": {
+    "slug": "evanston",
+    "name": "Evanston",
+    "label": "Evanston, WY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wyoming/evanston/",
+  "offices": [
+    {
+      "officeId": 651808,
+      "slug": "evanston-animal-control-651808",
+      "name": "Evanston Animal Control",
+      "address": "45 Patriot Court, Evanston, WY 82930",
+      "phone": "307-783-6471",
+      "image": "./img/shelter/office/651808.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/evanston-animal-control-651808/",
+      "imageUrl": "https://cdn.findpawpal.com/office/651808.jpg?f=webp&w=730"
+    }
+  ]
+}

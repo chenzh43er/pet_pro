@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:38:48.002235+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "cairo",
+    "name": "Cairo",
+    "label": "Cairo, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/cairo/",
+  "offices": [
+    {
+      "officeId": 134980,
+      "slug": "second-chance-animal-rescue-134980",
+      "name": "Second Chance Animal Rescue",
+      "address": "1660 Ridge Road, Cairo, GA 39827",
+      "phone": "229-224-8393",
+      "image": "./img/shelter/office/134980.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/second-chance-animal-rescue-134980/",
+      "imageUrl": "https://cdn.findpawpal.com/office/134980.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 144620,
+      "slug": "grady-county-animal-control-144620",
+      "name": "Grady County Animal Control",
+      "address": "LIVESTOCK PAVILION Rd, Cairo, GA 39828",
+      "phone": "229-377-3425",
+      "image": "./img/shelter/office/144620.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/grady-county-animal-control-144620/",
+      "imageUrl": "https://cdn.findpawpal.com/office/144620.jpg?f=webp&w=730"
+    }
+  ]
+}

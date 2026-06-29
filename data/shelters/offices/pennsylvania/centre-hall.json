@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:52:09.228121+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "centre-hall",
+    "name": "Centre Hall",
+    "label": "Centre Hall, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/centre-hall/",
+  "offices": [
+    {
+      "officeId": 474061,
+      "slug": "pets-come-first-474061",
+      "name": "Pets Come First",
+      "address": "2451 General Potter Highway, Centre Hall, PA 16828",
+      "phone": "814-364-1725",
+      "image": "./img/shelter/office/474061.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pets-come-first-474061/",
+      "imageUrl": "https://cdn.findpawpal.com/office/474061.jpg?f=webp&w=730"
+    }
+  ]
+}

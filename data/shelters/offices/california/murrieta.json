@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:28:15.219151+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "murrieta",
+    "name": "Murrieta",
+    "label": "Murrieta, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/murrieta/",
+  "offices": [
+    {
+      "officeId": 477196,
+      "slug": "cocker-spaniel-rescue-of-temecula-valley-477196",
+      "name": "Cocker Spaniel Rescue of Temecula Valley",
+      "address": "PO Box 1249, Murrieta, CA 92564",
+      "phone": "909-677-8045",
+      "image": "./img/shelter/office/477196.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cocker-spaniel-rescue-of-temecula-valley-477196/",
+      "imageUrl": "https://cdn.findpawpal.com/office/477196.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 668350,
+      "slug": "quail-ridge-parrot-rescue-668350",
+      "name": "Quail Ridge Parrot Rescue",
+      "address": "28750 Celia Road, Murrieta, CA 92563",
+      "phone": "909-698-7702",
+      "image": "./img/shelter/office/668350.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/quail-ridge-parrot-rescue-668350/",
+      "imageUrl": "https://cdn.findpawpal.com/office/668350.jpg?f=webp&w=730"
+    }
+  ]
+}

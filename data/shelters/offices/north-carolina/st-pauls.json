@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:41:26.980381+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "st-pauls",
+    "name": "St. Pauls",
+    "label": "St. Pauls, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/st-pauls/",
+  "offices": [
+    {
+      "officeId": 229786,
+      "slug": "robeson-county-animal-center-229786",
+      "name": "Robeson County Animal Center",
+      "address": "255 Landfill Road, St. Pauls, NC 28384",
+      "phone": "910-865-2200",
+      "image": "./img/shelter/office/229786.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/robeson-county-animal-center-229786/",
+      "imageUrl": "https://cdn.findpawpal.com/office/229786.jpg?f=webp&w=730"
+    }
+  ]
+}

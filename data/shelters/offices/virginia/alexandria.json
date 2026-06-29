@@ -1,0 +1,64 @@
+{
+  "fetchedAt": "2026-06-27T20:12:34.946187+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "alexandria",
+    "name": "Alexandria",
+    "label": "Alexandria, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/alexandria/",
+  "offices": [
+    {
+      "officeId": 512161,
+      "slug": "kitten-orange-white-512161",
+      "name": "Kitten Orange White",
+      "address": "423 East Bellefonte Avenue, Alexandria, VA 22301",
+      "phone": "",
+      "image": "./img/shelter/office/512161.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kitten-orange-white-512161/",
+      "imageUrl": "https://cdn.findpawpal.com/office/512161.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 562089,
+      "slug": "tails-high-inc-562089",
+      "name": "Tails High, Inc.",
+      "address": "1299A Quaker Hill Dr, Alexandria, VA 22314",
+      "phone": "703-819-5240",
+      "image": "./img/shelter/office/562089.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tails-high-inc-562089/",
+      "imageUrl": "https://cdn.findpawpal.com/office/562089.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 575427,
+      "slug": "cat-haven-575427",
+      "name": "Cat Haven",
+      "address": "6001 Beech Tree Drive, Alexandria, VA 22310",
+      "phone": "703-960-3935",
+      "image": "./img/shelter/office/575427.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cat-haven-575427/",
+      "imageUrl": "https://cdn.findpawpal.com/office/575427.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 644510,
+      "slug": "operation-paws-for-homes-644510",
+      "name": "Operation PAWS for Homes",
+      "address": "PO Box 90813, Alexandria, VA 22309",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/644510.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/operation-paws-for-homes-644510/"
+    },
+    {
+      "officeId": 683168,
+      "slug": "animal-welfare-league-of-alexandria-683168",
+      "name": "Animal Welfare League of Alexandria",
+      "address": "4101 Eisenhower Ave, Alexandria, VA 22304",
+      "phone": "703-838-4774",
+      "image": "./img/shelter/office/683168.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-welfare-league-of-alexandria-683168/",
+      "imageUrl": "https://cdn.findpawpal.com/office/683168.jpg?f=webp&w=730"
+    }
+  ]
+}

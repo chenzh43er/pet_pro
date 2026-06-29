@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:06:15.136004+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "fitchburg",
+    "name": "Fitchburg",
+    "label": "Fitchburg, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/fitchburg/",
+  "offices": [
+    {
+      "officeId": 41853,
+      "slug": "fitchburg-animal-control-41853",
+      "name": "Fitchburg Animal Control",
+      "address": "20 Elm Street, Fitchburg, MA 01420",
+      "phone": "978-353-2307",
+      "image": "./img/shelter/office/41853.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fitchburg-animal-control-41853/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41853.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:25:16.275580+00:00",
+  "state": {
+    "slug": "wyoming",
+    "name": "Wyoming"
+  },
+  "city": {
+    "slug": "lander",
+    "name": "Lander",
+    "label": "Lander, WY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wyoming/lander/",
+  "offices": [
+    {
+      "officeId": 709644,
+      "slug": "lander-pet-connection-709644",
+      "name": "Lander Pet Connection",
+      "address": "385 Del Street, Lander, WY 82520",
+      "phone": "307-330-5200",
+      "image": "./img/shelter/office/709644.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lander-pet-connection-709644/",
+      "imageUrl": "https://cdn.findpawpal.com/office/709644.jpg?f=webp&w=730"
+    }
+  ]
+}

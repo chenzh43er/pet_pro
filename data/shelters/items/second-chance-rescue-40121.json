@@ -1,0 +1,21 @@
+{
+  "officeId": 40121,
+  "slug": "second-chance-rescue-40121",
+  "name": "Second Chance Rescue",
+  "address": "3016 North West C Street, Greeley, CO 80631",
+  "street": "3016 North West C Street",
+  "addressCity": "Greeley",
+  "stateCode": "CO",
+  "zip": "80631",
+  "phone": "970-353-7955",
+  "image": "./img/shelter/office/40121.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/second-chance-rescue-40121/",
+  "stateSlug": "colorado",
+  "stateName": "Colorado",
+  "citySlug": "greeley",
+  "cityName": "Greeley",
+  "cityLabel": "Greeley, CO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/colorado/greeley/",
+  "fetchedAt": "2026-06-27T18:34:24.121351+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/40121.jpg?f=webp&w=730"
+}

@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:59:48.692149+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "hammond",
+    "name": "Hammond",
+    "label": "Hammond, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/hammond/",
+  "offices": [
+    {
+      "officeId": 226336,
+      "slug": "hammond-animal-shelter-226336",
+      "name": "Hammond Animal Shelter",
+      "address": "15487 West Club Deluxe Road, Hammond, LA 70403",
+      "phone": "985-543-0215",
+      "image": "./img/shelter/office/226336.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hammond-animal-shelter-226336/",
+      "imageUrl": "https://cdn.findpawpal.com/office/226336.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 276577,
+      "slug": "the-pet-for-us-276577",
+      "name": "The Pet for Us",
+      "address": "41489 W I 55 Service Rd Trlr 19, Hammond, LA 70403",
+      "phone": "985-662-4359",
+      "image": "./img/shelter/office/276577.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-pet-for-us-276577/",
+      "imageUrl": "https://cdn.findpawpal.com/office/276577.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 288443,
+      "slug": "tangi-humane-society-288443",
+      "name": "Tangi Humane Society",
+      "address": "46219 River Road, Hammond, LA 70401",
+      "phone": "985-419-9900",
+      "image": "./img/shelter/office/288443.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tangi-humane-society-288443/",
+      "imageUrl": "https://cdn.findpawpal.com/office/288443.jpg?f=webp&w=730"
+    }
+  ]
+}

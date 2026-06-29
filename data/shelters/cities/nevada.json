@@ -1,0 +1,186 @@
+{
+  "fetchedAt": "2026-06-27T17:48:11.460526+00:00",
+  "state": {
+    "slug": "nevada",
+    "name": "Nevada",
+    "offices": 64
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nevada/",
+  "cities": [
+    {
+      "slug": "battle-mountain",
+      "name": "Battle Mountain",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada/battle-mountain/"
+    },
+    {
+      "slug": "boulder",
+      "name": "Boulder",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada/boulder/"
+    },
+    {
+      "slug": "carson-city",
+      "name": "Carson City",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada/carson-city/"
+    },
+    {
+      "slug": "dayton",
+      "name": "Dayton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada/dayton/"
+    },
+    {
+      "slug": "elko",
+      "name": "Elko",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada/elko/"
+    },
+    {
+      "slug": "ely",
+      "name": "Ely",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada/ely/"
+    },
+    {
+      "slug": "fallon",
+      "name": "Fallon",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada/fallon/"
+    },
+    {
+      "slug": "fernley",
+      "name": "Fernley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada/fernley/"
+    },
+    {
+      "slug": "gardnerville",
+      "name": "Gardnerville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada/gardnerville/"
+    },
+    {
+      "slug": "hawthorne",
+      "name": "Hawthorne",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada/hawthorne/"
+    },
+    {
+      "slug": "henderson",
+      "name": "Henderson",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada/henderson/"
+    },
+    {
+      "slug": "imlay",
+      "name": "Imlay",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada/imlay/"
+    },
+    {
+      "slug": "incline-village",
+      "name": "Incline Village",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada/incline-village/"
+    },
+    {
+      "slug": "las-vegas",
+      "name": "Las Vegas",
+      "offices": 18,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada/las-vegas/"
+    },
+    {
+      "slug": "lovelock",
+      "name": "Lovelock",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada/lovelock/"
+    },
+    {
+      "slug": "north-las-vegas",
+      "name": "North Las Vegas",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada/north-las-vegas/"
+    },
+    {
+      "slug": "pahrump",
+      "name": "Pahrump",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada/pahrump/"
+    },
+    {
+      "slug": "reno",
+      "name": "Reno",
+      "offices": 8,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada/reno/"
+    },
+    {
+      "slug": "sandy-valley",
+      "name": "Sandy Valley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada/sandy-valley/"
+    },
+    {
+      "slug": "silver-springs",
+      "name": "Silver Springs",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada/silver-springs/"
+    },
+    {
+      "slug": "sparks",
+      "name": "Sparks",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada/sparks/"
+    },
+    {
+      "slug": "tonopah",
+      "name": "Tonopah",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada/tonopah/"
+    },
+    {
+      "slug": "virginia-city",
+      "name": "Virginia City",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada/virginia-city/"
+    },
+    {
+      "slug": "winnemucca",
+      "name": "Winnemucca",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada/winnemucca/"
+    },
+    {
+      "slug": "yerington",
+      "name": "Yerington",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada/yerington/"
+    }
+  ]
+}

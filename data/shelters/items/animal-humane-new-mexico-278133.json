@@ -1,0 +1,21 @@
+{
+  "officeId": 278133,
+  "slug": "animal-humane-new-mexico-278133",
+  "name": "Animal Humane New Mexico",
+  "address": "615 Virginia Street Southeast, Albuquerque, NM 87108",
+  "street": "615 Virginia Street Southeast",
+  "addressCity": "Albuquerque",
+  "stateCode": "NM",
+  "zip": "87108",
+  "phone": "505-255-5523",
+  "image": "./img/shelter/office/278133.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/animal-humane-new-mexico-278133/",
+  "stateSlug": "new-mexico",
+  "stateName": "New Mexico",
+  "citySlug": "albuquerque",
+  "cityName": "Albuquerque",
+  "cityLabel": "Albuquerque, NM",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-mexico/albuquerque/",
+  "fetchedAt": "2026-06-27T19:29:51.404721+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/278133.jpg?f=webp&w=730"
+}

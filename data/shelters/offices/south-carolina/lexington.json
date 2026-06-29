@@ -1,0 +1,75 @@
+{
+  "fetchedAt": "2026-06-27T19:57:45.193723+00:00",
+  "state": {
+    "slug": "south-carolina",
+    "name": "South Carolina"
+  },
+  "city": {
+    "slug": "lexington",
+    "name": "Lexington",
+    "label": "Lexington, SC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-carolina/lexington/",
+  "offices": [
+    {
+      "officeId": 575918,
+      "slug": "save-our-strays-575918",
+      "name": "Save Our Strays",
+      "address": "PO Box 715, Lexington, SC 29071",
+      "phone": "",
+      "image": "./img/shelter/office/575918.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/save-our-strays-575918/",
+      "imageUrl": "https://cdn.findpawpal.com/office/575918.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 592461,
+      "slug": "greyhound-pets-of-america-592461",
+      "name": "Greyhound Pets of America",
+      "address": "206 Chowning Place, Lexington, SC 29072",
+      "phone": "803-749-3174",
+      "image": "./img/shelter/office/592461.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhound-pets-of-america-592461/",
+      "imageUrl": "https://cdn.findpawpal.com/office/592461.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 599519,
+      "slug": "cat-rescuers-599519",
+      "name": "Cat Rescuers",
+      "address": "208 Lockwood Drive, Lexington, SC 29072",
+      "phone": "",
+      "image": "./img/shelter/office/599519.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cat-rescuers-599519/",
+      "imageUrl": "https://cdn.findpawpal.com/office/599519.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 653293,
+      "slug": "lexington-county-animal-control-653293",
+      "name": "Lexington County Animal Control",
+      "address": "321 Ball Park Road, Lexington, SC 29072",
+      "phone": "",
+      "image": "./img/shelter/office/653293.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lexington-county-animal-control-653293/",
+      "imageUrl": "https://cdn.findpawpal.com/office/653293.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 688553,
+      "slug": "south-carolina-awareness-and-rescue-of-equines-688553",
+      "name": "South Carolina Awareness & Rescue of Equines",
+      "address": "PO Box 84914, Lexington, SC 29073",
+      "phone": "888-866-8744",
+      "image": "./img/shelter/office/688553.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina-awareness-and-rescue-of-equines-688553/",
+      "imageUrl": "https://cdn.findpawpal.com/office/688553.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 709555,
+      "slug": "greyhound-lifesavers-709555",
+      "name": "Greyhound Lifesavers",
+      "address": "213 Meetze Avenue, Lexington, SC 29072",
+      "phone": "803-957-3866",
+      "image": "./img/shelter/office/709555.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhound-lifesavers-709555/",
+      "imageUrl": "https://cdn.findpawpal.com/office/709555.jpg?f=webp&w=730"
+    }
+  ]
+}

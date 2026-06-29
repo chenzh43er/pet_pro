@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:43:42.941988+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "circleville",
+    "name": "Circleville",
+    "label": "Circleville, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/circleville/",
+  "offices": [
+    {
+      "officeId": 466812,
+      "slug": "circle-area-humane-society-466812",
+      "name": "Circle Area Humane Society",
+      "address": "185 Island Road, Circleville, OH 43113",
+      "phone": "740-474-8690",
+      "image": "./img/shelter/office/466812.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/circle-area-humane-society-466812/",
+      "imageUrl": "https://cdn.findpawpal.com/office/466812.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 640629,
+      "slug": "pickaway-county-animal-shelter-640629",
+      "name": "Pickaway County Animal Shelter",
+      "address": "21253 Ringgold Southern Road, Circleville, OH 43113",
+      "phone": "740-474-3741",
+      "image": "https://cdn.findpawpal.com/office/640629.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/pickaway-county-animal-shelter-640629/"
+    }
+  ]
+}

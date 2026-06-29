@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:37:30.317790+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "suffield",
+    "name": "Suffield",
+    "label": "Suffield, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/suffield/",
+  "offices": [
+    {
+      "officeId": 167951,
+      "slug": "suffield-animal-shelter-167951",
+      "name": "Suffield Animal Shelter",
+      "address": "FFYLER Pl, Suffield, CT 06078",
+      "phone": "860-668-3861",
+      "image": "https://cdn.findpawpal.com/office/167951.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/suffield-animal-shelter-167951/"
+    }
+  ]
+}

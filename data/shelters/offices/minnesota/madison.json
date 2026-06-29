@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:14:44.778379+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "madison",
+    "name": "Madison",
+    "label": "Madison, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/madison/",
+  "offices": [
+    {
+      "officeId": 421954,
+      "slug": "gemini-rottweiler-rescue-k-9-sanctuary-421954",
+      "name": "Gemini Rottweiler Rescue K-9 Sanctuary",
+      "address": "Rt 2, Box 161, Madison, MN 56256",
+      "phone": "320-598-3087",
+      "image": "https://cdn.findpawpal.com/office/421954.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/gemini-rottweiler-rescue-k-9-sanctuary-421954/"
+    }
+  ]
+}

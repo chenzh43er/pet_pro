@@ -1,0 +1,21 @@
+{
+  "officeId": 41078,
+  "slug": "sterling-animal-shelter-41078",
+  "name": "Sterling Animal Shelter",
+  "address": "17 Carlisle Road, Westford, MA 01886",
+  "street": "17 Carlisle Road",
+  "addressCity": "Westford",
+  "stateCode": "MA",
+  "zip": "01886",
+  "phone": "978-422-8585",
+  "image": "./img/shelter/office/41078.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/sterling-animal-shelter-41078/",
+  "stateSlug": "massachusetts",
+  "stateName": "Massachusetts",
+  "citySlug": "westford",
+  "cityName": "Westford",
+  "cityLabel": "Westford, MA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/massachusetts/westford/",
+  "fetchedAt": "2026-06-27T19:08:58.899720+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/41078.jpg?f=webp&w=730"
+}

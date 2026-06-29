@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:42:11.726169+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "yanceyville",
+    "name": "Yanceyville",
+    "label": "Yanceyville, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/yanceyville/",
+  "offices": [
+    {
+      "officeId": 229142,
+      "slug": "caswell-county-animal-shelter-229142",
+      "name": "Caswell County Animal Shelter",
+      "address": "PO Box 193, Yanceyville, NC 27379",
+      "phone": "919-694-4193",
+      "image": "./img/shelter/office/229142.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/caswell-county-animal-shelter-229142/",
+      "imageUrl": "https://cdn.findpawpal.com/office/229142.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 256802,
+      "slug": "animal-protection-society-of-caswell-county-256802",
+      "name": "Animal Protection Society of Caswell County",
+      "address": "PO Box 193, Yanceyville, NC 27379",
+      "phone": "336-694-4921",
+      "image": "./img/shelter/office/256802.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-protection-society-of-caswell-county-256802/",
+      "imageUrl": "https://cdn.findpawpal.com/office/256802.jpg?f=webp&w=730"
+    }
+  ]
+}

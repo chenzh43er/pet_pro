@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:04:27.409995+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "princess-anne",
+    "name": "Princess Anne",
+    "label": "Princess Anne, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/princess-anne/",
+  "offices": [
+    {
+      "officeId": 371999,
+      "slug": "eastern-shore-sanctuary-and-education-center-371999",
+      "name": "Eastern Shore Sanctuary & Education Center",
+      "address": "13981 Redding Ferry Road, Princess Anne, MD 21853",
+      "phone": "410-651-4934",
+      "image": "https://cdn.findpawpal.com/office/371999.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/eastern-shore-sanctuary-and-education-center-371999/"
+    }
+  ]
+}

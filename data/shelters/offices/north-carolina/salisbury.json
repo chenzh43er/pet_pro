@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:41:12.127178+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "salisbury",
+    "name": "Salisbury",
+    "label": "Salisbury, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/salisbury/",
+  "offices": [
+    {
+      "officeId": 214380,
+      "slug": "rowan-county-animal-shelter-214380",
+      "name": "Rowan County Animal Shelter",
+      "address": "1465 Julian Road, Salisbury, NC 28146",
+      "phone": "704-216-7768",
+      "image": "https://cdn.findpawpal.com/office/214380.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/rowan-county-animal-shelter-214380/"
+    },
+    {
+      "officeId": 214963,
+      "slug": "humane-society-of-rowan-county-214963",
+      "name": "Humane Society of Rowan County",
+      "address": "112 West Innes Street, Salisbury, NC 28144",
+      "phone": "704-636-5700",
+      "image": "./img/shelter/office/214963.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-rowan-county-214963/",
+      "imageUrl": "https://cdn.findpawpal.com/office/214963.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:40:47.974065+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "metter",
+    "name": "Metter",
+    "label": "Metter, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/metter/",
+  "offices": [
+    {
+      "officeId": 135368,
+      "slug": "metter-animal-shelter-135368",
+      "name": "Metter Animal Shelter",
+      "address": "940 East Hiawatha Street, Metter, GA 30439",
+      "phone": "912-685-7877",
+      "image": "./img/shelter/office/135368.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/metter-animal-shelter-135368/",
+      "imageUrl": "https://cdn.findpawpal.com/office/135368.jpg?f=webp&w=730"
+    }
+  ]
+}

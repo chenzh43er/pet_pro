@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:37:15.174169+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "seymour",
+    "name": "Seymour",
+    "label": "Seymour, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/seymour/",
+  "offices": [
+    {
+      "officeId": 167594,
+      "slug": "seymour-animal-shelter-167594",
+      "name": "Seymour Animal Shelter",
+      "address": "115 Silvermine Road, Seymour, CT 06483",
+      "phone": "203-465-2604",
+      "image": "./img/shelter/office/167594.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/seymour-animal-shelter-167594/",
+      "imageUrl": "https://cdn.findpawpal.com/office/167594.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 168733,
+      "slug": "hemstead-haven-168733",
+      "name": "Hemstead Haven",
+      "address": "99 Pearl Street, Seymour, CT 06483",
+      "phone": "203-917-5228",
+      "image": "./img/shelter/office/168733.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hemstead-haven-168733/",
+      "imageUrl": "https://cdn.findpawpal.com/office/168733.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 178574,
+      "slug": "seymour-animal-shelter-178574",
+      "name": "Seymour Animal Shelter",
+      "address": "115 Silvermine Road, Seymour, CT 06483",
+      "phone": "203-465-2143",
+      "image": "./img/shelter/office/178574.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/seymour-animal-shelter-178574/",
+      "imageUrl": "https://cdn.findpawpal.com/office/178574.jpg?f=webp&w=730"
+    }
+  ]
+}

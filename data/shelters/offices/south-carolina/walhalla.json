@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:58:31.971107+00:00",
+  "state": {
+    "slug": "south-carolina",
+    "name": "South Carolina"
+  },
+  "city": {
+    "slug": "walhalla",
+    "name": "Walhalla",
+    "label": "Walhalla, SC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-carolina/walhalla/",
+  "offices": [
+    {
+      "officeId": 651591,
+      "slug": "oconee-county-humane-society-651591",
+      "name": "Oconee County Humane Society",
+      "address": "321 Camp Rd, Walhalla, SC 29691",
+      "phone": "864-638-8798",
+      "image": "./img/shelter/office/651591.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/oconee-county-humane-society-651591/",
+      "imageUrl": "https://cdn.findpawpal.com/office/651591.jpg?f=webp&w=730"
+    }
+  ]
+}

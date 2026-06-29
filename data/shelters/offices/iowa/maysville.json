@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:53:43.010459+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa"
+  },
+  "city": {
+    "slug": "maysville",
+    "name": "Maysville",
+    "label": "Maysville, IA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/maysville/",
+  "offices": [
+    {
+      "officeId": 461113,
+      "slug": "quad-cities-greyhound-adoption-461113",
+      "name": "Quad Cities Greyhound Adoption",
+      "address": "9525 New Liberty Road, Maysville, IA 52773",
+      "phone": "563-823-8900",
+      "image": "./img/shelter/office/461113.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/quad-cities-greyhound-adoption-461113/",
+      "imageUrl": "https://cdn.findpawpal.com/office/461113.jpg?f=webp&w=730"
+    }
+  ]
+}

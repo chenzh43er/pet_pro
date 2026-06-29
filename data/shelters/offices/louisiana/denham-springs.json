@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:59:28.036173+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "denham-springs",
+    "name": "Denham Springs",
+    "label": "Denham Springs, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/denham-springs/",
+  "offices": [
+    {
+      "officeId": 244023,
+      "slug": "denham-springs-animal-control-244023",
+      "name": "Denham Springs Animal Control",
+      "address": "600 Bowman Street, Denham Springs, LA 70726",
+      "phone": "225-664-4472",
+      "image": "./img/shelter/office/244023.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/denham-springs-animal-control-244023/",
+      "imageUrl": "https://cdn.findpawpal.com/office/244023.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 257110,
+      "slug": "small-animal-rescue-257110",
+      "name": "Small Animal Rescue",
+      "address": "7701 Impson Street, Denham Springs, LA 70706",
+      "phone": "225-664-9974",
+      "image": "./img/shelter/office/257110.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/small-animal-rescue-257110/",
+      "imageUrl": "https://cdn.findpawpal.com/office/257110.jpg?f=webp&w=730"
+    }
+  ]
+}

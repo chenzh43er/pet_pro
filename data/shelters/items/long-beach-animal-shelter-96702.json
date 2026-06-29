@@ -1,0 +1,21 @@
+{
+  "officeId": 96702,
+  "slug": "long-beach-animal-shelter-96702",
+  "name": "Long Beach Animal Shelter",
+  "address": "265 Joline Avenue, Long Branch, NJ 07740",
+  "street": "265 Joline Avenue",
+  "addressCity": "Long Branch",
+  "stateCode": "NJ",
+  "zip": "07740",
+  "phone": "732-542-2030",
+  "image": "./img/shelter/office/96702.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/long-beach-animal-shelter-96702/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "long-branch",
+  "cityName": "Long Branch",
+  "cityLabel": "Long Branch, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/long-branch/",
+  "fetchedAt": "2026-06-27T19:27:09.775984+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/96702.jpg?f=webp&w=730"
+}

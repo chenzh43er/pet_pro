@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T20:03:18.273893+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "brenham",
+    "name": "Brenham",
+    "label": "Brenham, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/brenham/",
+  "offices": [
+    {
+      "officeId": 524067,
+      "slug": "brenham-humane-services-524067",
+      "name": "Brenham Humane Services",
+      "address": "2007 Old Chappell Hill Road, Brenham, TX 77833",
+      "phone": "979-337-7351",
+      "image": "./img/shelter/office/524067.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/brenham-humane-services-524067/",
+      "imageUrl": "https://cdn.findpawpal.com/office/524067.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 537586,
+      "slug": "friends-of-the-brenham-animal-shelter-537586",
+      "name": "Friends of the Brenham Animal Shelter",
+      "address": "PO Box 1654, Brenham, TX 77834",
+      "phone": "409-836-4896",
+      "image": "./img/shelter/office/537586.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-the-brenham-animal-shelter-537586/",
+      "imageUrl": "https://cdn.findpawpal.com/office/537586.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 633224,
+      "slug": "true-blue-animal-rescue-633224",
+      "name": "True Blue Animal Rescue",
+      "address": "PO Box 1107, Brenham, TX 77834",
+      "phone": "936-878-2349",
+      "image": "./img/shelter/office/633224.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/true-blue-animal-rescue-633224/",
+      "imageUrl": "https://cdn.findpawpal.com/office/633224.jpg?f=webp&w=730"
+    }
+  ]
+}

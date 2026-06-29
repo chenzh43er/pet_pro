@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:51:30.418503+00:00",
+  "state": {
+    "slug": "oregon",
+    "name": "Oregon"
+  },
+  "city": {
+    "slug": "springfield",
+    "name": "Springfield",
+    "label": "Springfield, OR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oregon/springfield/",
+  "offices": [
+    {
+      "officeId": 604323,
+      "slug": "orfan-oregon-feline-adoption-network-604323",
+      "name": "Orfan Oregon Feline Adoption Network",
+      "address": "815 6th Street, Springfield, OR 97477",
+      "phone": "",
+      "image": "./img/shelter/office/604323.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/orfan-oregon-feline-adoption-network-604323/",
+      "imageUrl": "https://cdn.findpawpal.com/office/604323.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 661278,
+      "slug": "springfield-animal-control-661278",
+      "name": "Springfield Animal Control",
+      "address": "230 4th Street, Springfield, OR 97477",
+      "phone": "541-726-3634",
+      "image": "https://cdn.findpawpal.com/office/661278.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/springfield-animal-control-661278/"
+    }
+  ]
+}

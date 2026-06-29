@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:55:12.829761+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "tipton",
+    "name": "Tipton",
+    "label": "Tipton, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/tipton/",
+  "offices": [
+    {
+      "officeId": 474012,
+      "slug": "dogs-deserve-better-474012",
+      "name": "Dogs Deserve Better",
+      "address": "PO Box 23, Tipton, PA 16684",
+      "phone": "877-636-1408",
+      "image": "https://cdn.findpawpal.com/office/474012.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/dogs-deserve-better-474012/"
+    }
+  ]
+}

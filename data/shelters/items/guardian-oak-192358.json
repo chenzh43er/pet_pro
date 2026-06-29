@@ -1,0 +1,21 @@
+{
+  "officeId": 192358,
+  "slug": "guardian-oak-192358",
+  "name": "Guardian Oak",
+  "address": "PO Box 100, Armstrong, MO 65230",
+  "street": "PO Box 100",
+  "addressCity": "Armstrong",
+  "stateCode": "MO",
+  "zip": "65230",
+  "phone": "660-888-2436",
+  "image": "./img/shelter/office/192358.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/guardian-oak-192358/",
+  "stateSlug": "missouri",
+  "stateName": "Missouri",
+  "citySlug": "armstrong",
+  "cityName": "Armstrong",
+  "cityLabel": "Armstrong, MO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/missouri/armstrong/",
+  "fetchedAt": "2026-06-27T19:17:30.425649+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/192358.jpg?f=webp&w=730"
+}

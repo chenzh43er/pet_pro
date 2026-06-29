@@ -1,0 +1,21 @@
+{
+  "officeId": 204803,
+  "slug": "animal-resource-network-inc-204803",
+  "name": "Animal Resource Network, Inc.",
+  "address": "PO Box 80376, Lansing, MI 48908",
+  "street": "PO Box 80376",
+  "addressCity": "Lansing",
+  "stateCode": "MI",
+  "zip": "48908",
+  "phone": "517-853-8239",
+  "image": "./img/shelter/office/204803.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/animal-resource-network-inc-204803/",
+  "stateSlug": "michigan",
+  "stateName": "Michigan",
+  "citySlug": "lansing",
+  "cityName": "Lansing",
+  "cityLabel": "Lansing, MI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/michigan/lansing/",
+  "fetchedAt": "2026-06-27T19:11:21.638477+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/204803.jpg?f=webp&w=730"
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:57:18.882918+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "hopkinsville",
+    "name": "Hopkinsville",
+    "label": "Hopkinsville, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/hopkinsville/",
+  "offices": [
+    {
+      "officeId": 114390,
+      "slug": "christian-county-animal-shelter-114390",
+      "name": "Christian County Animal Shelter",
+      "address": "2935 Russellville Road, Hopkinsville, KY 42240",
+      "phone": "270-887-4175",
+      "image": "./img/shelter/office/114390.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/christian-county-animal-shelter-114390/",
+      "imageUrl": "https://cdn.findpawpal.com/office/114390.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 118997,
+      "slug": "christian-county-humane-society-inc-118997",
+      "name": "Christian County Humane Society, Inc.",
+      "address": "PO Box 1233, Hopkinsville, KY 42241",
+      "phone": "270-887-4678",
+      "image": "./img/shelter/office/118997.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/christian-county-humane-society-inc-118997/",
+      "imageUrl": "https://cdn.findpawpal.com/office/118997.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 581779,
+  "slug": "ohio-state-animal-shelter-581779",
+  "name": "Ohio State Animal Shelter",
+  "address": "691 East Dublin Granville Road, Columbus, OH 43229",
+  "street": "691 East Dublin Granville Road",
+  "addressCity": "Columbus",
+  "stateCode": "OH",
+  "zip": "43229",
+  "phone": "614-396-8707",
+  "image": "./img/shelter/office/581779.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/ohio-state-animal-shelter-581779/",
+  "stateSlug": "ohio",
+  "stateName": "Ohio",
+  "citySlug": "columbus",
+  "cityName": "Columbus",
+  "cityLabel": "Columbus, OH",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/ohio/columbus/",
+  "fetchedAt": "2026-06-27T19:43:52.101476+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/581779.jpg?f=webp&w=730"
+}

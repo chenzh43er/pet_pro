@@ -1,0 +1,21 @@
+{
+  "officeId": 467233,
+  "slug": "belmont-county-animal-shelter-467233",
+  "name": "Belmont County Animal Shelter",
+  "address": "45244 National Road West, St. Clairsville, OH 43950",
+  "street": "45244 National Road West",
+  "addressCity": "St. Clairsville",
+  "stateCode": "OH",
+  "zip": "43950",
+  "phone": "740-695-4708",
+  "image": "./img/shelter/office/467233.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/belmont-county-animal-shelter-467233/",
+  "stateSlug": "ohio",
+  "stateName": "Ohio",
+  "citySlug": "st-clairsville",
+  "cityName": "St. Clairsville",
+  "cityLabel": "St. Clairsville, OH",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/ohio/st-clairsville/",
+  "fetchedAt": "2026-06-27T19:47:01.043523+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/467233.jpg?f=webp&w=730"
+}

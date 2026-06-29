@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:33:54.132314+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "craig",
+    "name": "Craig",
+    "label": "Craig, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/craig/",
+  "offices": [
+    {
+      "officeId": 40983,
+      "slug": "craig-animal-control-40983",
+      "name": "Craig Animal Control",
+      "address": "800 West 1st Street, Craig, CO 81625",
+      "phone": "970-824-8111",
+      "image": "./img/shelter/office/40983.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/craig-animal-control-40983/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40983.jpg?f=webp&w=730"
+    }
+  ]
+}

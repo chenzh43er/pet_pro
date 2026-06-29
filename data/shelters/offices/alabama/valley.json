@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:18:55.503980+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "valley",
+    "name": "Valley",
+    "label": "Valley, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/valley/",
+  "offices": [
+    {
+      "slug": "chattahoochee-humane-society-6648",
+      "name": "Chattahoochee Humane Society",
+      "address": "3265 Fairfax Bypass, Valley, AL 36854",
+      "phone": "334-756-9377",
+      "image": "./img/shelter/office/6648.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/chattahoochee-humane-society-6648/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6648.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:46:51.000684+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "minooka",
+    "name": "Minooka",
+    "label": "Minooka, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/minooka/",
+  "offices": [
+    {
+      "officeId": 522886,
+      "slug": "humane-society-of-plainfield-522886",
+      "name": "Humane Society of Plainfield",
+      "address": "500 Bob Blair Road, Minooka, IL 60447",
+      "phone": "815-436-2700",
+      "image": "./img/shelter/office/522886.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-plainfield-522886/",
+      "imageUrl": "https://cdn.findpawpal.com/office/522886.jpg?f=webp&w=730"
+    }
+  ]
+}

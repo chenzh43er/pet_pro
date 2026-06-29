@@ -1,0 +1,711 @@
+{
+  "fetchedAt": "2026-06-27T17:47:33.931107+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut",
+    "offices": 163
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/",
+  "cities": [
+    {
+      "slug": "ansonia",
+      "name": "Ansonia",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/ansonia/"
+    },
+    {
+      "slug": "bantam",
+      "name": "Bantam",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/bantam/"
+    },
+    {
+      "slug": "beacon-falls",
+      "name": "Beacon Falls",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/beacon-falls/"
+    },
+    {
+      "slug": "berlin",
+      "name": "Berlin",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/berlin/"
+    },
+    {
+      "slug": "bethel",
+      "name": "Bethel",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/bethel/"
+    },
+    {
+      "slug": "bloomfield",
+      "name": "Bloomfield",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/bloomfield/"
+    },
+    {
+      "slug": "bolton",
+      "name": "Bolton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/bolton/"
+    },
+    {
+      "slug": "bozrah",
+      "name": "Bozrah",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/bozrah/"
+    },
+    {
+      "slug": "branford",
+      "name": "Branford",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/branford/"
+    },
+    {
+      "slug": "bridgeport",
+      "name": "Bridgeport",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/bridgeport/"
+    },
+    {
+      "slug": "bristol",
+      "name": "Bristol",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/bristol/"
+    },
+    {
+      "slug": "burlington",
+      "name": "Burlington",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/burlington/"
+    },
+    {
+      "slug": "canaan",
+      "name": "Canaan",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/canaan/"
+    },
+    {
+      "slug": "canterbury",
+      "name": "Canterbury",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/canterbury/"
+    },
+    {
+      "slug": "cheshire",
+      "name": "Cheshire",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/cheshire/"
+    },
+    {
+      "slug": "clinton",
+      "name": "Clinton",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/clinton/"
+    },
+    {
+      "slug": "colchester",
+      "name": "Colchester",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/colchester/"
+    },
+    {
+      "slug": "cornwall",
+      "name": "Cornwall",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/cornwall/"
+    },
+    {
+      "slug": "coventry",
+      "name": "Coventry",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/coventry/"
+    },
+    {
+      "slug": "cromwell",
+      "name": "Cromwell",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/cromwell/"
+    },
+    {
+      "slug": "darien",
+      "name": "Darien",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/darien/"
+    },
+    {
+      "slug": "deep-river",
+      "name": "Deep River",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/deep-river/"
+    },
+    {
+      "slug": "east-granby",
+      "name": "East Granby",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/east-granby/"
+    },
+    {
+      "slug": "east-haven",
+      "name": "East Haven",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/east-haven/"
+    },
+    {
+      "slug": "easton",
+      "name": "Easton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/easton/"
+    },
+    {
+      "slug": "enfield",
+      "name": "Enfield",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/enfield/"
+    },
+    {
+      "slug": "essex",
+      "name": "Essex",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/essex/"
+    },
+    {
+      "slug": "fairfield",
+      "name": "Fairfield",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/fairfield/"
+    },
+    {
+      "slug": "glastonbury",
+      "name": "Glastonbury",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/glastonbury/"
+    },
+    {
+      "slug": "goshen",
+      "name": "Goshen",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/goshen/"
+    },
+    {
+      "slug": "greenwich",
+      "name": "Greenwich",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/greenwich/"
+    },
+    {
+      "slug": "griswold",
+      "name": "Griswold",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/griswold/"
+    },
+    {
+      "slug": "guilford",
+      "name": "Guilford",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/guilford/"
+    },
+    {
+      "slug": "hamden",
+      "name": "Hamden",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/hamden/"
+    },
+    {
+      "slug": "hampton",
+      "name": "Hampton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/hampton/"
+    },
+    {
+      "slug": "hartford",
+      "name": "Hartford",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/hartford/"
+    },
+    {
+      "slug": "lebanon",
+      "name": "Lebanon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/lebanon/"
+    },
+    {
+      "slug": "ledyard",
+      "name": "Ledyard",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/ledyard/"
+    },
+    {
+      "slug": "litchfield",
+      "name": "Litchfield",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/litchfield/"
+    },
+    {
+      "slug": "manchester",
+      "name": "Manchester",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/manchester/"
+    },
+    {
+      "slug": "mansfield",
+      "name": "Mansfield",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/mansfield/"
+    },
+    {
+      "slug": "mansfield-center",
+      "name": "Mansfield Center",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/mansfield-center/"
+    },
+    {
+      "slug": "meriden",
+      "name": "Meriden",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/meriden/"
+    },
+    {
+      "slug": "middlefield",
+      "name": "Middlefield",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/middlefield/"
+    },
+    {
+      "slug": "middletown",
+      "name": "Middletown",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/middletown/"
+    },
+    {
+      "slug": "milford",
+      "name": "Milford",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/milford/"
+    },
+    {
+      "slug": "monroe",
+      "name": "Monroe",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/monroe/"
+    },
+    {
+      "slug": "new-britain",
+      "name": "New Britain",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/new-britain/"
+    },
+    {
+      "slug": "new-canaan",
+      "name": "New Canaan",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/new-canaan/"
+    },
+    {
+      "slug": "new-fairfield",
+      "name": "New Fairfield",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/new-fairfield/"
+    },
+    {
+      "slug": "new-haven",
+      "name": "New Haven",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/new-haven/"
+    },
+    {
+      "slug": "new-london",
+      "name": "New London",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/new-london/"
+    },
+    {
+      "slug": "new-milford",
+      "name": "New Milford",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/new-milford/"
+    },
+    {
+      "slug": "newington",
+      "name": "Newington",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/newington/"
+    },
+    {
+      "slug": "newtown",
+      "name": "Newtown",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/newtown/"
+    },
+    {
+      "slug": "north-granby",
+      "name": "North Granby",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/north-granby/"
+    },
+    {
+      "slug": "north-haven",
+      "name": "North Haven",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/north-haven/"
+    },
+    {
+      "slug": "north-stonington",
+      "name": "North Stonington",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/north-stonington/"
+    },
+    {
+      "slug": "norwalk",
+      "name": "Norwalk",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/norwalk/"
+    },
+    {
+      "slug": "old-lyme",
+      "name": "Old Lyme",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/old-lyme/"
+    },
+    {
+      "slug": "old-saybrook",
+      "name": "Old Saybrook",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/old-saybrook/"
+    },
+    {
+      "slug": "plainfield",
+      "name": "Plainfield",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/plainfield/"
+    },
+    {
+      "slug": "pleasant-valley",
+      "name": "Pleasant Valley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/pleasant-valley/"
+    },
+    {
+      "slug": "plymouth",
+      "name": "Plymouth",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/plymouth/"
+    },
+    {
+      "slug": "portland",
+      "name": "Portland",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/portland/"
+    },
+    {
+      "slug": "preston",
+      "name": "Preston",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/preston/"
+    },
+    {
+      "slug": "redding",
+      "name": "Redding",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/redding/"
+    },
+    {
+      "slug": "ridgefield",
+      "name": "Ridgefield",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/ridgefield/"
+    },
+    {
+      "slug": "rocky-hill",
+      "name": "Rocky Hill",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/rocky-hill/"
+    },
+    {
+      "slug": "salem",
+      "name": "Salem",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/salem/"
+    },
+    {
+      "slug": "seymour",
+      "name": "Seymour",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/seymour/"
+    },
+    {
+      "slug": "sharon",
+      "name": "Sharon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/sharon/"
+    },
+    {
+      "slug": "shelton",
+      "name": "Shelton",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/shelton/"
+    },
+    {
+      "slug": "simsbury",
+      "name": "Simsbury",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/simsbury/"
+    },
+    {
+      "slug": "somers",
+      "name": "Somers",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/somers/"
+    },
+    {
+      "slug": "south-glastonbury",
+      "name": "South Glastonbury",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/south-glastonbury/"
+    },
+    {
+      "slug": "southbury",
+      "name": "Southbury",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/southbury/"
+    },
+    {
+      "slug": "stamford",
+      "name": "Stamford",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/stamford/"
+    },
+    {
+      "slug": "storrs",
+      "name": "Storrs",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/storrs/"
+    },
+    {
+      "slug": "stratford",
+      "name": "Stratford",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/stratford/"
+    },
+    {
+      "slug": "suffield",
+      "name": "Suffield",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/suffield/"
+    },
+    {
+      "slug": "tolland",
+      "name": "Tolland",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/tolland/"
+    },
+    {
+      "slug": "trumbull",
+      "name": "Trumbull",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/trumbull/"
+    },
+    {
+      "slug": "vernon",
+      "name": "Vernon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/vernon/"
+    },
+    {
+      "slug": "wallingford",
+      "name": "Wallingford",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/wallingford/"
+    },
+    {
+      "slug": "washington",
+      "name": "Washington",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/washington/"
+    },
+    {
+      "slug": "waterbury",
+      "name": "Waterbury",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/waterbury/"
+    },
+    {
+      "slug": "watertown",
+      "name": "Watertown",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/watertown/"
+    },
+    {
+      "slug": "west-hartford",
+      "name": "West Hartford",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/west-hartford/"
+    },
+    {
+      "slug": "west-haven",
+      "name": "West Haven",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/west-haven/"
+    },
+    {
+      "slug": "westbrook",
+      "name": "Westbrook",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/westbrook/"
+    },
+    {
+      "slug": "weston",
+      "name": "Weston",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/weston/"
+    },
+    {
+      "slug": "westport",
+      "name": "Westport",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/westport/"
+    },
+    {
+      "slug": "wethersfield",
+      "name": "Wethersfield",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/wethersfield/"
+    },
+    {
+      "slug": "wilton",
+      "name": "Wilton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/wilton/"
+    },
+    {
+      "slug": "windham",
+      "name": "Windham",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/windham/"
+    },
+    {
+      "slug": "windsor",
+      "name": "Windsor",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/windsor/"
+    },
+    {
+      "slug": "woodbridge",
+      "name": "Woodbridge",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/woodbridge/"
+    },
+    {
+      "slug": "woodbury",
+      "name": "Woodbury",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/woodbury/"
+    },
+    {
+      "slug": "woodstock",
+      "name": "Woodstock",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/woodstock/"
+    }
+  ]
+}

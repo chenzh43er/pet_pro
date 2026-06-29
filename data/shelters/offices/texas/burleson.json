@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:03:33.009252+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "burleson",
+    "name": "Burleson",
+    "label": "Burleson, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/burleson/",
+  "offices": [
+    {
+      "officeId": 633475,
+      "slug": "city-of-burleson-animal-shelter-633475",
+      "name": "City of Burleson Animal Shelter",
+      "address": "775 Southeast John Jones Drive, Burleson, TX 76028",
+      "phone": "817-447-5400",
+      "image": "https://cdn.findpawpal.com/office/633475.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/city-of-burleson-animal-shelter-633475/"
+    }
+  ]
+}

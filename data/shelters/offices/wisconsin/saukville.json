@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:24:01.862928+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "saukville",
+    "name": "Saukville",
+    "label": "Saukville, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/saukville/",
+  "offices": [
+    {
+      "officeId": 631965,
+      "slug": "wisconsin-humane-society-ozaukee-campus-631965",
+      "name": "Wisconsin Humane Society Ozaukee Campus",
+      "address": "630 West Dekora Street, Saukville, WI 53080",
+      "phone": "262-377-7580",
+      "image": "./img/shelter/office/631965.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wisconsin-humane-society-ozaukee-campus-631965/",
+      "imageUrl": "https://cdn.findpawpal.com/office/631965.jpg?f=webp&w=730"
+    }
+  ]
+}

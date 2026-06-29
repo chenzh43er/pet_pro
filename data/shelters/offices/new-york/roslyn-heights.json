@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:36:34.973872+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "roslyn-heights",
+    "name": "Roslyn Heights",
+    "label": "Roslyn Heights, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/roslyn-heights/",
+  "offices": [
+    {
+      "officeId": 315176,
+      "slug": "nassau-county-spca-315176",
+      "name": "Nassau County SPCA",
+      "address": "PO Box 453, Roslyn Heights, NY 11577",
+      "phone": "516-781-2052",
+      "image": "./img/shelter/office/315176.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/nassau-county-spca-315176/",
+      "imageUrl": "https://cdn.findpawpal.com/office/315176.jpg?f=webp&w=730"
+    }
+  ]
+}

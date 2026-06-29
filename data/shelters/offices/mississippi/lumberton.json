@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:16:42.087649+00:00",
+  "state": {
+    "slug": "mississippi",
+    "name": "Mississippi"
+  },
+  "city": {
+    "slug": "lumberton",
+    "name": "Lumberton",
+    "label": "Lumberton, MS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/mississippi/lumberton/",
+  "offices": [
+    {
+      "officeId": 108096,
+      "slug": "pine-belt-animal-rescue-and-adoption-center-108096",
+      "name": "Pine Belt Animal Rescue & Adoption Center",
+      "address": "134 B Lowe Lane, Lumberton, MS 39455",
+      "phone": "601-794-3939",
+      "image": "./img/shelter/office/108096.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pine-belt-animal-rescue-and-adoption-center-108096/",
+      "imageUrl": "https://cdn.findpawpal.com/office/108096.jpg?f=webp&w=730"
+    }
+  ]
+}

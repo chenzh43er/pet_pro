@@ -1,0 +1,21 @@
+{
+  "officeId": 507432,
+  "slug": "pett-rescue-507432",
+  "name": "Pett Rescue",
+  "address": "1200 Valley-View Avenue, Wheeling, WV 26003",
+  "street": "1200 Valley-View Avenue",
+  "addressCity": "Wheeling",
+  "stateCode": "WV",
+  "zip": "26003",
+  "phone": "304-845-1200",
+  "image": "./img/shelter/office/507432.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pett-rescue-507432/",
+  "stateSlug": "west-virginia",
+  "stateName": "West Virginia",
+  "citySlug": "wheeling",
+  "cityName": "Wheeling",
+  "cityLabel": "Wheeling, WV",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/west-virginia/wheeling/",
+  "fetchedAt": "2026-06-27T20:21:48.516258+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/507432.jpg?f=webp&w=730"
+}

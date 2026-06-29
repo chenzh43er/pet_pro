@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:31:49.873529+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "valley-center",
+    "name": "Valley Center",
+    "label": "Valley Center, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/valley-center/",
+  "offices": [
+    {
+      "slug": "rancho-lotsa-cats-feline-rescue-363921",
+      "name": "Rancho Lotsa Cats Feline Rescue",
+      "address": "27932 Valley Center Road, Valley Center, CA 92082",
+      "phone": "760-749-1710",
+      "image": "./img/shelter/office/363921.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rancho-lotsa-cats-feline-rescue-363921/",
+      "imageUrl": "https://cdn.findpawpal.com/office/363921.jpg?f=webp&w=730"
+    }
+  ]
+}

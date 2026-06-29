@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:59:46.513378+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "cottontown",
+    "name": "Cottontown",
+    "label": "Cottontown, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/cottontown/",
+  "offices": [
+    {
+      "officeId": 460529,
+      "slug": "loving-kittens-460529",
+      "name": "Loving Kittens",
+      "address": "212 Arnetty Drive, Cottontown, TN 37048",
+      "phone": "",
+      "image": "./img/shelter/office/460529.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/loving-kittens-460529/",
+      "imageUrl": "https://cdn.findpawpal.com/office/460529.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 99217,
+  "slug": "murrow-animal-control-99217",
+  "name": "Murrow Animal Control",
+  "address": "801 Burbank Drive, Somerdale, NJ 08083",
+  "street": "801 Burbank Drive",
+  "addressCity": "Somerdale",
+  "stateCode": "NJ",
+  "zip": "08083",
+  "phone": "856-346-1221",
+  "image": "./img/shelter/office/99217.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/murrow-animal-control-99217/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "somerdale",
+  "cityName": "Somerdale",
+  "cityLabel": "Somerdale, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/somerdale/",
+  "fetchedAt": "2026-06-27T19:28:54.694724+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/99217.jpg?f=webp&w=730"
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:04:43.576980+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "elgin",
+    "name": "Elgin",
+    "label": "Elgin, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/elgin/",
+  "offices": [
+    {
+      "officeId": 493895,
+      "slug": "dreamtime-sanctuary-of-hacienda-de-los-milagros-493895",
+      "name": "Dreamtime Sanctuary of Hacienda De Los Milagros",
+      "address": "PO Box 328, Elgin, TX 78621",
+      "phone": "512-281-4572",
+      "image": "./img/shelter/office/493895.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dreamtime-sanctuary-of-hacienda-de-los-milagros-493895/",
+      "imageUrl": "https://cdn.findpawpal.com/office/493895.jpg?f=webp&w=730"
+    }
+  ]
+}

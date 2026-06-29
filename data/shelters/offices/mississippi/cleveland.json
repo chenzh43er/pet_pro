@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:16:08.767344+00:00",
+  "state": {
+    "slug": "mississippi",
+    "name": "Mississippi"
+  },
+  "city": {
+    "slug": "cleveland",
+    "name": "Cleveland",
+    "label": "Cleveland, MS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/mississippi/cleveland/",
+  "offices": [
+    {
+      "officeId": 103635,
+      "slug": "serenity-animal-resceu-103635",
+      "name": "Serenity Animal Resceu",
+      "address": "41 McCain Lane, Cleveland, MS 38732",
+      "phone": "662-719-1718",
+      "image": "./img/shelter/office/103635.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/serenity-animal-resceu-103635/",
+      "imageUrl": "https://cdn.findpawpal.com/office/103635.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 103785,
+      "slug": "bolivar-county-animal-shelter-103785",
+      "name": "Bolivar County Animal Shelter",
+      "address": "200 West Carpenter Street, Cleveland, MS 38732",
+      "phone": "662-846-1155",
+      "image": "./img/shelter/office/103785.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bolivar-county-animal-shelter-103785/",
+      "imageUrl": "https://cdn.findpawpal.com/office/103785.jpg?f=webp&w=730"
+    }
+  ]
+}

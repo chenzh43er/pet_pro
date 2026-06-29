@@ -1,0 +1,21 @@
+{
+  "officeId": 522975,
+  "slug": "tlc-animal-shelter-522975",
+  "name": "TLC Animal Shelter",
+  "address": "13016 West 151st Street, Homer Glen, IL 60491",
+  "street": "13016 West 151st Street",
+  "addressCity": "Homer Glen",
+  "stateCode": "IL",
+  "zip": "60491",
+  "phone": "708-301-1594",
+  "image": "./img/shelter/office/522975.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/tlc-animal-shelter-522975/",
+  "stateSlug": "illinois",
+  "stateName": "Illinois",
+  "citySlug": "homer-glen",
+  "cityName": "Homer Glen",
+  "cityLabel": "Homer Glen, IL",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/illinois/homer-glen/",
+  "fetchedAt": "2026-06-27T18:46:06.807355+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/522975.jpg?f=webp&w=730"
+}

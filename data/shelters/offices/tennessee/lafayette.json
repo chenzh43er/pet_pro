@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T20:00:42.731173+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "lafayette",
+    "name": "Lafayette",
+    "label": "Lafayette, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/lafayette/",
+  "offices": [
+    {
+      "officeId": 437475,
+      "slug": "city-animal-impound-437475",
+      "name": "City Animal Impound",
+      "address": "PO Box 275, Lafayette, TN 37083",
+      "phone": "615-666-2194",
+      "image": "./img/shelter/office/437475.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/city-animal-impound-437475/",
+      "imageUrl": "https://cdn.findpawpal.com/office/437475.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 574013,
+      "slug": "upper-cumberland-humane-society-574013",
+      "name": "Upper Cumberland Humane Society",
+      "address": "105 Carter Circle, Lafayette, TN 37083",
+      "phone": "615-826-3364",
+      "image": "./img/shelter/office/574013.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/upper-cumberland-humane-society-574013/",
+      "imageUrl": "https://cdn.findpawpal.com/office/574013.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 580767,
+      "slug": "2x2-ranch-and-refuge-580767",
+      "name": "2x2 Ranch and Refuge",
+      "address": "PO Box 701, Lafayette, TN 37083",
+      "phone": "615-666-8854",
+      "image": "./img/shelter/office/580767.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/2x2-ranch-and-refuge-580767/",
+      "imageUrl": "https://cdn.findpawpal.com/office/580767.jpg?f=webp&w=730"
+    }
+  ]
+}

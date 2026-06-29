@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:06:39.576327+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "lamesa",
+    "name": "Lamesa",
+    "label": "Lamesa, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/lamesa/",
+  "offices": [
+    {
+      "officeId": 702125,
+      "slug": "la-mesa-spca-702125",
+      "name": "La Mesa SPCA",
+      "address": "PO Box 42, Lamesa, TX 79331",
+      "phone": "",
+      "image": "./img/shelter/office/702125.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/la-mesa-spca-702125/",
+      "imageUrl": "https://cdn.findpawpal.com/office/702125.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fetchedAt": "2026-06-27T18:40:44.637509+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "marietta",
+    "name": "Marietta",
+    "label": "Marietta, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/marietta/",
+  "offices": [
+    {
+      "officeId": 133355,
+      "slug": "humane-society-of-cobb-county-133355",
+      "name": "Humane Society of Cobb County",
+      "address": "148 Fairground Street North, Marietta, GA 30060",
+      "phone": "770-428-9882",
+      "image": "./img/shelter/office/133355.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-cobb-county-133355/",
+      "imageUrl": "https://cdn.findpawpal.com/office/133355.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 133524,
+      "slug": "our-pals-place-inc-133524",
+      "name": "Our Pal's Place, Inc.",
+      "address": "4508 Canton Road, Marietta, GA 30066",
+      "phone": "678-795-0202",
+      "image": "./img/shelter/office/133524.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/our-pals-place-inc-133524/",
+      "imageUrl": "https://cdn.findpawpal.com/office/133524.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 133558,
+      "slug": "basset-hound-rescue-of-georgia-inc-133558",
+      "name": "Basset Hound Rescue of Georgia, Inc.",
+      "address": "PO Box 680322, Marietta, GA 30068",
+      "phone": "770-499-1164",
+      "image": "./img/shelter/office/133558.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/basset-hound-rescue-of-georgia-inc-133558/",
+      "imageUrl": "https://cdn.findpawpal.com/office/133558.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 133561,
+      "slug": "good-mews-animal-foundation-133561",
+      "name": "Good Mews Animal Foundation",
+      "address": "736 Johnson Ferry Road, Marietta, GA 30068",
+      "phone": "770-499-2287",
+      "image": "./img/shelter/office/133561.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/good-mews-animal-foundation-133561/",
+      "imageUrl": "https://cdn.findpawpal.com/office/133561.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 134404,
+      "slug": "cobb-county-animal-control-134404",
+      "name": "Cobb County Animal Control",
+      "address": "1060 Al Bishop Drive, Marietta, GA 30008",
+      "phone": "770-499-4136",
+      "image": "./img/shelter/office/134404.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cobb-county-animal-control-134404/",
+      "imageUrl": "https://cdn.findpawpal.com/office/134404.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 134415,
+      "slug": "animals-deserve-better-inc-134415",
+      "name": "Animals Deserve Better Inc",
+      "address": "3151 Inman Park Court, Marietta, GA 30062",
+      "phone": "770-402-0297",
+      "image": "./img/shelter/office/134415.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animals-deserve-better-inc-134415/",
+      "imageUrl": "https://cdn.findpawpal.com/office/134415.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 138212,
+      "slug": "greyt-friends-inc-138212",
+      "name": "Greyt Friends, Inc",
+      "address": "2969 Gant Quarters Drive Southeast, Marietta, GA 30068",
+      "phone": "770-971-8788",
+      "image": "./img/shelter/office/138212.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greyt-friends-inc-138212/",
+      "imageUrl": "https://cdn.findpawpal.com/office/138212.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 148621,
+      "slug": "mutt-madd-ness-inc-148621",
+      "name": "Mutt Madd-Ness, Inc.",
+      "address": "PO Box 71821, Marietta, GA 30007",
+      "phone": "404-406-6322",
+      "image": "./img/shelter/office/148621.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mutt-madd-ness-inc-148621/",
+      "imageUrl": "https://cdn.findpawpal.com/office/148621.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 157713,
+      "slug": "homeless-pets-foundation-157713",
+      "name": "Homeless Pets Foundation",
+      "address": "PO Box 7194, Marietta, GA 30065",
+      "phone": "404-451-9494",
+      "image": "./img/shelter/office/157713.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/homeless-pets-foundation-157713/",
+      "imageUrl": "https://cdn.findpawpal.com/office/157713.jpg?f=webp&w=730"
+    }
+  ]
+}

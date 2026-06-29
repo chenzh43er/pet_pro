@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:17:15.879603+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "starke",
+    "name": "Starke",
+    "label": "Starke, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/starke/",
+  "offices": [
+    {
+      "slug": "bradford-county-animal-control-270499",
+      "name": "Bradford County Animal Control",
+      "address": "606 Edwards Road, Starke, FL 32091",
+      "phone": "904-964-9200",
+      "image": "./img/shelter/office/270499.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bradford-county-animal-control-270499/",
+      "imageUrl": "https://cdn.findpawpal.com/office/270499.jpg?f=webp&w=730"
+    }
+  ]
+}

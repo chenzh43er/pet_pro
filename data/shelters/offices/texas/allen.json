@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:02:32.536342+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "allen",
+    "name": "Allen",
+    "label": "Allen, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/allen/",
+  "offices": [
+    {
+      "officeId": 478907,
+      "slug": "adoption-trailers-inc-478907",
+      "name": "Adoption Trailers, Inc.",
+      "address": "6009 Ranchview Court, Allen, TX 75002",
+      "phone": "469-563-7890",
+      "image": "./img/shelter/office/478907.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/adoption-trailers-inc-478907/",
+      "imageUrl": "https://cdn.findpawpal.com/office/478907.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 524776,
+      "slug": "city-allen-animal-shelter-524776",
+      "name": "City Allen Animal Shelter",
+      "address": "770 South Allen Heights Drive, Allen, TX 75002",
+      "phone": "",
+      "image": "./img/shelter/office/524776.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/city-allen-animal-shelter-524776/",
+      "imageUrl": "https://cdn.findpawpal.com/office/524776.jpg?f=webp&w=730"
+    }
+  ]
+}

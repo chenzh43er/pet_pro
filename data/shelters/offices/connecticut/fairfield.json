@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:36:10.076428+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "fairfield",
+    "name": "Fairfield",
+    "label": "Fairfield, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/fairfield/",
+  "offices": [
+    {
+      "officeId": 155574,
+      "slug": "fairfield-police-animal-control-155574",
+      "name": "Fairfield Police-Animal Control",
+      "address": "211 Richard White Way, Fairfield, CT 06824",
+      "phone": "203-254-4857",
+      "image": "./img/shelter/office/155574.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fairfield-police-animal-control-155574/",
+      "imageUrl": "https://cdn.findpawpal.com/office/155574.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 157551,
+      "slug": "fairfield-animal-control-157551",
+      "name": "Fairfield Animal Control",
+      "address": "211 Richard White Way, Fairfield, CT 06824",
+      "phone": "203-254-4857",
+      "image": "./img/shelter/office/157551.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fairfield-animal-control-157551/",
+      "imageUrl": "https://cdn.findpawpal.com/office/157551.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 160663,
+      "slug": "new-leash-on-life-160663",
+      "name": "New Leash On Life",
+      "address": "PO Box 320241, Fairfield, CT 06825",
+      "phone": "203-354-2186",
+      "image": "./img/shelter/office/160663.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-leash-on-life-160663/",
+      "imageUrl": "https://cdn.findpawpal.com/office/160663.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,1208 @@
+{
+  "fetchedAt": "2026-06-27T17:48:01.405871+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan",
+    "offices": 232
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/",
+  "cities": [
+    {
+      "slug": "adrian",
+      "name": "Adrian",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/adrian/"
+    },
+    {
+      "slug": "alanson",
+      "name": "Alanson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/alanson/"
+    },
+    {
+      "slug": "allegan",
+      "name": "Allegan",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/allegan/"
+    },
+    {
+      "slug": "allen-park",
+      "name": "Allen Park",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/allen-park/"
+    },
+    {
+      "slug": "alpena",
+      "name": "Alpena",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/alpena/"
+    },
+    {
+      "slug": "ann-arbor",
+      "name": "Ann Arbor",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/ann-arbor/"
+    },
+    {
+      "slug": "atlanta",
+      "name": "Atlanta",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/atlanta/"
+    },
+    {
+      "slug": "auburn-hills",
+      "name": "Auburn Hills",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/auburn-hills/"
+    },
+    {
+      "slug": "baldwin",
+      "name": "Baldwin",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/baldwin/"
+    },
+    {
+      "slug": "battle-creek",
+      "name": "Battle Creek",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/battle-creek/"
+    },
+    {
+      "slug": "bay",
+      "name": "Bay",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/bay/"
+    },
+    {
+      "slug": "bellaire",
+      "name": "Bellaire",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/bellaire/"
+    },
+    {
+      "slug": "belleville",
+      "name": "Belleville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/belleville/"
+    },
+    {
+      "slug": "benton-harbor",
+      "name": "Benton Harbor",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/benton-harbor/"
+    },
+    {
+      "slug": "berkley",
+      "name": "Berkley",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/berkley/"
+    },
+    {
+      "slug": "berrien-center",
+      "name": "Berrien Center",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/berrien-center/"
+    },
+    {
+      "slug": "bessemer",
+      "name": "Bessemer",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/bessemer/"
+    },
+    {
+      "slug": "beulah",
+      "name": "Beulah",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/beulah/"
+    },
+    {
+      "slug": "big-rapids",
+      "name": "Big Rapids",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/big-rapids/"
+    },
+    {
+      "slug": "birmingham",
+      "name": "Birmingham",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/birmingham/"
+    },
+    {
+      "slug": "bloomfield-hills",
+      "name": "Bloomfield Hills",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/bloomfield-hills/"
+    },
+    {
+      "slug": "boyne",
+      "name": "Boyne",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/boyne/"
+    },
+    {
+      "slug": "brandon",
+      "name": "Brandon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/brandon/"
+    },
+    {
+      "slug": "breitung",
+      "name": "Breitung",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/breitung/"
+    },
+    {
+      "slug": "brownstown",
+      "name": "Brownstown",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/brownstown/"
+    },
+    {
+      "slug": "caro",
+      "name": "Caro",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/caro/"
+    },
+    {
+      "slug": "cassopolis",
+      "name": "Cassopolis",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/cassopolis/"
+    },
+    {
+      "slug": "center-line",
+      "name": "Center Line",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/center-line/"
+    },
+    {
+      "slug": "centreville",
+      "name": "Centreville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/centreville/"
+    },
+    {
+      "slug": "charlotte",
+      "name": "Charlotte",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/charlotte/"
+    },
+    {
+      "slug": "chase",
+      "name": "Chase",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/chase/"
+    },
+    {
+      "slug": "cheboygan",
+      "name": "Cheboygan",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/cheboygan/"
+    },
+    {
+      "slug": "clarkston",
+      "name": "Clarkston",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/clarkston/"
+    },
+    {
+      "slug": "clawson",
+      "name": "Clawson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/clawson/"
+    },
+    {
+      "slug": "clinton",
+      "name": "Clinton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/clinton/"
+    },
+    {
+      "slug": "commerce",
+      "name": "Commerce",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/commerce/"
+    },
+    {
+      "slug": "constantine",
+      "name": "Constantine",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/constantine/"
+    },
+    {
+      "slug": "coopersville",
+      "name": "Coopersville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/coopersville/"
+    },
+    {
+      "slug": "detroit",
+      "name": "Detroit",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/detroit/"
+    },
+    {
+      "slug": "douglas",
+      "name": "Douglas",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/douglas/"
+    },
+    {
+      "slug": "dowagiac",
+      "name": "Dowagiac",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/dowagiac/"
+    },
+    {
+      "slug": "dryden",
+      "name": "Dryden",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/dryden/"
+    },
+    {
+      "slug": "eagle",
+      "name": "Eagle",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/eagle/"
+    },
+    {
+      "slug": "eastpointe",
+      "name": "Eastpointe",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/eastpointe/"
+    },
+    {
+      "slug": "eaton-rapids",
+      "name": "Eaton Rapids",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/eaton-rapids/"
+    },
+    {
+      "slug": "eau-claire",
+      "name": "Eau Claire",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/eau-claire/"
+    },
+    {
+      "slug": "elkton",
+      "name": "Elkton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/elkton/"
+    },
+    {
+      "slug": "escanaba",
+      "name": "Escanaba",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/escanaba/"
+    },
+    {
+      "slug": "farmington",
+      "name": "Farmington",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/farmington/"
+    },
+    {
+      "slug": "fennville",
+      "name": "Fennville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/fennville/"
+    },
+    {
+      "slug": "fenton",
+      "name": "Fenton",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/fenton/"
+    },
+    {
+      "slug": "ferndale",
+      "name": "Ferndale",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/ferndale/"
+    },
+    {
+      "slug": "flint",
+      "name": "Flint",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/flint/"
+    },
+    {
+      "slug": "fowlerville",
+      "name": "Fowlerville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/fowlerville/"
+    },
+    {
+      "slug": "frankenmuth",
+      "name": "Frankenmuth",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/frankenmuth/"
+    },
+    {
+      "slug": "frankfort",
+      "name": "Frankfort",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/frankfort/"
+    },
+    {
+      "slug": "franklin",
+      "name": "Franklin",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/franklin/"
+    },
+    {
+      "slug": "fremont",
+      "name": "Fremont",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/fremont/"
+    },
+    {
+      "slug": "gaylord",
+      "name": "Gaylord",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/gaylord/"
+    },
+    {
+      "slug": "gladstone",
+      "name": "Gladstone",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/gladstone/"
+    },
+    {
+      "slug": "gladwin",
+      "name": "Gladwin",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/gladwin/"
+    },
+    {
+      "slug": "goodrich",
+      "name": "Goodrich",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/goodrich/"
+    },
+    {
+      "slug": "grand-haven",
+      "name": "Grand Haven",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/grand-haven/"
+    },
+    {
+      "slug": "grand-ledge",
+      "name": "Grand Ledge",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/grand-ledge/"
+    },
+    {
+      "slug": "grand-rapids",
+      "name": "Grand Rapids",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/grand-rapids/"
+    },
+    {
+      "slug": "grayling",
+      "name": "Grayling",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/grayling/"
+    },
+    {
+      "slug": "green",
+      "name": "Green",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/green/"
+    },
+    {
+      "slug": "grosse-pointe-park",
+      "name": "Grosse Pointe Park",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/grosse-pointe-park/"
+    },
+    {
+      "slug": "grosse-pointe-woods",
+      "name": "Grosse Pointe Woods",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/grosse-pointe-woods/"
+    },
+    {
+      "slug": "hadley",
+      "name": "Hadley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/hadley/"
+    },
+    {
+      "slug": "harper-woods",
+      "name": "Harper Woods",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/harper-woods/"
+    },
+    {
+      "slug": "harrison",
+      "name": "Harrison",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/harrison/"
+    },
+    {
+      "slug": "hastings",
+      "name": "Hastings",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/hastings/"
+    },
+    {
+      "slug": "hazel-park",
+      "name": "Hazel Park",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/hazel-park/"
+    },
+    {
+      "slug": "highland",
+      "name": "Highland",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/highland/"
+    },
+    {
+      "slug": "hillsdale",
+      "name": "Hillsdale",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/hillsdale/"
+    },
+    {
+      "slug": "holland",
+      "name": "Holland",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/holland/"
+    },
+    {
+      "slug": "houghton",
+      "name": "Houghton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/houghton/"
+    },
+    {
+      "slug": "howell",
+      "name": "Howell",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/howell/"
+    },
+    {
+      "slug": "ionia",
+      "name": "Ionia",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/ionia/"
+    },
+    {
+      "slug": "iron-mountain",
+      "name": "Iron Mountain",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/iron-mountain/"
+    },
+    {
+      "slug": "iron-river",
+      "name": "Iron River",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/iron-river/"
+    },
+    {
+      "slug": "ironwood",
+      "name": "Ironwood",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/ironwood/"
+    },
+    {
+      "slug": "ithaca",
+      "name": "Ithaca",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/ithaca/"
+    },
+    {
+      "slug": "jackson",
+      "name": "Jackson",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/jackson/"
+    },
+    {
+      "slug": "kalamazoo",
+      "name": "Kalamazoo",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/kalamazoo/"
+    },
+    {
+      "slug": "kalkaska",
+      "name": "Kalkaska",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/kalkaska/"
+    },
+    {
+      "slug": "lansing",
+      "name": "Lansing",
+      "offices": 7,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/lansing/"
+    },
+    {
+      "slug": "lapeer",
+      "name": "Lapeer",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/lapeer/"
+    },
+    {
+      "slug": "lawrence",
+      "name": "Lawrence",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/lawrence/"
+    },
+    {
+      "slug": "lincoln-park",
+      "name": "Lincoln Park",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/lincoln-park/"
+    },
+    {
+      "slug": "livonia",
+      "name": "Livonia",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/livonia/"
+    },
+    {
+      "slug": "ludington",
+      "name": "Ludington",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/ludington/"
+    },
+    {
+      "slug": "macomb",
+      "name": "Macomb",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/macomb/"
+    },
+    {
+      "slug": "madison-heights",
+      "name": "Madison Heights",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/madison-heights/"
+    },
+    {
+      "slug": "mancelona",
+      "name": "Mancelona",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/mancelona/"
+    },
+    {
+      "slug": "manistee",
+      "name": "Manistee",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/manistee/"
+    },
+    {
+      "slug": "manistique",
+      "name": "Manistique",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/manistique/"
+    },
+    {
+      "slug": "maple-city",
+      "name": "Maple City",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/maple-city/"
+    },
+    {
+      "slug": "mason",
+      "name": "Mason",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/mason/"
+    },
+    {
+      "slug": "melvindale",
+      "name": "Melvindale",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/melvindale/"
+    },
+    {
+      "slug": "menominee",
+      "name": "Menominee",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/menominee/"
+    },
+    {
+      "slug": "midland",
+      "name": "Midland",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/midland/"
+    },
+    {
+      "slug": "mio",
+      "name": "Mio",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/mio/"
+    },
+    {
+      "slug": "monroe",
+      "name": "Monroe",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/monroe/"
+    },
+    {
+      "slug": "montrose",
+      "name": "Montrose",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/montrose/"
+    },
+    {
+      "slug": "morley",
+      "name": "Morley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/morley/"
+    },
+    {
+      "slug": "mount-morris",
+      "name": "Mount Morris",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/mount-morris/"
+    },
+    {
+      "slug": "munising",
+      "name": "Munising",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/munising/"
+    },
+    {
+      "slug": "muskegon",
+      "name": "Muskegon",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/muskegon/"
+    },
+    {
+      "slug": "negaunee",
+      "name": "Negaunee",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/negaunee/"
+    },
+    {
+      "slug": "newaygo",
+      "name": "Newaygo",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/newaygo/"
+    },
+    {
+      "slug": "newberry",
+      "name": "Newberry",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/newberry/"
+    },
+    {
+      "slug": "norton-shores",
+      "name": "Norton Shores",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/norton-shores/"
+    },
+    {
+      "slug": "oak-park",
+      "name": "Oak Park",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/oak-park/"
+    },
+    {
+      "slug": "olivet",
+      "name": "Olivet",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/olivet/"
+    },
+    {
+      "slug": "osseo",
+      "name": "Osseo",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/osseo/"
+    },
+    {
+      "slug": "owosso",
+      "name": "Owosso",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/owosso/"
+    },
+    {
+      "slug": "oxford",
+      "name": "Oxford",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/oxford/"
+    },
+    {
+      "slug": "paw-paw",
+      "name": "Paw Paw",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/paw-paw/"
+    },
+    {
+      "slug": "plymouth",
+      "name": "Plymouth",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/plymouth/"
+    },
+    {
+      "slug": "pontiac",
+      "name": "Pontiac",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/pontiac/"
+    },
+    {
+      "slug": "port-huron",
+      "name": "Port Huron",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/port-huron/"
+    },
+    {
+      "slug": "prudenville",
+      "name": "Prudenville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/prudenville/"
+    },
+    {
+      "slug": "quincy",
+      "name": "Quincy",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/quincy/"
+    },
+    {
+      "slug": "redford",
+      "name": "Redford",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/redford/"
+    },
+    {
+      "slug": "reed",
+      "name": "Reed",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/reed/"
+    },
+    {
+      "slug": "remus",
+      "name": "Remus",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/remus/"
+    },
+    {
+      "slug": "river-rouge",
+      "name": "River Rouge",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/river-rouge/"
+    },
+    {
+      "slug": "riverview",
+      "name": "Riverview",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/riverview/"
+    },
+    {
+      "slug": "rochester",
+      "name": "Rochester",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/rochester/"
+    },
+    {
+      "slug": "rochester-hills",
+      "name": "Rochester Hills",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/rochester-hills/"
+    },
+    {
+      "slug": "romulus",
+      "name": "Romulus",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/romulus/"
+    },
+    {
+      "slug": "roscommon",
+      "name": "Roscommon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/roscommon/"
+    },
+    {
+      "slug": "royal-oak",
+      "name": "Royal Oak",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/royal-oak/"
+    },
+    {
+      "slug": "saginaw",
+      "name": "Saginaw",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/saginaw/"
+    },
+    {
+      "slug": "sandusky",
+      "name": "Sandusky",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/sandusky/"
+    },
+    {
+      "slug": "sault-ste-marie",
+      "name": "Sault Ste. Marie",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/sault-ste-marie/"
+    },
+    {
+      "slug": "shelby",
+      "name": "Shelby",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/shelby/"
+    },
+    {
+      "slug": "south-haven",
+      "name": "South Haven",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/south-haven/"
+    },
+    {
+      "slug": "southfield",
+      "name": "Southfield",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/southfield/"
+    },
+    {
+      "slug": "southgate",
+      "name": "Southgate",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/southgate/"
+    },
+    {
+      "slug": "spring-lake",
+      "name": "Spring Lake",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/spring-lake/"
+    },
+    {
+      "slug": "st-clair-shores",
+      "name": "St. Clair Shores",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/st-clair-shores/"
+    },
+    {
+      "slug": "st-ignace",
+      "name": "St. Ignace",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/st-ignace/"
+    },
+    {
+      "slug": "st-johns",
+      "name": "St. Johns",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/st-johns/"
+    },
+    {
+      "slug": "st-joseph",
+      "name": "St. Joseph",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/st-joseph/"
+    },
+    {
+      "slug": "st-louis",
+      "name": "St. Louis",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/st-louis/"
+    },
+    {
+      "slug": "stanton",
+      "name": "Stanton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/stanton/"
+    },
+    {
+      "slug": "sturgis",
+      "name": "Sturgis",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/sturgis/"
+    },
+    {
+      "slug": "swartz-creek",
+      "name": "Swartz Creek",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/swartz-creek/"
+    },
+    {
+      "slug": "tawas",
+      "name": "Tawas",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/tawas/"
+    },
+    {
+      "slug": "taylor",
+      "name": "Taylor",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/taylor/"
+    },
+    {
+      "slug": "three-oaks",
+      "name": "Three Oaks",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/three-oaks/"
+    },
+    {
+      "slug": "traverse",
+      "name": "Traverse",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/traverse/"
+    },
+    {
+      "slug": "troy",
+      "name": "Troy",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/troy/"
+    },
+    {
+      "slug": "union-lake",
+      "name": "Union Lake",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/union-lake/"
+    },
+    {
+      "slug": "utica",
+      "name": "Utica",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/utica/"
+    },
+    {
+      "slug": "van-buren",
+      "name": "Van Buren",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/van-buren/"
+    },
+    {
+      "slug": "warren",
+      "name": "Warren",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/warren/"
+    },
+    {
+      "slug": "waterford",
+      "name": "Waterford",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/waterford/"
+    },
+    {
+      "slug": "wayne",
+      "name": "Wayne",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/wayne/"
+    },
+    {
+      "slug": "wells",
+      "name": "Wells",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/wells/"
+    },
+    {
+      "slug": "west-branch",
+      "name": "West Branch",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/west-branch/"
+    },
+    {
+      "slug": "white-cloud",
+      "name": "White Cloud",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/white-cloud/"
+    },
+    {
+      "slug": "whittaker",
+      "name": "Whittaker",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/whittaker/"
+    },
+    {
+      "slug": "willis",
+      "name": "Willis",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/willis/"
+    },
+    {
+      "slug": "wixom",
+      "name": "Wixom",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/wixom/"
+    },
+    {
+      "slug": "woodhaven",
+      "name": "Woodhaven",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/woodhaven/"
+    },
+    {
+      "slug": "wyandotte",
+      "name": "Wyandotte",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/wyandotte/"
+    },
+    {
+      "slug": "ypsilanti",
+      "name": "Ypsilanti",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/ypsilanti/"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:01:50.422726+00:00",
+  "state": {
+    "slug": "maine",
+    "name": "Maine"
+  },
+  "city": {
+    "slug": "limestone",
+    "name": "Limestone",
+    "label": "Limestone, ME"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maine/limestone/",
+  "offices": [
+    {
+      "officeId": 426973,
+      "slug": "peaceable-kingdom-426973",
+      "name": "Peaceable Kingdom",
+      "address": "PO Box 13, Limestone, ME 04750",
+      "phone": "207-722-4043",
+      "image": "https://cdn.findpawpal.com/office/426973.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/peaceable-kingdom-426973/"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:43:28.061054+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "canfield",
+    "name": "Canfield",
+    "label": "Canfield, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/canfield/",
+  "offices": [
+    {
+      "officeId": 423299,
+      "slug": "angels-for-animals-423299",
+      "name": "ANGELS for ANIMALS",
+      "address": "4750 West South Range Road, Canfield, OH 44406",
+      "phone": "330-549-1111",
+      "image": "https://cdn.findpawpal.com/office/423299.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/angels-for-animals-423299/"
+    }
+  ]
+}

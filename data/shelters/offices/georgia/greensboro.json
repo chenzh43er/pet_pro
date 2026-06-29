@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:39:57.088626+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "greensboro",
+    "name": "Greensboro",
+    "label": "Greensboro, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/greensboro/",
+  "offices": [
+    {
+      "officeId": 134682,
+      "slug": "oconee-regional-humane-society-134682",
+      "name": "Oconee Regional Humane Society",
+      "address": "1020 Park Avenue, Greensboro, GA 30642",
+      "phone": "706-454-1508",
+      "image": "./img/shelter/office/134682.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/oconee-regional-humane-society-134682/",
+      "imageUrl": "https://cdn.findpawpal.com/office/134682.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 160229,
+      "slug": "greene-county-animal-control-160229",
+      "name": "Greene County Animal Control",
+      "address": "1110 C Weldon Smith Drive, Greensboro, GA 30642",
+      "phone": "706-454-7039",
+      "image": "./img/shelter/office/160229.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greene-county-animal-control-160229/",
+      "imageUrl": "https://cdn.findpawpal.com/office/160229.jpg?f=webp&w=730"
+    }
+  ]
+}

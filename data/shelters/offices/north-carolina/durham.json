@@ -1,0 +1,65 @@
+{
+  "fetchedAt": "2026-06-27T19:39:03.657318+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "durham",
+    "name": "Durham",
+    "label": "Durham, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/durham/",
+  "offices": [
+    {
+      "officeId": 215286,
+      "slug": "animal-protection-society-of-durham-215286",
+      "name": "Animal Protection Society of Durham",
+      "address": "2117 East Club Boulevard, Durham, NC 27704",
+      "phone": "919-560-0640",
+      "image": "./img/shelter/office/215286.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-protection-society-of-durham-215286/",
+      "imageUrl": "https://cdn.findpawpal.com/office/215286.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 232547,
+      "slug": "hope-animal-rescue-232547",
+      "name": "Hope Animal Rescue",
+      "address": "5008 Miller Drive, Durham, NC 27704",
+      "phone": "",
+      "image": "./img/shelter/office/232547.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hope-animal-rescue-232547/",
+      "imageUrl": "https://cdn.findpawpal.com/office/232547.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 259963,
+      "slug": "durham-county-animal-control-259963",
+      "name": "Durham County Animal Control",
+      "address": "2117 East Club Boulevard, Durham, NC 27704",
+      "phone": "919-560-0630",
+      "image": "./img/shelter/office/259963.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/durham-county-animal-control-259963/",
+      "imageUrl": "https://cdn.findpawpal.com/office/259963.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 268268,
+      "slug": "independent-animal-rescue-268268",
+      "name": "Independent Animal Rescue",
+      "address": "1821 Green Street, Durham, NC 27705",
+      "phone": "919-286-0707",
+      "image": "./img/shelter/office/268268.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/independent-animal-rescue-268268/",
+      "imageUrl": "https://cdn.findpawpal.com/office/268268.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 268296,
+      "slug": "rottweiler-hearts-rescue-268296",
+      "name": "Rottweiler Hearts Rescue",
+      "address": "816 Wood Chapel Lane, Durham, NC 27703",
+      "phone": "919-282-6169",
+      "image": "./img/shelter/office/268296.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rottweiler-hearts-rescue-268296/",
+      "imageUrl": "https://cdn.findpawpal.com/office/268296.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T19:31:09.277912+00:00",
+  "state": {
+    "slug": "new-mexico",
+    "name": "New Mexico"
+  },
+  "city": {
+    "slug": "socorro",
+    "name": "Socorro",
+    "label": "Socorro, NM"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-mexico/socorro/",
+  "offices": [
+    {
+      "officeId": 259107,
+      "slug": "animal-protection-association-of-socorro-259107",
+      "name": "Animal Protection Association of Socorro",
+      "address": "PO Box 451, Socorro, NM 87801",
+      "phone": "505-835-0259",
+      "image": "./img/shelter/office/259107.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-protection-association-of-socorro-259107/",
+      "imageUrl": "https://cdn.findpawpal.com/office/259107.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 262123,
+      "slug": "socorro-animal-shelter-262123",
+      "name": "Socorro Animal Shelter",
+      "address": "2998 Highway 1, Socorro, NM 87801",
+      "phone": "575-838-3103",
+      "image": "https://cdn.findpawpal.com/office/262123.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/socorro-animal-shelter-262123/"
+    },
+    {
+      "officeId": 309615,
+      "slug": "socorro-animal-control-and-shelter-309615",
+      "name": "Socorro Animal Control and Shelter",
+      "address": "PO Box 992, Socorro, NM 87801",
+      "phone": "505-838-3103",
+      "image": "./img/shelter/office/309615.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/socorro-animal-control-and-shelter-309615/",
+      "imageUrl": "https://cdn.findpawpal.com/office/309615.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:23:36.236191+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "agoura-hills",
+    "name": "Agoura Hills",
+    "label": "Agoura Hills, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/agoura-hills/",
+  "offices": [
+    {
+      "officeId": 360396,
+      "slug": "l-i-f-e-animal-rescue-360396",
+      "name": "L.I.F.E. Animal Rescue",
+      "address": "PO Box 1431, Agoura Hills, CA 91376",
+      "phone": "818-707-2007",
+      "image": "./img/shelter/office/360396.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/l-i-f-e-animal-rescue-360396/",
+      "imageUrl": "https://cdn.findpawpal.com/office/360396.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 361789,
+      "slug": "agoura-hills-animal-shelter-361789",
+      "name": "Agoura Hills Animal Shelter",
+      "address": "29525 Agoura Road, Agoura Hills, CA 91301",
+      "phone": "818-991-0071",
+      "image": "./img/shelter/office/361789.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/agoura-hills-animal-shelter-361789/",
+      "imageUrl": "https://cdn.findpawpal.com/office/361789.jpg?f=webp&w=730"
+    }
+  ]
+}

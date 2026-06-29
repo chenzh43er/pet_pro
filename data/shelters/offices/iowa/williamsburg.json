@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:54:30.705372+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa"
+  },
+  "city": {
+    "slug": "williamsburg",
+    "name": "Williamsburg",
+    "label": "Williamsburg, IA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/williamsburg/",
+  "offices": [
+    {
+      "officeId": 460604,
+      "slug": "safe-haven-of-iowa-county-460604",
+      "name": "Safe Haven of Iowa County",
+      "address": "PO Box 444, Williamsburg, IA 52361",
+      "phone": "319-325-0150",
+      "image": "./img/shelter/office/460604.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/safe-haven-of-iowa-county-460604/",
+      "imageUrl": "https://cdn.findpawpal.com/office/460604.jpg?f=webp&w=730"
+    }
+  ]
+}

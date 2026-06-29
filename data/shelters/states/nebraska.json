@@ -1,0 +1,377 @@
+{
+  "stateSlug": "nebraska",
+  "count": 53,
+  "shelters": [
+    {
+      "slug": "hearts-united-for-animals-486418",
+      "name": "Hearts United For Animals",
+      "address": "73418 638 Avenue, Auburn, NE 68305",
+      "phone": "402-274-3679",
+      "image": "https://cdn.findpawpal.com/office/486418.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "beatrice-city-animal-control-369060",
+      "name": "Beatrice City Animal Control",
+      "address": "201 North 5th Street, Beatrice, NE 68310",
+      "phone": "402-223-4080",
+      "image": "https://cdn.findpawpal.com/office/369060.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "beatrice-humane-society-669854",
+      "name": "Beatrice Humane Society",
+      "address": "300 Ella Street, Beatrice, NE 68310",
+      "phone": "402-228-9100",
+      "image": "https://cdn.findpawpal.com/office/669854.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "nebraska-border-collie-rescue-495465",
+      "name": "Nebraska Border Collie Rescue",
+      "address": "824 Calais Street, Bellevue, NE 68123",
+      "phone": "402-292-5958",
+      "image": "https://cdn.findpawpal.com/office/495465.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "nebraska-parrot-rescue-546992",
+      "name": "Nebraska Parrot Rescue",
+      "address": "PO Box 1609, Bellevue, NE 68005",
+      "phone": "402-350-9923",
+      "image": "https://cdn.findpawpal.com/office/546992.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "blair-animal-control-390199",
+      "name": "Blair Animal Control",
+      "address": "1535 Colfax Street, Blair, NE 68008",
+      "phone": "402-426-4747",
+      "image": "https://cdn.findpawpal.com/office/390199.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "help-us-pets-corp-367434",
+      "name": "Help Us Pets Corp.",
+      "address": "505 D Street, Central, NE 68826",
+      "phone": "308-946-5280",
+      "image": "https://cdn.findpawpal.com/office/367434.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chadron-area-humane-society-720006",
+      "name": "Chadron Area Humane Society",
+      "address": "63 Westview Estates, Chadron, NE 69337",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/720006.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "adopted-dogs-720437",
+      "name": "Adopted Dogs",
+      "address": "PO Box 512, Chappell, NE 69129",
+      "phone": "308-874-2558",
+      "image": "https://cdn.findpawpal.com/office/720437.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "columbus-animal-control-486386",
+      "name": "Columbus Animal Control",
+      "address": "2518 14th Street, Columbus, NE 68601",
+      "phone": "402-564-8839",
+      "image": "https://cdn.findpawpal.com/office/486386.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "stickneys-toy-breed-rescue-546891",
+      "name": "Stickneys Toy Breed Rescue",
+      "address": "5675 Southwest 42 Road, Cortland, NE 68331",
+      "phone": "402-613-4306",
+      "image": "https://cdn.findpawpal.com/office/546891.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "holt-county-animal-shelter-547450",
+      "name": "Holt County Animal Shelter",
+      "address": "49160 851st Rd, Ewing, NE 68735",
+      "phone": "402-482-5440",
+      "image": "https://cdn.findpawpal.com/office/547450.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "homeless-no-more-cat-rescue-adoption-center-395705",
+      "name": "Homeless No More Cat Rescue Adoption Center",
+      "address": "509 4th Street, Fairbury, NE 68352",
+      "phone": "402-729-5183",
+      "image": "https://cdn.findpawpal.com/office/395705.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "falls-city-animal-control-391457",
+      "name": "Falls City Animal Control",
+      "address": "1820 Towle Street, Falls, NE 68355",
+      "phone": "402-245-4422",
+      "image": "https://cdn.findpawpal.com/office/391457.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-richardson-county-inc-367319",
+      "name": "Humane Society of Richardson County, Inc.",
+      "address": "PO Box 365, Falls, NE 68355",
+      "phone": "402-245-3766",
+      "image": "https://cdn.findpawpal.com/office/367319.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dodge-county-humane-society-546751",
+      "name": "Dodge County Humane Society",
+      "address": "787 South Luther Road, Fremont, NE 68025",
+      "phone": "402-721-3282",
+      "image": "https://cdn.findpawpal.com/office/546751.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tails-of-love-547077",
+      "name": "Tails of Love",
+      "address": "PO Box 421, Gering, NE 69341",
+      "phone": "308-436-5479",
+      "image": "https://cdn.findpawpal.com/office/547077.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "central-nebraska-humane-society-495615",
+      "name": "Central Nebraska Humane Society",
+      "address": "1312 Sky Park Road, Grand Island, NE 68801",
+      "phone": "308-385-5305",
+      "image": "https://cdn.findpawpal.com/office/495615.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hastings-animal-control-495428",
+      "name": "Hastings Animal Control",
+      "address": "317 South Burlington Avenue, Hastings, NE 68901",
+      "phone": "402-461-2307",
+      "image": "https://cdn.findpawpal.com/office/495428.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "start-over-rover-inc-486284",
+      "name": "Start Over Rover Inc.",
+      "address": "1115 North Lexington Avenue, Hastings, NE 68901",
+      "phone": "402-404-5859",
+      "image": "https://cdn.findpawpal.com/office/486284.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kearney-area-animal-shelter-495673",
+      "name": "Kearney Area Animal Shelter",
+      "address": "3205 West 24th Street, Kearney, NE 68845",
+      "phone": "308-237-7387",
+      "image": "https://cdn.findpawpal.com/office/495673.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "town-and-country-humane-society-367422",
+      "name": "Town & Country Humane Society",
+      "address": "14110 South 84th Street, La Vista, NE 68128",
+      "phone": "402-339-5355",
+      "image": "https://cdn.findpawpal.com/office/367422.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "capital-humane-society-669871",
+      "name": "Capital Humane Society",
+      "address": "2320 Park Boulevard, Lincoln, NE 68502",
+      "phone": "402-441-4488",
+      "image": "https://cdn.findpawpal.com/office/669871.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "coalition-for-pet-protection-547354",
+      "name": "Coalition for Pet Protection",
+      "address": "1609 South 23rd Street, Lincoln, NE 68502",
+      "phone": "402-475-0321",
+      "image": "https://cdn.findpawpal.com/office/547354.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lincoln-animal-control-center-390358",
+      "name": "Lincoln Animal Control Center",
+      "address": "3140 N Street, Lincoln, NE 68510",
+      "phone": "402-441-7900",
+      "image": "https://cdn.findpawpal.com/office/390358.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "nebraska-no-kill-canine-rescue-395711",
+      "name": "Nebraska No Kill Canine Rescue",
+      "address": "PO Box 6295, Lincoln, NE 68506",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/395711.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ricks-reptile-rescue-and-sanctuary-495575",
+      "name": "Rick's Reptile Rescue and Sanctuary",
+      "address": "1545 South 13th Street, Lincoln, NE 68502",
+      "phone": "402-432-6878",
+      "image": "https://cdn.findpawpal.com/office/495575.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-feline-rescue-669821",
+      "name": "Second Chance Feline Rescue",
+      "address": "PO Box 22560, Lincoln, NE 68542",
+      "phone": "402-475-2882",
+      "image": "https://cdn.findpawpal.com/office/669821.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "versatile-adoption-rescue-486435",
+      "name": "Versatile Adoption Rescue",
+      "address": "5900 Saltillo Road, Lincoln, NE 68516",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/486435.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "aurora-humane-society-486084",
+      "name": "Aurora Humane Society",
+      "address": "1301 West 23 Road, Marquette, NE 68854",
+      "phone": "402-694-2738",
+      "image": "https://cdn.findpawpal.com/office/486084.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mccook-humane-society-367442",
+      "name": "McCook Humane Society",
+      "address": "100 South Street, McCook, NE 69001",
+      "phone": "308-345-2372",
+      "image": "https://cdn.findpawpal.com/office/367442.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "angels-house-486227",
+      "name": "Angels House",
+      "address": "1239 17th Street, Mitchell, NE 69357",
+      "phone": "308-760-5951",
+      "image": "https://cdn.findpawpal.com/office/486227.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "midwest-rottweiler-rescue-669833",
+      "name": "Midwest Rottweiler Rescue",
+      "address": "PO Box 71, Morse Bluff, NE 68648",
+      "phone": "402-666-5679",
+      "image": "https://cdn.findpawpal.com/office/669833.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "north-platte-animal-shelter-486135",
+      "name": "North Platte Animal Shelter",
+      "address": "1402 North Sycamore Street, North Platte, NE 69101",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/486135.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-itive-partners-495274",
+      "name": "PAWS-Itive Partners",
+      "address": "PO Box 1145, North Platte, NE 69103",
+      "phone": "308-650-7297",
+      "image": "https://cdn.findpawpal.com/office/495274.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "beak-n-wings-inc-546760",
+      "name": "Beak N Wings Inc",
+      "address": "PO Box 34114, Omaha, NE 68134",
+      "phone": "877-893-9486",
+      "image": "https://cdn.findpawpal.com/office/546760.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "coalition-for-animal-protection-inc-546755",
+      "name": "Coalition for Animal Protection, Inc.",
+      "address": "PO Box 11760, Omaha, NE 68111",
+      "phone": "402-453-1868",
+      "image": "https://cdn.findpawpal.com/office/546755.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dalmation-outplacement-391019",
+      "name": "Dalmation Outplacement",
+      "address": "PO Box 4154, Omaha, NE 68104",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/391019.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "great-plains-pointer-rescue-368675",
+      "name": "Great Plains Pointer Rescue",
+      "address": "9704 Louis Drive, Omaha, NE 68114",
+      "phone": "402-403-8259",
+      "image": "https://cdn.findpawpal.com/office/368675.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "homeward-bound-in-the-heartland-animal-rescue-368684",
+      "name": "Homeward Bound In the Heartland Animal Rescue",
+      "address": "13256 Millard Avenue, Omaha, NE 68137",
+      "phone": "402-706-7313",
+      "image": "https://cdn.findpawpal.com/office/368684.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mid-america-rottweiler-rescue-391024",
+      "name": "Mid America Rottweiler Rescue",
+      "address": "PO Box 45743, Omaha, NE 68145",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/391024.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "missouri-valley-boxer-rescue-391028",
+      "name": "Missouri Valley Boxer Rescue",
+      "address": "PO Box 241011, Omaha, NE 68124",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/391028.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "nebraska-humane-society-391396",
+      "name": "Nebraska Humane Society",
+      "address": "8929 Fort Street, Omaha, NE 68134",
+      "phone": "402-444-7800",
+      "image": "https://cdn.findpawpal.com/office/391396.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "neia-saint-bernard-rescue-546806",
+      "name": "Neia Saint Bernard Rescue",
+      "address": "14015 Taylor Circle, Omaha, NE 68164",
+      "phone": "402-431-0272",
+      "image": "https://cdn.findpawpal.com/office/546806.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "holt-county-animal-shelter-367524",
+      "name": "Holt County Animal Shelter",
+      "address": "500 Logan Street, O'Neill, NE 68763",
+      "phone": "402-336-5435",
+      "image": "https://cdn.findpawpal.com/office/367524.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "plattsmouth-animal-shelter-367530",
+      "name": "Plattsmouth Animal Shelter",
+      "address": "444 13th Avenue, Plattsmouth, NE 68048",
+      "phone": "402-296-2155",
+      "image": "https://cdn.findpawpal.com/office/367530.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "panhandle-humane-society-486230",
+      "name": "Panhandle Humane Society",
+      "address": "126 South Beltline Highway West, Scottsbluff, NE 69361",
+      "phone": "308-635-0922",
+      "image": "https://cdn.findpawpal.com/office/486230.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-services-company-669791",
+      "name": "Animal Services Company",
+      "address": "PO Box 641, South Sioux, NE 68776",
+      "phone": "402-494-6215",
+      "image": "https://cdn.findpawpal.com/office/669791.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "south-sioux-city-animal-control-391403",
+      "name": "South Sioux City Animal Control",
+      "address": "215 East 26th Street, South Sioux, NE 68776",
+      "phone": "402-494-7590",
+      "image": "https://cdn.findpawpal.com/office/391403.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "borders-without-boundaries-rescue-720225",
+      "name": "Borders Without Boundaries Rescue",
+      "address": "239 North Valentine Street, Valentine, NE 69201",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/720225.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "saunders-county-lost-pets-547031",
+      "name": "Saunders County Lost Pets",
+      "address": "1168 North Hickory Street, Wahoo, NE 68066",
+      "phone": "402-443-4044",
+      "image": "https://cdn.findpawpal.com/office/547031.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "northeast-nebraska-humane-society-486272",
+      "name": "Northeast Nebraska Humane Society",
+      "address": "PO Box 151, Wayne, NE 68787",
+      "phone": "402-375-5148",
+      "image": "https://cdn.findpawpal.com/office/486272.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "adopt-a-pet-495414",
+      "name": "Adopt A Pet",
+      "address": "1111 East 19th Street, York, NE 68467",
+      "phone": "402-362-6414",
+      "image": "https://cdn.findpawpal.com/office/495414.jpg?f=webp&w=730"
+    }
+  ]
+}

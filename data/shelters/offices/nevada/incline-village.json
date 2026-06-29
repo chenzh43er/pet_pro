@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:23:20.656865+00:00",
+  "state": {
+    "slug": "nevada",
+    "name": "Nevada"
+  },
+  "city": {
+    "slug": "incline-village",
+    "name": "Incline Village",
+    "label": "Incline Village, NV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nevada/incline-village/",
+  "offices": [
+    {
+      "officeId": 7081,
+      "slug": "wylie-animal-rescue-foundation-7081",
+      "name": "Wylie Animal Rescue Foundation",
+      "address": "PO Box 5364, Incline Village, NV 89450",
+      "phone": "775-833-2319",
+      "image": "https://cdn.findpawpal.com/office/7081.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/wylie-animal-rescue-foundation-7081/"
+    },
+    {
+      "officeId": 7085,
+      "slug": "pet-network-humane-society-7085",
+      "name": "Pet Network Humane Society",
+      "address": "401 Village Boulevard, Incline Village, NV 89451",
+      "phone": "775-832-4404",
+      "image": "./img/shelter/office/7085.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-network-humane-society-7085/",
+      "imageUrl": "https://cdn.findpawpal.com/office/7085.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:24:21.140225+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "blue-jay",
+    "name": "Blue Jay",
+    "label": "Blue Jay, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/blue-jay/",
+  "offices": [
+    {
+      "slug": "mountain-humane-society-484270",
+      "name": "Mountain Humane Society",
+      "address": "PO Box 1013, Blue Jay, CA 92317",
+      "phone": "714-336-3334",
+      "image": "./img/shelter/office/484270.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mountain-humane-society-484270/",
+      "imageUrl": "https://cdn.findpawpal.com/office/484270.jpg?f=webp&w=730"
+    }
+  ]
+}

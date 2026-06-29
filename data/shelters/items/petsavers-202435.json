@@ -1,0 +1,21 @@
+{
+  "officeId": 202435,
+  "slug": "petsavers-202435",
+  "name": "Petsavers",
+  "address": "1201 South State Street, Big Rapids, MI 49307",
+  "street": "1201 South State Street",
+  "addressCity": "Big Rapids",
+  "stateCode": "MI",
+  "zip": "49307",
+  "phone": "231-250-2496",
+  "image": "./img/shelter/office/202435.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/petsavers-202435/",
+  "stateSlug": "michigan",
+  "stateName": "Michigan",
+  "citySlug": "big-rapids",
+  "cityName": "Big Rapids",
+  "cityLabel": "Big Rapids, MI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/michigan/big-rapids/",
+  "fetchedAt": "2026-06-27T19:09:37.762102+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/202435.jpg?f=webp&w=730"
+}

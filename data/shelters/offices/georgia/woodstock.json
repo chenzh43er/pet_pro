@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:42:07.943940+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "woodstock",
+    "name": "Woodstock",
+    "label": "Woodstock, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/woodstock/",
+  "offices": [
+    {
+      "officeId": 135015,
+      "slug": "bucks-back-yard-animal-society-135015",
+      "name": "Bucks Back Yard Animal Society",
+      "address": "107 North River Drive, Woodstock, GA 30188",
+      "phone": "678-557-6149",
+      "image": "./img/shelter/office/135015.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bucks-back-yard-animal-society-135015/",
+      "imageUrl": "https://cdn.findpawpal.com/office/135015.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 135032,
+      "slug": "dalmatian-club-of-greater-atlanta-rescue-135032",
+      "name": "Dalmatian Club of Greater Atlanta Rescue",
+      "address": "981 Bailey Road, Woodstock, GA 30188",
+      "phone": "770-442-0334",
+      "image": "./img/shelter/office/135032.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dalmatian-club-of-greater-atlanta-rescue-135032/",
+      "imageUrl": "https://cdn.findpawpal.com/office/135032.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 135050,
+      "slug": "peach-state-sheltie-rescue-inc-135050",
+      "name": "Peach State Sheltie Rescue, Inc.",
+      "address": "110 Sunnybrook Lane, Woodstock, GA 30188",
+      "phone": "770-634-7130",
+      "image": "./img/shelter/office/135050.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/peach-state-sheltie-rescue-inc-135050/",
+      "imageUrl": "https://cdn.findpawpal.com/office/135050.jpg?f=webp&w=730"
+    }
+  ]
+}

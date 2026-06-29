@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:10:43.348716+00:00",
+  "state": {
+    "slug": "utah",
+    "name": "Utah"
+  },
+  "city": {
+    "slug": "hyde-park",
+    "name": "Hyde Park",
+    "label": "Hyde Park, UT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/utah/hyde-park/",
+  "offices": [
+    {
+      "officeId": 524261,
+      "slug": "hyde-park-animal-control-524261",
+      "name": "Hyde Park Animal Control",
+      "address": "PO Box 489, Hyde Park, UT 84318",
+      "phone": "",
+      "image": "./img/shelter/office/524261.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hyde-park-animal-control-524261/",
+      "imageUrl": "https://cdn.findpawpal.com/office/524261.jpg?f=webp&w=730"
+    }
+  ]
+}

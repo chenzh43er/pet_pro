@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:00:27.251139+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "jacksboro",
+    "name": "Jacksboro",
+    "label": "Jacksboro, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/jacksboro/",
+  "offices": [
+    {
+      "officeId": 426287,
+      "slug": "campbell-county-animal-shelter-426287",
+      "name": "Campbell County Animal Shelter",
+      "address": "749 Towe String Road, Jacksboro, TN 37757",
+      "phone": "423-566-1892",
+      "image": "./img/shelter/office/426287.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/campbell-county-animal-shelter-426287/",
+      "imageUrl": "https://cdn.findpawpal.com/office/426287.jpg?f=webp&w=730"
+    }
+  ]
+}

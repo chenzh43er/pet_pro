@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:23:08.742015+00:00",
+  "state": {
+    "slug": "nevada",
+    "name": "Nevada"
+  },
+  "city": {
+    "slug": "elko",
+    "name": "Elko",
+    "label": "Elko, NV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nevada/elko/",
+  "offices": [
+    {
+      "officeId": 7006,
+      "slug": "animal-relief-foundation-7006",
+      "name": "Animal Relief Foundation",
+      "address": "PO Box 1333, Elko, NV 89803",
+      "phone": "775-738-3639",
+      "image": "./img/shelter/office/7006.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-relief-foundation-7006/",
+      "imageUrl": "https://cdn.findpawpal.com/office/7006.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 7377,
+      "slug": "elko-animal-shelter-7377",
+      "name": "Elko Animal Shelter",
+      "address": "2210 Pinion Road, Elko, NV 89801",
+      "phone": "775-777-7333",
+      "image": "./img/shelter/office/7377.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/elko-animal-shelter-7377/",
+      "imageUrl": "https://cdn.findpawpal.com/office/7377.jpg?f=webp&w=730"
+    }
+  ]
+}

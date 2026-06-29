@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:36:09.222524+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "pomona",
+    "name": "Pomona",
+    "label": "Pomona, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/pomona/",
+  "offices": [
+    {
+      "officeId": 416893,
+      "slug": "rockland-county-animal-shelter-416893",
+      "name": "Rockland County Animal Shelter",
+      "address": "65 Firemens Memorial Drive, Pomona, NY 10970",
+      "phone": "845-354-7900",
+      "image": "./img/shelter/office/416893.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rockland-county-animal-shelter-416893/",
+      "imageUrl": "https://cdn.findpawpal.com/office/416893.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 416899,
+      "slug": "hudson-valley-humane-society-416899",
+      "name": "Hudson Valley Humane Society",
+      "address": "200 Quaker Road, Pomona, NY 10970",
+      "phone": "845-354-3124",
+      "image": "./img/shelter/office/416899.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hudson-valley-humane-society-416899/",
+      "imageUrl": "https://cdn.findpawpal.com/office/416899.jpg?f=webp&w=730"
+    }
+  ]
+}

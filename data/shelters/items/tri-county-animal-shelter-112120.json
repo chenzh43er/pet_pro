@@ -1,0 +1,21 @@
+{
+  "officeId": 112120,
+  "slug": "tri-county-animal-shelter-112120",
+  "name": "Tri-County Animal Shelter",
+  "address": "2450 Kentucky 519, Morehead, KY 40351",
+  "street": "2450 Kentucky 519",
+  "addressCity": "Morehead",
+  "stateCode": "KY",
+  "zip": "40351",
+  "phone": "606-784-8288",
+  "image": "./img/shelter/office/112120.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/tri-county-animal-shelter-112120/",
+  "stateSlug": "kentucky",
+  "stateName": "Kentucky",
+  "citySlug": "morehead",
+  "cityName": "Morehead",
+  "cityLabel": "Morehead, KY",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kentucky/morehead/",
+  "fetchedAt": "2026-06-27T18:57:50.972745+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/112120.jpg?f=webp&w=730"
+}

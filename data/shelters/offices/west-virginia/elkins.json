@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:20:15.912764+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "elkins",
+    "name": "Elkins",
+    "label": "Elkins, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/elkins/",
+  "offices": [
+    {
+      "officeId": 622680,
+      "slug": "randolph-county-humane-society-622680",
+      "name": "Randolph County Humane Society",
+      "address": "195 Weese Street, Elkins, WV 26241",
+      "phone": "304-636-7844",
+      "image": "./img/shelter/office/622680.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/randolph-county-humane-society-622680/",
+      "imageUrl": "https://cdn.findpawpal.com/office/622680.jpg?f=webp&w=730"
+    }
+  ]
+}

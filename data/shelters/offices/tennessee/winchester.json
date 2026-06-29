@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T20:02:23.695404+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "winchester",
+    "name": "Winchester",
+    "label": "Winchester, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/winchester/",
+  "offices": [
+    {
+      "officeId": 437310,
+      "slug": "franklin-county-humane-society-437310",
+      "name": "Franklin County Humane Society",
+      "address": "PO Box 187, Winchester, TN 37398",
+      "phone": "931-962-4472",
+      "image": "./img/shelter/office/437310.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/franklin-county-humane-society-437310/",
+      "imageUrl": "https://cdn.findpawpal.com/office/437310.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 573206,
+      "slug": "winchester-city-dog-pound-573206",
+      "name": "Winchester City Dog Pound",
+      "address": "75 South High Street, Winchester, TN 37398",
+      "phone": "615-967-3596",
+      "image": "./img/shelter/office/573206.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/winchester-city-dog-pound-573206/",
+      "imageUrl": "https://cdn.findpawpal.com/office/573206.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 580590,
+      "slug": "franklin-county-dog-pound-580590",
+      "name": "Franklin County Dog Pound",
+      "address": "338 Joyce Lane, Winchester, TN 37398",
+      "phone": "615-967-5389",
+      "image": "./img/shelter/office/580590.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/franklin-county-dog-pound-580590/",
+      "imageUrl": "https://cdn.findpawpal.com/office/580590.jpg?f=webp&w=730"
+    }
+  ]
+}

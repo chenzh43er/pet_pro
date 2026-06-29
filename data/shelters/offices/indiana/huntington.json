@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:50:26.646290+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "huntington",
+    "name": "Huntington",
+    "label": "Huntington, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/huntington/",
+  "offices": [
+    {
+      "officeId": 217783,
+      "slug": "helping-paws-pet-haven-217783",
+      "name": "Helping Paws Pet Haven",
+      "address": "2242 South Marion Road, Huntington, IN 46750",
+      "phone": "260-468-2292",
+      "image": "./img/shelter/office/217783.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/helping-paws-pet-haven-217783/",
+      "imageUrl": "https://cdn.findpawpal.com/office/217783.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 223356,
+      "slug": "huntington-county-humane-society-223356",
+      "name": "Huntington County Humane Society",
+      "address": "390 Thurman Poe Way, Huntington, IN 46750",
+      "phone": "260-356-0355",
+      "image": "./img/shelter/office/223356.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/huntington-county-humane-society-223356/",
+      "imageUrl": "https://cdn.findpawpal.com/office/223356.jpg?f=webp&w=730"
+    }
+  ]
+}

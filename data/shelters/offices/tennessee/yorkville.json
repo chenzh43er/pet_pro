@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:02:25.153392+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "yorkville",
+    "name": "Yorkville",
+    "label": "Yorkville, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/yorkville/",
+  "offices": [
+    {
+      "officeId": 636482,
+      "slug": "gibson-county-humane-society-spca-636482",
+      "name": "Gibson County Humane Society, SPCA",
+      "address": "PO Box 24, Yorkville, TN 38389",
+      "phone": "731-483-2026",
+      "image": "https://cdn.findpawpal.com/office/636482.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/gibson-county-humane-society-spca-636482/"
+    }
+  ]
+}

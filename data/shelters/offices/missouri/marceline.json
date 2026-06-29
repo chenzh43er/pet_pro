@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:19:43.283668+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "marceline",
+    "name": "Marceline",
+    "label": "Marceline, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/marceline/",
+  "offices": [
+    {
+      "officeId": 205532,
+      "slug": "marceline-animal-control-shelter-205532",
+      "name": "Marceline Animal Control Shelter",
+      "address": "116 North Kansas Avenue, Marceline, MO 64658",
+      "phone": "660-176-2242",
+      "image": "https://cdn.findpawpal.com/office/205532.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/marceline-animal-control-shelter-205532/"
+    }
+  ]
+}

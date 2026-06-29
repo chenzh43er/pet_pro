@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:50:43.842562+00:00",
+  "state": {
+    "slug": "oregon",
+    "name": "Oregon"
+  },
+  "city": {
+    "slug": "jacksonville",
+    "name": "Jacksonville",
+    "label": "Jacksonville, OR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oregon/jacksonville/",
+  "offices": [
+    {
+      "officeId": 600846,
+      "slug": "sanctuary-one-600846",
+      "name": "Sanctuary One",
+      "address": "13195 Upper Applegate Road, Jacksonville, OR 97530",
+      "phone": "541-899-8627",
+      "image": "./img/shelter/office/600846.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sanctuary-one-600846/",
+      "imageUrl": "https://cdn.findpawpal.com/office/600846.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:24:52.056961+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "andover",
+    "name": "Andover",
+    "label": "Andover, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/andover/",
+  "offices": [
+    {
+      "officeId": 100253,
+      "slug": "nikis-felines-enjoying-lives-of-value-100253",
+      "name": "Niki's Felines Enjoying Lives of Value",
+      "address": "PO Box 70, Andover, NJ 07821",
+      "phone": "",
+      "image": "./img/shelter/office/100253.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/nikis-felines-enjoying-lives-of-value-100253/",
+      "imageUrl": "https://cdn.findpawpal.com/office/100253.jpg?f=webp&w=730"
+    }
+  ]
+}

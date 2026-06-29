@@ -1,0 +1,21 @@
+{
+  "officeId": 5655,
+  "slug": "sampsons-sanctuary-5655",
+  "name": "Sampson's Sanctuary",
+  "address": "PO Box 1133, Blountsville, AL 35031",
+  "street": "PO Box 1133",
+  "addressCity": "Blountsville",
+  "stateCode": "AL",
+  "zip": "35031",
+  "phone": "205-274-2245",
+  "image": "./img/shelter/office/5655.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/sampsons-sanctuary-5655/",
+  "stateSlug": "alabama",
+  "stateName": "Alabama",
+  "citySlug": "blountsville",
+  "cityName": "Blountsville",
+  "cityLabel": "Blountsville, AL",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/alabama/blountsville/",
+  "fetchedAt": "2026-06-27T18:16:59.904105+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/5655.jpg?f=webp&w=730"
+}

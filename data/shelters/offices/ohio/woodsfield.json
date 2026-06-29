@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:47:47.224959+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "woodsfield",
+    "name": "Woodsfield",
+    "label": "Woodsfield, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/woodsfield/",
+  "offices": [
+    {
+      "officeId": 466173,
+      "slug": "humane-society-of-monroe-county-466173",
+      "name": "Humane Society of Monroe County",
+      "address": "41383 Stonehouse Road, Woodsfield, OH 43793",
+      "phone": "740-934-2693",
+      "image": "./img/shelter/office/466173.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-monroe-county-466173/",
+      "imageUrl": "https://cdn.findpawpal.com/office/466173.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 580660,
+      "slug": "monroe-county-dog-pound-580660",
+      "name": "Monroe County Dog Pound",
+      "address": "47137 Highway 26, Woodsfield, OH 43793",
+      "phone": "740-472-0300",
+      "image": "https://cdn.findpawpal.com/office/580660.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/monroe-county-dog-pound-580660/"
+    }
+  ]
+}

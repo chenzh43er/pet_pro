@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:31:13.729313+00:00",
+  "state": {
+    "slug": "new-mexico",
+    "name": "New Mexico"
+  },
+  "city": {
+    "slug": "tijeras",
+    "name": "Tijeras",
+    "label": "Tijeras, NM"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-mexico/tijeras/",
+  "offices": [
+    {
+      "officeId": 325996,
+      "slug": "lap-dog-rescue-of-new-mexico-325996",
+      "name": "Lap Dog Rescue of New Mexico",
+      "address": "PO Box 1316, Tijeras, NM 87059",
+      "phone": "505-934-2202",
+      "image": "./img/shelter/office/325996.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lap-dog-rescue-of-new-mexico-325996/",
+      "imageUrl": "https://cdn.findpawpal.com/office/325996.jpg?f=webp&w=730"
+    }
+  ]
+}

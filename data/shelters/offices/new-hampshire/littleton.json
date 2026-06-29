@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:24:19.061207+00:00",
+  "state": {
+    "slug": "new-hampshire",
+    "name": "New Hampshire"
+  },
+  "city": {
+    "slug": "littleton",
+    "name": "Littleton",
+    "label": "Littleton, NH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-hampshire/littleton/",
+  "offices": [
+    {
+      "officeId": 43645,
+      "slug": "second-chance-animal-rescue-43645",
+      "name": "Second Chance Animal Rescue",
+      "address": "1517 Meadow Street, Littleton, NH 03561",
+      "phone": "603-259-3244",
+      "image": "./img/shelter/office/43645.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/second-chance-animal-rescue-43645/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43645.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 43785,
+      "slug": "above-the-notch-humane-society-43785",
+      "name": "Above the Notch Humane Society",
+      "address": "1985 Saint Johnsbury Road, Littleton, NH 03561",
+      "phone": "603-444-6285",
+      "image": "./img/shelter/office/43785.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/above-the-notch-humane-society-43785/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43785.jpg?f=webp&w=730"
+    }
+  ]
+}

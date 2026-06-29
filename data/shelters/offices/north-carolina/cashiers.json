@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:38:32.040522+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "cashiers",
+    "name": "Cashiers",
+    "label": "Cashiers, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/cashiers/",
+  "offices": [
+    {
+      "officeId": 265881,
+      "slug": "cashiers-area-humane-society-265881",
+      "name": "Cashiers Area Humane Society",
+      "address": "200 Gable St, Cashiers, NC 28717",
+      "phone": "828-743-5752",
+      "image": "./img/shelter/office/265881.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cashiers-area-humane-society-265881/",
+      "imageUrl": "https://cdn.findpawpal.com/office/265881.jpg?f=webp&w=730"
+    }
+  ]
+}

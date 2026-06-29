@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:14:43.308007+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "little-falls",
+    "name": "Little Falls",
+    "label": "Little Falls, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/little-falls/",
+  "offices": [
+    {
+      "officeId": 595679,
+      "slug": "morrison-county-animal-humane-595679",
+      "name": "Morrison County Animal Humane",
+      "address": "200 7th Avenue Northeast, Little Falls, MN 56345",
+      "phone": "320-632-0703",
+      "image": "./img/shelter/office/595679.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/morrison-county-animal-humane-595679/",
+      "imageUrl": "https://cdn.findpawpal.com/office/595679.jpg?f=webp&w=730"
+    }
+  ]
+}

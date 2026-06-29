@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:43:34.008360+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "celina",
+    "name": "Celina",
+    "label": "Celina, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/celina/",
+  "offices": [
+    {
+      "officeId": 466953,
+      "slug": "save-a-life-rescue-466953",
+      "name": "Save A Life Rescue",
+      "address": "7240 Highway 219, Celina, OH 45822",
+      "phone": "419-302-0584",
+      "image": "https://cdn.findpawpal.com/office/466953.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/save-a-life-rescue-466953/"
+    },
+    {
+      "officeId": 686530,
+      "slug": "animal-protection-league-of-mercer-county-686530",
+      "name": "Animal Protection League of Mercer County",
+      "address": "PO Box 663, Celina, OH 45822",
+      "phone": "419-363-0024",
+      "image": "./img/shelter/office/686530.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-protection-league-of-mercer-county-686530/",
+      "imageUrl": "https://cdn.findpawpal.com/office/686530.jpg?f=webp&w=730"
+    }
+  ]
+}

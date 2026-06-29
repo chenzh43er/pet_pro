@@ -1,0 +1,75 @@
+{
+  "fetchedAt": "2026-06-27T19:02:49.635994+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "baltimore",
+    "name": "Baltimore",
+    "label": "Baltimore, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/baltimore/",
+  "offices": [
+    {
+      "officeId": 370534,
+      "slug": "municipal-shelter-of-baltimore-370534",
+      "name": "Municipal Shelter of Baltimore",
+      "address": "201 Stockholm St, Baltimore, MD 21230",
+      "phone": "",
+      "image": "./img/shelter/office/370534.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/municipal-shelter-of-baltimore-370534/",
+      "imageUrl": "https://cdn.findpawpal.com/office/370534.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 376288,
+      "slug": "maryland-spca-376288",
+      "name": "Maryland SPCA",
+      "address": "3300 Falls Road, Baltimore, MD 21211",
+      "phone": "410-235-8826",
+      "image": "./img/shelter/office/376288.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/maryland-spca-376288/",
+      "imageUrl": "https://cdn.findpawpal.com/office/376288.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 376307,
+      "slug": "mid-atlantic-great-dane-rescue-league-inc-376307",
+      "name": "Mid-Atlantic Great Dane Rescue League, Inc.",
+      "address": "PO Box 4392, Baltimore, MD 21223",
+      "phone": "410-945-5454",
+      "image": "./img/shelter/office/376307.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mid-atlantic-great-dane-rescue-league-inc-376307/",
+      "imageUrl": "https://cdn.findpawpal.com/office/376307.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 395391,
+      "slug": "heavens-gate-animal-rescue-ltd-395391",
+      "name": "Heavens Gate Animal Rescue Ltd.",
+      "address": "PO Box 2781, Baltimore, MD 21225",
+      "phone": "410-636-1360",
+      "image": "./img/shelter/office/395391.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/heavens-gate-animal-rescue-ltd-395391/",
+      "imageUrl": "https://cdn.findpawpal.com/office/395391.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 399042,
+      "slug": "barcs-baltimore-animal-rescue-care-shelter-399042",
+      "name": "Barcs Baltimore Animal Rescue Care Shelter",
+      "address": "301 Stockholm St, Baltimore, MD 21230",
+      "phone": "410-396-4695",
+      "image": "./img/shelter/office/399042.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/barcs-baltimore-animal-rescue-care-shelter-399042/",
+      "imageUrl": "https://cdn.findpawpal.com/office/399042.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 553576,
+      "slug": "maryland-animal-advocates-inc-553576",
+      "name": "Maryland Animal Advocates, Inc.",
+      "address": "PO Box 9184, Baltimore, MD 21222",
+      "phone": "410-282-6433",
+      "image": "./img/shelter/office/553576.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/maryland-animal-advocates-inc-553576/",
+      "imageUrl": "https://cdn.findpawpal.com/office/553576.jpg?f=webp&w=730"
+    }
+  ]
+}

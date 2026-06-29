@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:44:03.540138+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "beecher",
+    "name": "Beecher",
+    "label": "Beecher, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/beecher/",
+  "offices": [
+    {
+      "officeId": 413839,
+      "slug": "beecher-animal-shelter-413839",
+      "name": "Beecher Animal Shelter",
+      "address": "1301 East Offner Road, Beecher, IL 60401",
+      "phone": "708-663-8103",
+      "image": "./img/shelter/office/413839.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/beecher-animal-shelter-413839/",
+      "imageUrl": "https://cdn.findpawpal.com/office/413839.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 522875,
+      "slug": "castaway-farm-rescue-522875",
+      "name": "Castaway Farm Rescue",
+      "address": "452 East Corning Road, Beecher, IL 60401",
+      "phone": "708-548-6859",
+      "image": "./img/shelter/office/522875.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/castaway-farm-rescue-522875/",
+      "imageUrl": "https://cdn.findpawpal.com/office/522875.jpg?f=webp&w=730"
+    }
+  ]
+}

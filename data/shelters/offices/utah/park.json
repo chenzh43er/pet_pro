@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:11:08.839713+00:00",
+  "state": {
+    "slug": "utah",
+    "name": "Utah"
+  },
+  "city": {
+    "slug": "park",
+    "name": "Park",
+    "label": "Park, UT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/utah/park/",
+  "offices": [
+    {
+      "officeId": 494058,
+      "slug": "friends-of-animals-utah-494058",
+      "name": "Friends of Animals Utah",
+      "address": "6699 North Landmark Drive, Park, UT 84098",
+      "phone": "435-649-5441",
+      "image": "./img/shelter/office/494058.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-animals-utah-494058/",
+      "imageUrl": "https://cdn.findpawpal.com/office/494058.jpg?f=webp&w=730"
+    }
+  ]
+}

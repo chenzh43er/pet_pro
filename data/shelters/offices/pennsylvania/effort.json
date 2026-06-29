@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:52:42.929805+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "effort",
+    "name": "Effort",
+    "label": "Effort, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/effort/",
+  "offices": [
+    {
+      "officeId": 452528,
+      "slug": "circle-of-life-farm-and-rescue-452528",
+      "name": "Circle of Life Farm & Rescue",
+      "address": "119 Golden Road, Effort, PA 18330",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/452528.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/circle-of-life-farm-and-rescue-452528/"
+    }
+  ]
+}

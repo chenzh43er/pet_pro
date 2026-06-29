@@ -1,0 +1,21 @@
+{
+  "officeId": 214141,
+  "slug": "paws-animal-shelter-214141",
+  "name": "Paws Animal Shelter",
+  "address": "57 Lemons Branch Road, Bryson City, NC 28713",
+  "street": "57 Lemons Branch Road",
+  "addressCity": "Bryson City",
+  "stateCode": "NC",
+  "zip": "28713",
+  "phone": "828-488-0418",
+  "image": "./img/shelter/office/214141.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/paws-animal-shelter-214141/",
+  "stateSlug": "north-carolina",
+  "stateName": "North Carolina",
+  "citySlug": "bryson-city",
+  "cityName": "Bryson City",
+  "cityLabel": "Bryson City, NC",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/north-carolina/bryson-city/",
+  "fetchedAt": "2026-06-27T19:38:17.576855+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/214141.jpg?f=webp&w=730"
+}

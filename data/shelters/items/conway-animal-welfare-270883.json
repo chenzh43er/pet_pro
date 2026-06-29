@@ -1,0 +1,21 @@
+{
+  "officeId": 270883,
+  "slug": "conway-animal-welfare-270883",
+  "name": "Conway Animal Welfare",
+  "address": "4550 U.s. 64, Conway, AR 72034",
+  "street": "4550 U.s. 64",
+  "addressCity": "Conway",
+  "stateCode": "AR",
+  "zip": "72034",
+  "phone": "501-450-6160",
+  "image": "./img/shelter/office/270883.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/conway-animal-welfare-270883/",
+  "stateSlug": "arkansas",
+  "stateName": "Arkansas",
+  "citySlug": "conway",
+  "cityName": "Conway",
+  "cityLabel": "Conway, AR",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/arkansas/conway/",
+  "fetchedAt": "2026-06-27T18:21:51.748599+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/270883.jpg?f=webp&w=730"
+}

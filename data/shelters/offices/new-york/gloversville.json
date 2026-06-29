@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:33:40.924907+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "gloversville",
+    "name": "Gloversville",
+    "label": "Gloversville, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/gloversville/",
+  "offices": [
+    {
+      "officeId": 314985,
+      "slug": "regional-animal-shelter-314985",
+      "name": "Regional Animal Shelter",
+      "address": "117 West Fulton Street, Gloversville, NY 12078",
+      "phone": "518-725-5956",
+      "image": "./img/shelter/office/314985.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/regional-animal-shelter-314985/",
+      "imageUrl": "https://cdn.findpawpal.com/office/314985.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 414675,
+      "slug": "brennan-humane-society-414675",
+      "name": "Brennan Humane Society",
+      "address": "437 9 Mile Tree Road, Gloversville, NY 12078",
+      "phone": "518-725-0115",
+      "image": "./img/shelter/office/414675.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/brennan-humane-society-414675/",
+      "imageUrl": "https://cdn.findpawpal.com/office/414675.jpg?f=webp&w=730"
+    }
+  ]
+}

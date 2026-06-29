@@ -1,0 +1,21 @@
+{
+  "officeId": 96666,
+  "slug": "pennsville-animal-shelter-96666",
+  "name": "Pennsville Animal Shelter",
+  "address": "94 INDUSTRIAL PARK Rd, Pennsville, NJ 08070",
+  "street": "94 INDUSTRIAL PARK Rd",
+  "addressCity": "Pennsville",
+  "stateCode": "NJ",
+  "zip": "08070",
+  "phone": "856-851-1100",
+  "image": "./img/shelter/office/96666.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pennsville-animal-shelter-96666/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "pennsville",
+  "cityName": "Pennsville",
+  "cityLabel": "Pennsville, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/pennsville/",
+  "fetchedAt": "2026-06-27T19:28:14.217610+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/96666.jpg?f=webp&w=730"
+}

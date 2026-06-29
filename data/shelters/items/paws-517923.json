@@ -1,0 +1,21 @@
+{
+  "officeId": 517923,
+  "slug": "paws-517923",
+  "name": "PAWS",
+  "address": "1331 Lutie Road, Wilburton, OK 74578",
+  "street": "1331 Lutie Road",
+  "addressCity": "Wilburton",
+  "stateCode": "OK",
+  "zip": "74578",
+  "phone": "918-465-2587",
+  "image": "./img/shelter/office/517923.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/paws-517923/",
+  "stateSlug": "oklahoma",
+  "stateName": "Oklahoma",
+  "citySlug": "wilburton",
+  "cityName": "Wilburton",
+  "cityLabel": "Wilburton, OK",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/oklahoma/wilburton/",
+  "fetchedAt": "2026-06-27T19:49:51.663419+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/517923.jpg?f=webp&w=730"
+}

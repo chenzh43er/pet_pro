@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:42:02.740101+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "wilson",
+    "name": "Wilson",
+    "label": "Wilson, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/wilson/",
+  "offices": [
+    {
+      "officeId": 227158,
+      "slug": "wilson-county-humane-society-227158",
+      "name": "Wilson County Humane Society",
+      "address": "PO Box 7064, Wilson, NC 27895",
+      "phone": "252-243-2566",
+      "image": "./img/shelter/office/227158.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wilson-county-humane-society-227158/",
+      "imageUrl": "https://cdn.findpawpal.com/office/227158.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 272378,
+      "slug": "wilson-county-animal-shelter-272378",
+      "name": "Wilson County Animal Shelter",
+      "address": "4001 Airport Drive, Wilson, NC 27896",
+      "phone": "252-291-8142",
+      "image": "./img/shelter/office/272378.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wilson-county-animal-shelter-272378/",
+      "imageUrl": "https://cdn.findpawpal.com/office/272378.jpg?f=webp&w=730"
+    }
+  ]
+}

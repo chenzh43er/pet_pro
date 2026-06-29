@@ -1,0 +1,21 @@
+{
+  "officeId": 538142,
+  "slug": "gridley-animal-shelter-538142",
+  "name": "Gridley Animal Shelter",
+  "address": "895 Sycamore Street, Gridley, CA 95948",
+  "street": "895 Sycamore Street",
+  "addressCity": "Gridley",
+  "stateCode": "CA",
+  "zip": "95948",
+  "phone": "530-846-4825",
+  "image": "./img/shelter/office/538142.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/gridley-animal-shelter-538142/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "gridley",
+  "cityName": "Gridley",
+  "cityLabel": "Gridley, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/gridley/",
+  "fetchedAt": "2026-06-27T18:26:18.689655+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/538142.jpg?f=webp&w=730"
+}

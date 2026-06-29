@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:02:08.574191+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "sweetwater",
+    "name": "Sweetwater",
+    "label": "Sweetwater, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/sweetwater/",
+  "offices": [
+    {
+      "officeId": 425681,
+      "slug": "sweetwater-city-pound-425681",
+      "name": "Sweetwater City Pound",
+      "address": "PO Box 267, Sweetwater, TN 37874",
+      "phone": "423-337-6979",
+      "image": "https://cdn.findpawpal.com/office/425681.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/sweetwater-city-pound-425681/"
+    }
+  ]
+}

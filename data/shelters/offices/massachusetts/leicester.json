@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:06:45.217490+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "leicester",
+    "name": "Leicester",
+    "label": "Leicester, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/leicester/",
+  "offices": [
+    {
+      "officeId": 41449,
+      "slug": "leicester-animal-control-41449",
+      "name": "Leicester Animal Control",
+      "address": "15 Water Street, Leicester, MA 01524",
+      "phone": "508-892-7018",
+      "image": "./img/shelter/office/41449.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/leicester-animal-control-41449/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41449.jpg?f=webp&w=730"
+    }
+  ]
+}

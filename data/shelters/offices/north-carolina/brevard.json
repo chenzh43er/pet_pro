@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:38:14.495137+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "brevard",
+    "name": "Brevard",
+    "label": "Brevard, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/brevard/",
+  "offices": [
+    {
+      "officeId": 231660,
+      "slug": "brevard-humane-society-231660",
+      "name": "Brevard Humane Society",
+      "address": "105 East Main Street, Brevard, NC 28712",
+      "phone": "828-877-3966",
+      "image": "./img/shelter/office/231660.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/brevard-humane-society-231660/",
+      "imageUrl": "https://cdn.findpawpal.com/office/231660.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 267169,
+      "slug": "county-animal-shelter-267169",
+      "name": "County Animal Shelter",
+      "address": "379 Ross Road, Brevard, NC 28712",
+      "phone": "828-883-3713",
+      "image": "./img/shelter/office/267169.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/county-animal-shelter-267169/",
+      "imageUrl": "https://cdn.findpawpal.com/office/267169.jpg?f=webp&w=730"
+    }
+  ]
+}

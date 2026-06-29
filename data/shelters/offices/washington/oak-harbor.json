@@ -1,0 +1,42 @@
+{
+  "fetchedAt": "2026-06-27T20:18:24.714012+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "oak-harbor",
+    "name": "Oak Harbor",
+    "label": "Oak Harbor, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/oak-harbor/",
+  "offices": [
+    {
+      "officeId": 593223,
+      "slug": "greyhound-pets-inc-593223",
+      "name": "Greyhound Pets, Inc.",
+      "address": "PO Box 891, Oak Harbor, WA 98277",
+      "phone": "360-675-8487",
+      "image": "https://cdn.findpawpal.com/office/593223.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhound-pets-inc-593223/"
+    },
+    {
+      "officeId": 593242,
+      "slug": "whidbey-island-rescue-for-equines-593242",
+      "name": "Whidbey Island Rescue for Equines",
+      "address": "316 Southeast Pioneer Way, Oak Harbor, WA 98277",
+      "phone": "360-675-9252",
+      "image": "https://cdn.findpawpal.com/office/593242.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/whidbey-island-rescue-for-equines-593242/"
+    },
+    {
+      "officeId": 611084,
+      "slug": "oak-harbor-animal-shelter-611084",
+      "name": "Oak Harbor Animal Shelter",
+      "address": "120 Tulagi Avenue, Oak Harbor, WA 98277",
+      "phone": "360-279-0829",
+      "image": "https://cdn.findpawpal.com/office/611084.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/oak-harbor-animal-shelter-611084/"
+    }
+  ]
+}

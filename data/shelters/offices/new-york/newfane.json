@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:35:23.916329+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "newfane",
+    "name": "Newfane",
+    "label": "Newfane, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/newfane/",
+  "offices": [
+    {
+      "officeId": 334626,
+      "slug": "save-a-pet-of-niagara-county-inc-334626",
+      "name": "Save A Pet of Niagara County, Inc.",
+      "address": "PO Box 114, Newfane, NY 14108",
+      "phone": "716-625-9420",
+      "image": "https://cdn.findpawpal.com/office/334626.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/save-a-pet-of-niagara-county-inc-334626/"
+    }
+  ]
+}

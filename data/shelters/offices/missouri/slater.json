@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:20:35.757800+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "slater",
+    "name": "Slater",
+    "label": "Slater, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/slater/",
+  "offices": [
+    {
+      "officeId": 205683,
+      "slug": "slater-animal-control-205683",
+      "name": "Slater Animal Control",
+      "address": "222 Main Street, Slater, MO 65349",
+      "phone": "",
+      "image": "./img/shelter/office/205683.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/slater-animal-control-205683/",
+      "imageUrl": "https://cdn.findpawpal.com/office/205683.jpg?f=webp&w=730"
+    }
+  ]
+}

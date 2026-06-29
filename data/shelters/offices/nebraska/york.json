@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:23:01.192244+00:00",
+  "state": {
+    "slug": "nebraska",
+    "name": "Nebraska"
+  },
+  "city": {
+    "slug": "york",
+    "name": "York",
+    "label": "York, NE"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nebraska/york/",
+  "offices": [
+    {
+      "officeId": 495414,
+      "slug": "adopt-a-pet-495414",
+      "name": "Adopt A Pet",
+      "address": "1111 East 19th Street, York, NE 68467",
+      "phone": "402-362-6414",
+      "image": "./img/shelter/office/495414.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/adopt-a-pet-495414/",
+      "imageUrl": "https://cdn.findpawpal.com/office/495414.jpg?f=webp&w=730"
+    }
+  ]
+}

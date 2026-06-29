@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-06-27T18:20:32.539106+00:00",
+  "state": {
+    "slug": "arizona",
+    "name": "Arizona"
+  },
+  "city": {
+    "slug": "new-river",
+    "name": "New River",
+    "label": "New River, AZ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arizona/new-river/",
+  "offices": [
+    {
+      "slug": "dunrovin-ranch-157605",
+      "name": "Dunrovin Ranch",
+      "address": "48019 North 7th Avenue, New River, AZ 85087",
+      "phone": "623-910-6530",
+      "image": "https://cdn.findpawpal.com/office/157605.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/dunrovin-ranch-157605/"
+    }
+  ]
+}

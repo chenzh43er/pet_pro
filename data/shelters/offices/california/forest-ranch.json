@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:25:55.814837+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "forest-ranch",
+    "name": "Forest Ranch",
+    "label": "Forest Ranch, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/forest-ranch/",
+  "offices": [
+    {
+      "officeId": 380318,
+      "slug": "dachshund-rescue-of-northern-ca-380318",
+      "name": "Dachshund Rescue of Northern Ca",
+      "address": "PO Box 539, Forest Ranch, CA 95942",
+      "phone": "530-895-3148",
+      "image": "./img/shelter/office/380318.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dachshund-rescue-of-northern-ca-380318/",
+      "imageUrl": "https://cdn.findpawpal.com/office/380318.jpg?f=webp&w=730"
+    }
+  ]
+}

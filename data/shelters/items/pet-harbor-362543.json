@@ -1,0 +1,21 @@
+{
+  "officeId": 362543,
+  "slug": "pet-harbor-362543",
+  "name": "Pet Harbor",
+  "address": "328 Redondo Beach Boulevard, Gardena, CA 90248",
+  "street": "328 Redondo Beach Boulevard",
+  "addressCity": "Gardena",
+  "stateCode": "CA",
+  "zip": "90248",
+  "phone": "310-324-2325",
+  "image": "./img/shelter/office/362543.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pet-harbor-362543/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "gardena",
+  "cityName": "Gardena",
+  "cityLabel": "Gardena, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/gardena/",
+  "fetchedAt": "2026-06-27T18:26:11.466723+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/362543.jpg?f=webp&w=730"
+}

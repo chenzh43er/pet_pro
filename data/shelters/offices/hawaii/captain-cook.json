@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:42:10.960212+00:00",
+  "state": {
+    "slug": "hawaii",
+    "name": "Hawaii"
+  },
+  "city": {
+    "slug": "captain-cook",
+    "name": "Captain Cook",
+    "label": "Captain Cook, HI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/hawaii/captain-cook/",
+  "offices": [
+    {
+      "officeId": 405635,
+      "slug": "starfire-companion-animal-sanctuary-405635",
+      "name": "Starfire Companion-Animal Sanctuary",
+      "address": "84 Keala O Keawe Road, Captain Cook, HI 96704",
+      "phone": "808-328-2061",
+      "image": "./img/shelter/office/405635.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/starfire-companion-animal-sanctuary-405635/",
+      "imageUrl": "https://cdn.findpawpal.com/office/405635.jpg?f=webp&w=730"
+    }
+  ]
+}

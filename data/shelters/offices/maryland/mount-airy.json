@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:04:06.599365+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "mount-airy",
+    "name": "Mount Airy",
+    "label": "Mount Airy, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/mount-airy/",
+  "offices": [
+    {
+      "officeId": 394617,
+      "slug": "horsenet-horse-rescue-394617",
+      "name": "HorseNet Horse Rescue",
+      "address": "14001 Mattie Haines Road, Mount Airy, MD 21771",
+      "phone": "301-922-7029",
+      "image": "https://cdn.findpawpal.com/office/394617.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/horsenet-horse-rescue-394617/"
+    },
+    {
+      "officeId": 394622,
+      "slug": "mount-airy-animal-control-394622",
+      "name": "Mount Airy Animal Control",
+      "address": "110 South Main Street, Mount Airy, MD 21771",
+      "phone": "301-829-1424",
+      "image": "./img/shelter/office/394622.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mount-airy-animal-control-394622/",
+      "imageUrl": "https://cdn.findpawpal.com/office/394622.jpg?f=webp&w=730"
+    }
+  ]
+}

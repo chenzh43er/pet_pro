@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:27:25.083303+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "loomis",
+    "name": "Loomis",
+    "label": "Loomis, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/loomis/",
+  "offices": [
+    {
+      "officeId": 391965,
+      "slug": "loomis-animal-control-391965",
+      "name": "Loomis Animal Control",
+      "address": "5700 Val Verde Road, Loomis, CA 95650",
+      "phone": "916-768-5981",
+      "image": "./img/shelter/office/391965.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/loomis-animal-control-391965/",
+      "imageUrl": "https://cdn.findpawpal.com/office/391965.jpg?f=webp&w=730"
+    }
+  ]
+}

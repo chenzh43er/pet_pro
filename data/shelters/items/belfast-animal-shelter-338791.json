@@ -1,0 +1,21 @@
+{
+  "officeId": 338791,
+  "slug": "belfast-animal-shelter-338791",
+  "name": "Belfast Animal Shelter",
+  "address": "46 Baker Road, Belfast, ME 04915",
+  "street": "46 Baker Road",
+  "addressCity": "Belfast",
+  "stateCode": "ME",
+  "zip": "04915",
+  "phone": "207-338-1403",
+  "image": "./img/shelter/office/338791.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/belfast-animal-shelter-338791/",
+  "stateSlug": "maine",
+  "stateName": "Maine",
+  "citySlug": "belfast",
+  "cityName": "Belfast",
+  "cityLabel": "Belfast, ME",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/maine/belfast/",
+  "fetchedAt": "2026-06-27T19:01:12.447399+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/338791.jpg?f=webp&w=730"
+}

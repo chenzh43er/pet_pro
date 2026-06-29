@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:06:33.535569+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "lake-dallas",
+    "name": "Lake Dallas",
+    "label": "Lake Dallas, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/lake-dallas/",
+  "offices": [
+    {
+      "officeId": 540199,
+      "slug": "lake-dallas-animal-control-540199",
+      "name": "Lake Dallas Animal Control",
+      "address": "687 North Lakeview Drive, Lake Dallas, TX 75065",
+      "phone": "940-497-7090",
+      "image": "./img/shelter/office/540199.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lake-dallas-animal-control-540199/",
+      "imageUrl": "https://cdn.findpawpal.com/office/540199.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 633626,
+      "slug": "hickory-creek-animal-shelter-633626",
+      "name": "Hickory Creek Animal Shelter",
+      "address": "970 Main Street, Lake Dallas, TX 75065",
+      "phone": "940-465-7444",
+      "image": "./img/shelter/office/633626.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hickory-creek-animal-shelter-633626/",
+      "imageUrl": "https://cdn.findpawpal.com/office/633626.jpg?f=webp&w=730"
+    }
+  ]
+}

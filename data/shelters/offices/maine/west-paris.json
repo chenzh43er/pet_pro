@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:02:34.680487+00:00",
+  "state": {
+    "slug": "maine",
+    "name": "Maine"
+  },
+  "city": {
+    "slug": "west-paris",
+    "name": "West Paris",
+    "label": "West Paris, ME"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maine/west-paris/",
+  "offices": [
+    {
+      "officeId": 723312,
+      "slug": "west-paris-animal-shelter-723312",
+      "name": "West Paris Animal Shelter",
+      "address": ", West Paris, ME 04289",
+      "phone": "207-674-2592",
+      "image": "./img/shelter/office/723312.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/west-paris-animal-shelter-723312/",
+      "imageUrl": "https://cdn.findpawpal.com/office/723312.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 5525,
+  "slug": "the-pet-connection-5525",
+  "name": "The Pet Connection",
+  "address": "5918 Broadmoor Street, Mission, KS 66202",
+  "street": "5918 Broadmoor Street",
+  "addressCity": "Mission",
+  "stateCode": "KS",
+  "zip": "66202",
+  "phone": "913-671-7387",
+  "image": "./img/shelter/office/5525.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/the-pet-connection-5525/",
+  "stateSlug": "kansas",
+  "stateName": "Kansas",
+  "citySlug": "mission",
+  "cityName": "Mission",
+  "cityLabel": "Mission, KS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kansas/mission/",
+  "fetchedAt": "2026-06-27T18:55:34.966237+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/5525.jpg?f=webp&w=730"
+}

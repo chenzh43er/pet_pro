@@ -1,0 +1,431 @@
+{
+  "fetchedAt": "2026-06-27T17:48:17.185645+00:00",
+  "state": {
+    "slug": "new-mexico",
+    "name": "New Mexico",
+    "offices": 153
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-mexico/",
+  "cities": [
+    {
+      "slug": "alamogordo",
+      "name": "Alamogordo",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/alamogordo/"
+    },
+    {
+      "slug": "albuquerque",
+      "name": "Albuquerque",
+      "offices": 26,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/albuquerque/"
+    },
+    {
+      "slug": "anthony",
+      "name": "Anthony",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/anthony/"
+    },
+    {
+      "slug": "arenas-valley",
+      "name": "Arenas Valley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/arenas-valley/"
+    },
+    {
+      "slug": "artesia",
+      "name": "Artesia",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/artesia/"
+    },
+    {
+      "slug": "aztec",
+      "name": "Aztec",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/aztec/"
+    },
+    {
+      "slug": "bayard",
+      "name": "Bayard",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/bayard/"
+    },
+    {
+      "slug": "belen",
+      "name": "Belen",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/belen/"
+    },
+    {
+      "slug": "bernalillo",
+      "name": "Bernalillo",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/bernalillo/"
+    },
+    {
+      "slug": "bloomfield",
+      "name": "Bloomfield",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/bloomfield/"
+    },
+    {
+      "slug": "carlsbad",
+      "name": "Carlsbad",
+      "offices": 6,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/carlsbad/"
+    },
+    {
+      "slug": "carrizozo",
+      "name": "Carrizozo",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/carrizozo/"
+    },
+    {
+      "slug": "cedar-grove",
+      "name": "Cedar Grove",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/cedar-grove/"
+    },
+    {
+      "slug": "cerrillos",
+      "name": "Cerrillos",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/cerrillos/"
+    },
+    {
+      "slug": "chama",
+      "name": "Chama",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/chama/"
+    },
+    {
+      "slug": "clovis",
+      "name": "Clovis",
+      "offices": 6,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/clovis/"
+    },
+    {
+      "slug": "columbus",
+      "name": "Columbus",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/columbus/"
+    },
+    {
+      "slug": "corrales",
+      "name": "Corrales",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/corrales/"
+    },
+    {
+      "slug": "cuba",
+      "name": "Cuba",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/cuba/"
+    },
+    {
+      "slug": "deming",
+      "name": "Deming",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/deming/"
+    },
+    {
+      "slug": "dixon",
+      "name": "Dixon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/dixon/"
+    },
+    {
+      "slug": "edgewood",
+      "name": "Edgewood",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/edgewood/"
+    },
+    {
+      "slug": "espanola",
+      "name": "Espa\u00f1ola",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/espanola/"
+    },
+    {
+      "slug": "estancia",
+      "name": "Estancia",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/estancia/"
+    },
+    {
+      "slug": "farmington",
+      "name": "Farmington",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/farmington/"
+    },
+    {
+      "slug": "fort-sumner",
+      "name": "Fort Sumner",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/fort-sumner/"
+    },
+    {
+      "slug": "gallup",
+      "name": "Gallup",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/gallup/"
+    },
+    {
+      "slug": "grants",
+      "name": "Grants",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/grants/"
+    },
+    {
+      "slug": "hobbs",
+      "name": "Hobbs",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/hobbs/"
+    },
+    {
+      "slug": "la-luz",
+      "name": "La Luz",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/la-luz/"
+    },
+    {
+      "slug": "laguna",
+      "name": "Laguna",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/laguna/"
+    },
+    {
+      "slug": "lake-arthur",
+      "name": "Lake Arthur",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/lake-arthur/"
+    },
+    {
+      "slug": "las-cruces",
+      "name": "Las Cruces",
+      "offices": 7,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/las-cruces/"
+    },
+    {
+      "slug": "las-vegas",
+      "name": "Las Vegas",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/las-vegas/"
+    },
+    {
+      "slug": "lordsburg",
+      "name": "Lordsburg",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/lordsburg/"
+    },
+    {
+      "slug": "los-alamos",
+      "name": "Los Alamos",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/los-alamos/"
+    },
+    {
+      "slug": "los-lunas",
+      "name": "Los Lunas",
+      "offices": 7,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/los-lunas/"
+    },
+    {
+      "slug": "mosquero",
+      "name": "Mosquero",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/mosquero/"
+    },
+    {
+      "slug": "pecos",
+      "name": "Pecos",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/pecos/"
+    },
+    {
+      "slug": "peralta",
+      "name": "Peralta",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/peralta/"
+    },
+    {
+      "slug": "pie-town",
+      "name": "Pie Town",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/pie-town/"
+    },
+    {
+      "slug": "pinehill",
+      "name": "Pinehill",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/pinehill/"
+    },
+    {
+      "slug": "pinon",
+      "name": "Pinon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/pinon/"
+    },
+    {
+      "slug": "portales",
+      "name": "Portales",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/portales/"
+    },
+    {
+      "slug": "ramah",
+      "name": "Ramah",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/ramah/"
+    },
+    {
+      "slug": "raton",
+      "name": "Raton",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/raton/"
+    },
+    {
+      "slug": "reserve",
+      "name": "Reserve",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/reserve/"
+    },
+    {
+      "slug": "rio-rancho",
+      "name": "Rio Rancho",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/rio-rancho/"
+    },
+    {
+      "slug": "roswell",
+      "name": "Roswell",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/roswell/"
+    },
+    {
+      "slug": "ruidoso",
+      "name": "Ruidoso",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/ruidoso/"
+    },
+    {
+      "slug": "santa-fe",
+      "name": "Santa Fe",
+      "offices": 13,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/santa-fe/"
+    },
+    {
+      "slug": "santa-rosa",
+      "name": "Santa Rosa",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/santa-rosa/"
+    },
+    {
+      "slug": "silver-city",
+      "name": "Silver City",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/silver-city/"
+    },
+    {
+      "slug": "socorro",
+      "name": "Socorro",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/socorro/"
+    },
+    {
+      "slug": "taos",
+      "name": "Taos",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/taos/"
+    },
+    {
+      "slug": "texico",
+      "name": "Texico",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/texico/"
+    },
+    {
+      "slug": "tijeras",
+      "name": "Tijeras",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/tijeras/"
+    },
+    {
+      "slug": "truth-or-consequences",
+      "name": "Truth or Consequences",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/truth-or-consequences/"
+    },
+    {
+      "slug": "tucumcari",
+      "name": "Tucumcari",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/tucumcari/"
+    },
+    {
+      "slug": "williamsburg",
+      "name": "Williamsburg",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/williamsburg/"
+    }
+  ]
+}

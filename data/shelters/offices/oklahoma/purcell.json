@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:49:26.871498+00:00",
+  "state": {
+    "slug": "oklahoma",
+    "name": "Oklahoma"
+  },
+  "city": {
+    "slug": "purcell",
+    "name": "Purcell",
+    "label": "Purcell, OK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oklahoma/purcell/",
+  "offices": [
+    {
+      "officeId": 518052,
+      "slug": "city-of-purcell-animal-welfare-518052",
+      "name": "City of Purcell Animal Welfare",
+      "address": "601 South 6th Avenue, Purcell, OK 73080",
+      "phone": "405-694-9406",
+      "image": "./img/shelter/office/518052.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/city-of-purcell-animal-welfare-518052/",
+      "imageUrl": "https://cdn.findpawpal.com/office/518052.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 585746,
+      "slug": "hope-animal-orphanage-585746",
+      "name": "Hope Animal Orphanage",
+      "address": "PO Box 628, Purcell, OK 73080",
+      "phone": "405-527-2575",
+      "image": "./img/shelter/office/585746.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hope-animal-orphanage-585746/",
+      "imageUrl": "https://cdn.findpawpal.com/office/585746.jpg?f=webp&w=730"
+    }
+  ]
+}

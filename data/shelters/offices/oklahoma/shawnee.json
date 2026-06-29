@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:49:32.777653+00:00",
+  "state": {
+    "slug": "oklahoma",
+    "name": "Oklahoma"
+  },
+  "city": {
+    "slug": "shawnee",
+    "name": "Shawnee",
+    "label": "Shawnee, OK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oklahoma/shawnee/",
+  "offices": [
+    {
+      "officeId": 518100,
+      "slug": "a-wing-and-a-prayer-parrot-rescue-518100",
+      "name": "A Wing and A Prayer Parrot Rescue",
+      "address": "1 Hardesty Drive, Shawnee, OK 74804",
+      "phone": "405-275-5140",
+      "image": "./img/shelter/office/518100.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/a-wing-and-a-prayer-parrot-rescue-518100/",
+      "imageUrl": "https://cdn.findpawpal.com/office/518100.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 684849,
+      "slug": "shawnee-county-animal-shelter-684849",
+      "name": "Shawnee County Animal Shelter",
+      "address": "1900 West Independence Street, Shawnee, OK 74804",
+      "phone": "405-275-9107",
+      "image": "./img/shelter/office/684849.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/shawnee-county-animal-shelter-684849/",
+      "imageUrl": "https://cdn.findpawpal.com/office/684849.jpg?f=webp&w=730"
+    }
+  ]
+}

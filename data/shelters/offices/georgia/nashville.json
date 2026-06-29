@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:40:57.367216+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "nashville",
+    "name": "Nashville",
+    "label": "Nashville, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/nashville/",
+  "offices": [
+    {
+      "officeId": 133411,
+      "slug": "berrien-county-humane-society-133411",
+      "name": "Berrien County Humane Society",
+      "address": "1111 Exum Rd, Nashville, GA 31639",
+      "phone": "229-686-0565",
+      "image": "./img/shelter/office/133411.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/berrien-county-humane-society-133411/",
+      "imageUrl": "https://cdn.findpawpal.com/office/133411.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:52:48.807155+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "ellwood-city",
+    "name": "Ellwood City",
+    "label": "Ellwood City, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/ellwood-city/",
+  "offices": [
+    {
+      "officeId": 465093,
+      "slug": "ellwood-city-animal-control-465093",
+      "name": "Ellwood City Animal Control",
+      "address": "525 Lawrence Avenue, Ellwood City, PA 16117",
+      "phone": "724-758-9935",
+      "image": "./img/shelter/office/465093.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ellwood-city-animal-control-465093/",
+      "imageUrl": "https://cdn.findpawpal.com/office/465093.jpg?f=webp&w=730"
+    }
+  ]
+}

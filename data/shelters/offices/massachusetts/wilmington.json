@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:09:03.408380+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "wilmington",
+    "name": "Wilmington",
+    "label": "Wilmington, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/wilmington/",
+  "offices": [
+    {
+      "officeId": 40140,
+      "slug": "kitty-love-cat-shelter-40140",
+      "name": "Kitty Love Cat Shelter",
+      "address": "PO Box 383, Wilmington, MA 01887",
+      "phone": "978-657-0967",
+      "image": "https://cdn.findpawpal.com/office/40140.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/kitty-love-cat-shelter-40140/"
+    }
+  ]
+}

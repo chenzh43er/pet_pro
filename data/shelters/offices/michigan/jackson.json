@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:11:17.132345+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "jackson",
+    "name": "Jackson",
+    "label": "Jackson, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/jackson/",
+  "offices": [
+    {
+      "officeId": 190222,
+      "slug": "jackson-animal-shelter-190222",
+      "name": "Jackson Animal Shelter",
+      "address": "3370 Spring Arbor Road, Jackson, MI 49203",
+      "phone": "517-788-4464",
+      "image": "./img/shelter/office/190222.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/jackson-animal-shelter-190222/",
+      "imageUrl": "https://cdn.findpawpal.com/office/190222.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 191022,
+      "slug": "jackson-county-animal-control-191022",
+      "name": "Jackson County Animal Control",
+      "address": "2004 North Blackstone Street, Jackson, MI 49202",
+      "phone": "517-788-4464",
+      "image": "./img/shelter/office/191022.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/jackson-county-animal-control-191022/",
+      "imageUrl": "https://cdn.findpawpal.com/office/191022.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 203205,
+      "slug": "cascades-humane-society-203205",
+      "name": "Cascades Humane Society",
+      "address": "1515 Carmen Drive, Jackson, MI 49202",
+      "phone": "517-787-7387",
+      "image": "./img/shelter/office/203205.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cascades-humane-society-203205/",
+      "imageUrl": "https://cdn.findpawpal.com/office/203205.jpg?f=webp&w=730"
+    }
+  ]
+}

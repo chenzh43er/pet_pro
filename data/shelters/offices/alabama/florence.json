@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:17:30.183572+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "florence",
+    "name": "Florence",
+    "label": "Florence, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/florence/",
+  "offices": [
+    {
+      "slug": "lauderdale-county-humane-society-6083",
+      "name": "Lauderdale County Humane Society",
+      "address": "PO Box 2276, Florence, AL 35630",
+      "phone": "",
+      "image": "./img/shelter/office/6083.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lauderdale-county-humane-society-6083/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6083.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "florence-lauderdale-county-animal-control-6554",
+      "name": "Florence - Lauderdale County Animal Control",
+      "address": "702 East College Street, Florence, AL 35630",
+      "phone": "256-760-6676",
+      "image": "./img/shelter/office/6554.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/florence-lauderdale-county-animal-control-6554/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6554.jpg?f=webp&w=730"
+    }
+  ]
+}

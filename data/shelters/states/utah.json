@@ -1,0 +1,727 @@
+{
+  "stateSlug": "utah",
+  "count": 103,
+  "shelters": [
+    {
+      "slug": "sevier-county-animal-shelter-635376",
+      "name": "Sevier County Animal Shelter",
+      "address": "2664 South Old Highway 89, Aurora, UT 84620",
+      "phone": "435-896-5370",
+      "image": "https://cdn.findpawpal.com/office/635376.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "box-elder-county-animal-control-478668",
+      "name": "Box Elder County Animal Control",
+      "address": "1220 West Forest Street, Brigham, UT 84302",
+      "phone": "435-723-1231",
+      "image": "https://cdn.findpawpal.com/office/478668.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cedar-city-animal-control-635362",
+      "name": "Cedar City Animal Control",
+      "address": "10 North Main Street, Cedar, UT 84720",
+      "phone": "435-586-2960",
+      "image": "https://cdn.findpawpal.com/office/635362.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cedar-city-animal-shelter-702263",
+      "name": "Cedar City Animal Shelter",
+      "address": "1150 Kitty Hawk Drive, Cedar, UT 84721",
+      "phone": "435-586-2960",
+      "image": "https://cdn.findpawpal.com/office/702263.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "critters-companion-478533",
+      "name": "Critters Companion",
+      "address": "PO Box 3102, Cedar, UT 84721",
+      "phone": "435-275-4256",
+      "image": "https://cdn.findpawpal.com/office/478533.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "furever-friends-pet-rescue-494115",
+      "name": "Furever Friends Pet Rescue",
+      "address": "246 Rountree Drive, Cedar, UT 84720",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/494115.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "happy-tails-animal-league-539093",
+      "name": "Happy Tails Animal League",
+      "address": "PO Box 2532, Cedar, UT 84721",
+      "phone": "435-867-5519",
+      "image": "https://cdn.findpawpal.com/office/539093.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "national-mustang-association-478544",
+      "name": "National Mustang Association",
+      "address": "PO Box 1367, Cedar, UT 84721",
+      "phone": "888-867-8662",
+      "image": "https://cdn.findpawpal.com/office/478544.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "beaver-county-animal-control-702217",
+      "name": "Beaver County Animal Control",
+      "address": "550 Beaver Circle, Coalville, UT 84017",
+      "phone": "435-438-6435",
+      "image": "https://cdn.findpawpal.com/office/702217.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "delta-animal-control-478811",
+      "name": "Delta Animal Control",
+      "address": "76 North 200 West, Delta, UT 84624",
+      "phone": "435-864-7984",
+      "image": "https://cdn.findpawpal.com/office/478811.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "draper-animal-control-524322",
+      "name": "Draper Animal Control",
+      "address": "613 Traverse Ridge Road, Draper, UT 84020",
+      "phone": "801-576-1805",
+      "image": "https://cdn.findpawpal.com/office/524322.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "duchesne-county-sheriff-537812",
+      "name": "Duchesne County Sheriff",
+      "address": "21554 West 9000 South, Duchesne, UT 84021",
+      "phone": "435-738-2015",
+      "image": "https://cdn.findpawpal.com/office/537812.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-in-need-518478",
+      "name": "Friends In Need",
+      "address": "5194 Lake Mountain Road, Eagle Mountain, UT 84005",
+      "phone": "801-891-2622",
+      "image": "https://cdn.findpawpal.com/office/518478.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-in-need-rescue-539203",
+      "name": "Friends-In-Need Rescue",
+      "address": "PO Box 1571, Eagle Mountain, UT 84043",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/539203.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mooneys-boxer-equine-rescue-702246",
+      "name": "Mooneys Boxer Equine Rescue",
+      "address": "230 West 2100 North, Elsinore, UT 84724",
+      "phone": "435-527-1000",
+      "image": "https://cdn.findpawpal.com/office/702246.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "central-utah-wag-n-train-dog-rescue-and-training-inc-633353",
+      "name": "Central Utah Wag-N-Train Dog Rescue & Training, Inc.",
+      "address": "PO Box 182, Ephraim, UT 84627",
+      "phone": "435-851-3647",
+      "image": "https://cdn.findpawpal.com/office/633353.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ephraim-city-animal-control-524487",
+      "name": "Ephraim City Animal Control",
+      "address": "5 South Main Street, Ephraim, UT 84627",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/524487.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "furry-friends-animal-sanctuary-635346",
+      "name": "Furry Friends Animal Sanctuary",
+      "address": "164 East 300 South, Ephraim, UT 84627",
+      "phone": "435-283-5445",
+      "image": "https://cdn.findpawpal.com/office/635346.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "help-save-the-animals-633285",
+      "name": "Help Save The Animals",
+      "address": "PO Box 59, Farmington, UT 84025",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/633285.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "davis-county-animal-control-674377",
+      "name": "Davis County Animal Control",
+      "address": "1422 East 600 North, Fruit Heights, UT 84037",
+      "phone": "801-444-2200",
+      "image": "https://cdn.findpawpal.com/office/674377.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "green-river-animal-control-702218",
+      "name": "Green River Animal Control",
+      "address": "PO Box 620, Green River, UT 84525",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/702218.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-control-heber-city-518440",
+      "name": "Animal Control Heber City",
+      "address": "75 North Main Street, Heber, UT 84032",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/518440.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bulldog-club-of-utah-633307",
+      "name": "Bulldog Club of Utah",
+      "address": "14490 Majestic Oaks Lane, Herriman, UT 84096",
+      "phone": "801-571-9248",
+      "image": "https://cdn.findpawpal.com/office/633307.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "because-animals-matter-494025",
+      "name": "Because Animals Matter",
+      "address": "92 West 1000 South, Hurricane, UT 84737",
+      "phone": "435-773-5209",
+      "image": "https://cdn.findpawpal.com/office/494025.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hurricane-city-animal-shelter-635333",
+      "name": "Hurricane City Animal Shelter",
+      "address": "2084 South 700 West, Hurricane, UT 84737",
+      "phone": "435-635-8314",
+      "image": "https://cdn.findpawpal.com/office/635333.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hyde-park-animal-control-524261",
+      "name": "Hyde Park Animal Control",
+      "address": "PO Box 489, Hyde Park, UT 84318",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/524261.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ivins-city-animal-shelter-539251",
+      "name": "Ivins City Animal Shelter",
+      "address": "450 North 200 West, Ivins, UT 84738",
+      "phone": "435-628-1049",
+      "image": "https://cdn.findpawpal.com/office/539251.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "best-friends-animal-society-494110",
+      "name": "Best Friends Animal Society",
+      "address": "5001 Angel Canyon Road, Kanab, UT 84741",
+      "phone": "435-644-2001",
+      "image": "https://cdn.findpawpal.com/office/494110.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greyhound-gang-674304",
+      "name": "Greyhound Gang",
+      "address": "PO Box 274, Kanab, UT 84741",
+      "phone": "435-644-2903",
+      "image": "https://cdn.findpawpal.com/office/674304.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "davis-county-animal-control-702215",
+      "name": "Davis County Animal Control",
+      "address": "1422 East 600 North, Kaysville, UT 84037",
+      "phone": "801-444-2200",
+      "image": "https://cdn.findpawpal.com/office/702215.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kearns-animal-control-702262",
+      "name": "Kearns Animal Control",
+      "address": "8190 S MAIN St, Kearns, UT 84118",
+      "phone": "801-840-4000",
+      "image": "https://cdn.findpawpal.com/office/702262.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ferret-and-reptile-rescue-sanctuary-inc-478500",
+      "name": "Ferret & Reptile Rescue Sanctuary, Inc.",
+      "address": "PO Box 1405, Layton, UT 84041",
+      "phone": "801-808-1145",
+      "image": "https://cdn.findpawpal.com/office/478500.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "north-utah-valley-animal-shelter-633376",
+      "name": "North Utah Valley Animal Shelter",
+      "address": "193 North 2000 West, Lindon, UT 84042",
+      "phone": "801-785-3442",
+      "image": "https://cdn.findpawpal.com/office/633376.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cache-animal-protection-league-633275",
+      "name": "Cache Animal Protection League",
+      "address": "PO Box 3640, Logan, UT 84323",
+      "phone": "801-750-1204",
+      "image": "https://cdn.findpawpal.com/office/633275.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cache-county-humane-society-524240",
+      "name": "Cache County Humane Society",
+      "address": "1052 Bonneville Avenue, Logan, UT 84341",
+      "phone": "435-753-5898",
+      "image": "https://cdn.findpawpal.com/office/524240.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "logan-animal-control-494183",
+      "name": "Logan Animal Control",
+      "address": "62 West 300 North, Logan, UT 84321",
+      "phone": "435-716-9300",
+      "image": "https://cdn.findpawpal.com/office/494183.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "northern-utah-german-shepherd-rescue-478494",
+      "name": "Northern Utah German Shepherd Rescue",
+      "address": "Usu Box 1295, Logan, UT 84322",
+      "phone": "435-764-7377",
+      "image": "https://cdn.findpawpal.com/office/478494.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "midvale-city-animal-control-478814",
+      "name": "Midvale City Animal Control",
+      "address": "8190 Main Street, Midvale, UT 84047",
+      "phone": "801-256-2528",
+      "image": "https://cdn.findpawpal.com/office/478814.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-moab-valley-635284",
+      "name": "Humane Society of Moab Valley",
+      "address": "PO Box 1188, Moab, UT 84532",
+      "phone": "435-259-4862",
+      "image": "https://cdn.findpawpal.com/office/635284.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "moab-animal-control-635391",
+      "name": "Moab Animal Control",
+      "address": "217 East Center Street, Moab, UT 84532",
+      "phone": "435-259-8938",
+      "image": "https://cdn.findpawpal.com/office/635391.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-friends-539087",
+      "name": "Pet Friends",
+      "address": "PO Box 569, Moab, UT 84532",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/539087.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "monticello-animal-control-722128",
+      "name": "Monticello Animal Control",
+      "address": "PO Box 788, Monticello, UT 84535",
+      "phone": "763-295-3808",
+      "image": "https://cdn.findpawpal.com/office/722128.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "morgan-county-animal-control-518541",
+      "name": "Morgan County Animal Control",
+      "address": "48 West Young Street, Morgan, UT 84050",
+      "phone": "801-829-0590",
+      "image": "https://cdn.findpawpal.com/office/518541.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "moroni-animal-control-524427",
+      "name": "Moroni Animal Control",
+      "address": "PO Box 870, Moroni, UT 84646",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/524427.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-utah-537877",
+      "name": "Humane Society of Utah",
+      "address": "4242 300 West, Murray, UT 84107",
+      "phone": "801-261-2919",
+      "image": "https://cdn.findpawpal.com/office/537877.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "murray-animal-shelter-633313",
+      "name": "Murray Animal Shelter",
+      "address": "5624 300 West, Murray, UT 84107",
+      "phone": "801-264-2671",
+      "image": "https://cdn.findpawpal.com/office/633313.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "carol-conroy-browning-ogden-animal-shelter-478750",
+      "name": "Carol Conroy Browning-Ogden Animal Shelter",
+      "address": "1490 Park Boulevard, Ogden, UT 84401",
+      "phone": "801-399-8244",
+      "image": "https://cdn.findpawpal.com/office/478750.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-northern-utah-635325",
+      "name": "Humane Society of Northern Utah",
+      "address": "PO Box 407, Ogden, UT 84402",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/635325.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ogden-weber-county-humane-society-494013",
+      "name": "Ogden-Weber County Humane Society",
+      "address": "PO Box 12121, Ogden, UT 84412",
+      "phone": "801-393-6811",
+      "image": "https://cdn.findpawpal.com/office/494013.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "south-ogden-animal-control-635374",
+      "name": "South Ogden Animal Control",
+      "address": "3950 Adams Avenue, Ogden, UT 84403",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/635374.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "washington-terrace-animal-control-524585",
+      "name": "Washington Terrace Animal Control",
+      "address": "5249 South Pointe Drive, Ogden, UT 84405",
+      "phone": "801-399-8244",
+      "image": "https://cdn.findpawpal.com/office/524585.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "washington-terrace-animal-control-635381",
+      "name": "Washington Terrace Animal Control",
+      "address": "4700 South 300 West, Ogden, UT 84405",
+      "phone": "801-395-8286",
+      "image": "https://cdn.findpawpal.com/office/635381.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "weber-county-animal-control-674371",
+      "name": "Weber County Animal Control",
+      "address": "1373 Fairgrounds Drive, Ogden, UT 84404",
+      "phone": "801-399-8244",
+      "image": "https://cdn.findpawpal.com/office/674371.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "orangeville-animal-control-518202",
+      "name": "Orangeville Animal Control",
+      "address": "PO Box 677, Orangeville, UT 84537",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/518202.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "labrador-retriever-club-and-rescue-of-utah-702251",
+      "name": "Labrador Retriever Club and Rescue of Utah",
+      "address": "PO Box 971511, Orem, UT 84097",
+      "phone": "801-426-5414",
+      "image": "https://cdn.findpawpal.com/office/702251.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "save-a-dog-and-kids-inc-494122",
+      "name": "Save A Dog & Kids, Inc.",
+      "address": "851 High Country Drive, Orem, UT 84097",
+      "phone": "801-225-6491",
+      "image": "https://cdn.findpawpal.com/office/494122.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-animals-utah-494058",
+      "name": "Friends of Animals Utah",
+      "address": "6699 North Landmark Drive, Park, UT 84098",
+      "phone": "435-649-5441",
+      "image": "https://cdn.findpawpal.com/office/494058.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "parowan-city-animal-shelter-518232",
+      "name": "Parowan City Animal Shelter",
+      "address": "PO Box 340, Parowan, UT 84761",
+      "phone": "801-477-3383",
+      "image": "https://cdn.findpawpal.com/office/518232.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "carbon-county-animal-services-633337",
+      "name": "Carbon County Animal Services",
+      "address": "120 East Main Street, Price, UT 84501",
+      "phone": "435-637-6654",
+      "image": "https://cdn.findpawpal.com/office/633337.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "provo-animal-control-538123",
+      "name": "Provo Animal Control",
+      "address": "48 South 300 West, Provo, UT 84601",
+      "phone": "801-852-6241",
+      "image": "https://cdn.findpawpal.com/office/538123.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rainbows-end-animal-sanctuary-pet-rescue-494085",
+      "name": "Rainbows End Animal Sanctuary Pet Rescue",
+      "address": "1172 Highway 118, Richfield, UT 84701",
+      "phone": "435-979-5240",
+      "image": "https://cdn.findpawpal.com/office/494085.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "north-cache-veterinary-services-mitchell-cliff-l-dvm-674289",
+      "name": "North Cache Veterinary Services: Mitchell Cliff L DVM",
+      "address": "191 West 100 North, Richmond, UT 84333",
+      "phone": "435-258-2190",
+      "image": "https://cdn.findpawpal.com/office/674289.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bluffdale-city-animal-control-524332",
+      "name": "Bluffdale City Animal Control",
+      "address": "14175 Redwood Road, Riverton, UT 84065",
+      "phone": "801-254-2200",
+      "image": "https://cdn.findpawpal.com/office/524332.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ching-farm-fescue-493925",
+      "name": "Ching Farm Fescue",
+      "address": "PO Box 935, Riverton, UT 84065",
+      "phone": "801-450-8631",
+      "image": "https://cdn.findpawpal.com/office/493925.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "herriman-city-shelter-478612",
+      "name": "Herriman City Shelter",
+      "address": "12750 South 1500 West, Riverton, UT 84065",
+      "phone": "801-254-0704",
+      "image": "https://cdn.findpawpal.com/office/478612.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rainbows-end-animal-sanctuary-and-pet-rescue-524373",
+      "name": "Rainbows End Animal Sanctuary and Pet Rescue",
+      "address": "2307 West 12175 South, Riverton, UT 84065",
+      "phone": "801-638-5903",
+      "image": "https://cdn.findpawpal.com/office/524373.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "riverton-animal-control-524420",
+      "name": "Riverton Animal Control",
+      "address": "12750 South 1500 West, Riverton, UT 84065",
+      "phone": "801-208-3108",
+      "image": "https://cdn.findpawpal.com/office/524420.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "riverton-city-animal-control-674317",
+      "name": "Riverton City Animal Control",
+      "address": "PO Box 429, Riverton, UT 84065",
+      "phone": "801-253-9465",
+      "image": "https://cdn.findpawpal.com/office/674317.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "roosevelt-city-dog-shelter-633393",
+      "name": "Roosevelt City Dog Shelter",
+      "address": "46 U.s. 40, Roosevelt, UT 84066",
+      "phone": "435-725-3649",
+      "image": "https://cdn.findpawpal.com/office/633393.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fuzzy-friends-ferret-rescue-524582",
+      "name": "Fuzzy Friends Ferret Rescue",
+      "address": "3744 West 4550 South, Roy, UT 84067",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/524582.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "roy-animal-control-539396",
+      "name": "Roy Animal Control",
+      "address": "5051 South 1900 West, Roy, UT 84067",
+      "phone": "801-774-1076",
+      "image": "https://cdn.findpawpal.com/office/539396.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fullmer-menagerie-animal-rescue-518435",
+      "name": "Fullmer Menagerie Animal Rescue",
+      "address": "182 East 200 South, Salina, UT 84654",
+      "phone": "435-529-1307",
+      "image": "https://cdn.findpawpal.com/office/518435.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "adopt-me-society-518246",
+      "name": "Adopt Me Society",
+      "address": "860 South 600 East, Salt Lake, UT 84102",
+      "phone": "801-209-6130",
+      "image": "https://cdn.findpawpal.com/office/518246.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "airedale-terrier-rescue-southwest-674309",
+      "name": "Airedale Terrier Rescue Southwest",
+      "address": "343 Edmonds Place, Salt Lake, UT 84116",
+      "phone": "801-833-3635",
+      "image": "https://cdn.findpawpal.com/office/674309.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "community-animal-welfare-society-633309",
+      "name": "Community Animal Welfare Society",
+      "address": "PO Box 17825, Salt Lake, UT 84117",
+      "phone": "801-328-4731",
+      "image": "https://cdn.findpawpal.com/office/633309.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "millers-foster-home-for-pets-518302",
+      "name": "Miller's Foster Home for Pets",
+      "address": "567 F Street, Salt Lake, UT 84103",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/518302.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "no-more-homeless-pets-in-utah-633325",
+      "name": "No More Homeless Pets In Utah",
+      "address": "324 400 West, Salt Lake, UT 84101",
+      "phone": "801-364-0370",
+      "image": "https://cdn.findpawpal.com/office/633325.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "salt-lake-city-animal-control-702260",
+      "name": "Salt Lake City Animal Control",
+      "address": "220 Morris Ave, Salt Lake, UT 84115",
+      "phone": "801-483-6024",
+      "image": "https://cdn.findpawpal.com/office/702260.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "salt-lake-county-animal-services-524379",
+      "name": "Salt Lake County Animal Services",
+      "address": "511 3900 South, Salt Lake, UT 84123",
+      "phone": "385-468-7387",
+      "image": "https://cdn.findpawpal.com/office/524379.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-for-homeless-pets-635361",
+      "name": "Second Chance for Homeless Pets",
+      "address": "200 Gordon Lane, Salt Lake, UT 84107",
+      "phone": "801-590-8999",
+      "image": "https://cdn.findpawpal.com/office/635361.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-pet-samaritan-fund-478581",
+      "name": "The Pet Samaritan Fund",
+      "address": "3802 Sunnydale Drive, Salt Lake, UT 84109",
+      "phone": "801-277-9263",
+      "image": "https://cdn.findpawpal.com/office/478581.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "utah-animal-adoption-center-493967",
+      "name": "Utah Animal Adoption Center",
+      "address": "1955 North Redwood Road, Salt Lake, UT 84116",
+      "phone": "801-355-7387",
+      "image": "https://cdn.findpawpal.com/office/493967.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sandy-animal-services-493960",
+      "name": "Sandy Animal Services",
+      "address": "8715 700 West, Sandy, UT 84070",
+      "phone": "801-561-6730",
+      "image": "https://cdn.findpawpal.com/office/493960.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "santa-clara-animal-control-539246",
+      "name": "Santa Clara Animal Control",
+      "address": "2721 Santa Clara Drive, Santa Clara, UT 84765",
+      "phone": "435-656-4690",
+      "image": "https://cdn.findpawpal.com/office/539246.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "santaquin-animal-control-537955",
+      "name": "Santaquin Animal Control",
+      "address": "45 W 100 5, Santaquin, UT 84655",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/537955.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sevier-county-animal-shelter-635355",
+      "name": "Sevier County Animal Shelter",
+      "address": "2555 N Interchange Rd, Sigurd, UT 84701",
+      "phone": "435-896-5370",
+      "image": "https://cdn.findpawpal.com/office/635355.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "south-salt-lake-animal-control-539160",
+      "name": "South Salt Lake Animal Control",
+      "address": "2274 South 600 West, South Salt Lake, UT 84115",
+      "phone": "801-483-6024",
+      "image": "https://cdn.findpawpal.com/office/539160.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "south-utah-valley-animal-shelter-633374",
+      "name": "South Utah Valley Animal Shelter",
+      "address": "582 West 3000 North Street, Spanish Fork, UT 84660",
+      "phone": "801-851-4080",
+      "image": "https://cdn.findpawpal.com/office/633374.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spanish-fork-animal-control-494157",
+      "name": "Spanish Fork Animal Control",
+      "address": "789 West Center Street, Spanish Fork, UT 84660",
+      "phone": "801-804-4700",
+      "image": "https://cdn.findpawpal.com/office/494157.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "springville-animal-control-539348",
+      "name": "Springville Animal Control",
+      "address": "45 South Main Street, Springville, UT 84663",
+      "phone": "801-489-9421",
+      "image": "https://cdn.findpawpal.com/office/539348.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "p-a-w-s-adoption-center-723342",
+      "name": "P.A.W.S. Adoption Center",
+      "address": "1125 West 1130 North, St. George, UT 84770",
+      "phone": "435-688-9748",
+      "image": "https://cdn.findpawpal.com/office/723342.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "st-george-city-of-animal-pound-478663",
+      "name": "St George City of Animal Pound",
+      "address": "605 E Skyline Dr, St. George, UT 84770",
+      "phone": "435-634-5829",
+      "image": "https://cdn.findpawpal.com/office/478663.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-control-sunset-city-518186",
+      "name": "Animal Control Sunset City",
+      "address": "200 West 1300 North, Sunset, UT 84015",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/518186.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tooele-city-animal-control-494079",
+      "name": "Tooele City Animal Control",
+      "address": "90 North Main Street, Tooele, UT 84074",
+      "phone": "435-843-2100",
+      "image": "https://cdn.findpawpal.com/office/494079.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tremonton-shelter-539255",
+      "name": "Tremonton Shelter",
+      "address": "300 1200 South, Tremonton, UT 84337",
+      "phone": "801-257-3151",
+      "image": "https://cdn.findpawpal.com/office/539255.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-care-association-478621",
+      "name": "Animal Care Association",
+      "address": "PO Box 337, Vernal, UT 84078",
+      "phone": "801-789-2448",
+      "image": "https://cdn.findpawpal.com/office/478621.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dog-pound-633356",
+      "name": "Dog Pound",
+      "address": "85 East 650 North, Vernal, UT 84078",
+      "phone": "435-789-5601",
+      "image": "https://cdn.findpawpal.com/office/633356.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "uintah-county-animal-shelter-524516",
+      "name": "Uintah County Animal Shelter",
+      "address": "1387 East 335 South, Vernal, UT 84078",
+      "phone": "435-781-7297",
+      "image": "https://cdn.findpawpal.com/office/524516.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "washington-animal-shelter-494019",
+      "name": "Washington Animal Shelter",
+      "address": "95 West Industrial Drive, Washington, UT 84780",
+      "phone": "435-673-7194",
+      "image": "https://cdn.findpawpal.com/office/494019.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "washington-shelter-494031",
+      "name": "Washington Shelter",
+      "address": "95 East Industrial Drive, Washington, UT 84780",
+      "phone": "435-673-6174",
+      "image": "https://cdn.findpawpal.com/office/494031.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "west-jordan-animal-control-539385",
+      "name": "West Jordan Animal Control",
+      "address": "8000 South Redwood Road, West Jordan, UT 84088",
+      "phone": "801-282-3951",
+      "image": "https://cdn.findpawpal.com/office/539385.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "west-jordan-animal-shelter-635313",
+      "name": "West Jordan Animal Shelter",
+      "address": "5982 New Bingham Highway, West Jordan, UT 84081",
+      "phone": "801-282-3951",
+      "image": "https://cdn.findpawpal.com/office/635313.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "west-valley-animal-shelter-635294",
+      "name": "West Valley Animal Shelter",
+      "address": "4522 3500 South, West Valley, UT 84120",
+      "phone": "801-965-5800",
+      "image": "https://cdn.findpawpal.com/office/635294.jpg?f=webp&w=730"
+    }
+  ]
+}

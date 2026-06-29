@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-06-27T18:27:13.012870+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "leona-valley",
+    "name": "Leona Valley",
+    "label": "Leona Valley, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/leona-valley/",
+  "offices": [
+    {
+      "slug": "golden-retriever-rescue-foundation-478238",
+      "name": "Golden Retriever Rescue Foundation",
+      "address": "PO Box 708, Leona Valley, CA 93551",
+      "phone": "661-270-3294",
+      "image": "https://cdn.findpawpal.com/office/478238.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/golden-retriever-rescue-foundation-478238/"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 512070,
+  "slug": "roanoke-county-animal-control-512070",
+  "name": "Roanoke County Animal Control",
+  "address": "5925 Cove Road, Roanoke, VA 24019",
+  "street": "5925 Cove Road",
+  "addressCity": "Roanoke",
+  "stateCode": "VA",
+  "zip": "24019",
+  "phone": "540-777-8606",
+  "image": "./img/shelter/office/512070.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/roanoke-county-animal-control-512070/",
+  "stateSlug": "virginia",
+  "stateName": "Virginia",
+  "citySlug": "roanoke",
+  "cityName": "Roanoke",
+  "cityLabel": "Roanoke, VA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/virginia/roanoke/",
+  "fetchedAt": "2026-06-27T20:15:53.851170+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/512070.jpg?f=webp&w=730"
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:53:47.159279+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "mckean",
+    "name": "McKean",
+    "label": "McKean, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/mckean/",
+  "offices": [
+    {
+      "officeId": 688285,
+      "slug": "because-you-care-shelter-inc-688285",
+      "name": "Because You Care Shelter, Inc.",
+      "address": "6041 West Road, McKean, PA 16426",
+      "phone": "814-866-5039",
+      "image": "./img/shelter/office/688285.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/because-you-care-shelter-inc-688285/",
+      "imageUrl": "https://cdn.findpawpal.com/office/688285.jpg?f=webp&w=730"
+    }
+  ]
+}

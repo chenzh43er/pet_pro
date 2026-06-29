@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T19:18:32.676717+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "excelsior-springs",
+    "name": "Excelsior Springs",
+    "label": "Excelsior Springs, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/excelsior-springs/",
+  "offices": [
+    {
+      "officeId": 193769,
+      "slug": "excelsior-springs-animal-shelter-193769",
+      "name": "Excelsior Springs Animal Shelter",
+      "address": "805 Lake Maurer Road, Excelsior Springs, MO 64024",
+      "phone": "816-630-0816",
+      "image": "./img/shelter/office/193769.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/excelsior-springs-animal-shelter-193769/",
+      "imageUrl": "https://cdn.findpawpal.com/office/193769.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 206389,
+      "slug": "excelsior-springs-friends-of-animals-206389",
+      "name": "Excelsior Springs Friends of Animals",
+      "address": "PO Box 661, Excelsior Springs, MO 64024",
+      "phone": "816-838-7490",
+      "image": "./img/shelter/office/206389.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/excelsior-springs-friends-of-animals-206389/",
+      "imageUrl": "https://cdn.findpawpal.com/office/206389.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 229344,
+      "slug": "little-rascals-animal-rescue-229344",
+      "name": "Little Rascal's Animal Rescue",
+      "address": "13165 Lock Lane, Excelsior Springs, MO 64024",
+      "phone": "816-637-2197",
+      "image": "https://cdn.findpawpal.com/office/229344.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/little-rascals-animal-rescue-229344/"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:14:58.168573+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "moorhead",
+    "name": "Moorhead",
+    "label": "Moorhead, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/moorhead/",
+  "offices": [
+    {
+      "officeId": 523305,
+      "slug": "library-cat-society-523305",
+      "name": "Library Cat Society",
+      "address": "1609 5th Street South, Moorhead, MN 56560",
+      "phone": "218-236-7205",
+      "image": "./img/shelter/office/523305.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/library-cat-society-523305/",
+      "imageUrl": "https://cdn.findpawpal.com/office/523305.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 532227,
+      "slug": "dampiers-animal-shelter-532227",
+      "name": "Dampier's Animal Shelter",
+      "address": "1915 14th Avenue South, Moorhead, MN 56560",
+      "phone": "218-233-7632",
+      "image": "./img/shelter/office/532227.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dampiers-animal-shelter-532227/",
+      "imageUrl": "https://cdn.findpawpal.com/office/532227.jpg?f=webp&w=730"
+    }
+  ]
+}

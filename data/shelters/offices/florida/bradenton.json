@@ -1,0 +1,60 @@
+{
+  "fetchedAt": "2026-06-27T18:13:21.587972+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "bradenton",
+    "name": "Bradenton",
+    "label": "Bradenton, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/bradenton/",
+  "offices": [
+    {
+      "slug": "gulf-shore-animal-league-271536",
+      "name": "Gulf Shore Animal League",
+      "address": "PO Box 14291, Bradenton, FL 34280",
+      "phone": "941-747-2284",
+      "image": "./img/shelter/office/271536.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gulf-shore-animal-league-271536/",
+      "imageUrl": "https://cdn.findpawpal.com/office/271536.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "napiers-log-cabin-horse-animal-sanctuary-inc-271544",
+      "name": "Napier's Log Cabin Horse Animal Sanctuary, Inc.",
+      "address": "20010 Highway 64, Bradenton, FL 34212",
+      "phone": "941-750-8185",
+      "image": "./img/shelter/office/271544.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/napiers-log-cabin-horse-animal-sanctuary-inc-271544/",
+      "imageUrl": "https://cdn.findpawpal.com/office/271544.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-manatee-county-288144",
+      "name": "Humane Society of Manatee County",
+      "address": "2515 14th Street West, Bradenton, FL 34205",
+      "phone": "941-747-8808",
+      "image": "./img/shelter/office/288144.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-manatee-county-288144/",
+      "imageUrl": "https://cdn.findpawpal.com/office/288144.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "underdog-rescue-of-florida-292577",
+      "name": "Underdog Rescue of Florida",
+      "address": "4238 53rd Avenue East, Bradenton, FL 34203",
+      "phone": "941-746-9663",
+      "image": "./img/shelter/office/292577.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/underdog-rescue-of-florida-292577/",
+      "imageUrl": "https://cdn.findpawpal.com/office/292577.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bishop-animal-shelter-spca-323177",
+      "name": "Bishop Animal Shelter Spca",
+      "address": "5718 21st Avenue West, Bradenton, FL 34209",
+      "phone": "941-792-2863",
+      "image": "./img/shelter/office/323177.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bishop-animal-shelter-spca-323177/",
+      "imageUrl": "https://cdn.findpawpal.com/office/323177.jpg?f=webp&w=730"
+    }
+  ]
+}

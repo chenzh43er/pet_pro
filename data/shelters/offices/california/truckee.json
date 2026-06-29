@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:31:33.396353+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "truckee",
+    "name": "Truckee",
+    "label": "Truckee, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/truckee/",
+  "offices": [
+    {
+      "officeId": 363960,
+      "slug": "humane-society-of-truckee-tahoe-363960",
+      "name": "Humane Society of Truckee-Tahoe",
+      "address": "10961 Stevens Lane, Truckee, CA 96161",
+      "phone": "530-587-5948",
+      "image": "./img/shelter/office/363960.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-truckee-tahoe-363960/",
+      "imageUrl": "https://cdn.findpawpal.com/office/363960.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 391511,
+      "slug": "truckee-animal-control-391511",
+      "name": "Truckee Animal Control",
+      "address": "10183 Truckee Airport Road, Truckee, CA 96161",
+      "phone": "530-582-7830",
+      "image": "./img/shelter/office/391511.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/truckee-animal-control-391511/",
+      "imageUrl": "https://cdn.findpawpal.com/office/391511.jpg?f=webp&w=730"
+    }
+  ]
+}

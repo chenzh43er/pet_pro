@@ -1,0 +1,21 @@
+{
+  "officeId": 5148,
+  "slug": "ulysses-animal-shelter-5148",
+  "name": "Ulysses Animal Shelter",
+  "address": "210 East Central Avenue, Ulysses, KS 67880",
+  "street": "210 East Central Avenue",
+  "addressCity": "Ulysses",
+  "stateCode": "KS",
+  "zip": "67880",
+  "phone": "620-356-3500",
+  "image": "./img/shelter/office/5148.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/ulysses-animal-shelter-5148/",
+  "stateSlug": "kansas",
+  "stateName": "Kansas",
+  "citySlug": "ulysses",
+  "cityName": "Ulysses",
+  "cityLabel": "Ulysses, KS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kansas/ulysses/",
+  "fetchedAt": "2026-06-27T18:56:00.457517+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/5148.jpg?f=webp&w=730"
+}

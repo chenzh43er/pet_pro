@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T20:17:17.706383+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "bellingham",
+    "name": "Bellingham",
+    "label": "Bellingham, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/bellingham/",
+  "offices": [
+    {
+      "officeId": 621559,
+      "slug": "ark-humane-society-621559",
+      "name": "Ark Humane Society",
+      "address": "2715 Peabody Street, Bellingham, WA 98225",
+      "phone": "206-733-4173",
+      "image": "./img/shelter/office/621559.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ark-humane-society-621559/",
+      "imageUrl": "https://cdn.findpawpal.com/office/621559.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 698934,
+      "slug": "whatcom-humane-society-698934",
+      "name": "Whatcom Humane Society",
+      "address": "2172 Division Street, Bellingham, WA 98226",
+      "phone": "360-733-2080",
+      "image": "https://cdn.findpawpal.com/office/698934.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/whatcom-humane-society-698934/"
+    },
+    {
+      "officeId": 714647,
+      "slug": "alternative-humane-society-714647",
+      "name": "Alternative Humane Society",
+      "address": "PO Box 2321, Bellingham, WA 98227",
+      "phone": "360-671-7445",
+      "image": "./img/shelter/office/714647.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/alternative-humane-society-714647/",
+      "imageUrl": "https://cdn.findpawpal.com/office/714647.jpg?f=webp&w=730"
+    }
+  ]
+}

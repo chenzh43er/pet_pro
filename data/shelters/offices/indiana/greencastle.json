@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:50:11.505549+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "greencastle",
+    "name": "Greencastle",
+    "label": "Greencastle, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/greencastle/",
+  "offices": [
+    {
+      "officeId": 200644,
+      "slug": "humane-society-of-putnam-county-200644",
+      "name": "Humane Society of Putnam County",
+      "address": "4700 Highway 240, Greencastle, IN 46135",
+      "phone": "765-653-1943",
+      "image": "./img/shelter/office/200644.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-putnam-county-200644/",
+      "imageUrl": "https://cdn.findpawpal.com/office/200644.jpg?f=webp&w=730"
+    }
+  ]
+}

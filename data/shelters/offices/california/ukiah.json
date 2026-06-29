@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-06-27T18:31:40.853101+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "ukiah",
+    "name": "Ukiah",
+    "label": "Ukiah, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/ukiah/",
+  "offices": [
+    {
+      "slug": "mendocino-county-animal-control-668703",
+      "name": "Mendocino County Animal Control",
+      "address": "298 Plant Road, Ukiah, CA 95482",
+      "phone": "707-463-4427",
+      "image": "https://cdn.findpawpal.com/office/668703.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/mendocino-county-animal-control-668703/"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:02:05.423387+00:00",
+  "state": {
+    "slug": "maine",
+    "name": "Maine"
+  },
+  "city": {
+    "slug": "old-town",
+    "name": "Old Town",
+    "label": "Old Town, ME"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maine/old-town/",
+  "offices": [
+    {
+      "officeId": 419632,
+      "slug": "old-town-animal-control-419632",
+      "name": "Old Town Animal Control",
+      "address": "AIRPORT Rd, Old Town, ME 04468",
+      "phone": "207-827-8777",
+      "image": "./img/shelter/office/419632.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/old-town-animal-control-419632/",
+      "imageUrl": "https://cdn.findpawpal.com/office/419632.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 426578,
+      "slug": "animal-orphanage-426578",
+      "name": "Animal Orphanage",
+      "address": "71 Airport Rd, Old Town, ME 04468",
+      "phone": "207-827-8777",
+      "image": "./img/shelter/office/426578.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-orphanage-426578/",
+      "imageUrl": "https://cdn.findpawpal.com/office/426578.jpg?f=webp&w=730"
+    }
+  ]
+}

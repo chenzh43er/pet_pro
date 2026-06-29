@@ -1,0 +1,21 @@
+{
+  "officeId": 251041,
+  "slug": "spensers-legacy-animal-rescue-251041",
+  "name": "Spenser's Legacy Animal Rescue",
+  "address": "4649 Mayes Drive, Fayetteville, AR 72704",
+  "street": "4649 Mayes Drive",
+  "addressCity": "Fayetteville",
+  "stateCode": "AR",
+  "zip": "72704",
+  "phone": "479-601-7202",
+  "image": "./img/shelter/office/251041.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/spensers-legacy-animal-rescue-251041/",
+  "stateSlug": "arkansas",
+  "stateName": "Arkansas",
+  "citySlug": "fayetteville",
+  "cityName": "Fayetteville",
+  "cityLabel": "Fayetteville, AR",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/arkansas/fayetteville/",
+  "fetchedAt": "2026-06-27T18:22:04.884352+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/251041.jpg?f=webp&w=730"
+}

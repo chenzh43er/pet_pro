@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:07:08.219134+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "lytle",
+    "name": "Lytle",
+    "label": "Lytle, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/lytle/",
+  "offices": [
+    {
+      "officeId": 525265,
+      "slug": "lytle-animal-control-525265",
+      "name": "Lytle Animal Control",
+      "address": "14916 Main Street, Lytle, TX 78052",
+      "phone": "830-709-3692",
+      "image": "./img/shelter/office/525265.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lytle-animal-control-525265/",
+      "imageUrl": "https://cdn.findpawpal.com/office/525265.jpg?f=webp&w=730"
+    }
+  ]
+}

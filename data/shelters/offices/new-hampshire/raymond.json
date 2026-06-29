@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:24:34.163179+00:00",
+  "state": {
+    "slug": "new-hampshire",
+    "name": "New Hampshire"
+  },
+  "city": {
+    "slug": "raymond",
+    "name": "Raymond",
+    "label": "Raymond, NH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-hampshire/raymond/",
+  "offices": [
+    {
+      "officeId": 43876,
+      "slug": "new-england-basset-hound-rescue-43876",
+      "name": "New England Basset Hound Rescue",
+      "address": "PO Box 835, Raymond, NH 03077",
+      "phone": "603-895-9766",
+      "image": "./img/shelter/office/43876.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-england-basset-hound-rescue-43876/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43876.jpg?f=webp&w=730"
+    }
+  ]
+}

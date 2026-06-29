@@ -1,0 +1,42 @@
+{
+  "fetchedAt": "2026-06-27T18:16:27.853409+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "palm-beach-gardens",
+    "name": "Palm Beach Gardens",
+    "label": "Palm Beach Gardens, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/palm-beach-gardens/",
+  "offices": [
+    {
+      "slug": "rescue-league-more-inc-284752",
+      "name": "Rescue League More, Inc",
+      "address": "8640 Sunset Drive, Palm Beach Gardens, FL 33410",
+      "phone": "561-427-9341",
+      "image": "./img/shelter/office/284752.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rescue-league-more-inc-284752/",
+      "imageUrl": "https://cdn.findpawpal.com/office/284752.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "takemehome-net-288433",
+      "name": "Takemehome.Net",
+      "address": "2626 PGA Boulevard, Palm Beach Gardens, FL 33410",
+      "phone": "",
+      "image": "./img/shelter/office/288433.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/takemehome-net-288433/",
+      "imageUrl": "https://cdn.findpawpal.com/office/288433.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-force-323481",
+      "name": "Animal Rescue Force",
+      "address": "PO Box 32785, Palm Beach Gardens, FL 33420",
+      "phone": "561-965-2090",
+      "image": "./img/shelter/office/323481.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-rescue-force-323481/",
+      "imageUrl": "https://cdn.findpawpal.com/office/323481.jpg?f=webp&w=730"
+    }
+  ]
+}

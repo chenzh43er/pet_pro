@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:49:49.057463+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "crown-point",
+    "name": "Crown Point",
+    "label": "Crown Point, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/crown-point/",
+  "offices": [
+    {
+      "officeId": 219039,
+      "slug": "county-government-offices-animal-control-center-219039",
+      "name": "County Government Offices: Animal Control Center",
+      "address": "3011 West 93rd Avenue, Crown Point, IN 46307",
+      "phone": "219-769-7016",
+      "image": "./img/shelter/office/219039.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/county-government-offices-animal-control-center-219039/",
+      "imageUrl": "https://cdn.findpawpal.com/office/219039.jpg?f=webp&w=730"
+    }
+  ]
+}

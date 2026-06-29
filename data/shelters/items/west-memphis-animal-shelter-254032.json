@@ -1,0 +1,21 @@
+{
+  "officeId": 254032,
+  "slug": "west-memphis-animal-shelter-254032",
+  "name": "West Memphis Animal Shelter",
+  "address": "500 South Loop Drive, West Memphis, AR 72301",
+  "street": "500 South Loop Drive",
+  "addressCity": "West Memphis",
+  "stateCode": "AR",
+  "zip": "72301",
+  "phone": "870-732-7599",
+  "image": "./img/shelter/office/254032.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/west-memphis-animal-shelter-254032/",
+  "stateSlug": "arkansas",
+  "stateName": "Arkansas",
+  "citySlug": "west-memphis",
+  "cityName": "West Memphis",
+  "cityLabel": "West Memphis, AR",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/arkansas/west-memphis/",
+  "fetchedAt": "2026-06-27T18:23:29.469877+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/254032.jpg?f=webp&w=730"
+}

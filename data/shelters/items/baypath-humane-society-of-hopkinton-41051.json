@@ -1,0 +1,21 @@
+{
+  "officeId": 41051,
+  "slug": "baypath-humane-society-of-hopkinton-41051",
+  "name": "Baypath Humane Society of Hopkinton",
+  "address": "5 Rafferty Road, Hopkinton, MA 01748",
+  "street": "5 Rafferty Road",
+  "addressCity": "Hopkinton",
+  "stateCode": "MA",
+  "zip": "01748",
+  "phone": "508-435-6938",
+  "image": "./img/shelter/office/41051.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/baypath-humane-society-of-hopkinton-41051/",
+  "stateSlug": "massachusetts",
+  "stateName": "Massachusetts",
+  "citySlug": "hopkinton",
+  "cityName": "Hopkinton",
+  "cityLabel": "Hopkinton, MA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/massachusetts/hopkinton/",
+  "fetchedAt": "2026-06-27T19:06:34.787145+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/41051.jpg?f=webp&w=730"
+}

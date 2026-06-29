@@ -1,0 +1,21 @@
+{
+  "officeId": 409289,
+  "slug": "oxford-animal-shelter-409289",
+  "name": "Oxford Animal Shelter",
+  "address": "455 Allen Hill Road, Oxford, ME 04270",
+  "street": "455 Allen Hill Road",
+  "addressCity": "Oxford",
+  "stateCode": "ME",
+  "zip": "04270",
+  "phone": "207-743-7217",
+  "image": "./img/shelter/office/409289.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/oxford-animal-shelter-409289/",
+  "stateSlug": "maine",
+  "stateName": "Maine",
+  "citySlug": "oxford",
+  "cityName": "Oxford",
+  "cityLabel": "Oxford, ME",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/maine/oxford/",
+  "fetchedAt": "2026-06-27T19:02:06.890963+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/409289.jpg?f=webp&w=730"
+}

@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:17:28.325896+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "titusville",
+    "name": "Titusville",
+    "label": "Titusville, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/titusville/",
+  "offices": [
+    {
+      "slug": "spca-of-north-brevard-291842",
+      "name": "SPCA of North Brevard",
+      "address": "455 Cheney Highway, Titusville, FL 32780",
+      "phone": "321-267-8221",
+      "image": "./img/shelter/office/291842.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/spca-of-north-brevard-291842/",
+      "imageUrl": "https://cdn.findpawpal.com/office/291842.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brevard-county-north-animal-care-center-339183",
+      "name": "Brevard County North Animal Care Center",
+      "address": "2605 Flake Road, Titusville, FL 32796",
+      "phone": "321-264-5119",
+      "image": "./img/shelter/office/339183.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/brevard-county-north-animal-care-center-339183/",
+      "imageUrl": "https://cdn.findpawpal.com/office/339183.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "fetchedAt": "2026-06-27T17:48:13.126143+00:00",
+  "state": {
+    "slug": "new-hampshire",
+    "name": "New Hampshire",
+    "offices": 68
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-hampshire/",
+  "cities": [
+    {
+      "slug": "alexandria",
+      "name": "Alexandria",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/alexandria/"
+    },
+    {
+      "slug": "atkinson",
+      "name": "Atkinson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/atkinson/"
+    },
+    {
+      "slug": "bedford",
+      "name": "Bedford",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/bedford/"
+    },
+    {
+      "slug": "berlin",
+      "name": "Berlin",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/berlin/"
+    },
+    {
+      "slug": "bethlehem",
+      "name": "Bethlehem",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/bethlehem/"
+    },
+    {
+      "slug": "canaan",
+      "name": "Canaan",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/canaan/"
+    },
+    {
+      "slug": "candia",
+      "name": "Candia",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/candia/"
+    },
+    {
+      "slug": "charlestown",
+      "name": "Charlestown",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/charlestown/"
+    },
+    {
+      "slug": "chester",
+      "name": "Chester",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/chester/"
+    },
+    {
+      "slug": "chichester",
+      "name": "Chichester",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/chichester/"
+    },
+    {
+      "slug": "claremont",
+      "name": "Claremont",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/claremont/"
+    },
+    {
+      "slug": "colebrook",
+      "name": "Colebrook",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/colebrook/"
+    },
+    {
+      "slug": "concord",
+      "name": "Concord",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/concord/"
+    },
+    {
+      "slug": "conway",
+      "name": "Conway",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/conway/"
+    },
+    {
+      "slug": "derry",
+      "name": "Derry",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/derry/"
+    },
+    {
+      "slug": "dover",
+      "name": "Dover",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/dover/"
+    },
+    {
+      "slug": "east-derry",
+      "name": "East Derry",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/east-derry/"
+    },
+    {
+      "slug": "enfield",
+      "name": "Enfield",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/enfield/"
+    },
+    {
+      "slug": "epping",
+      "name": "Epping",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/epping/"
+    },
+    {
+      "slug": "farmington",
+      "name": "Farmington",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/farmington/"
+    },
+    {
+      "slug": "fitzwilliam",
+      "name": "Fitzwilliam",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/fitzwilliam/"
+    },
+    {
+      "slug": "franklin",
+      "name": "Franklin",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/franklin/"
+    },
+    {
+      "slug": "greenfield",
+      "name": "Greenfield",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/greenfield/"
+    },
+    {
+      "slug": "hampton",
+      "name": "Hampton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/hampton/"
+    },
+    {
+      "slug": "laconia",
+      "name": "Laconia",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/laconia/"
+    },
+    {
+      "slug": "lancaster",
+      "name": "Lancaster",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/lancaster/"
+    },
+    {
+      "slug": "littleton",
+      "name": "Littleton",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/littleton/"
+    },
+    {
+      "slug": "londonderry",
+      "name": "Londonderry",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/londonderry/"
+    },
+    {
+      "slug": "manchester",
+      "name": "Manchester",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/manchester/"
+    },
+    {
+      "slug": "marlborough",
+      "name": "Marlborough",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/marlborough/"
+    },
+    {
+      "slug": "nashua",
+      "name": "Nashua",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/nashua/"
+    },
+    {
+      "slug": "new-ipswich",
+      "name": "New Ipswich",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/new-ipswich/"
+    },
+    {
+      "slug": "newfields",
+      "name": "Newfields",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/newfields/"
+    },
+    {
+      "slug": "ossipee",
+      "name": "Ossipee",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/ossipee/"
+    },
+    {
+      "slug": "pelham",
+      "name": "Pelham",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/pelham/"
+    },
+    {
+      "slug": "portsmouth",
+      "name": "Portsmouth",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/portsmouth/"
+    },
+    {
+      "slug": "raymond",
+      "name": "Raymond",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/raymond/"
+    },
+    {
+      "slug": "rindge",
+      "name": "Rindge",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/rindge/"
+    },
+    {
+      "slug": "rochester",
+      "name": "Rochester",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/rochester/"
+    },
+    {
+      "slug": "salem",
+      "name": "Salem",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/salem/"
+    },
+    {
+      "slug": "sandown",
+      "name": "Sandown",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/sandown/"
+    },
+    {
+      "slug": "somersworth",
+      "name": "Somersworth",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/somersworth/"
+    },
+    {
+      "slug": "stratham",
+      "name": "Stratham",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/stratham/"
+    },
+    {
+      "slug": "swanzey",
+      "name": "Swanzey",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/swanzey/"
+    },
+    {
+      "slug": "weare",
+      "name": "Weare",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/weare/"
+    },
+    {
+      "slug": "wolfeboro-falls",
+      "name": "Wolfeboro Falls",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/wolfeboro-falls/"
+    }
+  ]
+}

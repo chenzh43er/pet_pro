@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:16:26.981086+00:00",
+  "state": {
+    "slug": "mississippi",
+    "name": "Mississippi"
+  },
+  "city": {
+    "slug": "gulfport",
+    "name": "Gulfport",
+    "label": "Gulfport, MS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/mississippi/gulfport/",
+  "offices": [
+    {
+      "officeId": 103782,
+      "slug": "humane-society-of-south-mississippi-103782",
+      "name": "Humane Society of South Mississippi",
+      "address": "2615 25th Avenue, Gulfport, MS 39501",
+      "phone": "228-863-3354",
+      "image": "./img/shelter/office/103782.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-south-mississippi-103782/",
+      "imageUrl": "https://cdn.findpawpal.com/office/103782.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 103798,
+      "slug": "harrison-county-animal-control-103798",
+      "name": "Harrison County Animal Control",
+      "address": "10451 Larkin Smith Drive, Gulfport, MS 39503",
+      "phone": "228-865-7060",
+      "image": "./img/shelter/office/103798.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/harrison-county-animal-control-103798/",
+      "imageUrl": "https://cdn.findpawpal.com/office/103798.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 113446,
+      "slug": "gulfport-animal-shelter-113446",
+      "name": "Gulfport Animal Shelter",
+      "address": "1418 33rd Avenue, Gulfport, MS 39501",
+      "phone": "228-863-1940",
+      "image": "./img/shelter/office/113446.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gulfport-animal-shelter-113446/",
+      "imageUrl": "https://cdn.findpawpal.com/office/113446.jpg?f=webp&w=730"
+    }
+  ]
+}

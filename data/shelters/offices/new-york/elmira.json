@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:33:10.999128+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "elmira",
+    "name": "Elmira",
+    "label": "Elmira, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/elmira/",
+  "offices": [
+    {
+      "officeId": 316833,
+      "slug": "elmira-animal-shelter-316833",
+      "name": "Elmira Animal Shelter",
+      "address": "842 Linden Place, Elmira, NY 14901",
+      "phone": "607-737-5767",
+      "image": "./img/shelter/office/316833.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/elmira-animal-shelter-316833/",
+      "imageUrl": "https://cdn.findpawpal.com/office/316833.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 331581,
+      "slug": "chemung-county-humane-society-and-spca-331581",
+      "name": "Chemung County Humane Society & SPCA",
+      "address": "2435 Highway 352, Elmira, NY 14903",
+      "phone": "607-732-1827",
+      "image": "./img/shelter/office/331581.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/chemung-county-humane-society-and-spca-331581/",
+      "imageUrl": "https://cdn.findpawpal.com/office/331581.jpg?f=webp&w=730"
+    }
+  ]
+}

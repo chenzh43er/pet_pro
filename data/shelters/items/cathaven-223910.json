@@ -1,0 +1,21 @@
+{
+  "officeId": 223910,
+  "slug": "cathaven-223910",
+  "name": "Cathaven",
+  "address": "PO Box 86231, Baton Rouge, LA 70879",
+  "street": "PO Box 86231",
+  "addressCity": "Baton Rouge",
+  "stateCode": "LA",
+  "zip": "70879",
+  "phone": "225-346-4238",
+  "image": "./img/shelter/office/223910.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/cathaven-223910/",
+  "stateSlug": "louisiana",
+  "stateName": "Louisiana",
+  "citySlug": "baton-rouge",
+  "cityName": "Baton Rouge",
+  "cityLabel": "Baton Rouge, LA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/louisiana/baton-rouge/",
+  "fetchedAt": "2026-06-27T18:59:07.343309+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/223910.jpg?f=webp&w=730"
+}

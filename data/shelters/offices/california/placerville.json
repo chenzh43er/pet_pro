@@ -1,0 +1,31 @@
+{
+  "fetchedAt": "2026-06-27T18:29:17.756443+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "placerville",
+    "name": "Placerville",
+    "label": "Placerville, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/placerville/",
+  "offices": [
+    {
+      "slug": "safe-passage-362837",
+      "name": "Safe Passage",
+      "address": "2810 Lawyer Drive, Placerville, CA 95667",
+      "phone": "530-344-8049",
+      "image": "https://cdn.findpawpal.com/office/362837.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/safe-passage-362837/"
+    },
+    {
+      "slug": "american-brittany-animal-rescue-362842",
+      "name": "American Brittany Animal Rescue",
+      "address": "1688 Springvale Road, Placerville, CA 95667",
+      "phone": "510-582-2714",
+      "image": "https://cdn.findpawpal.com/office/362842.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/american-brittany-animal-rescue-362842/"
+    }
+  ]
+}

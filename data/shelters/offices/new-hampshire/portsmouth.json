@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:24:32.523417+00:00",
+  "state": {
+    "slug": "new-hampshire",
+    "name": "New Hampshire"
+  },
+  "city": {
+    "slug": "portsmouth",
+    "name": "Portsmouth",
+    "label": "Portsmouth, NH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-hampshire/portsmouth/",
+  "offices": [
+    {
+      "officeId": 44120,
+      "slug": "portsmouth-animal-control-44120",
+      "name": "Portsmouth Animal Control",
+      "address": "3 Junkins Avenue, Portsmouth, NH 03801",
+      "phone": "603-436-8279",
+      "image": "./img/shelter/office/44120.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/portsmouth-animal-control-44120/",
+      "imageUrl": "https://cdn.findpawpal.com/office/44120.jpg?f=webp&w=730"
+    }
+  ]
+}

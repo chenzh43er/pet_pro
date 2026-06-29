@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:22:47.774519+00:00",
+  "state": {
+    "slug": "nebraska",
+    "name": "Nebraska"
+  },
+  "city": {
+    "slug": "north-platte",
+    "name": "North Platte",
+    "label": "North Platte, NE"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nebraska/north-platte/",
+  "offices": [
+    {
+      "officeId": 486135,
+      "slug": "north-platte-animal-shelter-486135",
+      "name": "North Platte Animal Shelter",
+      "address": "1402 North Sycamore Street, North Platte, NE 69101",
+      "phone": "",
+      "image": "./img/shelter/office/486135.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/north-platte-animal-shelter-486135/",
+      "imageUrl": "https://cdn.findpawpal.com/office/486135.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 495274,
+      "slug": "paws-itive-partners-495274",
+      "name": "PAWS-Itive Partners",
+      "address": "PO Box 1145, North Platte, NE 69103",
+      "phone": "308-650-7297",
+      "image": "./img/shelter/office/495274.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/paws-itive-partners-495274/",
+      "imageUrl": "https://cdn.findpawpal.com/office/495274.jpg?f=webp&w=730"
+    }
+  ]
+}

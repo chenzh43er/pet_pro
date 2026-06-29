@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T20:16:19.259644+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "sterling",
+    "name": "Sterling",
+    "label": "Sterling, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/sterling/",
+  "offices": [
+    {
+      "officeId": 578778,
+      "slug": "animal-shelter-578778",
+      "name": "Animal Shelter",
+      "address": "165 Sulgrave Court, Sterling, VA 20165",
+      "phone": "757-456-1354",
+      "image": "https://cdn.findpawpal.com/office/578778.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-shelter-578778/"
+    },
+    {
+      "officeId": 706716,
+      "slug": "dogwood-sheltie-rescue-706716",
+      "name": "Dogwood Sheltie Rescue",
+      "address": "12 Regis Circle, Sterling, VA 20164",
+      "phone": "703-406-8920",
+      "image": "https://cdn.findpawpal.com/office/706716.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/dogwood-sheltie-rescue-706716/"
+    }
+  ]
+}

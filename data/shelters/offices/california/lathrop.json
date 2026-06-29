@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:27:06.867943+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "lathrop",
+    "name": "Lathrop",
+    "label": "Lathrop, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/lathrop/",
+  "offices": [
+    {
+      "slug": "pets-and-pals-animal-shelter-383226",
+      "name": "Pets & Pals Animal Shelter",
+      "address": "12488 Harlan Road, Lathrop, CA 95330",
+      "phone": "209-982-5073",
+      "image": "./img/shelter/office/383226.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pets-and-pals-animal-shelter-383226/",
+      "imageUrl": "https://cdn.findpawpal.com/office/383226.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:53:54.869301+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa"
+  },
+  "city": {
+    "slug": "oskaloosa",
+    "name": "Oskaloosa",
+    "label": "Oskaloosa, IA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/oskaloosa/",
+  "offices": [
+    {
+      "officeId": 352744,
+      "slug": "mahaska-county-humane-society-352744",
+      "name": "Mahaska County Humane Society",
+      "address": "PO Box 404, Oskaloosa, IA 52577",
+      "phone": "",
+      "image": "./img/shelter/office/352744.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mahaska-county-humane-society-352744/",
+      "imageUrl": "https://cdn.findpawpal.com/office/352744.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 415801,
+      "slug": "stephen-memorial-animal-shelter-415801",
+      "name": "Stephen Memorial Animal Shelter",
+      "address": "2299 235th Street, Oskaloosa, IA 52577",
+      "phone": "641-673-3991",
+      "image": "./img/shelter/office/415801.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/stephen-memorial-animal-shelter-415801/",
+      "imageUrl": "https://cdn.findpawpal.com/office/415801.jpg?f=webp&w=730"
+    }
+  ]
+}

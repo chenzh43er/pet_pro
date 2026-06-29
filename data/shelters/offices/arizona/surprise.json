@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:21:03.815191+00:00",
+  "state": {
+    "slug": "arizona",
+    "name": "Arizona"
+  },
+  "city": {
+    "slug": "surprise",
+    "name": "Surprise",
+    "label": "Surprise, AZ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arizona/surprise/",
+  "offices": [
+    {
+      "slug": "where-wolves-rescue-166735",
+      "name": "Where Wolves Rescue",
+      "address": "30040 North 167th Lane, Surprise, AZ 85374",
+      "phone": "623-546-9653",
+      "image": "./img/shelter/office/166735.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/where-wolves-rescue-166735/",
+      "imageUrl": "https://cdn.findpawpal.com/office/166735.jpg?f=webp&w=730"
+    }
+  ]
+}

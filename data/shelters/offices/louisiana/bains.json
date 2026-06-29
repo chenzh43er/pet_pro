@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:59:04.274048+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "bains",
+    "name": "Bains",
+    "label": "Bains, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/bains/",
+  "offices": [
+    {
+      "officeId": 239666,
+      "slug": "james-l-bo-bryant-animal-shelter-and-west-feliciana-animal-humane-society-wfahs-239666",
+      "name": "James L. \"Bo\" Bryant Animal Shelter and West Feliciana Animal Humane Society (WFAHS)",
+      "address": "9946 West Feliciana Parkway, Bains, LA 70775",
+      "phone": "225-635-5801",
+      "image": "./img/shelter/office/239666.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/james-l-bo-bryant-animal-shelter-and-west-feliciana-animal-humane-society-wfahs-239666/",
+      "imageUrl": "https://cdn.findpawpal.com/office/239666.jpg?f=webp&w=730"
+    }
+  ]
+}

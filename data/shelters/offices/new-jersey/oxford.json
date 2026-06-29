@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:28:00.824642+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "oxford",
+    "name": "Oxford",
+    "label": "Oxford, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/oxford/",
+  "offices": [
+    {
+      "officeId": 95329,
+      "slug": "a-mans-best-friend-pet-rescue-95329",
+      "name": "A Man's Best Friend Pet Rescue",
+      "address": "PO Box 92, Oxford, NJ 07863",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/95329.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/a-mans-best-friend-pet-rescue-95329/"
+    }
+  ]
+}

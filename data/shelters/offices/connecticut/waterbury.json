@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T18:37:39.788120+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "waterbury",
+    "name": "Waterbury",
+    "label": "Waterbury, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/waterbury/",
+  "offices": [
+    {
+      "officeId": 147675,
+      "slug": "troche-homeless-cat-refuge-147675",
+      "name": "Troche Homeless Cat Refuge",
+      "address": "PO Box 1364, Waterbury, CT 06721",
+      "phone": "203-565-5936",
+      "image": "https://cdn.findpawpal.com/office/147675.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/troche-homeless-cat-refuge-147675/"
+    },
+    {
+      "officeId": 148296,
+      "slug": "waterbury-dog-pound-148296",
+      "name": "Waterbury Dog Pound",
+      "address": "255 East Main Street, Waterbury, CT 06702",
+      "phone": "203-574-6909",
+      "image": "./img/shelter/office/148296.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/waterbury-dog-pound-148296/",
+      "imageUrl": "https://cdn.findpawpal.com/office/148296.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 156830,
+      "slug": "rose-hope-animal-rescue-and-refuge-inc-156830",
+      "name": "Rose Hope Animal Rescue and Refuge, Inc.",
+      "address": "475 Bank Street, Waterbury, CT 06708",
+      "phone": "203-597-1236",
+      "image": "./img/shelter/office/156830.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rose-hope-animal-rescue-and-refuge-inc-156830/",
+      "imageUrl": "https://cdn.findpawpal.com/office/156830.jpg?f=webp&w=730"
+    }
+  ]
+}

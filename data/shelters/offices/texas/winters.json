@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:10:10.618273+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "winters",
+    "name": "Winters",
+    "label": "Winters, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/winters/",
+  "offices": [
+    {
+      "officeId": 702309,
+      "slug": "winters-animal-control-702309",
+      "name": "Winters Animal Control",
+      "address": "310 South Main Street, Winters, TX 79567",
+      "phone": "325-754-4121",
+      "image": "./img/shelter/office/702309.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/winters-animal-control-702309/",
+      "imageUrl": "https://cdn.findpawpal.com/office/702309.jpg?f=webp&w=730"
+    }
+  ]
+}

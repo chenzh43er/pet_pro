@@ -1,0 +1,59 @@
+{
+  "fetchedAt": "2026-06-27T18:27:58.426407+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "modesto",
+    "name": "Modesto",
+    "label": "Modesto, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/modesto/",
+  "offices": [
+    {
+      "slug": "animals-at-risk-care-sanctuary-361324",
+      "name": "Animals At Risk Care Sanctuary",
+      "address": "PO Box 578763, Modesto, CA 95357",
+      "phone": "209-527-2272",
+      "image": "https://cdn.findpawpal.com/office/361324.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/animals-at-risk-care-sanctuary-361324/"
+    },
+    {
+      "slug": "stanislaus-county-animal-shelter-391329",
+      "name": "Stanislaus County Animal Shelter",
+      "address": "3647 Cornucopia Way, Modesto, CA 95358",
+      "phone": "209-558-7387",
+      "image": "./img/shelter/office/391329.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/stanislaus-county-animal-shelter-391329/",
+      "imageUrl": "https://cdn.findpawpal.com/office/391329.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kindred-canines-dog-rescue-391336",
+      "name": "Kindred Canines Dog Rescue",
+      "address": "2900 Standiford Avenue, Modesto, CA 95350",
+      "phone": "209-450-0227",
+      "image": "./img/shelter/office/391336.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kindred-canines-dog-rescue-391336/",
+      "imageUrl": "https://cdn.findpawpal.com/office/391336.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "modesto-animal-control-539572",
+      "name": "Modesto Animal Control",
+      "address": "4807 Greenleaf Court, Modesto, CA 95356",
+      "phone": "209-545-4639",
+      "image": "./img/shelter/office/539572.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/modesto-animal-control-539572/",
+      "imageUrl": "https://cdn.findpawpal.com/office/539572.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "stanislaus-county-animal-shelter-539578",
+      "name": "Stanislaus County Animal Shelter",
+      "address": "2846 Finch Road, Modesto, CA 95354",
+      "phone": "209-558-7387",
+      "image": "./img/shelter/office/539578.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/stanislaus-county-animal-shelter-539578/",
+      "imageUrl": "https://cdn.findpawpal.com/office/539578.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "fetchedAt": "2026-06-27T19:46:59.480052+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "springfield",
+    "name": "Springfield",
+    "label": "Springfield, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/springfield/",
+  "offices": [
+    {
+      "officeId": 443709,
+      "slug": "ohio-maltese-rescue-443709",
+      "name": "Ohio Maltese Rescue",
+      "address": "PO Box 223, Springfield, OH 45501",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/443709.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/ohio-maltese-rescue-443709/"
+    },
+    {
+      "officeId": 443720,
+      "slug": "one-more-chance-rescue-and-adoption-443720",
+      "name": "One More Chance Rescue and Adoption",
+      "address": "6810 Milton Carlisle Road, Springfield, OH 45504",
+      "phone": "937-216-3647",
+      "image": "./img/shelter/office/443720.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/one-more-chance-rescue-and-adoption-443720/",
+      "imageUrl": "https://cdn.findpawpal.com/office/443720.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 445406,
+      "slug": "clark-county-animal-control-445406",
+      "name": "Clark County Animal Control",
+      "address": "6330 Willow Dale Road, Springfield, OH 45502",
+      "phone": "937-322-1121",
+      "image": "./img/shelter/office/445406.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/clark-county-animal-control-445406/",
+      "imageUrl": "https://cdn.findpawpal.com/office/445406.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 586948,
+      "slug": "humane-society-serving-clark-county-586948",
+      "name": "Humane Society Serving Clark County",
+      "address": "5201 Urbana Road, Springfield, OH 45502",
+      "phone": "937-399-2917",
+      "image": "./img/shelter/office/586948.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-serving-clark-county-586948/",
+      "imageUrl": "https://cdn.findpawpal.com/office/586948.jpg?f=webp&w=730"
+    }
+  ]
+}

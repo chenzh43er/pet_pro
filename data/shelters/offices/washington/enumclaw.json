@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:17:49.114101+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "enumclaw",
+    "name": "Enumclaw",
+    "label": "Enumclaw, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/enumclaw/",
+  "offices": [
+    {
+      "officeId": 611034,
+      "slug": "washington-state-animal-response-team-611034",
+      "name": "Washington State Animal Response Team",
+      "address": "30718 Southeast 358th Street, Enumclaw, WA 98022",
+      "phone": "360-886-7276",
+      "image": "https://cdn.findpawpal.com/office/611034.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/washington-state-animal-response-team-611034/"
+    }
+  ]
+}

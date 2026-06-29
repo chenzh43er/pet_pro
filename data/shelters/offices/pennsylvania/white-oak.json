@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:55:36.552939+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "white-oak",
+    "name": "White Oak",
+    "label": "White Oak, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/white-oak/",
+  "offices": [
+    {
+      "officeId": 429264,
+      "slug": "white-oak-animal-control-429264",
+      "name": "White Oak Animal Control",
+      "address": "2295 Lincoln Way, White Oak, PA 15131",
+      "phone": "412-672-8901",
+      "image": "./img/shelter/office/429264.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/white-oak-animal-control-429264/",
+      "imageUrl": "https://cdn.findpawpal.com/office/429264.jpg?f=webp&w=730"
+    }
+  ]
+}

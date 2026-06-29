@@ -1,0 +1,21 @@
+{
+  "officeId": 168733,
+  "slug": "hemstead-haven-168733",
+  "name": "Hemstead Haven",
+  "address": "99 Pearl Street, Seymour, CT 06483",
+  "street": "99 Pearl Street",
+  "addressCity": "Seymour",
+  "stateCode": "CT",
+  "zip": "06483",
+  "phone": "203-917-5228",
+  "image": "./img/shelter/office/168733.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/hemstead-haven-168733/",
+  "stateSlug": "connecticut",
+  "stateName": "Connecticut",
+  "citySlug": "seymour",
+  "cityName": "Seymour",
+  "cityLabel": "Seymour, CT",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/connecticut/seymour/",
+  "fetchedAt": "2026-06-27T18:37:15.174169+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/168733.jpg?f=webp&w=730"
+}

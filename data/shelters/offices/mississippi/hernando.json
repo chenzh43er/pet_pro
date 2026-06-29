@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:16:29.959593+00:00",
+  "state": {
+    "slug": "mississippi",
+    "name": "Mississippi"
+  },
+  "city": {
+    "slug": "hernando",
+    "name": "Hernando",
+    "label": "Hernando, MS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/mississippi/hernando/",
+  "offices": [
+    {
+      "officeId": 107638,
+      "slug": "debbies-mid-south-brd-rescue-107638",
+      "name": "Debbie's Mid-South Brd Rescue",
+      "address": "6838 Holly Springs Road, Hernando, MS 38632",
+      "phone": "662-233-0107",
+      "image": "./img/shelter/office/107638.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/debbies-mid-south-brd-rescue-107638/",
+      "imageUrl": "https://cdn.findpawpal.com/office/107638.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:56:50.034479+00:00",
+  "state": {
+    "slug": "south-carolina",
+    "name": "South Carolina"
+  },
+  "city": {
+    "slug": "beaufort",
+    "name": "Beaufort",
+    "label": "Beaufort, SC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-carolina/beaufort/",
+  "offices": [
+    {
+      "officeId": 582250,
+      "slug": "true-ethics-for-animals-rescue-sanctuary-582250",
+      "name": "True Ethics for Animals Rescue Sanctuary",
+      "address": "PO Box 531, Beaufort, SC 29901",
+      "phone": "843-643-1889",
+      "image": "./img/shelter/office/582250.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/true-ethics-for-animals-rescue-sanctuary-582250/",
+      "imageUrl": "https://cdn.findpawpal.com/office/582250.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 651622,
+      "slug": "beaufort-humane-association-651622",
+      "name": "Beaufort Humane Association",
+      "address": "PO Box 4326, Beaufort, SC 29903",
+      "phone": "843-525-1211",
+      "image": "./img/shelter/office/651622.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/beaufort-humane-association-651622/",
+      "imageUrl": "https://cdn.findpawpal.com/office/651622.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 653409,
+      "slug": "beaufort-county-animal-shelter-653409",
+      "name": "Beaufort County Animal Shelter",
+      "address": "23 Shelter Church Rd, Beaufort, SC 29906",
+      "phone": "843-846-3904",
+      "image": "./img/shelter/office/653409.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/beaufort-county-animal-shelter-653409/",
+      "imageUrl": "https://cdn.findpawpal.com/office/653409.jpg?f=webp&w=730"
+    }
+  ]
+}

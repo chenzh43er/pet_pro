@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:35:50.262673+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "cheshire",
+    "name": "Cheshire",
+    "label": "Cheshire, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/cheshire/",
+  "offices": [
+    {
+      "officeId": 157464,
+      "slug": "cheshire-animal-shelter-157464",
+      "name": "Cheshire Animal Shelter",
+      "address": "500 Highland Avenue, Cheshire, CT 06410",
+      "phone": "203-271-5594",
+      "image": "./img/shelter/office/157464.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cheshire-animal-shelter-157464/",
+      "imageUrl": "https://cdn.findpawpal.com/office/157464.jpg?f=webp&w=730"
+    }
+  ]
+}

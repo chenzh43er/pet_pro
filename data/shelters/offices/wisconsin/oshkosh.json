@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:23:40.788740+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "oshkosh",
+    "name": "Oshkosh",
+    "label": "Oshkosh, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/oshkosh/",
+  "offices": [
+    {
+      "officeId": 632013,
+      "slug": "oshkosh-animal-shelter-632013",
+      "name": "Oshkosh Animal Shelter",
+      "address": "1925 Shelter Court, Oshkosh, WI 54901",
+      "phone": "920-424-2128",
+      "image": "./img/shelter/office/632013.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/oshkosh-animal-shelter-632013/",
+      "imageUrl": "https://cdn.findpawpal.com/office/632013.jpg?f=webp&w=730"
+    }
+  ]
+}

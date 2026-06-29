@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:59:41.231574+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "franklinton",
+    "name": "Franklinton",
+    "label": "Franklinton, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/franklinton/",
+  "offices": [
+    {
+      "officeId": 277029,
+      "slug": "franklinton-animal-shelter-277029",
+      "name": "Franklinton Animal Shelter",
+      "address": "1637 Desmare Street, Franklinton, LA 70438",
+      "phone": "985-839-5458",
+      "image": "./img/shelter/office/277029.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/franklinton-animal-shelter-277029/",
+      "imageUrl": "https://cdn.findpawpal.com/office/277029.jpg?f=webp&w=730"
+    }
+  ]
+}

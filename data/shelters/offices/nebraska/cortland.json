@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:22:25.450795+00:00",
+  "state": {
+    "slug": "nebraska",
+    "name": "Nebraska"
+  },
+  "city": {
+    "slug": "cortland",
+    "name": "Cortland",
+    "label": "Cortland, NE"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nebraska/cortland/",
+  "offices": [
+    {
+      "officeId": 546891,
+      "slug": "stickneys-toy-breed-rescue-546891",
+      "name": "Stickneys Toy Breed Rescue",
+      "address": "5675 Southwest 42 Road, Cortland, NE 68331",
+      "phone": "402-613-4306",
+      "image": "https://cdn.findpawpal.com/office/546891.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/stickneys-toy-breed-rescue-546891/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:02:28.610315+00:00",
+  "state": {
+    "slug": "maine",
+    "name": "Maine"
+  },
+  "city": {
+    "slug": "van-buren",
+    "name": "Van Buren",
+    "label": "Van Buren, ME"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maine/van-buren/",
+  "offices": [
+    {
+      "officeId": 341558,
+      "slug": "precious-paws-rescue-and-adoption-inc-341558",
+      "name": "Precious Paws Rescue & Adoption, Inc.",
+      "address": "15 Main Street, Van Buren, ME 04785",
+      "phone": "207-868-2828",
+      "image": "./img/shelter/office/341558.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/precious-paws-rescue-and-adoption-inc-341558/",
+      "imageUrl": "https://cdn.findpawpal.com/office/341558.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T18:38:38.901851+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "blairsville",
+    "name": "Blairsville",
+    "label": "Blairsville, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/blairsville/",
+  "offices": [
+    {
+      "officeId": 135405,
+      "slug": "union-county-animal-control-135405",
+      "name": "Union County Animal Control",
+      "address": "41 Hospital Street, Blairsville, GA 30512",
+      "phone": "706-439-6052",
+      "image": "./img/shelter/office/135405.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/union-county-animal-control-135405/",
+      "imageUrl": "https://cdn.findpawpal.com/office/135405.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 145729,
+      "slug": "humane-society-mountain-shelter-145729",
+      "name": "Humane Society Mountain Shelter",
+      "address": "PO Box 1252, Blairsville, GA 30514",
+      "phone": "706-896-6116",
+      "image": "https://cdn.findpawpal.com/office/145729.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-mountain-shelter-145729/"
+    }
+  ]
+}

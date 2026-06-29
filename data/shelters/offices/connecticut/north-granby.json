@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:36:52.204465+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "north-granby",
+    "name": "North Granby",
+    "label": "North Granby, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/north-granby/",
+  "offices": [
+    {
+      "officeId": 158375,
+      "slug": "chesapeake-bay-retriever-relief-and-rescue-158375",
+      "name": "Chesapeake Bay Retriever Relief and Rescue",
+      "address": "PO Box 151, North Granby, CT 06060",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/158375.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/chesapeake-bay-retriever-relief-and-rescue-158375/"
+    }
+  ]
+}

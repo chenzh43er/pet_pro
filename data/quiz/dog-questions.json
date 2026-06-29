@@ -1,0 +1,52 @@
+{
+  "category": "dog",
+  "pageCount": 5,
+  "intro": "Find the perfect name for your furry friend with our Name Generator! Answer a few questions to discover a unique name that reflects your pet's spirit. Say goodbye to naming struggles and hello to a name that fits like a glove. Start generating now!",
+  "questions": [
+    {
+      "page": 1,
+      "title": "1. Choose a gender for your dog.",
+      "options": [
+        { "label": "Boy", "image": "img/quiz/dog/1_1.webp" },
+        { "label": "Girl", "image": "img/quiz/dog/1_2.webp" },
+        { "label": "No preference", "image": "img/quiz/dog/1_3.webp" }
+      ]
+    },
+    {
+      "page": 2,
+      "title": "2. Is this name for a dog or a puppy?",
+      "options": [
+        { "label": "Dog", "image": "img/quiz/dog/2_1.webp" },
+        { "label": "Puppy", "image": "img/quiz/dog/2_2.webp" },
+        { "label": "Any", "image": "img/quiz/dog/2_3.webp" }
+      ]
+    },
+    {
+      "page": 3,
+      "title": "3. What is your dog's favorite activity？",
+      "options": [
+        { "label": "Sleeping on the couch", "image": "img/quiz/dog/3_1.webp" },
+        { "label": "Playing fetch", "image": "img/quiz/dog/3_2.webp" },
+        { "label": "Digging up treasures", "image": "img/quiz/dog/3_3.webp" }
+      ]
+    },
+    {
+      "page": 4,
+      "title": "4. What is your dog's least favorite thing?",
+      "options": [
+        { "label": "Cats", "image": "img/quiz/dog/4_1.webp" },
+        { "label": "Leashes", "image": "img/quiz/dog/4_2.webp" },
+        { "label": "Baths", "image": "img/quiz/dog/4_3.webp" }
+      ]
+    },
+    {
+      "page": 5,
+      "title": "5. What is your dog's favorite food?",
+      "options": [
+        { "label": "Meat", "image": "img/quiz/dog/5_1.webp" },
+        { "label": "Veggies", "image": "img/quiz/dog/5_2.webp" },
+        { "label": "Cheese", "image": "img/quiz/dog/5_3.webp" }
+      ]
+    }
+  ]
+}

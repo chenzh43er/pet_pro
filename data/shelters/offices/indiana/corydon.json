@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:49:44.452783+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "corydon",
+    "name": "Corydon",
+    "label": "Corydon, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/corydon/",
+  "offices": [
+    {
+      "officeId": 201204,
+      "slug": "harrison-county-dept-of-animal-control-201204",
+      "name": "Harrison County Dept of Animal Control",
+      "address": "3132 Hope Ln NW, Corydon, IN 47112",
+      "phone": "812-738-8163",
+      "image": "./img/shelter/office/201204.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/harrison-county-dept-of-animal-control-201204/",
+      "imageUrl": "https://cdn.findpawpal.com/office/201204.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 250156,
+      "slug": "heart-humane-society-inc-250156",
+      "name": "Heart Humane Society, Inc",
+      "address": "PO Box 576, Corydon, IN 47112",
+      "phone": "812-366-3066",
+      "image": "./img/shelter/office/250156.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/heart-humane-society-inc-250156/",
+      "imageUrl": "https://cdn.findpawpal.com/office/250156.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:34:31.095776+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "liberty",
+    "name": "Liberty",
+    "label": "Liberty, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/liberty/",
+  "offices": [
+    {
+      "officeId": 330499,
+      "slug": "liberty-spca-330499",
+      "name": "Liberty SPCA",
+      "address": "98 Dwyer Avenue, Liberty, NY 12754",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/330499.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/liberty-spca-330499/"
+    }
+  ]
+}

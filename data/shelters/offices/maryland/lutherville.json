@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:04:00.578656+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "lutherville",
+    "name": "Lutherville",
+    "label": "Lutherville, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/lutherville/",
+  "offices": [
+    {
+      "officeId": 395562,
+      "slug": "maryland-feline-society-395562",
+      "name": "Maryland Feline Society",
+      "address": "PO Box 144, Lutherville, MD 21094",
+      "phone": "",
+      "image": "./img/shelter/office/395562.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/maryland-feline-society-395562/",
+      "imageUrl": "https://cdn.findpawpal.com/office/395562.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 491534,
+      "slug": "maryland-pet-491534",
+      "name": "Maryland Pet",
+      "address": "504 Surrey Road, Lutherville, MD 21093",
+      "phone": "410-252-9488",
+      "image": "./img/shelter/office/491534.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/maryland-pet-491534/",
+      "imageUrl": "https://cdn.findpawpal.com/office/491534.jpg?f=webp&w=730"
+    }
+  ]
+}

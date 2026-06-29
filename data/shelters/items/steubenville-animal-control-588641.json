@@ -1,0 +1,21 @@
+{
+  "officeId": 588641,
+  "slug": "steubenville-animal-control-588641",
+  "name": "Steubenville Animal Control",
+  "address": "123 South 3rd Street, Steubenville, OH 43952",
+  "street": "123 South 3rd Street",
+  "addressCity": "Steubenville",
+  "stateCode": "OH",
+  "zip": "43952",
+  "phone": "740-283-6002",
+  "image": "./img/shelter/office/588641.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/steubenville-animal-control-588641/",
+  "stateSlug": "ohio",
+  "stateName": "Ohio",
+  "citySlug": "steubenville",
+  "cityName": "Steubenville",
+  "cityLabel": "Steubenville, OH",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/ohio/steubenville/",
+  "fetchedAt": "2026-06-27T19:47:04.014579+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/588641.jpg?f=webp&w=730"
+}

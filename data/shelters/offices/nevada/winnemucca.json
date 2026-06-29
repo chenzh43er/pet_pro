@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:23:37.276788+00:00",
+  "state": {
+    "slug": "nevada",
+    "name": "Nevada"
+  },
+  "city": {
+    "slug": "winnemucca",
+    "name": "Winnemucca",
+    "label": "Winnemucca, NV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nevada/winnemucca/",
+  "offices": [
+    {
+      "officeId": 7004,
+      "slug": "humboldt-county-humane-society-7004",
+      "name": "Humboldt County Humane Society",
+      "address": "4855 West Piper Drive, Winnemucca, NV 89445",
+      "phone": "775-623-5197",
+      "image": "./img/shelter/office/7004.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humboldt-county-humane-society-7004/",
+      "imageUrl": "https://cdn.findpawpal.com/office/7004.jpg?f=webp&w=730"
+    }
+  ]
+}

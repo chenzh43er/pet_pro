@@ -1,0 +1,32 @@
+{
+  "fetchedAt": "2026-06-27T18:19:25.656859+00:00",
+  "state": {
+    "slug": "alaska",
+    "name": "Alaska"
+  },
+  "city": {
+    "slug": "north-pole",
+    "name": "North Pole",
+    "label": "North Pole, AK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alaska/north-pole/",
+  "offices": [
+    {
+      "slug": "north-pole-animal-control-133796",
+      "name": "North Pole Animal Control",
+      "address": "1360 Old Richardson Highway, North Pole, AK 99705",
+      "phone": "907-488-0516",
+      "image": "https://cdn.findpawpal.com/office/133796.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/north-pole-animal-control-133796/"
+    },
+    {
+      "slug": "lost-n-found-pets-and-the-pet-ride-mini-shelter-141123",
+      "name": "Lost-N-Found Pets & The Pet Ride Mini Shelter",
+      "address": "1926 Holmes Road, North Pole, AK 99705",
+      "phone": "907-488-4209",
+      "image": "./img/shelter/office/141123.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lost-n-found-pets-and-the-pet-ride-mini-shelter-141123/",
+      "imageUrl": "https://cdn.findpawpal.com/office/141123.jpg?f=webp&w=730"
+    }
+  ]
+}

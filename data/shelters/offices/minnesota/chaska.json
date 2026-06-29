@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:13:56.436613+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "chaska",
+    "name": "Chaska",
+    "label": "Chaska, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/chaska/",
+  "offices": [
+    {
+      "officeId": 421283,
+      "slug": "carver-scott-humane-society-421283",
+      "name": "Carver Scott Humane Society",
+      "address": "1320 Crystal Lane, Chaska, MN 55318",
+      "phone": "952-368-3553",
+      "image": "./img/shelter/office/421283.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/carver-scott-humane-society-421283/",
+      "imageUrl": "https://cdn.findpawpal.com/office/421283.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 422322,
+      "slug": "chase-animal-control-422322",
+      "name": "Chase Animal Control",
+      "address": "110909 Von Hertzen Circle, Chaska, MN 55318",
+      "phone": "952-368-7297",
+      "image": "./img/shelter/office/422322.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/chase-animal-control-422322/",
+      "imageUrl": "https://cdn.findpawpal.com/office/422322.jpg?f=webp&w=730"
+    }
+  ]
+}

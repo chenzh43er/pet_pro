@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:48:01.980050+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "sadorus",
+    "name": "Sadorus",
+    "label": "Sadorus, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/sadorus/",
+  "offices": [
+    {
+      "officeId": 393023,
+      "slug": "last-resort-animal-rescue-and-sanctuary-393023",
+      "name": "Last Resort Animal Rescue and Sanctuary",
+      "address": "259 County Road 700 North, Sadorus, IL 61872",
+      "phone": "217-359-0791",
+      "image": "./img/shelter/office/393023.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/last-resort-animal-rescue-and-sanctuary-393023/",
+      "imageUrl": "https://cdn.findpawpal.com/office/393023.jpg?f=webp&w=730"
+    }
+  ]
+}

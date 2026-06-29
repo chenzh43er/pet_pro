@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:44:04.050919+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "delaware",
+    "name": "Delaware",
+    "label": "Delaware, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/delaware/",
+  "offices": [
+    {
+      "officeId": 467158,
+      "slug": "delaware-county-dog-warden-467158",
+      "name": "Delaware County Dog Warden",
+      "address": "4781 County Home Road, Delaware, OH 43015",
+      "phone": "740-368-1915",
+      "image": "./img/shelter/office/467158.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/delaware-county-dog-warden-467158/",
+      "imageUrl": "https://cdn.findpawpal.com/office/467158.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 581360,
+      "slug": "humane-society-of-delaware-county-581360",
+      "name": "Humane Society Of Delaware County",
+      "address": "37 Ohio Street, Delaware, OH 43015",
+      "phone": "740-369-7387",
+      "image": "./img/shelter/office/581360.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-delaware-county-581360/",
+      "imageUrl": "https://cdn.findpawpal.com/office/581360.jpg?f=webp&w=730"
+    }
+  ]
+}

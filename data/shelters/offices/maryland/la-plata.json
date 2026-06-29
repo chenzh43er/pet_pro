@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:03:53.136957+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "la-plata",
+    "name": "La Plata",
+    "label": "La Plata, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/la-plata/",
+  "offices": [
+    {
+      "officeId": 376085,
+      "slug": "charles-county-animal-control-376085",
+      "name": "Charles County Animal Control",
+      "address": "10425 Audie Lane, La Plata, MD 20646",
+      "phone": "301-609-3425",
+      "image": "https://cdn.findpawpal.com/office/376085.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/charles-county-animal-control-376085/"
+    }
+  ]
+}

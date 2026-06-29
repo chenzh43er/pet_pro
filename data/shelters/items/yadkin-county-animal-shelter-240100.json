@@ -1,0 +1,21 @@
+{
+  "officeId": 240100,
+  "slug": "yadkin-county-animal-shelter-240100",
+  "name": "Yadkin County Animal Shelter",
+  "address": "1027 Speaks Street, Yadkinville, NC 27055",
+  "street": "1027 Speaks Street",
+  "addressCity": "Yadkinville",
+  "stateCode": "NC",
+  "zip": "27055",
+  "phone": "336-677-2500",
+  "image": "./img/shelter/office/240100.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/yadkin-county-animal-shelter-240100/",
+  "stateSlug": "north-carolina",
+  "stateName": "North Carolina",
+  "citySlug": "yadkinville",
+  "cityName": "Yadkinville",
+  "cityLabel": "Yadkinville, NC",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/north-carolina/yadkinville/",
+  "fetchedAt": "2026-06-27T19:42:10.235652+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/240100.jpg?f=webp&w=730"
+}

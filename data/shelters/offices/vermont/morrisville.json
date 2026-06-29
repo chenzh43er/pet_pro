@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:12:11.864904+00:00",
+  "state": {
+    "slug": "vermont",
+    "name": "Vermont"
+  },
+  "city": {
+    "slug": "morrisville",
+    "name": "Morrisville",
+    "label": "Morrisville, VT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/vermont/morrisville/",
+  "offices": [
+    {
+      "officeId": 704729,
+      "slug": "morrisville-animal-control-704729",
+      "name": "Morrisville Animal Control",
+      "address": "16 Mountain View Meadow Rd, Morrisville, VT 05661",
+      "phone": "802-888-5065",
+      "image": "./img/shelter/office/704729.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/morrisville-animal-control-704729/",
+      "imageUrl": "https://cdn.findpawpal.com/office/704729.jpg?f=webp&w=730"
+    }
+  ]
+}

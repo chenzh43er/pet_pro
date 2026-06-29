@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:24:37.153444+00:00",
+  "state": {
+    "slug": "new-hampshire",
+    "name": "New Hampshire"
+  },
+  "city": {
+    "slug": "rochester",
+    "name": "Rochester",
+    "label": "Rochester, NH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-hampshire/rochester/",
+  "offices": [
+    {
+      "officeId": 43821,
+      "slug": "new-hampshire-doberman-rescue-43821",
+      "name": "New Hampshire Doberman Rescue",
+      "address": "PO Box 1911, Rochester, NH 03866",
+      "phone": "267-457-1329",
+      "image": "./img/shelter/office/43821.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire-doberman-rescue-43821/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43821.jpg?f=webp&w=730"
+    }
+  ]
+}

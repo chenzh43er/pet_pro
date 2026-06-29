@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:54:42.751867+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "rockwood",
+    "name": "Rockwood",
+    "label": "Rockwood, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/rockwood/",
+  "offices": [
+    {
+      "officeId": 474519,
+      "slug": "green-acres-sanctuary-474519",
+      "name": "Green Acres Sanctuary",
+      "address": "Rural Rte 2, Rockwood, PA 15557",
+      "phone": "814-926-4902",
+      "image": "https://cdn.findpawpal.com/office/474519.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/green-acres-sanctuary-474519/"
+    }
+  ]
+}

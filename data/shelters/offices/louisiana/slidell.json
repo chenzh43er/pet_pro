@@ -1,0 +1,53 @@
+{
+  "fetchedAt": "2026-06-27T19:00:43.802855+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "slidell",
+    "name": "Slidell",
+    "label": "Slidell, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/slidell/",
+  "offices": [
+    {
+      "officeId": 223761,
+      "slug": "slidell-community-humane-society-223761",
+      "name": "Slidell Community Humane Society",
+      "address": "PO Box 832, Slidell, LA 70459",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/223761.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/slidell-community-humane-society-223761/"
+    },
+    {
+      "officeId": 224252,
+      "slug": "slidell-animal-shelter-224252",
+      "name": "Slidell Animal Shelter",
+      "address": "2700 Terrace Avenue, Slidell, LA 70458",
+      "phone": "985-646-4267",
+      "image": "./img/shelter/office/224252.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/slidell-animal-shelter-224252/",
+      "imageUrl": "https://cdn.findpawpal.com/office/224252.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 243383,
+      "slug": "ladawg-louisiana-domestic-animal-welfare-group-243383",
+      "name": "Ladawg Louisiana Domestic Animal Welfare Group",
+      "address": "60 Tortoise Street, Slidell, LA 70461",
+      "phone": "985-641-0929",
+      "image": "./img/shelter/office/243383.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ladawg-louisiana-domestic-animal-welfare-group-243383/",
+      "imageUrl": "https://cdn.findpawpal.com/office/243383.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 282009,
+      "slug": "pontchartrain-humane-society-282009",
+      "name": "Pontchartrain Humane Society",
+      "address": "PO Box 5186, Slidell, LA 70469",
+      "phone": "985-699-9040",
+      "image": "https://cdn.findpawpal.com/office/282009.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/pontchartrain-humane-society-282009/"
+    }
+  ]
+}

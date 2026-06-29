@@ -1,0 +1,21 @@
+{
+  "officeId": 104850,
+  "slug": "parsippany-animal-shelter-104850",
+  "name": "Parsippany Animal Shelter",
+  "address": "1069 Parsippany Boulevard, Parsippany, NJ 07054",
+  "street": "1069 Parsippany Boulevard",
+  "addressCity": "Parsippany",
+  "stateCode": "NJ",
+  "zip": "07054",
+  "phone": "973-263-7083",
+  "image": "./img/shelter/office/104850.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/parsippany-animal-shelter-104850/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "parsippany",
+  "cityName": "Parsippany",
+  "cityLabel": "Parsippany, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/parsippany/",
+  "fetchedAt": "2026-06-27T19:28:05.344278+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/104850.jpg?f=webp&w=730"
+}

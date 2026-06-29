@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:11:42.498650+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "menominee",
+    "name": "Menominee",
+    "label": "Menominee, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/menominee/",
+  "offices": [
+    {
+      "officeId": 236910,
+      "slug": "menominee-animal-shelter-236910",
+      "name": "Menominee Animal Shelter",
+      "address": "N184 Haggerson Ct, Menominee, MI 49858",
+      "phone": "906-864-7297",
+      "image": "https://cdn.findpawpal.com/office/236910.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/menominee-animal-shelter-236910/"
+    }
+  ]
+}

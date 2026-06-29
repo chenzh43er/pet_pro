@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:23:34.879647+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "new-lisbon",
+    "name": "New Lisbon",
+    "label": "New Lisbon, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/new-lisbon/",
+  "offices": [
+    {
+      "officeId": 514400,
+      "slug": "animal-haven-inc-514400",
+      "name": "Animal Haven, Inc.",
+      "address": "W6127 32nd St, New Lisbon, WI 53950",
+      "phone": "608-565-7850",
+      "image": "./img/shelter/office/514400.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-haven-inc-514400/",
+      "imageUrl": "https://cdn.findpawpal.com/office/514400.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 632073,
+      "slug": "juneau-county-humane-society-632073",
+      "name": "Juneau County Humane Society",
+      "address": "N8537 State Road 58, New Lisbon, WI 53950",
+      "phone": "608-565-2313",
+      "image": "./img/shelter/office/632073.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/juneau-county-humane-society-632073/",
+      "imageUrl": "https://cdn.findpawpal.com/office/632073.jpg?f=webp&w=730"
+    }
+  ]
+}

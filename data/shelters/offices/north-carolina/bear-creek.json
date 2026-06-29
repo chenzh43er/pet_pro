@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:38:03.941225+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "bear-creek",
+    "name": "Bear Creek",
+    "label": "Bear Creek, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/bear-creek/",
+  "offices": [
+    {
+      "officeId": 256872,
+      "slug": "horse-heaven-farm-256872",
+      "name": "Horse Heaven Farm",
+      "address": "256 Joe Brown Road, Bear Creek, NC 27207",
+      "phone": "919-663-3953",
+      "image": "https://cdn.findpawpal.com/office/256872.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/horse-heaven-farm-256872/"
+    }
+  ]
+}

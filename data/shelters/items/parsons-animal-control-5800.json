@@ -1,0 +1,21 @@
+{
+  "officeId": 5800,
+  "slug": "parsons-animal-control-5800",
+  "name": "Parsons Animal Control",
+  "address": "24050 North 43rd Street, Parsons, KS 67357",
+  "street": "24050 North 43rd Street",
+  "addressCity": "Parsons",
+  "stateCode": "KS",
+  "zip": "67357",
+  "phone": "620-421-0445",
+  "image": "./img/shelter/office/5800.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/parsons-animal-control-5800/",
+  "stateSlug": "kansas",
+  "stateName": "Kansas",
+  "citySlug": "parsons",
+  "cityName": "Parsons",
+  "cityLabel": "Parsons, KS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kansas/parsons/",
+  "fetchedAt": "2026-06-27T18:55:48.367642+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/5800.jpg?f=webp&w=730"
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 648043,
+  "slug": "harrisville-animal-shelter-648043",
+  "name": "Harrisville Animal Shelter",
+  "address": "131 Clear River Drive, Burrillville, RI 02830",
+  "street": "131 Clear River Drive",
+  "addressCity": "Burrillville",
+  "stateCode": "RI",
+  "zip": "02830",
+  "phone": "401-568-9480",
+  "image": "./img/shelter/office/648043.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/harrisville-animal-shelter-648043/",
+  "stateSlug": "rhode-island",
+  "stateName": "Rhode Island",
+  "citySlug": "burrillville",
+  "cityName": "Burrillville",
+  "cityLabel": "Burrillville, RI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/rhode-island/burrillville/",
+  "fetchedAt": "2026-06-27T19:55:52.950228+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/648043.jpg?f=webp&w=730"
+}

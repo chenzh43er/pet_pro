@@ -1,0 +1,21 @@
+{
+  "officeId": 262634,
+  "slug": "second-chance-project-262634",
+  "name": "Second Chance Project",
+  "address": "PO Box 92AB, Santa Fe, NM 87501",
+  "street": "PO Box 92AB",
+  "addressCity": "Santa Fe",
+  "stateCode": "NM",
+  "zip": "87501",
+  "phone": "505-455-1156",
+  "image": "./img/shelter/office/262634.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/second-chance-project-262634/",
+  "stateSlug": "new-mexico",
+  "stateName": "New Mexico",
+  "citySlug": "santa-fe",
+  "cityName": "Santa Fe",
+  "cityLabel": "Santa Fe, NM",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-mexico/santa-fe/",
+  "fetchedAt": "2026-06-27T19:31:04.771830+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/262634.jpg?f=webp&w=730"
+}

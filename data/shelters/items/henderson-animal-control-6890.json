@@ -1,0 +1,21 @@
+{
+  "officeId": 6890,
+  "slug": "henderson-animal-control-6890",
+  "name": "Henderson Animal Control",
+  "address": "240 South Water Street, Henderson, NV 89015",
+  "street": "240 South Water Street",
+  "addressCity": "Henderson",
+  "stateCode": "NV",
+  "zip": "89015",
+  "phone": "702-565-2314",
+  "image": "./img/shelter/office/6890.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/henderson-animal-control-6890/",
+  "stateSlug": "nevada",
+  "stateName": "Nevada",
+  "citySlug": "henderson",
+  "cityName": "Henderson",
+  "cityLabel": "Henderson, NV",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/nevada/henderson/",
+  "fetchedAt": "2026-06-27T19:23:17.678914+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/6890.jpg?f=webp&w=730"
+}

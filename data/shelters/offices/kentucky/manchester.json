@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:57:42.050407+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "manchester",
+    "name": "Manchester",
+    "label": "Manchester, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/manchester/",
+  "offices": [
+    {
+      "officeId": 110743,
+      "slug": "clay-county-animal-shelter-110743",
+      "name": "Clay County Animal Shelter",
+      "address": "304 Sester Hollow Rd, Manchester, KY 40962",
+      "phone": "606-598-2072",
+      "image": "./img/shelter/office/110743.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/clay-county-animal-shelter-110743/",
+      "imageUrl": "https://cdn.findpawpal.com/office/110743.jpg?f=webp&w=730"
+    }
+  ]
+}

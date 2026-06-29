@@ -1,0 +1,21 @@
+{
+  "officeId": 210303,
+  "slug": "st-clair-animal-shelter-210303",
+  "name": "St. Clair Animal Shelter",
+  "address": "1 Paul Parks Drive, St. Clair, MO 63077",
+  "street": "1 Paul Parks Drive",
+  "addressCity": "St. Clair",
+  "stateCode": "MO",
+  "zip": "63077",
+  "phone": "314-629-1313",
+  "image": "./img/shelter/office/210303.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/st-clair-animal-shelter-210303/",
+  "stateSlug": "missouri",
+  "stateName": "Missouri",
+  "citySlug": "st-clair",
+  "cityName": "St. Clair",
+  "cityLabel": "St. Clair, MO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/missouri/st-clair/",
+  "fetchedAt": "2026-06-27T19:20:41.810436+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/210303.jpg?f=webp&w=730"
+}

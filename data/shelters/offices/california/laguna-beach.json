@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:26:56.372820+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "laguna-beach",
+    "name": "Laguna Beach",
+    "label": "Laguna Beach, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/laguna-beach/",
+  "offices": [
+    {
+      "officeId": 360630,
+      "slug": "laguna-beach-animal-shelter-360630",
+      "name": "Laguna Beach Animal Shelter",
+      "address": "20612 Laguna Canyon Road, Laguna Beach, CA 92651",
+      "phone": "949-497-3552",
+      "image": "./img/shelter/office/360630.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/laguna-beach-animal-shelter-360630/",
+      "imageUrl": "https://cdn.findpawpal.com/office/360630.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 667899,
+      "slug": "blue-bell-foundation-for-cats-667899",
+      "name": "Blue Bell Foundation For Cats",
+      "address": "20982 Laguna Canyon Road, Laguna Beach, CA 92651",
+      "phone": "949-494-1586",
+      "image": "./img/shelter/office/667899.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/blue-bell-foundation-for-cats-667899/",
+      "imageUrl": "https://cdn.findpawpal.com/office/667899.jpg?f=webp&w=730"
+    }
+  ]
+}

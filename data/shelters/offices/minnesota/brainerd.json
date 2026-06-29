@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:13:44.213462+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "brainerd",
+    "name": "Brainerd",
+    "label": "Brainerd, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/brainerd/",
+  "offices": [
+    {
+      "officeId": 418821,
+      "slug": "silver-dragon-pets-418821",
+      "name": "Silver Dragon Pets",
+      "address": "1212 Quince Street, Brainerd, MN 56401",
+      "phone": "",
+      "image": "./img/shelter/office/418821.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/silver-dragon-pets-418821/",
+      "imageUrl": "https://cdn.findpawpal.com/office/418821.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 523310,
+      "slug": "heartland-animal-rescue-team-523310",
+      "name": "Heartland Animal Rescue Team",
+      "address": "15494 Dellwood Drive, Brainerd, MN 56401",
+      "phone": "218-829-4141",
+      "image": "./img/shelter/office/523310.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/heartland-animal-rescue-team-523310/",
+      "imageUrl": "https://cdn.findpawpal.com/office/523310.jpg?f=webp&w=730"
+    }
+  ]
+}

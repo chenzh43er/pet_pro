@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:46:00.292519+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "north-canton",
+    "name": "North Canton",
+    "label": "North Canton, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/north-canton/",
+  "offices": [
+    {
+      "officeId": 423411,
+      "slug": "honuchan-animal-sanctuary-inc-423411",
+      "name": "Honuchan Animal Sanctuary, Inc.",
+      "address": "131 55th Street Northwest, North Canton, OH 44720",
+      "phone": "330-494-8993",
+      "image": "./img/shelter/office/423411.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/honuchan-animal-sanctuary-inc-423411/",
+      "imageUrl": "https://cdn.findpawpal.com/office/423411.jpg?f=webp&w=730"
+    }
+  ]
+}

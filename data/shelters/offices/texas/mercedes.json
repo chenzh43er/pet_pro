@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:07:28.923634+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "mercedes",
+    "name": "Mercedes",
+    "label": "Mercedes, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/mercedes/",
+  "offices": [
+    {
+      "officeId": 702338,
+      "slug": "mercedes-animal-control-702338",
+      "name": "Mercedes Animal Control",
+      "address": "105 North Ohio Avenue, Mercedes, TX 78570",
+      "phone": "956-565-9472",
+      "image": "./img/shelter/office/702338.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mercedes-animal-control-702338/",
+      "imageUrl": "https://cdn.findpawpal.com/office/702338.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:23:49.164705+00:00",
+  "state": {
+    "slug": "new-hampshire",
+    "name": "New Hampshire"
+  },
+  "city": {
+    "slug": "candia",
+    "name": "Candia",
+    "label": "Candia, NH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-hampshire/candia/",
+  "offices": [
+    {
+      "officeId": 43838,
+      "slug": "greyhound-placement-service-43838",
+      "name": "Greyhound Placement Service",
+      "address": "12 Donovan Road, Candia, NH 03034",
+      "phone": "",
+      "image": "./img/shelter/office/43838.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhound-placement-service-43838/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43838.jpg?f=webp&w=730"
+    }
+  ]
+}

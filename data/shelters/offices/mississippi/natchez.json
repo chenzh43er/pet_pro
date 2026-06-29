@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:16:49.676691+00:00",
+  "state": {
+    "slug": "mississippi",
+    "name": "Mississippi"
+  },
+  "city": {
+    "slug": "natchez",
+    "name": "Natchez",
+    "label": "Natchez, MS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/mississippi/natchez/",
+  "offices": [
+    {
+      "officeId": 112717,
+      "slug": "natchez-adams-county-humane-society-112717",
+      "name": "Natchez-Adams County Humane Society",
+      "address": "392 Liberty Road, Natchez, MS 39120",
+      "phone": "601-442-4001",
+      "image": "./img/shelter/office/112717.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/natchez-adams-county-humane-society-112717/",
+      "imageUrl": "https://cdn.findpawpal.com/office/112717.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 113551,
+      "slug": "natchez-animal-control-113551",
+      "name": "Natchez Animal Control",
+      "address": "233 Devereaux Drive, Natchez, MS 39120",
+      "phone": "601-442-6452",
+      "image": "./img/shelter/office/113551.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/natchez-animal-control-113551/",
+      "imageUrl": "https://cdn.findpawpal.com/office/113551.jpg?f=webp&w=730"
+    }
+  ]
+}

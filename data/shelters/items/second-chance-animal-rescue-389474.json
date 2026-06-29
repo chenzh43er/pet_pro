@@ -1,0 +1,21 @@
+{
+  "officeId": 389474,
+  "slug": "second-chance-animal-rescue-389474",
+  "name": "Second Chance Animal Rescue",
+  "address": "PO Box 339, San Juan Bautista, CA 95045",
+  "street": "PO Box 339",
+  "addressCity": "San Juan Bautista",
+  "stateCode": "CA",
+  "zip": "95045",
+  "phone": "831-623-2337",
+  "image": "./img/shelter/office/389474.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/second-chance-animal-rescue-389474/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "san-juan-bautista",
+  "cityName": "San Juan Bautista",
+  "cityLabel": "San Juan Bautista, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/san-juan-bautista/",
+  "fetchedAt": "2026-06-27T18:30:18.111217+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/389474.jpg?f=webp&w=730"
+}

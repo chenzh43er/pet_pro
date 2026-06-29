@@ -1,0 +1,21 @@
+{
+  "officeId": 191212,
+  "slug": "tuscola-county-animal-shelter-191212",
+  "name": "Tuscola County Animal Shelter",
+  "address": "2738 West Caro Road, Caro, MI 48723",
+  "street": "2738 West Caro Road",
+  "addressCity": "Caro",
+  "stateCode": "MI",
+  "zip": "48723",
+  "phone": "989-672-3863",
+  "image": "./img/shelter/office/191212.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/tuscola-county-animal-shelter-191212/",
+  "stateSlug": "michigan",
+  "stateName": "Michigan",
+  "citySlug": "caro",
+  "cityName": "Caro",
+  "cityLabel": "Caro, MI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/michigan/caro/",
+  "fetchedAt": "2026-06-27T19:09:48.106491+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/191212.jpg?f=webp&w=730"
+}

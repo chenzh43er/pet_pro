@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:15:41.624622+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "port-royal",
+    "name": "Port Royal",
+    "label": "Port Royal, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/port-royal/",
+  "offices": [
+    {
+      "officeId": 644464,
+      "slug": "humane-society-of-caroline-county-644464",
+      "name": "Humane Society of Caroline County",
+      "address": "PO Box 173, Port Royal, VA 22535",
+      "phone": "",
+      "image": "./img/shelter/office/644464.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-caroline-county-644464/",
+      "imageUrl": "https://cdn.findpawpal.com/office/644464.jpg?f=webp&w=730"
+    }
+  ]
+}

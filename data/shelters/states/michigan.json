@@ -1,0 +1,1630 @@
+{
+  "stateSlug": "michigan",
+  "count": 232,
+  "shelters": [
+    {
+      "slug": "the-animal-inn-226340",
+      "name": "The Animal Inn",
+      "address": "4564 Laberdee Road, Adrian, MI 49221",
+      "phone": "517-423-3800",
+      "image": "https://cdn.findpawpal.com/office/226340.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dog-house-northern-pet-center-206348",
+      "name": "Dog House Northern Pet Center",
+      "address": "4706 Keystone Dr, Alanson, MI 49706",
+      "phone": "616-548-3344",
+      "image": "https://cdn.findpawpal.com/office/206348.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "adopt-a-pet-rescue-203405",
+      "name": "Adopt-A-Pet Rescue",
+      "address": "3537 Lake Ridge Lane, Allegan, MI 49010",
+      "phone": "269-673-5942",
+      "image": "https://cdn.findpawpal.com/office/203405.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "allegan-county-animal-shelter-190625",
+      "name": "Allegan County Animal Shelter",
+      "address": "2283 33rd Street, Allegan, MI 49010",
+      "phone": "269-673-0519",
+      "image": "https://cdn.findpawpal.com/office/190625.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "allen-park-animal-shelter-205238",
+      "name": "Allen Park Animal Shelter",
+      "address": "16850 Southfield Road, Allen Park, MI 48101",
+      "phone": "313-928-4608",
+      "image": "https://cdn.findpawpal.com/office/205238.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "shelter-to-home-inc-189868",
+      "name": "Shelter To Home, Inc.",
+      "address": "PO Box 127, Allen Park, MI 48101",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/189868.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "safe-haven-rescue-and-rehab-191248",
+      "name": "Safe Haven Rescue and Rehab",
+      "address": "505 Geronimo Road, Alpena, MI 49707",
+      "phone": "989-340-0257",
+      "image": "https://cdn.findpawpal.com/office/191248.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "airedale-terrier-rescue-and-adoption-inc-208677",
+      "name": "Airedale Terrier Rescue & Adoption, Inc.",
+      "address": "1123 Vesper Road, Ann Arbor, MI 48103",
+      "phone": "715-526-5961",
+      "image": "https://cdn.findpawpal.com/office/208677.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fido-dog-rescue-of-ann-arbor-205117",
+      "name": "Fido Dog Rescue of Ann Arbor",
+      "address": "PO Box 2860, Ann Arbor, MI 48106",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/205117.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-huron-valley-207288",
+      "name": "Humane Society of Huron Valley",
+      "address": "3100 Cherry Hill Road, Ann Arbor, MI 48105",
+      "phone": "734-662-5585",
+      "image": "https://cdn.findpawpal.com/office/207288.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "elk-country-animal-shelter-235905",
+      "name": "Elk Country Animal Shelter",
+      "address": "11484 Youngs Road, Atlanta, MI 49709",
+      "phone": "989-785-3738",
+      "image": "https://cdn.findpawpal.com/office/235905.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oakland-county-animal-control-228030",
+      "name": "Oakland County Animal Control",
+      "address": "1700 Brown Road, Auburn Hills, MI 48326",
+      "phone": "248-391-4100",
+      "image": "https://cdn.findpawpal.com/office/228030.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lake-county-animal-control-208132",
+      "name": "Lake County Animal Control",
+      "address": "3390 S DOG TRACK Rd, Baldwin, MI 49304",
+      "phone": "231-745-3079",
+      "image": "https://cdn.findpawpal.com/office/208132.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "all-species-kinship-a-s-k-189478",
+      "name": "All Species Kinship A.S.K.",
+      "address": "PO Box 4055, Battle Creek, MI 49016",
+      "phone": "877-596-7776",
+      "image": "https://cdn.findpawpal.com/office/189478.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "battle-creek-animal-shelter-234603",
+      "name": "Battle Creek Animal Shelter",
+      "address": "29 Hoag Street, Battle Creek, MI 49014",
+      "phone": "269-660-8064",
+      "image": "https://cdn.findpawpal.com/office/234603.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "calhoun-county-animal-shelter-209630",
+      "name": "Calhoun County Animal Shelter",
+      "address": "165 Union Street South, Battle Creek, MI 49014",
+      "phone": "269-963-6582",
+      "image": "https://cdn.findpawpal.com/office/209630.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bay-county-animal-control-237356",
+      "name": "Bay County Animal Control",
+      "address": "800 Livingston Street, Bay, MI 48708",
+      "phone": "989-894-0679",
+      "image": "https://cdn.findpawpal.com/office/237356.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "few-steps-from-home-228267",
+      "name": "Few Steps From Home",
+      "address": "932 Huron Avenue, Bay, MI 48706",
+      "phone": "989-671-7331",
+      "image": "https://cdn.findpawpal.com/office/228267.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "few-steps-from-home-animal-rescue-209803",
+      "name": "Few Steps From Home Animal Rescue",
+      "address": "PO Box 1547, Bay, MI 48706",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/209803.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "katy-bishops-animal-friends-209795",
+      "name": "Katy Bishop's Animal Friends",
+      "address": "PO Box 1593, Bay, MI 48706",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/209795.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "antrim-county-animal-shelter-208259",
+      "name": "Antrim County Animal Shelter",
+      "address": "3366 South Derenzy Road, Bellaire, MI 49615",
+      "phone": "231-533-6421",
+      "image": "https://cdn.findpawpal.com/office/208259.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "michigan-state-animal-control-209645",
+      "name": "Michigan State Animal Control",
+      "address": "51299 Arkona Road, Belleville, MI 48111",
+      "phone": "734-461-9458",
+      "image": "https://cdn.findpawpal.com/office/209645.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-buster-foundation-207158",
+      "name": "The Buster Foundation",
+      "address": "41720 Savage Road, Belleville, MI 48111",
+      "phone": "734-697-1564",
+      "image": "https://cdn.findpawpal.com/office/207158.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "benton-harbor-animal-control-209665",
+      "name": "Benton Harbor Animal Control",
+      "address": "134 Eastern Avenue, Benton Harbor, MI 49022",
+      "phone": "269-934-7729",
+      "image": "https://cdn.findpawpal.com/office/209665.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-southwestern-203256",
+      "name": "Humane Society-Southwestern",
+      "address": "641 South Crystal Avenue, Benton Harbor, MI 49022",
+      "phone": "269-927-3303",
+      "image": "https://cdn.findpawpal.com/office/203256.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "michigan-shelters-and-animal-controls-205551",
+      "name": "Michigan Shelters and Animal Controls",
+      "address": "1331 Franklin Road, Berkley, MI 48072",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/205551.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-cat-connection-204938",
+      "name": "The Cat Connection",
+      "address": "PO Box 721215, Berkley, MI 48072",
+      "phone": "248-549-4381",
+      "image": "https://cdn.findpawpal.com/office/204938.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "berrien-county-animal-control-207314",
+      "name": "Berrien County Animal Control",
+      "address": "9204 Huckleberry Road, Berrien Center, MI 49102",
+      "phone": "269-471-7531",
+      "image": "https://cdn.findpawpal.com/office/207314.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "gogebic-county-dog-pound-207167",
+      "name": "Gogebic County Dog Pound",
+      "address": "100 Iron St, Bessemer, MI 49911",
+      "phone": "906-667-0900",
+      "image": "https://cdn.findpawpal.com/office/207167.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "benzie-county-animal-control-228121",
+      "name": "Benzie County Animal Control",
+      "address": "543 S Michigan Ave, Beulah, MI 49617",
+      "phone": "231-882-9505",
+      "image": "https://cdn.findpawpal.com/office/228121.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mecosta-county-animal-shelter-238072",
+      "name": "Mecosta County Animal Shelter",
+      "address": "15990 McKinley Road, Big Rapids, MI 49307",
+      "phone": "231-796-1331",
+      "image": "https://cdn.findpawpal.com/office/238072.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "petsavers-202435",
+      "name": "Petsavers",
+      "address": "1201 South State Street, Big Rapids, MI 49307",
+      "phone": "231-250-2496",
+      "image": "https://cdn.findpawpal.com/office/202435.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "birmingham-animal-control-237433",
+      "name": "Birmingham Animal Control",
+      "address": "851 South Eton Street, Birmingham, MI 48009",
+      "phone": "248-530-1725",
+      "image": "https://cdn.findpawpal.com/office/237433.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "birmingham-dog-pound-189580",
+      "name": "Birmingham Dog Pound",
+      "address": "PO Box 3001, Birmingham, MI 48012",
+      "phone": "248-642-6888",
+      "image": "https://cdn.findpawpal.com/office/189580.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "make-a-difference-rescue-inc-mad-207896",
+      "name": "Make A Difference Rescue Inc.Mad",
+      "address": "PO Box 890, Birmingham, MI 48012",
+      "phone": "248-703-9167",
+      "image": "https://cdn.findpawpal.com/office/207896.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bloomfield-township-animal-welfare-190226",
+      "name": "Bloomfield Township Animal Welfare",
+      "address": "4200 Telegraph Road, Bloomfield Hills, MI 48302",
+      "phone": "248-433-7757",
+      "image": "https://cdn.findpawpal.com/office/190226.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "charlevoix-county-humane-society-225679",
+      "name": "Charlevoix County Humane Society",
+      "address": "614 Beardsley Street, Boyne, MI 49712",
+      "phone": "231-582-6774",
+      "image": "https://cdn.findpawpal.com/office/225679.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ortonville-animal-control-190781",
+      "name": "Ortonville Animal Control",
+      "address": "457 Mill Street, Brandon, MI 48462",
+      "phone": "248-627-4900",
+      "image": "https://cdn.findpawpal.com/office/190781.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "quinnesec-animal-shelter-236682",
+      "name": "Quinnesec Animal Shelter",
+      "address": "5060 Lincoln Avenue, Breitung, MI 49876",
+      "phone": "906-774-1005",
+      "image": "https://cdn.findpawpal.com/office/236682.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brownstown-animal-shelter-208123",
+      "name": "Brownstown Animal Shelter",
+      "address": "23700 Lillian Street, Brownstown, MI 48183",
+      "phone": "734-675-4008",
+      "image": "https://cdn.findpawpal.com/office/208123.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cass-river-pet-friendz-235277",
+      "name": "Cass River Pet Friendz",
+      "address": "PO Box 513, Caro, MI 48723",
+      "phone": "517-672-7387",
+      "image": "https://cdn.findpawpal.com/office/235277.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tuscola-county-animal-shelter-191212",
+      "name": "Tuscola County Animal Shelter",
+      "address": "2738 West Caro Road, Caro, MI 48723",
+      "phone": "989-672-3863",
+      "image": "https://cdn.findpawpal.com/office/191212.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cass-county-animal-control-208093",
+      "name": "Cass County Animal Control",
+      "address": "323 Highway 62, Cassopolis, MI 49031",
+      "phone": "269-445-3701",
+      "image": "https://cdn.findpawpal.com/office/208093.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "center-line-dog-pound-190384",
+      "name": "Center Line Dog Pound",
+      "address": "7550 East 10 Mile Road, Center Line, MI 48015",
+      "phone": "810-757-2206",
+      "image": "https://cdn.findpawpal.com/office/190384.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "st-joseph-county-animal-control-209713",
+      "name": "St Joseph County Animal Control",
+      "address": "652 East Main Street, Centreville, MI 49032",
+      "phone": "269-467-6475",
+      "image": "https://cdn.findpawpal.com/office/209713.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "eaton-county-animal-control-189344",
+      "name": "Eaton County Animal Control",
+      "address": "756 Courthouse Drive, Charlotte, MI 48813",
+      "phone": "517-543-5755",
+      "image": "https://cdn.findpawpal.com/office/189344.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chase-animal-control-209719",
+      "name": "Chase Animal Control",
+      "address": "7932 South Saddler Road, Chase, MI 49623",
+      "phone": "231-679-0489",
+      "image": "https://cdn.findpawpal.com/office/209719.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cheboygan-county-humane-society-206267",
+      "name": "Cheboygan County Humane Society",
+      "address": "1536 Hackleburg Road, Cheboygan, MI 49721",
+      "phone": "231-238-8221",
+      "image": "https://cdn.findpawpal.com/office/206267.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "canine-companion-rescue-center-226102",
+      "name": "Canine Companion Rescue Center",
+      "address": "PO Box 596, Clarkston, MI 48347",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/226102.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clawson-dog-pound-208406",
+      "name": "Clawson Dog Pound",
+      "address": "635 West Elmwood Avenue, Clawson, MI 48017",
+      "phone": "248-435-4500",
+      "image": "https://cdn.findpawpal.com/office/208406.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "macomb-county-animal-shelter-191048",
+      "name": "Macomb County Animal Shelter",
+      "address": "21417 Dunham Road, Clinton, MI 48036",
+      "phone": "586-469-5115",
+      "image": "https://cdn.findpawpal.com/office/191048.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "papadopters-placement-service-236725",
+      "name": "Papadopters Placement Service",
+      "address": "2380 Ethel Drive, Commerce, MI 48390",
+      "phone": "248-660-9382",
+      "image": "https://cdn.findpawpal.com/office/236725.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-fund-206694",
+      "name": "Animal Rescue Fund",
+      "address": "20579 Roys Road, Constantine, MI 49042",
+      "phone": "616-279-6251",
+      "image": "https://cdn.findpawpal.com/office/206694.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "compassion-for-greyhounds-207961",
+      "name": "Compassion for Greyhounds",
+      "address": "PO Box 17, Coopersville, MI 49404",
+      "phone": "616-977-1381",
+      "image": "https://cdn.findpawpal.com/office/207961.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "detroit-animal-control-227943",
+      "name": "Detroit Animal Control",
+      "address": "3511 West Jefferson Avenue, Detroit, MI 48216",
+      "phone": "313-224-7128",
+      "image": "https://cdn.findpawpal.com/office/227943.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "michigan-anti-cruelty-society-205249",
+      "name": "Michigan Anti-Cruelty Society",
+      "address": "13569 Joseph Campau Avenue, Detroit, MI 48212",
+      "phone": "313-891-7188",
+      "image": "https://cdn.findpawpal.com/office/205249.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wishbone-pet-rescue-alliance-236376",
+      "name": "Wishbone Pet Rescue Alliance",
+      "address": "165 Blue Star Highway, Douglas, MI 49406",
+      "phone": "800-475-0776",
+      "image": "https://cdn.findpawpal.com/office/236376.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-service-league-inc-207488",
+      "name": "Animal Service League, Inc.",
+      "address": "PO Box 185, Dowagiac, MI 49047",
+      "phone": "269-782-9252",
+      "image": "https://cdn.findpawpal.com/office/207488.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "for-the-love-of-rotts-the-michigan-connection-190323",
+      "name": "For the Love of Rotts...The Michigan Connection",
+      "address": "4124 South Lake George Road, Dryden, MI 48428",
+      "phone": "810-796-9434",
+      "image": "https://cdn.findpawpal.com/office/190323.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "great-lakes-border-collie-rescue-205349",
+      "name": "Great Lakes Border Collie Rescue",
+      "address": "14541 South Niles Road, Eagle, MI 48822",
+      "phone": "517-627-2900",
+      "image": "https://cdn.findpawpal.com/office/205349.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "eastpointe-police-animal-control-191175",
+      "name": "Eastpointe Police Animal Control",
+      "address": "16083 East 9 Mile Road, Eastpointe, MI 48021",
+      "phone": "586-445-5100",
+      "image": "https://cdn.findpawpal.com/office/191175.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-for-felines-189456",
+      "name": "Friends for Felines",
+      "address": "101 North Center Street, Eaton Rapids, MI 48827",
+      "phone": "517-663-7145",
+      "image": "https://cdn.findpawpal.com/office/189456.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sweet-pigs-guinea-pig-sanctuary-rescue-203262",
+      "name": "Sweet Pigs Guinea Pig Sanctuary Rescue",
+      "address": "7325 Linn Street, Eau Claire, MI 49111",
+      "phone": "269-461-3592",
+      "image": "https://cdn.findpawpal.com/office/203262.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "elkton-animal-shelter-191183",
+      "name": "Elkton Animal Shelter",
+      "address": "2260 South Elkton Road, Elkton, MI 48731",
+      "phone": "989-375-4204",
+      "image": "https://cdn.findpawpal.com/office/191183.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "delta-county-animal-shelter-191193",
+      "name": "Delta County Animal Shelter",
+      "address": "6975 M Road, Escanaba, MI 49829",
+      "phone": "906-789-0230",
+      "image": "https://cdn.findpawpal.com/office/191193.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "backdoor-friends-cat-shoppe-189919",
+      "name": "Backdoor Friends Cat Shoppe",
+      "address": "35562 Grand River Avenue, Farmington, MI 48335",
+      "phone": "248-442-0840",
+      "image": "https://cdn.findpawpal.com/office/189919.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "diamond-springs-boxer-rescue-236368",
+      "name": "Diamond Springs Boxer Rescue",
+      "address": "2525 Blue Star Highway, Fennville, MI 49408",
+      "phone": "616-813-8690",
+      "image": "https://cdn.findpawpal.com/office/236368.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "a-friend-for-life-animal-rescue-and-behavior-center-208808",
+      "name": "A Friend for Life Animal Rescue and Behavior Center",
+      "address": "9480 Longmeadow Drive, Fenton, MI 48430",
+      "phone": "810-623-8217",
+      "image": "https://cdn.findpawpal.com/office/208808.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "adopt-a-pet-inc-190455",
+      "name": "Adopt-A-Pet, Inc.",
+      "address": "300 East Ellen Street, Fenton, MI 48430",
+      "phone": "810-629-0723",
+      "image": "https://cdn.findpawpal.com/office/190455.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ferndale-city-animal-control-191087",
+      "name": "Ferndale City Animal Control",
+      "address": "310 East 9 Mile Road, Ferndale, MI 48220",
+      "phone": "248-546-2394",
+      "image": "https://cdn.findpawpal.com/office/191087.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "michigan-state-animal-control-191117",
+      "name": "Michigan State Animal Control",
+      "address": "518 Ardmore Drive, Ferndale, MI 48220",
+      "phone": "248-545-5055",
+      "image": "https://cdn.findpawpal.com/office/191117.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "flint-animal-control-208085",
+      "name": "Flint Animal Control",
+      "address": "1621 Crescent Drive, Flint, MI 48503",
+      "phone": "810-221-1983",
+      "image": "https://cdn.findpawpal.com/office/208085.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "genesee-county-animal-control-190989",
+      "name": "Genesee County Animal Control",
+      "address": "4351 Pasadena Avenue, Flint, MI 48504",
+      "phone": "810-732-1660",
+      "image": "https://cdn.findpawpal.com/office/190989.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "take-my-paw-rescue-189610",
+      "name": "Take My Paw Rescue",
+      "address": "PO Box 1091, Fowlerville, MI 48836",
+      "phone": "517-545-7512",
+      "image": "https://cdn.findpawpal.com/office/189610.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-angel-adoption-and-rescue-235570",
+      "name": "Pet Angel Adoption & Rescue",
+      "address": "380 List Street, Frankenmuth, MI 48734",
+      "phone": "989-652-0552",
+      "image": "https://cdn.findpawpal.com/office/235570.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-welfare-league-of-benzie-county-189457",
+      "name": "Animal Welfare League of Benzie County",
+      "address": "PO Box 172, Frankfort, MI 49635",
+      "phone": "231-352-4647",
+      "image": "https://cdn.findpawpal.com/office/189457.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "golden-retriever-rescue-of-michigan-189569",
+      "name": "Golden Retriever Rescue of Michigan",
+      "address": "PO Box 250583, Franklin, MI 48025",
+      "phone": "248-988-0154",
+      "image": "https://cdn.findpawpal.com/office/189569.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bellwether-harbor-208296",
+      "name": "Bellwether Harbor",
+      "address": "7645 West 48th Street, Fremont, MI 49412",
+      "phone": "231-924-9230",
+      "image": "https://cdn.findpawpal.com/office/208296.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "otsego-county-animal-shelter-235200",
+      "name": "Otsego County Animal Shelter",
+      "address": "200 West 7th Street, Gaylord, MI 49735",
+      "phone": "989-705-7632",
+      "image": "https://cdn.findpawpal.com/office/235200.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "delta-county-animal-shelter-234706",
+      "name": "Delta County Animal Shelter",
+      "address": "6975 County Road 426, Gladstone, MI 49837",
+      "phone": "906-789-0230",
+      "image": "https://cdn.findpawpal.com/office/234706.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "all-gods-creatures-207608",
+      "name": "All God's Creatures",
+      "address": "3841 West Thendara Drive, Gladwin, MI 48624",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/207608.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "angel-rescue-207637",
+      "name": "Angel Rescue",
+      "address": "919 South River Street, Gladwin, MI 48624",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/207637.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "gladwin-county-animal-shelter-225803",
+      "name": "Gladwin County Animal Shelter",
+      "address": "919 3 Rivers Road, Gladwin, MI 48624",
+      "phone": "989-426-4579",
+      "image": "https://cdn.findpawpal.com/office/225803.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chinchillalove-small-animal-and-exotics-rescue-207424",
+      "name": "Chinchillalove Small Animal and Exotics Rescue",
+      "address": "11010 Hegel Road, Goodrich, MI 48438",
+      "phone": "248-303-2209",
+      "image": "https://cdn.findpawpal.com/office/207424.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "puppy-breath-rescuespecializing-in-pregnant-or-nursing-dogs-190210",
+      "name": "Puppy Breath Rescuespecializing In Pregnant Or Nursing Dogs",
+      "address": "10340 Sleeper Street, Grand Haven, MI 49417",
+      "phone": "616-844-2783",
+      "image": "https://cdn.findpawpal.com/office/190210.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mid-michigan-cat-rescue-204711",
+      "name": "Mid-Michigan Cat Rescue",
+      "address": "1117 Tulip Street, Grand Ledge, MI 48837",
+      "phone": "517-622-4653",
+      "image": "https://cdn.findpawpal.com/office/204711.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "b10-ferrets-inc-190538",
+      "name": "B10 Ferrets, Inc.",
+      "address": "1860 Sandrel Drive Northeast, Grand Rapids, MI 49505",
+      "phone": "616-363-6539",
+      "image": "https://cdn.findpawpal.com/office/190538.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kent-county-animal-shelter-190547",
+      "name": "Kent County Animal Shelter",
+      "address": "740 Fuller Avenue Northeast, Grand Rapids, MI 49503",
+      "phone": "616-632-7300",
+      "image": "https://cdn.findpawpal.com/office/190547.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-shelter-206286",
+      "name": "Animal Shelter",
+      "address": "5786 fairground lane, Grayling, MI 49738",
+      "phone": "989-348-4117",
+      "image": "https://cdn.findpawpal.com/office/206286.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "crawford-county-animal-control-207908",
+      "name": "Crawford County Animal Control",
+      "address": "200 Michigan Avenue, Grayling, MI 49738",
+      "phone": "989-344-3273",
+      "image": "https://cdn.findpawpal.com/office/207908.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paris-animal-control-209057",
+      "name": "Paris Animal Control",
+      "address": "20701 Northland Drive, Green, MI 49338",
+      "phone": "231-796-2221",
+      "image": "https://cdn.findpawpal.com/office/209057.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "grosse-pointe-park-animal-control-191060",
+      "name": "Grosse Pointe Park Animal Control",
+      "address": "15230 Charlevoix Street, Grosse Pointe Park, MI 48230",
+      "phone": "313-884-1551",
+      "image": "https://cdn.findpawpal.com/office/191060.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bouvier-befrienders-of-michigan-206848",
+      "name": "Bouvier Befrienders of Michigan",
+      "address": "633 Sunningdale Drive, Grosse Pointe Woods, MI 48236",
+      "phone": "313-640-8232",
+      "image": "https://cdn.findpawpal.com/office/206848.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lapeers-adoptable-animals-inc-189481",
+      "name": "Lapeer's Adoptable Animals, Inc.",
+      "address": "PO Box 132, Hadley, MI 48440",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/189481.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "harper-woods-animal-control-191065",
+      "name": "Harper Woods Animal Control",
+      "address": "20048 Harper Avenue, Harper Woods, MI 48225",
+      "phone": "313-884-1551",
+      "image": "https://cdn.findpawpal.com/office/191065.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clare-county-animal-shelter-207009",
+      "name": "Clare County Animal Shelter",
+      "address": "4040 Hazel Road, Harrison, MI 48625",
+      "phone": "989-539-3221",
+      "image": "https://cdn.findpawpal.com/office/207009.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "barry-county-humane-society-209786",
+      "name": "Barry County Humane Society",
+      "address": "PO Box 386, Hastings, MI 49058",
+      "phone": "616-948-4885",
+      "image": "https://cdn.findpawpal.com/office/209786.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "furget-us-not-rescue-236142",
+      "name": "Furget Us Not Rescue",
+      "address": "PO Box 1053, Hazel Park, MI 48030",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/236142.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hazel-park-animal-control-191083",
+      "name": "Hazel Park Animal Control",
+      "address": "24211 Couzens Avenue, Hazel Park, MI 48030",
+      "phone": "248-546-4096",
+      "image": "https://cdn.findpawpal.com/office/191083.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "making-miracles-animal-rescue-206639",
+      "name": "Making Miracles Animal Rescue",
+      "address": "PO Box 926, Hazel Park, MI 48030",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/206639.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "michigan-state-animal-control-207971",
+      "name": "Michigan State Animal Control",
+      "address": "3251 Knoll Court, Highland, MI 48356",
+      "phone": "248-798-5843",
+      "image": "https://cdn.findpawpal.com/office/207971.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hillsdale-animal-control-191092",
+      "name": "Hillsdale Animal Control",
+      "address": "165 Fayette Street West, Hillsdale, MI 49242",
+      "phone": "517-437-7317",
+      "image": "https://cdn.findpawpal.com/office/191092.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "a-new-start-on-life-208460",
+      "name": "A New Start On Life",
+      "address": "2478 Ashbourne Drive, Holland, MI 49424",
+      "phone": "616-399-7869",
+      "image": "https://cdn.findpawpal.com/office/208460.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "copper-country-humane-society-717888",
+      "name": "Copper Country Humane Society",
+      "address": "501 Nara Loop, Houghton, MI 49931",
+      "phone": "906-487-9560",
+      "image": "https://cdn.findpawpal.com/office/717888.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "livingston-county-animal-control-203312",
+      "name": "Livingston County Animal Control",
+      "address": "418 South Highlander Way, Howell, MI 48843",
+      "phone": "517-546-2154",
+      "image": "https://cdn.findpawpal.com/office/203312.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ionia-county-animal-shelter-191120",
+      "name": "Ionia County Animal Shelter",
+      "address": "3256 South State Road, Ionia, MI 48846",
+      "phone": "616-527-9040",
+      "image": "https://cdn.findpawpal.com/office/191120.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dickinson-county-humane-society-205172",
+      "name": "Dickinson County Humane Society",
+      "address": "W 84459 Shelter Dr, Iron Mountain, MI 49801",
+      "phone": "906-774-1005",
+      "image": "https://cdn.findpawpal.com/office/205172.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "iron-river-animal-shelter-237824",
+      "name": "Iron River Animal Shelter",
+      "address": "930 Selden Road, Iron River, MI 49935",
+      "phone": "906-265-7387",
+      "image": "https://cdn.findpawpal.com/office/237824.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hope-animal-shelter-203932",
+      "name": "Hope Animal Shelter",
+      "address": "510 Easy Street, Ironwood, MI 49938",
+      "phone": "906-932-1511",
+      "image": "https://cdn.findpawpal.com/office/203932.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "gratiot-humane-society-234843",
+      "name": "Gratiot Humane Society",
+      "address": "2675 W Washington Rd, Ithaca, MI 48847",
+      "phone": "517-875-2221",
+      "image": "https://cdn.findpawpal.com/office/234843.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cascades-humane-society-203205",
+      "name": "Cascades Humane Society",
+      "address": "1515 Carmen Drive, Jackson, MI 49202",
+      "phone": "517-787-7387",
+      "image": "https://cdn.findpawpal.com/office/203205.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jackson-animal-shelter-190222",
+      "name": "Jackson Animal Shelter",
+      "address": "3370 Spring Arbor Road, Jackson, MI 49203",
+      "phone": "517-788-4464",
+      "image": "https://cdn.findpawpal.com/office/190222.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jackson-county-animal-control-191022",
+      "name": "Jackson County Animal Control",
+      "address": "2004 North Blackstone Street, Jackson, MI 49202",
+      "phone": "517-788-4464",
+      "image": "https://cdn.findpawpal.com/office/191022.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-meals-on-wheels-207367",
+      "name": "Animal Meals On Wheels",
+      "address": "3627 Lark Drive, Kalamazoo, MI 49008",
+      "phone": "616-375-8974",
+      "image": "https://cdn.findpawpal.com/office/207367.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-project-190537",
+      "name": "Animal Rescue Project",
+      "address": "219 Peekstok Drive, Kalamazoo, MI 49001",
+      "phone": "269-492-1010",
+      "image": "https://cdn.findpawpal.com/office/190537.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kalamazoo-animal-rescue-190428",
+      "name": "Kalamazoo Animal Rescue",
+      "address": "2918 Business One Drive, Kalamazoo, MI 49048",
+      "phone": "269-226-8570",
+      "image": "https://cdn.findpawpal.com/office/190428.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-resource-network-inc-191124",
+      "name": "Pet Resource Network, Inc",
+      "address": "PO Box 3034, Kalamazoo, MI 49003",
+      "phone": "269-388-2150",
+      "image": "https://cdn.findpawpal.com/office/191124.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spca-of-southwest-michigan-190408",
+      "name": "SPCA of Southwest Michigan",
+      "address": "6955 West Kl Avenue, Kalamazoo, MI 49009",
+      "phone": "269-344-1474",
+      "image": "https://cdn.findpawpal.com/office/190408.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kalkaska-county-animal-control-203114",
+      "name": "Kalkaska County Animal Control",
+      "address": "605 North Birch Street, Kalkaska, MI 49646",
+      "phone": "231-258-3309",
+      "image": "https://cdn.findpawpal.com/office/203114.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-placement-bureau-189436",
+      "name": "Animal Placement Bureau",
+      "address": "PO Box 80146, Lansing, MI 48908",
+      "phone": "517-346-4505",
+      "image": "https://cdn.findpawpal.com/office/189436.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-resource-network-inc-204803",
+      "name": "Animal Resource Network, Inc.",
+      "address": "PO Box 80376, Lansing, MI 48908",
+      "phone": "517-853-8239",
+      "image": "https://cdn.findpawpal.com/office/204803.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "australian-shepherd-rescue-in-michigan-189452",
+      "name": "Australian Shepherd Rescue In Michigan",
+      "address": "223 North Pennsylvania Avenue, Lansing, MI 48912",
+      "phone": "517-484-8099",
+      "image": "https://cdn.findpawpal.com/office/189452.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "capital-area-humane-society-204833",
+      "name": "Capital Area Humane Society",
+      "address": "7095 West Grand River Avenue, Lansing, MI 48906",
+      "phone": "517-626-6060",
+      "image": "https://cdn.findpawpal.com/office/204833.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-ingham-county-animals-202317",
+      "name": "Friends of Ingham County Animals",
+      "address": "PO Box 11115, Lansing, MI 48901",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/202317.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ingham-county-animal-shelter-191040",
+      "name": "Ingham County Animal Shelter",
+      "address": "826 West Saginaw Street, Lansing, MI 48915",
+      "phone": "517-367-0676",
+      "image": "https://cdn.findpawpal.com/office/191040.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-rattitude-235687",
+      "name": "New Rattitude",
+      "address": "PO Box 14064, Lansing, MI 48901",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/235687.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lapeer-county-animal-shelter-190914",
+      "name": "Lapeer County Animal Shelter",
+      "address": "2396 West Genesee Street, Lapeer, MI 48446",
+      "phone": "810-667-0236",
+      "image": "https://cdn.findpawpal.com/office/190914.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "van-buren-county-animal-control-190847",
+      "name": "Van Buren County Animal Control",
+      "address": "58040 County Road 681, Lawrence, MI 49064",
+      "phone": "269-621-4624",
+      "image": "https://cdn.findpawpal.com/office/190847.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lincoln-park-animal-control-227606",
+      "name": "Lincoln Park Animal Control",
+      "address": "500 Southfield Road, Lincoln Park, MI 48146",
+      "phone": "313-381-1800",
+      "image": "https://cdn.findpawpal.com/office/227606.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "great-lakes-ferret-association-208183",
+      "name": "Great Lakes Ferret Association",
+      "address": "11309 Cranston Street, Livonia, MI 48150",
+      "phone": "734-421-0579",
+      "image": "https://cdn.findpawpal.com/office/208183.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greyheart-greyhound-rescue-and-adoption-of-michigan-189854",
+      "name": "Greyheart Greyhound Rescue and Adoption of Michigan",
+      "address": "PO Box 511342, Livonia, MI 48151",
+      "phone": "313-937-0472",
+      "image": "https://cdn.findpawpal.com/office/189854.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "livonia-animal-control-236842",
+      "name": "Livonia Animal Control",
+      "address": "12973 Farmington Road, Livonia, MI 48150",
+      "phone": "734-466-2655",
+      "image": "https://cdn.findpawpal.com/office/236842.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mid-michigan-boxer-rescue-235394",
+      "name": "Mid Michigan Boxer Rescue",
+      "address": "PO Box 51245, Livonia, MI 48151",
+      "phone": "248-253-6827",
+      "image": "https://cdn.findpawpal.com/office/235394.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mason-county-animal-control-237596",
+      "name": "Mason County Animal Control",
+      "address": "305 North Meyers Road, Ludington, MI 49431",
+      "phone": "231-843-8644",
+      "image": "https://cdn.findpawpal.com/office/237596.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "affection-connection-rescue-league-205605",
+      "name": "Affection Connection Rescue League",
+      "address": "49701 Fairchild Road, Macomb, MI 48042",
+      "phone": "586-598-7033",
+      "image": "https://cdn.findpawpal.com/office/205605.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-welfare-society-205328",
+      "name": "Animal Welfare Society",
+      "address": "27796 John R Road, Madison Heights, MI 48071",
+      "phone": "248-548-1150",
+      "image": "https://cdn.findpawpal.com/office/205328.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-madison-heights-animal-shelter-202964",
+      "name": "City of Madison Heights Animal Shelter",
+      "address": "801 Ajax Drive, Madison Heights, MI 48071",
+      "phone": "248-837-2745",
+      "image": "https://cdn.findpawpal.com/office/202964.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "antrim-county-pet-animal-watch-208268",
+      "name": "Antrim County Pet Animal Watch",
+      "address": "PO Box 130, Mancelona, MI 49659",
+      "phone": "616-587-0738",
+      "image": "https://cdn.findpawpal.com/office/208268.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "feline-utopian-rescue-and-refuge-inc-190337",
+      "name": "Feline Utopian Rescue and Refuge, Inc.",
+      "address": "331 Piney Rd, Manistee, MI 49660",
+      "phone": "231-398-0168",
+      "image": "https://cdn.findpawpal.com/office/190337.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "manistee-county-animal-control-237606",
+      "name": "Manistee County Animal Control",
+      "address": "736 Paws Trail, Manistee, MI 49660",
+      "phone": "231-723-3170",
+      "image": "https://cdn.findpawpal.com/office/237606.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "manistique-animal-shelter-206231",
+      "name": "Manistique Animal Shelter",
+      "address": "6091 U.S. Highway 2, Manistique, MI 49854",
+      "phone": "906-341-1000",
+      "image": "https://cdn.findpawpal.com/office/206231.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "frisco-and-joeys-mission-202392",
+      "name": "Frisco and Joey's Mission",
+      "address": "PO Box 256, Maple City, MI 49664",
+      "phone": "231-645-0394",
+      "image": "https://cdn.findpawpal.com/office/202392.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ingham-county-animal-control-and-shelter-207716",
+      "name": "Ingham County Animal Control and Shelter",
+      "address": "600 Curtis Street, Mason, MI 48854",
+      "phone": "517-676-8370",
+      "image": "https://cdn.findpawpal.com/office/207716.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "michigan-weimaraner-rescue-inc-202367",
+      "name": "Michigan Weimaraner Rescue Inc",
+      "address": "2886 Hagadorn Road, Mason, MI 48854",
+      "phone": "517-333-7015",
+      "image": "https://cdn.findpawpal.com/office/202367.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dearborn-animal-shelter-208039",
+      "name": "Dearborn Animal Shelter",
+      "address": "2661 Greenfield Road, Melvindale, MI 48122",
+      "phone": "313-943-2077",
+      "image": "https://cdn.findpawpal.com/office/208039.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-for-the-dearborn-animal-shelter-236384",
+      "name": "Friends For the Dearborn Animal Shelter",
+      "address": "2661 Greenfield Road, Melvindale, MI 48122",
+      "phone": "313-943-2697",
+      "image": "https://cdn.findpawpal.com/office/236384.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "menominee-animal-shelter-236910",
+      "name": "Menominee Animal Shelter",
+      "address": "N184 Haggerson Ct, Menominee, MI 49858",
+      "phone": "906-864-7297",
+      "image": "https://cdn.findpawpal.com/office/236910.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-midland-county-189761",
+      "name": "Humane Society of Midland County",
+      "address": "PO Box 1034, Midland, MI 48641",
+      "phone": "989-948-8804",
+      "image": "https://cdn.findpawpal.com/office/189761.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "midland-county-animal-control-203781",
+      "name": "Midland County Animal Control",
+      "address": "2727 Rodd Street, Midland, MI 48640",
+      "phone": "989-832-6856",
+      "image": "https://cdn.findpawpal.com/office/203781.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mio-animal-control-shelter-190759",
+      "name": "Mio Animal Control Shelter",
+      "address": "1782 Zimowske Road, Mio, MI 48647",
+      "phone": "989-826-5544",
+      "image": "https://cdn.findpawpal.com/office/190759.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alliance-for-spay-neuter-and-pet-rescue-236051",
+      "name": "Alliance for Spay-Neuter & Pet Rescue",
+      "address": "466 Birdie Court, Monroe, MI 48162",
+      "phone": "734-243-1800",
+      "image": "https://cdn.findpawpal.com/office/236051.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "monroe-county-animal-control-190768",
+      "name": "Monroe County Animal Control",
+      "address": "911 South Raisinville Road, Monroe, MI 48161",
+      "phone": "734-240-3125",
+      "image": "https://cdn.findpawpal.com/office/190768.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "german-shorthaired-pointer-rescue-of-michigan-236289",
+      "name": "German Shorthaired Pointer Rescue of Michigan",
+      "address": "13670 North Sheridan Road, Montrose, MI 48457",
+      "phone": "989-770-4480",
+      "image": "https://cdn.findpawpal.com/office/236289.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "michigan-animal-shelter-207862",
+      "name": "Michigan Animal Shelter",
+      "address": "4775 200th Avenue, Morley, MI 49336",
+      "phone": "231-856-4668",
+      "image": "https://cdn.findpawpal.com/office/207862.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mount-morris-animal-control-209323",
+      "name": "Mount Morris Animal Control",
+      "address": "1109 Dunkirk Avenue, Mount Morris, MI 48458",
+      "phone": "810-640-8282",
+      "image": "https://cdn.findpawpal.com/office/209323.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alger-county-animal-shelter-209726",
+      "name": "Alger County Animal Shelter",
+      "address": "510 East Munising Avenue, Munising, MI 49862",
+      "phone": "906-387-4131",
+      "image": "https://cdn.findpawpal.com/office/209726.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "golden-years-alaskan-malamute-202909",
+      "name": "Golden Years Alaskan Malamute",
+      "address": "2430 Lorenson Road, Muskegon, MI 49445",
+      "phone": "231-766-2170",
+      "image": "https://cdn.findpawpal.com/office/202909.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "muskegon-county-animal-control-190908",
+      "name": "Muskegon County Animal Control",
+      "address": "1300 East Keating Avenue, Muskegon, MI 49442",
+      "phone": "231-724-6007",
+      "image": "https://cdn.findpawpal.com/office/190908.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "marquette-county-humane-society-202947",
+      "name": "Marquette County Humane Society",
+      "address": "84 Snowfield Road, Negaunee, MI 49866",
+      "phone": "906-475-6661",
+      "image": "https://cdn.findpawpal.com/office/202947.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lake-haven-rescue-190064",
+      "name": "Lake Haven Rescue",
+      "address": "551 Pickeral Lake Drive, Newaygo, MI 49337",
+      "phone": "231-652-7507",
+      "image": "https://cdn.findpawpal.com/office/190064.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "luce-county-animal-control-206302",
+      "name": "LUCE County Animal Control",
+      "address": "407 West Harrie Street, Newberry, MI 49868",
+      "phone": "906-293-8038",
+      "image": "https://cdn.findpawpal.com/office/206302.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "airedale-rescue-new-beginnings-189969",
+      "name": "Airedale Rescue New Beginnings",
+      "address": "6364 Lake Harbor Road, Norton Shores, MI 49441",
+      "phone": "231-798-4846",
+      "image": "https://cdn.findpawpal.com/office/189969.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oak-park-animal-control-207898",
+      "name": "Oak Park Animal Control",
+      "address": "13700 Oak Park Boulevard, Oak Park, MI 48237",
+      "phone": "248-691-7450",
+      "image": "https://cdn.findpawpal.com/office/207898.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "eaton-county-humane-society-207590",
+      "name": "Eaton County Humane Society",
+      "address": "129 North Main Street, Olivet, MI 49076",
+      "phone": "269-749-9440",
+      "image": "https://cdn.findpawpal.com/office/207590.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greater-hillsdale-humane-soc-190021",
+      "name": "Greater Hillsdale Humane Soc",
+      "address": "3881 Tripp Road, Osseo, MI 49266",
+      "phone": "517-523-2308",
+      "image": "https://cdn.findpawpal.com/office/190021.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "heart-2-heart-kitten-rescue-203213",
+      "name": "Heart 2 Heart Kitten Rescue",
+      "address": "412 East King Street, Owosso, MI 48867",
+      "phone": "989-721-5366",
+      "image": "https://cdn.findpawpal.com/office/203213.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mid-michigan-pit-bull-rescue-207977",
+      "name": "Mid-Michigan Pit Bull Rescue",
+      "address": "PO Box 1793, Owosso, MI 48867",
+      "phone": "989-721-0864",
+      "image": "https://cdn.findpawpal.com/office/207977.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "owosso-animal-control-206031",
+      "name": "Owosso Animal Control",
+      "address": "1251 East Hibbard Road, Owosso, MI 48867",
+      "phone": "989-743-2406",
+      "image": "https://cdn.findpawpal.com/office/206031.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "k-9-stray-rescue-league-190165",
+      "name": "K-9 Stray Rescue League",
+      "address": "2120 Metamora Road, Oxford, MI 48371",
+      "phone": "248-628-0435",
+      "image": "https://cdn.findpawpal.com/office/190165.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "adopt-a-friend-for-life-of-sw-michigan-234691",
+      "name": "Adopt A Friend for Life of Sw Michigan",
+      "address": "PO Box 251, Paw Paw, MI 49079",
+      "phone": "269-488-7297",
+      "image": "https://cdn.findpawpal.com/office/234691.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "great-dane-rescue-inc-206766",
+      "name": "Great Dane Rescue, Inc.",
+      "address": "PO Box 5543, Plymouth, MI 48170",
+      "phone": "734-454-3683",
+      "image": "https://cdn.findpawpal.com/office/206766.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pontiac-animal-control-206050",
+      "name": "Pontiac Animal Control",
+      "address": "1200 North Telegraph Road, Pontiac, MI 48341",
+      "phone": "248-858-0550",
+      "image": "https://cdn.findpawpal.com/office/206050.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "st-clair-county-animal-shelter-209073",
+      "name": "St Clair County Animal Shelter",
+      "address": "3378 Griswold Road, Port Huron, MI 48060",
+      "phone": "810-984-3155",
+      "image": "https://cdn.findpawpal.com/office/209073.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "roscommon-county-animal-control-237428",
+      "name": "Roscommon County Animal Control",
+      "address": "1110 Short Drive, Prudenville, MI 48651",
+      "phone": "989-366-0260",
+      "image": "https://cdn.findpawpal.com/office/237428.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "branch-county-animal-control-237438",
+      "name": "Branch County Animal Control",
+      "address": "168 South Ray Quincy Road, Quincy, MI 49082",
+      "phone": "517-639-3210",
+      "image": "https://cdn.findpawpal.com/office/237438.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "healhy-pets-alive-rescue-adoption-205275",
+      "name": "Healhy Pets Alive Rescue Adoption",
+      "address": "17166 Norborne Street, Redford, MI 48240",
+      "phone": "313-541-5183",
+      "image": "https://cdn.findpawpal.com/office/205275.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "osceola-county-animal-control-190725",
+      "name": "Osceola County Animal Control",
+      "address": "502 Savidge Street, Reed, MI 49677",
+      "phone": "231-832-5790",
+      "image": "https://cdn.findpawpal.com/office/190725.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "aucado-australian-cattle-dog-rescue-189631",
+      "name": "Aucado Australian Cattle Dog Rescue",
+      "address": "3861 12 Mile Road, Remus, MI 49340",
+      "phone": "989-330-5147",
+      "image": "https://cdn.findpawpal.com/office/189631.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "river-rouge-animal-shelter-190626",
+      "name": "River Rouge Animal Shelter",
+      "address": "100 West Pleasant Street, River Rouge, MI 48218",
+      "phone": "313-205-1732",
+      "image": "https://cdn.findpawpal.com/office/190626.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-of-michigan-202699",
+      "name": "PAWS of Michigan",
+      "address": "PO Box 2184, Riverview, MI 48193",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/202699.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fetch-dog-rescue-and-adoption-205470",
+      "name": "Fetch Dog Rescue and Adoption",
+      "address": "780 East Gunn Road, Rochester, MI 48306",
+      "phone": "248-608-4000",
+      "image": "https://cdn.findpawpal.com/office/205470.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescues-189929",
+      "name": "Animal Rescues",
+      "address": "3042 Baypoint Drive, Rochester Hills, MI 48309",
+      "phone": "248-909-1825",
+      "image": "https://cdn.findpawpal.com/office/189929.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "companion-pet-rescue-202502",
+      "name": "Companion Pet Rescue",
+      "address": "PO Box 70631, Rochester Hills, MI 48307",
+      "phone": "248-975-8764",
+      "image": "https://cdn.findpawpal.com/office/202502.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "romulus-animal-shelter-190741",
+      "name": "Romulus Animal Shelter",
+      "address": "12300 Wayne Road, Romulus, MI 48174",
+      "phone": "734-942-7591",
+      "image": "https://cdn.findpawpal.com/office/190741.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "roscommon-county-animal-control-209148",
+      "name": "Roscommon County Animal Control",
+      "address": "685 South Main Street, Roscommon, MI 48653",
+      "phone": "989-275-5630",
+      "image": "https://cdn.findpawpal.com/office/209148.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "boxer-haven-rescue-226662",
+      "name": "Boxer Haven Rescue",
+      "address": "1314 North Altadena Avenue, Royal Oak, MI 48067",
+      "phone": "248-229-4696",
+      "image": "https://cdn.findpawpal.com/office/226662.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "royal-oak-animal-shelter-209158",
+      "name": "Royal Oak Animal Shelter",
+      "address": "1515 North Edgeworth Avenue, Royal Oak, MI 48067",
+      "phone": "248-246-3364",
+      "image": "https://cdn.findpawpal.com/office/209158.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "concern-for-animals-236486",
+      "name": "Concern for Animals",
+      "address": "161 Camelot Drive, Saginaw, MI 48638",
+      "phone": "517-797-4418",
+      "image": "https://cdn.findpawpal.com/office/236486.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pawz-4-life-animal-rescue-207968",
+      "name": "Pawz 4 Life Animal Rescue",
+      "address": "PO Box 20134, Saginaw, MI 48602",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/207968.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "saginaw-county-animal-control-190890",
+      "name": "Saginaw County Animal Control",
+      "address": "1312 Gratiot Avenue, Saginaw, MI 48602",
+      "phone": "989-797-4500",
+      "image": "https://cdn.findpawpal.com/office/190890.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sanilac-county-animal-control-227571",
+      "name": "Sanilac County Animal Control",
+      "address": "35 Campbell Road, Sandusky, MI 48471",
+      "phone": "810-648-4831",
+      "image": "https://cdn.findpawpal.com/office/227571.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chippewa-county-animal-control-208957",
+      "name": "Chippewa County Animal Control",
+      "address": "3660 South Mackinac Trail, Sault Ste. Marie, MI 49783",
+      "phone": "906-632-2519",
+      "image": "https://cdn.findpawpal.com/office/208957.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sault-sainte-animal-control-237271",
+      "name": "Sault Sainte Animal Control",
+      "address": "139 Arlington Street, Sault Ste. Marie, MI 49783",
+      "phone": "906-635-3626",
+      "image": "https://cdn.findpawpal.com/office/237271.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "michigan-animal-crew-205625",
+      "name": "Michigan Animal Crew",
+      "address": "14151 Lakeside Boulevard North, Shelby, MI 48315",
+      "phone": "586-615-3526",
+      "image": "https://cdn.findpawpal.com/office/205625.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oceana-county-animal-shelter-237289",
+      "name": "Oceana County Animal Shelter",
+      "address": "2185 West Baseline Road, Shelby, MI 49455",
+      "phone": "231-861-5395",
+      "image": "https://cdn.findpawpal.com/office/237289.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "al-van-humane-society-205107",
+      "name": "Al-Van Humane Society",
+      "address": "73303 8th Avenue, South Haven, MI 49090",
+      "phone": "269-637-5062",
+      "image": "https://cdn.findpawpal.com/office/205107.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "southfield-city-animal-control-190723",
+      "name": "Southfield City Animal Control",
+      "address": "25503 Clara Lane, Southfield, MI 48034",
+      "phone": "248-796-5410",
+      "image": "https://cdn.findpawpal.com/office/190723.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "downriver-central-animal-control-205218",
+      "name": "Downriver Central Animal Control",
+      "address": "14300 Reaume Parkway, Southgate, MI 48195",
+      "phone": "734-246-1328",
+      "image": "https://cdn.findpawpal.com/office/205218.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "micheles-rescue-190088",
+      "name": "Michele's Rescue",
+      "address": "7238 Harvey Road, Spring Lake, MI 49456",
+      "phone": "231-798-4935",
+      "image": "https://cdn.findpawpal.com/office/190088.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "a-scooters-resq-190162",
+      "name": "A Scooter's Resq",
+      "address": "28018 Vogt Street, St. Clair Shores, MI 48081",
+      "phone": "586-774-4738",
+      "image": "https://cdn.findpawpal.com/office/190162.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "detroit-bulldog-rescue-204873",
+      "name": "Detroit Bulldog Rescue",
+      "address": "PO Box 284, St. Clair Shores, MI 48080",
+      "phone": "313-282-9330",
+      "image": "https://cdn.findpawpal.com/office/204873.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "michigan-cat-rescue-235982",
+      "name": "Michigan Cat Rescue",
+      "address": "PO Box 806371, St. Clair Shores, MI 48080",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/235982.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mackinac-county-animal-control-209176",
+      "name": "Mackinac County Animal Control",
+      "address": "980 Cheeseman Road, St. Ignace, MI 49781",
+      "phone": "906-643-7646",
+      "image": "https://cdn.findpawpal.com/office/209176.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clinton-county-animal-control-190903",
+      "name": "Clinton County Animal Control",
+      "address": "2638 South Williams Road, St. Johns, MI 48879",
+      "phone": "989-224-5116",
+      "image": "https://cdn.findpawpal.com/office/190903.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-aid-of-sw-michigan-225621",
+      "name": "Animal Aid of Sw Michigan",
+      "address": "PO Box 407, St. Joseph, MI 49085",
+      "phone": "616-934-7729",
+      "image": "https://cdn.findpawpal.com/office/225621.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "s-nap-189472",
+      "name": "S-Nap",
+      "address": "114 Michigan Avenue, St. Louis, MI 48880",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/189472.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "montcalm-county-animal-shelter-190729",
+      "name": "Montcalm County Animal Shelter",
+      "address": "155 QUARTERLINE St, Stanton, MI 48888",
+      "phone": "989-831-7355",
+      "image": "https://cdn.findpawpal.com/office/190729.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greyhound-pets-of-america-236228",
+      "name": "Greyhound Pets of America",
+      "address": "25420 Mintdale Road, Sturgis, MI 49091",
+      "phone": "269-651-7395",
+      "image": "https://cdn.findpawpal.com/office/236228.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-rescue-205835",
+      "name": "Paws Rescue",
+      "address": "4114 Seymour Road, Swartz Creek, MI 48473",
+      "phone": "810-247-0356",
+      "image": "https://cdn.findpawpal.com/office/205835.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "iosco-county-animal-shelter-190513",
+      "name": "Iosco County Animal Shelter",
+      "address": "3881 Michigan 55, Tawas, MI 48763",
+      "phone": "989-362-3170",
+      "image": "https://cdn.findpawpal.com/office/190513.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "taylor-animal-shelter-236532",
+      "name": "Taylor Animal Shelter",
+      "address": "25605 Northline Road, Taylor, MI 48180",
+      "phone": "734-374-1354",
+      "image": "https://cdn.findpawpal.com/office/236532.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "three-oaks-animal-control-190637",
+      "name": "Three Oaks Animal Control",
+      "address": "18805 South Schwark Road, Three Oaks, MI 49128",
+      "phone": "269-756-9271",
+      "image": "https://cdn.findpawpal.com/office/190637.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "handds-to-the-rescue-235828",
+      "name": "Handds To the Rescue",
+      "address": "PO Box 1953, Traverse, MI 49685",
+      "phone": "231-409-4833",
+      "image": "https://cdn.findpawpal.com/office/235828.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-205404",
+      "name": "Humane Society",
+      "address": "1750 Ahlberg Road, Traverse, MI 49696",
+      "phone": "231-946-5116",
+      "image": "https://cdn.findpawpal.com/office/205404.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "happy-homes-190175",
+      "name": "Happy Homes",
+      "address": "2164 Lancer Drive, Troy, MI 48084",
+      "phone": "248-703-4339",
+      "image": "https://cdn.findpawpal.com/office/190175.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "troy-animal-control-209010",
+      "name": "Troy Animal Control",
+      "address": "318 John R Road, Troy, MI 48083",
+      "phone": "248-906-8752",
+      "image": "https://cdn.findpawpal.com/office/209010.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "elizabeth-lake-animal-rescue-189716",
+      "name": "Elizabeth Lake Animal Rescue",
+      "address": "PO Box 126, Union Lake, MI 48387",
+      "phone": "248-682-9649",
+      "image": "https://cdn.findpawpal.com/office/189716.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "char-mar-kennels-226904",
+      "name": "Char Mar Kennels",
+      "address": "7021 Greeley Street, Utica, MI 48317",
+      "phone": "586-254-7417",
+      "image": "https://cdn.findpawpal.com/office/226904.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "belleville-animal-control-237373",
+      "name": "Belleville Animal Control",
+      "address": "53 Maple Drive, Van Buren, MI 48111",
+      "phone": "888-228-6073",
+      "image": "https://cdn.findpawpal.com/office/237373.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "out-on-a-limb-cat-rescue-203146",
+      "name": "Out On A Limb Cat Rescue",
+      "address": "28824 Armanda Drive, Warren, MI 48088",
+      "phone": "313-770-9876",
+      "image": "https://cdn.findpawpal.com/office/203146.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "waterford-animal-control-209033",
+      "name": "Waterford Animal Control",
+      "address": "1 Public Works Drive, Waterford, MI 48328",
+      "phone": "248-858-1075",
+      "image": "https://cdn.findpawpal.com/office/209033.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wayne-animal-shelter-227387",
+      "name": "Wayne Animal Shelter",
+      "address": "4000 Biddle Street, Wayne, MI 48184",
+      "phone": "734-721-1643",
+      "image": "https://cdn.findpawpal.com/office/227387.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "delta-area-animal-society-225719",
+      "name": "Delta Area Animal Society",
+      "address": "PO Box 158, Wells, MI 49894",
+      "phone": "906-786-3633",
+      "image": "https://cdn.findpawpal.com/office/225719.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "great-lakes-mastiff-rescue-inc-226149",
+      "name": "Great Lakes Mastiff Rescue, Inc",
+      "address": "PO Box 618, West Branch, MI 48661",
+      "phone": "206-202-3543",
+      "image": "https://cdn.findpawpal.com/office/226149.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "newaygo-county-animal-control-190669",
+      "name": "Newaygo County Animal Control",
+      "address": "300 Williams Street, White Cloud, MI 49349",
+      "phone": "231-689-7020",
+      "image": "https://cdn.findpawpal.com/office/190669.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "great-lakes-rabbit-sanctuary-202659",
+      "name": "Great Lakes Rabbit Sanctuary",
+      "address": "PO Box 7, Whittaker, MI 48190",
+      "phone": "734-461-1726",
+      "image": "https://cdn.findpawpal.com/office/202659.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "4-paws-animal-rescue-189968",
+      "name": "4 Paws Animal Rescue",
+      "address": "PO Box 735, Willis, MI 48191",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/189968.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "critter-connection-rescue-league-204986",
+      "name": "Critter Connection Rescue League",
+      "address": "PO Box 930692, Wixom, MI 48393",
+      "phone": "248-685-1693",
+      "image": "https://cdn.findpawpal.com/office/204986.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "woodhaven-animal-shelter-205913",
+      "name": "Woodhaven Animal Shelter",
+      "address": "21860 Van Horn Road, Woodhaven, MI 48183",
+      "phone": "734-675-4956",
+      "image": "https://cdn.findpawpal.com/office/205913.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wyandotte-animal-shelter-237254",
+      "name": "Wyandotte Animal Shelter",
+      "address": "1170 Grove Street, Wyandotte, MI 48192",
+      "phone": "734-324-4445",
+      "image": "https://cdn.findpawpal.com/office/237254.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "huron-valley-rat-rescue-208669",
+      "name": "Huron Valley Rat Rescue",
+      "address": "8736 Nottingham Drive, Ypsilanti, MI 48198",
+      "phone": "248-761-1722",
+      "image": "https://cdn.findpawpal.com/office/208669.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ypsilanti-animal-control-208928",
+      "name": "Ypsilanti Animal Control",
+      "address": "2020 Roosevelt Street, Ypsilanti, MI 48197",
+      "phone": "734-325-1763",
+      "image": "https://cdn.findpawpal.com/office/208928.jpg?f=webp&w=730"
+    }
+  ]
+}

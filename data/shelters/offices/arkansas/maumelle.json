@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:22:42.404107+00:00",
+  "state": {
+    "slug": "arkansas",
+    "name": "Arkansas"
+  },
+  "city": {
+    "slug": "maumelle",
+    "name": "Maumelle",
+    "label": "Maumelle, AR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arkansas/maumelle/",
+  "offices": [
+    {
+      "slug": "city-of-maumelle-animal-services-326987",
+      "name": "City of Maumelle Animal Services",
+      "address": "425 Hyman Drive, Maumelle, AR 72113",
+      "phone": "501-851-6219",
+      "image": "./img/shelter/office/326987.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/city-of-maumelle-animal-services-326987/",
+      "imageUrl": "https://cdn.findpawpal.com/office/326987.jpg?f=webp&w=730"
+    }
+  ]
+}

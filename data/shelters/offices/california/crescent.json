@@ -1,0 +1,40 @@
+{
+  "fetchedAt": "2026-06-27T18:25:14.667840+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "crescent",
+    "name": "Crescent",
+    "label": "Crescent, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/crescent/",
+  "offices": [
+    {
+      "slug": "wild-feline-rescue-362468",
+      "name": "Wild Feline Rescue",
+      "address": "1279 2nd Street, Crescent, CA 95531",
+      "phone": "707-464-7729",
+      "image": "https://cdn.findpawpal.com/office/362468.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/wild-feline-rescue-362468/"
+    },
+    {
+      "slug": "humane-society-of-del-norte-365171",
+      "name": "Humane Society of Del Norte",
+      "address": "811 Elk Valley Road, Crescent, CA 95531",
+      "phone": "707-464-1686",
+      "image": "https://cdn.findpawpal.com/office/365171.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-del-norte-365171/"
+    },
+    {
+      "slug": "del-norte-county-weights-msrs-389795",
+      "name": "Del Norte County Weights/Msrs",
+      "address": "2650 West Washington Boulevard, Crescent, CA 95531",
+      "phone": "707-464-7235",
+      "image": "./img/shelter/office/389795.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/del-norte-county-weights-msrs-389795/",
+      "imageUrl": "https://cdn.findpawpal.com/office/389795.jpg?f=webp&w=730"
+    }
+  ]
+}

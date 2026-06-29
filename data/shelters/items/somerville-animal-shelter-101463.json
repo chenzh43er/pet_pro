@@ -1,0 +1,21 @@
+{
+  "officeId": 101463,
+  "slug": "somerville-animal-shelter-101463",
+  "name": "Somerville Animal Shelter",
+  "address": "3201 U.s. 22, Somerville, NJ 08876",
+  "street": "3201 U.s. 22",
+  "addressCity": "Somerville",
+  "stateCode": "NJ",
+  "zip": "08876",
+  "phone": "908-526-3330",
+  "image": "./img/shelter/office/101463.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/somerville-animal-shelter-101463/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "somerville",
+  "cityName": "Somerville",
+  "cityLabel": "Somerville, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/somerville/",
+  "fetchedAt": "2026-06-27T19:28:56.182902+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/101463.jpg?f=webp&w=730"
+}

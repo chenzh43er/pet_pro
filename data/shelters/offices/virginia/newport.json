@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:15:28.191280+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "newport",
+    "name": "Newport",
+    "label": "Newport, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/newport/",
+  "offices": [
+    {
+      "officeId": 578855,
+      "slug": "dogs-deserve-better-of-the-new-river-valley-578855",
+      "name": "Dogs Deserve Better of the New River Valley",
+      "address": "528 Blue Grass Trail, Newport, VA 24128",
+      "phone": "540-544-3058",
+      "image": "./img/shelter/office/578855.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dogs-deserve-better-of-the-new-river-valley-578855/",
+      "imageUrl": "https://cdn.findpawpal.com/office/578855.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:19:19.396733+00:00",
+  "state": {
+    "slug": "alaska",
+    "name": "Alaska"
+  },
+  "city": {
+    "slug": "juneau",
+    "name": "Juneau",
+    "label": "Juneau, AK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alaska/juneau/",
+  "offices": [
+    {
+      "slug": "gastineau-humane-society-716644",
+      "name": "Gastineau Humane Society",
+      "address": "7705 Glacier Highway, Juneau, AK 99801",
+      "phone": "907-789-0260",
+      "image": "./img/shelter/office/716644.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gastineau-humane-society-716644/",
+      "imageUrl": "https://cdn.findpawpal.com/office/716644.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 99595,
+  "slug": "maplewood-animal-shelter-99595",
+  "name": "Maplewood Animal Shelter",
+  "address": "574 Valley Street, Maplewood, NJ 07040",
+  "street": "574 Valley Street",
+  "addressCity": "Maplewood",
+  "stateCode": "NJ",
+  "zip": "07040",
+  "phone": "973-762-5000",
+  "image": "./img/shelter/office/99595.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/maplewood-animal-shelter-99595/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "maplewood",
+  "cityName": "Maplewood",
+  "cityLabel": "Maplewood, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/maplewood/",
+  "fetchedAt": "2026-06-27T19:27:21.824750+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/99595.jpg?f=webp&w=730"
+}

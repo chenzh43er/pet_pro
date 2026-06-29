@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:06:07.924557+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "joshua",
+    "name": "Joshua",
+    "label": "Joshua, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/joshua/",
+  "offices": [
+    {
+      "officeId": 540151,
+      "slug": "joshua-city-animal-shelter-540151",
+      "name": "Joshua City Animal Shelter",
+      "address": "100 Santa Fe Street, Joshua, TX 76058",
+      "phone": "817-774-9450",
+      "image": "./img/shelter/office/540151.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/joshua-city-animal-shelter-540151/",
+      "imageUrl": "https://cdn.findpawpal.com/office/540151.jpg?f=webp&w=730"
+    }
+  ]
+}

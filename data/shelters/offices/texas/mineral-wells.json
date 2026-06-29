@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:07:40.787365+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "mineral-wells",
+    "name": "Mineral Wells",
+    "label": "Mineral Wells, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/mineral-wells/",
+  "offices": [
+    {
+      "officeId": 537775,
+      "slug": "mineral-wells-animal-shelter-537775",
+      "name": "Mineral Wells Animal Shelter",
+      "address": "101 Fm 2256, Mineral Wells, TX 76067",
+      "phone": "940-328-1491",
+      "image": "./img/shelter/office/537775.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mineral-wells-animal-shelter-537775/",
+      "imageUrl": "https://cdn.findpawpal.com/office/537775.jpg?f=webp&w=730"
+    }
+  ]
+}

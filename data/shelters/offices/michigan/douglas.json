@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:10:09.300228+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "douglas",
+    "name": "Douglas",
+    "label": "Douglas, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/douglas/",
+  "offices": [
+    {
+      "officeId": 236376,
+      "slug": "wishbone-pet-rescue-alliance-236376",
+      "name": "Wishbone Pet Rescue Alliance",
+      "address": "165 Blue Star Highway, Douglas, MI 49406",
+      "phone": "800-475-0776",
+      "image": "./img/shelter/office/236376.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wishbone-pet-rescue-alliance-236376/",
+      "imageUrl": "https://cdn.findpawpal.com/office/236376.jpg?f=webp&w=730"
+    }
+  ]
+}

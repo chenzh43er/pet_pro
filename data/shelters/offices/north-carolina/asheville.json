@@ -1,0 +1,101 @@
+{
+  "fetchedAt": "2026-06-27T19:38:00.797035+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "asheville",
+    "name": "Asheville",
+    "label": "Asheville, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/asheville/",
+  "offices": [
+    {
+      "officeId": 211561,
+      "slug": "north-carolina-animal-resource-and-education-services-211561",
+      "name": "North Carolina Animal Resource & Education Services",
+      "address": "741 Old Marshall Highway, Asheville, NC 28804",
+      "phone": "828-669-0537",
+      "image": "./img/shelter/office/211561.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina-animal-resource-and-education-services-211561/",
+      "imageUrl": "https://cdn.findpawpal.com/office/211561.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 212369,
+      "slug": "friends-of-a-feather-and-tiny-tiel-aviaries-212369",
+      "name": "Friends of A Feather and Tiny Tiel Aviaries",
+      "address": "PO Box 889, Asheville, NC 28802",
+      "phone": "828-254-0218",
+      "image": "https://cdn.findpawpal.com/office/212369.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-a-feather-and-tiny-tiel-aviaries-212369/"
+    },
+    {
+      "officeId": 212941,
+      "slug": "find-a-pet-society-212941",
+      "name": "Find-A-Pet Society",
+      "address": "PO Box 2532, Asheville, NC 28802",
+      "phone": "828-254-9155",
+      "image": "https://cdn.findpawpal.com/office/212941.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/find-a-pet-society-212941/"
+    },
+    {
+      "officeId": 213270,
+      "slug": "asheville-humane-society-213270",
+      "name": "Asheville Humane Society",
+      "address": "14 Forever Friend Lane, Asheville, NC 28806",
+      "phone": "828-761-2001",
+      "image": "./img/shelter/office/213270.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/asheville-humane-society-213270/",
+      "imageUrl": "https://cdn.findpawpal.com/office/213270.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 214271,
+      "slug": "carolina-animal-action-214271",
+      "name": "Carolina Animal Action",
+      "address": "PO Box 19242, Asheville, NC 28815",
+      "phone": "828-298-4647",
+      "image": "https://cdn.findpawpal.com/office/214271.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/carolina-animal-action-214271/"
+    },
+    {
+      "officeId": 214831,
+      "slug": "animal-compassion-network-214831",
+      "name": "Animal Compassion Network",
+      "address": "803 Fairview Street, Asheville, NC 28803",
+      "phone": "828-274-3647",
+      "image": "./img/shelter/office/214831.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-compassion-network-214831/",
+      "imageUrl": "https://cdn.findpawpal.com/office/214831.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 226164,
+      "slug": "horse-about-inc-226164",
+      "name": "Horse About, Inc.",
+      "address": "64 Velvet Ridge Lane, Asheville, NC 28806",
+      "phone": "828-552-0076",
+      "image": "./img/shelter/office/226164.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/horse-about-inc-226164/",
+      "imageUrl": "https://cdn.findpawpal.com/office/226164.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 228071,
+      "slug": "animal-haven-of-asheville-228071",
+      "name": "Animal Haven of Asheville",
+      "address": "65 Lower Grassy Branch Road, Asheville, NC 28805",
+      "phone": "828-299-1635",
+      "image": "./img/shelter/office/228071.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-haven-of-asheville-228071/",
+      "imageUrl": "https://cdn.findpawpal.com/office/228071.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 242165,
+      "slug": "buncombe-county-animal-shelter-242165",
+      "name": "Buncombe County Animal Shelter",
+      "address": "72 Lees Creek Road, Asheville, NC 28806",
+      "phone": "828-253-6807",
+      "image": "https://cdn.findpawpal.com/office/242165.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/buncombe-county-animal-shelter-242165/"
+    }
+  ]
+}

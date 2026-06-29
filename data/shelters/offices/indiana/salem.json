@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:51:57.686391+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "salem",
+    "name": "Salem",
+    "label": "Salem, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/salem/",
+  "offices": [
+    {
+      "officeId": 241249,
+      "slug": "humane-society-of-washington-241249",
+      "name": "Humane Society of Washington",
+      "address": "204 West Joseph Street, Salem, IN 47167",
+      "phone": "812-883-4204",
+      "image": "./img/shelter/office/241249.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-washington-241249/",
+      "imageUrl": "https://cdn.findpawpal.com/office/241249.jpg?f=webp&w=730"
+    }
+  ]
+}

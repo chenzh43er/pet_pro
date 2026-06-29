@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:09:19.733370+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "slaton",
+    "name": "Slaton",
+    "label": "Slaton, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/slaton/",
+  "offices": [
+    {
+      "officeId": 518967,
+      "slug": "slaton-animal-control-518967",
+      "name": "Slaton Animal Control",
+      "address": "100 East Dickens Street, Slaton, TX 79364",
+      "phone": "806-828-2006",
+      "image": "./img/shelter/office/518967.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/slaton-animal-control-518967/",
+      "imageUrl": "https://cdn.findpawpal.com/office/518967.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 41745,
+  "slug": "norton-animal-shelter-41745",
+  "name": "Norton Animal Shelter",
+  "address": "84 Hill Street, Norton, MA 02766",
+  "street": "84 Hill Street",
+  "addressCity": "Norton",
+  "stateCode": "MA",
+  "zip": "02766",
+  "phone": "508-286-2655",
+  "image": "./img/shelter/office/41745.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/norton-animal-shelter-41745/",
+  "stateSlug": "massachusetts",
+  "stateName": "Massachusetts",
+  "citySlug": "norton",
+  "cityName": "Norton",
+  "cityLabel": "Norton, MA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/massachusetts/norton/",
+  "fetchedAt": "2026-06-27T19:07:43.881298+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/41745.jpg?f=webp&w=730"
+}

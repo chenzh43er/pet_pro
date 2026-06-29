@@ -1,0 +1,144 @@
+{
+  "fetchedAt": "2026-06-27T17:47:25.592529+00:00",
+  "state": {
+    "slug": "alaska",
+    "name": "Alaska",
+    "offices": 32
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alaska/",
+  "cities": [
+    {
+      "slug": "anchorage",
+      "name": "Anchorage",
+      "offices": 9,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alaska/anchorage/"
+    },
+    {
+      "slug": "big-lake",
+      "name": "Big Lake",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alaska/big-lake/"
+    },
+    {
+      "slug": "chugiak",
+      "name": "Chugiak",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alaska/chugiak/"
+    },
+    {
+      "slug": "eagle-river",
+      "name": "Eagle River",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alaska/eagle-river/"
+    },
+    {
+      "slug": "fairbanks",
+      "name": "Fairbanks",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alaska/fairbanks/"
+    },
+    {
+      "slug": "haines",
+      "name": "Haines",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alaska/haines/"
+    },
+    {
+      "slug": "homer",
+      "name": "Homer",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alaska/homer/"
+    },
+    {
+      "slug": "juneau",
+      "name": "Juneau",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alaska/juneau/"
+    },
+    {
+      "slug": "kenai",
+      "name": "Kenai",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alaska/kenai/"
+    },
+    {
+      "slug": "ketchikan",
+      "name": "Ketchikan",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alaska/ketchikan/"
+    },
+    {
+      "slug": "kodiak",
+      "name": "Kodiak",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alaska/kodiak/"
+    },
+    {
+      "slug": "north-pole",
+      "name": "North Pole",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alaska/north-pole/"
+    },
+    {
+      "slug": "palmer",
+      "name": "Palmer",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alaska/palmer/"
+    },
+    {
+      "slug": "seward",
+      "name": "Seward",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alaska/seward/"
+    },
+    {
+      "slug": "soldotna",
+      "name": "Soldotna",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alaska/soldotna/"
+    },
+    {
+      "slug": "sterling",
+      "name": "Sterling",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alaska/sterling/"
+    },
+    {
+      "slug": "two-rivers",
+      "name": "Two Rivers",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alaska/two-rivers/"
+    },
+    {
+      "slug": "valdez",
+      "name": "Valdez",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alaska/valdez/"
+    },
+    {
+      "slug": "wasilla",
+      "name": "Wasilla",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alaska/wasilla/"
+    }
+  ]
+}

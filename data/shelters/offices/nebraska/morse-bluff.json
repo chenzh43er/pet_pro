@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:22:46.297804+00:00",
+  "state": {
+    "slug": "nebraska",
+    "name": "Nebraska"
+  },
+  "city": {
+    "slug": "morse-bluff",
+    "name": "Morse Bluff",
+    "label": "Morse Bluff, NE"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nebraska/morse-bluff/",
+  "offices": [
+    {
+      "officeId": 669833,
+      "slug": "midwest-rottweiler-rescue-669833",
+      "name": "Midwest Rottweiler Rescue",
+      "address": "PO Box 71, Morse Bluff, NE 68648",
+      "phone": "402-666-5679",
+      "image": "./img/shelter/office/669833.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/midwest-rottweiler-rescue-669833/",
+      "imageUrl": "https://cdn.findpawpal.com/office/669833.jpg?f=webp&w=730"
+    }
+  ]
+}

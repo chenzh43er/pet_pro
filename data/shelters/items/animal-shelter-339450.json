@@ -1,0 +1,21 @@
+{
+  "officeId": 339450,
+  "slug": "animal-shelter-339450",
+  "name": "Animal Shelter",
+  "address": "114 Central Avenue Southwest, Albuquerque, NM 87102",
+  "street": "114 Central Avenue Southwest",
+  "addressCity": "Albuquerque",
+  "stateCode": "NM",
+  "zip": "87102",
+  "phone": "505-768-1981",
+  "image": "./img/shelter/office/339450.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/animal-shelter-339450/",
+  "stateSlug": "new-mexico",
+  "stateName": "New Mexico",
+  "citySlug": "albuquerque",
+  "cityName": "Albuquerque",
+  "cityLabel": "Albuquerque, NM",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-mexico/albuquerque/",
+  "fetchedAt": "2026-06-27T19:29:51.404721+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/339450.jpg?f=webp&w=730"
+}

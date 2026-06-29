@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:28:27.297333+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "north-hollywood",
+    "name": "North Hollywood",
+    "label": "North Hollywood, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/north-hollywood/",
+  "offices": [
+    {
+      "slug": "friends-for-animals-360771",
+      "name": "Friends For Animals",
+      "address": "PO Box 5280, North Hollywood, CA 91616",
+      "phone": "818-761-0328",
+      "image": "./img/shelter/office/360771.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-for-animals-360771/",
+      "imageUrl": "https://cdn.findpawpal.com/office/360771.jpg?f=webp&w=730"
+    }
+  ]
+}

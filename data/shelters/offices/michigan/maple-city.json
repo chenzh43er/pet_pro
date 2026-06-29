@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:11:37.994381+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "maple-city",
+    "name": "Maple City",
+    "label": "Maple City, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/maple-city/",
+  "offices": [
+    {
+      "officeId": 202392,
+      "slug": "frisco-and-joeys-mission-202392",
+      "name": "Frisco and Joey's Mission",
+      "address": "PO Box 256, Maple City, MI 49664",
+      "phone": "231-645-0394",
+      "image": "./img/shelter/office/202392.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/frisco-and-joeys-mission-202392/",
+      "imageUrl": "https://cdn.findpawpal.com/office/202392.jpg?f=webp&w=730"
+    }
+  ]
+}

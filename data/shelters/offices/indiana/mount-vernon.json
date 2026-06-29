@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:51:07.943680+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "mount-vernon",
+    "name": "Mount Vernon",
+    "label": "Mount Vernon, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/mount-vernon/",
+  "offices": [
+    {
+      "officeId": 200625,
+      "slug": "pc-pound-puppies-200625",
+      "name": "Pc Pound Puppies",
+      "address": "PO Box 295, Mount Vernon, IN 47620",
+      "phone": "812-483-4341",
+      "image": "./img/shelter/office/200625.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pc-pound-puppies-200625/",
+      "imageUrl": "https://cdn.findpawpal.com/office/200625.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 200634,
+      "slug": "posey-county-humane-society-200634",
+      "name": "Posey County Humane Society",
+      "address": "6500 Leonard Road North, Mount Vernon, IN 47620",
+      "phone": "812-838-3211",
+      "image": "./img/shelter/office/200634.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/posey-county-humane-society-200634/",
+      "imageUrl": "https://cdn.findpawpal.com/office/200634.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 216897,
+      "slug": "mount-vernon-animal-shelter-216897",
+      "name": "Mount Vernon Animal Shelter",
+      "address": "520 Main Street, Mount Vernon, IN 47620",
+      "phone": "812-838-4493",
+      "image": "./img/shelter/office/216897.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mount-vernon-animal-shelter-216897/",
+      "imageUrl": "https://cdn.findpawpal.com/office/216897.jpg?f=webp&w=730"
+    }
+  ]
+}

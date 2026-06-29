@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:35:45.828534+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "burlington",
+    "name": "Burlington",
+    "label": "Burlington, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/burlington/",
+  "offices": [
+    {
+      "officeId": 148382,
+      "slug": "burlington-dog-pound-148382",
+      "name": "Burlington Dog Pound",
+      "address": "200 Spielman Highway, Burlington, CT 06013",
+      "phone": "860-214-5640",
+      "image": "https://cdn.findpawpal.com/office/148382.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/burlington-dog-pound-148382/"
+    },
+    {
+      "officeId": 179313,
+      "slug": "burlington-animal-control-179313",
+      "name": "Burlington Animal Control",
+      "address": "200 Spielman Highway, Burlington, CT 06013",
+      "phone": "860-673-6424",
+      "image": "https://cdn.findpawpal.com/office/179313.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/burlington-animal-control-179313/"
+    }
+  ]
+}

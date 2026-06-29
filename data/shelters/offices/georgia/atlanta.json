@@ -1,0 +1,165 @@
+{
+  "fetchedAt": "2026-06-27T18:38:27.995577+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "atlanta",
+    "name": "Atlanta",
+    "label": "Atlanta, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/atlanta/",
+  "offices": [
+    {
+      "officeId": 133755,
+      "slug": "humane-community-of-america-133755",
+      "name": "Humane Community of America",
+      "address": "PO Box 450715, Atlanta, GA 31145",
+      "phone": "404-325-0181",
+      "image": "./img/shelter/office/133755.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-community-of-america-133755/",
+      "imageUrl": "https://cdn.findpawpal.com/office/133755.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 133789,
+      "slug": "fulton-county-animal-services-133789",
+      "name": "Fulton County Animal Services",
+      "address": "860 Marietta Boulevard Northwest, Atlanta, GA 30318",
+      "phone": "404-613-0358",
+      "image": "./img/shelter/office/133789.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fulton-county-animal-services-133789/",
+      "imageUrl": "https://cdn.findpawpal.com/office/133789.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 134724,
+      "slug": "animal-savers-rescue-134724",
+      "name": "Animal Savers Rescue",
+      "address": "19 Ivy Trail Northeast, Atlanta, GA 30342",
+      "phone": "404-610-4655",
+      "image": "./img/shelter/office/134724.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-savers-rescue-134724/",
+      "imageUrl": "https://cdn.findpawpal.com/office/134724.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 138616,
+      "slug": "fulton-county-spca-138616",
+      "name": "Fulton County SPCA",
+      "address": "875 Rice Street Northwest, Atlanta, GA 30318",
+      "phone": "404-872-2207",
+      "image": "./img/shelter/office/138616.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fulton-county-spca-138616/",
+      "imageUrl": "https://cdn.findpawpal.com/office/138616.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 141010,
+      "slug": "aiding-and-a-petting-141010",
+      "name": "Aiding and A-Petting",
+      "address": "PO Box 191652, Atlanta, GA 31119",
+      "phone": "404-275-8384",
+      "image": "./img/shelter/office/141010.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/aiding-and-a-petting-141010/",
+      "imageUrl": "https://cdn.findpawpal.com/office/141010.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 141039,
+      "slug": "atlanta-animal-rescue-friends-141039",
+      "name": "Atlanta Animal Rescue Friends",
+      "address": "PO Box 5336, Atlanta, GA 31107",
+      "phone": "678-318-1886",
+      "image": "./img/shelter/office/141039.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/atlanta-animal-rescue-friends-141039/",
+      "imageUrl": "https://cdn.findpawpal.com/office/141039.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 142575,
+      "slug": "new-rattitude-rat-terrier-rescue-and-adoption-142575",
+      "name": "New Rattitude Rat Terrier Rescue and Adoption",
+      "address": "PO Box 81462, Atlanta, GA 30366",
+      "phone": "",
+      "image": "./img/shelter/office/142575.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-rattitude-rat-terrier-rescue-and-adoption-142575/",
+      "imageUrl": "https://cdn.findpawpal.com/office/142575.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 145366,
+      "slug": "furkids-animal-rescue-inc-145366",
+      "name": "Furkids Animal Rescue, Inc.",
+      "address": "PO Box 191102, Atlanta, GA 31119",
+      "phone": "404-816-6256",
+      "image": "./img/shelter/office/145366.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/furkids-animal-rescue-inc-145366/",
+      "imageUrl": "https://cdn.findpawpal.com/office/145366.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 146185,
+      "slug": "a-welcome-home-animal-rescue-146185",
+      "name": "A Welcome Home Animal Rescue",
+      "address": "2580 Northeast Expressway Northeast, Atlanta, GA 30345",
+      "phone": "404-329-9006",
+      "image": "./img/shelter/office/146185.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/a-welcome-home-animal-rescue-146185/",
+      "imageUrl": "https://cdn.findpawpal.com/office/146185.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 146555,
+      "slug": "atlanta-humane-society-howell-mill-campus-146555",
+      "name": "Atlanta Humane Society - Howell Mill Campus",
+      "address": "981 Howell Mill Road Northwest, Atlanta, GA 30318",
+      "phone": "404-875-5331",
+      "image": "./img/shelter/office/146555.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/atlanta-humane-society-howell-mill-campus-146555/",
+      "imageUrl": "https://cdn.findpawpal.com/office/146555.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 147396,
+      "slug": "atlanta-pet-rescue-and-adoption-147396",
+      "name": "Atlanta Pet Rescue & Adoption",
+      "address": "20 14th Street Northwest, Atlanta, GA 30309",
+      "phone": "770-351-7377",
+      "image": "./img/shelter/office/147396.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/atlanta-pet-rescue-and-adoption-147396/",
+      "imageUrl": "https://cdn.findpawpal.com/office/147396.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 149957,
+      "slug": "collie-rescue-of-metro-atlanta-149957",
+      "name": "Collie Rescue of Metro-Atlanta",
+      "address": "1524 Cortez Lane Northeast, Atlanta, GA 30319",
+      "phone": "404-633-2337",
+      "image": "./img/shelter/office/149957.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/collie-rescue-of-metro-atlanta-149957/",
+      "imageUrl": "https://cdn.findpawpal.com/office/149957.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 151218,
+      "slug": "furkids-animal-shelter-151218",
+      "name": "Furkids Animal Shelter",
+      "address": "2650 Pleasantdale Rd, Atlanta, GA 30340",
+      "phone": "770-613-0009",
+      "image": "./img/shelter/office/151218.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/furkids-animal-shelter-151218/",
+      "imageUrl": "https://cdn.findpawpal.com/office/151218.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 159230,
+      "slug": "atlanta-beagle-rescue-inc-159230",
+      "name": "Atlanta Beagle Rescue, Inc.",
+      "address": "1619 Jobeth Avenue Southeast, Atlanta, GA 30316",
+      "phone": "404-889-5041",
+      "image": "./img/shelter/office/159230.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/atlanta-beagle-rescue-inc-159230/",
+      "imageUrl": "https://cdn.findpawpal.com/office/159230.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 159245,
+      "slug": "humane-association-of-georgia-159245",
+      "name": "Humane Association of Georgia",
+      "address": "1317 Hearst Drive Northeast, Atlanta, GA 30319",
+      "phone": "404-827-0603",
+      "image": "./img/shelter/office/159245.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-association-of-georgia-159245/",
+      "imageUrl": "https://cdn.findpawpal.com/office/159245.jpg?f=webp&w=730"
+    }
+  ]
+}

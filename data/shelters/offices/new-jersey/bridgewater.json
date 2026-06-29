@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T19:25:18.379711+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "bridgewater",
+    "name": "Bridgewater",
+    "label": "Bridgewater, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/bridgewater/",
+  "offices": [
+    {
+      "officeId": 95337,
+      "slug": "new-jersey-schnauzer-rescue-network-95337",
+      "name": "New Jersey Schnauzer Rescue Network",
+      "address": "131 Oak Street, Bridgewater, NJ 08807",
+      "phone": "908-722-2404",
+      "image": "./img/shelter/office/95337.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-jersey-schnauzer-rescue-network-95337/",
+      "imageUrl": "https://cdn.findpawpal.com/office/95337.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 95367,
+      "slug": "somerset-regional-animal-shelter-95367",
+      "name": "Somerset Regional Animal Shelter",
+      "address": "100 Commons Way, Bridgewater, NJ 08807",
+      "phone": "908-725-0308",
+      "image": "https://cdn.findpawpal.com/office/95367.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/somerset-regional-animal-shelter-95367/"
+    },
+    {
+      "officeId": 104832,
+      "slug": "shetland-sheepdog-placement-of-new-jersey-104832",
+      "name": "Shetland Sheepdog Placement of New Jersey",
+      "address": "370 Union Avenue, Bridgewater, NJ 08807",
+      "phone": "908-704-1241",
+      "image": "./img/shelter/office/104832.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/shetland-sheepdog-placement-of-new-jersey-104832/",
+      "imageUrl": "https://cdn.findpawpal.com/office/104832.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:06:59.340083+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "livingston",
+    "name": "Livingston",
+    "label": "Livingston, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/livingston/",
+  "offices": [
+    {
+      "officeId": 493566,
+      "slug": "polk-county-humane-society-493566",
+      "name": "Polk County Humane Society",
+      "address": "PO Box 657, Livingston, TX 77351",
+      "phone": "",
+      "image": "./img/shelter/office/493566.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/polk-county-humane-society-493566/",
+      "imageUrl": "https://cdn.findpawpal.com/office/493566.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 635372,
+      "slug": "spca-of-polk-county-635372",
+      "name": "SPCA of Polk County",
+      "address": "802 South Houston Avenue, Livingston, TX 77351",
+      "phone": "936-327-7722",
+      "image": "./img/shelter/office/635372.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/spca-of-polk-county-635372/",
+      "imageUrl": "https://cdn.findpawpal.com/office/635372.jpg?f=webp&w=730"
+    }
+  ]
+}

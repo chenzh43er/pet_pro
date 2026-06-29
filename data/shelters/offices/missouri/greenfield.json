@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:18:55.029669+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "greenfield",
+    "name": "Greenfield",
+    "label": "Greenfield, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/greenfield/",
+  "offices": [
+    {
+      "officeId": 240780,
+      "slug": "greenfield-animal-control-240780",
+      "name": "Greenfield Animal Control",
+      "address": "115 South Main Street, Greenfield, MO 65661",
+      "phone": "417-637-2532",
+      "image": "./img/shelter/office/240780.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greenfield-animal-control-240780/",
+      "imageUrl": "https://cdn.findpawpal.com/office/240780.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:54:05.113019+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "new-hope",
+    "name": "New Hope",
+    "label": "New Hope, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/new-hope/",
+  "offices": [
+    {
+      "officeId": 589228,
+      "slug": "make-peace-with-animals-inc-589228",
+      "name": "Make Peace With Animals, Inc.",
+      "address": "PO Box 488, New Hope, PA 18938",
+      "phone": "215-862-0605",
+      "image": "./img/shelter/office/589228.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/make-peace-with-animals-inc-589228/",
+      "imageUrl": "https://cdn.findpawpal.com/office/589228.jpg?f=webp&w=730"
+    }
+  ]
+}

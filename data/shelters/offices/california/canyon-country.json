@@ -1,0 +1,31 @@
+{
+  "fetchedAt": "2026-06-27T18:24:39.966550+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "canyon-country",
+    "name": "Canyon Country",
+    "label": "Canyon Country, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/canyon-country/",
+  "offices": [
+    {
+      "slug": "jin-sohl-jindo-dog-rescue-360900",
+      "name": "Jin-Sohl Jindo Dog Rescue",
+      "address": "PO Box 1364, Canyon Country, CA 91386",
+      "phone": "858-837-1828",
+      "image": "https://cdn.findpawpal.com/office/360900.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/jin-sohl-jindo-dog-rescue-360900/"
+    },
+    {
+      "slug": "boones-farm-667795",
+      "name": "Boone's Farm",
+      "address": "PO Box 2178, Canyon Country, CA 91386",
+      "phone": "661-251-5695",
+      "image": "https://cdn.findpawpal.com/office/667795.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/boones-farm-667795/"
+    }
+  ]
+}

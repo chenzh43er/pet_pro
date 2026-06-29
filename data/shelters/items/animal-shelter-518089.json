@@ -1,0 +1,21 @@
+{
+  "officeId": 518089,
+  "slug": "animal-shelter-518089",
+  "name": "Animal Shelter",
+  "address": "515 East Fife Avenue, Sapulpa, OK 74066",
+  "street": "515 East Fife Avenue",
+  "addressCity": "Sapulpa",
+  "stateCode": "OK",
+  "zip": "74066",
+  "phone": "918-227-2722",
+  "image": "./img/shelter/office/518089.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/animal-shelter-518089/",
+  "stateSlug": "oklahoma",
+  "stateName": "Oklahoma",
+  "citySlug": "sapulpa",
+  "cityName": "Sapulpa",
+  "cityLabel": "Sapulpa, OK",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/oklahoma/sapulpa/",
+  "fetchedAt": "2026-06-27T19:49:31.315836+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/518089.jpg?f=webp&w=730"
+}

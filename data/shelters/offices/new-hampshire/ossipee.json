@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:24:29.497445+00:00",
+  "state": {
+    "slug": "new-hampshire",
+    "name": "New Hampshire"
+  },
+  "city": {
+    "slug": "ossipee",
+    "name": "Ossipee",
+    "label": "Ossipee, NH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-hampshire/ossipee/",
+  "offices": [
+    {
+      "officeId": 44227,
+      "slug": "lakes-region-humane-society-44227",
+      "name": "Lakes Region Humane Society",
+      "address": "11 Old Route 28, Ossipee, NH 03864",
+      "phone": "603-539-1077",
+      "image": "./img/shelter/office/44227.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lakes-region-humane-society-44227/",
+      "imageUrl": "https://cdn.findpawpal.com/office/44227.jpg?f=webp&w=730"
+    }
+  ]
+}

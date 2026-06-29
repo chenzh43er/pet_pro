@@ -1,0 +1,21 @@
+{
+  "officeId": 268565,
+  "slug": "cat-depot-268565",
+  "name": "Cat Depot",
+  "address": "2542 17th Street, Sarasota, FL 34234",
+  "street": "2542 17th Street",
+  "addressCity": "Sarasota",
+  "stateCode": "FL",
+  "zip": "34234",
+  "phone": "941-366-2404",
+  "image": "./img/shelter/office/268565.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/cat-depot-268565/",
+  "stateSlug": "florida",
+  "stateName": "Florida",
+  "citySlug": "sarasota",
+  "cityName": "Sarasota",
+  "cityLabel": "Sarasota, FL",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/florida/sarasota/",
+  "fetchedAt": "2026-06-27T18:17:04.492507+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/268565.jpg?f=webp&w=730"
+}

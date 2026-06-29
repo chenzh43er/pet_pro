@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:34:27.246563+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "gunnison",
+    "name": "Gunnison",
+    "label": "Gunnison, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/gunnison/",
+  "offices": [
+    {
+      "officeId": 40158,
+      "slug": "gunnison-valley-animal-welfare-league-gvawl-40158",
+      "name": "Gunnison Valley Animal Welfare League (GVAWL)",
+      "address": "98 Basin Park Drive, Gunnison, CO 81230",
+      "phone": "970-641-1173",
+      "image": "./img/shelter/office/40158.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gunnison-valley-animal-welfare-league-gvawl-40158/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40158.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40345,
+      "slug": "gunnison-neighborhood-sevices-40345",
+      "name": "Gunnison Neighborhood Sevices",
+      "address": "1100 West Virginia Avenue, Gunnison, CO 81230",
+      "phone": "970-641-8242",
+      "image": "./img/shelter/office/40345.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gunnison-neighborhood-sevices-40345/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40345.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "fetchedAt": "2026-06-27T18:30:24.459056+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "san-martin",
+    "name": "San Martin",
+    "label": "San Martin, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/san-martin/",
+  "offices": [
+    {
+      "slug": "santa-clara-county-animal-shelter-391002",
+      "name": "Santa Clara County Animal Shelter",
+      "address": "12370 Murphy Avenue, San Martin, CA 95046",
+      "phone": "408-686-3900",
+      "image": "./img/shelter/office/391002.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/santa-clara-county-animal-shelter-391002/",
+      "imageUrl": "https://cdn.findpawpal.com/office/391002.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "st-francis-of-assisi-391007",
+      "name": "St. Francis of Assisi",
+      "address": "12000 Murphy Avenue, San Martin, CA 95046",
+      "phone": "408-778-1095",
+      "image": "./img/shelter/office/391007.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/st-francis-of-assisi-391007/",
+      "imageUrl": "https://cdn.findpawpal.com/office/391007.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-the-san-martin-animal-shelter-486635",
+      "name": "Friends of the San Martin Animal Shelter",
+      "address": "PO Box 526, San Martin, CA 95046",
+      "phone": "408-683-4186",
+      "image": "https://cdn.findpawpal.com/office/486635.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-the-san-martin-animal-shelter-486635/"
+    }
+  ]
+}

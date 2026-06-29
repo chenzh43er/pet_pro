@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:35:57.225074+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "penn-yan",
+    "name": "Penn Yan",
+    "label": "Penn Yan, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/penn-yan/",
+  "offices": [
+    {
+      "officeId": 312912,
+      "slug": "the-humane-society-of-yates-county-312912",
+      "name": "The Humane Society of Yates County",
+      "address": "1216 Route 14A, Penn Yan, NY 14527",
+      "phone": "315-536-0800",
+      "image": "./img/shelter/office/312912.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-humane-society-of-yates-county-312912/",
+      "imageUrl": "https://cdn.findpawpal.com/office/312912.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 312919,
+      "slug": "yates-county-sheriffs-office-312919",
+      "name": "Yates County Sheriff's Office",
+      "address": "227 Main Street, Penn Yan, NY 14527",
+      "phone": "315-536-4438",
+      "image": "./img/shelter/office/312919.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/yates-county-sheriffs-office-312919/",
+      "imageUrl": "https://cdn.findpawpal.com/office/312919.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 401867,
+      "slug": "yates-county-humane-society-401867",
+      "name": "Yates County Humane Society",
+      "address": "173 South Avenue, Penn Yan, NY 14527",
+      "phone": "315-595-2201",
+      "image": "./img/shelter/office/401867.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/yates-county-humane-society-401867/",
+      "imageUrl": "https://cdn.findpawpal.com/office/401867.jpg?f=webp&w=730"
+    }
+  ]
+}

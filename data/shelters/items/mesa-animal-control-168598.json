@@ -1,0 +1,21 @@
+{
+  "officeId": 168598,
+  "slug": "mesa-animal-control-168598",
+  "name": "Mesa Animal Control",
+  "address": "130 North Robson, Mesa, AZ 85201",
+  "street": "130 North Robson",
+  "addressCity": "Mesa",
+  "stateCode": "AZ",
+  "zip": "85201",
+  "phone": "480-644-2044",
+  "image": "./img/shelter/office/168598.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/mesa-animal-control-168598/",
+  "stateSlug": "arizona",
+  "stateName": "Arizona",
+  "citySlug": "mesa",
+  "cityName": "Mesa",
+  "cityLabel": "Mesa, AZ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/arizona/mesa/",
+  "fetchedAt": "2026-06-27T18:20:27.718177+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/168598.jpg?f=webp&w=730"
+}

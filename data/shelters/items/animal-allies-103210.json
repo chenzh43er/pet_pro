@@ -1,0 +1,21 @@
+{
+  "officeId": 103210,
+  "slug": "animal-allies-103210",
+  "name": "Animal Allies",
+  "address": "PO Box 351, Titusville, NJ 08560",
+  "street": "PO Box 351",
+  "addressCity": "Titusville",
+  "stateCode": "NJ",
+  "zip": "08560",
+  "phone": "609-737-2380",
+  "image": "./img/shelter/office/103210.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/animal-allies-103210/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "titusville",
+  "cityName": "Titusville",
+  "cityLabel": "Titusville, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/titusville/",
+  "fetchedAt": "2026-06-27T19:29:14.114221+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/103210.jpg?f=webp&w=730"
+}

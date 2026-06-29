@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:22:12.072031+00:00",
+  "state": {
+    "slug": "montana",
+    "name": "Montana"
+  },
+  "city": {
+    "slug": "troy",
+    "name": "Troy",
+    "label": "Troy, MT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/montana/troy/",
+  "offices": [
+    {
+      "officeId": 350177,
+      "slug": "troy-animal-control-350177",
+      "name": "Troy Animal Control",
+      "address": "301 East Kootenai Avenue, Troy, MT 59935",
+      "phone": "406-295-4411",
+      "image": "./img/shelter/office/350177.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/troy-animal-control-350177/",
+      "imageUrl": "https://cdn.findpawpal.com/office/350177.jpg?f=webp&w=730"
+    }
+  ]
+}

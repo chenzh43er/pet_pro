@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:37:23.330826+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "wantagh",
+    "name": "Wantagh",
+    "label": "Wantagh, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/wantagh/",
+  "offices": [
+    {
+      "officeId": 313231,
+      "slug": "hempstead-town-animal-shelter-313231",
+      "name": "Hempstead Town Animal Shelter",
+      "address": "3320 Beltagh Avenue, Wantagh, NY 11793",
+      "phone": "516-785-5220",
+      "image": "./img/shelter/office/313231.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hempstead-town-animal-shelter-313231/",
+      "imageUrl": "https://cdn.findpawpal.com/office/313231.jpg?f=webp&w=730"
+    }
+  ]
+}

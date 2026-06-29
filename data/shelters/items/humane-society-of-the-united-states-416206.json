@@ -1,0 +1,21 @@
+{
+  "officeId": 416206,
+  "slug": "humane-society-of-the-united-states-416206",
+  "name": "Humane Society of the United States",
+  "address": "1515 Linden Street, Des Moines, IA 50309",
+  "street": "1515 Linden Street",
+  "addressCity": "Des Moines",
+  "stateCode": "IA",
+  "zip": "50309",
+  "phone": "515-283-1393",
+  "image": "./img/shelter/office/416206.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-the-united-states-416206/",
+  "stateSlug": "iowa",
+  "stateName": "Iowa",
+  "citySlug": "des-moines",
+  "cityName": "Des Moines",
+  "cityLabel": "Des Moines, IA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/iowa/des-moines/",
+  "fetchedAt": "2026-06-27T18:53:05.302268+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/416206.jpg?f=webp&w=730"
+}

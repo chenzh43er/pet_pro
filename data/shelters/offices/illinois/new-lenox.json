@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:47:15.160567+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "new-lenox",
+    "name": "New Lenox",
+    "label": "New Lenox, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/new-lenox/",
+  "offices": [
+    {
+      "officeId": 523973,
+      "slug": "new-lenox-animal-control-523973",
+      "name": "New Lenox Animal Control",
+      "address": "1007 Star Lane, New Lenox, IL 60451",
+      "phone": "779-803-3275",
+      "image": "./img/shelter/office/523973.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-lenox-animal-control-523973/",
+      "imageUrl": "https://cdn.findpawpal.com/office/523973.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 581620,
+      "slug": "will-county-animal-control-581620",
+      "name": "Will County Animal Control",
+      "address": "1200 South Cedar Road, New Lenox, IL 60451",
+      "phone": "815-462-5633",
+      "image": "./img/shelter/office/581620.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/will-county-animal-control-581620/",
+      "imageUrl": "https://cdn.findpawpal.com/office/581620.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:46:09.286775+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "north-royalton",
+    "name": "North Royalton",
+    "label": "North Royalton, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/north-royalton/",
+  "offices": [
+    {
+      "officeId": 431579,
+      "slug": "north-royalton-shelter-431579",
+      "name": "North Royalton Shelter",
+      "address": "13834 Ridge Road, North Royalton, OH 44133",
+      "phone": "440-237-0665",
+      "image": "./img/shelter/office/431579.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/north-royalton-shelter-431579/",
+      "imageUrl": "https://cdn.findpawpal.com/office/431579.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 458197,
+      "slug": "stay-a-while-cat-shelter-458197",
+      "name": "Stay-A-While Cat Shelter",
+      "address": "8800 Akins Road, North Royalton, OH 44133",
+      "phone": "440-582-4990",
+      "image": "./img/shelter/office/458197.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/stay-a-while-cat-shelter-458197/",
+      "imageUrl": "https://cdn.findpawpal.com/office/458197.jpg?f=webp&w=730"
+    }
+  ]
+}

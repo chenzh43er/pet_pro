@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:01:55.041835+00:00",
+  "state": {
+    "slug": "maine",
+    "name": "Maine"
+  },
+  "city": {
+    "slug": "monmouth",
+    "name": "Monmouth",
+    "label": "Monmouth, ME"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maine/monmouth/",
+  "offices": [
+    {
+      "officeId": 338731,
+      "slug": "monmouth-animal-control-338731",
+      "name": "Monmouth Animal Control",
+      "address": "767 Main Street, Monmouth, ME 04259",
+      "phone": "207-933-9089",
+      "image": "./img/shelter/office/338731.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/monmouth-animal-control-338731/",
+      "imageUrl": "https://cdn.findpawpal.com/office/338731.jpg?f=webp&w=730"
+    }
+  ]
+}

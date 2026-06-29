@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-06-27T18:18:37.460061+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "shelby",
+    "name": "Shelby",
+    "label": "Shelby, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/shelby/",
+  "offices": [
+    {
+      "slug": "boykin-spaniel-rescue-6120",
+      "name": "Boykin Spaniel Rescue",
+      "address": "366 Lake Shore Drive, Shelby, AL 35143",
+      "phone": "205-669-0580",
+      "image": "https://cdn.findpawpal.com/office/6120.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/boykin-spaniel-rescue-6120/"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T19:40:55.480771+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "pittsboro",
+    "name": "Pittsboro",
+    "label": "Pittsboro, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/pittsboro/",
+  "offices": [
+    {
+      "officeId": 211725,
+      "slug": "chatham-animal-rescue-and-education-inc-211725",
+      "name": "Chatham Animal Rescue & Education, Inc.",
+      "address": "PO Box 610, Pittsboro, NC 27312",
+      "phone": "919-542-5757",
+      "image": "./img/shelter/office/211725.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/chatham-animal-rescue-and-education-inc-211725/",
+      "imageUrl": "https://cdn.findpawpal.com/office/211725.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 212585,
+      "slug": "the-goat-house-cat-refuge-212585",
+      "name": "The Goat House Cat Refuge",
+      "address": "379 Goathouse Rd, Pittsboro, NC 27312",
+      "phone": "919-542-6815",
+      "image": "./img/shelter/office/212585.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-goat-house-cat-refuge-212585/",
+      "imageUrl": "https://cdn.findpawpal.com/office/212585.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 213138,
+      "slug": "best-buddies-companion-rescue-and-adoption-213138",
+      "name": "Best Buddies Companion Rescue & Adoption",
+      "address": "184 Winthrop Road, Pittsboro, NC 27312",
+      "phone": "919-882-0001",
+      "image": "./img/shelter/office/213138.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/best-buddies-companion-rescue-and-adoption-213138/",
+      "imageUrl": "https://cdn.findpawpal.com/office/213138.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 213171,
+      "slug": "chatham-county-animal-shelter-213171",
+      "name": "Chatham County Animal Shelter",
+      "address": "725 County Landfill Road, Pittsboro, NC 27312",
+      "phone": "919-542-7203",
+      "image": "./img/shelter/office/213171.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/chatham-county-animal-shelter-213171/",
+      "imageUrl": "https://cdn.findpawpal.com/office/213171.jpg?f=webp&w=730"
+    }
+  ]
+}

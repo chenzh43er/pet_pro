@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:42:31.054782+00:00",
+  "state": {
+    "slug": "north-dakota",
+    "name": "North Dakota"
+  },
+  "city": {
+    "slug": "oakes",
+    "name": "Oakes",
+    "label": "Oakes, ND"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-dakota/oakes/",
+  "offices": [
+    {
+      "officeId": 720582,
+      "slug": "bentleys-buds-great-dane-rescue-720582",
+      "name": "Bentley's Buds Great Dane Rescue",
+      "address": "8888 111th Avenue Southeast, Oakes, ND 58474",
+      "phone": "701-320-6995",
+      "image": "https://cdn.findpawpal.com/office/720582.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/bentleys-buds-great-dane-rescue-720582/"
+    }
+  ]
+}

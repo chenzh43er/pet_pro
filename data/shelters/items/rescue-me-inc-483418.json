@@ -1,0 +1,21 @@
+{
+  "officeId": 483418,
+  "slug": "rescue-me-inc-483418",
+  "name": "Rescue Me Inc",
+  "address": "23136 Victory Boulevard, Los Angeles, CA 91367",
+  "street": "23136 Victory Boulevard",
+  "addressCity": "Los Angeles",
+  "stateCode": "CA",
+  "zip": "91367",
+  "phone": "818-999-2400",
+  "image": "./img/shelter/office/483418.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/rescue-me-inc-483418/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "los-angeles",
+  "cityName": "Los Angeles",
+  "cityLabel": "Los Angeles, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/los-angeles/",
+  "fetchedAt": "2026-06-27T18:27:28.259888+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/483418.jpg?f=webp&w=730"
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:09:55.727150+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "chase",
+    "name": "Chase",
+    "label": "Chase, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/chase/",
+  "offices": [
+    {
+      "officeId": 209719,
+      "slug": "chase-animal-control-209719",
+      "name": "Chase Animal Control",
+      "address": "7932 South Saddler Road, Chase, MI 49623",
+      "phone": "231-679-0489",
+      "image": "https://cdn.findpawpal.com/office/209719.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/chase-animal-control-209719/"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:25:04.794110+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "belvidere",
+    "name": "Belvidere",
+    "label": "Belvidere, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/belvidere/",
+  "offices": [
+    {
+      "officeId": 100597,
+      "slug": "communities-altering-the-strays-100597",
+      "name": "Communities Altering The Strays",
+      "address": "PO Box 344, Belvidere, NJ 07823",
+      "phone": "908-453-0082",
+      "image": "https://cdn.findpawpal.com/office/100597.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/communities-altering-the-strays-100597/"
+    }
+  ]
+}

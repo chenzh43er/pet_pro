@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:01:39.964123+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "portland",
+    "name": "Portland",
+    "label": "Portland, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/portland/",
+  "offices": [
+    {
+      "officeId": 452186,
+      "slug": "portland-animal-shelter-452186",
+      "name": "Portland Animal Shelter",
+      "address": "123 Morningside Drive, Portland, TN 37148",
+      "phone": "615-325-5330",
+      "image": "./img/shelter/office/452186.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/portland-animal-shelter-452186/",
+      "imageUrl": "https://cdn.findpawpal.com/office/452186.jpg?f=webp&w=730"
+    }
+  ]
+}

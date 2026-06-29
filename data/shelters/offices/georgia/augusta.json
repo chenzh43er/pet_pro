@@ -1,0 +1,75 @@
+{
+  "fetchedAt": "2026-06-27T18:38:29.679990+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "augusta",
+    "name": "Augusta",
+    "label": "Augusta, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/augusta/",
+  "offices": [
+    {
+      "officeId": 133844,
+      "slug": "augusta-humane-society-inc-133844",
+      "name": "Augusta Humane Society, Inc.",
+      "address": "PO Box 12035, Augusta, GA 30914",
+      "phone": "706-736-0186",
+      "image": "./img/shelter/office/133844.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/augusta-humane-society-inc-133844/",
+      "imageUrl": "https://cdn.findpawpal.com/office/133844.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 134325,
+      "slug": "greyhound-friends-of-augusta-inc-134325",
+      "name": "Greyhound Friends of Augusta, Inc.",
+      "address": "2122 Richards Road, Augusta, GA 30906",
+      "phone": "706-796-1708",
+      "image": "./img/shelter/office/134325.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhound-friends-of-augusta-inc-134325/",
+      "imageUrl": "https://cdn.findpawpal.com/office/134325.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 135097,
+      "slug": "save-the-animals-rescue-society-inc-135097",
+      "name": "Save The Animals Rescue Society, Inc.",
+      "address": "PO Box 212136, Augusta, GA 30917",
+      "phone": "706-231-4399",
+      "image": "./img/shelter/office/135097.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/save-the-animals-rescue-society-inc-135097/",
+      "imageUrl": "https://cdn.findpawpal.com/office/135097.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 139453,
+      "slug": "city-of-augusta-animal-services-139453",
+      "name": "City of Augusta Animal Services",
+      "address": "4164 Mack Lane, Augusta, GA 30906",
+      "phone": "706-790-6836",
+      "image": "./img/shelter/office/139453.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/city-of-augusta-animal-services-139453/",
+      "imageUrl": "https://cdn.findpawpal.com/office/139453.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 147688,
+      "slug": "happy-tails-rescue-147688",
+      "name": "Happy Tails Rescue",
+      "address": "PO Box 211773, Augusta, GA 30917",
+      "phone": "706-294-4718",
+      "image": "./img/shelter/office/147688.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/happy-tails-rescue-147688/",
+      "imageUrl": "https://cdn.findpawpal.com/office/147688.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 148275,
+      "slug": "csra-humane-society-148275",
+      "name": "Csra Humane Society",
+      "address": "425 Wood Street, Augusta, GA 30904",
+      "phone": "706-261-7387",
+      "image": "./img/shelter/office/148275.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/csra-humane-society-148275/",
+      "imageUrl": "https://cdn.findpawpal.com/office/148275.jpg?f=webp&w=730"
+    }
+  ]
+}

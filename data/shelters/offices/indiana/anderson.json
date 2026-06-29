@@ -1,0 +1,64 @@
+{
+  "fetchedAt": "2026-06-27T18:49:06.939623+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "anderson",
+    "name": "Anderson",
+    "label": "Anderson, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/anderson/",
+  "offices": [
+    {
+      "officeId": 201164,
+      "slug": "caring-k9s-canine-rescue-201164",
+      "name": "Caring K9's Canine Rescue",
+      "address": "914 County Road 300 East, Anderson, IN 46012",
+      "phone": "765-621-6441",
+      "image": "./img/shelter/office/201164.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/caring-k9s-canine-rescue-201164/",
+      "imageUrl": "https://cdn.findpawpal.com/office/201164.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 214555,
+      "slug": "anderson-animal-shelter-214555",
+      "name": "Anderson Animal Shelter",
+      "address": "613 Dewey Street, Anderson, IN 46016",
+      "phone": "765-648-6305",
+      "image": "./img/shelter/office/214555.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/anderson-animal-shelter-214555/",
+      "imageUrl": "https://cdn.findpawpal.com/office/214555.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 250449,
+      "slug": "countryside-animal-rescue-inc-250449",
+      "name": "Countryside Animal Rescue, Inc.",
+      "address": "PO Box 991, Anderson, IN 46015",
+      "phone": "765-649-7944",
+      "image": "https://cdn.findpawpal.com/office/250449.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/countryside-animal-rescue-inc-250449/"
+    },
+    {
+      "officeId": 252382,
+      "slug": "madison-county-spca-humane-252382",
+      "name": "Madison County Spca Humane",
+      "address": "2219 Crystal Street, Anderson, IN 46012",
+      "phone": "765-644-6484",
+      "image": "./img/shelter/office/252382.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/madison-county-spca-humane-252382/",
+      "imageUrl": "https://cdn.findpawpal.com/office/252382.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 253611,
+      "slug": "anderson-animal-control-253611",
+      "name": "Anderson Animal Control",
+      "address": "3210 Forest Terrace, Anderson, IN 46013",
+      "phone": "765-400-4193",
+      "image": "./img/shelter/office/253611.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/anderson-animal-control-253611/",
+      "imageUrl": "https://cdn.findpawpal.com/office/253611.jpg?f=webp&w=730"
+    }
+  ]
+}

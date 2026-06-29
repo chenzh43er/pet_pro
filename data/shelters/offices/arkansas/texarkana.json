@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:23:23.333072+00:00",
+  "state": {
+    "slug": "arkansas",
+    "name": "Arkansas"
+  },
+  "city": {
+    "slug": "texarkana",
+    "name": "Texarkana",
+    "label": "Texarkana, AR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arkansas/texarkana/",
+  "offices": [
+    {
+      "officeId": 298422,
+      "slug": "texarkana-city-animal-shelter-298422",
+      "name": "Texarkana City Animal Shelter",
+      "address": "203 Harrison Street, Texarkana, AR 71854",
+      "phone": "870-773-6388",
+      "image": "./img/shelter/office/298422.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/texarkana-city-animal-shelter-298422/",
+      "imageUrl": "https://cdn.findpawpal.com/office/298422.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 490062,
+  "slug": "ferret-nook-490062",
+  "name": "Ferret Nook",
+  "address": "1957 Hillside Road, Cambridge, WI 53523",
+  "street": "1957 Hillside Road",
+  "addressCity": "Cambridge",
+  "stateCode": "WI",
+  "zip": "53523",
+  "phone": "608-423-3315",
+  "image": "./img/shelter/office/490062.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/ferret-nook-490062/",
+  "stateSlug": "wisconsin",
+  "stateName": "Wisconsin",
+  "citySlug": "cambridge",
+  "cityName": "Cambridge",
+  "cityLabel": "Cambridge, WI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/wisconsin/cambridge/",
+  "fetchedAt": "2026-06-27T20:22:12.465477+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/490062.jpg?f=webp&w=730"
+}

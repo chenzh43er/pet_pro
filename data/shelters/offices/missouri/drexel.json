@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:18:29.660461+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "drexel",
+    "name": "Drexel",
+    "label": "Drexel, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/drexel/",
+  "offices": [
+    {
+      "officeId": 204990,
+      "slug": "warm-fuzzys-204990",
+      "name": "Warm Fuzzy's",
+      "address": "RR 1 Box 50, Drexel, MO 64742",
+      "phone": "660-267-3497",
+      "image": "https://cdn.findpawpal.com/office/204990.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/warm-fuzzys-204990/"
+    }
+  ]
+}

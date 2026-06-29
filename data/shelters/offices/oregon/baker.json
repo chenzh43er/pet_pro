@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:50:03.573978+00:00",
+  "state": {
+    "slug": "oregon",
+    "name": "Oregon"
+  },
+  "city": {
+    "slug": "baker",
+    "name": "Baker",
+    "label": "Baker, OR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oregon/baker/",
+  "offices": [
+    {
+      "officeId": 695528,
+      "slug": "baker-city-animal-control-695528",
+      "name": "Baker City Animal Control",
+      "address": "3410 K Street, Baker, OR 97814",
+      "phone": "541-523-3644",
+      "image": "./img/shelter/office/695528.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/baker-city-animal-control-695528/",
+      "imageUrl": "https://cdn.findpawpal.com/office/695528.jpg?f=webp&w=730"
+    }
+  ]
+}

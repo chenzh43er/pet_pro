@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:20:45.096884+00:00",
+  "state": {
+    "slug": "arizona",
+    "name": "Arizona"
+  },
+  "city": {
+    "slug": "prescott",
+    "name": "Prescott",
+    "label": "Prescott, AZ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arizona/prescott/",
+  "offices": [
+    {
+      "slug": "yavapai-county-sheriffs-office-157274",
+      "name": "Yavapai County Sheriff's Office",
+      "address": "255 East Gurley Street, Prescott, AZ 86301",
+      "phone": "928-771-3260",
+      "image": "./img/shelter/office/157274.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/yavapai-county-sheriffs-office-157274/",
+      "imageUrl": "https://cdn.findpawpal.com/office/157274.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "yavapai-humane-society-168982",
+      "name": "Yavapai Humane Society",
+      "address": "1625 Sundog Ranch Road, Prescott, AZ 86301",
+      "phone": "928-445-2666",
+      "image": "./img/shelter/office/168982.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/yavapai-humane-society-168982/",
+      "imageUrl": "https://cdn.findpawpal.com/office/168982.jpg?f=webp&w=730"
+    }
+  ]
+}

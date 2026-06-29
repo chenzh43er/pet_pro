@@ -1,0 +1,475 @@
+{
+  "stateSlug": "rhode-island",
+  "count": 67,
+  "shelters": [
+    {
+      "slug": "barrington-police-control-572408",
+      "name": "Barrington Police Control",
+      "address": "100 Federal Road, Barrington, RI 02806",
+      "phone": "401-437-3936",
+      "image": "https://cdn.findpawpal.com/office/572408.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "scottish-terrier-rescue-of-ri-565093",
+      "name": "Scottish Terrier Rescue of Ri",
+      "address": "PO Box 242, Barrington, RI 02806",
+      "phone": "401-434-7649",
+      "image": "https://cdn.findpawpal.com/office/565093.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bristol-animal-shelter-521244",
+      "name": "Bristol Animal Shelter",
+      "address": "10 Minturn Farm Rd, Bristol, RI 02809",
+      "phone": "401-253-4834",
+      "image": "https://cdn.findpawpal.com/office/521244.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bristol-animal-shelter-583590",
+      "name": "Bristol Animal Shelter",
+      "address": "395 Metacom Avenue, Bristol, RI 02809",
+      "phone": "401-253-4834",
+      "image": "https://cdn.findpawpal.com/office/583590.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "harrisville-animal-shelter-648043",
+      "name": "Harrisville Animal Shelter",
+      "address": "131 Clear River Drive, Burrillville, RI 02830",
+      "phone": "401-568-9480",
+      "image": "https://cdn.findpawpal.com/office/648043.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "charlestown-animal-control-540257",
+      "name": "Charlestown Animal Control",
+      "address": "4540 South County Trail, Charlestown, RI 02813",
+      "phone": "401-364-1211",
+      "image": "https://cdn.findpawpal.com/office/540257.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "charlestown-animal-control-565230",
+      "name": "Charlestown Animal Control",
+      "address": "4540 South County Trail, Charlestown, RI 02813",
+      "phone": "401-364-1211",
+      "image": "https://cdn.findpawpal.com/office/565230.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "all-about-the-animals-new-england-583594",
+      "name": "All About The Animals New England",
+      "address": "PO Box 1197, Coventry, RI 02816",
+      "phone": "401-280-1140",
+      "image": "https://cdn.findpawpal.com/office/583594.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "coventry-pound-539990",
+      "name": "Coventry Pound",
+      "address": "1670 Flat River Road, Coventry, RI 02816",
+      "phone": "401-822-9106",
+      "image": "https://cdn.findpawpal.com/office/539990.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animals-depend-on-people-too-inc-708096",
+      "name": "Animals Depend On People Too, Inc.",
+      "address": "920 Phenix Avenue, Cranston, RI 02921",
+      "phone": "401-461-1000",
+      "image": "https://cdn.findpawpal.com/office/708096.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cranston-animal-shelter-540224",
+      "name": "Cranston Animal Shelter",
+      "address": "920 Phenix Avenue, Cranston, RI 02921",
+      "phone": "401-464-8700",
+      "image": "https://cdn.findpawpal.com/office/540224.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lincoln-greyhound-adoption-program-565173",
+      "name": "Lincoln Greyhound Adoption Program",
+      "address": "83 Broadmoor Road, Cranston, RI 02910",
+      "phone": "401-781-6231",
+      "image": "https://cdn.findpawpal.com/office/565173.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cumberland-animal-control-648002",
+      "name": "Cumberland Animal Control",
+      "address": "44 Martin Street, Cumberland Hill, RI 02864",
+      "phone": "401-333-2745",
+      "image": "https://cdn.findpawpal.com/office/648002.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "u-heal-animal-shelter-and-sanctuary-588984",
+      "name": "U-Heal Animal Shelter and Sanctuary",
+      "address": "PO Box 113, Cumberland Hill, RI 02864",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/588984.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "east-greenwich-animal-control-650121",
+      "name": "East Greenwich Animal Control",
+      "address": "4302 Post Road, East Greenwich, RI 02818",
+      "phone": "401-884-6333",
+      "image": "https://cdn.findpawpal.com/office/650121.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "east-greenwich-animal-protection-league-647979",
+      "name": "East Greenwich Animal Protection League",
+      "address": "PO Box 184, East Greenwich, RI 02818",
+      "phone": "401-885-1158",
+      "image": "https://cdn.findpawpal.com/office/647979.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "east-providence-animal-shelter-708107",
+      "name": "East Providence Animal Shelter",
+      "address": "62 Commercial Way, East Providence, RI 02914",
+      "phone": "401-435-7675",
+      "image": "https://cdn.findpawpal.com/office/708107.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rhode-island-society-for-the-prevention-of-cruelty-to-animals-588980",
+      "name": "Rhode Island Society for the Prevention of Cruelty to Animals",
+      "address": "186 Amaral Street, East Providence, RI 02915",
+      "phone": "401-438-8150",
+      "image": "https://cdn.findpawpal.com/office/588980.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "exeter-town-animal-shelter-648053",
+      "name": "Exeter Town Animal Shelter",
+      "address": "165 South County Trail, Exeter, RI 02822",
+      "phone": "401-294-2754",
+      "image": "https://cdn.findpawpal.com/office/648053.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sweet-binks-rabbit-rescue-inc-708088",
+      "name": "Sweet Binks Rabbit Rescue, Inc.",
+      "address": "PO Box 415, Foster, RI 02825",
+      "phone": "401-623-1340",
+      "image": "https://cdn.findpawpal.com/office/708088.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "glocester-town-animal-shelter-540218",
+      "name": "Glocester Town Animal Shelter",
+      "address": "121 Chestnut Hill Road, Glocester, RI 02814",
+      "phone": "401-568-3885",
+      "image": "https://cdn.findpawpal.com/office/540218.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "glocester-town-animal-shelter-572311",
+      "name": "Glocester Town Animal Shelter",
+      "address": "121 Chestnut Hill Road, Glocester, RI 02814",
+      "phone": "401-568-3885",
+      "image": "https://cdn.findpawpal.com/office/572311.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hopkinton-animal-control-565320",
+      "name": "Hopkinton Animal Control",
+      "address": "395 Woodville Road, Hopkinton, RI 02804",
+      "phone": "401-377-7785",
+      "image": "https://cdn.findpawpal.com/office/565320.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-jamestown-708080",
+      "name": "Humane Society of Jamestown",
+      "address": "PO Box 681, Jamestown, RI 02835",
+      "phone": "401-423-0413",
+      "image": "https://cdn.findpawpal.com/office/708080.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jamestown-animal-control-648045",
+      "name": "Jamestown Animal Control",
+      "address": "250 Conanicus Avenue, Jamestown, RI 02835",
+      "phone": "401-423-1212",
+      "image": "https://cdn.findpawpal.com/office/648045.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "johnston-pound-565171",
+      "name": "Johnston Pound",
+      "address": "1651 Atwood Avenue, Johnston, RI 02919",
+      "phone": "401-943-1069",
+      "image": "https://cdn.findpawpal.com/office/565171.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lincoln-animal-shelter-685687",
+      "name": "Lincoln Animal Shelter",
+      "address": "25 Wellington Road, Lincoln, RI 02865",
+      "phone": "401-333-0950",
+      "image": "https://cdn.findpawpal.com/office/685687.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lincoln-town-animal-control-589091",
+      "name": "Lincoln Town Animal Control",
+      "address": "25 Wellington Road, Lincoln, RI 02865",
+      "phone": "401-333-0950",
+      "image": "https://cdn.findpawpal.com/office/589091.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "potter-league-for-animals-685682",
+      "name": "Potter League For Animals",
+      "address": "87 Oliphant Lane, Middletown, RI 02842",
+      "phone": "401-846-8276",
+      "image": "https://cdn.findpawpal.com/office/685682.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-watch-521048",
+      "name": "PAWS Watch",
+      "address": "PO Box 3711, Newport, RI 02840",
+      "phone": "401-848-9057",
+      "image": "https://cdn.findpawpal.com/office/521048.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "north-kingston-animal-protection-league-708091",
+      "name": "North Kingston Animal Protection League",
+      "address": "PO Box 83, North Kingstown, RI 02852",
+      "phone": "401-294-4478",
+      "image": "https://cdn.findpawpal.com/office/708091.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "north-kingstown-animal-shelter-565264",
+      "name": "North Kingstown Animal Shelter",
+      "address": "395 Hamilton Allenton Road, North Kingstown, RI 02852",
+      "phone": "401-295-5579",
+      "image": "https://cdn.findpawpal.com/office/565264.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "swansea-friends-of-animals-708092",
+      "name": "Swansea Friends of Animals",
+      "address": "43 Firwood Drive, North Kingstown, RI 02852",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/708092.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "north-providence-animal-shelter-583748",
+      "name": "North Providence Animal Shelter",
+      "address": "900 Smithfield Road, North Providence, RI 02904",
+      "phone": "401-719-1516",
+      "image": "https://cdn.findpawpal.com/office/583748.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "scituate-pound-685685",
+      "name": "Scituate Pound",
+      "address": "PO Box 819, North Scituate, RI 02857",
+      "phone": "401-821-5900",
+      "image": "https://cdn.findpawpal.com/office/685685.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "north-smithfield-animal-control-center-565174",
+      "name": "North Smithfield Animal Control Center",
+      "address": "281 Quaker Highway, North Smithfield, RI 02896",
+      "phone": "401-766-0377",
+      "image": "https://cdn.findpawpal.com/office/565174.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-association-of-northwestern-rhode-island-540155",
+      "name": "Humane Association of Northwestern Rhode Island",
+      "address": "PO Box 355, Pascoag, RI 02859",
+      "phone": "401-568-5734",
+      "image": "https://cdn.findpawpal.com/office/540155.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pawtucket-animal-control-565313",
+      "name": "Pawtucket Animal Control",
+      "address": "NEWPORT Ave, Pawtucket, RI 02861",
+      "phone": "401-722-4243",
+      "image": "https://cdn.findpawpal.com/office/565313.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pawtucket-animal-shelter-volunteers-583627",
+      "name": "Pawtucket Animal Shelter Volunteers",
+      "address": "PO Box 2567, Pawtucket, RI 02861",
+      "phone": "401-722-4243",
+      "image": "https://cdn.findpawpal.com/office/583627.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "portsmouth-animal-control-572363",
+      "name": "Portsmouth Animal Control",
+      "address": "2270 East Main Road, Portsmouth, RI 02871",
+      "phone": "401-643-0136",
+      "image": "https://cdn.findpawpal.com/office/572363.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "almost-home-rescue-of-rhode-island-708097",
+      "name": "Almost Home Rescue of Rhode Island",
+      "address": "PO Box 6111, Providence, RI 02940",
+      "phone": "401-575-6153",
+      "image": "https://cdn.findpawpal.com/office/708097.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "defenders-of-animals-708095",
+      "name": "Defenders of Animals",
+      "address": "PO Box 5634, Providence, RI 02903",
+      "phone": "401-738-3710",
+      "image": "https://cdn.findpawpal.com/office/708095.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "north-providence-shelter-685689",
+      "name": "North Providence Shelter",
+      "address": "900 Smithfield Road, Providence, RI 02904",
+      "phone": "401-233-1492",
+      "image": "https://cdn.findpawpal.com/office/685689.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "providence-animal-control-center-650068",
+      "name": "Providence Animal Control Center",
+      "address": "200 Terminal Road, Providence, RI 02905",
+      "phone": "401-243-6040",
+      "image": "https://cdn.findpawpal.com/office/650068.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "providence-animal-rescue-league-565178",
+      "name": "Providence Animal Rescue League",
+      "address": "34 Elbow Street, Providence, RI 02903",
+      "phone": "401-421-1399",
+      "image": "https://cdn.findpawpal.com/office/565178.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clayville-animal-shelter-648049",
+      "name": "Clayville Animal Shelter",
+      "address": "106 George Washington Highway, Scituate, RI 02815",
+      "phone": "401-647-7200",
+      "image": "https://cdn.findpawpal.com/office/648049.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "smithfield-animal-control-648029",
+      "name": "Smithfield Animal Control",
+      "address": "3 Spragueville Road, Smithfield, RI 02917",
+      "phone": "401-233-1055",
+      "image": "https://cdn.findpawpal.com/office/648029.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-league-708090",
+      "name": "Animal Rescue League",
+      "address": "213 Robinson Street, South Kingstown, RI 02879",
+      "phone": "401-792-2233",
+      "image": "https://cdn.findpawpal.com/office/708090.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "narragansett-pound-521136",
+      "name": "Narragansett Pound",
+      "address": "441 Rose Hill Road, South Kingstown, RI 02879",
+      "phone": "401-789-1950",
+      "image": "https://cdn.findpawpal.com/office/521136.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "peace-dale-animal-control-685724",
+      "name": "Peace Dale Animal Control",
+      "address": "506a Curtis Corner Road, South Kingstown, RI 02879",
+      "phone": "401-783-7606",
+      "image": "https://cdn.findpawpal.com/office/685724.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "south-kingstown-animal-shelter-521133",
+      "name": "South Kingstown Animal Shelter",
+      "address": "132 Asa Pond Road, South Kingstown, RI 02879",
+      "phone": "401-789-5515",
+      "image": "https://cdn.findpawpal.com/office/521133.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wakefield-animal-shelter-589056",
+      "name": "Wakefield Animal Shelter",
+      "address": "506 Curtis Corner Road, South Kingstown, RI 02879",
+      "phone": "401-783-7606",
+      "image": "https://cdn.findpawpal.com/office/589056.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "placing-paws-583625",
+      "name": "Placing PAWS",
+      "address": "1320 Main Road, Tiverton, RI 02878",
+      "phone": "401-624-9562",
+      "image": "https://cdn.findpawpal.com/office/583625.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "barrington-animal-control-589017",
+      "name": "Barrington Animal Control",
+      "address": "95 Country Road, Warren, RI 02885",
+      "phone": "401-245-4569",
+      "image": "https://cdn.findpawpal.com/office/589017.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "warren-animal-shelter-708099",
+      "name": "Warren Animal Shelter",
+      "address": "80 Wood Street, Warren, RI 02885",
+      "phone": "401-245-4569",
+      "image": "https://cdn.findpawpal.com/office/708099.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "warwick-animal-control-521043",
+      "name": "Warwick Animal Control",
+      "address": "250 Arthur Devine Blvd, Warwick, RI 02886",
+      "phone": "401-468-4377",
+      "image": "https://cdn.findpawpal.com/office/521043.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "warwick-animal-shelter-572349",
+      "name": "Warwick Animal Shelter",
+      "address": "101 Arthur W Devine Boulevard, Warwick, RI 02886",
+      "phone": "401-468-4377",
+      "image": "https://cdn.findpawpal.com/office/572349.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "warwick-volunteer-services-for-animals-521032",
+      "name": "Warwick Volunteer Services for Animals",
+      "address": "PO Box 7544, Warwick, RI 02887",
+      "phone": "401-468-4378",
+      "image": "https://cdn.findpawpal.com/office/521032.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "west-greenwich-animal-control-521039",
+      "name": "West Greenwich Animal Control",
+      "address": "280 Victory Highway, West Greenwich, RI 02817",
+      "phone": "401-397-8999",
+      "image": "https://cdn.findpawpal.com/office/521039.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "west-greenwich-animal-control-650105",
+      "name": "West Greenwich Animal Control",
+      "address": "280 Victory Highway, West Greenwich, RI 02817",
+      "phone": "401-397-8999",
+      "image": "https://cdn.findpawpal.com/office/650105.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "west-warwick-animal-shelter-572353",
+      "name": "West Warwick Animal Shelter",
+      "address": "106 Hay Street, West Warwick, RI 02893",
+      "phone": "401-615-3388",
+      "image": "https://cdn.findpawpal.com/office/572353.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "west-warwick-animal-shelter-708079",
+      "name": "West Warwick Animal Shelter",
+      "address": "PO Box 56, West Warwick, RI 02893",
+      "phone": "401-822-9250",
+      "image": "https://cdn.findpawpal.com/office/708079.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-league-westerly-540107",
+      "name": "Animal Rescue League Westerly",
+      "address": "PO Box 1237, Westerly, RI 02891",
+      "phone": "401-596-2090",
+      "image": "https://cdn.findpawpal.com/office/540107.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "westerly-animal-control-650107",
+      "name": "Westerly Animal Control",
+      "address": "33 Larry Hirsch Lane, Westerly, RI 02891",
+      "phone": "401-348-9595",
+      "image": "https://cdn.findpawpal.com/office/650107.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "woonsocket-city-animal-shelter-589054",
+      "name": "Woonsocket City Animal Shelter",
+      "address": "105 Cumberland Hill Road, Woonsocket, RI 02895",
+      "phone": "401-766-6571",
+      "image": "https://cdn.findpawpal.com/office/589054.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "woonsocket-city-animal-shelter-650076",
+      "name": "Woonsocket City Animal Shelter",
+      "address": "9 Cumberland Hill Road, Woonsocket, RI 02895",
+      "phone": "401-766-6571",
+      "image": "https://cdn.findpawpal.com/office/650076.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "woonsocket-volunteer-services-583666",
+      "name": "Woonsocket Volunteer Services",
+      "address": "266 Mendon Road, Woonsocket, RI 02895",
+      "phone": "401-765-4174",
+      "image": "https://cdn.findpawpal.com/office/583666.jpg?f=webp&w=730"
+    }
+  ]
+}

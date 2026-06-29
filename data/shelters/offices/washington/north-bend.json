@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:18:23.240623+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "north-bend",
+    "name": "North Bend",
+    "label": "North Bend, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/north-bend/",
+  "offices": [
+    {
+      "officeId": 567250,
+      "slug": "washington-alaskan-malamute-adoption-league-567250",
+      "name": "Washington Alaskan Malamute Adoption League",
+      "address": "PO Box 2353, North Bend, WA 98045",
+      "phone": "206-957-1080",
+      "image": "./img/shelter/office/567250.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/washington-alaskan-malamute-adoption-league-567250/",
+      "imageUrl": "https://cdn.findpawpal.com/office/567250.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 614437,
+      "slug": "little-dudes-ferret-ranch-614437",
+      "name": "Little Dudes Ferret Ranch",
+      "address": "PO Box 1952, North Bend, WA 98045",
+      "phone": "206-781-3541",
+      "image": "./img/shelter/office/614437.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/little-dudes-ferret-ranch-614437/",
+      "imageUrl": "https://cdn.findpawpal.com/office/614437.jpg?f=webp&w=730"
+    }
+  ]
+}

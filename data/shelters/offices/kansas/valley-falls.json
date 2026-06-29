@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:56:03.568149+00:00",
+  "state": {
+    "slug": "kansas",
+    "name": "Kansas"
+  },
+  "city": {
+    "slug": "valley-falls",
+    "name": "Valley Falls",
+    "label": "Valley Falls, KS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kansas/valley-falls/",
+  "offices": [
+    {
+      "officeId": 5205,
+      "slug": "jefferson-county-humane-society-5205",
+      "name": "Jefferson County Humane Society",
+      "address": "15295 K4 Highway, Valley Falls, KS 66088",
+      "phone": "785-945-6600",
+      "image": "./img/shelter/office/5205.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/jefferson-county-humane-society-5205/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5205.jpg?f=webp&w=730"
+    }
+  ]
+}

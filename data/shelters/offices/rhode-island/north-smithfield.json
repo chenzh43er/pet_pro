@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:56:21.742537+00:00",
+  "state": {
+    "slug": "rhode-island",
+    "name": "Rhode Island"
+  },
+  "city": {
+    "slug": "north-smithfield",
+    "name": "North Smithfield",
+    "label": "North Smithfield, RI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/rhode-island/north-smithfield/",
+  "offices": [
+    {
+      "officeId": 565174,
+      "slug": "north-smithfield-animal-control-center-565174",
+      "name": "North Smithfield Animal Control Center",
+      "address": "281 Quaker Highway, North Smithfield, RI 02896",
+      "phone": "401-766-0377",
+      "image": "https://cdn.findpawpal.com/office/565174.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/north-smithfield-animal-control-center-565174/"
+    }
+  ]
+}

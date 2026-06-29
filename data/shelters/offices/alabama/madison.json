@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:18:04.676030+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "madison",
+    "name": "Madison",
+    "label": "Madison, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/madison/",
+  "offices": [
+    {
+      "slug": "madison-animal-rescue-foundation-5990",
+      "name": "Madison Animal Rescue Foundation",
+      "address": "PO Box 2486, Madison, AL 35758",
+      "phone": "256-772-5694",
+      "image": "./img/shelter/office/5990.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/madison-animal-rescue-foundation-5990/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5990.jpg?f=webp&w=730"
+    }
+  ]
+}

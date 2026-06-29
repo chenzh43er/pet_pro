@@ -1,0 +1,21 @@
+{
+  "officeId": 103859,
+  "slug": "crooked-creek-animal-hospital-103859",
+  "name": "Crooked Creek Animal Hospital",
+  "address": "3435 Shiloh Road, Pelahatchie, MS 39145",
+  "street": "3435 Shiloh Road",
+  "addressCity": "Pelahatchie",
+  "stateCode": "MS",
+  "zip": "39145",
+  "phone": "601-854-7808",
+  "image": "./img/shelter/office/103859.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/crooked-creek-animal-hospital-103859/",
+  "stateSlug": "mississippi",
+  "stateName": "Mississippi",
+  "citySlug": "pelahatchie",
+  "cityName": "Pelahatchie",
+  "cityLabel": "Pelahatchie, MS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/mississippi/pelahatchie/",
+  "fetchedAt": "2026-06-27T19:16:59.550848+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/103859.jpg?f=webp&w=730"
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:59:32.900262+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "camden",
+    "name": "Camden",
+    "label": "Camden, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/camden/",
+  "offices": [
+    {
+      "officeId": 685058,
+      "slug": "benton-county-animal-shelter-685058",
+      "name": "Benton County Animal Shelter",
+      "address": "915 Divider and Natchez Trace Road, Camden, TN 38320",
+      "phone": "731-584-3152",
+      "image": "./img/shelter/office/685058.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/benton-county-animal-shelter-685058/",
+      "imageUrl": "https://cdn.findpawpal.com/office/685058.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 45300,
+  "slug": "forever-paws-animal-shelter-45300",
+  "name": "Forever Paws Animal Shelter",
+  "address": "300 Lynwood Street, Fall River, MA 02721",
+  "street": "300 Lynwood Street",
+  "addressCity": "Fall River",
+  "stateCode": "MA",
+  "zip": "02721",
+  "phone": "508-677-9154",
+  "image": "./img/shelter/office/45300.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/forever-paws-animal-shelter-45300/",
+  "stateSlug": "massachusetts",
+  "stateName": "Massachusetts",
+  "citySlug": "fall-river",
+  "cityName": "Fall River",
+  "cityLabel": "Fall River, MA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/massachusetts/fall-river/",
+  "fetchedAt": "2026-06-27T19:06:10.635610+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/45300.jpg?f=webp&w=730"
+}

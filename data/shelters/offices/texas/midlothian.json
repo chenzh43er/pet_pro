@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:07:34.869205+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "midlothian",
+    "name": "Midlothian",
+    "label": "Midlothian, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/midlothian/",
+  "offices": [
+    {
+      "officeId": 674524,
+      "slug": "midlothian-city-animal-control-674524",
+      "name": "Midlothian City Animal Control",
+      "address": "1070 N Highway 67, Midlothian, TX 76065",
+      "phone": "972-775-3802",
+      "image": "./img/shelter/office/674524.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/midlothian-city-animal-control-674524/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674524.jpg?f=webp&w=730"
+    }
+  ]
+}

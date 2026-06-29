@@ -1,0 +1,21 @@
+{
+  "officeId": 7085,
+  "slug": "pet-network-humane-society-7085",
+  "name": "Pet Network Humane Society",
+  "address": "401 Village Boulevard, Incline Village, NV 89451",
+  "street": "401 Village Boulevard",
+  "addressCity": "Incline Village",
+  "stateCode": "NV",
+  "zip": "89451",
+  "phone": "775-832-4404",
+  "image": "./img/shelter/office/7085.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pet-network-humane-society-7085/",
+  "stateSlug": "nevada",
+  "stateName": "Nevada",
+  "citySlug": "incline-village",
+  "cityName": "Incline Village",
+  "cityLabel": "Incline Village, NV",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/nevada/incline-village/",
+  "fetchedAt": "2026-06-27T19:23:20.656865+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/7085.jpg?f=webp&w=730"
+}

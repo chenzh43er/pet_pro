@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:08:00.485768+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "randolph",
+    "name": "Randolph",
+    "label": "Randolph, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/randolph/",
+  "offices": [
+    {
+      "officeId": 40265,
+      "slug": "sheltara-humane-society-inc-40265",
+      "name": "Sheltara Humane Society, Inc.",
+      "address": "141 Memorial Parkway, Randolph, MA 02368",
+      "phone": "781-961-5723",
+      "image": "./img/shelter/office/40265.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sheltara-humane-society-inc-40265/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40265.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40469,
+      "slug": "hilltop-humane-society-40469",
+      "name": "Hilltop Humane Society",
+      "address": "PO Box 553, Randolph, MA 02368",
+      "phone": "781-961-3638",
+      "image": "./img/shelter/office/40469.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hilltop-humane-society-40469/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40469.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 41313,
+      "slug": "randolph-animal-control-41313",
+      "name": "Randolph Animal Control",
+      "address": "41 South Main Street, Randolph, MA 02368",
+      "phone": "781-961-0946",
+      "image": "./img/shelter/office/41313.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/randolph-animal-control-41313/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41313.jpg?f=webp&w=730"
+    }
+  ]
+}

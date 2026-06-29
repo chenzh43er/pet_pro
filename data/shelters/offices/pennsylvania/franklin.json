@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:52:58.906655+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "franklin",
+    "name": "Franklin",
+    "label": "Franklin, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/franklin/",
+  "offices": [
+    {
+      "officeId": 429004,
+      "slug": "waggin-woods-animal-sanctuary-429004",
+      "name": "Waggin' Woods Animal Sanctuary",
+      "address": "PO Box 784, Franklin, PA 16323",
+      "phone": "814-437-1113",
+      "image": "./img/shelter/office/429004.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/waggin-woods-animal-sanctuary-429004/",
+      "imageUrl": "https://cdn.findpawpal.com/office/429004.jpg?f=webp&w=730"
+    }
+  ]
+}

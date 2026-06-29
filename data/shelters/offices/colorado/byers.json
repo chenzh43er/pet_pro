@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:32:58.103155+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "byers",
+    "name": "Byers",
+    "label": "Byers, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/byers/",
+  "offices": [
+    {
+      "officeId": 41285,
+      "slug": "every-creature-counts-41285",
+      "name": "Every Creature Counts",
+      "address": "PO Box 358, Byers, CO 80103",
+      "phone": "303-546-2704",
+      "image": "./img/shelter/office/41285.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/every-creature-counts-41285/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41285.jpg?f=webp&w=730"
+    }
+  ]
+}

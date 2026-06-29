@@ -1,0 +1,43 @@
+{
+  "fetchedAt": "2026-06-27T19:42:44.365191+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "ashland",
+    "name": "Ashland",
+    "label": "Ashland, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/ashland/",
+  "offices": [
+    {
+      "officeId": 432065,
+      "slug": "paws-4-life-dog-rescue-432065",
+      "name": "PAWS 4 Life Dog Rescue",
+      "address": "256 Ronald Avenue, Ashland, OH 44805",
+      "phone": "419-930-8282",
+      "image": "https://cdn.findpawpal.com/office/432065.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/paws-4-life-dog-rescue-432065/"
+    },
+    {
+      "officeId": 467632,
+      "slug": "ashland-county-animal-shelter-467632",
+      "name": "Ashland County Animal Shelter",
+      "address": "1710 Garfield Avenue, Ashland, OH 44805",
+      "phone": "419-289-1455",
+      "image": "./img/shelter/office/467632.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ashland-county-animal-shelter-467632/",
+      "imageUrl": "https://cdn.findpawpal.com/office/467632.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 686684,
+      "slug": "ashland-county-humane-society-686684",
+      "name": "Ashland County Humane Society",
+      "address": "PO Box 114, Ashland, OH 44805",
+      "phone": "419-289-3658",
+      "image": "https://cdn.findpawpal.com/office/686684.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/ashland-county-humane-society-686684/"
+    }
+  ]
+}

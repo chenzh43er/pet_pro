@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:38:43.475224+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "brunswick",
+    "name": "Brunswick",
+    "label": "Brunswick, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/brunswick/",
+  "offices": [
+    {
+      "officeId": 133900,
+      "slug": "humane-society-of-south-coastal-georgia-inc-133900",
+      "name": "Humane Society of South Coastal Georgia Inc",
+      "address": "4627 U.s. 17, Brunswick, GA 31525",
+      "phone": "912-264-6246",
+      "image": "./img/shelter/office/133900.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-south-coastal-georgia-inc-133900/",
+      "imageUrl": "https://cdn.findpawpal.com/office/133900.jpg?f=webp&w=730"
+    }
+  ]
+}

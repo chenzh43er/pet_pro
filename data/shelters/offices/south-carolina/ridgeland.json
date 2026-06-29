@@ -1,0 +1,54 @@
+{
+  "fetchedAt": "2026-06-27T19:58:09.329775+00:00",
+  "state": {
+    "slug": "south-carolina",
+    "name": "South Carolina"
+  },
+  "city": {
+    "slug": "ridgeland",
+    "name": "Ridgeland",
+    "label": "Ridgeland, SC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-carolina/ridgeland/",
+  "offices": [
+    {
+      "officeId": 581867,
+      "slug": "noahs-ark-animal-sanctuary-and-people-against-cruelty-581867",
+      "name": "Noahs Ark Animal Sanctuary & People Against Cruelty",
+      "address": "805 3rd Avenue, Ridgeland, SC 29936",
+      "phone": "843-726-7997",
+      "image": "./img/shelter/office/581867.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/noahs-ark-animal-sanctuary-and-people-against-cruelty-581867/",
+      "imageUrl": "https://cdn.findpawpal.com/office/581867.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 592429,
+      "slug": "jasper-animal-rescue-mission-592429",
+      "name": "Jasper Animal Rescue Mission",
+      "address": "1352 Carters Mill Road, Ridgeland, SC 29936",
+      "phone": "843-726-7799",
+      "image": "./img/shelter/office/592429.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/jasper-animal-rescue-mission-592429/",
+      "imageUrl": "https://cdn.findpawpal.com/office/592429.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 592433,
+      "slug": "morningstar-animal-rescue-and-referral-592433",
+      "name": "Morningstar Animal Rescue & Referral",
+      "address": "1626 Bees Creek Road, Ridgeland, SC 29936",
+      "phone": "843-717-3444",
+      "image": "./img/shelter/office/592433.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/morningstar-animal-rescue-and-referral-592433/",
+      "imageUrl": "https://cdn.findpawpal.com/office/592433.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 653284,
+      "slug": "palmetto-animal-league-653284",
+      "name": "Palmetto Animal League",
+      "address": "56 Riverwalk Boulevard, Ridgeland, SC 29936",
+      "phone": "843-645-1725",
+      "image": "https://cdn.findpawpal.com/office/653284.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/palmetto-animal-league-653284/"
+    }
+  ]
+}

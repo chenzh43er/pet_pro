@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:33:28.837213+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "forest-hills",
+    "name": "Forest Hills",
+    "label": "Forest Hills, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/forest-hills/",
+  "offices": [
+    {
+      "officeId": 404211,
+      "slug": "companion-animal-network-404211",
+      "name": "Companion Animal Network",
+      "address": "PO Box 750214, Forest Hills, NY 11375",
+      "phone": "718-544-7387",
+      "image": "./img/shelter/office/404211.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/companion-animal-network-404211/",
+      "imageUrl": "https://cdn.findpawpal.com/office/404211.jpg?f=webp&w=730"
+    }
+  ]
+}

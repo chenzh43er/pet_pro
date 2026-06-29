@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:05:22.498743+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "bellingham",
+    "name": "Bellingham",
+    "label": "Bellingham, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/bellingham/",
+  "offices": [
+    {
+      "officeId": 43233,
+      "slug": "boxer-buddies-rescue-inc-43233",
+      "name": "Boxer Buddies Rescue, Inc.",
+      "address": "PO Box 120, Bellingham, MA 02019",
+      "phone": "508-966-3944",
+      "image": "./img/shelter/office/43233.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/boxer-buddies-rescue-inc-43233/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43233.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 45197,
+      "slug": "bellingham-animal-control-45197",
+      "name": "Bellingham Animal Control",
+      "address": "234 Pulaski Boulevard, Bellingham, MA 02019",
+      "phone": "508-876-2026",
+      "image": "./img/shelter/office/45197.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bellingham-animal-control-45197/",
+      "imageUrl": "https://cdn.findpawpal.com/office/45197.jpg?f=webp&w=730"
+    }
+  ]
+}

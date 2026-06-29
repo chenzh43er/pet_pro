@@ -1,0 +1,21 @@
+{
+  "officeId": 160106,
+  "slug": "lyons-animal-control-160106",
+  "name": "Lyons Animal Control",
+  "address": "109 South Lanier Street, Lyons, GA 30436",
+  "street": "109 South Lanier Street",
+  "addressCity": "Lyons",
+  "stateCode": "GA",
+  "zip": "30436",
+  "phone": "912-526-0478",
+  "image": "./img/shelter/office/160106.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/lyons-animal-control-160106/",
+  "stateSlug": "georgia",
+  "stateName": "Georgia",
+  "citySlug": "lyons",
+  "cityName": "Lyons",
+  "cityLabel": "Lyons, GA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/georgia/lyons/",
+  "fetchedAt": "2026-06-27T18:40:40.102674+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/160106.jpg?f=webp&w=730"
+}

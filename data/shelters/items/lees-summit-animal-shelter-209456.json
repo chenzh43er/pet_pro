@@ -1,0 +1,21 @@
+{
+  "officeId": 209456,
+  "slug": "lees-summit-animal-shelter-209456",
+  "name": "Lee's Summit Animal Shelter",
+  "address": "115 Southeast 2nd Street, Lee's Summit, MO 64063",
+  "street": "115 Southeast 2nd Street",
+  "addressCity": "Lee's Summit",
+  "stateCode": "MO",
+  "zip": "64063",
+  "phone": "",
+  "image": "./img/shelter/office/209456.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/lees-summit-animal-shelter-209456/",
+  "stateSlug": "missouri",
+  "stateName": "Missouri",
+  "citySlug": "lees-summit",
+  "cityName": "Lee's Summit",
+  "cityLabel": "Lee's Summit, MO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/missouri/lees-summit/",
+  "fetchedAt": "2026-06-27T19:19:31.251811+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/209456.jpg?f=webp&w=730"
+}

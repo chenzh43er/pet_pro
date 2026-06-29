@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:12:51.719524+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "st-louis",
+    "name": "St. Louis",
+    "label": "St. Louis, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/st-louis/",
+  "offices": [
+    {
+      "officeId": 189472,
+      "slug": "s-nap-189472",
+      "name": "S-Nap",
+      "address": "114 Michigan Avenue, St. Louis, MI 48880",
+      "phone": "",
+      "image": "./img/shelter/office/189472.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/s-nap-189472/",
+      "imageUrl": "https://cdn.findpawpal.com/office/189472.jpg?f=webp&w=730"
+    }
+  ]
+}

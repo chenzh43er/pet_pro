@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-06-27T18:29:33.124380+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "rancho-palos-verdes",
+    "name": "Rancho Palos Verdes",
+    "label": "Rancho Palos Verdes, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/rancho-palos-verdes/",
+  "offices": [
+    {
+      "slug": "dream-dogs-487459",
+      "name": "Dream Dogs",
+      "address": "26730 Menominee Place, Rancho Palos Verdes, CA 90275",
+      "phone": "424-254-6123",
+      "image": "https://cdn.findpawpal.com/office/487459.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/dream-dogs-487459/"
+    }
+  ]
+}

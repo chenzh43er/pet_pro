@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:39:46.587980+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "fitzgerald",
+    "name": "Fitzgerald",
+    "label": "Fitzgerald, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/fitzgerald/",
+  "offices": [
+    {
+      "officeId": 146825,
+      "slug": "fitzgerald-ben-hill-humane-society-146825",
+      "name": "Fitzgerald Ben Hill Humane Society",
+      "address": "154 Perry House Road, Fitzgerald, GA 31750",
+      "phone": "912-423-7000",
+      "image": "./img/shelter/office/146825.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fitzgerald-ben-hill-humane-society-146825/",
+      "imageUrl": "https://cdn.findpawpal.com/office/146825.jpg?f=webp&w=730"
+    }
+  ]
+}

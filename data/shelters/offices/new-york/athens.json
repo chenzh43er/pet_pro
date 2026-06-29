@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:31:37.762735+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "athens",
+    "name": "Athens",
+    "label": "Athens, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/athens/",
+  "offices": [
+    {
+      "officeId": 311983,
+      "slug": "greene-animal-welfare-alliance-311983",
+      "name": "Greene Animal Welfare Alliance",
+      "address": "PO Box 209, Athens, NY 12015",
+      "phone": "518-945-3218",
+      "image": "./img/shelter/office/311983.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greene-animal-welfare-alliance-311983/",
+      "imageUrl": "https://cdn.findpawpal.com/office/311983.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 329645,
+      "slug": "all-creatures-org-329645",
+      "name": "All Creatures.Org",
+      "address": "PO Box 1012, Athens, NY 12015",
+      "phone": "",
+      "image": "./img/shelter/office/329645.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/all-creatures-org-329645/",
+      "imageUrl": "https://cdn.findpawpal.com/office/329645.jpg?f=webp&w=730"
+    }
+  ]
+}

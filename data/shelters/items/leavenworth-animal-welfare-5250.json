@@ -1,0 +1,21 @@
+{
+  "officeId": 5250,
+  "slug": "leavenworth-animal-welfare-5250",
+  "name": "Leavenworth Animal Welfare",
+  "address": "1430 Shawnee Street, Leavenworth, KS 66048",
+  "street": "1430 Shawnee Street",
+  "addressCity": "Leavenworth",
+  "stateCode": "KS",
+  "zip": "66048",
+  "phone": "913-651-5297",
+  "image": "./img/shelter/office/5250.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/leavenworth-animal-welfare-5250/",
+  "stateSlug": "kansas",
+  "stateName": "Kansas",
+  "citySlug": "leavenworth",
+  "cityName": "Leavenworth",
+  "cityLabel": "Leavenworth, KS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kansas/leavenworth/",
+  "fetchedAt": "2026-06-27T18:55:15.442706+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/5250.jpg?f=webp&w=730"
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:18:00.965595+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "kelso",
+    "name": "Kelso",
+    "label": "Kelso, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/kelso/",
+  "offices": [
+    {
+      "officeId": 628992,
+      "slug": "best-friends-rescue-foundation-628992",
+      "name": "Best Friends Rescue Foundation",
+      "address": "1207 South 4th Avenue, Kelso, WA 98626",
+      "phone": "360-578-9972",
+      "image": "./img/shelter/office/628992.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/best-friends-rescue-foundation-628992/",
+      "imageUrl": "https://cdn.findpawpal.com/office/628992.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 664412,
+      "slug": "cowlitz-reptile-rescue-664412",
+      "name": "Cowlitz Reptile Rescue",
+      "address": "210 Makela Court, Kelso, WA 98626",
+      "phone": "360-577-5236",
+      "image": "./img/shelter/office/664412.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cowlitz-reptile-rescue-664412/",
+      "imageUrl": "https://cdn.findpawpal.com/office/664412.jpg?f=webp&w=730"
+    }
+  ]
+}

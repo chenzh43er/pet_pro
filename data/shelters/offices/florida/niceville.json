@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:16:04.419461+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "niceville",
+    "name": "Niceville",
+    "label": "Niceville, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/niceville/",
+  "offices": [
+    {
+      "slug": "niceville-animal-control-343083",
+      "name": "Niceville Animal Control",
+      "address": "509 John Sims Parkway, Niceville, FL 32578",
+      "phone": "850-678-2002",
+      "image": "./img/shelter/office/343083.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/niceville-animal-control-343083/",
+      "imageUrl": "https://cdn.findpawpal.com/office/343083.jpg?f=webp&w=730"
+    }
+  ]
+}

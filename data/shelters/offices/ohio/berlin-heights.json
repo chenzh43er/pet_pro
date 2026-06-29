@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:43:02.839115+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "berlin-heights",
+    "name": "Berlin Heights",
+    "label": "Berlin Heights, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/berlin-heights/",
+  "offices": [
+    {
+      "officeId": 457271,
+      "slug": "north-coast-siberian-husky-rescue-457271",
+      "name": "North Coast Siberian Husky Rescue",
+      "address": "PO Box 112, Berlin Heights, OH 44814",
+      "phone": "",
+      "image": "./img/shelter/office/457271.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/north-coast-siberian-husky-rescue-457271/",
+      "imageUrl": "https://cdn.findpawpal.com/office/457271.jpg?f=webp&w=730"
+    }
+  ]
+}

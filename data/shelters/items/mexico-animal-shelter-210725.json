@@ -1,0 +1,21 @@
+{
+  "officeId": 210725,
+  "slug": "mexico-animal-shelter-210725",
+  "name": "Mexico Animal Shelter",
+  "address": "101 South Morris Street, Mexico, MO 65265",
+  "street": "101 South Morris Street",
+  "addressCity": "Mexico",
+  "stateCode": "MO",
+  "zip": "65265",
+  "phone": "573-581-0779",
+  "image": "./img/shelter/office/210725.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/mexico-animal-shelter-210725/",
+  "stateSlug": "missouri",
+  "stateName": "Missouri",
+  "citySlug": "mexico",
+  "cityName": "Mexico",
+  "cityLabel": "Mexico, MO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/missouri/mexico/",
+  "fetchedAt": "2026-06-27T19:19:49.400030+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/210725.jpg?f=webp&w=730"
+}

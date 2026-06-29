@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:18:56.209400+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "richland",
+    "name": "Richland",
+    "label": "Richland, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/richland/",
+  "offices": [
+    {
+      "officeId": 714654,
+      "slug": "tri-city-animal-control-and-sheltering-service-714654",
+      "name": "Tri-City Animal Control and Sheltering Service",
+      "address": "2711 Glen Road, Richland, WA 99354",
+      "phone": "509-946-4487",
+      "image": "./img/shelter/office/714654.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tri-city-animal-control-and-sheltering-service-714654/",
+      "imageUrl": "https://cdn.findpawpal.com/office/714654.jpg?f=webp&w=730"
+    }
+  ]
+}

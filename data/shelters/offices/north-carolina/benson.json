@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:38:07.056202+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "benson",
+    "name": "Benson",
+    "label": "Benson, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/benson/",
+  "offices": [
+    {
+      "officeId": 231287,
+      "slug": "saved-by-faith-pit-rescue-231287",
+      "name": "Saved By Faith Pit Rescue",
+      "address": "6169 Old Fairground Road, Benson, NC 27504",
+      "phone": "919-207-1777",
+      "image": "./img/shelter/office/231287.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/saved-by-faith-pit-rescue-231287/",
+      "imageUrl": "https://cdn.findpawpal.com/office/231287.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 270290,
+      "slug": "mid-atlantic-great-dane-rescue-league-270290",
+      "name": "Mid Atlantic Great Dane Rescue League",
+      "address": "319 Benson Hardee Road, Benson, NC 27504",
+      "phone": "704-559-4121",
+      "image": "./img/shelter/office/270290.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mid-atlantic-great-dane-rescue-league-270290/",
+      "imageUrl": "https://cdn.findpawpal.com/office/270290.jpg?f=webp&w=730"
+    }
+  ]
+}

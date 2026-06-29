@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:15:32.752822+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "stillwater",
+    "name": "Stillwater",
+    "label": "Stillwater, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/stillwater/",
+  "offices": [
+    {
+      "officeId": 419201,
+      "slug": "the-animal-sanctuary-of-st-croix-valley-419201",
+      "name": "The Animal Sanctuary of St. Croix Valley",
+      "address": "PO Box 847, Stillwater, MN 55082",
+      "phone": "800-252-5918",
+      "image": "./img/shelter/office/419201.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-animal-sanctuary-of-st-croix-valley-419201/",
+      "imageUrl": "https://cdn.findpawpal.com/office/419201.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 419213,
+      "slug": "midwest-avian-adoption-and-rescue-services-inc-419213",
+      "name": "Midwest Avian Adoption & Rescue Services, Inc.",
+      "address": "PO Box 821, Stillwater, MN 55082",
+      "phone": "651-275-0568",
+      "image": "./img/shelter/office/419213.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/midwest-avian-adoption-and-rescue-services-inc-419213/",
+      "imageUrl": "https://cdn.findpawpal.com/office/419213.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T19:32:58.642594+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "east-aurora",
+    "name": "East Aurora",
+    "label": "East Aurora, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/east-aurora/",
+  "offices": [
+    {
+      "officeId": 343289,
+      "slug": "east-aurora-animal-shelter-343289",
+      "name": "East Aurora Animal Shelter",
+      "address": "1714 Emery Road, East Aurora, NY 14052",
+      "phone": "716-208-7747",
+      "image": "./img/shelter/office/343289.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/east-aurora-animal-shelter-343289/",
+      "imageUrl": "https://cdn.findpawpal.com/office/343289.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 414547,
+      "slug": "pet-connection-414547",
+      "name": "Pet Connection",
+      "address": "12935 Williston Road, East Aurora, NY 14052",
+      "phone": "716-652-0192",
+      "image": "https://cdn.findpawpal.com/office/414547.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-connection-414547/"
+    },
+    {
+      "officeId": 416661,
+      "slug": "aurora-dog-control-416661",
+      "name": "Aurora Dog Control",
+      "address": "5 South Grove Street, East Aurora, NY 14052",
+      "phone": "716-652-7944",
+      "image": "./img/shelter/office/416661.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/aurora-dog-control-416661/",
+      "imageUrl": "https://cdn.findpawpal.com/office/416661.jpg?f=webp&w=730"
+    }
+  ]
+}

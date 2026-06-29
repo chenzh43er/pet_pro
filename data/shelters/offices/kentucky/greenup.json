@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:57:08.299527+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "greenup",
+    "name": "Greenup",
+    "label": "Greenup, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/greenup/",
+  "offices": [
+    {
+      "officeId": 110683,
+      "slug": "greenup-animal-control-110683",
+      "name": "Greenup Animal Control",
+      "address": "47 Dog Gone Ln, Greenup, KY 41144",
+      "phone": "606-473-5711",
+      "image": "./img/shelter/office/110683.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greenup-animal-control-110683/",
+      "imageUrl": "https://cdn.findpawpal.com/office/110683.jpg?f=webp&w=730"
+    }
+  ]
+}

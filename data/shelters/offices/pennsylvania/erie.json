@@ -1,0 +1,65 @@
+{
+  "fetchedAt": "2026-06-27T19:52:54.269775+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "erie",
+    "name": "Erie",
+    "label": "Erie, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/erie/",
+  "offices": [
+    {
+      "officeId": 437784,
+      "slug": "nwpa-humane-society-437784",
+      "name": "Nwpa Humane Society",
+      "address": "4710 Interchange Rd, Erie, PA 16501",
+      "phone": "",
+      "image": "./img/shelter/office/437784.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/nwpa-humane-society-437784/",
+      "imageUrl": "https://cdn.findpawpal.com/office/437784.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 474510,
+      "slug": "reptile-rescue-of-erie-pa-474510",
+      "name": "Reptile Rescue of Erie, Pa",
+      "address": "702 Cascade Street, Erie, PA 16502",
+      "phone": "",
+      "image": "./img/shelter/office/474510.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/reptile-rescue-of-erie-pa-474510/",
+      "imageUrl": "https://cdn.findpawpal.com/office/474510.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 596441,
+      "slug": "erie-animal-shelter-596441",
+      "name": "Erie Animal Shelter",
+      "address": "1555 East 10th Street, Erie, PA 16511",
+      "phone": "814-451-0230",
+      "image": "./img/shelter/office/596441.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/erie-animal-shelter-596441/",
+      "imageUrl": "https://cdn.findpawpal.com/office/596441.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 688287,
+      "slug": "humane-society-of-northwestern-pennsylvania-688287",
+      "name": "Humane Society of Northwestern Pennsylvania",
+      "address": "2407 Zimmerly Road, Erie, PA 16506",
+      "phone": "814-835-8331",
+      "image": "./img/shelter/office/688287.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-northwestern-pennsylvania-688287/",
+      "imageUrl": "https://cdn.findpawpal.com/office/688287.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 688289,
+      "slug": "presque-isle-animal-shelter-688289",
+      "name": "Presque Isle Animal Shelter",
+      "address": "3024 West 26th Street, Erie, PA 16506",
+      "phone": "814-833-9857",
+      "image": "./img/shelter/office/688289.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/presque-isle-animal-shelter-688289/",
+      "imageUrl": "https://cdn.findpawpal.com/office/688289.jpg?f=webp&w=730"
+    }
+  ]
+}

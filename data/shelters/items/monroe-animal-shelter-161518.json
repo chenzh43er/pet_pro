@@ -1,0 +1,21 @@
+{
+  "officeId": 161518,
+  "slug": "monroe-animal-shelter-161518",
+  "name": "Monroe Animal Shelter",
+  "address": "447 Purdy Hill Road, Monroe, CT 06468",
+  "street": "447 Purdy Hill Road",
+  "addressCity": "Monroe",
+  "stateCode": "CT",
+  "zip": "06468",
+  "phone": "203-452-3760",
+  "image": "./img/shelter/office/161518.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/monroe-animal-shelter-161518/",
+  "stateSlug": "connecticut",
+  "stateName": "Connecticut",
+  "citySlug": "monroe",
+  "cityName": "Monroe",
+  "cityLabel": "Monroe, CT",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/connecticut/monroe/",
+  "fetchedAt": "2026-06-27T18:36:38.783425+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/161518.jpg?f=webp&w=730"
+}

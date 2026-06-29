@@ -1,0 +1,21 @@
+{
+  "officeId": 458197,
+  "slug": "stay-a-while-cat-shelter-458197",
+  "name": "Stay-A-While Cat Shelter",
+  "address": "8800 Akins Road, North Royalton, OH 44133",
+  "street": "8800 Akins Road",
+  "addressCity": "North Royalton",
+  "stateCode": "OH",
+  "zip": "44133",
+  "phone": "440-582-4990",
+  "image": "./img/shelter/office/458197.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/stay-a-while-cat-shelter-458197/",
+  "stateSlug": "ohio",
+  "stateName": "Ohio",
+  "citySlug": "north-royalton",
+  "cityName": "North Royalton",
+  "cityLabel": "North Royalton, OH",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/ohio/north-royalton/",
+  "fetchedAt": "2026-06-27T19:46:09.286775+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/458197.jpg?f=webp&w=730"
+}

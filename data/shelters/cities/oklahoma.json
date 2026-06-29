@@ -1,0 +1,578 @@
+{
+  "fetchedAt": "2026-06-27T17:48:26.443145+00:00",
+  "state": {
+    "slug": "oklahoma",
+    "name": "Oklahoma",
+    "offices": 150
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oklahoma/",
+  "cities": [
+    {
+      "slug": "ada",
+      "name": "Ada",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/ada/"
+    },
+    {
+      "slug": "altus",
+      "name": "Altus",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/altus/"
+    },
+    {
+      "slug": "anadarko",
+      "name": "Anadarko",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/anadarko/"
+    },
+    {
+      "slug": "ardmore",
+      "name": "Ardmore",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/ardmore/"
+    },
+    {
+      "slug": "barnsdall",
+      "name": "Barnsdall",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/barnsdall/"
+    },
+    {
+      "slug": "bartlesville",
+      "name": "Bartlesville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/bartlesville/"
+    },
+    {
+      "slug": "bethany",
+      "name": "Bethany",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/bethany/"
+    },
+    {
+      "slug": "bixby",
+      "name": "Bixby",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/bixby/"
+    },
+    {
+      "slug": "bristow",
+      "name": "Bristow",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/bristow/"
+    },
+    {
+      "slug": "broken-arrow",
+      "name": "Broken Arrow",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/broken-arrow/"
+    },
+    {
+      "slug": "cache",
+      "name": "Cache",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/cache/"
+    },
+    {
+      "slug": "carnegie",
+      "name": "Carnegie",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/carnegie/"
+    },
+    {
+      "slug": "checotah",
+      "name": "Checotah",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/checotah/"
+    },
+    {
+      "slug": "chickasha",
+      "name": "Chickasha",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/chickasha/"
+    },
+    {
+      "slug": "choctaw",
+      "name": "Choctaw",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/choctaw/"
+    },
+    {
+      "slug": "claremore",
+      "name": "Claremore",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/claremore/"
+    },
+    {
+      "slug": "collinsville",
+      "name": "Collinsville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/collinsville/"
+    },
+    {
+      "slug": "cushing",
+      "name": "Cushing",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/cushing/"
+    },
+    {
+      "slug": "del",
+      "name": "Del",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/del/"
+    },
+    {
+      "slug": "dewey",
+      "name": "Dewey",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/dewey/"
+    },
+    {
+      "slug": "duncan",
+      "name": "Duncan",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/duncan/"
+    },
+    {
+      "slug": "durant",
+      "name": "Durant",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/durant/"
+    },
+    {
+      "slug": "edmond",
+      "name": "Edmond",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/edmond/"
+    },
+    {
+      "slug": "el-reno",
+      "name": "El Reno",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/el-reno/"
+    },
+    {
+      "slug": "elk",
+      "name": "Elk",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/elk/"
+    },
+    {
+      "slug": "enid",
+      "name": "Enid",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/enid/"
+    },
+    {
+      "slug": "frederick",
+      "name": "Frederick",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/frederick/"
+    },
+    {
+      "slug": "grove",
+      "name": "Grove",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/grove/"
+    },
+    {
+      "slug": "guthrie",
+      "name": "Guthrie",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/guthrie/"
+    },
+    {
+      "slug": "guymon",
+      "name": "Guymon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/guymon/"
+    },
+    {
+      "slug": "healdton",
+      "name": "Healdton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/healdton/"
+    },
+    {
+      "slug": "henryetta",
+      "name": "Henryetta",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/henryetta/"
+    },
+    {
+      "slug": "inola",
+      "name": "Inola",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/inola/"
+    },
+    {
+      "slug": "jones",
+      "name": "Jones",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/jones/"
+    },
+    {
+      "slug": "kingfisher",
+      "name": "Kingfisher",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/kingfisher/"
+    },
+    {
+      "slug": "lawton",
+      "name": "Lawton",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/lawton/"
+    },
+    {
+      "slug": "locust-grove",
+      "name": "Locust Grove",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/locust-grove/"
+    },
+    {
+      "slug": "luther",
+      "name": "Luther",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/luther/"
+    },
+    {
+      "slug": "madill",
+      "name": "Madill",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/madill/"
+    },
+    {
+      "slug": "mangum",
+      "name": "Mangum",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/mangum/"
+    },
+    {
+      "slug": "mannford",
+      "name": "Mannford",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/mannford/"
+    },
+    {
+      "slug": "mcalester",
+      "name": "McAlester",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/mcalester/"
+    },
+    {
+      "slug": "miami",
+      "name": "Miami",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/miami/"
+    },
+    {
+      "slug": "midwest",
+      "name": "Midwest",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/midwest/"
+    },
+    {
+      "slug": "muldrow",
+      "name": "Muldrow",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/muldrow/"
+    },
+    {
+      "slug": "muskogee",
+      "name": "Muskogee",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/muskogee/"
+    },
+    {
+      "slug": "mustang",
+      "name": "Mustang",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/mustang/"
+    },
+    {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/newcastle/"
+    },
+    {
+      "slug": "noble",
+      "name": "Noble",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/noble/"
+    },
+    {
+      "slug": "norman",
+      "name": "Norman",
+      "offices": 7,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/norman/"
+    },
+    {
+      "slug": "nowata",
+      "name": "Nowata",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/nowata/"
+    },
+    {
+      "slug": "oklahoma",
+      "name": "Oklahoma",
+      "offices": 14,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/oklahoma/"
+    },
+    {
+      "slug": "okmulgee",
+      "name": "Okmulgee",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/okmulgee/"
+    },
+    {
+      "slug": "owasso",
+      "name": "Owasso",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/owasso/"
+    },
+    {
+      "slug": "park-hill",
+      "name": "Park Hill",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/park-hill/"
+    },
+    {
+      "slug": "pauls-valley",
+      "name": "Pauls Valley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/pauls-valley/"
+    },
+    {
+      "slug": "pawhuska",
+      "name": "Pawhuska",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/pawhuska/"
+    },
+    {
+      "slug": "ponca",
+      "name": "Ponca",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/ponca/"
+    },
+    {
+      "slug": "prague",
+      "name": "Prague",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/prague/"
+    },
+    {
+      "slug": "pryor",
+      "name": "Pryor",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/pryor/"
+    },
+    {
+      "slug": "pryor-creek",
+      "name": "Pryor Creek",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/pryor-creek/"
+    },
+    {
+      "slug": "purcell",
+      "name": "Purcell",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/purcell/"
+    },
+    {
+      "slug": "quapaw",
+      "name": "Quapaw",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/quapaw/"
+    },
+    {
+      "slug": "sand-springs",
+      "name": "Sand Springs",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/sand-springs/"
+    },
+    {
+      "slug": "sapulpa",
+      "name": "Sapulpa",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/sapulpa/"
+    },
+    {
+      "slug": "shawnee",
+      "name": "Shawnee",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/shawnee/"
+    },
+    {
+      "slug": "skiatook",
+      "name": "Skiatook",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/skiatook/"
+    },
+    {
+      "slug": "spencer",
+      "name": "Spencer",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/spencer/"
+    },
+    {
+      "slug": "sterling",
+      "name": "Sterling",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/sterling/"
+    },
+    {
+      "slug": "stillwater",
+      "name": "Stillwater",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/stillwater/"
+    },
+    {
+      "slug": "tahlequah",
+      "name": "Tahlequah",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/tahlequah/"
+    },
+    {
+      "slug": "tecumseh",
+      "name": "Tecumseh",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/tecumseh/"
+    },
+    {
+      "slug": "temple",
+      "name": "Temple",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/temple/"
+    },
+    {
+      "slug": "tulsa",
+      "name": "Tulsa",
+      "offices": 11,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/tulsa/"
+    },
+    {
+      "slug": "vinita",
+      "name": "Vinita",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/vinita/"
+    },
+    {
+      "slug": "wagoner",
+      "name": "Wagoner",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/wagoner/"
+    },
+    {
+      "slug": "wellston",
+      "name": "Wellston",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/wellston/"
+    },
+    {
+      "slug": "wilburton",
+      "name": "Wilburton",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/wilburton/"
+    },
+    {
+      "slug": "wilson",
+      "name": "Wilson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/wilson/"
+    },
+    {
+      "slug": "woodward",
+      "name": "Woodward",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/woodward/"
+    },
+    {
+      "slug": "yukon",
+      "name": "Yukon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/yukon/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:14:59.635078+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "mora",
+    "name": "Mora",
+    "label": "Mora, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/mora/",
+  "offices": [
+    {
+      "officeId": 422062,
+      "slug": "almost-home-animal-shelter-422062",
+      "name": "Almost Home Animal Shelter",
+      "address": "2283 Highway 23, Mora, MN 55051",
+      "phone": "320-679-5376",
+      "image": "./img/shelter/office/422062.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/almost-home-animal-shelter-422062/",
+      "imageUrl": "https://cdn.findpawpal.com/office/422062.jpg?f=webp&w=730"
+    }
+  ]
+}

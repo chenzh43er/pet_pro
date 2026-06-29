@@ -1,0 +1,21 @@
+{
+  "officeId": 208035,
+  "slug": "chillicothe-animal-shelter-208035",
+  "name": "Chillicothe Animal Shelter",
+  "address": "1400 South Mitchell Avenue, Chillicothe, MO 64601",
+  "street": "1400 South Mitchell Avenue",
+  "addressCity": "Chillicothe",
+  "stateCode": "MO",
+  "zip": "64601",
+  "phone": "660-646-1006",
+  "image": "./img/shelter/office/208035.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/chillicothe-animal-shelter-208035/",
+  "stateSlug": "missouri",
+  "stateName": "Missouri",
+  "citySlug": "chillicothe",
+  "cityName": "Chillicothe",
+  "cityLabel": "Chillicothe, MO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/missouri/chillicothe/",
+  "fetchedAt": "2026-06-27T19:18:11.084007+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/208035.jpg?f=webp&w=730"
+}

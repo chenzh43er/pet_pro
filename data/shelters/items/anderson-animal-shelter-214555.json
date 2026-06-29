@@ -1,0 +1,21 @@
+{
+  "officeId": 214555,
+  "slug": "anderson-animal-shelter-214555",
+  "name": "Anderson Animal Shelter",
+  "address": "613 Dewey Street, Anderson, IN 46016",
+  "street": "613 Dewey Street",
+  "addressCity": "Anderson",
+  "stateCode": "IN",
+  "zip": "46016",
+  "phone": "765-648-6305",
+  "image": "./img/shelter/office/214555.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/anderson-animal-shelter-214555/",
+  "stateSlug": "indiana",
+  "stateName": "Indiana",
+  "citySlug": "anderson",
+  "cityName": "Anderson",
+  "cityLabel": "Anderson, IN",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/indiana/anderson/",
+  "fetchedAt": "2026-06-27T18:49:06.939623+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/214555.jpg?f=webp&w=730"
+}

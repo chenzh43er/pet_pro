@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:33:08.002631+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "east-northport",
+    "name": "East Northport",
+    "label": "East Northport, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/east-northport/",
+  "offices": [
+    {
+      "officeId": 331573,
+      "slug": "town-of-huntington-animal-shelter-331573",
+      "name": "Town of Huntington Animal Shelter",
+      "address": "106 Deposit Road, East Northport, NY 11731",
+      "phone": "516-754-2030",
+      "image": "./img/shelter/office/331573.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/town-of-huntington-animal-shelter-331573/",
+      "imageUrl": "https://cdn.findpawpal.com/office/331573.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 334124,
+      "slug": "last-hope-inc-334124",
+      "name": "Last Hope, Inc.",
+      "address": "202 Vernon Valley Road, East Northport, NY 11731",
+      "phone": "516-754-3474",
+      "image": "./img/shelter/office/334124.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/last-hope-inc-334124/",
+      "imageUrl": "https://cdn.findpawpal.com/office/334124.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 342145,
+      "slug": "league-for-animal-protection-342145",
+      "name": "League For Animal Protection",
+      "address": "104 Deposit Road, East Northport, NY 11731",
+      "phone": "631-757-4517",
+      "image": "./img/shelter/office/342145.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/league-for-animal-protection-342145/",
+      "imageUrl": "https://cdn.findpawpal.com/office/342145.jpg?f=webp&w=730"
+    }
+  ]
+}

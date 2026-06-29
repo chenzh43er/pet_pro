@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:36:55.858058+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "southampton",
+    "name": "Southampton",
+    "label": "Southampton, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/southampton/",
+  "offices": [
+    {
+      "officeId": 331577,
+      "slug": "welcome-home-sanctuary-inc-331577",
+      "name": "Welcome Home Sanctuary, Inc.",
+      "address": "1569 Noyack Road, Southampton, NY 11968",
+      "phone": "631-287-5428",
+      "image": "./img/shelter/office/331577.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/welcome-home-sanctuary-inc-331577/",
+      "imageUrl": "https://cdn.findpawpal.com/office/331577.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 440637,
+      "slug": "southampton-animal-shelter-440637",
+      "name": "Southampton Animal Shelter",
+      "address": "30 Jagger Lane, Southampton, NY 11968",
+      "phone": "631-287-7387",
+      "image": "./img/shelter/office/440637.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/southampton-animal-shelter-440637/",
+      "imageUrl": "https://cdn.findpawpal.com/office/440637.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 581151,
+  "slug": "midwest-city-animal-shelter-581151",
+  "name": "Midwest City Animal Shelter",
+  "address": "100 North Midwest Boulevard, Midwest, OK 73110",
+  "street": "100 North Midwest Boulevard",
+  "addressCity": "Midwest",
+  "stateCode": "OK",
+  "zip": "73110",
+  "phone": "405-427-6640",
+  "image": "./img/shelter/office/581151.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/midwest-city-animal-shelter-581151/",
+  "stateSlug": "oklahoma",
+  "stateName": "Oklahoma",
+  "citySlug": "midwest",
+  "cityName": "Midwest",
+  "cityLabel": "Midwest, OK",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/oklahoma/midwest/",
+  "fetchedAt": "2026-06-27T19:48:59.999624+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/581151.jpg?f=webp&w=730"
+}

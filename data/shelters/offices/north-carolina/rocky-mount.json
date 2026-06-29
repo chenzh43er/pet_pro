@@ -1,0 +1,52 @@
+{
+  "fetchedAt": "2026-06-27T19:41:07.465581+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "rocky-mount",
+    "name": "Rocky Mount",
+    "label": "Rocky Mount, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/rocky-mount/",
+  "offices": [
+    {
+      "officeId": 213556,
+      "slug": "edgecombe-nash-humane-society-213556",
+      "name": "Edgecombe Nash Humane Society",
+      "address": "PO Box 1783, Rocky Mount, NC 27802",
+      "phone": "919-446-1669",
+      "image": "https://cdn.findpawpal.com/office/213556.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/edgecombe-nash-humane-society-213556/"
+    },
+    {
+      "officeId": 257482,
+      "slug": "friends-of-rocky-mount-animals-inc-257482",
+      "name": "Friends of Rocky Mount Animals, Inc.",
+      "address": "PO Box 7866, Rocky Mount, NC 27804",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/257482.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-rocky-mount-animals-inc-257482/"
+    },
+    {
+      "officeId": 269618,
+      "slug": "merlins-song-269618",
+      "name": "Merlin's Song",
+      "address": "PO Box 7696, Rocky Mount, NC 27804",
+      "phone": "252-446-7611",
+      "image": "https://cdn.findpawpal.com/office/269618.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/merlins-song-269618/"
+    },
+    {
+      "officeId": 270605,
+      "slug": "rocky-mount-animal-shelter-270605",
+      "name": "Rocky Mount Animal Shelter",
+      "address": "1101 North Church Street, Rocky Mount, NC 27804",
+      "phone": "252-972-1390",
+      "image": "./img/shelter/office/270605.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rocky-mount-animal-shelter-270605/",
+      "imageUrl": "https://cdn.findpawpal.com/office/270605.jpg?f=webp&w=730"
+    }
+  ]
+}

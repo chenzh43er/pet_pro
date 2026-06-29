@@ -1,0 +1,21 @@
+{
+  "officeId": 6969,
+  "slug": "douglas-county-animal-shelter-6969",
+  "name": "Douglas County Animal Shelter",
+  "address": "921 Pinenut Road, Gardnerville, NV 89410",
+  "street": "921 Pinenut Road",
+  "addressCity": "Gardnerville",
+  "stateCode": "NV",
+  "zip": "89410",
+  "phone": "775-782-9061",
+  "image": "./img/shelter/office/6969.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/douglas-county-animal-shelter-6969/",
+  "stateSlug": "nevada",
+  "stateName": "Nevada",
+  "citySlug": "gardnerville",
+  "cityName": "Gardnerville",
+  "cityLabel": "Gardnerville, NV",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/nevada/gardnerville/",
+  "fetchedAt": "2026-06-27T19:23:14.765715+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/6969.jpg?f=webp&w=730"
+}

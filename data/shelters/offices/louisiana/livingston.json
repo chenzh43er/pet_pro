@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:00:09.506339+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "livingston",
+    "name": "Livingston",
+    "label": "Livingston, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/livingston/",
+  "offices": [
+    {
+      "officeId": 240065,
+      "slug": "livingston-parish-animal-shelter-240065",
+      "name": "Livingston Parish Animal Shelter",
+      "address": "13525 Florida Boulevard, Livingston, LA 70754",
+      "phone": "225-686-7798",
+      "image": "./img/shelter/office/240065.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/livingston-parish-animal-shelter-240065/",
+      "imageUrl": "https://cdn.findpawpal.com/office/240065.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:18:54.716252+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "republic",
+    "name": "Republic",
+    "label": "Republic, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/republic/",
+  "offices": [
+    {
+      "officeId": 614393,
+      "slug": "forget-me-not-animal-shelter-614393",
+      "name": "Forget Me Not Animal Shelter",
+      "address": "49 West Curlew Lake Road, Republic, WA 99166",
+      "phone": "509-775-2308",
+      "image": "./img/shelter/office/614393.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/forget-me-not-animal-shelter-614393/",
+      "imageUrl": "https://cdn.findpawpal.com/office/614393.jpg?f=webp&w=730"
+    }
+  ]
+}

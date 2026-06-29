@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:42:05.747979+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "winnabow",
+    "name": "Winnabow",
+    "label": "Winnabow, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/winnabow/",
+  "offices": [
+    {
+      "officeId": 267653,
+      "slug": "paws-place-inc-267653",
+      "name": "Paws Place Inc",
+      "address": "3701 East Boiling Spring Road, Winnabow, NC 28479",
+      "phone": "910-845-7297",
+      "image": "./img/shelter/office/267653.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/paws-place-inc-267653/",
+      "imageUrl": "https://cdn.findpawpal.com/office/267653.jpg?f=webp&w=730"
+    }
+  ]
+}

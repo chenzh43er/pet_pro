@@ -1,0 +1,21 @@
+{
+  "officeId": 193431,
+  "slug": "cameron-animal-shelter-193431",
+  "name": "Cameron Animal Shelter",
+  "address": "209 North Main Street, Cameron, MO 64429",
+  "street": "209 North Main Street",
+  "addressCity": "Cameron",
+  "stateCode": "MO",
+  "zip": "64429",
+  "phone": "816-632-6521",
+  "image": "./img/shelter/office/193431.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/cameron-animal-shelter-193431/",
+  "stateSlug": "missouri",
+  "stateName": "Missouri",
+  "citySlug": "cameron",
+  "cityName": "Cameron",
+  "cityLabel": "Cameron, MO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/missouri/cameron/",
+  "fetchedAt": "2026-06-27T19:18:03.612889+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/193431.jpg?f=webp&w=730"
+}

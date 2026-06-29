@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:14:06.696441+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "dunnellon",
+    "name": "Dunnellon",
+    "label": "Dunnellon, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/dunnellon/",
+  "offices": [
+    {
+      "slug": "independent-brittany-rescue-and-rehabilitation-289696",
+      "name": "Independent Brittany Rescue & Rehabilitation",
+      "address": "10150 Southwest 129th Terrace Road, Dunnellon, FL 34432",
+      "phone": "352-465-7655",
+      "image": "./img/shelter/office/289696.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/independent-brittany-rescue-and-rehabilitation-289696/",
+      "imageUrl": "https://cdn.findpawpal.com/office/289696.jpg?f=webp&w=730"
+    }
+  ]
+}

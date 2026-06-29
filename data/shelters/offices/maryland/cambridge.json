@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:03:01.390733+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "cambridge",
+    "name": "Cambridge",
+    "label": "Cambridge, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/cambridge/",
+  "offices": [
+    {
+      "officeId": 371378,
+      "slug": "humane-society-of-dorchester-371378",
+      "name": "Humane Society of Dorchester",
+      "address": "4930 Bucktown Road, Cambridge, MD 21613",
+      "phone": "410-228-3090",
+      "image": "./img/shelter/office/371378.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-dorchester-371378/",
+      "imageUrl": "https://cdn.findpawpal.com/office/371378.jpg?f=webp&w=730"
+    }
+  ]
+}

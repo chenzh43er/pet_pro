@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:28:23.207704+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "pleasantville",
+    "name": "Pleasantville",
+    "label": "Pleasantville, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/pleasantville/",
+  "offices": [
+    {
+      "officeId": 96868,
+      "slug": "atlantic-county-animal-shelter-96868",
+      "name": "Atlantic County Animal Shelter",
+      "address": "240 Old Turnpike, Pleasantville, NJ 08232",
+      "phone": "609-485-2345",
+      "image": "./img/shelter/office/96868.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/atlantic-county-animal-shelter-96868/",
+      "imageUrl": "https://cdn.findpawpal.com/office/96868.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 106215,
+      "slug": "atlantic-county-animal-shelter-106215",
+      "name": "Atlantic County Animal Shelter",
+      "address": "240 Old Turnpike, Pleasantville, NJ 08232",
+      "phone": "609-485-2345",
+      "image": "./img/shelter/office/106215.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/atlantic-county-animal-shelter-106215/",
+      "imageUrl": "https://cdn.findpawpal.com/office/106215.jpg?f=webp&w=730"
+    }
+  ]
+}

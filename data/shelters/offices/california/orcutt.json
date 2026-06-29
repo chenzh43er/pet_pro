@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:28:50.073348+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "orcutt",
+    "name": "Orcutt",
+    "label": "Orcutt, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/orcutt/",
+  "offices": [
+    {
+      "officeId": 533641,
+      "slug": "central-coast-spca-533641",
+      "name": "Central Coast SPCA",
+      "address": "PO Box 2952, Orcutt, CA 93457",
+      "phone": "",
+      "image": "./img/shelter/office/533641.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/central-coast-spca-533641/",
+      "imageUrl": "https://cdn.findpawpal.com/office/533641.jpg?f=webp&w=730"
+    }
+  ]
+}

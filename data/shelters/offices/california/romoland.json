@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-06-27T18:29:58.310401+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "romoland",
+    "name": "Romoland",
+    "label": "Romoland, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/romoland/",
+  "offices": [
+    {
+      "slug": "col-potter-cairn-rescue-network-360840",
+      "name": "Col. Potter Cairn Rescue Network",
+      "address": "PO Box 1354, Romoland, CA 92585",
+      "phone": "772-528-5518",
+      "image": "https://cdn.findpawpal.com/office/360840.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/col-potter-cairn-rescue-network-360840/"
+    }
+  ]
+}

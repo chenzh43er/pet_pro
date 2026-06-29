@@ -1,0 +1,63 @@
+{
+  "fetchedAt": "2026-06-27T18:56:06.564786+00:00",
+  "state": {
+    "slug": "kansas",
+    "name": "Kansas"
+  },
+  "city": {
+    "slug": "wichita",
+    "name": "Wichita",
+    "label": "Wichita, KS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kansas/wichita/",
+  "offices": [
+    {
+      "officeId": 5418,
+      "slug": "kansas-k-9-resq-inc-5418",
+      "name": "Kansas K-9 Resq, Inc.",
+      "address": "PO Box 1117, Wichita, KS 67201",
+      "phone": "316-295-6534",
+      "image": "https://cdn.findpawpal.com/office/5418.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas-k-9-resq-inc-5418/"
+    },
+    {
+      "officeId": 5428,
+      "slug": "pals-animal-rescue-5428",
+      "name": "Pals Animal Rescue",
+      "address": "PO Box 47342, Wichita, KS 67201",
+      "phone": "316-210-6454",
+      "image": "https://cdn.findpawpal.com/office/5428.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/pals-animal-rescue-5428/"
+    },
+    {
+      "officeId": 5562,
+      "slug": "wichita-animal-shelter-5562",
+      "name": "Wichita Animal Shelter",
+      "address": "3303 North Hillside Street, Wichita, KS 67219",
+      "phone": "316-350-3366",
+      "image": "./img/shelter/office/5562.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wichita-animal-shelter-5562/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5562.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 5580,
+      "slug": "heartreach-animals-society-5580",
+      "name": "Heartreach Animals Society",
+      "address": "2111 North Arkansas, Wichita, KS 67203",
+      "phone": "316-262-8599",
+      "image": "./img/shelter/office/5580.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/heartreach-animals-society-5580/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5580.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 5597,
+      "slug": "kansas-humane-society-5597",
+      "name": "Kansas Humane Society",
+      "address": "3313 North Hillside Street, Wichita, KS 67219",
+      "phone": "316-524-9196",
+      "image": "./img/shelter/office/5597.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas-humane-society-5597/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5597.jpg?f=webp&w=730"
+    }
+  ]
+}

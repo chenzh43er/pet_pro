@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:28:44.150535+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "roosevelt",
+    "name": "Roosevelt",
+    "label": "Roosevelt, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/roosevelt/",
+  "offices": [
+    {
+      "officeId": 94903,
+      "slug": "all-4-the-dogs-rescue-94903",
+      "name": "All 4 the Dogs Rescue",
+      "address": "PO Box 204, Roosevelt, NJ 08555",
+      "phone": "609-443-4386",
+      "image": "./img/shelter/office/94903.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/all-4-the-dogs-rescue-94903/",
+      "imageUrl": "https://cdn.findpawpal.com/office/94903.jpg?f=webp&w=730"
+    }
+  ]
+}

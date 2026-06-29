@@ -1,0 +1,335 @@
+{
+  "stateSlug": "wyoming",
+  "count": 47,
+  "shelters": [
+    {
+      "slug": "afton-animal-shelter-722000",
+      "name": "Afton Animal Shelter",
+      "address": "1136 Dry Creek Road, Afton, WY 83110",
+      "phone": "307-886-0433",
+      "image": "https://cdn.findpawpal.com/office/722000.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-control-office-dog-pound-709651",
+      "name": "Animal Control Office - Dog Pound",
+      "address": "624 West Fetterman Street, Buffalo, WY 82834",
+      "phone": "307-684-2757",
+      "image": "https://cdn.findpawpal.com/office/709651.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "st-francis-animal-shelter-inc-600311",
+      "name": "St Francis Animal Shelter Inc",
+      "address": "109 Flatiron Drive, Buffalo, WY 82834",
+      "phone": "307-684-1738",
+      "image": "https://cdn.findpawpal.com/office/600311.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hope4fuziefaniez-582709",
+      "name": "Hope4fuziefaniez",
+      "address": "70 County Road 156, Carpenter, WY 82054",
+      "phone": "970-895-2327",
+      "image": "https://cdn.findpawpal.com/office/582709.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "casper-humane-society-593241",
+      "name": "Casper Humane Society",
+      "address": "849 East E Street, Casper, WY 82601",
+      "phone": "307-265-5439",
+      "image": "https://cdn.findpawpal.com/office/593241.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "casper-metro-animal-control-center-576806",
+      "name": "Casper Metro Animal Control Center",
+      "address": "2392 Metro Road, Casper, WY 82601",
+      "phone": "307-235-8398",
+      "image": "https://cdn.findpawpal.com/office/576806.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "grants-house-of-pits-g-o-i-n-g-ranch-532092",
+      "name": "Grants House of Pits @G.O.I.N.G Ranch",
+      "address": "14786 Highway 20, Casper, WY 82604",
+      "phone": "307-247-4610",
+      "image": "https://cdn.findpawpal.com/office/532092.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "black-dog-animal-rescue-576842",
+      "name": "Black Dog Animal Rescue",
+      "address": "8313 Red Fox Road, Cheyenne, WY 82009",
+      "phone": "307-640-0092",
+      "image": "https://cdn.findpawpal.com/office/576842.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cheyenne-animal-shelter-653553",
+      "name": "Cheyenne Animal Shelter",
+      "address": "800 Southwest Drive, Cheyenne, WY 82007",
+      "phone": "307-632-6655",
+      "image": "https://cdn.findpawpal.com/office/653553.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sacred-earth-animal-rescue-inc-651790",
+      "name": "Sacred Earth Animal Rescue, Inc.",
+      "address": "PO Box 15708, Cheyenne, WY 82003",
+      "phone": "307-640-6703",
+      "image": "https://cdn.findpawpal.com/office/651790.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wyoming-advocates-for-animals-651792",
+      "name": "Wyoming Advocates for Animals",
+      "address": "316 East Pershing Boulevard, Cheyenne, WY 82001",
+      "phone": "307-778-4086",
+      "image": "https://cdn.findpawpal.com/office/651792.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-control-division-police-department-552678",
+      "name": "Animal Control Division Police Department",
+      "address": "1402 River View Drive, Cody, WY 82414",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/552678.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-park-county-653550",
+      "name": "Humane Society of Park County",
+      "address": "5537 Greybull Highway, Cody, WY 82414",
+      "phone": "307-587-5110",
+      "image": "https://cdn.findpawpal.com/office/653550.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "converse-county-humane-society-688793",
+      "name": "Converse County Humane Society",
+      "address": "PO Box 630, Douglas, WY 82633",
+      "phone": "307-356-5280",
+      "image": "https://cdn.findpawpal.com/office/688793.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "evanston-animal-control-651808",
+      "name": "Evanston Animal Control",
+      "address": "45 Patriot Court, Evanston, WY 82930",
+      "phone": "307-783-6471",
+      "image": "https://cdn.findpawpal.com/office/651808.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "campbell-county-humane-society-653529",
+      "name": "Campbell County Humane Society",
+      "address": "PO Box 502, Gillette, WY 82717",
+      "phone": "307-682-7465",
+      "image": "https://cdn.findpawpal.com/office/653529.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "gillette-animal-shelter-576730",
+      "name": "Gillette Animal Shelter",
+      "address": "950 West Warlow Drive, Gillette, WY 82716",
+      "phone": "307-686-5249",
+      "image": "https://cdn.findpawpal.com/office/576730.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "glendo-animal-control-709653",
+      "name": "Glendo Animal Control",
+      "address": "1625 Wyoming 270, Glendo, WY 82213",
+      "phone": "307-735-4177",
+      "image": "https://cdn.findpawpal.com/office/709653.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wyoming-border-collie-rescue-552620",
+      "name": "Wyoming Border Collie Rescue",
+      "address": "PO Box 141, Glenrock, WY 82637",
+      "phone": "307-436-5458",
+      "image": "https://cdn.findpawpal.com/office/552620.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-control-shelter-576848",
+      "name": "Animal Control Shelter",
+      "address": "50 East 2nd North, Green River, WY 82935",
+      "phone": "307-872-0570",
+      "image": "https://cdn.findpawpal.com/office/576848.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hartville-animal-control-600341",
+      "name": "Hartville Animal Control",
+      "address": "854 Wyoming 270, Hartville, WY 82215",
+      "phone": "307-735-4177",
+      "image": "https://cdn.findpawpal.com/office/600341.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-pals-inc-532049",
+      "name": "Pet Pals, Inc.",
+      "address": "2881 County Hwy 2, Hawk Springs, WY 82217",
+      "phone": "307-532-3861",
+      "image": "https://cdn.findpawpal.com/office/532049.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-adoption-center-653560",
+      "name": "Animal Adoption Center",
+      "address": "270 East Broadway, Jackson, WY 83001",
+      "phone": "307-739-1881",
+      "image": "https://cdn.findpawpal.com/office/653560.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "teton-county-animal-shelter-600278",
+      "name": "Teton County Animal Shelter",
+      "address": "3150 Adams Canyon Drive, Jackson, WY 83001",
+      "phone": "307-733-2139",
+      "image": "https://cdn.findpawpal.com/office/600278.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "teton-county-pal-532061",
+      "name": "Teton County Pal",
+      "address": "PO Box 10023, Jackson, WY 83002",
+      "phone": "307-733-9167",
+      "image": "https://cdn.findpawpal.com/office/532061.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "happy-tails-fur-ever-rescue-sanctuary-inc-593221",
+      "name": "Happy Tails Fur-Ever Rescue sanctuary, Inc.",
+      "address": "1002 Elkol Industrial Park, Kemmerer, WY 83101",
+      "phone": "307-877-4621",
+      "image": "https://cdn.findpawpal.com/office/593221.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-and-claws-animal-adoption-and-care-center-inc-600214",
+      "name": "Paws and Claws Animal Adoption and Care Center Inc",
+      "address": "104 Sublet Avenue, Kemmerer, WY 83101",
+      "phone": "307-723-0070",
+      "image": "https://cdn.findpawpal.com/office/600214.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lander-pet-connection-709644",
+      "name": "Lander Pet Connection",
+      "address": "385 Del Street, Lander, WY 82520",
+      "phone": "307-330-5200",
+      "image": "https://cdn.findpawpal.com/office/709644.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-care-center-laramie-653574",
+      "name": "Animal Care Center Laramie",
+      "address": "PO Box 2224, Laramie, WY 82073",
+      "phone": "307-742-0483",
+      "image": "https://cdn.findpawpal.com/office/653574.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "laramie-animal-shelter-532064",
+      "name": "Laramie Animal Shelter",
+      "address": "1064 North 5th Street, Laramie, WY 82072",
+      "phone": "307-721-5385",
+      "image": "https://cdn.findpawpal.com/office/532064.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "4-legged-rescue-593204",
+      "name": "4 Legged Rescue",
+      "address": "PO Box 512, Mills, WY 82644",
+      "phone": "307-277-0098",
+      "image": "https://cdn.findpawpal.com/office/593204.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wyoming-basset-hound-rescue-552626",
+      "name": "Wyoming Basset Hound Rescue",
+      "address": "PO Box 2513, Mills, WY 82644",
+      "phone": "307-234-5607",
+      "image": "https://cdn.findpawpal.com/office/552626.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "newcastle-animal-control-600316",
+      "name": "Newcastle Animal Control",
+      "address": "25 North Sumner Avenue, Newcastle, WY 82701",
+      "phone": "307-746-4486",
+      "image": "https://cdn.findpawpal.com/office/600316.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "weston-county-humane-society-709641",
+      "name": "Weston County Humane Society",
+      "address": "419 Elk Mountain Drive, Newcastle, WY 82701",
+      "phone": "307-746-9770",
+      "image": "https://cdn.findpawpal.com/office/709641.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pinedale-animal-control-722376",
+      "name": "Pinedale Animal Control",
+      "address": "41 North Franklin Avenue, Pinedale, WY 82941",
+      "phone": "307-367-4136",
+      "image": "https://cdn.findpawpal.com/office/722376.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rawlins-animal-shelter-593284",
+      "name": "Rawlins Animal Shelter",
+      "address": "Airport Rd, Rawlins, WY 82301",
+      "phone": "307-328-4534",
+      "image": "https://cdn.findpawpal.com/office/593284.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "riverton-animal-shelter-582703",
+      "name": "Riverton Animal Shelter",
+      "address": "816 North Federal Boulevard, Riverton, WY 82501",
+      "phone": "307-857-6002",
+      "image": "https://cdn.findpawpal.com/office/582703.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "red-desert-humane-society-709649",
+      "name": "Red Desert Humane Society",
+      "address": "310 Yellowstone Road, Rock Springs, WY 82901",
+      "phone": "307-362-1636",
+      "image": "https://cdn.findpawpal.com/office/709649.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rock-springs-animal-control-532149",
+      "name": "Rock Springs Animal Control",
+      "address": "850 West Center Street, Rock Springs, WY 82901",
+      "phone": "307-352-1455",
+      "image": "https://cdn.findpawpal.com/office/532149.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "desert-kennels-532042",
+      "name": "Desert Kennels",
+      "address": "PO Box 336, Saint Stephens, WY 82524",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/532042.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rescue-me-dog-709633",
+      "name": "Rescue Me Dog",
+      "address": "PO Box 1243, Saratoga, WY 82331",
+      "phone": "307-320-5214",
+      "image": "https://cdn.findpawpal.com/office/709633.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "herding-rescue-dogs-herd-of-wy-600207",
+      "name": "Herding Rescue Dogs Herd of Wy",
+      "address": "141 East Colorado Street, Sheridan, WY 82801",
+      "phone": "307-752-0812",
+      "image": "https://cdn.findpawpal.com/office/600207.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-sheridan-cat-rescue-593213",
+      "name": "Second Chance Sheridan Cat Rescue",
+      "address": "PO Box 7254, Sheridan, WY 82801",
+      "phone": "307-752-5807",
+      "image": "https://cdn.findpawpal.com/office/593213.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sheridan-city-animal-shelter-651771",
+      "name": "Sheridan City Animal Shelter",
+      "address": "84 East Ridge Road, Sheridan, WY 82801",
+      "phone": "307-674-7694",
+      "image": "https://cdn.findpawpal.com/office/651771.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "torrington-animal-shelter-593191",
+      "name": "Torrington Animal Shelter",
+      "address": "2042 East A Street, Torrington, WY 82240",
+      "phone": "307-532-5373",
+      "image": "https://cdn.findpawpal.com/office/593191.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wheatland-animal-shelter-552731",
+      "name": "Wheatland Animal Shelter",
+      "address": "58 Front Road, Wheatland, WY 82201",
+      "phone": "307-322-4868",
+      "image": "https://cdn.findpawpal.com/office/552731.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-hope-shelter-722348",
+      "name": "New Hope Shelter",
+      "address": "PO Box 260, Worland, WY 82401",
+      "phone": "307-347-6365",
+      "image": "https://cdn.findpawpal.com/office/722348.jpg?f=webp&w=730"
+    }
+  ]
+}

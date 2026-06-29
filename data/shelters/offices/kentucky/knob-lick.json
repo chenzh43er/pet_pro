@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:57:24.010913+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "knob-lick",
+    "name": "Knob Lick",
+    "label": "Knob Lick, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/knob-lick/",
+  "offices": [
+    {
+      "officeId": 126076,
+      "slug": "safe-harboar-farm-inc-126076",
+      "name": "Safe Harboar Farm, Inc.",
+      "address": "411 Woods Road, Knob Lick, KY 42154",
+      "phone": "270-453-3897",
+      "image": "https://cdn.findpawpal.com/office/126076.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/safe-harboar-farm-inc-126076/"
+    }
+  ]
+}

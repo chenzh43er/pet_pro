@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:20:20.904831+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "richmond",
+    "name": "Richmond",
+    "label": "Richmond, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/richmond/",
+  "offices": [
+    {
+      "officeId": 193647,
+      "slug": "richmond-animal-shelter-193647",
+      "name": "Richmond Animal Shelter",
+      "address": "9073 South Wellington Street, Richmond, MO 64085",
+      "phone": "816-776-6466",
+      "image": "./img/shelter/office/193647.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/richmond-animal-shelter-193647/",
+      "imageUrl": "https://cdn.findpawpal.com/office/193647.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 206632,
+      "slug": "humane-society-of-ray-county-206632",
+      "name": "Humane Society of Ray County",
+      "address": "201 Dunns Lane, Richmond, MO 64085",
+      "phone": "816-776-8576",
+      "image": "./img/shelter/office/206632.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-ray-county-206632/",
+      "imageUrl": "https://cdn.findpawpal.com/office/206632.jpg?f=webp&w=730"
+    }
+  ]
+}

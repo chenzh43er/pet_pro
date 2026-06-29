@@ -1,0 +1,21 @@
+{
+  "officeId": 104333,
+  "slug": "mt-pleasant-animal-shelter-104333",
+  "name": "Mt. Pleasant Animal Shelter",
+  "address": "194 Highway 10, East Hanover, NJ 07936",
+  "street": "194 Highway 10",
+  "addressCity": "East Hanover",
+  "stateCode": "NJ",
+  "zip": "07936",
+  "phone": "973-386-0590",
+  "image": "./img/shelter/office/104333.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/mt-pleasant-animal-shelter-104333/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "east-hanover",
+  "cityName": "East Hanover",
+  "cityLabel": "East Hanover, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/east-hanover/",
+  "fetchedAt": "2026-06-27T19:25:48.415247+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/104333.jpg?f=webp&w=730"
+}

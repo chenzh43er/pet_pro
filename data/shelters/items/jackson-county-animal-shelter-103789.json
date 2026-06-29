@@ -1,0 +1,21 @@
+{
+  "officeId": 103789,
+  "slug": "jackson-county-animal-shelter-103789",
+  "name": "Jackson County Animal Shelter",
+  "address": "4400 Audubon Ln, Gautier, MS 39553",
+  "street": "4400 Audubon Ln",
+  "addressCity": "Gautier",
+  "stateCode": "MS",
+  "zip": "39553",
+  "phone": "228-497-6350",
+  "image": "./img/shelter/office/103789.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/jackson-county-animal-shelter-103789/",
+  "stateSlug": "mississippi",
+  "stateName": "Mississippi",
+  "citySlug": "gautier",
+  "cityName": "Gautier",
+  "cityLabel": "Gautier, MS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/mississippi/gautier/",
+  "fetchedAt": "2026-06-27T19:16:20.845220+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/103789.jpg?f=webp&w=730"
+}

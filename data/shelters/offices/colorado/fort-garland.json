@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:34:13.674760+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "fort-garland",
+    "name": "Fort Garland",
+    "label": "Fort Garland, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/fort-garland/",
+  "offices": [
+    {
+      "officeId": 43031,
+      "slug": "costilla-county-critter-haven-43031",
+      "name": "Costilla County Critter Haven",
+      "address": "PO Box 521, Fort Garland, CO 81133",
+      "phone": "719-379-2635",
+      "image": "./img/shelter/office/43031.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/costilla-county-critter-haven-43031/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43031.jpg?f=webp&w=730"
+    }
+  ]
+}

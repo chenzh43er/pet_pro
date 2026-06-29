@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:41:30.646785+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "smyrna",
+    "name": "Smyrna",
+    "label": "Smyrna, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/smyrna/",
+  "offices": [
+    {
+      "officeId": 148657,
+      "slug": "tails-and-whiskers-rescue-148657",
+      "name": "Tails & Whiskers Rescue",
+      "address": "4061 Laurel Ridge Trail, Smyrna, GA 30080",
+      "phone": "770-489-6867",
+      "image": "./img/shelter/office/148657.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tails-and-whiskers-rescue-148657/",
+      "imageUrl": "https://cdn.findpawpal.com/office/148657.jpg?f=webp&w=730"
+    }
+  ]
+}

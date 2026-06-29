@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:08:09.346271+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "rowley",
+    "name": "Rowley",
+    "label": "Rowley, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/rowley/",
+  "offices": [
+    {
+      "officeId": 39923,
+      "slug": "adopt-a-horse-ltd-39923",
+      "name": "Adopt A Horse, Ltd.",
+      "address": "355 Central Street, Rowley, MA 01969",
+      "phone": "978-948-7821",
+      "image": "./img/shelter/office/39923.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/adopt-a-horse-ltd-39923/",
+      "imageUrl": "https://cdn.findpawpal.com/office/39923.jpg?f=webp&w=730"
+    }
+  ]
+}

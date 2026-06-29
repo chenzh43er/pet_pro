@@ -1,0 +1,21 @@
+{
+  "officeId": 600991,
+  "slug": "washington-county-animal-shelter-600991",
+  "name": "Washington County Animal Shelter",
+  "address": "2650 Southeast Tualatin Valley Highway, Hillsboro, OR 97123",
+  "street": "2650 Southeast Tualatin Valley Highway",
+  "addressCity": "Hillsboro",
+  "stateCode": "OR",
+  "zip": "97123",
+  "phone": "503-681-7041",
+  "image": "./img/shelter/office/600991.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/washington-county-animal-shelter-600991/",
+  "stateSlug": "oregon",
+  "stateName": "Oregon",
+  "citySlug": "hillsboro",
+  "cityName": "Hillsboro",
+  "cityLabel": "Hillsboro, OR",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/oregon/hillsboro/",
+  "fetchedAt": "2026-06-27T19:50:40.899442+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/600991.jpg?f=webp&w=730"
+}

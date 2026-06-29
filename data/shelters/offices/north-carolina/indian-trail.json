@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:39:44.574662+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "indian-trail",
+    "name": "Indian Trail",
+    "label": "Indian Trail, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/indian-trail/",
+  "offices": [
+    {
+      "officeId": 268152,
+      "slug": "carolina-waterfowl-rescue-268152",
+      "name": "Carolina Waterfowl Rescue",
+      "address": "PO Box 1484, Indian Trail, NC 28079",
+      "phone": "704-668-9486",
+      "image": "https://cdn.findpawpal.com/office/268152.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/carolina-waterfowl-rescue-268152/"
+    }
+  ]
+}

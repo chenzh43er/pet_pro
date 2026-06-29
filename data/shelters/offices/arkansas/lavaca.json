@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-06-27T18:22:33.414134+00:00",
+  "state": {
+    "slug": "arkansas",
+    "name": "Arkansas"
+  },
+  "city": {
+    "slug": "lavaca",
+    "name": "Lavaca",
+    "label": "Lavaca, AR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arkansas/lavaca/",
+  "offices": [
+    {
+      "slug": "pampered-parrots-rescue-aviary-297895",
+      "name": "Pampered Parrots Rescue Aviary",
+      "address": "1908 North Davis Street, Lavaca, AR 72941",
+      "phone": "479-674-2077",
+      "image": "https://cdn.findpawpal.com/office/297895.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/pampered-parrots-rescue-aviary-297895/"
+    }
+  ]
+}

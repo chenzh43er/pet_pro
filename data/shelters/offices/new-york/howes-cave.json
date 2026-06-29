@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:34:05.150382+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "howes-cave",
+    "name": "Howes Cave",
+    "label": "Howes Cave, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/howes-cave/",
+  "offices": [
+    {
+      "officeId": 401171,
+      "slug": "animal-shelter-schoharie-valley-401171",
+      "name": "Animal Shelter-Schoharie Valley",
+      "address": "304 Howe Cave Road, Howes Cave, NY 12092",
+      "phone": "518-296-8390",
+      "image": "./img/shelter/office/401171.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-shelter-schoharie-valley-401171/",
+      "imageUrl": "https://cdn.findpawpal.com/office/401171.jpg?f=webp&w=730"
+    }
+  ]
+}

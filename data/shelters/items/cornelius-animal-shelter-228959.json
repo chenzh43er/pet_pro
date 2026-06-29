@@ -1,0 +1,21 @@
+{
+  "officeId": 228959,
+  "slug": "cornelius-animal-shelter-228959",
+  "name": "Cornelius Animal Shelter",
+  "address": "19110 Meridian Street, Cornelius, NC 28031",
+  "street": "19110 Meridian Street",
+  "addressCity": "Cornelius",
+  "stateCode": "NC",
+  "zip": "28031",
+  "phone": "704-237-3602",
+  "image": "./img/shelter/office/228959.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/cornelius-animal-shelter-228959/",
+  "stateSlug": "north-carolina",
+  "stateName": "North Carolina",
+  "citySlug": "cornelius",
+  "cityName": "Cornelius",
+  "cityLabel": "Cornelius, NC",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/north-carolina/cornelius/",
+  "fetchedAt": "2026-06-27T19:38:48.546823+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/228959.jpg?f=webp&w=730"
+}

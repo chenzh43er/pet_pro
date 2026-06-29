@@ -1,0 +1,21 @@
+{
+  "officeId": 7458,
+  "slug": "fallon-animal-shelter-7458",
+  "name": "Fallon Animal Shelter",
+  "address": "1255 Airport Road, Fallon, NV 89406",
+  "street": "1255 Airport Road",
+  "addressCity": "Fallon",
+  "stateCode": "NV",
+  "zip": "89406",
+  "phone": "775-423-2282",
+  "image": "./img/shelter/office/7458.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/fallon-animal-shelter-7458/",
+  "stateSlug": "nevada",
+  "stateName": "Nevada",
+  "citySlug": "fallon",
+  "cityName": "Fallon",
+  "cityLabel": "Fallon, NV",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/nevada/fallon/",
+  "fetchedAt": "2026-06-27T19:23:11.725710+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/7458.jpg?f=webp&w=730"
+}

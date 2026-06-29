@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:54:27.709996+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa"
+  },
+  "city": {
+    "slug": "west-branch",
+    "name": "West Branch",
+    "label": "West Branch, IA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/west-branch/",
+  "offices": [
+    {
+      "officeId": 342014,
+      "slug": "protect-our-pets-of-iowa-342014",
+      "name": "Protect Our Pets of Iowa",
+      "address": "PO Box 704, West Branch, IA 52358",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/342014.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/protect-our-pets-of-iowa-342014/"
+    }
+  ]
+}

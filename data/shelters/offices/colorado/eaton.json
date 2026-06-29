@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:34:06.213659+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "eaton",
+    "name": "Eaton",
+    "label": "Eaton, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/eaton/",
+  "offices": [
+    {
+      "officeId": 40832,
+      "slug": "eaton-animal-shelter-40832",
+      "name": "Eaton Animal Shelter",
+      "address": "217 1st Street, Eaton, CO 80615",
+      "phone": "970-454-3353",
+      "image": "./img/shelter/office/40832.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/eaton-animal-shelter-40832/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40832.jpg?f=webp&w=730"
+    }
+  ]
+}

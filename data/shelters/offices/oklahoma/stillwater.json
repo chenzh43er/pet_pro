@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:49:38.785610+00:00",
+  "state": {
+    "slug": "oklahoma",
+    "name": "Oklahoma"
+  },
+  "city": {
+    "slug": "stillwater",
+    "name": "Stillwater",
+    "label": "Stillwater, OK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oklahoma/stillwater/",
+  "offices": [
+    {
+      "officeId": 561833,
+      "slug": "humane-society-of-stillwater-561833",
+      "name": "Humane Society of Stillwater",
+      "address": "601 South Washington Street, Stillwater, OK 74074",
+      "phone": "405-377-1701",
+      "image": "./img/shelter/office/561833.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-stillwater-561833/",
+      "imageUrl": "https://cdn.findpawpal.com/office/561833.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 586097,
+      "slug": "stillwater-animal-shelter-586097",
+      "name": "Stillwater Animal Shelter",
+      "address": "1710 South Main Street, Stillwater, OK 74074",
+      "phone": "405-372-0334",
+      "image": "./img/shelter/office/586097.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/stillwater-animal-shelter-586097/",
+      "imageUrl": "https://cdn.findpawpal.com/office/586097.jpg?f=webp&w=730"
+    }
+  ]
+}

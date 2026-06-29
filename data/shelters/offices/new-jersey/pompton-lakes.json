@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:28:27.639921+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "pompton-lakes",
+    "name": "Pompton Lakes",
+    "label": "Pompton Lakes, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/pompton-lakes/",
+  "offices": [
+    {
+      "officeId": 100711,
+      "slug": "pet-adoption-thru-caring-hands-100711",
+      "name": "Pet Adoption Thru Caring Hands",
+      "address": "26 Lakeside Avenue, Pompton Lakes, NJ 07442",
+      "phone": "973-835-7202",
+      "image": "./img/shelter/office/100711.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-adoption-thru-caring-hands-100711/",
+      "imageUrl": "https://cdn.findpawpal.com/office/100711.jpg?f=webp&w=730"
+    }
+  ]
+}

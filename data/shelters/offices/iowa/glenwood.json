@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:53:17.775991+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa"
+  },
+  "city": {
+    "slug": "glenwood",
+    "name": "Glenwood",
+    "label": "Glenwood, IA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/glenwood/",
+  "offices": [
+    {
+      "officeId": 327372,
+      "slug": "hooves-and-paws-rescue-inc-327372",
+      "name": "Hooves & Paws Rescue, Inc.",
+      "address": "27821 U.S. Route 34, Glenwood, IA 51534",
+      "phone": "712-527-3721",
+      "image": "./img/shelter/office/327372.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hooves-and-paws-rescue-inc-327372/",
+      "imageUrl": "https://cdn.findpawpal.com/office/327372.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 327432,
+      "slug": "glenwood-animal-shelter-327432",
+      "name": "Glenwood Animal Shelter",
+      "address": "21600 221st South, Glenwood, IA 51534",
+      "phone": "712-227-3565",
+      "image": "./img/shelter/office/327432.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/glenwood-animal-shelter-327432/",
+      "imageUrl": "https://cdn.findpawpal.com/office/327432.jpg?f=webp&w=730"
+    }
+  ]
+}

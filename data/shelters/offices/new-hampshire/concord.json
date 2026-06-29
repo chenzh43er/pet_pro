@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:23:58.273394+00:00",
+  "state": {
+    "slug": "new-hampshire",
+    "name": "New Hampshire"
+  },
+  "city": {
+    "slug": "concord",
+    "name": "Concord",
+    "label": "Concord, NH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-hampshire/concord/",
+  "offices": [
+    {
+      "officeId": 44079,
+      "slug": "caribbean-animal-welfare-initiative-the-pegasus-foundation-44079",
+      "name": "Caribbean Animal Welfare Initiative - the Pegasus Foundation",
+      "address": "27 Merrimack Street, Concord, NH 03301",
+      "phone": "603-225-3918",
+      "image": "./img/shelter/office/44079.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/caribbean-animal-welfare-initiative-the-pegasus-foundation-44079/",
+      "imageUrl": "https://cdn.findpawpal.com/office/44079.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 47545,
+      "slug": "concord-spca-47545",
+      "name": "Concord SPCA",
+      "address": "130 Washington Street, Concord, NH 03303",
+      "phone": "603-753-6751",
+      "image": "./img/shelter/office/47545.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/concord-spca-47545/",
+      "imageUrl": "https://cdn.findpawpal.com/office/47545.jpg?f=webp&w=730"
+    }
+  ]
+}

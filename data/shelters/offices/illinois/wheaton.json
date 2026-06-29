@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:48:52.978469+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "wheaton",
+    "name": "Wheaton",
+    "label": "Wheaton, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/wheaton/",
+  "offices": [
+    {
+      "officeId": 382802,
+      "slug": "arf-illinois-382802",
+      "name": "Arf Illinois",
+      "address": "PO Box 4423, Wheaton, IL 60189",
+      "phone": "630-200-3828",
+      "image": "./img/shelter/office/382802.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/arf-illinois-382802/",
+      "imageUrl": "https://cdn.findpawpal.com/office/382802.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 523302,
+      "slug": "du-page-county-animal-control-523302",
+      "name": "Du Page County Animal Control",
+      "address": "120 North County Farm Road, Wheaton, IL 60187",
+      "phone": "630-407-2800",
+      "image": "./img/shelter/office/523302.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/du-page-county-animal-control-523302/",
+      "imageUrl": "https://cdn.findpawpal.com/office/523302.jpg?f=webp&w=730"
+    }
+  ]
+}

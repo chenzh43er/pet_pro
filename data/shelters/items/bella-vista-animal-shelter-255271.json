@@ -1,0 +1,21 @@
+{
+  "officeId": 255271,
+  "slug": "bella-vista-animal-shelter-255271",
+  "name": "Bella Vista Animal Shelter",
+  "address": "32 Bella Vista Way, Bella Vista, AR 72714",
+  "street": "32 Bella Vista Way",
+  "addressCity": "Bella Vista",
+  "stateCode": "AR",
+  "zip": "72714",
+  "phone": "479-855-6020",
+  "image": "./img/shelter/office/255271.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/bella-vista-animal-shelter-255271/",
+  "stateSlug": "arkansas",
+  "stateName": "Arkansas",
+  "citySlug": "bella-vista",
+  "cityName": "Bella Vista",
+  "cityLabel": "Bella Vista, AR",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/arkansas/bella-vista/",
+  "fetchedAt": "2026-06-27T18:21:33.582204+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/255271.jpg?f=webp&w=730"
+}

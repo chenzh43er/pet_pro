@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:10:22.861780+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "farmington",
+    "name": "Farmington",
+    "label": "Farmington, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/farmington/",
+  "offices": [
+    {
+      "officeId": 189919,
+      "slug": "backdoor-friends-cat-shoppe-189919",
+      "name": "Backdoor Friends Cat Shoppe",
+      "address": "35562 Grand River Avenue, Farmington, MI 48335",
+      "phone": "248-442-0840",
+      "image": "./img/shelter/office/189919.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/backdoor-friends-cat-shoppe-189919/",
+      "imageUrl": "https://cdn.findpawpal.com/office/189919.jpg?f=webp&w=730"
+    }
+  ]
+}

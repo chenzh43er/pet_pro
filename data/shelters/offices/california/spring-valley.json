@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:31:04.199366+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "spring-valley",
+    "name": "Spring Valley",
+    "label": "Spring Valley, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/spring-valley/",
+  "offices": [
+    {
+      "officeId": 366778,
+      "slug": "house-rabbit-society-san-diego-chapter-366778",
+      "name": "House Rabbit Society - San Diego Chapter",
+      "address": "PO Box 2628, Spring Valley, CA 91979",
+      "phone": "619-718-7777",
+      "image": "https://cdn.findpawpal.com/office/366778.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/house-rabbit-society-san-diego-chapter-366778/"
+    },
+    {
+      "officeId": 537708,
+      "slug": "foundation-for-care-of-indigent-animals-537708",
+      "name": "Foundation for Care of Indigent Animals",
+      "address": "PO Box 2574, Spring Valley, CA 91979",
+      "phone": "619-466-9137",
+      "image": "https://cdn.findpawpal.com/office/537708.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/foundation-for-care-of-indigent-animals-537708/"
+    }
+  ]
+}

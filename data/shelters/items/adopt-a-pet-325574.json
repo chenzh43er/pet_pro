@@ -1,0 +1,21 @@
+{
+  "officeId": 325574,
+  "slug": "adopt-a-pet-325574",
+  "name": "Adopt A Pet",
+  "address": "11900 Southwest 232nd Street, Goulds, FL 33170",
+  "street": "11900 Southwest 232nd Street",
+  "addressCity": "Goulds",
+  "stateCode": "FL",
+  "zip": "33170",
+  "phone": "305-257-2275",
+  "image": "./img/shelter/office/325574.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/adopt-a-pet-325574/",
+  "stateSlug": "florida",
+  "stateName": "Florida",
+  "citySlug": "goulds",
+  "cityName": "Goulds",
+  "cityLabel": "Goulds, FL",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/florida/goulds/",
+  "fetchedAt": "2026-06-27T18:14:33.822570+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/325574.jpg?f=webp&w=730"
+}

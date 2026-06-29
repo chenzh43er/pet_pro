@@ -1,0 +1,1224 @@
+{
+  "stateSlug": "kentucky",
+  "count": 174,
+  "shelters": [
+    {
+      "slug": "tri-county-animal-shelter-115918",
+      "name": "Tri County Animal Shelter",
+      "address": "Highway 90, Albany, KY 42602",
+      "phone": "606-387-0943",
+      "image": "https://cdn.findpawpal.com/office/115918.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "campbell-county-animal-shelter-109201",
+      "name": "Campbell County Animal Shelter",
+      "address": "1898 Poplar Ridge Road, Alexandria, KY 41001",
+      "phone": "859-635-2819",
+      "image": "https://cdn.findpawpal.com/office/109201.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rescue-our-shelter-animals-and-strays-inc-rosas-rescue-118945",
+      "name": "Rescue Our Shelter Animals and Strays, Inc. Rosa's Rescue",
+      "address": "PO Box 99, Alexandria, KY 41001",
+      "phone": "859-694-7672",
+      "image": "https://cdn.findpawpal.com/office/118945.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "west-kentucky-rescue-115630",
+      "name": "West Kentucky Rescue",
+      "address": "PO Box 73, Almo, KY 42020",
+      "phone": "270-759-4257",
+      "image": "https://cdn.findpawpal.com/office/115630.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "boyd-county-animal-control-center-116575",
+      "name": "Boyd County Animal Control Center",
+      "address": "1025 Bob McCullough Drive, Ashland, KY 41102",
+      "phone": "606-324-0745",
+      "image": "https://cdn.findpawpal.com/office/116575.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-nelson-county-110055",
+      "name": "Humane Society-Nelson County",
+      "address": "2391 New Haven Road, Bardstown, KY 40004",
+      "phone": "502-349-2082",
+      "image": "https://cdn.findpawpal.com/office/110055.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "barlow-animal-control-110614",
+      "name": "Barlow Animal Control",
+      "address": "376 K C Dunn Road, Barlow, KY 42024",
+      "phone": "270-462-3440",
+      "image": "https://cdn.findpawpal.com/office/110614.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "harlan-county-animal-shelter-110774",
+      "name": "Harlan County Animal Shelter",
+      "address": "394 State Highway 840, Baxter, KY 40806",
+      "phone": "606-573-8867",
+      "image": "https://cdn.findpawpal.com/office/110774.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "edmonson-county-animal-shelter-115955",
+      "name": "Edmonson County Animal Shelter",
+      "address": "188 Sanders Road, Bee Spring, KY 42207",
+      "phone": "270-286-6096",
+      "image": "https://cdn.findpawpal.com/office/115955.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-marshall-county-111729",
+      "name": "Humane Society of Marshall County",
+      "address": "6301 U.s. 68, Benton, KY 42025",
+      "phone": "270-354-8738",
+      "image": "https://cdn.findpawpal.com/office/111729.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "marshall-county-animal-shelter-115964",
+      "name": "Marshall County Animal Shelter",
+      "address": "839 Hollytown Road, Benton, KY 42025",
+      "phone": "270-527-0954",
+      "image": "https://cdn.findpawpal.com/office/115964.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sandra-wilson-116816",
+      "name": "Sandra Wilson",
+      "address": "602 Maple Street, Benton, KY 42025",
+      "phone": "270-703-8817",
+      "image": "https://cdn.findpawpal.com/office/116816.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "madison-county-animal-shelter-115974",
+      "name": "Madison County Animal Shelter",
+      "address": "1386 Richmond Road North, Berea, KY 40403",
+      "phone": "859-986-9625",
+      "image": "https://cdn.findpawpal.com/office/115974.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "barktown-rescue-109904",
+      "name": "Barktown Rescue",
+      "address": "295 Petersburg Road, Boston, KY 40107",
+      "phone": "502-833-2275",
+      "image": "https://cdn.findpawpal.com/office/109904.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bowling-green-animal-control-110658",
+      "name": "Bowling Green Animal Control",
+      "address": "911 Kentucky Street, Bowling Green, KY 42101",
+      "phone": "270-393-4000",
+      "image": "https://cdn.findpawpal.com/office/110658.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-animal-shelter-126056",
+      "name": "Humane Society Animal Shelter",
+      "address": "1925 Old Louisville Road, Bowling Green, KY 42101",
+      "phone": "270-842-8572",
+      "image": "https://cdn.findpawpal.com/office/126056.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bracken-county-animal-shelter-109130",
+      "name": "Bracken County Animal Shelter",
+      "address": "188 Hamilton Road, Brooksville, KY 41004",
+      "phone": "606-735-3475",
+      "image": "https://cdn.findpawpal.com/office/109130.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "boone-county-animal-care-and-control-124433",
+      "name": "Boone County Animal Care & Control",
+      "address": "5643 Idlewild Road, Burlington, KY 41005",
+      "phone": "859-586-5285",
+      "image": "https://cdn.findpawpal.com/office/124433.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "yorkie-friends-rescue-114269",
+      "name": "Yorkie Friends Rescue",
+      "address": "2006 Bluestem Drive, Burlington, KY 41005",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/114269.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pendleton-county-animal-shelter-117317",
+      "name": "Pendleton County Animal Shelter",
+      "address": "1314 Bryan Griffin Rd, Butler, KY 41006",
+      "phone": "859-472-5400",
+      "image": "https://cdn.findpawpal.com/office/117317.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "taylor-county-animal-shelter-117324",
+      "name": "Taylor County Animal Shelter",
+      "address": "2175 Hodgenville Road, Campbellsville, KY 42718",
+      "phone": "270-465-7651",
+      "image": "https://cdn.findpawpal.com/office/117324.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "carroll-county-animal-control-110687",
+      "name": "Carroll County Animal Control",
+      "address": "2182 Boone Road, Carrollton, KY 41008",
+      "phone": "502-732-8959",
+      "image": "https://cdn.findpawpal.com/office/110687.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "casey-creek-horse-rescue-and-adoption-inc-115370",
+      "name": "Casey Creek Horse Rescue & Adoption, Inc.",
+      "address": "624 Wilson Creek Rd, Casey Creek, KY 42728",
+      "phone": "270-789-4198",
+      "image": "https://cdn.findpawpal.com/office/115370.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "powell-county-animal-shelter-110713",
+      "name": "Powell County Animal Shelter",
+      "address": "121 Echo Hollow Rd, Clay, KY 40312",
+      "phone": "606-663-4998",
+      "image": "https://cdn.findpawpal.com/office/110713.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "green-river-animal-shelter-120485",
+      "name": "Green River Animal Shelter",
+      "address": "455 Jim Blair Rd, Columbia, KY 42728",
+      "phone": "270-385-9655",
+      "image": "https://cdn.findpawpal.com/office/120485.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "knox-whitley-animal-shelter-118012",
+      "name": "Knox-Whitley Animal Shelter",
+      "address": "66 Busy Lane, Corbin, KY 40701",
+      "phone": "606-526-6925",
+      "image": "https://cdn.findpawpal.com/office/118012.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "seagailfriesians-com-115084",
+      "name": "Seagailfriesians.Com",
+      "address": "1409 Highway 90, Corbin, KY 40701",
+      "phone": "606-656-0250",
+      "image": "https://cdn.findpawpal.com/office/115084.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kenton-county-animal-shelter-111722",
+      "name": "Kenton County Animal Shelter",
+      "address": "1020 Mary Laidley Road, Covington, KY 41017",
+      "phone": "859-356-7400",
+      "image": "https://cdn.findpawpal.com/office/111722.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "save-our-shelter-dogs-110528",
+      "name": "Save Our Shelter Dogs",
+      "address": "9179 Blossom Lane, Covington, KY 41015",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/110528.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hilltop-haven-animal-rescue-125608",
+      "name": "Hilltop Haven Animal Rescue",
+      "address": "503 Whitesides Road, Coxs Creek, KY 40013",
+      "phone": "502-468-5969",
+      "image": "https://cdn.findpawpal.com/office/125608.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-harrison-county-117436",
+      "name": "Humane Society of Harrison County",
+      "address": "148 North Elmarch Avenue, Cynthiana, KY 41031",
+      "phone": "859-234-5672",
+      "image": "https://cdn.findpawpal.com/office/117436.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "boyle-county-humane-society-111647",
+      "name": "Boyle County Humane Society",
+      "address": "777 North Danville Bypass, Danville, KY 40422",
+      "phone": "606-238-1117",
+      "image": "https://cdn.findpawpal.com/office/111647.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hals-haven-inc-111638",
+      "name": "Hal's Haven, Inc.",
+      "address": "2108 Wells Landing Road, Danville, KY 40422",
+      "phone": "859-319-2056",
+      "image": "https://cdn.findpawpal.com/office/111638.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cck9s-new-leash-on-life-117356",
+      "name": "Cck9s New Leash On Life",
+      "address": "1460 Lemon Northcutt Road, Dry Ridge, KY 41035",
+      "phone": "859-428-1423",
+      "image": "https://cdn.findpawpal.com/office/117356.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bluegrass-humane-society-inc-118055",
+      "name": "Bluegrass Humane Society, Inc.",
+      "address": "219 Cs-1320, Elizabethtown, KY 42701",
+      "phone": "270-877-5491",
+      "image": "https://cdn.findpawpal.com/office/118055.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-henry-county-animal-shelter-115902",
+      "name": "The Henry County Animal Shelter",
+      "address": "4667 North Main Street, Eminence, KY 40019",
+      "phone": "502-845-8050",
+      "image": "https://cdn.findpawpal.com/office/115902.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "boone-county-spca-110435",
+      "name": "Boone County SPCA",
+      "address": "150 Rough River Drive, Erlanger, KY 41018",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/110435.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-northern-kentucky-110294",
+      "name": "Humane Society of Northern Kentucky",
+      "address": "22 Commonwealth Avenue, Erlanger, KY 41018",
+      "phone": "859-342-4759",
+      "image": "https://cdn.findpawpal.com/office/110294.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dreamland-animal-rescue-120105",
+      "name": "Dreamland Animal Rescue",
+      "address": "PO Box 249, Ermine, KY 41815",
+      "phone": "606-633-0050",
+      "image": "https://cdn.findpawpal.com/office/120105.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "leslie-county-humane-society-109851",
+      "name": "Leslie County Humane Society",
+      "address": "PO Box 635, Essie, KY 41775",
+      "phone": "606-279-4803",
+      "image": "https://cdn.findpawpal.com/office/109851.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-adoption-welfare-society-inc-109795",
+      "name": "Pet Adoption Welfare Society, Inc.",
+      "address": "PO Box 172, Eubank, KY 42567",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/109795.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-pendleton-county-109751",
+      "name": "Humane Society of Pendleton County",
+      "address": "290 M Oak Hill Rd, Falmouth, KY 41040",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/109751.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pyse-adoption-for-cats-125347",
+      "name": "Pyse Adoption for Cats",
+      "address": "404 Pendleton Street, Falmouth, KY 41040",
+      "phone": "859-654-5940",
+      "image": "https://cdn.findpawpal.com/office/125347.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greenup-county-humane-society-inc-109338",
+      "name": "Greenup County Humane Society, Inc.",
+      "address": "PO Box 824, Flatwoods, KY 41139",
+      "phone": "606-836-7529",
+      "image": "https://cdn.findpawpal.com/office/109338.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-pet-castle-inc-animal-rescue-118838",
+      "name": "The Pet Castle, Inc. Animal Rescue",
+      "address": "PO Box 6684, Florence, KY 41022",
+      "phone": "859-760-7098",
+      "image": "https://cdn.findpawpal.com/office/118838.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "franklin-county-humane-society-115755",
+      "name": "Franklin County Humane Society",
+      "address": "1041 Kentucky Avenue, Frankfort, KY 40601",
+      "phone": "502-875-7297",
+      "image": "https://cdn.findpawpal.com/office/115755.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hodges-legacy-115774",
+      "name": "Hodge's Legacy",
+      "address": "127 South, Frankfort, KY 40601",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/115774.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oodles-of-poodles-yorkies-too-rescue-110700",
+      "name": "Oodles of Poodles Yorkies Too Rescue",
+      "address": "327 Hardy Street, Frankfort, KY 40601",
+      "phone": "502-352-7905",
+      "image": "https://cdn.findpawpal.com/office/110700.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "simpson-county-animal-shelter-110850",
+      "name": "Simpson County Animal Shelter",
+      "address": "2194 Kenneth Utley Dr, Franklin, KY 42134",
+      "phone": "270-586-3125",
+      "image": "https://cdn.findpawpal.com/office/110850.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "scott-county-humane-society-115056",
+      "name": "Scott County Humane Society",
+      "address": "751 Slone Drive, Georgetown, KY 40324",
+      "phone": "502-863-3279",
+      "image": "https://cdn.findpawpal.com/office/115056.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-shelter-glasgow-118542",
+      "name": "Animal Shelter-Glasgow",
+      "address": "175 Trojan Trail, Glasgow, KY 42141",
+      "phone": "270-651-7297",
+      "image": "https://cdn.findpawpal.com/office/118542.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greenup-animal-control-110683",
+      "name": "Greenup Animal Control",
+      "address": "47 Dog Gone Ln, Greenup, KY 41144",
+      "phone": "606-473-5711",
+      "image": "https://cdn.findpawpal.com/office/110683.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "muhlenberg-county-humane-society-120072",
+      "name": "Muhlenberg County Humane Society",
+      "address": "PO Box 164, Greenville, KY 42345",
+      "phone": "270-338-6940",
+      "image": "https://cdn.findpawpal.com/office/120072.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "painted-ridge-horse-aniaml-rescue-120063",
+      "name": "Painted Ridge Horse Aniaml Rescue",
+      "address": "189 Gene Jernigan Lane, Greenville, KY 42345",
+      "phone": "270-377-3181",
+      "image": "https://cdn.findpawpal.com/office/120063.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "breckenridge-county-animal-friends-inc-124522",
+      "name": "Breckenridge County Animal Friends, Inc.",
+      "address": "PO Box 301, Harned, KY 40144",
+      "phone": "270-756-0246",
+      "image": "https://cdn.findpawpal.com/office/124522.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "arrowhead-animal-refuge-116450",
+      "name": "Arrowhead Animal Refuge",
+      "address": "685 Handy Pike, Harrodsburg, KY 40330",
+      "phone": "502-226-5438",
+      "image": "https://cdn.findpawpal.com/office/116450.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "harrods-animal-control-117174",
+      "name": "Harrods Animal Control",
+      "address": "1081 North College Street, Harrodsburg, KY 40330",
+      "phone": "859-733-1244",
+      "image": "https://cdn.findpawpal.com/office/117174.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mercy-county-humane-society-120196",
+      "name": "Mercy County Humane Society",
+      "address": "132 North Main Street, Harrodsburg, KY 40330",
+      "phone": "859-734-9500",
+      "image": "https://cdn.findpawpal.com/office/120196.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ohio-county-animal-shelter-109882",
+      "name": "Ohio County Animal Shelter",
+      "address": "1802 Country Club Road, Hartford, KY 42347",
+      "phone": "270-298-4499",
+      "image": "https://cdn.findpawpal.com/office/109882.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kentucky-river-regional-humane-society-116825",
+      "name": "Kentucky River Regional Humane Society",
+      "address": "PO Box 1642, Hazard, KY 41702",
+      "phone": "606-439-4064",
+      "image": "https://cdn.findpawpal.com/office/116825.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "perry-county-humane-society-109759",
+      "name": "Perry County Humane Society",
+      "address": "PO Box 465, Hazard, KY 41702",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/109759.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-henderson-115865",
+      "name": "Humane Society of Henderson",
+      "address": "203 Drury Lane, Henderson, KY 42420",
+      "phone": "270-826-8966",
+      "image": "https://cdn.findpawpal.com/office/115865.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-hope-animal-rescue-center-115874",
+      "name": "New Hope Animal Rescue Center",
+      "address": "3143 U.s. 41, Henderson, KY 42420",
+      "phone": "270-827-8088",
+      "image": "https://cdn.findpawpal.com/office/115874.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "christian-county-animal-shelter-114390",
+      "name": "Christian County Animal Shelter",
+      "address": "2935 Russellville Road, Hopkinsville, KY 42240",
+      "phone": "270-887-4175",
+      "image": "https://cdn.findpawpal.com/office/114390.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "christian-county-humane-society-inc-118997",
+      "name": "Christian County Humane Society, Inc.",
+      "address": "PO Box 1233, Hopkinsville, KY 42241",
+      "phone": "270-887-4678",
+      "image": "https://cdn.findpawpal.com/office/118997.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kenton-city-spca-120165",
+      "name": "Kenton City SPCA",
+      "address": "1011 Clubhouse Drive, Independence, KY 41051",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/120165.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jackson-animal-control-110553",
+      "name": "Jackson Animal Control",
+      "address": "1137 Main Street, Jackson, KY 41339",
+      "phone": "606-666-3812",
+      "image": "https://cdn.findpawpal.com/office/110553.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "safe-harboar-farm-inc-126076",
+      "name": "Safe Harboar Farm, Inc.",
+      "address": "411 Woods Road, Knob Lick, KY 42154",
+      "phone": "270-453-3897",
+      "image": "https://cdn.findpawpal.com/office/126076.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-oldham-county-111191",
+      "name": "Humane Society-Oldham County",
+      "address": "2419 Highway 53, La Grange, KY 40031",
+      "phone": "502-222-7537",
+      "image": "https://cdn.findpawpal.com/office/111191.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oldham-county-animal-control-125883",
+      "name": "Oldham County Animal Control",
+      "address": "3946 Jones Drive, La Grange, KY 40031",
+      "phone": "502-222-7387",
+      "image": "https://cdn.findpawpal.com/office/125883.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "central-kentucky-regional-humane-society-inc-125540",
+      "name": "Central Kentucky Regional Humane Society, Inc.",
+      "address": "214 Richmond Street, Lancaster, KY 40444",
+      "phone": "859-792-4581",
+      "image": "https://cdn.findpawpal.com/office/125540.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "anderson-humane-society-110272",
+      "name": "Anderson Humane Society",
+      "address": "1410 Versailles Road, Lawrenceburg, KY 40342",
+      "phone": "502-839-8339",
+      "image": "https://cdn.findpawpal.com/office/110272.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hollys-place-116017",
+      "name": "Holly's Place",
+      "address": "PO Box 455, Lawrenceburg, KY 40342",
+      "phone": "502-859-5342",
+      "image": "https://cdn.findpawpal.com/office/116017.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "witch-trot-farms-118264",
+      "name": "Witch Trot Farms",
+      "address": "1692 Waddy Road, Lawrenceburg, KY 40342",
+      "phone": "502-839-4425",
+      "image": "https://cdn.findpawpal.com/office/118264.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "marion-county-animal-shelter-110345",
+      "name": "Marion County Animal Shelter",
+      "address": "1105 State Highway 208, Lebanon, KY 40033",
+      "phone": "270-692-0464",
+      "image": "https://cdn.findpawpal.com/office/110345.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kare-inc-118212",
+      "name": "Kare, Inc.",
+      "address": "897 Cedar Spring Drive, Lebanon Junction, KY 40150",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/118212.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "grayson-county-humane-societyleitchfield-animal-shelter-110749",
+      "name": "Grayson County Humane Societyleitchfield Animal Shelter",
+      "address": "213 William Thomason Byu, Leitchfield, KY 42754",
+      "phone": "270-230-8839",
+      "image": "https://cdn.findpawpal.com/office/110749.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "2x2-noahs-ark-animal-sanctuary-115336",
+      "name": "2x2 Noah's Ark Animal Sanctuary",
+      "address": "2220 Nicholasville Road, Lexington, KY 40503",
+      "phone": "859-619-4874",
+      "image": "https://cdn.findpawpal.com/office/115336.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "equine-transitional-training-alliance-110290",
+      "name": "Equine Transitional Training Alliance",
+      "address": "PO Box 24834, Lexington, KY 40524",
+      "phone": "857-846-5655",
+      "image": "https://cdn.findpawpal.com/office/110290.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "finally-home-chinchilla-rescue-110040",
+      "name": "Finally Home Chinchilla Rescue",
+      "address": "Belleau Wood Dr, Lexington, KY 40517",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/110040.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "haven-for-dogs-inc-110681",
+      "name": "Haven for Dogs, Inc.",
+      "address": "PO Box 22505, Lexington, KY 40522",
+      "phone": "859-873-2330",
+      "image": "https://cdn.findpawpal.com/office/110681.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lexington-humane-society-115327",
+      "name": "Lexington Humane Society",
+      "address": "1600 Old Frankfort Pike, Lexington, KY 40504",
+      "phone": "859-233-0044",
+      "image": "https://cdn.findpawpal.com/office/115327.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-chin-beginnings-110326",
+      "name": "New Chin Beginnings",
+      "address": "1589 Springfield Drive, Lexington, KY 40515",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/110326.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "laurel-county-animal-shelter-114818",
+      "name": "Laurel County Animal Shelter",
+      "address": "37 Shelter Ln, London, KY 40741",
+      "phone": "606-864-6319",
+      "image": "https://cdn.findpawpal.com/office/114818.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lawrence-county-humane-society-126152",
+      "name": "Lawrence County Humane Society",
+      "address": "3395 Isaac Rd Route, Louisa, KY 41230",
+      "phone": "606-673-4509",
+      "image": "https://cdn.findpawpal.com/office/126152.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alley-cat-advocates-inc-116061",
+      "name": "Alley Cat Advocates Inc",
+      "address": "3044 Bardstown Road, Louisville, KY 40205",
+      "phone": "502-634-8777",
+      "image": "https://cdn.findpawpal.com/office/116061.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-care-society-114642",
+      "name": "Animal Care Society",
+      "address": "12207 Westport Road, Louisville, KY 40245",
+      "phone": "502-426-6303",
+      "image": "https://cdn.findpawpal.com/office/114642.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ariel-rescue-rehab-109693",
+      "name": "Ariel Rescue Rehab",
+      "address": "1235 Bicknell Avenue, Louisville, KY 40215",
+      "phone": "502-836-5628",
+      "image": "https://cdn.findpawpal.com/office/109693.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bluegrass-basset-rescue-inc-110903",
+      "name": "Bluegrass Basset Rescue, Inc.",
+      "address": "1615 Fernwood Avenue, Louisville, KY 40205",
+      "phone": "502-773-0922",
+      "image": "https://cdn.findpawpal.com/office/110903.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chelseas-legacy-110857",
+      "name": "Chelsea's Legacy",
+      "address": "PO Box 17425, Louisville, KY 40217",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/110857.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-animals-of-kentucky-119344",
+      "name": "Friends of Animals of Kentucky",
+      "address": "505 Cannons Lane, Louisville, KY 40207",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/119344.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greyhound-rescue-and-adoption-119273",
+      "name": "Greyhound Rescue & Adoption",
+      "address": "PO Box 99913, Louisville, KY 40269",
+      "phone": "502-493-0457",
+      "image": "https://cdn.findpawpal.com/office/119273.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greyhounds-of-shamrock-109483",
+      "name": "Greyhounds of Shamrock",
+      "address": "PO Box 991216, Louisville, KY 40269",
+      "phone": "502-241-3140",
+      "image": "https://cdn.findpawpal.com/office/109483.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kentucky-chihuahua-rescue-109654",
+      "name": "Kentucky Chihuahua Rescue",
+      "address": "6200 Lynnchester Drive, Louisville, KY 40219",
+      "phone": "502-216-8034",
+      "image": "https://cdn.findpawpal.com/office/109654.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kentucky-humane-society-main-campus-116009",
+      "name": "Kentucky Humane Society Main Campus",
+      "address": "241 Steedly Drive, Louisville, KY 40214",
+      "phone": "502-366-3355",
+      "image": "https://cdn.findpawpal.com/office/116009.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "louisville-animal-control-110733",
+      "name": "Louisville Animal Control",
+      "address": "9750 Ormsby Station Road, Louisville, KY 40223",
+      "phone": "502-410-5494",
+      "image": "https://cdn.findpawpal.com/office/110733.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "louisville-metro-animal-services-114722",
+      "name": "Louisville Metro Animal Services",
+      "address": "3705 Manslick Road, Louisville, KY 40215",
+      "phone": "502-361-1318",
+      "image": "https://cdn.findpawpal.com/office/114722.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "schnauzer-friends-rescue-and-adoption-louisville-109764",
+      "name": "Schnauzer Friends Rescue and Adoption Louisville",
+      "address": "2943 Arlington Road, Louisville, KY 40220",
+      "phone": "502-459-6574",
+      "image": "https://cdn.findpawpal.com/office/109764.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "waggin-tails-pomeranian-and-english-bulldog-rescue-119334",
+      "name": "Waggin Tails Pomeranian and English Bulldog Rescue",
+      "address": "6404 Maravian Drive, Louisville, KY 40258",
+      "phone": "270-317-3051",
+      "image": "https://cdn.findpawpal.com/office/119334.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hopkins-county-humane-society-114584",
+      "name": "Hopkins County Humane Society",
+      "address": "2210 Laffoon Trail, Madisonville, KY 42431",
+      "phone": "270-821-8965",
+      "image": "https://cdn.findpawpal.com/office/114584.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-lovers-united-inc-117488",
+      "name": "Pet Lovers United, Inc.",
+      "address": "PO Box 1701, Madisonville, KY 42431",
+      "phone": "270-825-4267",
+      "image": "https://cdn.findpawpal.com/office/117488.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clay-county-animal-shelter-110743",
+      "name": "Clay County Animal Shelter",
+      "address": "304 Sester Hollow Rd, Manchester, KY 40962",
+      "phone": "606-598-2072",
+      "image": "https://cdn.findpawpal.com/office/110743.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "marion-county-animal-control-115804",
+      "name": "Marion County Animal Control",
+      "address": "24 Just-A-Mere-Rd, Marion, KY 42064",
+      "phone": "270-965-2006",
+      "image": "https://cdn.findpawpal.com/office/115804.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mayfield-graves-county-animal-119768",
+      "name": "Mayfield Graves County Animal",
+      "address": "500 North 12th Street, Mayfield, KY 42066",
+      "phone": "270-251-0130",
+      "image": "https://cdn.findpawpal.com/office/119768.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mason-county-animal-shelter-115637",
+      "name": "Mason County Animal Shelter",
+      "address": "301 River Drive, Maysville, KY 41056",
+      "phone": "606-564-6067",
+      "image": "https://cdn.findpawpal.com/office/115637.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "campbell-county-animal-shelter-120407",
+      "name": "Campbell County Animal Shelter",
+      "address": "1989 Poplar Ridge Road, Melbourne, KY 41059",
+      "phone": "859-635-2819",
+      "image": "https://cdn.findpawpal.com/office/120407.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-wayne-county-118641",
+      "name": "Humane Society of Wayne County",
+      "address": "PO Box 1400, Monticello, KY 42633",
+      "phone": "606-348-3640",
+      "image": "https://cdn.findpawpal.com/office/118641.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ferret-family-rescue-119784",
+      "name": "Ferret Family Rescue",
+      "address": "3900 Christy Creek Road, Morehead, KY 40351",
+      "phone": "606-776-3279",
+      "image": "https://cdn.findpawpal.com/office/119784.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rowan-county-humane-society-119794",
+      "name": "Rowan County Humane Society",
+      "address": "305 Bullfork Road, Morehead, KY 40351",
+      "phone": "606-784-4930",
+      "image": "https://cdn.findpawpal.com/office/119794.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tri-county-animal-shelter-112120",
+      "name": "Tri-County Animal Shelter",
+      "address": "2450 Kentucky 519, Morehead, KY 40351",
+      "phone": "606-784-8288",
+      "image": "https://cdn.findpawpal.com/office/112120.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "butler-county-animal-shelter-118875",
+      "name": "Butler County Animal Shelter",
+      "address": "463 Boat Factory Road, Morgantown, KY 42261",
+      "phone": "270-526-2694",
+      "image": "https://cdn.findpawpal.com/office/118875.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "montgomery-county-animal-shelter-110361",
+      "name": "Montgomery County Animal Shelter",
+      "address": "115 Adena Drive, Mount Sterling, KY 40353",
+      "phone": "859-498-8751",
+      "image": "https://cdn.findpawpal.com/office/110361.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rockcastle-county-animal-shelter-125437",
+      "name": "Rockcastle County Animal Shelter",
+      "address": "224 Deep Hollow Rd, Mount Vernon, KY 40456",
+      "phone": "606-256-1833",
+      "image": "https://cdn.findpawpal.com/office/125437.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hope-for-pets-110208",
+      "name": "Hope For Pets",
+      "address": "218 Red Cardinal Drive, Mount Washington, KY 40047",
+      "phone": "502-955-3586",
+      "image": "https://cdn.findpawpal.com/office/110208.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mt-washington-animal-control-115831",
+      "name": "MT Washington Animal Control",
+      "address": "275 Snapp Street, Mount Washington, KY 40047",
+      "phone": "502-538-4216",
+      "image": "https://cdn.findpawpal.com/office/115831.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-calloway-county-110571",
+      "name": "Humane Society of Calloway County",
+      "address": "607 Poplar Street, Murray, KY 42071",
+      "phone": "270-759-1884",
+      "image": "https://cdn.findpawpal.com/office/110571.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kenton-county-spca-109444",
+      "name": "Kenton County SPCA",
+      "address": "935 Monmouth Street, Newport, KY 41071",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/109444.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "stray-animal-adoption-program-109184",
+      "name": "Stray Animal Adoption Program",
+      "address": "PO Box 72040, Newport, KY 41072",
+      "phone": "859-391-1234",
+      "image": "https://cdn.findpawpal.com/office/109184.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jessamine-county-save-center-111024",
+      "name": "Jessamine County Save Center",
+      "address": "400 Park Drive, Nicholasville, KY 40356",
+      "phone": "859-881-0821",
+      "image": "https://cdn.findpawpal.com/office/111024.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jessamine-humane-society-117651",
+      "name": "Jessamine Humane Society",
+      "address": "3035 Lexington Road, Nicholasville, KY 40356",
+      "phone": "859-887-1577",
+      "image": "https://cdn.findpawpal.com/office/117651.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kentucky-equine-humane-center-119371",
+      "name": "Kentucky Equine Humane Center",
+      "address": "1713 Catnip Hill Road, Nicholasville, KY 40356",
+      "phone": "859-881-5849",
+      "image": "https://cdn.findpawpal.com/office/119371.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "peneopes-heart-inc-109734",
+      "name": "Peneope's Heart Inc.",
+      "address": "129 Sagart Lane, Nicholasville, KY 40356",
+      "phone": "859-361-5402",
+      "image": "https://cdn.findpawpal.com/office/109734.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "daviess-county-animal-shelter-110118",
+      "name": "Daviess County Animal Shelter",
+      "address": "2620 Highway 81, Owensboro, KY 42301",
+      "phone": "270-685-8275",
+      "image": "https://cdn.findpawpal.com/office/110118.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "daviess-county-humane-society-119033",
+      "name": "Daviess County Humane Society",
+      "address": "PO Box 1075, Owensboro, KY 42302",
+      "phone": "270-685-1737",
+      "image": "https://cdn.findpawpal.com/office/119033.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dr-carl-henry-animal-shelter-116435",
+      "name": "Dr. Carl Henry Animal Shelter",
+      "address": "2620 Calhoun Road, Owensboro, KY 42301",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/116435.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-animal-shelter-109641",
+      "name": "Humane Society-Animal Shelter",
+      "address": "4000 Coleman Road, Paducah, KY 42001",
+      "phone": "270-443-5923",
+      "image": "https://cdn.findpawpal.com/office/109641.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mccracken-county-humane-society-114878",
+      "name": "Mccracken County Humane Society",
+      "address": "PO Box 212, Paducah, KY 42002",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/114878.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dumas-german-shepherd-rescue-117702",
+      "name": "Dumas German Shepherd Rescue",
+      "address": "PO Box 2503, Paintsville, KY 41240",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/117702.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paintsville-humane-society-120079",
+      "name": "Paintsville Humane Society",
+      "address": "PO Box 90, Paintsville, KY 41240",
+      "phone": "606-789-1222",
+      "image": "https://cdn.findpawpal.com/office/120079.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paris-animal-shelter-111994",
+      "name": "Paris Animal Shelter",
+      "address": "6 Legion Road, Paris, KY 40361",
+      "phone": "859-988-9800",
+      "image": "https://cdn.findpawpal.com/office/111994.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sadies-animal-rescue-and-adoption-inc-114279",
+      "name": "Sadie's Animal Rescue & Adoption, Inc.",
+      "address": "PO Box 112, Perryville, KY 40468",
+      "phone": "859-583-4299",
+      "image": "https://cdn.findpawpal.com/office/114279.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pike-county-animal-shelter-116309",
+      "name": "Pike County Animal Shelter",
+      "address": "527 Lykins Creek, Pikeville, KY 41501",
+      "phone": "606-432-6293",
+      "image": "https://cdn.findpawpal.com/office/116309.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pike-county-humane-society-109776",
+      "name": "Pike County Humane Society",
+      "address": "162 Honeysuckle Lane, Pikeville, KY 41501",
+      "phone": "606-437-7992",
+      "image": "https://cdn.findpawpal.com/office/109776.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-protection-league-of-mccreary-county-116196",
+      "name": "Animal Protection League of Mccreary County",
+      "address": "PO Box 515, Pine Knot, KY 42635",
+      "phone": "606-354-4133",
+      "image": "https://cdn.findpawpal.com/office/116196.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "heavens-little-angels-rescue-111120",
+      "name": "Heavens Little Angels Rescue",
+      "address": "122 Cherry Ln, Pine Knot, KY 42635",
+      "phone": "606-354-2935",
+      "image": "https://cdn.findpawpal.com/office/111120.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bell-county-animal-shelter-114223",
+      "name": "Bell County Animal Shelter",
+      "address": "715 Highway 1534, Pineville, KY 40977",
+      "phone": "606-337-6331",
+      "image": "https://cdn.findpawpal.com/office/114223.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-shelter-prestonsburg-111323",
+      "name": "Animal Shelter Prestonsburg",
+      "address": "3219 Mountain Parkway, Prestonsburg, KY 41653",
+      "phone": "606-886-3189",
+      "image": "https://cdn.findpawpal.com/office/111323.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "caldwell-county-animal-shelter-117082",
+      "name": "Caldwell County Animal Shelter",
+      "address": "485 Baker Hill Rd, Princeton, KY 42445",
+      "phone": "270-365-1000",
+      "image": "https://cdn.findpawpal.com/office/117082.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "estill-county-animal-shelter-112012",
+      "name": "Estill County Animal Shelter",
+      "address": "50 Ginter Rd, Ravenna, KY 40472",
+      "phone": "606-723-3587",
+      "image": "https://cdn.findpawpal.com/office/112012.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "true-heart-minpin-rescue-inc-119455",
+      "name": "True Heart Minpin Rescue, Inc.",
+      "address": "PO Box 1686, Richmond, KY 40476",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/119455.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rockholds-animal-shelter-110723",
+      "name": "Rockholds Animal Shelter",
+      "address": "3100 Meadow Creek Road, Rockholds, KY 40759",
+      "phone": "606-526-6925",
+      "image": "https://cdn.findpawpal.com/office/110723.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "logan-county-humane-society-120835",
+      "name": "Logan County Humane Society",
+      "address": "1230 Morgantown Road, Russellville, KY 42276",
+      "phone": "270-726-2186",
+      "image": "https://cdn.findpawpal.com/office/120835.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "home-at-last-animal-sanctuary-119525",
+      "name": "Home At Last Animal Sanctuary",
+      "address": "PO Box 144, Salvisa, KY 40372",
+      "phone": "502-839-1974",
+      "image": "https://cdn.findpawpal.com/office/119525.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "scottsville-animal-shelter-111912",
+      "name": "Scottsville Animal Shelter",
+      "address": "51 Humane Ln, Scottsville, KY 42164",
+      "phone": "270-618-7387",
+      "image": "https://cdn.findpawpal.com/office/111912.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "shelby-county-humane-society-118334",
+      "name": "Shelby County Humane Society",
+      "address": "40 7th Street, Shelbyville, KY 40065",
+      "phone": "502-633-4033",
+      "image": "https://cdn.findpawpal.com/office/118334.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bullitt-county-animal-rescue-111456",
+      "name": "Bullitt County Animal Rescue",
+      "address": "385 Crenshaw Road, Shepherdsville, KY 40165",
+      "phone": "502-543-7392",
+      "image": "https://cdn.findpawpal.com/office/111456.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bullitt-county-humane-society-115244",
+      "name": "Bullitt County Humane Society",
+      "address": "758 Old Preston Highway South, Shepherdsville, KY 40165",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/115244.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-protection-league-of-pulaski-county-120044",
+      "name": "Animal Protection League of Pulaski County",
+      "address": "205 Grande Avenue, Somerset, KY 42501",
+      "phone": "606-678-5609",
+      "image": "https://cdn.findpawpal.com/office/120044.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "have-a-heart-animal-rescue-inc-111667",
+      "name": "Have A Heart Animal Rescue, Inc.",
+      "address": "1550 Slate Branch Road, Somerset, KY 42503",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/111667.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pulaski-county-animal-shelter-120019",
+      "name": "Pulaski County Animal Shelter",
+      "address": "235 Adopt Me Lane, Somerset, KY 42501",
+      "phone": "606-679-6432",
+      "image": "https://cdn.findpawpal.com/office/120019.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pulaski-county-humane-society-110173",
+      "name": "Pulaski County Humane Society",
+      "address": "3610 U.s. 27, Somerset, KY 42501",
+      "phone": "606-451-2367",
+      "image": "https://cdn.findpawpal.com/office/110173.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "gallatin-county-animal-shelter-111922",
+      "name": "Gallatin County Animal Shelter",
+      "address": "4550 KY Highway 455, Sparta, KY 41086",
+      "phone": "859-643-3647",
+      "image": "https://cdn.findpawpal.com/office/111922.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "washington-county-humane-society-125490",
+      "name": "Washington County Humane Society",
+      "address": "102 Garden Court, Springfield, KY 40069",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/125490.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lincoln-county-humane-society-109627",
+      "name": "Lincoln County Humane Society",
+      "address": "PO Box 95, Stanford, KY 40484",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/109627.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-powell-countys-pets-109945",
+      "name": "Friends of Powell County's Pets",
+      "address": "PO Box 474, Stanton, KY 40380",
+      "phone": "606-481-5721",
+      "image": "https://cdn.findpawpal.com/office/109945.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "henry-trimble-county-animal-115691",
+      "name": "Henry Trimble County Animal",
+      "address": "9213 Sulphur Road, Sulphur, KY 40070",
+      "phone": "502-743-0112",
+      "image": "https://cdn.findpawpal.com/office/115691.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spencer-county-animal-control-117020",
+      "name": "Spencer County Animal Control",
+      "address": "22 Spears Drive, Taylorsville, KY 40071",
+      "phone": "502-477-3332",
+      "image": "https://cdn.findpawpal.com/office/117020.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-the-shelter-114259",
+      "name": "Friends of the Shelter",
+      "address": "PO Box 93, Union, KY 41091",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/114259.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "little-orphans-kitten-rescue-117090",
+      "name": "Little Orphans Kitten Rescue",
+      "address": "PO Box 211, Union, KY 41091",
+      "phone": "859-242-5277",
+      "image": "https://cdn.findpawpal.com/office/117090.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lewis-county-animal-shelter-110565",
+      "name": "Lewis County Animal Shelter",
+      "address": "149 County Drive, Vanceburg, KY 41179",
+      "phone": "606-796-3917",
+      "image": "https://cdn.findpawpal.com/office/110565.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "woodford-county-animal-control-115724",
+      "name": "Woodford County Animal Control",
+      "address": "204 Beasley Road, Versailles, KY 40383",
+      "phone": "859-879-0598",
+      "image": "https://cdn.findpawpal.com/office/115724.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "woodford-humane-society-inc-116397",
+      "name": "Woodford Humane Society Inc",
+      "address": "265 Thomas Lane, Versailles, KY 40383",
+      "phone": "859-873-5491",
+      "image": "https://cdn.findpawpal.com/office/116397.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-refuge-center-109678",
+      "name": "Animal Refuge Center",
+      "address": "PO Box 400, Vine Grove, KY 40175",
+      "phone": "270-877-6064",
+      "image": "https://cdn.findpawpal.com/office/109678.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "trixie-foundation-110570",
+      "name": "Trixie Foundation",
+      "address": "1167 Kennel Creek Ln, Webbville, KY 41180",
+      "phone": "606-738-4276",
+      "image": "https://cdn.findpawpal.com/office/110570.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "morgan-county-animal-shelter-126329",
+      "name": "Morgan County Animal Shelter",
+      "address": "6591 U.s. 460, West Liberty, KY 41472",
+      "phone": "606-743-2545",
+      "image": "https://cdn.findpawpal.com/office/126329.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jacks-place-114593",
+      "name": "Jack's Place",
+      "address": "PO Box 5, White Plains, KY 42464",
+      "phone": "270-399-3013",
+      "image": "https://cdn.findpawpal.com/office/114593.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "whitesville-animal-control-120944",
+      "name": "Whitesville Animal Control",
+      "address": "9844 Herbert Road, Whitesville, KY 42378",
+      "phone": "270-233-0219",
+      "image": "https://cdn.findpawpal.com/office/120944.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "grant-county-animal-shelter-117366",
+      "name": "Grant County Animal Shelter",
+      "address": "218 Barnes Road, Williamstown, KY 41097",
+      "phone": "859-824-9403",
+      "image": "https://cdn.findpawpal.com/office/117366.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clark-county-animal-shelter-115652",
+      "name": "Clark County Animal Shelter",
+      "address": "5000 Ironworks Road, Winchester, KY 40391",
+      "phone": "859-737-0053",
+      "image": "https://cdn.findpawpal.com/office/115652.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fables-german-shepherd-rescue-114404",
+      "name": "Fables German Shepherd Rescue",
+      "address": "801 Vienna Road, Winchester, KY 40391",
+      "phone": "859-745-0354",
+      "image": "https://cdn.findpawpal.com/office/114404.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-109413",
+      "name": "Humane Society",
+      "address": "Hwy 15, Winchester, KY 40391",
+      "phone": "859-744-3735",
+      "image": "https://cdn.findpawpal.com/office/109413.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kentucky-lab-rescue-inc-115720",
+      "name": "Kentucky Lab Rescue, Inc.",
+      "address": "1101 Sugar Ridge Road, Winchester, KY 40391",
+      "phone": "859-744-3555",
+      "image": "https://cdn.findpawpal.com/office/115720.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "leslie-county-animal-shelter-120255",
+      "name": "Leslie County Animal Shelter",
+      "address": "2323 Cutshin Rd, Wooton, KY 41776",
+      "phone": "606-279-4803",
+      "image": "https://cdn.findpawpal.com/office/120255.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rodere-rat-rescue-117413",
+      "name": "Rodere Rat Rescue",
+      "address": "PO Box 132, Worthington, KY 41183",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/117413.jpg?f=webp&w=730"
+    }
+  ]
+}

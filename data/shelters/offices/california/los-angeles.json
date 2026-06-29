@@ -1,0 +1,323 @@
+{
+  "fetchedAt": "2026-06-27T18:27:28.259888+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "los-angeles",
+    "name": "Los Angeles",
+    "label": "Los Angeles, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/los-angeles/",
+  "offices": [
+    {
+      "officeId": 362479,
+      "slug": "last-chance-for-animals-362479",
+      "name": "Last Chance for Animals",
+      "address": "8033 Sunset Boulevard, Los Angeles, CA 90046",
+      "phone": "310-271-6096",
+      "image": "./img/shelter/office/362479.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/last-chance-for-animals-362479/",
+      "imageUrl": "https://cdn.findpawpal.com/office/362479.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 362742,
+      "slug": "golden-retriever-club-of-greater-los-angeles-rescue-362742",
+      "name": "Golden Retriever Club of Greater Los Angeles Rescue",
+      "address": "PO Box 491209, Los Angeles, CA 90049",
+      "phone": "818-700-5200",
+      "image": "./img/shelter/office/362742.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/golden-retriever-club-of-greater-los-angeles-rescue-362742/",
+      "imageUrl": "https://cdn.findpawpal.com/office/362742.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 362831,
+      "slug": "harbor-animal-care-and-control-shelter-los-angeles-362831",
+      "name": "Harbor Animal Care and Control Shelter, Los Angeles",
+      "address": "735 West Battery Street, Los Angeles, CA 90731",
+      "phone": "310-831-2414",
+      "image": "./img/shelter/office/362831.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/harbor-animal-care-and-control-shelter-los-angeles-362831/",
+      "imageUrl": "https://cdn.findpawpal.com/office/362831.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 363360,
+      "slug": "pet-orphans-of-southern-california-363360",
+      "name": "Pet Orphans of Southern California",
+      "address": "7720 Gloria Avenue, Los Angeles, CA 91406",
+      "phone": "818-901-0190",
+      "image": "./img/shelter/office/363360.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-orphans-of-southern-california-363360/",
+      "imageUrl": "https://cdn.findpawpal.com/office/363360.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 363383,
+      "slug": "east-valley-animal-shelter-363383",
+      "name": "East Valley Animal Shelter",
+      "address": "14409 Vanowen Street, Los Angeles, CA 91405",
+      "phone": "888-452-7381",
+      "image": "./img/shelter/office/363383.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/east-valley-animal-shelter-363383/",
+      "imageUrl": "https://cdn.findpawpal.com/office/363383.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 363477,
+      "slug": "cat-connection-363477",
+      "name": "Cat Connection",
+      "address": "18307 Burbank Boulevard, Los Angeles, CA 91356",
+      "phone": "818-776-0655",
+      "image": "./img/shelter/office/363477.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cat-connection-363477/",
+      "imageUrl": "https://cdn.findpawpal.com/office/363477.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 366183,
+      "slug": "muttshack-animal-rescue-foundation-366183",
+      "name": "Muttshack Animal Rescue Foundation",
+      "address": "11872 Eldridge Avenue, Los Angeles, CA 91342",
+      "phone": "866-718-1001",
+      "image": "./img/shelter/office/366183.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/muttshack-animal-rescue-foundation-366183/",
+      "imageUrl": "https://cdn.findpawpal.com/office/366183.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 366330,
+      "slug": "north-central-animal-shelter-366330",
+      "name": "North Central Animal Shelter",
+      "address": "3201 Lacy Street, Los Angeles, CA 90031",
+      "phone": "888-452-7381",
+      "image": "./img/shelter/office/366330.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/north-central-animal-shelter-366330/",
+      "imageUrl": "https://cdn.findpawpal.com/office/366330.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 366380,
+      "slug": "friends-for-pets-foundation-366380",
+      "name": "Friends For Pets Foundation",
+      "address": "11117 Fleetwood Street, Los Angeles, CA 91352",
+      "phone": "818-767-5919",
+      "image": "./img/shelter/office/366380.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-for-pets-foundation-366380/",
+      "imageUrl": "https://cdn.findpawpal.com/office/366380.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 383229,
+      "slug": "bark-avenue-foundation-383229",
+      "name": "Bark Avenue Foundation",
+      "address": "3016 South Hill Street, Los Angeles, CA 90007",
+      "phone": "323-788-8488",
+      "image": "./img/shelter/office/383229.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bark-avenue-foundation-383229/",
+      "imageUrl": "https://cdn.findpawpal.com/office/383229.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 383551,
+      "slug": "cagefree-k-9-camp-383551",
+      "name": "Cagefree K-9 Camp",
+      "address": "3385 Robertson Place, Los Angeles, CA 90034",
+      "phone": "310-202-6900",
+      "image": "./img/shelter/office/383551.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cagefree-k-9-camp-383551/",
+      "imageUrl": "https://cdn.findpawpal.com/office/383551.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 383779,
+      "slug": "irish-wolfhound-rescue-trust-383779",
+      "name": "Irish Wolfhound Rescue Trust",
+      "address": "16513 Napa Street, Los Angeles, CA 91343",
+      "phone": "818-894-8988",
+      "image": "./img/shelter/office/383779.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/irish-wolfhound-rescue-trust-383779/",
+      "imageUrl": "https://cdn.findpawpal.com/office/383779.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 384741,
+      "slug": "cat-and-dog-rescue-association-384741",
+      "name": "Cat and Dog Rescue Association",
+      "address": "473 South Fairfax Avenue, Los Angeles, CA 90036",
+      "phone": "323-525-1471",
+      "image": "./img/shelter/office/384741.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cat-and-dog-rescue-association-384741/",
+      "imageUrl": "https://cdn.findpawpal.com/office/384741.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 386158,
+      "slug": "west-la-animal-shelter-386158",
+      "name": "West LA Animal Shelter",
+      "address": "11361 West Pico Boulevard, Los Angeles, CA 90064",
+      "phone": "888-452-7381",
+      "image": "./img/shelter/office/386158.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/west-la-animal-shelter-386158/",
+      "imageUrl": "https://cdn.findpawpal.com/office/386158.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 388360,
+      "slug": "kitten-rescue-online-388360",
+      "name": "Kitten Rescue Online",
+      "address": "23705 Vanowen Street, Los Angeles, CA 91307",
+      "phone": "818-347-3037",
+      "image": "./img/shelter/office/388360.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kitten-rescue-online-388360/",
+      "imageUrl": "https://cdn.findpawpal.com/office/388360.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 390531,
+      "slug": "angel-puss-and-pooch-rescue-390531",
+      "name": "Angel Puss & Pooch Rescue",
+      "address": "7508 Topanga Canyon Boulevard, Los Angeles, CA 91303",
+      "phone": "818-888-7877",
+      "image": "./img/shelter/office/390531.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/angel-puss-and-pooch-rescue-390531/",
+      "imageUrl": "https://cdn.findpawpal.com/office/390531.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 390578,
+      "slug": "lange-foundation-390578",
+      "name": "Lange Foundation",
+      "address": "2106 South Sepulveda Boulevard, Los Angeles, CA 90025",
+      "phone": "310-473-5585",
+      "image": "./img/shelter/office/390578.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lange-foundation-390578/",
+      "imageUrl": "https://cdn.findpawpal.com/office/390578.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 477953,
+      "slug": "pet-rescue-association-dog-and-cat-adoption-center-477953",
+      "name": "Pet Rescue Association Dog and Cat Adoption Center",
+      "address": "8906 Norris Avenue, Los Angeles, CA 91352",
+      "phone": "818-845-6222",
+      "image": "./img/shelter/office/477953.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-rescue-association-dog-and-cat-adoption-center-477953/",
+      "imageUrl": "https://cdn.findpawpal.com/office/477953.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 483418,
+      "slug": "rescue-me-inc-483418",
+      "name": "Rescue Me Inc",
+      "address": "23136 Victory Boulevard, Los Angeles, CA 91367",
+      "phone": "818-999-2400",
+      "image": "./img/shelter/office/483418.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rescue-me-inc-483418/",
+      "imageUrl": "https://cdn.findpawpal.com/office/483418.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 483469,
+      "slug": "happy-ending-rescue-483469",
+      "name": "Happy Ending Rescue",
+      "address": "500 South Berendo Street, Los Angeles, CA 90020",
+      "phone": "",
+      "image": "./img/shelter/office/483469.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/happy-ending-rescue-483469/",
+      "imageUrl": "https://cdn.findpawpal.com/office/483469.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 483516,
+      "slug": "friends-of-animals-foundation-483516",
+      "name": "Friends of Animals Foundation",
+      "address": "PO Box 34 1230, Los Angeles, CA 90034",
+      "phone": "310-479-5089",
+      "image": "./img/shelter/office/483516.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-animals-foundation-483516/",
+      "imageUrl": "https://cdn.findpawpal.com/office/483516.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 486539,
+      "slug": "american-society-for-the-prevention-of-cruelty-to-animals-486539",
+      "name": "American Society for The Prevention of Cruelty to Animals",
+      "address": "11726 San Vicente Boulevard, Los Angeles, CA 90049",
+      "phone": "310-207-6774",
+      "image": "./img/shelter/office/486539.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/american-society-for-the-prevention-of-cruelty-to-animals-486539/",
+      "imageUrl": "https://cdn.findpawpal.com/office/486539.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 489914,
+      "slug": "encino-animal-control-489914",
+      "name": "Encino Animal Control",
+      "address": "17328 Ventura Boulevard, Los Angeles, CA 91316",
+      "phone": "818-994-8138",
+      "image": "./img/shelter/office/489914.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/encino-animal-control-489914/",
+      "imageUrl": "https://cdn.findpawpal.com/office/489914.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 532132,
+      "slug": "rabbitmatch-org-532132",
+      "name": "Rabbitmatch.Org",
+      "address": "PO Box 642839, Los Angeles, CA 90064",
+      "phone": "323-290-0389",
+      "image": "./img/shelter/office/532132.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rabbitmatch-org-532132/",
+      "imageUrl": "https://cdn.findpawpal.com/office/532132.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 536810,
+      "slug": "pot-belly-pig-rescue-536810",
+      "name": "Pot Belly Pig Rescue",
+      "address": "19025 Parthenia Street, Los Angeles, CA 91324",
+      "phone": "818-701-1534",
+      "image": "https://cdn.findpawpal.com/office/536810.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/pot-belly-pig-rescue-536810/"
+    },
+    {
+      "officeId": 536818,
+      "slug": "pigs-without-partners-536818",
+      "name": "Pigs Without Partners",
+      "address": "9821 Vicar Street, Los Angeles, CA 90034",
+      "phone": "310-836-8237",
+      "image": "./img/shelter/office/536818.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pigs-without-partners-536818/",
+      "imageUrl": "https://cdn.findpawpal.com/office/536818.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 539534,
+      "slug": "mission-hills-animal-control-539534",
+      "name": "Mission Hills Animal Control",
+      "address": "15321 Brand Boulevard, Los Angeles, CA 91345",
+      "phone": "818-643-3989",
+      "image": "./img/shelter/office/539534.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mission-hills-animal-control-539534/",
+      "imageUrl": "https://cdn.findpawpal.com/office/539534.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 539671,
+      "slug": "mirth-hollywood-animal-shelter-539671",
+      "name": "Mirth Hollywood Animal Shelter",
+      "address": "13131 Sherman Way, Los Angeles, CA 91605",
+      "phone": "888-452-7381",
+      "image": "./img/shelter/office/539671.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mirth-hollywood-animal-shelter-539671/",
+      "imageUrl": "https://cdn.findpawpal.com/office/539671.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 540482,
+      "slug": "actors-and-others-for-animals-540482",
+      "name": "Actors & Others For Animals",
+      "address": "11523 Burbank Boulevard, Los Angeles, CA 91601",
+      "phone": "818-755-6045",
+      "image": "./img/shelter/office/540482.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/actors-and-others-for-animals-540482/",
+      "imageUrl": "https://cdn.findpawpal.com/office/540482.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 668439,
+      "slug": "boxer-rescue-inc-los-angeles-668439",
+      "name": "Boxer Rescue, Inc Los Angeles",
+      "address": "17514 Ventura Boulevard, Los Angeles, CA 91316",
+      "phone": "213-532-6541",
+      "image": "https://cdn.findpawpal.com/office/668439.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/boxer-rescue-inc-los-angeles-668439/"
+    },
+    {
+      "officeId": 668453,
+      "slug": "pet-adoption-fund-668453",
+      "name": "Pet Adoption Fund",
+      "address": "7507 Deering Avenue, Los Angeles, CA 91303",
+      "phone": "818-340-1687",
+      "image": "./img/shelter/office/668453.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-adoption-fund-668453/",
+      "imageUrl": "https://cdn.findpawpal.com/office/668453.jpg?f=webp&w=730"
+    }
+  ]
+}

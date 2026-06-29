@@ -1,0 +1,135 @@
+{
+  "fetchedAt": "2026-06-27T18:33:47.969330+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "colorado-springs",
+    "name": "Colorado Springs",
+    "label": "Colorado Springs, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/colorado-springs/",
+  "offices": [
+    {
+      "officeId": 39824,
+      "slug": "mill-dog-rescue-network-39824",
+      "name": "Mill Dog Rescue Network",
+      "address": "13030 Herring Road, Colorado Springs, CO 80908",
+      "phone": "",
+      "image": "./img/shelter/office/39824.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mill-dog-rescue-network-39824/",
+      "imageUrl": "https://cdn.findpawpal.com/office/39824.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 39852,
+      "slug": "greyhounds-as-pets-39852",
+      "name": "Greyhounds As Pets",
+      "address": "3009 West Colorado Avenue, Colorado Springs, CO 80904",
+      "phone": "800-748-3738",
+      "image": "./img/shelter/office/39852.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhounds-as-pets-39852/",
+      "imageUrl": "https://cdn.findpawpal.com/office/39852.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40077,
+      "slug": "look-what-the-cat-brought-in-40077",
+      "name": "Look What the Cat Brought In",
+      "address": "2129 East Boulder Street, Colorado Springs, CO 80909",
+      "phone": "719-331-6852",
+      "image": "./img/shelter/office/40077.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/look-what-the-cat-brought-in-40077/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40077.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40393,
+      "slug": "colorado-animal-refuge-40393",
+      "name": "Colorado Animal Refuge",
+      "address": "402 South 10th Street, Colorado Springs, CO 80905",
+      "phone": "719-632-1194",
+      "image": "./img/shelter/office/40393.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado-animal-refuge-40393/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40393.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40586,
+      "slug": "dreampower-animal-rescue-foundation-40586",
+      "name": "Dreampower Animal Rescue Foundation",
+      "address": "PO Box 62923, Colorado Springs, CO 80962",
+      "phone": "719-390-7838",
+      "image": "./img/shelter/office/40586.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dreampower-animal-rescue-foundation-40586/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40586.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40916,
+      "slug": "colorado-springs-animal-control-40916",
+      "name": "Colorado Springs Animal Control",
+      "address": "3578 Hartsel Drive, Colorado Springs, CO 80920",
+      "phone": "719-632-6226",
+      "image": "./img/shelter/office/40916.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado-springs-animal-control-40916/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40916.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 41093,
+      "slug": "el-paso-county-animal-control-41093",
+      "name": "El Paso County Animal Control",
+      "address": "301 South Union Boulevard, Colorado Springs, CO 80910",
+      "phone": "719-575-8636",
+      "image": "./img/shelter/office/41093.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/el-paso-county-animal-control-41093/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41093.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 42824,
+      "slug": "9-lives-rescue-42824",
+      "name": "9 Lives Rescue",
+      "address": "PO Box 75183, Colorado Springs, CO 80970",
+      "phone": "719-591-4640",
+      "image": "./img/shelter/office/42824.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/9-lives-rescue-42824/",
+      "imageUrl": "https://cdn.findpawpal.com/office/42824.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 42833,
+      "slug": "humane-society-of-the-pikes-peak-region-42833",
+      "name": "Humane Society of the Pikes Peak Region",
+      "address": "610 Abbot Lane, Colorado Springs, CO 80905",
+      "phone": "719-473-1741",
+      "image": "./img/shelter/office/42833.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-the-pikes-peak-region-42833/",
+      "imageUrl": "https://cdn.findpawpal.com/office/42833.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 43193,
+      "slug": "lucky-dog-rescue-43193",
+      "name": "Lucky Dog Rescue",
+      "address": "4401 Mark Dabling Boulevard, Colorado Springs, CO 80907",
+      "phone": "719-433-0131",
+      "image": "./img/shelter/office/43193.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lucky-dog-rescue-43193/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43193.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 43777,
+      "slug": "all-breed-rescue-and-training-43777",
+      "name": "All Breed Rescue & Training",
+      "address": "20 Mount View Lane, Colorado Springs, CO 80907",
+      "phone": "719-264-6460",
+      "image": "./img/shelter/office/43777.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/all-breed-rescue-and-training-43777/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43777.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 43793,
+      "slug": "chihuahua-and-small-dog-rescue-llc-43793",
+      "name": "Chihuahua & Small Dog Rescue, Llc",
+      "address": "53 Monk Street, Colorado Springs, CO 80911",
+      "phone": "719-291-3536",
+      "image": "./img/shelter/office/43793.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/chihuahua-and-small-dog-rescue-llc-43793/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43793.jpg?f=webp&w=730"
+    }
+  ]
+}

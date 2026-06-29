@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:30:26.079680+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "san-mateo",
+    "name": "San Mateo",
+    "label": "San Mateo, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/san-mateo/",
+  "offices": [
+    {
+      "officeId": 391831,
+      "slug": "san-mateo-county-animal-control-391831",
+      "name": "San Mateo County Animal Control",
+      "address": "225 37th Avenue, San Mateo, CA 94403",
+      "phone": "650-573-3940",
+      "image": "./img/shelter/office/391831.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/san-mateo-county-animal-control-391831/",
+      "imageUrl": "https://cdn.findpawpal.com/office/391831.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 486082,
+      "slug": "cavy-spirit-486082",
+      "name": "Cavy Spirit",
+      "address": "1043 Annapolis Drive, San Mateo, CA 94403",
+      "phone": "650-571-1722",
+      "image": "./img/shelter/office/486082.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cavy-spirit-486082/",
+      "imageUrl": "https://cdn.findpawpal.com/office/486082.jpg?f=webp&w=730"
+    }
+  ]
+}

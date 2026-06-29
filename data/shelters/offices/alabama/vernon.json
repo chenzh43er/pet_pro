@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-06-27T18:19:00.166280+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "vernon",
+    "name": "Vernon",
+    "label": "Vernon, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/vernon/",
+  "offices": [
+    {
+      "slug": "lamar-county-humane-society-5958",
+      "name": "Lamar County Humane Society",
+      "address": "PO Box 534, Vernon, AL 35592",
+      "phone": "205-695-6631",
+      "image": "https://cdn.findpawpal.com/office/5958.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/lamar-county-humane-society-5958/"
+    }
+  ]
+}

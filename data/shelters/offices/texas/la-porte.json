@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:06:30.564548+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "la-porte",
+    "name": "La Porte",
+    "label": "La Porte, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/la-porte/",
+  "offices": [
+    {
+      "officeId": 674561,
+      "slug": "la-porte-animal-control-674561",
+      "name": "LA Porte Animal Control",
+      "address": "1201 South 4th Street, La Porte, TX 77571",
+      "phone": "281-842-3700",
+      "image": "./img/shelter/office/674561.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/la-porte-animal-control-674561/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674561.jpg?f=webp&w=730"
+    }
+  ]
+}

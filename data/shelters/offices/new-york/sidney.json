@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:36:51.351309+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "sidney",
+    "name": "Sidney",
+    "label": "Sidney, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/sidney/",
+  "offices": [
+    {
+      "officeId": 313015,
+      "slug": "delaware-valley-humane-society-313015",
+      "name": "Delaware Valley Humane Society",
+      "address": "101 Main Street, Sidney, NY 13838",
+      "phone": "607-563-7780",
+      "image": "./img/shelter/office/313015.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/delaware-valley-humane-society-313015/",
+      "imageUrl": "https://cdn.findpawpal.com/office/313015.jpg?f=webp&w=730"
+    }
+  ]
+}

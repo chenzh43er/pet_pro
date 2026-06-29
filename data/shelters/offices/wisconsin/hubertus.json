@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:22:59.293210+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "hubertus",
+    "name": "Hubertus",
+    "label": "Hubertus, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/hubertus/",
+  "offices": [
+    {
+      "officeId": 490369,
+      "slug": "center-for-avian-rehabilitation-and-education-inc-490369",
+      "name": "Center for Avian Rehabilitation & Education, Inc.",
+      "address": "3053 Beechwood Industrial Court, Hubertus, WI 53033",
+      "phone": "262-628-3719",
+      "image": "./img/shelter/office/490369.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/center-for-avian-rehabilitation-and-education-inc-490369/",
+      "imageUrl": "https://cdn.findpawpal.com/office/490369.jpg?f=webp&w=730"
+    }
+  ]
+}

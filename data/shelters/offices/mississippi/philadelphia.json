@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:17:01.043743+00:00",
+  "state": {
+    "slug": "mississippi",
+    "name": "Mississippi"
+  },
+  "city": {
+    "slug": "philadelphia",
+    "name": "Philadelphia",
+    "label": "Philadelphia, MS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/mississippi/philadelphia/",
+  "offices": [
+    {
+      "officeId": 112897,
+      "slug": "philadelphia-city-animal-shelter-112897",
+      "name": "Philadelphia City Animal Shelter",
+      "address": "205 Rea Street, Philadelphia, MS 39350",
+      "phone": "601-650-3587",
+      "image": "./img/shelter/office/112897.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/philadelphia-city-animal-shelter-112897/",
+      "imageUrl": "https://cdn.findpawpal.com/office/112897.jpg?f=webp&w=730"
+    }
+  ]
+}

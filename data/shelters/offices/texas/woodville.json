@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:10:15.087149+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "woodville",
+    "name": "Woodville",
+    "label": "Woodville, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/woodville/",
+  "offices": [
+    {
+      "officeId": 518958,
+      "slug": "woodville-animal-shelter-518958",
+      "name": "Woodville Animal Shelter",
+      "address": "1499 North Magnolia Street, Woodville, TX 75979",
+      "phone": "409-283-7387",
+      "image": "./img/shelter/office/518958.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/woodville-animal-shelter-518958/",
+      "imageUrl": "https://cdn.findpawpal.com/office/518958.jpg?f=webp&w=730"
+    }
+  ]
+}

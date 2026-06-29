@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:59:00.121030+00:00",
+  "state": {
+    "slug": "south-dakota",
+    "name": "South Dakota"
+  },
+  "city": {
+    "slug": "parkston",
+    "name": "Parkston",
+    "label": "Parkston, SD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-dakota/parkston/",
+  "offices": [
+    {
+      "officeId": 697622,
+      "slug": "heart-and-soul-kitty-santcuary-697622",
+      "name": "Heart and Soul Kitty Santcuary",
+      "address": "906 West Glynn Drive, Parkston, SD 57366",
+      "phone": "605-630-9453",
+      "image": "./img/shelter/office/697622.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/heart-and-soul-kitty-santcuary-697622/",
+      "imageUrl": "https://cdn.findpawpal.com/office/697622.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:39:06.692161+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "cochran",
+    "name": "Cochran",
+    "label": "Cochran, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/cochran/",
+  "offices": [
+    {
+      "officeId": 140593,
+      "slug": "city-of-cochran-animal-shelter-140593",
+      "name": "City of Cochran Animal Shelter",
+      "address": "230 NW Railroad Ave, Cochran, GA 31014",
+      "phone": "478-934-1306",
+      "image": "./img/shelter/office/140593.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/city-of-cochran-animal-shelter-140593/",
+      "imageUrl": "https://cdn.findpawpal.com/office/140593.jpg?f=webp&w=730"
+    }
+  ]
+}

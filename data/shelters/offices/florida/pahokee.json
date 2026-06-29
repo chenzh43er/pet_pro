@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:16:23.170066+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "pahokee",
+    "name": "Pahokee",
+    "label": "Pahokee, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/pahokee/",
+  "offices": [
+    {
+      "slug": "palm-beach-county-animal-control-286496",
+      "name": "Palm Beach County Animal Control",
+      "address": "3615 State Road 715, Pahokee, FL 33476",
+      "phone": "561-924-5656",
+      "image": "./img/shelter/office/286496.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/palm-beach-county-animal-control-286496/",
+      "imageUrl": "https://cdn.findpawpal.com/office/286496.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:01:45.869323+00:00",
+  "state": {
+    "slug": "maine",
+    "name": "Maine"
+  },
+  "city": {
+    "slug": "lebanon",
+    "name": "Lebanon",
+    "label": "Lebanon, ME"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maine/lebanon/",
+  "offices": [
+    {
+      "officeId": 349045,
+      "slug": "hemlock-hill-farm-sanctuary-349045",
+      "name": "Hemlock Hill Farm Sanctuary",
+      "address": "PO Box 474, Lebanon, ME 04027",
+      "phone": "207-457-1371",
+      "image": "https://cdn.findpawpal.com/office/349045.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/hemlock-hill-farm-sanctuary-349045/"
+    }
+  ]
+}

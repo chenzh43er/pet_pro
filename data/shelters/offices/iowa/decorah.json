@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:53:02.345705+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa"
+  },
+  "city": {
+    "slug": "decorah",
+    "name": "Decorah",
+    "label": "Decorah, IA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/decorah/",
+  "offices": [
+    {
+      "officeId": 352945,
+      "slug": "iowa-weimaraner-rescue-352945",
+      "name": "Iowa Weimaraner Rescue",
+      "address": "906 West Pearl Street, Decorah, IA 52101",
+      "phone": "",
+      "image": "./img/shelter/office/352945.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa-weimaraner-rescue-352945/",
+      "imageUrl": "https://cdn.findpawpal.com/office/352945.jpg?f=webp&w=730"
+    }
+  ]
+}

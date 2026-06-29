@@ -1,0 +1,21 @@
+{
+  "officeId": 361789,
+  "slug": "agoura-hills-animal-shelter-361789",
+  "name": "Agoura Hills Animal Shelter",
+  "address": "29525 Agoura Road, Agoura Hills, CA 91301",
+  "street": "29525 Agoura Road",
+  "addressCity": "Agoura Hills",
+  "stateCode": "CA",
+  "zip": "91301",
+  "phone": "818-991-0071",
+  "image": "./img/shelter/office/361789.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/agoura-hills-animal-shelter-361789/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "agoura-hills",
+  "cityName": "Agoura Hills",
+  "cityLabel": "Agoura Hills, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/agoura-hills/",
+  "fetchedAt": "2026-06-27T18:23:36.236191+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/361789.jpg?f=webp&w=730"
+}

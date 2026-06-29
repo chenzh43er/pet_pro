@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:32:03.539779+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "west-hollywood",
+    "name": "West Hollywood",
+    "label": "West Hollywood, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/west-hollywood/",
+  "offices": [
+    {
+      "slug": "west-hollywood-animal-control-538659",
+      "name": "West Hollywood Animal Control",
+      "address": "7908 Santa Monica Boulevard, West Hollywood, CA 90046",
+      "phone": "323-656-2593",
+      "image": "./img/shelter/office/538659.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/west-hollywood-animal-control-538659/",
+      "imageUrl": "https://cdn.findpawpal.com/office/538659.jpg?f=webp&w=730"
+    }
+  ]
+}

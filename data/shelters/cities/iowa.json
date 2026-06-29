@@ -1,0 +1,585 @@
+{
+  "fetchedAt": "2026-06-27T17:47:49.123956+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa",
+    "offices": 120
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/",
+  "cities": [
+    {
+      "slug": "ackley",
+      "name": "Ackley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/ackley/"
+    },
+    {
+      "slug": "adel",
+      "name": "Adel",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/adel/"
+    },
+    {
+      "slug": "ames",
+      "name": "Ames",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/ames/"
+    },
+    {
+      "slug": "anamosa",
+      "name": "Anamosa",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/anamosa/"
+    },
+    {
+      "slug": "ankeny",
+      "name": "Ankeny",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/ankeny/"
+    },
+    {
+      "slug": "atlantic",
+      "name": "Atlantic",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/atlantic/"
+    },
+    {
+      "slug": "avoca",
+      "name": "Avoca",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/avoca/"
+    },
+    {
+      "slug": "boone",
+      "name": "Boone",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/boone/"
+    },
+    {
+      "slug": "burlington",
+      "name": "Burlington",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/burlington/"
+    },
+    {
+      "slug": "carlisle",
+      "name": "Carlisle",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/carlisle/"
+    },
+    {
+      "slug": "carroll",
+      "name": "Carroll",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/carroll/"
+    },
+    {
+      "slug": "cedar-rapids",
+      "name": "Cedar Rapids",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/cedar-rapids/"
+    },
+    {
+      "slug": "chariton",
+      "name": "Chariton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/chariton/"
+    },
+    {
+      "slug": "charles",
+      "name": "Charles",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/charles/"
+    },
+    {
+      "slug": "clarinda",
+      "name": "Clarinda",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/clarinda/"
+    },
+    {
+      "slug": "clear-lake",
+      "name": "Clear Lake",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/clear-lake/"
+    },
+    {
+      "slug": "clinton",
+      "name": "Clinton",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/clinton/"
+    },
+    {
+      "slug": "coralville",
+      "name": "Coralville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/coralville/"
+    },
+    {
+      "slug": "council-bluffs",
+      "name": "Council Bluffs",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/council-bluffs/"
+    },
+    {
+      "slug": "creston",
+      "name": "Creston",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/creston/"
+    },
+    {
+      "slug": "davenport",
+      "name": "Davenport",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/davenport/"
+    },
+    {
+      "slug": "decorah",
+      "name": "Decorah",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/decorah/"
+    },
+    {
+      "slug": "denison",
+      "name": "Denison",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/denison/"
+    },
+    {
+      "slug": "des-moines",
+      "name": "Des Moines",
+      "offices": 6,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/des-moines/"
+    },
+    {
+      "slug": "dubuque",
+      "name": "Dubuque",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/dubuque/"
+    },
+    {
+      "slug": "eldora",
+      "name": "Eldora",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/eldora/"
+    },
+    {
+      "slug": "ely",
+      "name": "Ely",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/ely/"
+    },
+    {
+      "slug": "emmetsburg",
+      "name": "Emmetsburg",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/emmetsburg/"
+    },
+    {
+      "slug": "fairfield",
+      "name": "Fairfield",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/fairfield/"
+    },
+    {
+      "slug": "fort-dodge",
+      "name": "Fort Dodge",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/fort-dodge/"
+    },
+    {
+      "slug": "fort-madison",
+      "name": "Fort Madison",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/fort-madison/"
+    },
+    {
+      "slug": "glenwood",
+      "name": "Glenwood",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/glenwood/"
+    },
+    {
+      "slug": "grinnell",
+      "name": "Grinnell",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/grinnell/"
+    },
+    {
+      "slug": "guthrie-center",
+      "name": "Guthrie Center",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/guthrie-center/"
+    },
+    {
+      "slug": "havelock",
+      "name": "Havelock",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/havelock/"
+    },
+    {
+      "slug": "humboldt",
+      "name": "Humboldt",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/humboldt/"
+    },
+    {
+      "slug": "indianola",
+      "name": "Indianola",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/indianola/"
+    },
+    {
+      "slug": "iowa",
+      "name": "Iowa",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/iowa/"
+    },
+    {
+      "slug": "jefferson",
+      "name": "Jefferson",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/jefferson/"
+    },
+    {
+      "slug": "keokuk",
+      "name": "Keokuk",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/keokuk/"
+    },
+    {
+      "slug": "knoxville",
+      "name": "Knoxville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/knoxville/"
+    },
+    {
+      "slug": "lake-park",
+      "name": "Lake Park",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/lake-park/"
+    },
+    {
+      "slug": "letts",
+      "name": "Letts",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/letts/"
+    },
+    {
+      "slug": "logan",
+      "name": "Logan",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/logan/"
+    },
+    {
+      "slug": "maquoketa",
+      "name": "Maquoketa",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/maquoketa/"
+    },
+    {
+      "slug": "marion",
+      "name": "Marion",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/marion/"
+    },
+    {
+      "slug": "marshalltown",
+      "name": "Marshalltown",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/marshalltown/"
+    },
+    {
+      "slug": "mason",
+      "name": "Mason",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/mason/"
+    },
+    {
+      "slug": "maysville",
+      "name": "Maysville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/maysville/"
+    },
+    {
+      "slug": "milford",
+      "name": "Milford",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/milford/"
+    },
+    {
+      "slug": "muscatine",
+      "name": "Muscatine",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/muscatine/"
+    },
+    {
+      "slug": "mystic",
+      "name": "Mystic",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/mystic/"
+    },
+    {
+      "slug": "nashua",
+      "name": "Nashua",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/nashua/"
+    },
+    {
+      "slug": "nevada",
+      "name": "Nevada",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/nevada/"
+    },
+    {
+      "slug": "newton",
+      "name": "Newton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/newton/"
+    },
+    {
+      "slug": "osceola",
+      "name": "Osceola",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/osceola/"
+    },
+    {
+      "slug": "oskaloosa",
+      "name": "Oskaloosa",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/oskaloosa/"
+    },
+    {
+      "slug": "ottumwa",
+      "name": "Ottumwa",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/ottumwa/"
+    },
+    {
+      "slug": "oxford-junction",
+      "name": "Oxford Junction",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/oxford-junction/"
+    },
+    {
+      "slug": "pleasant-hill",
+      "name": "Pleasant Hill",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/pleasant-hill/"
+    },
+    {
+      "slug": "pocahontas",
+      "name": "Pocahontas",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/pocahontas/"
+    },
+    {
+      "slug": "red-oak",
+      "name": "Red Oak",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/red-oak/"
+    },
+    {
+      "slug": "rockwell",
+      "name": "Rockwell",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/rockwell/"
+    },
+    {
+      "slug": "rowley",
+      "name": "Rowley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/rowley/"
+    },
+    {
+      "slug": "shelby",
+      "name": "Shelby",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/shelby/"
+    },
+    {
+      "slug": "sherrill",
+      "name": "Sherrill",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/sherrill/"
+    },
+    {
+      "slug": "sioux",
+      "name": "Sioux",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/sioux/"
+    },
+    {
+      "slug": "solon",
+      "name": "Solon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/solon/"
+    },
+    {
+      "slug": "spencer",
+      "name": "Spencer",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/spencer/"
+    },
+    {
+      "slug": "storm-lake",
+      "name": "Storm Lake",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/storm-lake/"
+    },
+    {
+      "slug": "tama",
+      "name": "Tama",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/tama/"
+    },
+    {
+      "slug": "tipton",
+      "name": "Tipton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/tipton/"
+    },
+    {
+      "slug": "truro",
+      "name": "Truro",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/truro/"
+    },
+    {
+      "slug": "underwood",
+      "name": "Underwood",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/underwood/"
+    },
+    {
+      "slug": "urbandale",
+      "name": "Urbandale",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/urbandale/"
+    },
+    {
+      "slug": "vinton",
+      "name": "Vinton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/vinton/"
+    },
+    {
+      "slug": "washington",
+      "name": "Washington",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/washington/"
+    },
+    {
+      "slug": "waterloo",
+      "name": "Waterloo",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/waterloo/"
+    },
+    {
+      "slug": "west-branch",
+      "name": "West Branch",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/west-branch/"
+    },
+    {
+      "slug": "west-des-moines",
+      "name": "West Des Moines",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/west-des-moines/"
+    },
+    {
+      "slug": "williamsburg",
+      "name": "Williamsburg",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/williamsburg/"
+    },
+    {
+      "slug": "winterset",
+      "name": "Winterset",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/winterset/"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:39:43.053312+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "huntersville",
+    "name": "Huntersville",
+    "label": "Huntersville, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/huntersville/",
+  "offices": [
+    {
+      "officeId": 229481,
+      "slug": "great-dane-rescue-of-the-carolinas-inc-229481",
+      "name": "Great Dane Rescue of the Carolinas, Inc.",
+      "address": "10425 Mount Holly-Huntersville Road, Huntersville, NC 28078",
+      "phone": "704-697-9706",
+      "image": "https://cdn.findpawpal.com/office/229481.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/great-dane-rescue-of-the-carolinas-inc-229481/"
+    }
+  ]
+}

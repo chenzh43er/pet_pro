@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T20:02:50.246675+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "balch-springs",
+    "name": "Balch Springs",
+    "label": "Balch Springs, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/balch-springs/",
+  "offices": [
+    {
+      "officeId": 493183,
+      "slug": "2nd-chance-kittens-and-kats-493183",
+      "name": "2nd Chance Kittens & Kats",
+      "address": "PO Box 866, Balch Springs, TX 75180",
+      "phone": "972-286-1052",
+      "image": "./img/shelter/office/493183.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/2nd-chance-kittens-and-kats-493183/",
+      "imageUrl": "https://cdn.findpawpal.com/office/493183.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 539211,
+      "slug": "balch-springs-animal-control-539211",
+      "name": "Balch Springs Animal Control",
+      "address": "3117 Hickory Tree Road, Balch Springs, TX 75180",
+      "phone": "972-557-6034",
+      "image": "./img/shelter/office/539211.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/balch-springs-animal-control-539211/",
+      "imageUrl": "https://cdn.findpawpal.com/office/539211.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 702226,
+      "slug": "the-ferret-lovers-club-of-texas-702226",
+      "name": "The Ferret Lovers Club of Texas",
+      "address": "5309 Wild Oak Road, Balch Springs, TX 75180",
+      "phone": "972-286-5778",
+      "image": "./img/shelter/office/702226.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-ferret-lovers-club-of-texas-702226/",
+      "imageUrl": "https://cdn.findpawpal.com/office/702226.jpg?f=webp&w=730"
+    }
+  ]
+}

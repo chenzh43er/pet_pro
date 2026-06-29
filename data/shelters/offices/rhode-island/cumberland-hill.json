@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T19:55:59.306091+00:00",
+  "state": {
+    "slug": "rhode-island",
+    "name": "Rhode Island"
+  },
+  "city": {
+    "slug": "cumberland-hill",
+    "name": "Cumberland Hill",
+    "label": "Cumberland Hill, RI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/rhode-island/cumberland-hill/",
+  "offices": [
+    {
+      "officeId": 588984,
+      "slug": "u-heal-animal-shelter-and-sanctuary-588984",
+      "name": "U-Heal Animal Shelter and Sanctuary",
+      "address": "PO Box 113, Cumberland Hill, RI 02864",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/588984.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/u-heal-animal-shelter-and-sanctuary-588984/"
+    },
+    {
+      "officeId": 648002,
+      "slug": "cumberland-animal-control-648002",
+      "name": "Cumberland Animal Control",
+      "address": "44 Martin Street, Cumberland Hill, RI 02864",
+      "phone": "401-333-2745",
+      "image": "https://cdn.findpawpal.com/office/648002.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/cumberland-animal-control-648002/"
+    }
+  ]
+}

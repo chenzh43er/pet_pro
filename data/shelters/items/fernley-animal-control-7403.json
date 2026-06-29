@@ -1,0 +1,21 @@
+{
+  "officeId": 7403,
+  "slug": "fernley-animal-control-7403",
+  "name": "Fernley Animal Control",
+  "address": "595 Silverlace Boulevard, Fernley, NV 89408",
+  "street": "595 Silverlace Boulevard",
+  "addressCity": "Fernley",
+  "stateCode": "NV",
+  "zip": "89408",
+  "phone": "775-575-9758",
+  "image": "./img/shelter/office/7403.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/fernley-animal-control-7403/",
+  "stateSlug": "nevada",
+  "stateName": "Nevada",
+  "citySlug": "fernley",
+  "cityName": "Fernley",
+  "cityLabel": "Fernley, NV",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/nevada/fernley/",
+  "fetchedAt": "2026-06-27T19:23:13.260120+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/7403.jpg?f=webp&w=730"
+}

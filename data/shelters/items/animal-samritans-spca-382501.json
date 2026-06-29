@@ -1,0 +1,21 @@
+{
+  "officeId": 382501,
+  "slug": "animal-samritans-spca-382501",
+  "name": "Animal Samritans SPCA",
+  "address": "72120 Petland Place, Thousand Palms, CA 92276",
+  "street": "72120 Petland Place",
+  "addressCity": "Thousand Palms",
+  "stateCode": "CA",
+  "zip": "92276",
+  "phone": "760-343-3477",
+  "image": "./img/shelter/office/382501.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/animal-samritans-spca-382501/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "thousand-palms",
+  "cityName": "Thousand Palms",
+  "cityLabel": "Thousand Palms, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/thousand-palms/",
+  "fetchedAt": "2026-06-27T18:31:27.201966+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/382501.jpg?f=webp&w=730"
+}

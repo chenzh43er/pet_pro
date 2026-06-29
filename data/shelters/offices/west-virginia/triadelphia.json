@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:21:36.613670+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "triadelphia",
+    "name": "Triadelphia",
+    "label": "Triadelphia, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/triadelphia/",
+  "offices": [
+    {
+      "officeId": 494096,
+      "slug": "ohio-county-animal-control-494096",
+      "name": "Ohio County Animal Control",
+      "address": "7011 National Road, Triadelphia, WV 26059",
+      "phone": "304-547-1013",
+      "image": "./img/shelter/office/494096.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ohio-county-animal-control-494096/",
+      "imageUrl": "https://cdn.findpawpal.com/office/494096.jpg?f=webp&w=730"
+    }
+  ]
+}

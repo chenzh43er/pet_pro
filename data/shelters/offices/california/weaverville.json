@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:32:02.045778+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "weaverville",
+    "name": "Weaverville",
+    "label": "Weaverville, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/weaverville/",
+  "offices": [
+    {
+      "slug": "trinity-county-animal-control-381860",
+      "name": "Trinity County Animal Control",
+      "address": "563 Mountain View Street, Weaverville, CA 96093",
+      "phone": "530-623-1370",
+      "image": "./img/shelter/office/381860.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/trinity-county-animal-control-381860/",
+      "imageUrl": "https://cdn.findpawpal.com/office/381860.jpg?f=webp&w=730"
+    }
+  ]
+}

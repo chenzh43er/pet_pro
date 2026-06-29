@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:55:02.223827+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "springville",
+    "name": "Springville",
+    "label": "Springville, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/springville/",
+  "offices": [
+    {
+      "officeId": 688215,
+      "slug": "lake-large-breed-rescue-688215",
+      "name": "Lake Large Breed Rescue",
+      "address": "229 Lakeview Dr, Springville, PA 18844",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/688215.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/lake-large-breed-rescue-688215/"
+    }
+  ]
+}

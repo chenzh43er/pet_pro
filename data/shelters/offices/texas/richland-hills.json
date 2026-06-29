@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:08:41.819708+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "richland-hills",
+    "name": "Richland Hills",
+    "label": "Richland Hills, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/richland-hills/",
+  "offices": [
+    {
+      "officeId": 519074,
+      "slug": "richland-hills-animal-shelter-519074",
+      "name": "Richland Hills Animal Shelter",
+      "address": "7049 Baker Boulevard, Richland Hills, TX 76118",
+      "phone": "817-314-3962",
+      "image": "./img/shelter/office/519074.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/richland-hills-animal-shelter-519074/",
+      "imageUrl": "https://cdn.findpawpal.com/office/519074.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:07:11.175282+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "manchaca",
+    "name": "Manchaca",
+    "label": "Manchaca, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/manchaca/",
+  "offices": [
+    {
+      "officeId": 478508,
+      "slug": "ferret-waystation-shelter-rescue-478508",
+      "name": "Ferret Waystation Shelter Rescue",
+      "address": "513 Sendero Verde Street, Manchaca, TX 78652",
+      "phone": "512-636-5640",
+      "image": "./img/shelter/office/478508.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ferret-waystation-shelter-rescue-478508/",
+      "imageUrl": "https://cdn.findpawpal.com/office/478508.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:47:48.454061+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "river-forest",
+    "name": "River Forest",
+    "label": "River Forest, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/river-forest/",
+  "offices": [
+    {
+      "officeId": 412175,
+      "slug": "pic-a-pet-welfare-foundation-412175",
+      "name": "Pic A Pet Welfare Foundation",
+      "address": "PO Box 181, River Forest, IL 60305",
+      "phone": "",
+      "image": "./img/shelter/office/412175.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pic-a-pet-welfare-foundation-412175/",
+      "imageUrl": "https://cdn.findpawpal.com/office/412175.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:03:55.274273+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "college-station",
+    "name": "College Station",
+    "label": "College Station, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/college-station/",
+  "offices": [
+    {
+      "officeId": 493084,
+      "slug": "impact-animal-foundation-493084",
+      "name": "Impact Animal Foundation",
+      "address": "PO Box 3302, College Station, TX 77841",
+      "phone": "979-402-2511",
+      "image": "./img/shelter/office/493084.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/impact-animal-foundation-493084/",
+      "imageUrl": "https://cdn.findpawpal.com/office/493084.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 539777,
+      "slug": "cats-cradle-feline-shelter-539777",
+      "name": "Cat's Cradle Feline Shelter",
+      "address": "2703 Brookway Drive, College Station, TX 77845",
+      "phone": "979-820-0599",
+      "image": "./img/shelter/office/539777.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cats-cradle-feline-shelter-539777/",
+      "imageUrl": "https://cdn.findpawpal.com/office/539777.jpg?f=webp&w=730"
+    }
+  ]
+}

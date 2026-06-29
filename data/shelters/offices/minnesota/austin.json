@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:13:33.778533+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "austin",
+    "name": "Austin",
+    "label": "Austin, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/austin/",
+  "offices": [
+    {
+      "officeId": 420820,
+      "slug": "the-mower-county-humane-society-420820",
+      "name": "The Mower County Humane Society",
+      "address": "101 2nd Street Southeast, Austin, MN 55912",
+      "phone": "507-437-9262",
+      "image": "./img/shelter/office/420820.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-mower-county-humane-society-420820/",
+      "imageUrl": "https://cdn.findpawpal.com/office/420820.jpg?f=webp&w=730"
+    }
+  ]
+}

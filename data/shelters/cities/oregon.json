@@ -1,0 +1,508 @@
+{
+  "fetchedAt": "2026-06-27T17:48:27.931632+00:00",
+  "state": {
+    "slug": "oregon",
+    "name": "Oregon",
+    "offices": 152
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oregon/",
+  "cities": [
+    {
+      "slug": "albany",
+      "name": "Albany",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/albany/"
+    },
+    {
+      "slug": "aloha",
+      "name": "Aloha",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/aloha/"
+    },
+    {
+      "slug": "ashland",
+      "name": "Ashland",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/ashland/"
+    },
+    {
+      "slug": "astoria",
+      "name": "Astoria",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/astoria/"
+    },
+    {
+      "slug": "baker",
+      "name": "Baker",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/baker/"
+    },
+    {
+      "slug": "bandon",
+      "name": "Bandon",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/bandon/"
+    },
+    {
+      "slug": "bay",
+      "name": "Bay",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/bay/"
+    },
+    {
+      "slug": "beaverton",
+      "name": "Beaverton",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/beaverton/"
+    },
+    {
+      "slug": "bend",
+      "name": "Bend",
+      "offices": 6,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/bend/"
+    },
+    {
+      "slug": "brookings",
+      "name": "Brookings",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/brookings/"
+    },
+    {
+      "slug": "burns",
+      "name": "Burns",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/burns/"
+    },
+    {
+      "slug": "cannon-beach",
+      "name": "Cannon Beach",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/cannon-beach/"
+    },
+    {
+      "slug": "central-point",
+      "name": "Central Point",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/central-point/"
+    },
+    {
+      "slug": "clackamas",
+      "name": "Clackamas",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/clackamas/"
+    },
+    {
+      "slug": "coos-bay",
+      "name": "Coos Bay",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/coos-bay/"
+    },
+    {
+      "slug": "corvallis",
+      "name": "Corvallis",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/corvallis/"
+    },
+    {
+      "slug": "cottage-grove",
+      "name": "Cottage Grove",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/cottage-grove/"
+    },
+    {
+      "slug": "creswell",
+      "name": "Creswell",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/creswell/"
+    },
+    {
+      "slug": "eagle-point",
+      "name": "Eagle Point",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/eagle-point/"
+    },
+    {
+      "slug": "enterprise",
+      "name": "Enterprise",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/enterprise/"
+    },
+    {
+      "slug": "eugene",
+      "name": "Eugene",
+      "offices": 9,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/eugene/"
+    },
+    {
+      "slug": "florence",
+      "name": "Florence",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/florence/"
+    },
+    {
+      "slug": "fossil",
+      "name": "Fossil",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/fossil/"
+    },
+    {
+      "slug": "gladstone",
+      "name": "Gladstone",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/gladstone/"
+    },
+    {
+      "slug": "gold-beach",
+      "name": "Gold Beach",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/gold-beach/"
+    },
+    {
+      "slug": "gold-hill",
+      "name": "Gold Hill",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/gold-hill/"
+    },
+    {
+      "slug": "grants-pass",
+      "name": "Grants Pass",
+      "offices": 6,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/grants-pass/"
+    },
+    {
+      "slug": "hammond",
+      "name": "Hammond",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/hammond/"
+    },
+    {
+      "slug": "hermiston",
+      "name": "Hermiston",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/hermiston/"
+    },
+    {
+      "slug": "hillsboro",
+      "name": "Hillsboro",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/hillsboro/"
+    },
+    {
+      "slug": "hood-river",
+      "name": "Hood River",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/hood-river/"
+    },
+    {
+      "slug": "jacksonville",
+      "name": "Jacksonville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/jacksonville/"
+    },
+    {
+      "slug": "junction",
+      "name": "Junction",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/junction/"
+    },
+    {
+      "slug": "klamath-falls",
+      "name": "Klamath Falls",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/klamath-falls/"
+    },
+    {
+      "slug": "la-grande",
+      "name": "La Grande",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/la-grande/"
+    },
+    {
+      "slug": "lake-oswego",
+      "name": "Lake Oswego",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/lake-oswego/"
+    },
+    {
+      "slug": "lebanon",
+      "name": "Lebanon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/lebanon/"
+    },
+    {
+      "slug": "madras",
+      "name": "Madras",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/madras/"
+    },
+    {
+      "slug": "malin",
+      "name": "Malin",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/malin/"
+    },
+    {
+      "slug": "mcminnville",
+      "name": "McMinnville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/mcminnville/"
+    },
+    {
+      "slug": "medford",
+      "name": "Medford",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/medford/"
+    },
+    {
+      "slug": "milwaukie",
+      "name": "Milwaukie",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/milwaukie/"
+    },
+    {
+      "slug": "newberg",
+      "name": "Newberg",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/newberg/"
+    },
+    {
+      "slug": "newport",
+      "name": "Newport",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/newport/"
+    },
+    {
+      "slug": "oakland",
+      "name": "Oakland",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/oakland/"
+    },
+    {
+      "slug": "ontario",
+      "name": "Ontario",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/ontario/"
+    },
+    {
+      "slug": "oregon",
+      "name": "Oregon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/oregon/"
+    },
+    {
+      "slug": "pendleton",
+      "name": "Pendleton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/pendleton/"
+    },
+    {
+      "slug": "phoenix",
+      "name": "Phoenix",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/phoenix/"
+    },
+    {
+      "slug": "pilot-rock",
+      "name": "Pilot Rock",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/pilot-rock/"
+    },
+    {
+      "slug": "pleasant-hill",
+      "name": "Pleasant Hill",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/pleasant-hill/"
+    },
+    {
+      "slug": "portland",
+      "name": "Portland",
+      "offices": 26,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/portland/"
+    },
+    {
+      "slug": "prineville",
+      "name": "Prineville",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/prineville/"
+    },
+    {
+      "slug": "redmond",
+      "name": "Redmond",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/redmond/"
+    },
+    {
+      "slug": "riddle",
+      "name": "Riddle",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/riddle/"
+    },
+    {
+      "slug": "roseburg",
+      "name": "Roseburg",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/roseburg/"
+    },
+    {
+      "slug": "salem",
+      "name": "Salem",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/salem/"
+    },
+    {
+      "slug": "sandy",
+      "name": "Sandy",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/sandy/"
+    },
+    {
+      "slug": "scio",
+      "name": "Scio",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/scio/"
+    },
+    {
+      "slug": "seal-rock",
+      "name": "Seal Rock",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/seal-rock/"
+    },
+    {
+      "slug": "seaside",
+      "name": "Seaside",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/seaside/"
+    },
+    {
+      "slug": "sherwood",
+      "name": "Sherwood",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/sherwood/"
+    },
+    {
+      "slug": "springfield",
+      "name": "Springfield",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/springfield/"
+    },
+    {
+      "slug": "st-helens",
+      "name": "St. Helens",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/st-helens/"
+    },
+    {
+      "slug": "the-dalles",
+      "name": "The Dalles",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/the-dalles/"
+    },
+    {
+      "slug": "tigard",
+      "name": "Tigard",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/tigard/"
+    },
+    {
+      "slug": "tillamook",
+      "name": "Tillamook",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/tillamook/"
+    },
+    {
+      "slug": "troutdale",
+      "name": "Troutdale",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/troutdale/"
+    },
+    {
+      "slug": "warrenton",
+      "name": "Warrenton",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/warrenton/"
+    },
+    {
+      "slug": "west-linn",
+      "name": "West Linn",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/west-linn/"
+    },
+    {
+      "slug": "williams",
+      "name": "Williams",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/williams/"
+    }
+  ]
+}

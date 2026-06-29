@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:45:36.820554+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "german-valley",
+    "name": "German Valley",
+    "label": "German Valley, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/german-valley/",
+  "offices": [
+    {
+      "officeId": 579496,
+      "slug": "critter-camp-exotic-pet-sanctuary-579496",
+      "name": "Critter Camp Exotic Pet Sanctuary",
+      "address": "824 Church Street, German Valley, IL 61039",
+      "phone": "815-266-1342",
+      "image": "./img/shelter/office/579496.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/critter-camp-exotic-pet-sanctuary-579496/",
+      "imageUrl": "https://cdn.findpawpal.com/office/579496.jpg?f=webp&w=730"
+    }
+  ]
+}

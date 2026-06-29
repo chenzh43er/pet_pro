@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:06:18.157895+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "franklin",
+    "name": "Franklin",
+    "label": "Franklin, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/franklin/",
+  "offices": [
+    {
+      "officeId": 41863,
+      "slug": "franklin-animal-control-41863",
+      "name": "Franklin Animal Control",
+      "address": "15 Public Works Way, Franklin, MA 02038",
+      "phone": "508-520-4922",
+      "image": "./img/shelter/office/41863.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/franklin-animal-control-41863/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41863.jpg?f=webp&w=730"
+    }
+  ]
+}

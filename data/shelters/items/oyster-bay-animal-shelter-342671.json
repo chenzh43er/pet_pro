@@ -1,0 +1,21 @@
+{
+  "officeId": 342671,
+  "slug": "oyster-bay-animal-shelter-342671",
+  "name": "Oyster Bay Animal Shelter",
+  "address": "150 Miller Place, Syosset, NY 11791",
+  "street": "150 Miller Place",
+  "addressCity": "Syosset",
+  "stateCode": "NY",
+  "zip": "11791",
+  "phone": "516-677-5784",
+  "image": "./img/shelter/office/342671.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/oyster-bay-animal-shelter-342671/",
+  "stateSlug": "new-york",
+  "stateName": "New York",
+  "citySlug": "syosset",
+  "cityName": "Syosset",
+  "cityLabel": "Syosset, NY",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-york/syosset/",
+  "fetchedAt": "2026-06-27T19:37:08.106604+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/342671.jpg?f=webp&w=730"
+}

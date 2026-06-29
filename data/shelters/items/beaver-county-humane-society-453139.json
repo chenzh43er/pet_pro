@@ -1,0 +1,21 @@
+{
+  "officeId": 453139,
+  "slug": "beaver-county-humane-society-453139",
+  "name": "Beaver County Humane Society",
+  "address": "3394 North Brodhead Road, Aliquippa, PA 15001",
+  "street": "3394 North Brodhead Road",
+  "addressCity": "Aliquippa",
+  "stateCode": "PA",
+  "zip": "15001",
+  "phone": "724-775-5801",
+  "image": "./img/shelter/office/453139.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/beaver-county-humane-society-453139/",
+  "stateSlug": "pennsylvania",
+  "stateName": "Pennsylvania",
+  "citySlug": "aliquippa",
+  "cityName": "Aliquippa",
+  "cityLabel": "Aliquippa, PA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/pennsylvania/aliquippa/",
+  "fetchedAt": "2026-06-27T19:51:46.703444+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/453139.jpg?f=webp&w=730"
+}

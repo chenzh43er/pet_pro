@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:14:22.439199+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "gibbon",
+    "name": "Gibbon",
+    "label": "Gibbon, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/gibbon/",
+  "offices": [
+    {
+      "officeId": 421314,
+      "slug": "humane-society-of-renville-421314",
+      "name": "Humane Society of Renville",
+      "address": "PO Box 185, Gibbon, MN 55335",
+      "phone": "507-354-9099",
+      "image": "https://cdn.findpawpal.com/office/421314.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-renville-421314/"
+    }
+  ]
+}

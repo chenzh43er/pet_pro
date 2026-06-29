@@ -1,0 +1,21 @@
+{
+  "officeId": 323564,
+  "slug": "cherryfield-animal-shelter-323564",
+  "name": "Cherryfield Animal Shelter",
+  "address": "60 Barber Ln, Cherryfield, ME 04622",
+  "street": "60 Barber Ln",
+  "addressCity": "Cherryfield",
+  "stateCode": "ME",
+  "zip": "04622",
+  "phone": "207-546-3484",
+  "image": "./img/shelter/office/323564.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/cherryfield-animal-shelter-323564/",
+  "stateSlug": "maine",
+  "stateName": "Maine",
+  "citySlug": "cherryfield",
+  "cityName": "Cherryfield",
+  "cityLabel": "Cherryfield, ME",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/maine/cherryfield/",
+  "fetchedAt": "2026-06-27T19:01:27.443649+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/323564.jpg?f=webp&w=730"
+}

@@ -1,0 +1,32 @@
+{
+  "fetchedAt": "2026-06-27T18:29:10.085962+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "penngrove",
+    "name": "Penngrove",
+    "label": "Penngrove, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/penngrove/",
+  "offices": [
+    {
+      "slug": "cat-adoption-and-trauma-sanctuary-inc-381735",
+      "name": "Cat Adoption & Trauma Sanctuary, Inc.",
+      "address": "1771 Lynn Drive, Penngrove, CA 94951",
+      "phone": "707-792-9848",
+      "image": "./img/shelter/office/381735.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cat-adoption-and-trauma-sanctuary-inc-381735/",
+      "imageUrl": "https://cdn.findpawpal.com/office/381735.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "big-dog-rescue-533879",
+      "name": "Big Dog Rescue",
+      "address": "6760 Roberts Ranch Road, Penngrove, CA 94951",
+      "phone": "707-665-0332",
+      "image": "https://cdn.findpawpal.com/office/533879.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/big-dog-rescue-533879/"
+    }
+  ]
+}

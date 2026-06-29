@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:29:36.008352+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "rancho-santa-margarita",
+    "name": "Rancho Santa Margarita",
+    "label": "Rancho Santa Margarita, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/rancho-santa-margarita/",
+  "offices": [
+    {
+      "slug": "a-small-world-dog-day-care-383594",
+      "name": "A Small World Dog Day Care",
+      "address": "29821 Aventura, Rancho Santa Margarita, CA 92688",
+      "phone": "949-713-3291",
+      "image": "./img/shelter/office/383594.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/a-small-world-dog-day-care-383594/",
+      "imageUrl": "https://cdn.findpawpal.com/office/383594.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:35:02.671437+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "middletown",
+    "name": "Middletown",
+    "label": "Middletown, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/middletown/",
+  "offices": [
+    {
+      "officeId": 332496,
+      "slug": "middletown-animal-control-332496",
+      "name": "Middletown Animal Control",
+      "address": "600 New York 211, Middletown, NY 10941",
+      "phone": "845-692-7838",
+      "image": "./img/shelter/office/332496.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/middletown-animal-control-332496/",
+      "imageUrl": "https://cdn.findpawpal.com/office/332496.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 400888,
+      "slug": "pets-alive-inc-400888",
+      "name": "Pets Alive Inc",
+      "address": "363 Derby Road, Middletown, NY 10940",
+      "phone": "845-386-9738",
+      "image": "./img/shelter/office/400888.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pets-alive-inc-400888/",
+      "imageUrl": "https://cdn.findpawpal.com/office/400888.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 404511,
+      "slug": "humane-society-of-middletown-404511",
+      "name": "Humane Society of Middletown",
+      "address": "142 Bloomingburg Road, Middletown, NY 10940",
+      "phone": "845-361-1861",
+      "image": "./img/shelter/office/404511.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-middletown-404511/",
+      "imageUrl": "https://cdn.findpawpal.com/office/404511.jpg?f=webp&w=730"
+    }
+  ]
+}

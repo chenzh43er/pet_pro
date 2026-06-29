@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:22:23.981546+00:00",
+  "state": {
+    "slug": "nebraska",
+    "name": "Nebraska"
+  },
+  "city": {
+    "slug": "columbus",
+    "name": "Columbus",
+    "label": "Columbus, NE"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nebraska/columbus/",
+  "offices": [
+    {
+      "officeId": 486386,
+      "slug": "columbus-animal-control-486386",
+      "name": "Columbus Animal Control",
+      "address": "2518 14th Street, Columbus, NE 68601",
+      "phone": "402-564-8839",
+      "image": "./img/shelter/office/486386.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/columbus-animal-control-486386/",
+      "imageUrl": "https://cdn.findpawpal.com/office/486386.jpg?f=webp&w=730"
+    }
+  ]
+}

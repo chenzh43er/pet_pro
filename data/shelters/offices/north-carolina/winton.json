@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:42:08.754403+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "winton",
+    "name": "Winton",
+    "label": "Winton, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/winton/",
+  "offices": [
+    {
+      "officeId": 213343,
+      "slug": "hertford-county-animal-control-213343",
+      "name": "Hertford County Animal Control",
+      "address": "102 A, Winton, NC 27986",
+      "phone": "252-358-7861",
+      "image": "https://cdn.findpawpal.com/office/213343.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/hertford-county-animal-control-213343/"
+    }
+  ]
+}

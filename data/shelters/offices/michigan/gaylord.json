@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:10:38.040398+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "gaylord",
+    "name": "Gaylord",
+    "label": "Gaylord, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/gaylord/",
+  "offices": [
+    {
+      "officeId": 235200,
+      "slug": "otsego-county-animal-shelter-235200",
+      "name": "Otsego County Animal Shelter",
+      "address": "200 West 7th Street, Gaylord, MI 49735",
+      "phone": "989-705-7632",
+      "image": "./img/shelter/office/235200.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/otsego-county-animal-shelter-235200/",
+      "imageUrl": "https://cdn.findpawpal.com/office/235200.jpg?f=webp&w=730"
+    }
+  ]
+}

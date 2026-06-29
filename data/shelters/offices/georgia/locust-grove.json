@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:40:38.628326+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "locust-grove",
+    "name": "Locust Grove",
+    "label": "Locust Grove, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/locust-grove/",
+  "offices": [
+    {
+      "officeId": 139842,
+      "slug": "georgia-equine-rescue-league-139842",
+      "name": "Georgia Equine Rescue League",
+      "address": "PO Box 787, Locust Grove, GA 30248",
+      "phone": "770-464-0138",
+      "image": "./img/shelter/office/139842.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia-equine-rescue-league-139842/",
+      "imageUrl": "https://cdn.findpawpal.com/office/139842.jpg?f=webp&w=730"
+    }
+  ]
+}

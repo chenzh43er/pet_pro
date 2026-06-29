@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:25:36.052539+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "clayton",
+    "name": "Clayton",
+    "label": "Clayton, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/clayton/",
+  "offices": [
+    {
+      "officeId": 96918,
+      "slug": "gloucester-county-animal-shelter-96918",
+      "name": "Gloucester County Animal Shelter",
+      "address": "1200 North Delsea Drive, Clayton, NJ 08312",
+      "phone": "856-881-2828",
+      "image": "./img/shelter/office/96918.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gloucester-county-animal-shelter-96918/",
+      "imageUrl": "https://cdn.findpawpal.com/office/96918.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 100479,
+      "slug": "gloucester-county-animal-shelter-100479",
+      "name": "Gloucester County Animal Shelter",
+      "address": "1200 North delsea Drive, Clayton, NJ 08312",
+      "phone": "856-881-2828",
+      "image": "./img/shelter/office/100479.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gloucester-county-animal-shelter-100479/",
+      "imageUrl": "https://cdn.findpawpal.com/office/100479.jpg?f=webp&w=730"
+    }
+  ]
+}

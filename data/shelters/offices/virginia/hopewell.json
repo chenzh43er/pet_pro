@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:14:35.086987+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "hopewell",
+    "name": "Hopewell",
+    "label": "Hopewell, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/hopewell/",
+  "offices": [
+    {
+      "officeId": 682956,
+      "slug": "hopewell-animal-control-682956",
+      "name": "Hopewell Animal Control",
+      "address": "300 N Main St, Hopewell, VA 23860",
+      "phone": "",
+      "image": "./img/shelter/office/682956.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hopewell-animal-control-682956/",
+      "imageUrl": "https://cdn.findpawpal.com/office/682956.jpg?f=webp&w=730"
+    }
+  ]
+}

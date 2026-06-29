@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:24:04.884513+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "sheboygan",
+    "name": "Sheboygan",
+    "label": "Sheboygan, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/sheboygan/",
+  "offices": [
+    {
+      "officeId": 475296,
+      "slug": "sheboygan-county-humane-society-475296",
+      "name": "Sheboygan County Humane Society",
+      "address": "3107 North 20th Street, Sheboygan, WI 53083",
+      "phone": "920-458-2012",
+      "image": "./img/shelter/office/475296.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sheboygan-county-humane-society-475296/",
+      "imageUrl": "https://cdn.findpawpal.com/office/475296.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 514555,
+      "slug": "sheboygan-animal-control-514555",
+      "name": "Sheboygan Animal Control",
+      "address": "3203 North 15th Street, Sheboygan, WI 53083",
+      "phone": "920-783-8080",
+      "image": "./img/shelter/office/514555.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sheboygan-animal-control-514555/",
+      "imageUrl": "https://cdn.findpawpal.com/office/514555.jpg?f=webp&w=730"
+    }
+  ]
+}

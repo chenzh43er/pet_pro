@@ -1,0 +1,21 @@
+{
+  "officeId": 200483,
+  "slug": "canine-angels-inc-200483",
+  "name": "Canine Angels, Inc.",
+  "address": "PO Box 495, La Porte, IN 46352",
+  "street": "PO Box 495",
+  "addressCity": "La Porte",
+  "stateCode": "IN",
+  "zip": "46352",
+  "phone": "219-325-8610",
+  "image": "./img/shelter/office/200483.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/canine-angels-inc-200483/",
+  "stateSlug": "indiana",
+  "stateName": "Indiana",
+  "citySlug": "la-porte",
+  "cityName": "La Porte",
+  "cityLabel": "La Porte, IN",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/indiana/la-porte/",
+  "fetchedAt": "2026-06-27T18:50:35.753012+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/200483.jpg?f=webp&w=730"
+}

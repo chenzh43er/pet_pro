@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T18:46:46.650818+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "metropolis",
+    "name": "Metropolis",
+    "label": "Metropolis, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/metropolis/",
+  "offices": [
+    {
+      "officeId": 513008,
+      "slug": "action-for-animals-513008",
+      "name": "Action for Animals",
+      "address": "PO Box 111, Metropolis, IL 62960",
+      "phone": "618-524-4259",
+      "image": "https://cdn.findpawpal.com/office/513008.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/action-for-animals-513008/"
+    },
+    {
+      "officeId": 513039,
+      "slug": "project-hope-humane-society-513039",
+      "name": "Project Hope Humane Society",
+      "address": "1698 West 10th Street, Metropolis, IL 62960",
+      "phone": "618-524-8939",
+      "image": "./img/shelter/office/513039.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/project-hope-humane-society-513039/",
+      "imageUrl": "https://cdn.findpawpal.com/office/513039.jpg?f=webp&w=730"
+    }
+  ]
+}

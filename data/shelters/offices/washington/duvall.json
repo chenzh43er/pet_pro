@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:17:40.248036+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "duvall",
+    "name": "Duvall",
+    "label": "Duvall, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/duvall/",
+  "offices": [
+    {
+      "officeId": 593259,
+      "slug": "lucky-dog-rescue-and-adoption-593259",
+      "name": "Lucky Dog Rescue and Adoption",
+      "address": "PO Box 579, Duvall, WA 98019",
+      "phone": "360-863-0871",
+      "image": "./img/shelter/office/593259.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lucky-dog-rescue-and-adoption-593259/",
+      "imageUrl": "https://cdn.findpawpal.com/office/593259.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:16:55.105310+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "belk",
+    "name": "Belk",
+    "label": "Belk, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/belk/",
+  "offices": [
+    {
+      "slug": "home-again-rescue-5863",
+      "name": "Home Again Rescue",
+      "address": "PO Box 33, Belk, AL 35545",
+      "phone": "205-932-2888",
+      "image": "./img/shelter/office/5863.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/home-again-rescue-5863/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5863.jpg?f=webp&w=730"
+    }
+  ]
+}

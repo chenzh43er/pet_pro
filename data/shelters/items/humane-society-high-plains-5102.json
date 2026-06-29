@@ -1,0 +1,21 @@
+{
+  "officeId": 5102,
+  "slug": "humane-society-high-plains-5102",
+  "name": "Humane Society-High Plains",
+  "address": "2050 Old Highway 40, Hays, KS 67601",
+  "street": "2050 Old Highway 40",
+  "addressCity": "Hays",
+  "stateCode": "KS",
+  "zip": "67601",
+  "phone": "785-625-5252",
+  "image": "./img/shelter/office/5102.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/humane-society-high-plains-5102/",
+  "stateSlug": "kansas",
+  "stateName": "Kansas",
+  "citySlug": "hays",
+  "cityName": "Hays",
+  "cityLabel": "Hays, KS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kansas/hays/",
+  "fetchedAt": "2026-06-27T18:55:00.598667+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/5102.jpg?f=webp&w=730"
+}

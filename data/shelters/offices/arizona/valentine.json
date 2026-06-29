@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:21:16.186448+00:00",
+  "state": {
+    "slug": "arizona",
+    "name": "Arizona"
+  },
+  "city": {
+    "slug": "valentine",
+    "name": "Valentine",
+    "label": "Valentine, AZ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arizona/valentine/",
+  "offices": [
+    {
+      "officeId": 171373,
+      "slug": "keepers-of-the-wild-171373",
+      "name": "Keepers of the Wild",
+      "address": "13441 Highway 66, Valentine, AZ 86437",
+      "phone": "928-769-1800",
+      "image": "./img/shelter/office/171373.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/keepers-of-the-wild-171373/",
+      "imageUrl": "https://cdn.findpawpal.com/office/171373.jpg?f=webp&w=730"
+    }
+  ]
+}

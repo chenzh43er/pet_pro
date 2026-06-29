@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:24:14.511206+00:00",
+  "state": {
+    "slug": "new-hampshire",
+    "name": "New Hampshire"
+  },
+  "city": {
+    "slug": "hampton",
+    "name": "Hampton",
+    "label": "Hampton, NH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-hampshire/hampton/",
+  "offices": [
+    {
+      "officeId": 47341,
+      "slug": "seacoast-area-feline-education-and-rescue-inc-47341",
+      "name": "Seacoast Area Feline Education and Rescue, Inc.",
+      "address": "PO Box 1531, Hampton, NH 03843",
+      "phone": "603-929-4975",
+      "image": "https://cdn.findpawpal.com/office/47341.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/seacoast-area-feline-education-and-rescue-inc-47341/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:35:33.399785+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "berlin",
+    "name": "Berlin",
+    "label": "Berlin, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/berlin/",
+  "offices": [
+    {
+      "officeId": 177714,
+      "slug": "new-britain-animal-control-177714",
+      "name": "New Britain Animal Control",
+      "address": "643 Christian Lane, Berlin, CT 06037",
+      "phone": "860-223-5021",
+      "image": "./img/shelter/office/177714.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-britain-animal-control-177714/",
+      "imageUrl": "https://cdn.findpawpal.com/office/177714.jpg?f=webp&w=730"
+    }
+  ]
+}

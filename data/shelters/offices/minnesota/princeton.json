@@ -1,0 +1,42 @@
+{
+  "fetchedAt": "2026-06-27T19:15:11.819144+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "princeton",
+    "name": "Princeton",
+    "label": "Princeton, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/princeton/",
+  "offices": [
+    {
+      "officeId": 418949,
+      "slug": "b-robert-lewis-memorial-animal-shelter-418949",
+      "name": "B. Robert Lewis Memorial Animal Shelter",
+      "address": "38769 Tiger Street Northwest, Princeton, MN 55371",
+      "phone": "763-389-5053",
+      "image": "https://cdn.findpawpal.com/office/418949.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/b-robert-lewis-memorial-animal-shelter-418949/"
+    },
+    {
+      "officeId": 420811,
+      "slug": "homeless-hounds-420811",
+      "name": "Homeless Hounds",
+      "address": "2361 137th Avenue, Princeton, MN 55371",
+      "phone": "763-389-4173",
+      "image": "https://cdn.findpawpal.com/office/420811.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/homeless-hounds-420811/"
+    },
+    {
+      "officeId": 420815,
+      "slug": "ruff-start-rescue-420815",
+      "name": "Ruff Start Rescue",
+      "address": "PO Box 129, Princeton, MN 55371",
+      "phone": "763-355-3981",
+      "image": "https://cdn.findpawpal.com/office/420815.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/ruff-start-rescue-420815/"
+    }
+  ]
+}

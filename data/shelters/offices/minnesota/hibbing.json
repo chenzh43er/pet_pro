@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:14:31.392351+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "hibbing",
+    "name": "Hibbing",
+    "label": "Hibbing, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/hibbing/",
+  "offices": [
+    {
+      "officeId": 419148,
+      "slug": "range-humane-society-419148",
+      "name": "Range Humane Society",
+      "address": "3703 Highway 73, Hibbing, MN 55746",
+      "phone": "218-778-6468",
+      "image": "./img/shelter/office/419148.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/range-humane-society-419148/",
+      "imageUrl": "https://cdn.findpawpal.com/office/419148.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 421798,
+      "slug": "hibbing-animal-shelter-421798",
+      "name": "Hibbing Animal Shelter",
+      "address": "11215 Minnesota 37, Hibbing, MN 55746",
+      "phone": "218-262-1900",
+      "image": "./img/shelter/office/421798.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hibbing-animal-shelter-421798/",
+      "imageUrl": "https://cdn.findpawpal.com/office/421798.jpg?f=webp&w=730"
+    }
+  ]
+}

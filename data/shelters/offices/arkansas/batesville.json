@@ -1,0 +1,32 @@
+{
+  "fetchedAt": "2026-06-27T18:21:29.927526+00:00",
+  "state": {
+    "slug": "arkansas",
+    "name": "Arkansas"
+  },
+  "city": {
+    "slug": "batesville",
+    "name": "Batesville",
+    "label": "Batesville, AR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arkansas/batesville/",
+  "offices": [
+    {
+      "slug": "batesville-animal-control-254676",
+      "name": "Batesville Animal Control",
+      "address": "255 West College Avenue, Batesville, AR 72501",
+      "phone": "870-698-2424",
+      "image": "./img/shelter/office/254676.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/batesville-animal-control-254676/",
+      "imageUrl": "https://cdn.findpawpal.com/office/254676.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-independence-county-321407",
+      "name": "Humane Society of Independence County",
+      "address": "PO Box 3477, Batesville, AR 72503",
+      "phone": "870-698-1587",
+      "image": "https://cdn.findpawpal.com/office/321407.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-independence-county-321407/"
+    }
+  ]
+}

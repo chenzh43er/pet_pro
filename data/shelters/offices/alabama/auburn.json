@@ -1,0 +1,50 @@
+{
+  "fetchedAt": "2026-06-27T18:16:51.985354+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "auburn",
+    "name": "Auburn",
+    "label": "Auburn, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/auburn/",
+  "offices": [
+    {
+      "slug": "lee-county-humane-society-6021",
+      "name": "Lee County Humane Society",
+      "address": "1140 Ware Drive, Auburn, AL 36832",
+      "phone": "334-821-3222",
+      "image": "./img/shelter/office/6021.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lee-county-humane-society-6021/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6021.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kasers-pet-rescue-6341",
+      "name": "Kaser's Pet Rescue",
+      "address": "1234 Old Country Road, Auburn, AL 36830",
+      "phone": "404-510-4016",
+      "image": "./img/shelter/office/6341.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kasers-pet-rescue-6341/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6341.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "auburn-university-control-7137",
+      "name": "Auburn University Control",
+      "address": "118 Extension Hall, Auburn, AL 36849",
+      "phone": "334-844-5670",
+      "image": "https://cdn.findpawpal.com/office/7137.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/auburn-university-control-7137/"
+    },
+    {
+      "slug": "auburn-city-animal-control-7148",
+      "name": "Auburn City Animal Control",
+      "address": "365 North Donahue Drive, Auburn, AL 36832",
+      "phone": "334-501-3090",
+      "image": "./img/shelter/office/7148.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/auburn-city-animal-control-7148/",
+      "imageUrl": "https://cdn.findpawpal.com/office/7148.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:08:52.919976+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "wellesley",
+    "name": "Wellesley",
+    "label": "Wellesley, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/wellesley/",
+  "offices": [
+    {
+      "officeId": 41401,
+      "slug": "wellesley-animal-control-41401",
+      "name": "Wellesley Animal Control",
+      "address": "485 Washington Street, Wellesley, MA 02482",
+      "phone": "781-235-8460",
+      "image": "./img/shelter/office/41401.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wellesley-animal-control-41401/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41401.jpg?f=webp&w=730"
+    }
+  ]
+}

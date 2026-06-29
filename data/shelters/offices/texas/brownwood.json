@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:03:27.176478+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "brownwood",
+    "name": "Brownwood",
+    "label": "Brownwood, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/brownwood/",
+  "offices": [
+    {
+      "officeId": 538498,
+      "slug": "humane-society-of-brown-county-538498",
+      "name": "Humane Society of Brown County",
+      "address": "3016 Milam Drive, Brownwood, TX 76801",
+      "phone": "325-646-0617",
+      "image": "./img/shelter/office/538498.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-brown-county-538498/",
+      "imageUrl": "https://cdn.findpawpal.com/office/538498.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 635700,
+      "slug": "brownwood-animal-control-635700",
+      "name": "Brownwood Animal Control",
+      "address": "2016 Coggin Avenue, Brownwood, TX 76801",
+      "phone": "325-646-4536",
+      "image": "./img/shelter/office/635700.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/brownwood-animal-control-635700/",
+      "imageUrl": "https://cdn.findpawpal.com/office/635700.jpg?f=webp&w=730"
+    }
+  ]
+}

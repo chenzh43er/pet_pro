@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:40:58.320158+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "raeford",
+    "name": "Raeford",
+    "label": "Raeford, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/raeford/",
+  "offices": [
+    {
+      "officeId": 213360,
+      "slug": "hoke-raeford-humane-society-213360",
+      "name": "Hoke-Raeford Humane Society",
+      "address": "PO Box 711, Raeford, NC 28376",
+      "phone": "910-875-5486",
+      "image": "./img/shelter/office/213360.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hoke-raeford-humane-society-213360/",
+      "imageUrl": "https://cdn.findpawpal.com/office/213360.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 239875,
+      "slug": "got-spots-etc-239875",
+      "name": "Got Spots Etc",
+      "address": "175 Eulon Loop, Raeford, NC 28376",
+      "phone": "910-848-2661",
+      "image": "./img/shelter/office/239875.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/got-spots-etc-239875/",
+      "imageUrl": "https://cdn.findpawpal.com/office/239875.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 258378,
+      "slug": "the-haven-friends-for-life-no-kill-animal-shelter-258378",
+      "name": "The Haven-Friends for Life No-Kill Animal Shelter",
+      "address": "400 Fulford McMillan Road, Raeford, NC 28376",
+      "phone": "910-875-6768",
+      "image": "./img/shelter/office/258378.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-haven-friends-for-life-no-kill-animal-shelter-258378/",
+      "imageUrl": "https://cdn.findpawpal.com/office/258378.jpg?f=webp&w=730"
+    }
+  ]
+}

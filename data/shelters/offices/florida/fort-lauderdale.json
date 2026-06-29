@@ -1,0 +1,51 @@
+{
+  "fetchedAt": "2026-06-27T18:14:20.487938+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "fort-lauderdale",
+    "name": "Fort Lauderdale",
+    "label": "Fort Lauderdale, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/fort-lauderdale/",
+  "offices": [
+    {
+      "slug": "abandoned-pet-rescue-inc-272358",
+      "name": "Abandoned Pet Rescue Inc",
+      "address": "1137 Northeast 9th Avenue, Fort Lauderdale, FL 33304",
+      "phone": "954-728-9010",
+      "image": "./img/shelter/office/272358.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/abandoned-pet-rescue-inc-272358/",
+      "imageUrl": "https://cdn.findpawpal.com/office/272358.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friendly-felines-286071",
+      "name": "Friendly Felines",
+      "address": "2684 Key Largo Lane, Fort Lauderdale, FL 33312",
+      "phone": "954-791-1947",
+      "image": "./img/shelter/office/286071.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friendly-felines-286071/",
+      "imageUrl": "https://cdn.findpawpal.com/office/286071.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fort-lauderdale-animal-control-295278",
+      "name": "Fort Lauderdale Animal Control",
+      "address": "1870 Southwest 39th Street, Fort Lauderdale, FL 33315",
+      "phone": "954-359-1313",
+      "image": "./img/shelter/office/295278.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fort-lauderdale-animal-control-295278/",
+      "imageUrl": "https://cdn.findpawpal.com/office/295278.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-broward-county-339334",
+      "name": "Humane Society of Broward County",
+      "address": "2070 Griffin Road, Fort Lauderdale, FL 33312",
+      "phone": "954-989-3977",
+      "image": "./img/shelter/office/339334.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-broward-county-339334/",
+      "imageUrl": "https://cdn.findpawpal.com/office/339334.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:28:51.738428+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "secaucus",
+    "name": "Secaucus",
+    "label": "Secaucus, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/secaucus/",
+  "offices": [
+    {
+      "officeId": 96559,
+      "slug": "secaucus-animal-shelter-96559",
+      "name": "Secaucus Animal Shelter",
+      "address": "525 Meadowlands Parkway, Secaucus, NJ 07094",
+      "phone": "201-348-3213",
+      "image": "./img/shelter/office/96559.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/secaucus-animal-shelter-96559/",
+      "imageUrl": "https://cdn.findpawpal.com/office/96559.jpg?f=webp&w=730"
+    }
+  ]
+}

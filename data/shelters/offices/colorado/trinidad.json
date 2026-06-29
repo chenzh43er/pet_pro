@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:35:16.258207+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "trinidad",
+    "name": "Trinidad",
+    "label": "Trinidad, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/trinidad/",
+  "offices": [
+    {
+      "officeId": 39959,
+      "slug": "noahs-ark-animal-welfare-association-39959",
+      "name": "Noah's Ark Animal Welfare Association",
+      "address": "224 North Chestnut Street, Trinidad, CO 81082",
+      "phone": "719-680-2385",
+      "image": "./img/shelter/office/39959.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/noahs-ark-animal-welfare-association-39959/",
+      "imageUrl": "https://cdn.findpawpal.com/office/39959.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40722,
+      "slug": "trinidad-animal-control-40722",
+      "name": "Trinidad Animal Control",
+      "address": "2309 East Main Street, Trinidad, CO 81082",
+      "phone": "719-846-4440",
+      "image": "./img/shelter/office/40722.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/trinidad-animal-control-40722/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40722.jpg?f=webp&w=730"
+    }
+  ]
+}

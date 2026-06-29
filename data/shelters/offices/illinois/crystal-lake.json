@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T18:44:59.105386+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "crystal-lake",
+    "name": "Crystal Lake",
+    "label": "Crystal Lake, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/crystal-lake/",
+  "offices": [
+    {
+      "officeId": 393480,
+      "slug": "mchenry-county-animal-control-393480",
+      "name": "McHenry County Animal Control",
+      "address": "100 North Virginia Street, Crystal Lake, IL 60014",
+      "phone": "815-444-0029",
+      "image": "./img/shelter/office/393480.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mchenry-county-animal-control-393480/",
+      "imageUrl": "https://cdn.findpawpal.com/office/393480.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 514297,
+      "slug": "on-angels-wings-inc-514297",
+      "name": "On Angels Wings Inc",
+      "address": "5186 Northwest Highway, Crystal Lake, IL 60014",
+      "phone": "815-356-8170",
+      "image": "./img/shelter/office/514297.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/on-angels-wings-inc-514297/",
+      "imageUrl": "https://cdn.findpawpal.com/office/514297.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 521960,
+      "slug": "assisi-animal-foundation-521960",
+      "name": "Assisi Animal Foundation",
+      "address": "PO Box 143, Crystal Lake, IL 60039",
+      "phone": "815-455-9411",
+      "image": "./img/shelter/office/521960.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/assisi-animal-foundation-521960/",
+      "imageUrl": "https://cdn.findpawpal.com/office/521960.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 523214,
+      "slug": "the-feline-rescue-network-523214",
+      "name": "The Feline Rescue Network",
+      "address": "4302 Fairfax Drive, Crystal Lake, IL 60014",
+      "phone": "815-455-3478",
+      "image": "./img/shelter/office/523214.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-feline-rescue-network-523214/",
+      "imageUrl": "https://cdn.findpawpal.com/office/523214.jpg?f=webp&w=730"
+    }
+  ]
+}

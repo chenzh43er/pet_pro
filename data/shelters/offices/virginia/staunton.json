@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:16:17.709148+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "staunton",
+    "name": "Staunton",
+    "label": "Staunton, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/staunton/",
+  "offices": [
+    {
+      "officeId": 511633,
+      "slug": "staunton-animal-control-511633",
+      "name": "Staunton Animal Control",
+      "address": "113 Olive Street, Staunton, VA 24401",
+      "phone": "540-887-3337",
+      "image": "./img/shelter/office/511633.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/staunton-animal-control-511633/",
+      "imageUrl": "https://cdn.findpawpal.com/office/511633.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 575108,
+      "slug": "augusta-regional-spca-575108",
+      "name": "Augusta Regional SPCA",
+      "address": "33 Archery Lane, Staunton, VA 24401",
+      "phone": "540-885-7722",
+      "image": "./img/shelter/office/575108.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/augusta-regional-spca-575108/",
+      "imageUrl": "https://cdn.findpawpal.com/office/575108.jpg?f=webp&w=730"
+    }
+  ]
+}

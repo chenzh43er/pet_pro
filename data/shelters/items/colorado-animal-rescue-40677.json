@@ -1,0 +1,21 @@
+{
+  "officeId": 40677,
+  "slug": "colorado-animal-rescue-40677",
+  "name": "Colorado Animal Rescue",
+  "address": "2801 County Road 114, Glenwood Springs, CO 81601",
+  "street": "2801 County Road 114",
+  "addressCity": "Glenwood Springs",
+  "stateCode": "CO",
+  "zip": "81601",
+  "phone": "970-947-9173",
+  "image": "./img/shelter/office/40677.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/colorado-animal-rescue-40677/",
+  "stateSlug": "colorado",
+  "stateName": "Colorado",
+  "citySlug": "glenwood-springs",
+  "cityName": "Glenwood Springs",
+  "cityLabel": "Glenwood Springs, CO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/colorado/glenwood-springs/",
+  "fetchedAt": "2026-06-27T18:34:18.178488+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/40677.jpg?f=webp&w=730"
+}

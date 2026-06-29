@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:24:31.059693+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "cabazon",
+    "name": "Cabazon",
+    "label": "Cabazon, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/cabazon/",
+  "offices": [
+    {
+      "officeId": 667980,
+      "slug": "riverside-dachshund-rescue-667980",
+      "name": "Riverside Dachshund Rescue",
+      "address": "PO Box 779, Cabazon, CA 92230",
+      "phone": "951-922-4941",
+      "image": "./img/shelter/office/667980.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/riverside-dachshund-rescue-667980/",
+      "imageUrl": "https://cdn.findpawpal.com/office/667980.jpg?f=webp&w=730"
+    }
+  ]
+}

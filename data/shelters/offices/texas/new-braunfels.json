@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T20:08:01.761272+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "new-braunfels",
+    "name": "New Braunfels",
+    "label": "New Braunfels, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/new-braunfels/",
+  "offices": [
+    {
+      "officeId": 538025,
+      "slug": "shelterme4ever-538025",
+      "name": "Shelterme4ever",
+      "address": "28450 Countryside Drive, New Braunfels, TX 78132",
+      "phone": "830-214-3307",
+      "image": "./img/shelter/office/538025.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/shelterme4ever-538025/",
+      "imageUrl": "https://cdn.findpawpal.com/office/538025.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 539294,
+      "slug": "humane-society-animal-shelter-539294",
+      "name": "Humane Society Animal Shelter",
+      "address": "1920 Kuehler Avenue, New Braunfels, TX 78130",
+      "phone": "830-629-5287",
+      "image": "https://cdn.findpawpal.com/office/539294.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-animal-shelter-539294/"
+    }
+  ]
+}

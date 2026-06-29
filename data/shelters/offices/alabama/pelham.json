@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:18:23.448512+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "pelham",
+    "name": "Pelham",
+    "label": "Pelham, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/pelham/",
+  "offices": [
+    {
+      "slug": "alabama-animal-rescue-6123",
+      "name": "Alabama Animal Rescue",
+      "address": "45 Hunters Trce, Pelham, AL 35124",
+      "phone": "205-621-2157",
+      "image": "./img/shelter/office/6123.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama-animal-rescue-6123/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6123.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pelham-animal-control-6857",
+      "name": "Pelham Animal Control",
+      "address": "3162 Pelham Parkway, Pelham, AL 35124",
+      "phone": "205-620-6416",
+      "image": "./img/shelter/office/6857.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pelham-animal-control-6857/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6857.jpg?f=webp&w=730"
+    }
+  ]
+}

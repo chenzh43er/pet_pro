@@ -1,0 +1,82 @@
+{
+  "fetchedAt": "2026-06-27T19:38:47.064084+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "concord",
+    "name": "Concord",
+    "label": "Concord, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/concord/",
+  "offices": [
+    {
+      "officeId": 211583,
+      "slug": "north-carolina-siberian-husky-animal-rescue-211583",
+      "name": "North Carolina Siberian Husky Animal Rescue",
+      "address": "5340 Montana Circle Northwest, Concord, NC 28027",
+      "phone": "704-712-2754",
+      "image": "./img/shelter/office/211583.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina-siberian-husky-animal-rescue-211583/",
+      "imageUrl": "https://cdn.findpawpal.com/office/211583.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 211609,
+      "slug": "hs-cabarrus-animal-rescue-211609",
+      "name": "Hs Cabarrus Animal Rescue",
+      "address": "PO Box 6076, Concord, NC 28027",
+      "phone": "704-777-4705",
+      "image": "https://cdn.findpawpal.com/office/211609.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/hs-cabarrus-animal-rescue-211609/"
+    },
+    {
+      "officeId": 213049,
+      "slug": "humane-society-of-concord-and-greater-cabarrus-county-213049",
+      "name": "Humane Society of Concord and Greater Cabarrus County",
+      "address": "2010 Wilshire Court Southwest, Concord, NC 28025",
+      "phone": "704-784-7387",
+      "image": "./img/shelter/office/213049.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-concord-and-greater-cabarrus-county-213049/",
+      "imageUrl": "https://cdn.findpawpal.com/office/213049.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 230275,
+      "slug": "operation-paw-time-inc-230275",
+      "name": "Operation Paw Time, Inc.",
+      "address": "1001 Olde Creek Trail, Concord, NC 28025",
+      "phone": "704-918-1516",
+      "image": "https://cdn.findpawpal.com/office/230275.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/operation-paw-time-inc-230275/"
+    },
+    {
+      "officeId": 232678,
+      "slug": "cabarrus-animal-protection-association-232678",
+      "name": "Cabarrus Animal Protection Association",
+      "address": "413 Winecoff School Road, Concord, NC 28027",
+      "phone": "704-455-9562",
+      "image": "./img/shelter/office/232678.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cabarrus-animal-protection-association-232678/",
+      "imageUrl": "https://cdn.findpawpal.com/office/232678.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 260150,
+      "slug": "cabarrus-county-animal-control-260150",
+      "name": "Cabarrus County Animal Control",
+      "address": "25 Corban Avenue Southeast, Concord, NC 28025",
+      "phone": "704-782-0500",
+      "image": "./img/shelter/office/260150.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cabarrus-county-animal-control-260150/",
+      "imageUrl": "https://cdn.findpawpal.com/office/260150.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 260188,
+      "slug": "cabarrus-county-animal-shelter-260188",
+      "name": "Cabarrus County Animal Shelter",
+      "address": "PO Box 1149, Concord, NC 28026",
+      "phone": "704-782-0535",
+      "image": "https://cdn.findpawpal.com/office/260188.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/cabarrus-county-animal-shelter-260188/"
+    }
+  ]
+}

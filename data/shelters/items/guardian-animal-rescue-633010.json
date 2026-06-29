@@ -1,0 +1,21 @@
+{
+  "officeId": 633010,
+  "slug": "guardian-animal-rescue-633010",
+  "name": "Guardian Animal Rescue",
+  "address": "PO Box 65147, San Antonio, TX 78265",
+  "street": "PO Box 65147",
+  "addressCity": "San Antonio",
+  "stateCode": "TX",
+  "zip": "78265",
+  "phone": "210-658-2097",
+  "image": "./img/shelter/office/633010.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/guardian-animal-rescue-633010/",
+  "stateSlug": "texas",
+  "stateName": "Texas",
+  "citySlug": "san-antonio",
+  "cityName": "San Antonio",
+  "cityLabel": "San Antonio, TX",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/texas/san-antonio/",
+  "fetchedAt": "2026-06-27T20:08:59.987828+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/633010.jpg?f=webp&w=730"
+}

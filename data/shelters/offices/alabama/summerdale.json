@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-06-27T18:18:42.591955+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "summerdale",
+    "name": "Summerdale",
+    "label": "Summerdale, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/summerdale/",
+  "offices": [
+    {
+      "slug": "baldwin-county-animal-control-6799",
+      "name": "Baldwin County Animal Control",
+      "address": "15050 County Road 49, Summerdale, AL 36580",
+      "phone": "251-972-6834",
+      "image": "https://cdn.findpawpal.com/office/6799.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/baldwin-county-animal-control-6799/"
+    }
+  ]
+}

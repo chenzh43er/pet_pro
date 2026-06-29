@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:49:22.111144+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "brazil",
+    "name": "Brazil",
+    "label": "Brazil, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/brazil/",
+  "offices": [
+    {
+      "officeId": 201468,
+      "slug": "clay-county-humane-society-201468",
+      "name": "Clay County Humane Society",
+      "address": "8280 North County Road 125 West, Brazil, IN 47834",
+      "phone": "812-446-5126",
+      "image": "./img/shelter/office/201468.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/clay-county-humane-society-201468/",
+      "imageUrl": "https://cdn.findpawpal.com/office/201468.jpg?f=webp&w=730"
+    }
+  ]
+}

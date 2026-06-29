@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:23:12.354541+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "lake-geneva",
+    "name": "Lake Geneva",
+    "label": "Lake Geneva, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/lake-geneva/",
+  "offices": [
+    {
+      "officeId": 673500,
+      "slug": "lake-geneva-animal-shelter-673500",
+      "name": "Lake Geneva Animal Shelter",
+      "address": "270 Broad Street, Lake Geneva, WI 53147",
+      "phone": "262-248-3122",
+      "image": "./img/shelter/office/673500.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lake-geneva-animal-shelter-673500/",
+      "imageUrl": "https://cdn.findpawpal.com/office/673500.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:15:32.342372+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "marathon",
+    "name": "Marathon",
+    "label": "Marathon, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/marathon/",
+  "offices": [
+    {
+      "slug": "marathon-animal-shelter-323399",
+      "name": "Marathon Animal Shelter",
+      "address": "615 11th Street Ocean, Marathon, FL 33050",
+      "phone": "305-743-3253",
+      "image": "./img/shelter/office/323399.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/marathon-animal-shelter-323399/",
+      "imageUrl": "https://cdn.findpawpal.com/office/323399.jpg?f=webp&w=730"
+    }
+  ]
+}

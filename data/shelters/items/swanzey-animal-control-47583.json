@@ -1,0 +1,21 @@
+{
+  "officeId": 47583,
+  "slug": "swanzey-animal-control-47583",
+  "name": "Swanzey Animal Control",
+  "address": "101 West Swanzey Road, Swanzey, NH 03446",
+  "street": "101 West Swanzey Road",
+  "addressCity": "Swanzey",
+  "stateCode": "NH",
+  "zip": "03446",
+  "phone": "603-352-0035",
+  "image": "./img/shelter/office/47583.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/swanzey-animal-control-47583/",
+  "stateSlug": "new-hampshire",
+  "stateName": "New Hampshire",
+  "citySlug": "swanzey",
+  "cityName": "Swanzey",
+  "cityLabel": "Swanzey, NH",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-hampshire/swanzey/",
+  "fetchedAt": "2026-06-27T19:24:44.689012+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/47583.jpg?f=webp&w=730"
+}

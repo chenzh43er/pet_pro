@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:49:41.523931+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "columbus",
+    "name": "Columbus",
+    "label": "Columbus, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/columbus/",
+  "offices": [
+    {
+      "officeId": 200955,
+      "slug": "columbus-animal-shelter-200955",
+      "name": "Columbus Animal Shelter",
+      "address": "2730 Arnold Street, Columbus, IN 47203",
+      "phone": "812-376-2505",
+      "image": "./img/shelter/office/200955.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/columbus-animal-shelter-200955/",
+      "imageUrl": "https://cdn.findpawpal.com/office/200955.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 241264,
+      "slug": "bartholomew-county-humane-society-241264",
+      "name": "Bartholomew County Humane Society",
+      "address": "4110 East 200 South, Columbus, IN 47201",
+      "phone": "812-372-6063",
+      "image": "./img/shelter/office/241264.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bartholomew-county-humane-society-241264/",
+      "imageUrl": "https://cdn.findpawpal.com/office/241264.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 241282,
+      "slug": "indiana-hooved-animal-humane-241282",
+      "name": "Indiana Hooved Animal Humane",
+      "address": "6400 South 650 West, Columbus, IN 47201",
+      "phone": "812-342-3002",
+      "image": "./img/shelter/office/241282.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/indiana-hooved-animal-humane-241282/",
+      "imageUrl": "https://cdn.findpawpal.com/office/241282.jpg?f=webp&w=730"
+    }
+  ]
+}

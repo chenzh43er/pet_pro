@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:08:03.249357+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "north-richland-hills",
+    "name": "North Richland Hills",
+    "label": "North Richland Hills, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/north-richland-hills/",
+  "offices": [
+    {
+      "officeId": 633453,
+      "slug": "north-richland-hills-animal-services-633453",
+      "name": "North Richland Hills Animal Services",
+      "address": "7200 Dick Fisher Drive North, North Richland Hills, TX 76180",
+      "phone": "817-581-5674",
+      "image": "./img/shelter/office/633453.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/north-richland-hills-animal-services-633453/",
+      "imageUrl": "https://cdn.findpawpal.com/office/633453.jpg?f=webp&w=730"
+    }
+  ]
+}

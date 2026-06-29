@@ -1,0 +1,21 @@
+{
+  "officeId": 555120,
+  "slug": "spca-of-josephine-county-555120",
+  "name": "SPCA of Josephine County",
+  "address": "PO Box 5045, Grants Pass, OR 97527",
+  "street": "PO Box 5045",
+  "addressCity": "Grants Pass",
+  "stateCode": "OR",
+  "zip": "97527",
+  "phone": "541-479-1910",
+  "image": "./img/shelter/office/555120.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/spca-of-josephine-county-555120/",
+  "stateSlug": "oregon",
+  "stateName": "Oregon",
+  "citySlug": "grants-pass",
+  "cityName": "Grants Pass",
+  "cityLabel": "Grants Pass, OR",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/oregon/grants-pass/",
+  "fetchedAt": "2026-06-27T19:50:36.481059+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/555120.jpg?f=webp&w=730"
+}

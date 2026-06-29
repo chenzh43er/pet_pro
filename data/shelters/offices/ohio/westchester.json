@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:47:41.271375+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "westchester",
+    "name": "Westchester",
+    "label": "Westchester, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/westchester/",
+  "offices": [
+    {
+      "officeId": 466193,
+      "slug": "cat-connection-of-cincinnati-466193",
+      "name": "Cat Connection of Cincinnati",
+      "address": "PO Box 1654, Westchester, OH 45071",
+      "phone": "513-723-5161",
+      "image": "./img/shelter/office/466193.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cat-connection-of-cincinnati-466193/",
+      "imageUrl": "https://cdn.findpawpal.com/office/466193.jpg?f=webp&w=730"
+    }
+  ]
+}

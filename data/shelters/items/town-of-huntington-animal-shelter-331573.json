@@ -1,0 +1,21 @@
+{
+  "officeId": 331573,
+  "slug": "town-of-huntington-animal-shelter-331573",
+  "name": "Town of Huntington Animal Shelter",
+  "address": "106 Deposit Road, East Northport, NY 11731",
+  "street": "106 Deposit Road",
+  "addressCity": "East Northport",
+  "stateCode": "NY",
+  "zip": "11731",
+  "phone": "516-754-2030",
+  "image": "./img/shelter/office/331573.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/town-of-huntington-animal-shelter-331573/",
+  "stateSlug": "new-york",
+  "stateName": "New York",
+  "citySlug": "east-northport",
+  "cityName": "East Northport",
+  "cityLabel": "East Northport, NY",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-york/east-northport/",
+  "fetchedAt": "2026-06-27T19:33:08.002631+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/331573.jpg?f=webp&w=730"
+}

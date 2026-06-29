@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:01:41.454702+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "pulaski",
+    "name": "Pulaski",
+    "label": "Pulaski, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/pulaski/",
+  "offices": [
+    {
+      "officeId": 581067,
+      "slug": "miner-menagerie-sanctuary-581067",
+      "name": "Miner Menagerie Sanctuary",
+      "address": "1351 Sumac Road, Pulaski, TN 38478",
+      "phone": "931-207-5006",
+      "image": "./img/shelter/office/581067.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/miner-menagerie-sanctuary-581067/",
+      "imageUrl": "https://cdn.findpawpal.com/office/581067.jpg?f=webp&w=730"
+    }
+  ]
+}

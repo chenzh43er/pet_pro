@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:37:49.047566+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "westport",
+    "name": "Westport",
+    "label": "Westport, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/westport/",
+  "offices": [
+    {
+      "officeId": 147661,
+      "slug": "save-our-strays-147661",
+      "name": "Save Our Strays",
+      "address": "1677 Post Road East, Westport, CT 06880",
+      "phone": "203-255-0514",
+      "image": "./img/shelter/office/147661.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/save-our-strays-147661/",
+      "imageUrl": "https://cdn.findpawpal.com/office/147661.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 147756,
+      "slug": "westport-animal-shelter-advocates-147756",
+      "name": "Westport Animal Shelter Advocates",
+      "address": "606 Post Road East, Westport, CT 06880",
+      "phone": "",
+      "image": "./img/shelter/office/147756.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/westport-animal-shelter-advocates-147756/",
+      "imageUrl": "https://cdn.findpawpal.com/office/147756.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 168806,
+      "slug": "westport-animal-control-168806",
+      "name": "Westport Animal Control",
+      "address": "Elaine Rd, Westport, CT 06880",
+      "phone": "203-341-5076",
+      "image": "./img/shelter/office/168806.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/westport-animal-control-168806/",
+      "imageUrl": "https://cdn.findpawpal.com/office/168806.jpg?f=webp&w=730"
+    }
+  ]
+}

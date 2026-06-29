@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:24:13.049598+00:00",
+  "state": {
+    "slug": "new-hampshire",
+    "name": "New Hampshire"
+  },
+  "city": {
+    "slug": "greenfield",
+    "name": "Greenfield",
+    "label": "Greenfield, NH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-hampshire/greenfield/",
+  "offices": [
+    {
+      "officeId": 43886,
+      "slug": "cocker-spaniel-rescue-of-new-england-43886",
+      "name": "Cocker Spaniel Rescue of New England",
+      "address": "PO Box 162, Greenfield, NH 03047",
+      "phone": "603-547-3363",
+      "image": "https://cdn.findpawpal.com/office/43886.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/cocker-spaniel-rescue-of-new-england-43886/"
+    }
+  ]
+}

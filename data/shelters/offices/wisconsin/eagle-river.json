@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:22:28.967567+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "eagle-river",
+    "name": "Eagle River",
+    "label": "Eagle River, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/eagle-river/",
+  "offices": [
+    {
+      "officeId": 475434,
+      "slug": "humane-society-of-vilas-county-475434",
+      "name": "Humane Society of Vilas County",
+      "address": "2477 U.S. Highway 45, Eagle River, WI 54521",
+      "phone": "715-479-9777",
+      "image": "./img/shelter/office/475434.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-vilas-county-475434/",
+      "imageUrl": "https://cdn.findpawpal.com/office/475434.jpg?f=webp&w=730"
+    }
+  ]
+}

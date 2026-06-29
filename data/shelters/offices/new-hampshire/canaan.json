@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:23:47.733347+00:00",
+  "state": {
+    "slug": "new-hampshire",
+    "name": "New Hampshire"
+  },
+  "city": {
+    "slug": "canaan",
+    "name": "Canaan",
+    "label": "Canaan, NH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-hampshire/canaan/",
+  "offices": [
+    {
+      "officeId": 43625,
+      "slug": "collie-rescue-league-of-new-england-43625",
+      "name": "Collie Rescue League of New England",
+      "address": "Rr 1, Box 197, Canaan, NH 03741",
+      "phone": "781-523-8247",
+      "image": "./img/shelter/office/43625.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/collie-rescue-league-of-new-england-43625/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43625.jpg?f=webp&w=730"
+    }
+  ]
+}

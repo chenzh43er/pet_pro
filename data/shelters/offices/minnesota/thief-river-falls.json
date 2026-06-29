@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:15:34.214776+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "thief-river-falls",
+    "name": "Thief River Falls",
+    "label": "Thief River Falls, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/thief-river-falls/",
+  "offices": [
+    {
+      "officeId": 676330,
+      "slug": "pennington-county-humane-society-676330",
+      "name": "Pennington County Humane Society",
+      "address": "15598 U.s. 59, Thief River Falls, MN 56701",
+      "phone": "218-681-8045",
+      "image": "https://cdn.findpawpal.com/office/676330.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/pennington-county-humane-society-676330/"
+    }
+  ]
+}

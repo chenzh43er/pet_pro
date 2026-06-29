@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T20:15:46.216751+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "providence-forge",
+    "name": "Providence Forge",
+    "label": "Providence Forge, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/providence-forge/",
+  "offices": [
+    {
+      "officeId": 555009,
+      "slug": "charles-city-county-animal-shelter-555009",
+      "name": "Charles City County Animal Shelter",
+      "address": "11200 Carriage Road, Providence Forge, VA 23140",
+      "phone": "804-829-9266",
+      "image": "https://cdn.findpawpal.com/office/555009.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/charles-city-county-animal-shelter-555009/"
+    },
+    {
+      "officeId": 644601,
+      "slug": "new-kent-county-animal-control-644601",
+      "name": "New Kent County Animal Control",
+      "address": "6301 Olivet Church Road, Providence Forge, VA 23140",
+      "phone": "804-966-9500",
+      "image": "https://cdn.findpawpal.com/office/644601.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/new-kent-county-animal-control-644601/"
+    }
+  ]
+}

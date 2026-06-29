@@ -1,0 +1,21 @@
+{
+  "officeId": 333584,
+  "slug": "yonkers-animal-shelter-333584",
+  "name": "Yonkers Animal Shelter",
+  "address": "120 Fullerton Avenue, Yonkers, NY 10704",
+  "street": "120 Fullerton Avenue",
+  "addressCity": "Yonkers",
+  "stateCode": "NY",
+  "zip": "10704",
+  "phone": "914-377-6730",
+  "image": "./img/shelter/office/333584.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/yonkers-animal-shelter-333584/",
+  "stateSlug": "new-york",
+  "stateName": "New York",
+  "citySlug": "yonkers",
+  "cityName": "Yonkers",
+  "cityLabel": "Yonkers, NY",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-york/yonkers/",
+  "fetchedAt": "2026-06-27T19:37:51.791100+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/333584.jpg?f=webp&w=730"
+}

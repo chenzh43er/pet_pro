@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:45:48.843433+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "gurnee",
+    "name": "Gurnee",
+    "label": "Gurnee, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/gurnee/",
+  "offices": [
+    {
+      "officeId": 386403,
+      "slug": "lake-county-animal-protection-association-386403",
+      "name": "Lake County Animal Protection Association",
+      "address": "PO Box 106, Gurnee, IL 60031",
+      "phone": "847-740-3977",
+      "image": "https://cdn.findpawpal.com/office/386403.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/lake-county-animal-protection-association-386403/"
+    }
+  ]
+}

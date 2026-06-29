@@ -1,0 +1,65 @@
+{
+  "fetchedAt": "2026-06-27T19:56:32.171974+00:00",
+  "state": {
+    "slug": "rhode-island",
+    "name": "Rhode Island"
+  },
+  "city": {
+    "slug": "south-kingstown",
+    "name": "South Kingstown",
+    "label": "South Kingstown, RI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/rhode-island/south-kingstown/",
+  "offices": [
+    {
+      "officeId": 521133,
+      "slug": "south-kingstown-animal-shelter-521133",
+      "name": "South Kingstown Animal Shelter",
+      "address": "132 Asa Pond Road, South Kingstown, RI 02879",
+      "phone": "401-789-5515",
+      "image": "./img/shelter/office/521133.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/south-kingstown-animal-shelter-521133/",
+      "imageUrl": "https://cdn.findpawpal.com/office/521133.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 521136,
+      "slug": "narragansett-pound-521136",
+      "name": "Narragansett Pound",
+      "address": "441 Rose Hill Road, South Kingstown, RI 02879",
+      "phone": "401-789-1950",
+      "image": "./img/shelter/office/521136.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/narragansett-pound-521136/",
+      "imageUrl": "https://cdn.findpawpal.com/office/521136.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 589056,
+      "slug": "wakefield-animal-shelter-589056",
+      "name": "Wakefield Animal Shelter",
+      "address": "506 Curtis Corner Road, South Kingstown, RI 02879",
+      "phone": "401-783-7606",
+      "image": "./img/shelter/office/589056.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wakefield-animal-shelter-589056/",
+      "imageUrl": "https://cdn.findpawpal.com/office/589056.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 685724,
+      "slug": "peace-dale-animal-control-685724",
+      "name": "Peace Dale Animal Control",
+      "address": "506a Curtis Corner Road, South Kingstown, RI 02879",
+      "phone": "401-783-7606",
+      "image": "./img/shelter/office/685724.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/peace-dale-animal-control-685724/",
+      "imageUrl": "https://cdn.findpawpal.com/office/685724.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 708090,
+      "slug": "animal-rescue-league-708090",
+      "name": "Animal Rescue League",
+      "address": "213 Robinson Street, South Kingstown, RI 02879",
+      "phone": "401-792-2233",
+      "image": "./img/shelter/office/708090.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-rescue-league-708090/",
+      "imageUrl": "https://cdn.findpawpal.com/office/708090.jpg?f=webp&w=730"
+    }
+  ]
+}

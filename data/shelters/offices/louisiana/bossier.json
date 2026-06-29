@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:59:13.041228+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "bossier",
+    "name": "Bossier",
+    "label": "Bossier, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/bossier/",
+  "offices": [
+    {
+      "officeId": 225441,
+      "slug": "raptor-rescue-iguana-sanctuary-225441",
+      "name": "Raptor Rescue Iguana Sanctuary",
+      "address": "4608 Voss Drive, Bossier, LA 71111",
+      "phone": "318-573-5271",
+      "image": "./img/shelter/office/225441.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/raptor-rescue-iguana-sanctuary-225441/",
+      "imageUrl": "https://cdn.findpawpal.com/office/225441.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 225446,
+      "slug": "bossier-city-animal-control-225446",
+      "name": "Bossier City Animal Control",
+      "address": "3217 Old Shed Road, Bossier, LA 71111",
+      "phone": "318-741-8499",
+      "image": "./img/shelter/office/225446.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bossier-city-animal-control-225446/",
+      "imageUrl": "https://cdn.findpawpal.com/office/225446.jpg?f=webp&w=730"
+    }
+  ]
+}

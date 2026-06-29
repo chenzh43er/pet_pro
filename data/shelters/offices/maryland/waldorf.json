@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:04:55.724744+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "waldorf",
+    "name": "Waldorf",
+    "label": "Waldorf, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/waldorf/",
+  "offices": [
+    {
+      "officeId": 372125,
+      "slug": "waldorf-animal-control-372125",
+      "name": "Waldorf Animal Control",
+      "address": "8500 Bensville Road, Waldorf, MD 20603",
+      "phone": "240-448-3182",
+      "image": "./img/shelter/office/372125.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/waldorf-animal-control-372125/",
+      "imageUrl": "https://cdn.findpawpal.com/office/372125.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 393992,
+      "slug": "humane-society-of-charles-county-maryland-393992",
+      "name": "Humane Society of Charles County Maryland",
+      "address": "PO Box 1015, Waldorf, MD 20604",
+      "phone": "301-645-8181",
+      "image": "./img/shelter/office/393992.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-charles-county-maryland-393992/",
+      "imageUrl": "https://cdn.findpawpal.com/office/393992.jpg?f=webp&w=730"
+    }
+  ]
+}

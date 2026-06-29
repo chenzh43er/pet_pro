@@ -1,0 +1,21 @@
+{
+  "officeId": 431593,
+  "slug": "fargo-animal-shelter-431593",
+  "name": "Fargo Animal Shelter",
+  "address": "9 9th Street South, Fargo, ND 58103",
+  "street": "9 9th Street South",
+  "addressCity": "Fargo",
+  "stateCode": "ND",
+  "zip": "58103",
+  "phone": "701-356-7877",
+  "image": "./img/shelter/office/431593.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/fargo-animal-shelter-431593/",
+  "stateSlug": "north-dakota",
+  "stateName": "North Dakota",
+  "citySlug": "fargo",
+  "cityName": "Fargo",
+  "cityLabel": "Fargo, ND",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/north-dakota/fargo/",
+  "fetchedAt": "2026-06-27T19:42:19.375030+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/431593.jpg?f=webp&w=730"
+}

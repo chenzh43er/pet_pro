@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:13:22.830751+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "coeburn",
+    "name": "Coeburn",
+    "label": "Coeburn, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/coeburn/",
+  "offices": [
+    {
+      "officeId": 706757,
+      "slug": "paws-of-southwest-virginia-inc-706757",
+      "name": "PAWS of Southwest Virginia, Inc.",
+      "address": "PO Box 576, Coeburn, VA 24230",
+      "phone": "276-523-0222",
+      "image": "./img/shelter/office/706757.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/paws-of-southwest-virginia-inc-706757/",
+      "imageUrl": "https://cdn.findpawpal.com/office/706757.jpg?f=webp&w=730"
+    }
+  ]
+}

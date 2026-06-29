@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:21:06.800743+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "oak-hill",
+    "name": "Oak Hill",
+    "label": "Oak Hill, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/oak-hill/",
+  "offices": [
+    {
+      "officeId": 453506,
+      "slug": "west-virginia-pit-bull-rescue-lovers-453506",
+      "name": "West Virginia Pit Bull Rescue Lovers",
+      "address": "2905 Summerlee Road, Oak Hill, WV 25901",
+      "phone": "304-469-7728",
+      "image": "./img/shelter/office/453506.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/west-virginia-pit-bull-rescue-lovers-453506/",
+      "imageUrl": "https://cdn.findpawpal.com/office/453506.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:31:31.758944+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "tracy",
+    "name": "Tracy",
+    "label": "Tracy, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/tracy/",
+  "offices": [
+    {
+      "officeId": 361681,
+      "slug": "tracy-animal-shelter-361681",
+      "name": "Tracy Animal Shelter",
+      "address": "370 Arbor Avenue, Tracy, CA 95304",
+      "phone": "209-831-6364",
+      "image": "./img/shelter/office/361681.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tracy-animal-shelter-361681/",
+      "imageUrl": "https://cdn.findpawpal.com/office/361681.jpg?f=webp&w=730"
+    }
+  ]
+}

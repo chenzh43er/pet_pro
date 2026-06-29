@@ -1,0 +1,102 @@
+{
+  "fetchedAt": "2026-06-27T20:23:28.944828+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "milwaukee",
+    "name": "Milwaukee",
+    "label": "Milwaukee, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/milwaukee/",
+  "offices": [
+    {
+      "officeId": 514114,
+      "slug": "happy-endings-no-kill-shelter-514114",
+      "name": "Happy Endings No-Kill Shelter",
+      "address": "PO Box 07898, Milwaukee, WI 53207",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/514114.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/happy-endings-no-kill-shelter-514114/"
+    },
+    {
+      "officeId": 514119,
+      "slug": "kitty-connection-514119",
+      "name": "Kitty Connection",
+      "address": "PO Box 341182, Milwaukee, WI 53234",
+      "phone": "414-297-9238",
+      "image": "https://cdn.findpawpal.com/office/514119.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/kitty-connection-514119/"
+    },
+    {
+      "officeId": 520468,
+      "slug": "second-hand-purrs-520468",
+      "name": "Second Hand Purrs",
+      "address": "4300 South Howell Avenue, Milwaukee, WI 53207",
+      "phone": "414-727-7877",
+      "image": "./img/shelter/office/520468.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/second-hand-purrs-520468/",
+      "imageUrl": "https://cdn.findpawpal.com/office/520468.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 520473,
+      "slug": "a-birdhouse-inc-520473",
+      "name": "A Birdhouse, Inc.",
+      "address": "3871 South 27th Street, Milwaukee, WI 53221",
+      "phone": "414-281-3900",
+      "image": "./img/shelter/office/520473.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/a-birdhouse-inc-520473/",
+      "imageUrl": "https://cdn.findpawpal.com/office/520473.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 534090,
+      "slug": "cfr-llc-534090",
+      "name": "CFR, Llc",
+      "address": "4534 North 75th Street, Milwaukee, WI 53218",
+      "phone": "414-530-0914",
+      "image": "./img/shelter/office/534090.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cfr-llc-534090/",
+      "imageUrl": "https://cdn.findpawpal.com/office/534090.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 534250,
+      "slug": "milwaukee-animal-control-534250",
+      "name": "Milwaukee Animal Control",
+      "address": "3839 West Burnham Street, Milwaukee, WI 53215",
+      "phone": "414-649-8640",
+      "image": "./img/shelter/office/534250.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/milwaukee-animal-control-534250/",
+      "imageUrl": "https://cdn.findpawpal.com/office/534250.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 535321,
+      "slug": "wisconsin-animal-protection-society-535321",
+      "name": "Wisconsin Animal Protection Society",
+      "address": "6910 West Brown Deer Road, Milwaukee, WI 53223",
+      "phone": "",
+      "image": "./img/shelter/office/535321.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wisconsin-animal-protection-society-535321/",
+      "imageUrl": "https://cdn.findpawpal.com/office/535321.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 634028,
+      "slug": "for-cats-sake-rescue-634028",
+      "name": "For Cat's Sake Rescue",
+      "address": "PO Box 341246, Milwaukee, WI 53234",
+      "phone": "414-921-0910",
+      "image": "https://cdn.findpawpal.com/office/634028.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/for-cats-sake-rescue-634028/"
+    },
+    {
+      "officeId": 673457,
+      "slug": "wisconsin-humane-society-milwaukee-campus-673457",
+      "name": "Wisconsin Humane Society Milwaukee Campus",
+      "address": "4500 West Wisconsin Avenue, Milwaukee, WI 53208",
+      "phone": "414-264-6257",
+      "image": "./img/shelter/office/673457.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wisconsin-humane-society-milwaukee-campus-673457/",
+      "imageUrl": "https://cdn.findpawpal.com/office/673457.jpg?f=webp&w=730"
+    }
+  ]
+}

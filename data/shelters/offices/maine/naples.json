@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:01:56.526539+00:00",
+  "state": {
+    "slug": "maine",
+    "name": "Maine"
+  },
+  "city": {
+    "slug": "naples",
+    "name": "Naples",
+    "label": "Naples, ME"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maine/naples/",
+  "offices": [
+    {
+      "officeId": 338215,
+      "slug": "cat-coalition-of-western-maine-338215",
+      "name": "Cat Coalition of Western Maine",
+      "address": "206 River Road, Naples, ME 04055",
+      "phone": "207-310-3011",
+      "image": "./img/shelter/office/338215.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cat-coalition-of-western-maine-338215/",
+      "imageUrl": "https://cdn.findpawpal.com/office/338215.jpg?f=webp&w=730"
+    }
+  ]
+}

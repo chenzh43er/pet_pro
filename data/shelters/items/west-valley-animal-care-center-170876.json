@@ -1,0 +1,21 @@
+{
+  "officeId": 170876,
+  "slug": "west-valley-animal-care-center-170876",
+  "name": "West Valley Animal Care Center",
+  "address": "2500 South 27th Avenue, Phoenix, AZ 85009",
+  "street": "2500 South 27th Avenue",
+  "addressCity": "Phoenix",
+  "stateCode": "AZ",
+  "zip": "85009",
+  "phone": "602-506-7387",
+  "image": "./img/shelter/office/170876.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/west-valley-animal-care-center-170876/",
+  "stateSlug": "arizona",
+  "stateName": "Arizona",
+  "citySlug": "phoenix",
+  "cityName": "Phoenix",
+  "cityLabel": "Phoenix, AZ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/arizona/phoenix/",
+  "fetchedAt": "2026-06-27T18:20:41.998915+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/170876.jpg?f=webp&w=730"
+}

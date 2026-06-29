@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:56:48.567687+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "elizabethtown",
+    "name": "Elizabethtown",
+    "label": "Elizabethtown, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/elizabethtown/",
+  "offices": [
+    {
+      "officeId": 118055,
+      "slug": "bluegrass-humane-society-inc-118055",
+      "name": "Bluegrass Humane Society, Inc.",
+      "address": "219 Cs-1320, Elizabethtown, KY 42701",
+      "phone": "270-877-5491",
+      "image": "./img/shelter/office/118055.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bluegrass-humane-society-inc-118055/",
+      "imageUrl": "https://cdn.findpawpal.com/office/118055.jpg?f=webp&w=730"
+    }
+  ]
+}

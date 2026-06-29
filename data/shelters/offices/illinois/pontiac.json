@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:47:40.402013+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "pontiac",
+    "name": "Pontiac",
+    "label": "Pontiac, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/pontiac/",
+  "offices": [
+    {
+      "officeId": 674586,
+      "slug": "livingston-county-humane-society-674586",
+      "name": "Livingston County Humane Society",
+      "address": "21179 East 1358 North Road, Pontiac, IL 61764",
+      "phone": "815-842-1025",
+      "image": "https://cdn.findpawpal.com/office/674586.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/livingston-county-humane-society-674586/"
+    }
+  ]
+}

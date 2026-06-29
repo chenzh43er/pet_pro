@@ -1,0 +1,114 @@
+{
+  "fetchedAt": "2026-06-27T19:36:28.766895+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "rochester",
+    "name": "Rochester",
+    "label": "Rochester, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/rochester/",
+  "offices": [
+    {
+      "officeId": 313209,
+      "slug": "animal-rescue-team-inc-313209",
+      "name": "Animal Rescue Team, Inc.",
+      "address": "82 Bloomfield Place, Rochester, NY 14620",
+      "phone": "716-254-4459",
+      "image": "./img/shelter/office/313209.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-rescue-team-inc-313209/",
+      "imageUrl": "https://cdn.findpawpal.com/office/313209.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 316897,
+      "slug": "pet-adoption-network-316897",
+      "name": "Pet Adoption Network",
+      "address": "4261 Culver Road, Rochester, NY 14622",
+      "phone": "585-338-9175",
+      "image": "./img/shelter/office/316897.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-adoption-network-316897/",
+      "imageUrl": "https://cdn.findpawpal.com/office/316897.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 318091,
+      "slug": "rochester-animal-control-318091",
+      "name": "Rochester Animal Control",
+      "address": "1280 Titus Avenue, Rochester, NY 14617",
+      "phone": "585-467-8840",
+      "image": "./img/shelter/office/318091.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rochester-animal-control-318091/",
+      "imageUrl": "https://cdn.findpawpal.com/office/318091.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 330931,
+      "slug": "brighton-animal-control-division-330931",
+      "name": "Brighton Animal Control Division",
+      "address": "2300 Elmwood Avenue, Rochester, NY 14618",
+      "phone": "585-784-5120",
+      "image": "./img/shelter/office/330931.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/brighton-animal-control-division-330931/",
+      "imageUrl": "https://cdn.findpawpal.com/office/330931.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 331683,
+      "slug": "rochester-animal-services-331683",
+      "name": "Rochester Animal Services",
+      "address": "184 Verona Street, Rochester, NY 14608",
+      "phone": "585-428-7274",
+      "image": "./img/shelter/office/331683.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rochester-animal-services-331683/",
+      "imageUrl": "https://cdn.findpawpal.com/office/331683.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 332421,
+      "slug": "greece-town-animal-control-332421",
+      "name": "Greece Town Animal Control",
+      "address": "500 Maiden Lane, Rochester, NY 14616",
+      "phone": "585-581-4025",
+      "image": "./img/shelter/office/332421.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greece-town-animal-control-332421/",
+      "imageUrl": "https://cdn.findpawpal.com/office/332421.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 333630,
+      "slug": "genesee-valley-canine-welfare-333630",
+      "name": "Genesee Valley Canine Welfare",
+      "address": "53 Oakcrest Drive, Rochester, NY 14617",
+      "phone": "",
+      "image": "./img/shelter/office/333630.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/genesee-valley-canine-welfare-333630/",
+      "imageUrl": "https://cdn.findpawpal.com/office/333630.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 333636,
+      "slug": "animal-service-league-333636",
+      "name": "Animal Service League",
+      "address": "10 Dubelbeiss Lane, Rochester, NY 14622",
+      "phone": "585-342-6099",
+      "image": "./img/shelter/office/333636.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-service-league-333636/",
+      "imageUrl": "https://cdn.findpawpal.com/office/333636.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 342319,
+      "slug": "rescued-treasures-pet-adoptions-342319",
+      "name": "Rescued Treasures Pet Adoptions",
+      "address": "3177 Latta Road, Rochester, NY 14612",
+      "phone": "585-210-2509",
+      "image": "./img/shelter/office/342319.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rescued-treasures-pet-adoptions-342319/",
+      "imageUrl": "https://cdn.findpawpal.com/office/342319.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 399716,
+      "slug": "greece-residents-assisting-stray-pets-399716",
+      "name": "Greece Residents Assisting Stray Pets",
+      "address": "PO Box 26741, Rochester, NY 14626",
+      "phone": "585-234-1953",
+      "image": "https://cdn.findpawpal.com/office/399716.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/greece-residents-assisting-stray-pets-399716/"
+    }
+  ]
+}

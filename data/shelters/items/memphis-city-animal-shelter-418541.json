@@ -1,0 +1,21 @@
+{
+  "officeId": 418541,
+  "slug": "memphis-city-animal-shelter-418541",
+  "name": "Memphis City Animal Shelter",
+  "address": "2350 Appling City Cove, Memphis, TN 38133",
+  "street": "2350 Appling City Cove",
+  "addressCity": "Memphis",
+  "stateCode": "TN",
+  "zip": "38133",
+  "phone": "901-372-5995",
+  "image": "./img/shelter/office/418541.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/memphis-city-animal-shelter-418541/",
+  "stateSlug": "tennessee",
+  "stateName": "Tennessee",
+  "citySlug": "memphis",
+  "cityName": "Memphis",
+  "cityLabel": "Memphis, TN",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/tennessee/memphis/",
+  "fetchedAt": "2026-06-27T20:01:09.779207+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/418541.jpg?f=webp&w=730"
+}

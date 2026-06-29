@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:44:28.564864+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "canton",
+    "name": "Canton",
+    "label": "Canton, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/canton/",
+  "offices": [
+    {
+      "officeId": 412085,
+      "slug": "the-humane-society-of-fulton-county-412085",
+      "name": "The Humane Society of Fulton County",
+      "address": "22988 Highway 9, Canton, IL 61520",
+      "phone": "309-647-5077",
+      "image": "./img/shelter/office/412085.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-humane-society-of-fulton-county-412085/",
+      "imageUrl": "https://cdn.findpawpal.com/office/412085.jpg?f=webp&w=730"
+    }
+  ]
+}

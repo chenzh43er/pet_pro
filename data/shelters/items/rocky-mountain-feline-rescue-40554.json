@@ -1,0 +1,21 @@
+{
+  "officeId": 40554,
+  "slug": "rocky-mountain-feline-rescue-40554",
+  "name": "Rocky Mountain Feline Rescue",
+  "address": "2390 South Delaware Street, Denver, CO 80223",
+  "street": "2390 South Delaware Street",
+  "addressCity": "Denver",
+  "stateCode": "CO",
+  "zip": "80223",
+  "phone": "303-744-6076",
+  "image": "./img/shelter/office/40554.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/rocky-mountain-feline-rescue-40554/",
+  "stateSlug": "colorado",
+  "stateName": "Colorado",
+  "citySlug": "denver",
+  "cityName": "Denver",
+  "cityLabel": "Denver, CO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/colorado/denver/",
+  "fetchedAt": "2026-06-27T18:34:00.097487+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/40554.jpg?f=webp&w=730"
+}

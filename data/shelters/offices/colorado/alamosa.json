@@ -1,0 +1,32 @@
+{
+  "fetchedAt": "2026-06-27T18:32:38.260308+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "alamosa",
+    "name": "Alamosa",
+    "label": "Alamosa, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/alamosa/",
+  "offices": [
+    {
+      "slug": "san-luis-valley-animal-welfare-society-41191",
+      "name": "San Luis Valley Animal Welfare Society",
+      "address": "PO Box 712, Alamosa, CO 81101",
+      "phone": "719-587-9663",
+      "image": "https://cdn.findpawpal.com/office/41191.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/san-luis-valley-animal-welfare-society-41191/"
+    },
+    {
+      "slug": "alamosa-city-animal-control-44330",
+      "name": "Alamosa City Animal Control",
+      "address": "2431 Main Street, Alamosa, CO 81101",
+      "phone": "719-589-5807",
+      "image": "./img/shelter/office/44330.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/alamosa-city-animal-control-44330/",
+      "imageUrl": "https://cdn.findpawpal.com/office/44330.jpg?f=webp&w=730"
+    }
+  ]
+}

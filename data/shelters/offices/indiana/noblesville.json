@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T18:51:22.839926+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "noblesville",
+    "name": "Noblesville",
+    "label": "Noblesville, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/noblesville/",
+  "offices": [
+    {
+      "officeId": 216363,
+      "slug": "love-of-labs-indiana-lolin-216363",
+      "name": "Love of Labs Indiana Lolin",
+      "address": "PO Box 237, Noblesville, IN 46061",
+      "phone": "",
+      "image": "./img/shelter/office/216363.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/love-of-labs-indiana-lolin-216363/",
+      "imageUrl": "https://cdn.findpawpal.com/office/216363.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 223377,
+      "slug": "hamilton-county-humane-society-223377",
+      "name": "Hamilton County Humane Society",
+      "address": "18102 Cumberland Road, Noblesville, IN 46060",
+      "phone": "317-773-4974",
+      "image": "https://cdn.findpawpal.com/office/223377.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/hamilton-county-humane-society-223377/"
+    },
+    {
+      "officeId": 242111,
+      "slug": "indiana-sheltie-rescue-242111",
+      "name": "Indiana Sheltie Rescue",
+      "address": "23163 Highway 37, Noblesville, IN 46060",
+      "phone": "317-984-5737",
+      "image": "./img/shelter/office/242111.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/indiana-sheltie-rescue-242111/",
+      "imageUrl": "https://cdn.findpawpal.com/office/242111.jpg?f=webp&w=730"
+    }
+  ]
+}

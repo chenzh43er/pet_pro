@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:35:14.784058+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "steamboat-springs",
+    "name": "Steamboat Springs",
+    "label": "Steamboat Springs, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/steamboat-springs/",
+  "offices": [
+    {
+      "officeId": 40169,
+      "slug": "routt-county-humane-society-40169",
+      "name": "Routt County Humane Society",
+      "address": "PO Box 2080, Steamboat Springs, CO 80477",
+      "phone": "970-879-7247",
+      "image": "./img/shelter/office/40169.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/routt-county-humane-society-40169/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40169.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40223,
+      "slug": "steamboat-springs-animal-shelter-40223",
+      "name": "Steamboat Springs Animal Shelter",
+      "address": "760 Critter Ct, Steamboat Springs, CO 80477",
+      "phone": "970-879-0621",
+      "image": "./img/shelter/office/40223.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/steamboat-springs-animal-shelter-40223/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40223.jpg?f=webp&w=730"
+    }
+  ]
+}

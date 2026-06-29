@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T20:07:33.438589+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "midland",
+    "name": "Midland",
+    "label": "Midland, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/midland/",
+  "offices": [
+    {
+      "officeId": 494484,
+      "slug": "humane-society-permian-basin-494484",
+      "name": "Humane Society Permian Basin",
+      "address": "3917 West Wall Street, Midland, TX 79703",
+      "phone": "915-689-0999",
+      "image": "./img/shelter/office/494484.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-permian-basin-494484/",
+      "imageUrl": "https://cdn.findpawpal.com/office/494484.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 633596,
+      "slug": "midland-animal-control-633596",
+      "name": "Midland Animal Control",
+      "address": "1200 North Fairgrounds Road, Midland, TX 79706",
+      "phone": "432-685-7420",
+      "image": "./img/shelter/office/633596.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/midland-animal-control-633596/",
+      "imageUrl": "https://cdn.findpawpal.com/office/633596.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 635484,
+      "slug": "midland-spca-635484",
+      "name": "Midland Spca",
+      "address": "2701 South County Road 1206, Midland, TX 79706",
+      "phone": "432-684-7582",
+      "image": "./img/shelter/office/635484.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/midland-spca-635484/",
+      "imageUrl": "https://cdn.findpawpal.com/office/635484.jpg?f=webp&w=730"
+    }
+  ]
+}

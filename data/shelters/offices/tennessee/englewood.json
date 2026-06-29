@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:00:01.495206+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "englewood",
+    "name": "Englewood",
+    "label": "Englewood, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/englewood/",
+  "offices": [
+    {
+      "officeId": 437486,
+      "slug": "dog-and-other-animals-welfare-group-437486",
+      "name": "Dog and Other Animals Welfare Group",
+      "address": "135 County Road 464, Englewood, TN 37329",
+      "phone": "423-887-7195",
+      "image": "./img/shelter/office/437486.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dog-and-other-animals-welfare-group-437486/",
+      "imageUrl": "https://cdn.findpawpal.com/office/437486.jpg?f=webp&w=730"
+    }
+  ]
+}

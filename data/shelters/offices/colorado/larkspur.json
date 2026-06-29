@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:34:39.335640+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "larkspur",
+    "name": "Larkspur",
+    "label": "Larkspur, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/larkspur/",
+  "offices": [
+    {
+      "officeId": 43576,
+      "slug": "front-range-equine-rescue-43576",
+      "name": "Front Range Equine Rescue",
+      "address": "PO Box 307, Larkspur, CO 80118",
+      "phone": "719-495-6389",
+      "image": "https://cdn.findpawpal.com/office/43576.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/front-range-equine-rescue-43576/"
+    }
+  ]
+}

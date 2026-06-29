@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T19:35:26.985109+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "north-boston",
+    "name": "North Boston",
+    "label": "North Boston, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/north-boston/",
+  "offices": [
+    {
+      "officeId": 396897,
+      "slug": "ten-lives-club-396897",
+      "name": "Ten Lives Club",
+      "address": "PO Box 253, North Boston, NY 14110",
+      "phone": "716-646-5577",
+      "image": "https://cdn.findpawpal.com/office/396897.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/ten-lives-club-396897/"
+    },
+    {
+      "officeId": 414505,
+      "slug": "hope-for-cats-inc-414505",
+      "name": "Hope for Cats, Inc.",
+      "address": "PO Box 243, North Boston, NY 14110",
+      "phone": "716-997-8106",
+      "image": "https://cdn.findpawpal.com/office/414505.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/hope-for-cats-inc-414505/"
+    }
+  ]
+}

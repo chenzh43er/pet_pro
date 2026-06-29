@@ -1,0 +1,72 @@
+{
+  "fetchedAt": "2026-06-27T19:31:22.712819+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "albany",
+    "name": "Albany",
+    "label": "Albany, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/albany/",
+  "offices": [
+    {
+      "officeId": 312623,
+      "slug": "peppertree-rescue-inc-312623",
+      "name": "Peppertree Rescue, Inc.",
+      "address": "PO Box 2396, Albany, NY 12220",
+      "phone": "518-435-7425",
+      "image": "https://cdn.findpawpal.com/office/312623.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/peppertree-rescue-inc-312623/"
+    },
+    {
+      "officeId": 312988,
+      "slug": "whiskers-animal-benevolent-league-312988",
+      "name": "Whiskers Animal Benevolent League",
+      "address": "310 State Street, Albany, NY 12210",
+      "phone": "518-458-2287",
+      "image": "./img/shelter/office/312988.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/whiskers-animal-benevolent-league-312988/",
+      "imageUrl": "https://cdn.findpawpal.com/office/312988.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 312999,
+      "slug": "noahs-kingdom-humane-society-312999",
+      "name": "Noah's Kingdom Humane Society",
+      "address": "161 Washington Avenue Extension, Albany, NY 12205",
+      "phone": "518-782-7861",
+      "image": "./img/shelter/office/312999.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/noahs-kingdom-humane-society-312999/",
+      "imageUrl": "https://cdn.findpawpal.com/office/312999.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 333347,
+      "slug": "companion-animal-placement-program-333347",
+      "name": "Companion Animal Placement Program",
+      "address": "PO Box 7144, Albany, NY 12224",
+      "phone": "518-292-0555",
+      "image": "https://cdn.findpawpal.com/office/333347.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/companion-animal-placement-program-333347/"
+    },
+    {
+      "officeId": 418730,
+      "slug": "albany-animal-control-418730",
+      "name": "Albany Animal Control",
+      "address": "526 Central Avenue, Albany, NY 12206",
+      "phone": "518-434-5091",
+      "image": "./img/shelter/office/418730.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/albany-animal-control-418730/",
+      "imageUrl": "https://cdn.findpawpal.com/office/418730.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 441616,
+      "slug": "animalovers-441616",
+      "name": "Animalovers",
+      "address": "PO Box 6426, Albany, NY 12206",
+      "phone": "518-448-5468",
+      "image": "https://cdn.findpawpal.com/office/441616.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/animalovers-441616/"
+    }
+  ]
+}

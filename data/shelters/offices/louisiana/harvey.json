@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:59:50.148449+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "harvey",
+    "name": "Harvey",
+    "label": "Harvey, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/harvey/",
+  "offices": [
+    {
+      "officeId": 276268,
+      "slug": "looziana-basset-rescue-inc-276268",
+      "name": "Looziana Basset Rescue, Inc.",
+      "address": "PO Box 1315, Harvey, LA 70059",
+      "phone": "504-884-7488",
+      "image": "./img/shelter/office/276268.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/looziana-basset-rescue-inc-276268/",
+      "imageUrl": "https://cdn.findpawpal.com/office/276268.jpg?f=webp&w=730"
+    }
+  ]
+}

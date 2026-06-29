@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:55:35.094817+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "wexford",
+    "name": "Wexford",
+    "label": "Wexford, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/wexford/",
+  "offices": [
+    {
+      "officeId": 596475,
+      "slug": "going-home-greyhounds-596475",
+      "name": "Going Home Greyhounds",
+      "address": "PO Box 513, Wexford, PA 15090",
+      "phone": "412-935-6298",
+      "image": "./img/shelter/office/596475.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/going-home-greyhounds-596475/",
+      "imageUrl": "https://cdn.findpawpal.com/office/596475.jpg?f=webp&w=730"
+    }
+  ]
+}

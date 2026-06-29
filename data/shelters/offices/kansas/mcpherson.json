@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:55:29.026612+00:00",
+  "state": {
+    "slug": "kansas",
+    "name": "Kansas"
+  },
+  "city": {
+    "slug": "mcpherson",
+    "name": "McPherson",
+    "label": "McPherson, KS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kansas/mcpherson/",
+  "offices": [
+    {
+      "officeId": 5684,
+      "slug": "mc-pherson-animal-shelter-5684",
+      "name": "Mc Pherson Animal Shelter",
+      "address": "1115 West Woodside Street, McPherson, KS 67460",
+      "phone": "620-245-2583",
+      "image": "./img/shelter/office/5684.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mc-pherson-animal-shelter-5684/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5684.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 5688,
+      "slug": "mcpherson-county-humane-society-5688",
+      "name": "Mcpherson County Humane Society",
+      "address": "315 East Sutherland Street, McPherson, KS 67460",
+      "phone": "620-241-3682",
+      "image": "./img/shelter/office/5688.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mcpherson-county-humane-society-5688/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5688.jpg?f=webp&w=730"
+    }
+  ]
+}

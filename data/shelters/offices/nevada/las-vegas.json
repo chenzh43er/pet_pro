@@ -1,0 +1,193 @@
+{
+  "fetchedAt": "2026-06-27T19:23:22.241576+00:00",
+  "state": {
+    "slug": "nevada",
+    "name": "Nevada"
+  },
+  "city": {
+    "slug": "las-vegas",
+    "name": "Las Vegas",
+    "label": "Las Vegas, NV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nevada/las-vegas/",
+  "offices": [
+    {
+      "officeId": 6827,
+      "slug": "flock-for-love-of-cats-and-kittens-6827",
+      "name": "Flock for Love of Cats & Kittens",
+      "address": "PO Box 94917, Las Vegas, NV 89193",
+      "phone": "702-615-4198",
+      "image": "https://cdn.findpawpal.com/office/6827.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/flock-for-love-of-cats-and-kittens-6827/"
+    },
+    {
+      "officeId": 6828,
+      "slug": "clark-county-animal-control-6828",
+      "name": "Clark County Animal Control",
+      "address": "2601 East Sunset Road, Las Vegas, NV 89120",
+      "phone": "702-455-7710",
+      "image": "./img/shelter/office/6828.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/clark-county-animal-control-6828/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6828.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 6838,
+      "slug": "gilcrease-bird-preserve-6838",
+      "name": "Gilcrease Bird Preserve",
+      "address": "8103 Racel Street, Las Vegas, NV 89131",
+      "phone": "702-422-4224",
+      "image": "./img/shelter/office/6838.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gilcrease-bird-preserve-6838/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6838.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 6895,
+      "slug": "heaven-can-wait-animal-society-6895",
+      "name": "Heaven Can Wait Animal Society",
+      "address": "546 North Eastern Avenue, Las Vegas, NV 89101",
+      "phone": "702-227-5555",
+      "image": "./img/shelter/office/6895.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/heaven-can-wait-animal-society-6895/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6895.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 6913,
+      "slug": "independent-animal-action-6913",
+      "name": "Independent Animal Action",
+      "address": "34 Congressional Court, Las Vegas, NV 89113",
+      "phone": "702-876-4763",
+      "image": "./img/shelter/office/6913.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/independent-animal-action-6913/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6913.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 6936,
+      "slug": "gingers-rottie-rescue-6936",
+      "name": "Gingers Rottie Rescue",
+      "address": "2428 Valparaiso Street, Las Vegas, NV 89108",
+      "phone": "702-645-8294",
+      "image": "./img/shelter/office/6936.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gingers-rottie-rescue-6936/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6936.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 6938,
+      "slug": "spay-our-strays-6938",
+      "name": "Spay Our Strays",
+      "address": "PO Box 44280, Las Vegas, NV 89116",
+      "phone": "702-363-8616",
+      "image": "https://cdn.findpawpal.com/office/6938.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/spay-our-strays-6938/"
+    },
+    {
+      "officeId": 6945,
+      "slug": "nevada-society-for-the-prevention-of-cruelty-to-animals-6945",
+      "name": "Nevada Society for the Prevention of Cruelty to Animals",
+      "address": "4800 West Dewey Drive, Las Vegas, NV 89118",
+      "phone": "702-873-7722",
+      "image": "./img/shelter/office/6945.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada-society-for-the-prevention-of-cruelty-to-animals-6945/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6945.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 6968,
+      "slug": "lucky-glider-rescue-sanctuary-6968",
+      "name": "Lucky Glider Rescue Sanctuary",
+      "address": "9811 West Charleston Boulevard, Las Vegas, NV 89117",
+      "phone": "702-228-8556",
+      "image": "./img/shelter/office/6968.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lucky-glider-rescue-sanctuary-6968/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6968.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 6977,
+      "slug": "las-vegas-valley-humane-society-6977",
+      "name": "Las Vegas Valley Humane Society",
+      "address": "2250 East Tropicana Avenue, Las Vegas, NV 89119",
+      "phone": "702-434-2009",
+      "image": "./img/shelter/office/6977.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/las-vegas-valley-humane-society-6977/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6977.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 6990,
+      "slug": "las-vegas-boxer-rescue-6990",
+      "name": "Las Vegas Boxer Rescue",
+      "address": "4160 Judson Avenue, Las Vegas, NV 89115",
+      "phone": "702-531-5567",
+      "image": "./img/shelter/office/6990.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/las-vegas-boxer-rescue-6990/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6990.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 7140,
+      "slug": "american-emergency-rescue-organization-7140",
+      "name": "American Emergency Rescue Organization",
+      "address": "1117 Desert Lane, Las Vegas, NV 89102",
+      "phone": "702-940-0949",
+      "image": "./img/shelter/office/7140.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/american-emergency-rescue-organization-7140/",
+      "imageUrl": "https://cdn.findpawpal.com/office/7140.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 7149,
+      "slug": "avalon-rescue-and-rehabilitation-7149",
+      "name": "Avalon Rescue and Rehabilitation",
+      "address": "10311 Homestead Road, Las Vegas, NV 89143",
+      "phone": "505-425-7589",
+      "image": "./img/shelter/office/7149.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/avalon-rescue-and-rehabilitation-7149/",
+      "imageUrl": "https://cdn.findpawpal.com/office/7149.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 7158,
+      "slug": "the-animal-foundation-7158",
+      "name": "The Animal Foundation",
+      "address": "655 North Mojave Road, Las Vegas, NV 89101",
+      "phone": "702-384-3333",
+      "image": "./img/shelter/office/7158.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-animal-foundation-7158/",
+      "imageUrl": "https://cdn.findpawpal.com/office/7158.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 7176,
+      "slug": "adopt-a-rescue-pet-7176",
+      "name": "Adopt A Rescue Pet",
+      "address": "1500 East Tropicana Avenue, Las Vegas, NV 89119",
+      "phone": "702-798-8663",
+      "image": "./img/shelter/office/7176.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/adopt-a-rescue-pet-7176/",
+      "imageUrl": "https://cdn.findpawpal.com/office/7176.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 7204,
+      "slug": "chihuahua-rescue-of-nevada-7204",
+      "name": "Chihuahua Rescue of Nevada",
+      "address": "3330 Las Vegas Boulevard North, Las Vegas, NV 89115",
+      "phone": "702-883-8294",
+      "image": "./img/shelter/office/7204.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/chihuahua-rescue-of-nevada-7204/",
+      "imageUrl": "https://cdn.findpawpal.com/office/7204.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 7354,
+      "slug": "las-vegas-animal-control-7354",
+      "name": "Las Vegas Animal Control",
+      "address": "416 North 7th Street, Las Vegas, NV 89101",
+      "phone": "702-229-6348",
+      "image": "./img/shelter/office/7354.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/las-vegas-animal-control-7354/",
+      "imageUrl": "https://cdn.findpawpal.com/office/7354.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 7355,
+      "slug": "clark-county-animal-control-7355",
+      "name": "Clark County Animal Control",
+      "address": "4800 West Dewey Drive, Las Vegas, NV 89118",
+      "phone": "702-455-7710",
+      "image": "./img/shelter/office/7355.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/clark-county-animal-control-7355/",
+      "imageUrl": "https://cdn.findpawpal.com/office/7355.jpg?f=webp&w=730"
+    }
+  ]
+}

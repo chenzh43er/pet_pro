@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:47:49.942517+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "riverwoods",
+    "name": "Riverwoods",
+    "label": "Riverwoods, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/riverwoods/",
+  "offices": [
+    {
+      "officeId": 523080,
+      "slug": "orphans-of-the-storm-animal-shelter-523080",
+      "name": "Orphans of the Storm Animal Shelter",
+      "address": "2200 Riverwoods Road, Riverwoods, IL 60015",
+      "phone": "847-945-0235",
+      "image": "./img/shelter/office/523080.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/orphans-of-the-storm-animal-shelter-523080/",
+      "imageUrl": "https://cdn.findpawpal.com/office/523080.jpg?f=webp&w=730"
+    }
+  ]
+}

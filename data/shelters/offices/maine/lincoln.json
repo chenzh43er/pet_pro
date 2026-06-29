@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:01:51.928168+00:00",
+  "state": {
+    "slug": "maine",
+    "name": "Maine"
+  },
+  "city": {
+    "slug": "lincoln",
+    "name": "Lincoln",
+    "label": "Lincoln, ME"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maine/lincoln/",
+  "offices": [
+    {
+      "officeId": 323428,
+      "slug": "penobscot-valley-humane-society-323428",
+      "name": "Penobscot Valley Humane Society",
+      "address": "1 Park Avenue, Lincoln, ME 04457",
+      "phone": "207-794-3457",
+      "image": "./img/shelter/office/323428.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/penobscot-valley-humane-society-323428/",
+      "imageUrl": "https://cdn.findpawpal.com/office/323428.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "fetchedAt": "2026-06-27T19:00:42.368157+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "shreveport",
+    "name": "Shreveport",
+    "label": "Shreveport, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/shreveport/",
+  "offices": [
+    {
+      "officeId": 225453,
+      "slug": "hopeful-haven-equine-rescue-225453",
+      "name": "Hopeful Haven Equine Rescue",
+      "address": "PO Box 17763, Shreveport, LA 71138",
+      "phone": "318-286-3116",
+      "image": "https://cdn.findpawpal.com/office/225453.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/hopeful-haven-equine-rescue-225453/"
+    },
+    {
+      "officeId": 227009,
+      "slug": "caddo-parish-animal-control-227009",
+      "name": "Caddo Parish Animal Control",
+      "address": "1500 Monty Street, Shreveport, LA 71107",
+      "phone": "318-226-6624",
+      "image": "./img/shelter/office/227009.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/caddo-parish-animal-control-227009/",
+      "imageUrl": "https://cdn.findpawpal.com/office/227009.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 243700,
+      "slug": "pet-savers-243700",
+      "name": "Pet Savers",
+      "address": "4380 Noyes Drive, Shreveport, LA 71119",
+      "phone": "318-636-0400",
+      "image": "./img/shelter/office/243700.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-savers-243700/",
+      "imageUrl": "https://cdn.findpawpal.com/office/243700.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 243709,
+      "slug": "humane-society-of-northwest-louisiana-243709",
+      "name": "Humane Society of Northwest Louisiana",
+      "address": "3511 Youree Drive, Shreveport, LA 71105",
+      "phone": "318-219-7387",
+      "image": "./img/shelter/office/243709.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-northwest-louisiana-243709/",
+      "imageUrl": "https://cdn.findpawpal.com/office/243709.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 243718,
+      "slug": "steves-snaketuary-243718",
+      "name": "Steve's Snaketuary",
+      "address": "440 Mars Drive, Shreveport, LA 71106",
+      "phone": "318-525-6241",
+      "image": "./img/shelter/office/243718.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/steves-snaketuary-243718/",
+      "imageUrl": "https://cdn.findpawpal.com/office/243718.jpg?f=webp&w=730"
+    }
+  ]
+}

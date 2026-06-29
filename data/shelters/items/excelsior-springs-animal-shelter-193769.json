@@ -1,0 +1,21 @@
+{
+  "officeId": 193769,
+  "slug": "excelsior-springs-animal-shelter-193769",
+  "name": "Excelsior Springs Animal Shelter",
+  "address": "805 Lake Maurer Road, Excelsior Springs, MO 64024",
+  "street": "805 Lake Maurer Road",
+  "addressCity": "Excelsior Springs",
+  "stateCode": "MO",
+  "zip": "64024",
+  "phone": "816-630-0816",
+  "image": "./img/shelter/office/193769.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/excelsior-springs-animal-shelter-193769/",
+  "stateSlug": "missouri",
+  "stateName": "Missouri",
+  "citySlug": "excelsior-springs",
+  "cityName": "Excelsior Springs",
+  "cityLabel": "Excelsior Springs, MO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/missouri/excelsior-springs/",
+  "fetchedAt": "2026-06-27T19:18:32.676717+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/193769.jpg?f=webp&w=730"
+}

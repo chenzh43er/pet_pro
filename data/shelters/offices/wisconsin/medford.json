@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:23:21.344043+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "medford",
+    "name": "Medford",
+    "label": "Medford, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/medford/",
+  "offices": [
+    {
+      "officeId": 514543,
+      "slug": "a-gentle-heart-animal-shelter-514543",
+      "name": "A Gentle Heart Animal Shelter",
+      "address": "336 North 3rd Street, Medford, WI 54451",
+      "phone": "715-748-9699",
+      "image": "./img/shelter/office/514543.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/a-gentle-heart-animal-shelter-514543/",
+      "imageUrl": "https://cdn.findpawpal.com/office/514543.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 632131,
+      "slug": "taylor-county-wi-humane-society-632131",
+      "name": "Taylor County Wi Humane Society",
+      "address": "N3090 Bauer Dr, Medford, WI 54451",
+      "phone": "715-748-6750",
+      "image": "./img/shelter/office/632131.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/taylor-county-wi-humane-society-632131/",
+      "imageUrl": "https://cdn.findpawpal.com/office/632131.jpg?f=webp&w=730"
+    }
+  ]
+}

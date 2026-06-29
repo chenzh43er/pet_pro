@@ -1,0 +1,21 @@
+{
+  "officeId": 332022,
+  "slug": "beacon-animal-control-332022",
+  "name": "Beacon Animal Control",
+  "address": "1 Municipal Plaza, Beacon, NY 12508",
+  "street": "1 Municipal Plaza",
+  "addressCity": "Beacon",
+  "stateCode": "NY",
+  "zip": "12508",
+  "phone": "914-831-1765",
+  "image": "./img/shelter/office/332022.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/beacon-animal-control-332022/",
+  "stateSlug": "new-york",
+  "stateName": "New York",
+  "citySlug": "beacon",
+  "cityName": "Beacon",
+  "cityLabel": "Beacon, NY",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-york/beacon/",
+  "fetchedAt": "2026-06-27T19:31:53.772965+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/332022.jpg?f=webp&w=730"
+}

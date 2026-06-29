@@ -1,0 +1,21 @@
+{
+  "officeId": 582231,
+  "slug": "centralia-animal-shelter-582231",
+  "name": "Centralia Animal Shelter",
+  "address": "222 South Poplar Street, Centralia, IL 62801",
+  "street": "222 South Poplar Street",
+  "addressCity": "Centralia",
+  "stateCode": "IL",
+  "zip": "62801",
+  "phone": "618-533-7647",
+  "image": "./img/shelter/office/582231.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/centralia-animal-shelter-582231/",
+  "stateSlug": "illinois",
+  "stateName": "Illinois",
+  "citySlug": "centralia",
+  "cityName": "Centralia",
+  "cityLabel": "Centralia, IL",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/illinois/centralia/",
+  "fetchedAt": "2026-06-27T18:44:37.827914+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/582231.jpg?f=webp&w=730"
+}

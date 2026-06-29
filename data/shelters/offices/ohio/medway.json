@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:45:30.017300+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "medway",
+    "name": "Medway",
+    "label": "Medway, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/medway/",
+  "offices": [
+    {
+      "officeId": 586951,
+      "slug": "new-carlisle-friends-of-felines-inc-586951",
+      "name": "New Carlisle Friends of Felines, Inc.",
+      "address": "PO Box 232, Medway, OH 45341",
+      "phone": "937-845-3334",
+      "image": "https://cdn.findpawpal.com/office/586951.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/new-carlisle-friends-of-felines-inc-586951/"
+    }
+  ]
+}

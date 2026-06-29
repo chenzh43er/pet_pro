@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:01:54.862423+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "shelbyville",
+    "name": "Shelbyville",
+    "label": "Shelbyville, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/shelbyville/",
+  "offices": [
+    {
+      "officeId": 459901,
+      "slug": "shelbyville-bedford-county-humane-association-459901",
+      "name": "Shelbyville-Bedford County Humane Association",
+      "address": "PO Box 391, Shelbyville, TN 37162",
+      "phone": "931-684-5463",
+      "image": "./img/shelter/office/459901.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/shelbyville-bedford-county-humane-association-459901/",
+      "imageUrl": "https://cdn.findpawpal.com/office/459901.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 460883,
+      "slug": "horse-rescue-mid-south-inc-460883",
+      "name": "Horse Rescue Mid-South, Inc.",
+      "address": "331 Womble Road, Shelbyville, TN 37160",
+      "phone": "931-433-0344",
+      "image": "./img/shelter/office/460883.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/horse-rescue-mid-south-inc-460883/",
+      "imageUrl": "https://cdn.findpawpal.com/office/460883.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:11:07.967228+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "howell",
+    "name": "Howell",
+    "label": "Howell, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/howell/",
+  "offices": [
+    {
+      "officeId": 203312,
+      "slug": "livingston-county-animal-control-203312",
+      "name": "Livingston County Animal Control",
+      "address": "418 South Highlander Way, Howell, MI 48843",
+      "phone": "517-546-2154",
+      "image": "./img/shelter/office/203312.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/livingston-county-animal-control-203312/",
+      "imageUrl": "https://cdn.findpawpal.com/office/203312.jpg?f=webp&w=730"
+    }
+  ]
+}

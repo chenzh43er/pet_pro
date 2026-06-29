@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:52:22.882386+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "covington",
+    "name": "Covington",
+    "label": "Covington, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/covington/",
+  "offices": [
+    {
+      "officeId": 688389,
+      "slug": "covington-town-shelter-688389",
+      "name": "Covington Town Shelter",
+      "address": "354 Freytown Rd, Covington, PA 18424",
+      "phone": "855-823-3023",
+      "image": "https://cdn.findpawpal.com/office/688389.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/covington-town-shelter-688389/"
+    }
+  ]
+}

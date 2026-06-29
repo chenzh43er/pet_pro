@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:14:08.304529+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "eastpoint",
+    "name": "Eastpoint",
+    "label": "Eastpoint, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/eastpoint/",
+  "offices": [
+    {
+      "slug": "franklin-county-humane-society-355135",
+      "name": "Franklin County Humane Society",
+      "address": "244 Highway 65, Eastpoint, FL 32328",
+      "phone": "850-670-8417",
+      "image": "./img/shelter/office/355135.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/franklin-county-humane-society-355135/",
+      "imageUrl": "https://cdn.findpawpal.com/office/355135.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:11:00.451476+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "hazel-park",
+    "name": "Hazel Park",
+    "label": "Hazel Park, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/hazel-park/",
+  "offices": [
+    {
+      "officeId": 191083,
+      "slug": "hazel-park-animal-control-191083",
+      "name": "Hazel Park Animal Control",
+      "address": "24211 Couzens Avenue, Hazel Park, MI 48030",
+      "phone": "248-546-4096",
+      "image": "./img/shelter/office/191083.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hazel-park-animal-control-191083/",
+      "imageUrl": "https://cdn.findpawpal.com/office/191083.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 206639,
+      "slug": "making-miracles-animal-rescue-206639",
+      "name": "Making Miracles Animal Rescue",
+      "address": "PO Box 926, Hazel Park, MI 48030",
+      "phone": "",
+      "image": "./img/shelter/office/206639.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/making-miracles-animal-rescue-206639/",
+      "imageUrl": "https://cdn.findpawpal.com/office/206639.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 236142,
+      "slug": "furget-us-not-rescue-236142",
+      "name": "Furget Us Not Rescue",
+      "address": "PO Box 1053, Hazel Park, MI 48030",
+      "phone": "",
+      "image": "./img/shelter/office/236142.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/furget-us-not-rescue-236142/",
+      "imageUrl": "https://cdn.findpawpal.com/office/236142.jpg?f=webp&w=730"
+    }
+  ]
+}

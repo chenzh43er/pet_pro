@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:43:14.722487+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "brookville",
+    "name": "Brookville",
+    "label": "Brookville, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/brookville/",
+  "offices": [
+    {
+      "officeId": 431833,
+      "slug": "greater-dayton-labrador-retriever-rescue-431833",
+      "name": "Greater Dayton Labrador Retriever Rescue",
+      "address": "375 Baker Street, Brookville, OH 45309",
+      "phone": "",
+      "image": "./img/shelter/office/431833.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greater-dayton-labrador-retriever-rescue-431833/",
+      "imageUrl": "https://cdn.findpawpal.com/office/431833.jpg?f=webp&w=730"
+    }
+  ]
+}

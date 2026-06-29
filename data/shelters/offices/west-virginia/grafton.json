@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:20:30.871735+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "grafton",
+    "name": "Grafton",
+    "label": "Grafton, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/grafton/",
+  "offices": [
+    {
+      "officeId": 507564,
+      "slug": "taylor-county-humane-society-507564",
+      "name": "Taylor County Humane Society",
+      "address": "Riverside Drive, Grafton, WV 26354",
+      "phone": "304-265-4215",
+      "image": "./img/shelter/office/507564.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/taylor-county-humane-society-507564/",
+      "imageUrl": "https://cdn.findpawpal.com/office/507564.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 618960,
+      "slug": "p-u-r-r-west-virginia-618960",
+      "name": "P.U.R.R. West Virginia",
+      "address": "306 Beech Street, Grafton, WV 26354",
+      "phone": "304-265-4671",
+      "image": "./img/shelter/office/618960.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/p-u-r-r-west-virginia-618960/",
+      "imageUrl": "https://cdn.findpawpal.com/office/618960.jpg?f=webp&w=730"
+    }
+  ]
+}

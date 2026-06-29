@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T19:27:38.607678+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "montville",
+    "name": "Montville",
+    "label": "Montville, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/montville/",
+  "offices": [
+    {
+      "officeId": 100895,
+      "slug": "montville-township-animal-wrdn-100895",
+      "name": "Montville Township Animal Wrdn",
+      "address": "86 River Road, Montville, NJ 07045",
+      "phone": "973-334-6410",
+      "image": "https://cdn.findpawpal.com/office/100895.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/montville-township-animal-wrdn-100895/"
+    },
+    {
+      "officeId": 107040,
+      "slug": "montville-township-animal-control-107040",
+      "name": "Montville Township Animal Control",
+      "address": "86 River Road, Montville, NJ 07045",
+      "phone": "973-334-6410",
+      "image": "https://cdn.findpawpal.com/office/107040.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/montville-township-animal-control-107040/"
+    }
+  ]
+}

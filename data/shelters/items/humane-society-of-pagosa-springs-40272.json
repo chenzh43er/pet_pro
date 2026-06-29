@@ -1,0 +1,21 @@
+{
+  "officeId": 40272,
+  "slug": "humane-society-of-pagosa-springs-40272",
+  "name": "Humane Society of Pagosa Springs",
+  "address": "PO Box 1012, Pagosa Springs, CO 81147",
+  "street": "PO Box 1012",
+  "addressCity": "Pagosa Springs",
+  "stateCode": "CO",
+  "zip": "81147",
+  "phone": "970-264-5549",
+  "image": "./img/shelter/office/40272.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-pagosa-springs-40272/",
+  "stateSlug": "colorado",
+  "stateName": "Colorado",
+  "citySlug": "pagosa-springs",
+  "cityName": "Pagosa Springs",
+  "cityLabel": "Pagosa Springs, CO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/colorado/pagosa-springs/",
+  "fetchedAt": "2026-06-27T18:34:56.029524+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/40272.jpg?f=webp&w=730"
+}

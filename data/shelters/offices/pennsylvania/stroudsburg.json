@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:55:06.757588+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "stroudsburg",
+    "name": "Stroudsburg",
+    "label": "Stroudsburg, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/stroudsburg/",
+  "offices": [
+    {
+      "officeId": 474471,
+      "slug": "monroe-animal-league-474471",
+      "name": "Monroe Animal League",
+      "address": "112 North 8th Street, Stroudsburg, PA 18360",
+      "phone": "570-421-7775",
+      "image": "./img/shelter/office/474471.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/monroe-animal-league-474471/",
+      "imageUrl": "https://cdn.findpawpal.com/office/474471.jpg?f=webp&w=730"
+    }
+  ]
+}

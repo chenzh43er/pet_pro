@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:40:47.506724+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "ocean-isle-beach",
+    "name": "Ocean Isle Beach",
+    "label": "Ocean Isle Beach, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/ocean-isle-beach/",
+  "offices": [
+    {
+      "officeId": 240713,
+      "slug": "carolina-dal-pals-dalmatian-rescue-inc-240713",
+      "name": "Carolina Dal Pals Dalmatian Rescue, Inc.",
+      "address": "50 Green Bay Road Northwest, Ocean Isle Beach, NC 28469",
+      "phone": "910-575-3141",
+      "image": "./img/shelter/office/240713.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/carolina-dal-pals-dalmatian-rescue-inc-240713/",
+      "imageUrl": "https://cdn.findpawpal.com/office/240713.jpg?f=webp&w=730"
+    }
+  ]
+}

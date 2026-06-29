@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:12:47.009680+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "st-ignace",
+    "name": "St. Ignace",
+    "label": "St. Ignace, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/st-ignace/",
+  "offices": [
+    {
+      "officeId": 209176,
+      "slug": "mackinac-county-animal-control-209176",
+      "name": "Mackinac County Animal Control",
+      "address": "980 Cheeseman Road, St. Ignace, MI 49781",
+      "phone": "906-643-7646",
+      "image": "./img/shelter/office/209176.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mackinac-county-animal-control-209176/",
+      "imageUrl": "https://cdn.findpawpal.com/office/209176.jpg?f=webp&w=730"
+    }
+  ]
+}

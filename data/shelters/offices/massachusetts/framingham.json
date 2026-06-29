@@ -1,0 +1,43 @@
+{
+  "fetchedAt": "2026-06-27T19:06:16.639695+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "framingham",
+    "name": "Framingham",
+    "label": "Framingham, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/framingham/",
+  "offices": [
+    {
+      "officeId": 40206,
+      "slug": "metrowest-humane-society-40206",
+      "name": "Metrowest Humane Society",
+      "address": "PO Box 1068, Framingham, MA 01701",
+      "phone": "508-875-3776",
+      "image": "https://cdn.findpawpal.com/office/40206.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/metrowest-humane-society-40206/"
+    },
+    {
+      "officeId": 40296,
+      "slug": "save-a-dog-40296",
+      "name": "Save A Dog",
+      "address": "PO Box 1108, Framingham, MA 01701",
+      "phone": "508-877-1407",
+      "image": "https://cdn.findpawpal.com/office/40296.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/save-a-dog-40296/"
+    },
+    {
+      "officeId": 41822,
+      "slug": "framingham-animal-control-41822",
+      "name": "Framingham Animal Control",
+      "address": "50 Western Avenue, Framingham, MA 01702",
+      "phone": "508-532-5870",
+      "image": "./img/shelter/office/41822.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/framingham-animal-control-41822/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41822.jpg?f=webp&w=730"
+    }
+  ]
+}

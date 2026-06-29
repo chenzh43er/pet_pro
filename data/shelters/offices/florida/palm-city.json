@@ -1,0 +1,32 @@
+{
+  "fetchedAt": "2026-06-27T18:16:29.326947+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "palm-city",
+    "name": "Palm City",
+    "label": "Palm City, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/palm-city/",
+  "offices": [
+    {
+      "slug": "humane-society-of-treasure-coast-272735",
+      "name": "Humane Society of Treasure Coast",
+      "address": "4100 Southwest Leighton Farm Avenue, Palm City, FL 34990",
+      "phone": "772-223-8822",
+      "image": "./img/shelter/office/272735.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-treasure-coast-272735/",
+      "imageUrl": "https://cdn.findpawpal.com/office/272735.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "palm-city-animal-control-286530",
+      "name": "Palm City Animal Control",
+      "address": "6452 Southwest Markel Street, Palm City, FL 34990",
+      "phone": "772-219-8311",
+      "image": "https://cdn.findpawpal.com/office/286530.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/palm-city-animal-control-286530/"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:42:39.905044+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "alliance",
+    "name": "Alliance",
+    "label": "Alliance, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/alliance/",
+  "offices": [
+    {
+      "officeId": 431232,
+      "slug": "minervas-den-reptile-and-exotics-rescue-431232",
+      "name": "Minerva's Den Reptile and Exotics Rescue",
+      "address": "22243 Lake Park Boulevard, Alliance, OH 44601",
+      "phone": "",
+      "image": "./img/shelter/office/431232.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/minervas-den-reptile-and-exotics-rescue-431232/",
+      "imageUrl": "https://cdn.findpawpal.com/office/431232.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 640368,
+      "slug": "alliance-for-animals-640368",
+      "name": "Alliance for Animals",
+      "address": "1472 West State Street, Alliance, OH 44601",
+      "phone": "330-821-4370",
+      "image": "./img/shelter/office/640368.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/alliance-for-animals-640368/",
+      "imageUrl": "https://cdn.findpawpal.com/office/640368.jpg?f=webp&w=730"
+    }
+  ]
+}

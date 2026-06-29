@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:11:32.121992+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "madison-heights",
+    "name": "Madison Heights",
+    "label": "Madison Heights, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/madison-heights/",
+  "offices": [
+    {
+      "officeId": 202964,
+      "slug": "city-of-madison-heights-animal-shelter-202964",
+      "name": "City of Madison Heights Animal Shelter",
+      "address": "801 Ajax Drive, Madison Heights, MI 48071",
+      "phone": "248-837-2745",
+      "image": "./img/shelter/office/202964.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/city-of-madison-heights-animal-shelter-202964/",
+      "imageUrl": "https://cdn.findpawpal.com/office/202964.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 205328,
+      "slug": "animal-welfare-society-205328",
+      "name": "Animal Welfare Society",
+      "address": "27796 John R Road, Madison Heights, MI 48071",
+      "phone": "248-548-1150",
+      "image": "./img/shelter/office/205328.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-welfare-society-205328/",
+      "imageUrl": "https://cdn.findpawpal.com/office/205328.jpg?f=webp&w=730"
+    }
+  ]
+}

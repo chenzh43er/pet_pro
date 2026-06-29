@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T19:42:17.875776+00:00",
+  "state": {
+    "slug": "north-dakota",
+    "name": "North Dakota"
+  },
+  "city": {
+    "slug": "dickinson",
+    "name": "Dickinson",
+    "label": "Dickinson, ND"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-dakota/dickinson/",
+  "offices": [
+    {
+      "officeId": 536796,
+      "slug": "oreos-animal-rescue-536796",
+      "name": "Oreo's Animal Rescue",
+      "address": "93 21st Street East, Dickinson, ND 58601",
+      "phone": "701-483-0240",
+      "image": "./img/shelter/office/536796.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/oreos-animal-rescue-536796/",
+      "imageUrl": "https://cdn.findpawpal.com/office/536796.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 610920,
+      "slug": "pet-project-inc-610920",
+      "name": "Pet Project, Inc.",
+      "address": "PO Box 370, Dickinson, ND 58602",
+      "phone": "701-483-1720",
+      "image": "./img/shelter/office/610920.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-project-inc-610920/",
+      "imageUrl": "https://cdn.findpawpal.com/office/610920.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 678634,
+      "slug": "badlands-animal-league-678634",
+      "name": "Badlands Animal League",
+      "address": "4661 105th Avenue Southwest, Dickinson, ND 58601",
+      "phone": "701-225-6007",
+      "image": "https://cdn.findpawpal.com/office/678634.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/badlands-animal-league-678634/"
+    }
+  ]
+}

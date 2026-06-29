@@ -1,0 +1,21 @@
+{
+  "officeId": 589056,
+  "slug": "wakefield-animal-shelter-589056",
+  "name": "Wakefield Animal Shelter",
+  "address": "506 Curtis Corner Road, South Kingstown, RI 02879",
+  "street": "506 Curtis Corner Road",
+  "addressCity": "South Kingstown",
+  "stateCode": "RI",
+  "zip": "02879",
+  "phone": "401-783-7606",
+  "image": "./img/shelter/office/589056.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/wakefield-animal-shelter-589056/",
+  "stateSlug": "rhode-island",
+  "stateName": "Rhode Island",
+  "citySlug": "south-kingstown",
+  "cityName": "South Kingstown",
+  "cityLabel": "South Kingstown, RI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/rhode-island/south-kingstown/",
+  "fetchedAt": "2026-06-27T19:56:32.171974+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/589056.jpg?f=webp&w=730"
+}

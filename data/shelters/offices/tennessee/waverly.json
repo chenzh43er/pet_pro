@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:02:17.546444+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "waverly",
+    "name": "Waverly",
+    "label": "Waverly, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/waverly/",
+  "offices": [
+    {
+      "officeId": 574155,
+      "slug": "waverly-animal-shelter-574155",
+      "name": "Waverly Animal Shelter",
+      "address": "108 Young Road, Waverly, TN 37185",
+      "phone": "931-296-7319",
+      "image": "./img/shelter/office/574155.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/waverly-animal-shelter-574155/",
+      "imageUrl": "https://cdn.findpawpal.com/office/574155.jpg?f=webp&w=730"
+    }
+  ]
+}

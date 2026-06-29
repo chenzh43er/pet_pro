@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:34:55.072737+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "medina",
+    "name": "Medina",
+    "label": "Medina, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/medina/",
+  "offices": [
+    {
+      "officeId": 330266,
+      "slug": "paws-n-claws-animal-rescue-of-wny-330266",
+      "name": "PAWS N Claws Animal Rescue of Wny",
+      "address": "PO Box 405, Medina, NY 14103",
+      "phone": "585-234-1608",
+      "image": "https://cdn.findpawpal.com/office/330266.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/paws-n-claws-animal-rescue-of-wny-330266/"
+    }
+  ]
+}

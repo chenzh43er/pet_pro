@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:23:58.450072+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "avalon",
+    "name": "Avalon",
+    "label": "Avalon, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/avalon/",
+  "offices": [
+    {
+      "officeId": 667792,
+      "slug": "avalon-humane-society-667792",
+      "name": "Avalon Humane Society",
+      "address": "PO Box 1584, Avalon, CA 90704",
+      "phone": "562-510-2135",
+      "image": "./img/shelter/office/667792.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/avalon-humane-society-667792/",
+      "imageUrl": "https://cdn.findpawpal.com/office/667792.jpg?f=webp&w=730"
+    }
+  ]
+}

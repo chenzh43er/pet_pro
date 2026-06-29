@@ -1,0 +1,21 @@
+{
+  "officeId": 436091,
+  "slug": "spring-farm-cares-436091",
+  "name": "Spring Farm Cares",
+  "address": "3364 Route 12, Clinton, NY 13323",
+  "street": "3364 Route 12",
+  "addressCity": "Clinton",
+  "stateCode": "NY",
+  "zip": "13323",
+  "phone": "315-737-9339",
+  "image": "./img/shelter/office/436091.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/spring-farm-cares-436091/",
+  "stateSlug": "new-york",
+  "stateName": "New York",
+  "citySlug": "clinton",
+  "cityName": "Clinton",
+  "cityLabel": "Clinton, NY",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-york/clinton/",
+  "fetchedAt": "2026-06-27T19:32:34.683201+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/436091.jpg?f=webp&w=730"
+}

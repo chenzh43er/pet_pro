@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:03:07.214753+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "chesapeake-city",
+    "name": "Chesapeake City",
+    "label": "Chesapeake City, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/chesapeake-city/",
+  "offices": [
+    {
+      "officeId": 552708,
+      "slug": "cecil-county-spca-552708",
+      "name": "Cecil County SPCA",
+      "address": "3280 Augustine Herman Highway, Chesapeake City, MD 21915",
+      "phone": "410-885-2342",
+      "image": "https://cdn.findpawpal.com/office/552708.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/cecil-county-spca-552708/"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:24:50.316709+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "chico",
+    "name": "Chico",
+    "label": "Chico, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/chico/",
+  "offices": [
+    {
+      "slug": "city-of-chico-animal-shelter-380920",
+      "name": "City of Chico Animal Shelter",
+      "address": "2579 Fair Street, Chico, CA 95928",
+      "phone": "530-894-5630",
+      "image": "./img/shelter/office/380920.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/city-of-chico-animal-shelter-380920/",
+      "imageUrl": "https://cdn.findpawpal.com/office/380920.jpg?f=webp&w=730"
+    }
+  ]
+}

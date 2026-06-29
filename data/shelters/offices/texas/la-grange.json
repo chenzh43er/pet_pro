@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:06:27.632435+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "la-grange",
+    "name": "La Grange",
+    "label": "La Grange, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/la-grange/",
+  "offices": [
+    {
+      "officeId": 540192,
+      "slug": "fayette-county-animal-shelter-540192",
+      "name": "Fayette County Animal Shelter",
+      "address": "240 Svoboda Lane, La Grange, TX 78945",
+      "phone": "979-966-0021",
+      "image": "./img/shelter/office/540192.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fayette-county-animal-shelter-540192/",
+      "imageUrl": "https://cdn.findpawpal.com/office/540192.jpg?f=webp&w=730"
+    }
+  ]
+}

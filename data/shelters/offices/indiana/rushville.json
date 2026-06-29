@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:51:54.512371+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "rushville",
+    "name": "Rushville",
+    "label": "Rushville, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/rushville/",
+  "offices": [
+    {
+      "officeId": 215371,
+      "slug": "rushville-animal-shelter-215371",
+      "name": "Rushville Animal Shelter",
+      "address": "223 South Smiley Avenue, Rushville, IN 46173",
+      "phone": "765-932-4754",
+      "image": "./img/shelter/office/215371.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rushville-animal-shelter-215371/",
+      "imageUrl": "https://cdn.findpawpal.com/office/215371.jpg?f=webp&w=730"
+    }
+  ]
+}

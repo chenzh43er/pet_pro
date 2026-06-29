@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:50:30.435495+00:00",
+  "state": {
+    "slug": "oregon",
+    "name": "Oregon"
+  },
+  "city": {
+    "slug": "fossil",
+    "name": "Fossil",
+    "label": "Fossil, OR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oregon/fossil/",
+  "offices": [
+    {
+      "officeId": 723166,
+      "slug": "animal-rescue-foundation-723166",
+      "name": "Animal Rescue Foundation",
+      "address": "41814 Alder Creek Road, Fossil, OR 97830",
+      "phone": "541-468-2056",
+      "image": "https://cdn.findpawpal.com/office/723166.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-rescue-foundation-723166/"
+    }
+  ]
+}

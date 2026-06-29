@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:38:48.546823+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "cornelius",
+    "name": "Cornelius",
+    "label": "Cornelius, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/cornelius/",
+  "offices": [
+    {
+      "officeId": 228959,
+      "slug": "cornelius-animal-shelter-228959",
+      "name": "Cornelius Animal Shelter",
+      "address": "19110 Meridian Street, Cornelius, NC 28031",
+      "phone": "704-237-3602",
+      "image": "./img/shelter/office/228959.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cornelius-animal-shelter-228959/",
+      "imageUrl": "https://cdn.findpawpal.com/office/228959.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 230681,
+      "slug": "catering-to-cats-and-dogs-inc-230681",
+      "name": "Catering to Cats and Dogs, Inc.",
+      "address": "PO Box 123, Cornelius, NC 28031",
+      "phone": "704-408-2350",
+      "image": "./img/shelter/office/230681.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/catering-to-cats-and-dogs-inc-230681/",
+      "imageUrl": "https://cdn.findpawpal.com/office/230681.jpg?f=webp&w=730"
+    }
+  ]
+}

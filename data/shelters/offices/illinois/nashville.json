@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:47:12.230297+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "nashville",
+    "name": "Nashville",
+    "label": "Nashville, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/nashville/",
+  "offices": [
+    {
+      "officeId": 523934,
+      "slug": "washington-county-animal-control-523934",
+      "name": "Washington County Animal Control",
+      "address": "245 North Kaskaskia Street, Nashville, IL 62263",
+      "phone": "618-327-8021",
+      "image": "./img/shelter/office/523934.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/washington-county-animal-control-523934/",
+      "imageUrl": "https://cdn.findpawpal.com/office/523934.jpg?f=webp&w=730"
+    }
+  ]
+}

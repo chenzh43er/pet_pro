@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:24:46.562208+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "white-lake",
+    "name": "White Lake",
+    "label": "White Lake, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/white-lake/",
+  "offices": [
+    {
+      "officeId": 534113,
+      "slug": "humane-connection-inc-534113",
+      "name": "Humane Connection, Inc.",
+      "address": "W1497 Heise Rd, White Lake, WI 54491",
+      "phone": "715-276-7187",
+      "image": "https://cdn.findpawpal.com/office/534113.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-connection-inc-534113/"
+    }
+  ]
+}

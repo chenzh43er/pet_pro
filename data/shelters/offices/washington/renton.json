@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:18:53.180719+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "renton",
+    "name": "Renton",
+    "label": "Renton, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/renton/",
+  "offices": [
+    {
+      "officeId": 621580,
+      "slug": "japanese-chin-dog-rescue-621580",
+      "name": "Japanese Chin Dog Rescue",
+      "address": "1414 Harrington Avenue Southeast, Renton, WA 98058",
+      "phone": "425-255-7119",
+      "image": "./img/shelter/office/621580.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/japanese-chin-dog-rescue-621580/",
+      "imageUrl": "https://cdn.findpawpal.com/office/621580.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 664461,
+      "slug": "renton-animal-control-664461",
+      "name": "Renton Animal Control",
+      "address": "155 Southwest Grady Way, Renton, WA 98057",
+      "phone": "425-430-7550",
+      "image": "./img/shelter/office/664461.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/renton-animal-control-664461/",
+      "imageUrl": "https://cdn.findpawpal.com/office/664461.jpg?f=webp&w=730"
+    }
+  ]
+}

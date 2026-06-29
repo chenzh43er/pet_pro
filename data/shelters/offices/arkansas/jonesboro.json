@@ -1,0 +1,41 @@
+{
+  "fetchedAt": "2026-06-27T18:22:31.854178+00:00",
+  "state": {
+    "slug": "arkansas",
+    "name": "Arkansas"
+  },
+  "city": {
+    "slug": "jonesboro",
+    "name": "Jonesboro",
+    "label": "Jonesboro, AR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arkansas/jonesboro/",
+  "offices": [
+    {
+      "slug": "nea-humane-society-251323",
+      "name": "NEA Humane Society",
+      "address": "6111 East Highland Drive, Jonesboro, AR 72401",
+      "phone": "870-932-5185",
+      "image": "./img/shelter/office/251323.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/nea-humane-society-251323/",
+      "imageUrl": "https://cdn.findpawpal.com/office/251323.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jonesboro-animal-control-shelter-267602",
+      "name": "Jonesboro Animal Control Shelter",
+      "address": "6119 East Highland Drive, Jonesboro, AR 72401",
+      "phone": "870-935-3920",
+      "image": "https://cdn.findpawpal.com/office/267602.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/jonesboro-animal-control-shelter-267602/"
+    },
+    {
+      "slug": "northeast-arkansans-for-animals-298208",
+      "name": "Northeast Arkansans for Animals",
+      "address": "1609 Dan Avenue, Jonesboro, AR 72401",
+      "phone": "870-932-1955",
+      "image": "./img/shelter/office/298208.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/northeast-arkansans-for-animals-298208/",
+      "imageUrl": "https://cdn.findpawpal.com/office/298208.jpg?f=webp&w=730"
+    }
+  ]
+}

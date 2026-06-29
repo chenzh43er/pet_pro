@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T19:00:06.627116+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "laplace",
+    "name": "Laplace",
+    "label": "Laplace, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/laplace/",
+  "offices": [
+    {
+      "officeId": 242358,
+      "slug": "riverlands-spca-242358",
+      "name": "Riverlands SPCA",
+      "address": "PO Box 223, Laplace, LA 70069",
+      "phone": "504-652-7722",
+      "image": "https://cdn.findpawpal.com/office/242358.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/riverlands-spca-242358/"
+    },
+    {
+      "officeId": 244008,
+      "slug": "st-john-parish-animal-shelter-244008",
+      "name": "St John Parish Animal Shelter",
+      "address": "488 West 2nd Street, Laplace, LA 70068",
+      "phone": "985-651-7387",
+      "image": "./img/shelter/office/244008.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/st-john-parish-animal-shelter-244008/",
+      "imageUrl": "https://cdn.findpawpal.com/office/244008.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 276491,
+      "slug": "st-john-humane-society-276491",
+      "name": "St. John Humane Society",
+      "address": "2133 Colonial Drive, Laplace, LA 70068",
+      "phone": "504-652-2082",
+      "image": "./img/shelter/office/276491.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/st-john-humane-society-276491/",
+      "imageUrl": "https://cdn.findpawpal.com/office/276491.jpg?f=webp&w=730"
+    }
+  ]
+}

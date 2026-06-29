@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:12:34.881304+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "sandusky",
+    "name": "Sandusky",
+    "label": "Sandusky, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/sandusky/",
+  "offices": [
+    {
+      "officeId": 227571,
+      "slug": "sanilac-county-animal-control-227571",
+      "name": "Sanilac County Animal Control",
+      "address": "35 Campbell Road, Sandusky, MI 48471",
+      "phone": "810-648-4831",
+      "image": "https://cdn.findpawpal.com/office/227571.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/sanilac-county-animal-control-227571/"
+    }
+  ]
+}

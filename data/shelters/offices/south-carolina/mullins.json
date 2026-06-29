@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:57:55.727520+00:00",
+  "state": {
+    "slug": "south-carolina",
+    "name": "South Carolina"
+  },
+  "city": {
+    "slug": "mullins",
+    "name": "Mullins",
+    "label": "Mullins, SC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-carolina/mullins/",
+  "offices": [
+    {
+      "officeId": 551663,
+      "slug": "marion-county-spca-551663",
+      "name": "Marion County SPCA",
+      "address": "PO Box 15, Mullins, SC 29574",
+      "phone": "843-464-2454",
+      "image": "./img/shelter/office/551663.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/marion-county-spca-551663/",
+      "imageUrl": "https://cdn.findpawpal.com/office/551663.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 582185,
+      "slug": "marion-county-animal-shelter-582185",
+      "name": "Marion County Animal Shelter",
+      "address": "123 Cat and Dog Rd, Mullins, SC 29574",
+      "phone": "843-423-8370",
+      "image": "./img/shelter/office/582185.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/marion-county-animal-shelter-582185/",
+      "imageUrl": "https://cdn.findpawpal.com/office/582185.jpg?f=webp&w=730"
+    }
+  ]
+}

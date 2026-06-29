@@ -1,0 +1,74 @@
+{
+  "fetchedAt": "2026-06-27T18:50:05.497426+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "fort-wayne",
+    "name": "Fort Wayne",
+    "label": "Fort Wayne, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/fort-wayne/",
+  "offices": [
+    {
+      "officeId": 201900,
+      "slug": "alliance-for-animals-201900",
+      "name": "Alliance for Animals",
+      "address": "5818 Maplecrest Road, Fort Wayne, IN 46835",
+      "phone": "",
+      "image": "./img/shelter/office/201900.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/alliance-for-animals-201900/",
+      "imageUrl": "https://cdn.findpawpal.com/office/201900.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 214724,
+      "slug": "midwest-prairie-dog-shelter-inc-214724",
+      "name": "Midwest Prairie Dog Shelter, Inc.",
+      "address": "8916 Arcola Road, Fort Wayne, IN 46818",
+      "phone": "260-704-7364",
+      "image": "./img/shelter/office/214724.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/midwest-prairie-dog-shelter-inc-214724/",
+      "imageUrl": "https://cdn.findpawpal.com/office/214724.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 214730,
+      "slug": "daws-paws-214730",
+      "name": "Daw's PAWS",
+      "address": "15288 Coldwater Road, Fort Wayne, IN 46845",
+      "phone": "260-425-0884",
+      "image": "./img/shelter/office/214730.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/daws-paws-214730/",
+      "imageUrl": "https://cdn.findpawpal.com/office/214730.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 222803,
+      "slug": "allen-county-spca-222803",
+      "name": "Allen County SPCA",
+      "address": "4914 Hanna Street, Fort Wayne, IN 46806",
+      "phone": "260-744-0454",
+      "image": "./img/shelter/office/222803.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/allen-county-spca-222803/",
+      "imageUrl": "https://cdn.findpawpal.com/office/222803.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 241529,
+      "slug": "fort-wayne-animal-care-and-control-241529",
+      "name": "Fort Wayne Animal Care & Control",
+      "address": "3020 Hillegas Road, Fort Wayne, IN 46808",
+      "phone": "260-427-1244",
+      "image": "./img/shelter/office/241529.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fort-wayne-animal-care-and-control-241529/",
+      "imageUrl": "https://cdn.findpawpal.com/office/241529.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 241573,
+      "slug": "fort-wayne-humane-society-241573",
+      "name": "Fort Wayne Humane Society",
+      "address": "3422 Taylor Street, Fort Wayne, IN 46802",
+      "phone": "219-423-7151",
+      "image": "https://cdn.findpawpal.com/office/241573.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/fort-wayne-humane-society-241573/"
+    }
+  ]
+}

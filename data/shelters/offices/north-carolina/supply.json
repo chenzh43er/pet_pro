@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:41:31.341373+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "supply",
+    "name": "Supply",
+    "label": "Supply, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/supply/",
+  "offices": [
+    {
+      "officeId": 230826,
+      "slug": "brunswick-county-animal-services-230826",
+      "name": "Brunswick County Animal Services",
+      "address": "429 Green Swamp Road Northwest, Supply, NC 28462",
+      "phone": "910-754-8204",
+      "image": "./img/shelter/office/230826.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/brunswick-county-animal-services-230826/",
+      "imageUrl": "https://cdn.findpawpal.com/office/230826.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 240706,
+      "slug": "animal-inn-inc-240706",
+      "name": "Animal Inn, Inc.",
+      "address": "385 Sellers Road Northwest, Supply, NC 28462",
+      "phone": "910-754-8899",
+      "image": "./img/shelter/office/240706.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-inn-inc-240706/",
+      "imageUrl": "https://cdn.findpawpal.com/office/240706.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:59:58.467424+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "east-ridge",
+    "name": "East Ridge",
+    "label": "East Ridge, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/east-ridge/",
+  "offices": [
+    {
+      "officeId": 460671,
+      "slug": "east-ridge-animal-shelter-460671",
+      "name": "East Ridge Animal Shelter",
+      "address": "1015 Yale Street, East Ridge, TN 37412",
+      "phone": "423-664-0271",
+      "image": "./img/shelter/office/460671.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/east-ridge-animal-shelter-460671/",
+      "imageUrl": "https://cdn.findpawpal.com/office/460671.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 574126,
+      "slug": "east-ridge-animal-shelter-574126",
+      "name": "East Ridge Animal Shelter",
+      "address": "1011 Yale Street, East Ridge, TN 37412",
+      "phone": "423-664-0271",
+      "image": "./img/shelter/office/574126.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/east-ridge-animal-shelter-574126/",
+      "imageUrl": "https://cdn.findpawpal.com/office/574126.jpg?f=webp&w=730"
+    }
+  ]
+}

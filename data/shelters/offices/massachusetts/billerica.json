@@ -1,0 +1,43 @@
+{
+  "fetchedAt": "2026-06-27T19:05:28.527456+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "billerica",
+    "name": "Billerica",
+    "label": "Billerica, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/billerica/",
+  "offices": [
+    {
+      "officeId": 40204,
+      "slug": "billerica-cat-care-coalition-40204",
+      "name": "Billerica Cat Care Coalition",
+      "address": "PO Box 141, Billerica, MA 01821",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/40204.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/billerica-cat-care-coalition-40204/"
+    },
+    {
+      "officeId": 40897,
+      "slug": "beaks-and-noses-inc-40897",
+      "name": "Beaks and Noses, Inc.",
+      "address": "19 Fuller Road, Billerica, MA 01821",
+      "phone": "978-663-4547",
+      "image": "https://cdn.findpawpal.com/office/40897.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/beaks-and-noses-inc-40897/"
+    },
+    {
+      "officeId": 41114,
+      "slug": "crested-guardians-inc-41114",
+      "name": "Crested Guardians, Inc.",
+      "address": "7 Cynthia Road, Billerica, MA 01821",
+      "phone": "978-375-2942",
+      "image": "./img/shelter/office/41114.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/crested-guardians-inc-41114/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41114.jpg?f=webp&w=730"
+    }
+  ]
+}

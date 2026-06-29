@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:59:01.682666+00:00",
+  "state": {
+    "slug": "south-dakota",
+    "name": "South Dakota"
+  },
+  "city": {
+    "slug": "pierre",
+    "name": "Pierre",
+    "label": "Pierre, SD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-dakota/pierre/",
+  "offices": [
+    {
+      "officeId": 722982,
+      "slug": "pierre-animal-control-722982",
+      "name": "Pierre Animal Control",
+      "address": "420 North Garfield Avenue, Pierre, SD 57501",
+      "phone": "605-224-8692",
+      "image": "./img/shelter/office/722982.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pierre-animal-control-722982/",
+      "imageUrl": "https://cdn.findpawpal.com/office/722982.jpg?f=webp&w=730"
+    }
+  ]
+}

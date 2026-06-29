@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:45:57.741915+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "havana",
+    "name": "Havana",
+    "label": "Havana, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/havana/",
+  "offices": [
+    {
+      "officeId": 522832,
+      "slug": "taps-no-kill-animal-shelter-522832",
+      "name": "TAPS No-Kill Animal Shelter",
+      "address": "100 North Plum Street, Havana, IL 62644",
+      "phone": "309-353-8277",
+      "image": "./img/shelter/office/522832.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/taps-no-kill-animal-shelter-522832/",
+      "imageUrl": "https://cdn.findpawpal.com/office/522832.jpg?f=webp&w=730"
+    }
+  ]
+}

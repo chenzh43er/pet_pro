@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:03:38.206019+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "glen-burnie",
+    "name": "Glen Burnie",
+    "label": "Glen Burnie, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/glen-burnie/",
+  "offices": [
+    {
+      "officeId": 394313,
+      "slug": "anne-arundel-county-animal-control-394313",
+      "name": "Anne Arundel County Animal Control",
+      "address": "7439 Baltimore Annapolis Boulevard, Glen Burnie, MD 21061",
+      "phone": "410-590-2970",
+      "image": "./img/shelter/office/394313.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/anne-arundel-county-animal-control-394313/",
+      "imageUrl": "https://cdn.findpawpal.com/office/394313.jpg?f=webp&w=730"
+    }
+  ]
+}

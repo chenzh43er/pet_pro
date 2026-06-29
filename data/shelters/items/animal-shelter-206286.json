@@ -1,0 +1,21 @@
+{
+  "officeId": 206286,
+  "slug": "animal-shelter-206286",
+  "name": "Animal Shelter",
+  "address": "5786 fairground lane, Grayling, MI 49738",
+  "street": "5786 fairground lane",
+  "addressCity": "Grayling",
+  "stateCode": "MI",
+  "zip": "49738",
+  "phone": "989-348-4117",
+  "image": "./img/shelter/office/206286.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/animal-shelter-206286/",
+  "stateSlug": "michigan",
+  "stateName": "Michigan",
+  "citySlug": "grayling",
+  "cityName": "Grayling",
+  "cityLabel": "Grayling, MI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/michigan/grayling/",
+  "fetchedAt": "2026-06-27T19:10:48.441304+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/206286.jpg?f=webp&w=730"
+}

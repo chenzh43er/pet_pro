@@ -1,0 +1,21 @@
+{
+  "officeId": 265313,
+  "slug": "bladen-county-animal-shelter-265313",
+  "name": "Bladen County Animal Shelter",
+  "address": "PO Box 188, Elizabethtown, NC 28337",
+  "street": "PO Box 188",
+  "addressCity": "Elizabethtown",
+  "stateCode": "NC",
+  "zip": "28337",
+  "phone": "910-862-6900",
+  "image": "./img/shelter/office/265313.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/bladen-county-animal-shelter-265313/",
+  "stateSlug": "north-carolina",
+  "stateName": "North Carolina",
+  "citySlug": "elizabethtown",
+  "cityName": "Elizabethtown",
+  "cityLabel": "Elizabethtown, NC",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/north-carolina/elizabethtown/",
+  "fetchedAt": "2026-06-27T19:39:11.254263+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/265313.jpg?f=webp&w=730"
+}

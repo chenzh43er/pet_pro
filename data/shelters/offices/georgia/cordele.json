@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:39:12.885553+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "cordele",
+    "name": "Cordele",
+    "label": "Cordele, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/cordele/",
+  "offices": [
+    {
+      "officeId": 147136,
+      "slug": "cordele-animal-shelter-147136",
+      "name": "Cordele Animal Shelter",
+      "address": "701 South 15th Street, Cordele, GA 31015",
+      "phone": "229-276-2547",
+      "image": "./img/shelter/office/147136.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cordele-animal-shelter-147136/",
+      "imageUrl": "https://cdn.findpawpal.com/office/147136.jpg?f=webp&w=730"
+    }
+  ]
+}

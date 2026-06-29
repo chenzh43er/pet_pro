@@ -1,0 +1,54 @@
+{
+  "fetchedAt": "2026-06-27T18:23:49.398973+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "apple-valley",
+    "name": "Apple Valley",
+    "label": "Apple Valley, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/apple-valley/",
+  "offices": [
+    {
+      "officeId": 476287,
+      "slug": "apple-valley-animal-shelter-476287",
+      "name": "Apple Valley Animal Shelter",
+      "address": "22131 Powhatan Road, Apple Valley, CA 92308",
+      "phone": "760-240-7000",
+      "image": "./img/shelter/office/476287.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/apple-valley-animal-shelter-476287/",
+      "imageUrl": "https://cdn.findpawpal.com/office/476287.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 533220,
+      "slug": "wee-bar-none-ranch-533220",
+      "name": "Wee Bar None Ranch",
+      "address": "PO Box 2908, Apple Valley, CA 92307",
+      "phone": "760-961-1859",
+      "image": "https://cdn.findpawpal.com/office/533220.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/wee-bar-none-ranch-533220/"
+    },
+    {
+      "officeId": 534640,
+      "slug": "apple-valley-town-animal-shelter-534640",
+      "name": "Apple Valley Town Animal Shelter",
+      "address": "21779 Zuni Road, Apple Valley, CA 92307",
+      "phone": "760-247-2102",
+      "image": "./img/shelter/office/534640.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/apple-valley-town-animal-shelter-534640/",
+      "imageUrl": "https://cdn.findpawpal.com/office/534640.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 668180,
+      "slug": "pal-humane-society-668180",
+      "name": "Pal Humane Society",
+      "address": "22221 Highway 18, Apple Valley, CA 92307",
+      "phone": "760-247-5120",
+      "image": "./img/shelter/office/668180.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pal-humane-society-668180/",
+      "imageUrl": "https://cdn.findpawpal.com/office/668180.jpg?f=webp&w=730"
+    }
+  ]
+}

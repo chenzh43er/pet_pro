@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:03:06.611566+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "big-spring",
+    "name": "Big Spring",
+    "label": "Big Spring, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/big-spring/",
+  "offices": [
+    {
+      "officeId": 523776,
+      "slug": "big-spring-humane-society-523776",
+      "name": "Big Spring Humane Society",
+      "address": "PO Box 823, Big Spring, TX 79721",
+      "phone": "915-267-7832",
+      "image": "./img/shelter/office/523776.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/big-spring-humane-society-523776/",
+      "imageUrl": "https://cdn.findpawpal.com/office/523776.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674182,
+      "slug": "big-spring-animal-control-674182",
+      "name": "Big Spring Animal Control",
+      "address": "400 East 4th Street, Big Spring, TX 79720",
+      "phone": "915-264-2372",
+      "image": "./img/shelter/office/674182.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/big-spring-animal-control-674182/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674182.jpg?f=webp&w=730"
+    }
+  ]
+}

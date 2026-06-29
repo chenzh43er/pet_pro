@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:02:11.525528+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "trenton",
+    "name": "Trenton",
+    "label": "Trenton, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/trenton/",
+  "offices": [
+    {
+      "officeId": 425535,
+      "slug": "gibson-county-animal-shelter-425535",
+      "name": "Gibson County Animal Shelter",
+      "address": "PO Box 126, Trenton, TN 38382",
+      "phone": "901-855-7601",
+      "image": "./img/shelter/office/425535.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gibson-county-animal-shelter-425535/",
+      "imageUrl": "https://cdn.findpawpal.com/office/425535.jpg?f=webp&w=730"
+    }
+  ]
+}

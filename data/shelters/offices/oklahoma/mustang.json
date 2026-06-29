@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:49:04.465143+00:00",
+  "state": {
+    "slug": "oklahoma",
+    "name": "Oklahoma"
+  },
+  "city": {
+    "slug": "mustang",
+    "name": "Mustang",
+    "label": "Mustang, OK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oklahoma/mustang/",
+  "offices": [
+    {
+      "officeId": 647016,
+      "slug": "mustang-animal-shelter-647016",
+      "name": "Mustang Animal Shelter",
+      "address": "520 West Southwest 59th Street, Mustang, OK 73064",
+      "phone": "405-376-2488",
+      "image": "./img/shelter/office/647016.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mustang-animal-shelter-647016/",
+      "imageUrl": "https://cdn.findpawpal.com/office/647016.jpg?f=webp&w=730"
+    }
+  ]
+}

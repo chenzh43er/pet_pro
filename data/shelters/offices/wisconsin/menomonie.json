@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:23:22.831592+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "menomonie",
+    "name": "Menomonie",
+    "label": "Menomonie, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/menomonie/",
+  "offices": [
+    {
+      "officeId": 534891,
+      "slug": "dunn-county-humane-society-534891",
+      "name": "Dunn County Humane Society",
+      "address": "302 Brick Yard Road, Menomonie, WI 54751",
+      "phone": "715-232-9790",
+      "image": "./img/shelter/office/534891.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dunn-county-humane-society-534891/",
+      "imageUrl": "https://cdn.findpawpal.com/office/534891.jpg?f=webp&w=730"
+    }
+  ]
+}

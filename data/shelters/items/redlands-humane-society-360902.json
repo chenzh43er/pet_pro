@@ -1,0 +1,21 @@
+{
+  "officeId": 360902,
+  "slug": "redlands-humane-society-360902",
+  "name": "Redlands Humane Society",
+  "address": "PO Box 1212, Redlands, CA 92373",
+  "street": "PO Box 1212",
+  "addressCity": "Redlands",
+  "stateCode": "CA",
+  "zip": "92373",
+  "phone": "909-792-6199",
+  "image": "./img/shelter/office/360902.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/redlands-humane-society-360902/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "redlands",
+  "cityName": "Redlands",
+  "cityLabel": "Redlands, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/redlands/",
+  "fetchedAt": "2026-06-27T18:29:40.272450+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/360902.jpg?f=webp&w=730"
+}

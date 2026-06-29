@@ -1,0 +1,21 @@
+{
+  "officeId": 168271,
+  "slug": "animal-shelter-168271",
+  "name": "Animal Shelter",
+  "address": "1525 East Stewart Street, Willcox, AZ 85643",
+  "street": "1525 East Stewart Street",
+  "addressCity": "Willcox",
+  "stateCode": "AZ",
+  "zip": "85643",
+  "phone": "520-384-0163",
+  "image": "./img/shelter/office/168271.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/animal-shelter-168271/",
+  "stateSlug": "arizona",
+  "stateName": "Arizona",
+  "citySlug": "willcox",
+  "cityName": "Willcox",
+  "cityLabel": "Willcox, AZ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/arizona/willcox/",
+  "fetchedAt": "2026-06-27T18:21:17.562288+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/168271.jpg?f=webp&w=730"
+}

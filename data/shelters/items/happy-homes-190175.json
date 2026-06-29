@@ -1,0 +1,21 @@
+{
+  "officeId": 190175,
+  "slug": "happy-homes-190175",
+  "name": "Happy Homes",
+  "address": "2164 Lancer Drive, Troy, MI 48084",
+  "street": "2164 Lancer Drive",
+  "addressCity": "Troy",
+  "stateCode": "MI",
+  "zip": "48084",
+  "phone": "248-703-4339",
+  "image": "./img/shelter/office/190175.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/happy-homes-190175/",
+  "stateSlug": "michigan",
+  "stateName": "Michigan",
+  "citySlug": "troy",
+  "cityName": "Troy",
+  "cityLabel": "Troy, MI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/michigan/troy/",
+  "fetchedAt": "2026-06-27T19:13:04.124679+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/190175.jpg?f=webp&w=730"
+}

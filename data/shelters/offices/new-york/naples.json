@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:35:13.293975+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "naples",
+    "name": "Naples",
+    "label": "Naples, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/naples/",
+  "offices": [
+    {
+      "officeId": 315947,
+      "slug": "lakeroad-ferret-farm-rescue-315947",
+      "name": "Lakeroad Ferret Farm Rescue",
+      "address": "7835 Route 21 South, Naples, NY 14512",
+      "phone": "716-374-8393",
+      "image": "./img/shelter/office/315947.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lakeroad-ferret-farm-rescue-315947/",
+      "imageUrl": "https://cdn.findpawpal.com/office/315947.jpg?f=webp&w=730"
+    }
+  ]
+}

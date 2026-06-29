@@ -1,0 +1,84 @@
+{
+  "fetchedAt": "2026-06-27T20:21:57.524197+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "appleton",
+    "name": "Appleton",
+    "label": "Appleton, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/appleton/",
+  "offices": [
+    {
+      "officeId": 490495,
+      "slug": "appleton-animal-adoptions-490495",
+      "name": "Appleton Animal Adoptions",
+      "address": "516 North Garfield Place, Appleton, WI 54911",
+      "phone": "920-277-9064",
+      "image": "./img/shelter/office/490495.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/appleton-animal-adoptions-490495/",
+      "imageUrl": "https://cdn.findpawpal.com/office/490495.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 520169,
+      "slug": "golden-retriever-rescue-of-wisconsin-520169",
+      "name": "Golden Retriever Rescue of Wisconsin",
+      "address": "1717 East Calumet Street, Appleton, WI 54915",
+      "phone": "888-655-4753",
+      "image": "./img/shelter/office/520169.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/golden-retriever-rescue-of-wisconsin-520169/",
+      "imageUrl": "https://cdn.findpawpal.com/office/520169.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 533773,
+      "slug": "saving-paws-533773",
+      "name": "Saving PAWS",
+      "address": "PO Box 362, Appleton, WI 54912",
+      "phone": "920-475-0274",
+      "image": "./img/shelter/office/533773.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/saving-paws-533773/",
+      "imageUrl": "https://cdn.findpawpal.com/office/533773.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 534994,
+      "slug": "wisconsin-german-shepard-rescue-534994",
+      "name": "Wisconsin German Shepard Rescue",
+      "address": "W4065 Wege Road, Appleton, WI 54913",
+      "phone": "920-731-1690",
+      "image": "https://cdn.findpawpal.com/office/534994.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/wisconsin-german-shepard-rescue-534994/"
+    },
+    {
+      "officeId": 632095,
+      "slug": "little-squirt-grooming-632095",
+      "name": "Little Squirt Grooming",
+      "address": "W6387 County Road JJ, Appleton, WI 54913",
+      "phone": "920-757-6402",
+      "image": "./img/shelter/office/632095.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/little-squirt-grooming-632095/",
+      "imageUrl": "https://cdn.findpawpal.com/office/632095.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 634193,
+      "slug": "wisconsin-state-animal-control-634193",
+      "name": "Wisconsin State Animal Control",
+      "address": "N3141 Meade Street, Appleton, WI 54913",
+      "phone": "920-830-2392",
+      "image": "./img/shelter/office/634193.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wisconsin-state-animal-control-634193/",
+      "imageUrl": "https://cdn.findpawpal.com/office/634193.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 701726,
+      "slug": "fox-valley-humane-association-701726",
+      "name": "Fox Valley Humane Association",
+      "address": "N115 2 Mile Road, Appleton, WI 54914",
+      "phone": "920-733-1717",
+      "image": "./img/shelter/office/701726.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fox-valley-humane-association-701726/",
+      "imageUrl": "https://cdn.findpawpal.com/office/701726.jpg?f=webp&w=730"
+    }
+  ]
+}

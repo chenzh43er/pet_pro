@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:10:45.446052+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "grand-ledge",
+    "name": "Grand Ledge",
+    "label": "Grand Ledge, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/grand-ledge/",
+  "offices": [
+    {
+      "officeId": 204711,
+      "slug": "mid-michigan-cat-rescue-204711",
+      "name": "Mid-Michigan Cat Rescue",
+      "address": "1117 Tulip Street, Grand Ledge, MI 48837",
+      "phone": "517-622-4653",
+      "image": "./img/shelter/office/204711.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mid-michigan-cat-rescue-204711/",
+      "imageUrl": "https://cdn.findpawpal.com/office/204711.jpg?f=webp&w=730"
+    }
+  ]
+}

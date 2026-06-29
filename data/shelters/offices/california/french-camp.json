@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:26:01.729258+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "french-camp",
+    "name": "French Camp",
+    "label": "French Camp, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/french-camp/",
+  "offices": [
+    {
+      "slug": "french-camp-animal-control-386824",
+      "name": "French Camp Animal Control",
+      "address": "777 West Mathews Road, French Camp, CA 95231",
+      "phone": "209-983-9166",
+      "image": "./img/shelter/office/386824.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/french-camp-animal-control-386824/",
+      "imageUrl": "https://cdn.findpawpal.com/office/386824.jpg?f=webp&w=730"
+    }
+  ]
+}

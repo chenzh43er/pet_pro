@@ -1,0 +1,77 @@
+{
+  "fetchedAt": "2026-06-27T18:16:20.065803+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "orlando",
+    "name": "Orlando",
+    "label": "Orlando, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/orlando/",
+  "offices": [
+    {
+      "slug": "orange-county-animal-services-273167",
+      "name": "Orange County Animal Services",
+      "address": "2769 Conroy Road, Orlando, FL 32839",
+      "phone": "407-836-3111",
+      "image": "./img/shelter/office/273167.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/orange-county-animal-services-273167/",
+      "imageUrl": "https://cdn.findpawpal.com/office/273167.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "golden-retriever-rescue-adopt-289802",
+      "name": "Golden Retriever Rescue Adopt",
+      "address": "2701 Bolton Bend, Orlando, FL 32817",
+      "phone": "407-671-9795",
+      "image": "./img/shelter/office/289802.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/golden-retriever-rescue-adopt-289802/",
+      "imageUrl": "https://cdn.findpawpal.com/office/289802.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "orlando-animal-rights-and-rescue-foundation-289806",
+      "name": "Orlando Animal Rights and Rescue Foundation",
+      "address": "230 Hazard Street, Orlando, FL 32804",
+      "phone": "",
+      "image": "./img/shelter/office/289806.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/orlando-animal-rights-and-rescue-foundation-289806/",
+      "imageUrl": "https://cdn.findpawpal.com/office/289806.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "purrr-friend-325501",
+      "name": "Purrr Friend",
+      "address": "100 South Eola Drive, Orlando, FL 32801",
+      "phone": "800-734-0533",
+      "image": "./img/shelter/office/325501.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/purrr-friend-325501/",
+      "imageUrl": "https://cdn.findpawpal.com/office/325501.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-alliance-of-greater-orlando-353329",
+      "name": "Pet Alliance of Greater Orlando",
+      "address": "2727 Conroy Road, Orlando, FL 32839",
+      "phone": "407-351-7722",
+      "image": "./img/shelter/office/353329.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-alliance-of-greater-orlando-353329/",
+      "imageUrl": "https://cdn.findpawpal.com/office/353329.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "east-orange-animal-hospital-353334",
+      "name": "East Orange Animal Hospital",
+      "address": "1563 Cricket Club Circle, Orlando, FL 32828",
+      "phone": "407-340-1914",
+      "image": "https://cdn.findpawpal.com/office/353334.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/east-orange-animal-hospital-353334/"
+    },
+    {
+      "slug": "the-pet-rescue-358866",
+      "name": "The Pet Rescue",
+      "address": "7512 Doctor Phillips Boulevard, Orlando, FL 32819",
+      "phone": "",
+      "image": "./img/shelter/office/358866.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-pet-rescue-358866/",
+      "imageUrl": "https://cdn.findpawpal.com/office/358866.jpg?f=webp&w=730"
+    }
+  ]
+}

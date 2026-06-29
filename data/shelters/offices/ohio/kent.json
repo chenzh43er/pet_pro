@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:44:53.607149+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "kent",
+    "name": "Kent",
+    "label": "Kent, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/kent/",
+  "offices": [
+    {
+      "officeId": 686501,
+      "slug": "cozy-glider-686501",
+      "name": "Cozy Glider",
+      "address": "3766 Cascades Blvd, Kent, OH 44240",
+      "phone": "440-382-9494",
+      "image": "./img/shelter/office/686501.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cozy-glider-686501/",
+      "imageUrl": "https://cdn.findpawpal.com/office/686501.jpg?f=webp&w=730"
+    }
+  ]
+}

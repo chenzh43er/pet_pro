@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:10:55.907971+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "harper-woods",
+    "name": "Harper Woods",
+    "label": "Harper Woods, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/harper-woods/",
+  "offices": [
+    {
+      "officeId": 191065,
+      "slug": "harper-woods-animal-control-191065",
+      "name": "Harper Woods Animal Control",
+      "address": "20048 Harper Avenue, Harper Woods, MI 48225",
+      "phone": "313-884-1551",
+      "image": "./img/shelter/office/191065.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/harper-woods-animal-control-191065/",
+      "imageUrl": "https://cdn.findpawpal.com/office/191065.jpg?f=webp&w=730"
+    }
+  ]
+}

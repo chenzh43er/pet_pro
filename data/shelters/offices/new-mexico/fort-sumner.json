@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:30:27.147605+00:00",
+  "state": {
+    "slug": "new-mexico",
+    "name": "New Mexico"
+  },
+  "city": {
+    "slug": "fort-sumner",
+    "name": "Fort Sumner",
+    "label": "Fort Sumner, NM"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-mexico/fort-sumner/",
+  "offices": [
+    {
+      "officeId": 327420,
+      "slug": "debaca-county-animal-control-327420",
+      "name": "Debaca County Animal Control",
+      "address": "PO Box 927, Fort Sumner, NM 88119",
+      "phone": "505-355-2405",
+      "image": "./img/shelter/office/327420.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/debaca-county-animal-control-327420/",
+      "imageUrl": "https://cdn.findpawpal.com/office/327420.jpg?f=webp&w=730"
+    }
+  ]
+}

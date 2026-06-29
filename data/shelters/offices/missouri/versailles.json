@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:21:12.427781+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "versailles",
+    "name": "Versailles",
+    "label": "Versailles, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/versailles/",
+  "offices": [
+    {
+      "officeId": 206521,
+      "slug": "versailles-animal-control-206521",
+      "name": "Versailles Animal Control",
+      "address": "104 South Fisher Street, Versailles, MO 65084",
+      "phone": "573-378-4634",
+      "image": "./img/shelter/office/206521.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/versailles-animal-control-206521/",
+      "imageUrl": "https://cdn.findpawpal.com/office/206521.jpg?f=webp&w=730"
+    }
+  ]
+}

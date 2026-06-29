@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T18:51:59.240090+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "schererville",
+    "name": "Schererville",
+    "label": "Schererville, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/schererville/",
+  "offices": [
+    {
+      "officeId": 200569,
+      "slug": "paws-for-a-moment-pet-detective-agency-200569",
+      "name": "PAWS for A Moment Pet Detective Agency",
+      "address": "PO Box 563, Schererville, IN 46375",
+      "phone": "219-218-1322",
+      "image": "https://cdn.findpawpal.com/office/200569.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/paws-for-a-moment-pet-detective-agency-200569/"
+    },
+    {
+      "officeId": 201281,
+      "slug": "hearts-and-hounds-rescue-201281",
+      "name": "Hearts and Hounds Rescue",
+      "address": "930 High Ridge Drive, Schererville, IN 46375",
+      "phone": "219-718-7081",
+      "image": "./img/shelter/office/201281.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hearts-and-hounds-rescue-201281/",
+      "imageUrl": "https://cdn.findpawpal.com/office/201281.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 215322,
+      "slug": "schererville-animal-control-215322",
+      "name": "Schererville Animal Control",
+      "address": "540 Kaeser Boulevard, Schererville, IN 46375",
+      "phone": "219-865-6992",
+      "image": "./img/shelter/office/215322.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/schererville-animal-control-215322/",
+      "imageUrl": "https://cdn.findpawpal.com/office/215322.jpg?f=webp&w=730"
+    }
+  ]
+}

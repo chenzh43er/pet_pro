@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:38:07.815533+00:00",
+  "state": {
+    "slug": "delaware",
+    "name": "Delaware"
+  },
+  "city": {
+    "slug": "marydel",
+    "name": "Marydel",
+    "label": "Marydel, DE"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/delaware/marydel/",
+  "offices": [
+    {
+      "officeId": 257498,
+      "slug": "tri-state-equine-adoption-and-rescue-257498",
+      "name": "Tri-State Equine Adoption and Rescue",
+      "address": "PO Box 245, Marydel, DE 19964",
+      "phone": "302-492-0492",
+      "image": "https://cdn.findpawpal.com/office/257498.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/tri-state-equine-adoption-and-rescue-257498/"
+    }
+  ]
+}

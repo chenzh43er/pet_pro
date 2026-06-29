@@ -1,0 +1,155 @@
+{
+  "fetchedAt": "2026-06-27T19:43:45.942373+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "cleveland",
+    "name": "Cleveland",
+    "label": "Cleveland, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/cleveland/",
+  "offices": [
+    {
+      "officeId": 422549,
+      "slug": "rainbow-connection-animal-foundation-422549",
+      "name": "Rainbow Connection Animal Foundation",
+      "address": "PO Box 94143, Cleveland, OH 44101",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/422549.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/rainbow-connection-animal-foundation-422549/"
+    },
+    {
+      "officeId": 422554,
+      "slug": "place-a-pet-foundation-422554",
+      "name": "Place A Pet Foundation",
+      "address": "PO Box 640, Cleveland, OH 44107",
+      "phone": "216-521-7387",
+      "image": "https://cdn.findpawpal.com/office/422554.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/place-a-pet-foundation-422554/"
+    },
+    {
+      "officeId": 431586,
+      "slug": "ohio-citizens-humane-society-431586",
+      "name": "Ohio Citizens Humane Society",
+      "address": "3517 West 32nd Street, Cleveland, OH 44109",
+      "phone": "",
+      "image": "./img/shelter/office/431586.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ohio-citizens-humane-society-431586/",
+      "imageUrl": "https://cdn.findpawpal.com/office/431586.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 443769,
+      "slug": "love-four-paws-rescue-inc-443769",
+      "name": "Love Four PAWS Rescue, Inc.",
+      "address": "PO Box 35365, Cleveland, OH 44135",
+      "phone": "216-673-8574",
+      "image": "https://cdn.findpawpal.com/office/443769.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/love-four-paws-rescue-inc-443769/"
+    },
+    {
+      "officeId": 443774,
+      "slug": "golden-years-senior-greyhounds-443774",
+      "name": "Golden Years Senior Greyhounds",
+      "address": "PO Box 24310, Cleveland, OH 44124",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/443774.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/golden-years-senior-greyhounds-443774/"
+    },
+    {
+      "officeId": 444871,
+      "slug": "city-cleveland-animal-control-444871",
+      "name": "City-Cleveland Animal Control",
+      "address": "2690 West 7th Street, Cleveland, OH 44113",
+      "phone": "216-664-3069",
+      "image": "./img/shelter/office/444871.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/city-cleveland-animal-control-444871/",
+      "imageUrl": "https://cdn.findpawpal.com/office/444871.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 444911,
+      "slug": "greyhound-adoption-of-ohio-444911",
+      "name": "Greyhound Adoption of Ohio",
+      "address": "3557 West Boulevard, Cleveland, OH 44111",
+      "phone": "800-269-1148",
+      "image": "./img/shelter/office/444911.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhound-adoption-of-ohio-444911/",
+      "imageUrl": "https://cdn.findpawpal.com/office/444911.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 444963,
+      "slug": "the-sanctuary-for-senior-dogs-444963",
+      "name": "The Sanctuary for Senior Dogs",
+      "address": "PO Box 609054, Cleveland, OH 44109",
+      "phone": "216-485-9233",
+      "image": "https://cdn.findpawpal.com/office/444963.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/the-sanctuary-for-senior-dogs-444963/"
+    },
+    {
+      "officeId": 457233,
+      "slug": "public-animal-welfare-society-457233",
+      "name": "Public Animal Welfare Society",
+      "address": "PO Box 24651, Cleveland, OH 44124",
+      "phone": "440-442-7297",
+      "image": "https://cdn.findpawpal.com/office/457233.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/public-animal-welfare-society-457233/"
+    },
+    {
+      "officeId": 466003,
+      "slug": "the-animal-rescue-center-466003",
+      "name": "The Animal Rescue Center",
+      "address": "PO Box 110685, Cleveland, OH 44111",
+      "phone": "216-476-0433",
+      "image": "https://cdn.findpawpal.com/office/466003.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/the-animal-rescue-center-466003/"
+    },
+    {
+      "officeId": 466301,
+      "slug": "animals-disaster-team-466301",
+      "name": "Animals' Disaster Team",
+      "address": "PO Box 09463, Cleveland, OH 44109",
+      "phone": "216-661-2292",
+      "image": "https://cdn.findpawpal.com/office/466301.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/animals-disaster-team-466301/"
+    },
+    {
+      "officeId": 467310,
+      "slug": "cleveland-animal-protective-league-467310",
+      "name": "Cleveland Animal Protective League",
+      "address": "1729 Willey Avenue, Cleveland, OH 44113",
+      "phone": "216-771-4616",
+      "image": "./img/shelter/office/467310.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cleveland-animal-protective-league-467310/",
+      "imageUrl": "https://cdn.findpawpal.com/office/467310.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 581244,
+      "slug": "northern-ohio-ferret-association-581244",
+      "name": "Northern Ohio Ferret Association",
+      "address": "PO Box 110574, Cleveland, OH 44111",
+      "phone": "216-388-2491",
+      "image": "https://cdn.findpawpal.com/office/581244.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/northern-ohio-ferret-association-581244/"
+    },
+    {
+      "officeId": 586993,
+      "slug": "lighthouse-boxer-rescue-586993",
+      "name": "Lighthouse Boxer Rescue",
+      "address": "PO Box 111111, Cleveland, OH 44111",
+      "phone": "216-749-2423",
+      "image": "https://cdn.findpawpal.com/office/586993.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/lighthouse-boxer-rescue-586993/"
+    },
+    {
+      "officeId": 588136,
+      "slug": "ferrets-unlimited-ferret-shelter-588136",
+      "name": "Ferrets Unlimited Ferret Shelter",
+      "address": "4116 Bucyrus Avenue, Cleveland, OH 44109",
+      "phone": "216-749-3885",
+      "image": "./img/shelter/office/588136.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ferrets-unlimited-ferret-shelter-588136/",
+      "imageUrl": "https://cdn.findpawpal.com/office/588136.jpg?f=webp&w=730"
+    }
+  ]
+}

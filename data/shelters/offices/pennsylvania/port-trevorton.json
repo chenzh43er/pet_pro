@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:54:29.240009+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "port-trevorton",
+    "name": "Port Trevorton",
+    "label": "Port Trevorton, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/port-trevorton/",
+  "offices": [
+    {
+      "officeId": 644856,
+      "slug": "port-treverton-animal-control-644856",
+      "name": "Port Treverton Animal Control",
+      "address": "1105 Red Hill Road, Port Trevorton, PA 17864",
+      "phone": "570-374-2648",
+      "image": "https://cdn.findpawpal.com/office/644856.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/port-treverton-animal-control-644856/"
+    }
+  ]
+}

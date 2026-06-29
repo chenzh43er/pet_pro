@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:30:28.607903+00:00",
+  "state": {
+    "slug": "new-mexico",
+    "name": "New Mexico"
+  },
+  "city": {
+    "slug": "gallup",
+    "name": "Gallup",
+    "label": "Gallup, NM"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-mexico/gallup/",
+  "offices": [
+    {
+      "officeId": 309189,
+      "slug": "humane-society-mc-kinley-309189",
+      "name": "Humane Society-Mc Kinley",
+      "address": "1315 Hamilton Road, Gallup, NM 87301",
+      "phone": "505-863-2616",
+      "image": "./img/shelter/office/309189.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-mc-kinley-309189/",
+      "imageUrl": "https://cdn.findpawpal.com/office/309189.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 326638,
+      "slug": "animal-control-center-326638",
+      "name": "Animal Control Center",
+      "address": "1315 Hamilton Road, Gallup, NM 87301",
+      "phone": "505-863-1309",
+      "image": "./img/shelter/office/326638.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-control-center-326638/",
+      "imageUrl": "https://cdn.findpawpal.com/office/326638.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "fetchedAt": "2026-06-27T18:42:41.365844+00:00",
+  "state": {
+    "slug": "idaho",
+    "name": "Idaho"
+  },
+  "city": {
+    "slug": "boise",
+    "name": "Boise",
+    "label": "Boise, ID"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/idaho/boise/",
+  "offices": [
+    {
+      "officeId": 338275,
+      "slug": "boise-animal-control-338275",
+      "name": "Boise Animal Control",
+      "address": "4401 West Kootenai Street, Boise, ID 83705",
+      "phone": "208-429-6600",
+      "image": "https://cdn.findpawpal.com/office/338275.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/boise-animal-control-338275/"
+    },
+    {
+      "officeId": 340036,
+      "slug": "fuzzy-pawz-rescue-340036",
+      "name": "Fuzzy Pawz Rescue",
+      "address": "PO Box 51234, Boise, ID 83705",
+      "phone": "",
+      "image": "./img/shelter/office/340036.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fuzzy-pawz-rescue-340036/",
+      "imageUrl": "https://cdn.findpawpal.com/office/340036.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 340383,
+      "slug": "idaho-humane-society-340383",
+      "name": "Idaho Humane Society",
+      "address": "4775 West Dorman Street, Boise, ID 83705",
+      "phone": "208-342-3508",
+      "image": "./img/shelter/office/340383.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho-humane-society-340383/",
+      "imageUrl": "https://cdn.findpawpal.com/office/340383.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 340597,
+      "slug": "northwest-animal-companions-340597",
+      "name": "Northwest Animal Companions",
+      "address": "PO Box 6376, Boise, ID 83707",
+      "phone": "208-463-4905",
+      "image": "./img/shelter/office/340597.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/northwest-animal-companions-340597/",
+      "imageUrl": "https://cdn.findpawpal.com/office/340597.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 356130,
+      "slug": "taras-exotic-rescue-356130",
+      "name": "Tara's Exotic Rescue",
+      "address": "2725 N Five Mile Rd Trlr 47, Boise, ID 83713",
+      "phone": "208-713-1259",
+      "image": "./img/shelter/office/356130.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/taras-exotic-rescue-356130/",
+      "imageUrl": "https://cdn.findpawpal.com/office/356130.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 366496,
+      "slug": "simply-cats-366496",
+      "name": "Simply Cats",
+      "address": "2833 South Victory View Way, Boise, ID 83709",
+      "phone": "208-343-7177",
+      "image": "./img/shelter/office/366496.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/simply-cats-366496/",
+      "imageUrl": "https://cdn.findpawpal.com/office/366496.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 366526,
+      "slug": "southwest-idaho-corgi-rescue-366526",
+      "name": "Southwest Idaho Corgi Rescue",
+      "address": "194 South Corgi Lane, Boise, ID 83716",
+      "phone": "208-344-3938",
+      "image": "https://cdn.findpawpal.com/office/366526.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/southwest-idaho-corgi-rescue-366526/"
+    },
+    {
+      "officeId": 449704,
+      "slug": "greyhound-rescue-of-idaho-449704",
+      "name": "Greyhound Rescue of Idaho",
+      "address": "7154 West State Street, Boise, ID 83714",
+      "phone": "208-888-1364",
+      "image": "./img/shelter/office/449704.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhound-rescue-of-idaho-449704/",
+      "imageUrl": "https://cdn.findpawpal.com/office/449704.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 473310,
+      "slug": "paws-for-life-473310",
+      "name": "PAWS for Life",
+      "address": "PO Box 44595, Boise, ID 83711",
+      "phone": "208-375-9883",
+      "image": "./img/shelter/office/473310.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/paws-for-life-473310/",
+      "imageUrl": "https://cdn.findpawpal.com/office/473310.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 476670,
+      "slug": "animals-in-distress-association-476670",
+      "name": "Animals in Distress Association",
+      "address": "4650 36th Street, Boise, ID 83703",
+      "phone": "208-338-0897",
+      "image": "./img/shelter/office/476670.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animals-in-distress-association-476670/",
+      "imageUrl": "https://cdn.findpawpal.com/office/476670.jpg?f=webp&w=730"
+    }
+  ]
+}

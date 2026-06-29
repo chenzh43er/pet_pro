@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:58:26.065959+00:00",
+  "state": {
+    "slug": "south-carolina",
+    "name": "South Carolina"
+  },
+  "city": {
+    "slug": "tamassee",
+    "name": "Tamassee",
+    "label": "Tamassee, SC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-carolina/tamassee/",
+  "offices": [
+    {
+      "officeId": 599527,
+      "slug": "sundance-mountain-stables-animal-rescue-599527",
+      "name": "Sundance Mountain Stables Animal Rescue",
+      "address": "170 C H 7, Tamassee, SC 29686",
+      "phone": "864-903-3351",
+      "image": "./img/shelter/office/599527.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sundance-mountain-stables-animal-rescue-599527/",
+      "imageUrl": "https://cdn.findpawpal.com/office/599527.jpg?f=webp&w=730"
+    }
+  ]
+}

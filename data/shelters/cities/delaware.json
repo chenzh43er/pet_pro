@@ -1,0 +1,74 @@
+{
+  "fetchedAt": "2026-06-27T17:47:35.683220+00:00",
+  "state": {
+    "slug": "delaware",
+    "name": "Delaware",
+    "offices": 13
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/delaware/",
+  "cities": [
+    {
+      "slug": "bear",
+      "name": "Bear",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/delaware/bear/"
+    },
+    {
+      "slug": "dover",
+      "name": "Dover",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/delaware/dover/"
+    },
+    {
+      "slug": "georgetown",
+      "name": "Georgetown",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/delaware/georgetown/"
+    },
+    {
+      "slug": "hartly",
+      "name": "Hartly",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/delaware/hartly/"
+    },
+    {
+      "slug": "marydel",
+      "name": "Marydel",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/delaware/marydel/"
+    },
+    {
+      "slug": "middletown",
+      "name": "Middletown",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/delaware/middletown/"
+    },
+    {
+      "slug": "newark",
+      "name": "Newark",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/delaware/newark/"
+    },
+    {
+      "slug": "wilmington",
+      "name": "Wilmington",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/delaware/wilmington/"
+    },
+    {
+      "slug": "wyoming",
+      "name": "Wyoming",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/delaware/wyoming/"
+    }
+  ]
+}

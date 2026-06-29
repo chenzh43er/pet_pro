@@ -1,0 +1,32 @@
+{
+  "fetchedAt": "2026-06-27T18:30:21.548880+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "san-leandro",
+    "name": "San Leandro",
+    "label": "San Leandro, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/san-leandro/",
+  "offices": [
+    {
+      "slug": "friends-of-the-fairmont-animal-shelter-481246",
+      "name": "Friends of the Fairmont Animal Shelter",
+      "address": "2700 Fairmont Dr, San Leandro, CA 94578",
+      "phone": "510-667-7707",
+      "image": "./img/shelter/office/481246.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-the-fairmont-animal-shelter-481246/",
+      "imageUrl": "https://cdn.findpawpal.com/office/481246.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "virtual-pet-adoptions-669041",
+      "name": "Virtual Pet Adoptions",
+      "address": "2131 Williams Street, San Leandro, CA 94577",
+      "phone": "510-346-7777",
+      "image": "https://cdn.findpawpal.com/office/669041.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/virtual-pet-adoptions-669041/"
+    }
+  ]
+}

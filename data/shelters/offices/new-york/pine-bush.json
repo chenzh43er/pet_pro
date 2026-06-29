@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:36:03.287033+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "pine-bush",
+    "name": "Pine Bush",
+    "label": "Pine Bush, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/pine-bush/",
+  "offices": [
+    {
+      "officeId": 316326,
+      "slug": "equine-rescue-resource-inc-316326",
+      "name": "Equine Rescue Resource, Inc.",
+      "address": "PO Box 17, Pine Bush, NY 12566",
+      "phone": "845-744-1728",
+      "image": "./img/shelter/office/316326.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/equine-rescue-resource-inc-316326/",
+      "imageUrl": "https://cdn.findpawpal.com/office/316326.jpg?f=webp&w=730"
+    }
+  ]
+}

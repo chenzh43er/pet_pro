@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:04:51.270809+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "upper-marlboro",
+    "name": "Upper Marlboro",
+    "label": "Upper Marlboro, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/upper-marlboro/",
+  "offices": [
+    {
+      "officeId": 500345,
+      "slug": "upper-marlboro-animal-shelter-500345",
+      "name": "Upper Marlboro Animal Shelter",
+      "address": "3750 Brown Station Road, Upper Marlboro, MD 20772",
+      "phone": "301-780-7200",
+      "image": "./img/shelter/office/500345.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/upper-marlboro-animal-shelter-500345/",
+      "imageUrl": "https://cdn.findpawpal.com/office/500345.jpg?f=webp&w=730"
+    }
+  ]
+}

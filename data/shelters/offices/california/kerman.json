@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:26:50.370926+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "kerman",
+    "name": "Kerman",
+    "label": "Kerman, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/kerman/",
+  "offices": [
+    {
+      "slug": "kerman-animal-control-365025",
+      "name": "Kerman Animal Control",
+      "address": "15485 West Church Avenue, Kerman, CA 93630",
+      "phone": "559-846-6159",
+      "image": "./img/shelter/office/365025.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kerman-animal-control-365025/",
+      "imageUrl": "https://cdn.findpawpal.com/office/365025.jpg?f=webp&w=730"
+    }
+  ]
+}

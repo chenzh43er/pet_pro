@@ -1,0 +1,21 @@
+{
+  "officeId": 281703,
+  "slug": "walker-animal-shelter-281703",
+  "name": "Walker Animal Shelter",
+  "address": "13740 Ball Park Road, Walker, LA 70785",
+  "street": "13740 Ball Park Road",
+  "addressCity": "Walker",
+  "stateCode": "LA",
+  "zip": "70785",
+  "phone": "225-665-3910",
+  "image": "./img/shelter/office/281703.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/walker-animal-shelter-281703/",
+  "stateSlug": "louisiana",
+  "stateName": "Louisiana",
+  "citySlug": "walker",
+  "cityName": "Walker",
+  "cityLabel": "Walker, LA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/louisiana/walker/",
+  "fetchedAt": "2026-06-27T19:00:57.392100+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/281703.jpg?f=webp&w=730"
+}

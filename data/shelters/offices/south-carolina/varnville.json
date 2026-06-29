@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:58:30.481994+00:00",
+  "state": {
+    "slug": "south-carolina",
+    "name": "South Carolina"
+  },
+  "city": {
+    "slug": "varnville",
+    "name": "Varnville",
+    "label": "Varnville, SC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-carolina/varnville/",
+  "offices": [
+    {
+      "officeId": 709508,
+      "slug": "hampton-county-animal-shelter-709508",
+      "name": "Hampton County Animal Shelter",
+      "address": "460 Cemetery Road, Varnville, SC 29944",
+      "phone": "803-943-7567",
+      "image": "./img/shelter/office/709508.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hampton-county-animal-shelter-709508/",
+      "imageUrl": "https://cdn.findpawpal.com/office/709508.jpg?f=webp&w=730"
+    }
+  ]
+}

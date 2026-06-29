@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:13:46.539717+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "crawfordville",
+    "name": "Crawfordville",
+    "label": "Crawfordville, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/crawfordville/",
+  "offices": [
+    {
+      "slug": "wakulla-county-animal-shelter-289071",
+      "name": "Wakulla County Animal Shelter",
+      "address": "1 Oak Street, Crawfordville, FL 32327",
+      "phone": "850-926-0902",
+      "image": "./img/shelter/office/289071.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wakulla-county-animal-shelter-289071/",
+      "imageUrl": "https://cdn.findpawpal.com/office/289071.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "converse-county-animal-shelter-352145",
+      "name": "Converse County Animal Shelter",
+      "address": "2068 Crawfordville Highway, Crawfordville, FL 32327",
+      "phone": "",
+      "image": "./img/shelter/office/352145.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/converse-county-animal-shelter-352145/",
+      "imageUrl": "https://cdn.findpawpal.com/office/352145.jpg?f=webp&w=730"
+    }
+  ]
+}

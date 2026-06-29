@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:16:11.843971+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "springfield",
+    "name": "Springfield",
+    "label": "Springfield, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/springfield/",
+  "offices": [
+    {
+      "officeId": 575386,
+      "slug": "blm-wild-horse-and-burro-program-575386",
+      "name": "BLM Wild Horse & Burro Program",
+      "address": "7450 Boston Boulevard, Springfield, VA 22153",
+      "phone": "800-370-3936",
+      "image": "./img/shelter/office/575386.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/blm-wild-horse-and-burro-program-575386/",
+      "imageUrl": "https://cdn.findpawpal.com/office/575386.jpg?f=webp&w=730"
+    }
+  ]
+}

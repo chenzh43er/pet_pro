@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:22:36.473933+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "fifield",
+    "name": "Fifield",
+    "label": "Fifield, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/fifield/",
+  "offices": [
+    {
+      "officeId": 520209,
+      "slug": "catkins-animal-rescue-520209",
+      "name": "Catkins Animal Rescue",
+      "address": "PO Box 28, Fifield, WI 54524",
+      "phone": "715-681-0022",
+      "image": "https://cdn.findpawpal.com/office/520209.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/catkins-animal-rescue-520209/"
+    }
+  ]
+}

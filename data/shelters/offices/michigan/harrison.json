@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:10:57.358637+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "harrison",
+    "name": "Harrison",
+    "label": "Harrison, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/harrison/",
+  "offices": [
+    {
+      "officeId": 207009,
+      "slug": "clare-county-animal-shelter-207009",
+      "name": "Clare County Animal Shelter",
+      "address": "4040 Hazel Road, Harrison, MI 48625",
+      "phone": "989-539-3221",
+      "image": "https://cdn.findpawpal.com/office/207009.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/clare-county-animal-shelter-207009/"
+    }
+  ]
+}

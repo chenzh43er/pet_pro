@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:22:28.370882+00:00",
+  "state": {
+    "slug": "nebraska",
+    "name": "Nebraska"
+  },
+  "city": {
+    "slug": "fairbury",
+    "name": "Fairbury",
+    "label": "Fairbury, NE"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nebraska/fairbury/",
+  "offices": [
+    {
+      "officeId": 395705,
+      "slug": "homeless-no-more-cat-rescue-adoption-center-395705",
+      "name": "Homeless No More Cat Rescue Adoption Center",
+      "address": "509 4th Street, Fairbury, NE 68352",
+      "phone": "402-729-5183",
+      "image": "./img/shelter/office/395705.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/homeless-no-more-cat-rescue-adoption-center-395705/",
+      "imageUrl": "https://cdn.findpawpal.com/office/395705.jpg?f=webp&w=730"
+    }
+  ]
+}

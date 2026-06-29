@@ -1,0 +1,21 @@
+{
+  "officeId": 102164,
+  "slug": "cape-may-animal-control-102164",
+  "name": "Cape May Animal Control",
+  "address": "3941 Bayshore Road, Cape May, NJ 08204",
+  "street": "3941 Bayshore Road",
+  "addressCity": "Cape May",
+  "stateCode": "NJ",
+  "zip": "08204",
+  "phone": "609-898-1738",
+  "image": "./img/shelter/office/102164.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/cape-may-animal-control-102164/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "cape-may",
+  "cityName": "Cape May",
+  "cityLabel": "Cape May, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/cape-may/",
+  "fetchedAt": "2026-06-27T19:25:24.254436+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/102164.jpg?f=webp&w=730"
+}

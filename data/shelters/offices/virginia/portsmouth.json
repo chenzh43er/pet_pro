@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T20:15:43.167477+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "portsmouth",
+    "name": "Portsmouth",
+    "label": "Portsmouth, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/portsmouth/",
+  "offices": [
+    {
+      "officeId": 511526,
+      "slug": "portsmouth-animal-control-511526",
+      "name": "Portsmouth Animal Control",
+      "address": "711 Crawford St, Portsmouth, VA 23704",
+      "phone": "757-393-8430",
+      "image": "./img/shelter/office/511526.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/portsmouth-animal-control-511526/",
+      "imageUrl": "https://cdn.findpawpal.com/office/511526.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 554546,
+      "slug": "portsmouth-humane-society-554546",
+      "name": "Portsmouth Humane Society",
+      "address": "2704 Frederick Blvd, Portsmouth, VA 23704",
+      "phone": "757-397-6004",
+      "image": "./img/shelter/office/554546.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/portsmouth-humane-society-554546/",
+      "imageUrl": "https://cdn.findpawpal.com/office/554546.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 554552,
+      "slug": "tidewater-rabbit-rescue-554552",
+      "name": "Tidewater Rabbit Rescue",
+      "address": "PO Box 8015, Portsmouth, VA 23707",
+      "phone": "",
+      "image": "./img/shelter/office/554552.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tidewater-rabbit-rescue-554552/",
+      "imageUrl": "https://cdn.findpawpal.com/office/554552.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 646670,
+      "slug": "sosharpei-inc-646670",
+      "name": "Sosharpei, Inc.",
+      "address": "PO Box 452, Portsmouth, VA 23705",
+      "phone": "757-687-7297",
+      "image": "./img/shelter/office/646670.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sosharpei-inc-646670/",
+      "imageUrl": "https://cdn.findpawpal.com/office/646670.jpg?f=webp&w=730"
+    }
+  ]
+}

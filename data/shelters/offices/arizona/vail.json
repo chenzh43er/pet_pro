@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:21:14.600830+00:00",
+  "state": {
+    "slug": "arizona",
+    "name": "Arizona"
+  },
+  "city": {
+    "slug": "vail",
+    "name": "Vail",
+    "label": "Vail, AZ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arizona/vail/",
+  "offices": [
+    {
+      "officeId": 170999,
+      "slug": "ferret-friends-inc-170999",
+      "name": "Ferret Friends, Inc",
+      "address": "PO Box 594, Vail, AZ 85641",
+      "phone": "520-820-2374",
+      "image": "./img/shelter/office/170999.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ferret-friends-inc-170999/",
+      "imageUrl": "https://cdn.findpawpal.com/office/170999.jpg?f=webp&w=730"
+    }
+  ]
+}

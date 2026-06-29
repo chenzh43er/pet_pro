@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:39:03.383914+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "clarkesville",
+    "name": "Clarkesville",
+    "label": "Clarkesville, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/clarkesville/",
+  "offices": [
+    {
+      "officeId": 140595,
+      "slug": "habersham-county-animal-control-140595",
+      "name": "Habersham County Animal Control",
+      "address": "4231 Toccoa Highway, Clarkesville, GA 30523",
+      "phone": "706-754-3533",
+      "image": "./img/shelter/office/140595.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/habersham-county-animal-control-140595/",
+      "imageUrl": "https://cdn.findpawpal.com/office/140595.jpg?f=webp&w=730"
+    }
+  ]
+}

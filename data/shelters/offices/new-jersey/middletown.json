@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:27:30.852163+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "middletown",
+    "name": "Middletown",
+    "label": "Middletown, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/middletown/",
+  "offices": [
+    {
+      "officeId": 95110,
+      "slug": "thoroughbred-retirement-foundation-95110",
+      "name": "Thoroughbred Retirement Foundation",
+      "address": "174 Deepdale Drive, Middletown, NJ 07748",
+      "phone": "800-728-1660",
+      "image": "https://cdn.findpawpal.com/office/95110.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/thoroughbred-retirement-foundation-95110/"
+    },
+    {
+      "officeId": 99983,
+      "slug": "oodles-of-doodles-doodle-poodle-99983",
+      "name": "Oodles of Doodles Doodle Poodle",
+      "address": "14 Spring Garden Road, Middletown, NJ 07738",
+      "phone": "732-492-8794",
+      "image": "./img/shelter/office/99983.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/oodles-of-doodles-doodle-poodle-99983/",
+      "imageUrl": "https://cdn.findpawpal.com/office/99983.jpg?f=webp&w=730"
+    }
+  ]
+}

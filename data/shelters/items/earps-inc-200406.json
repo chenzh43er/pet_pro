@@ -1,0 +1,21 @@
+{
+  "officeId": 200406,
+  "slug": "earps-inc-200406",
+  "name": "Earps, Inc.",
+  "address": "PO Box 736, Brownsburg, IN 46112",
+  "street": "PO Box 736",
+  "addressCity": "Brownsburg",
+  "stateCode": "IN",
+  "zip": "46112",
+  "phone": "317-809-2153",
+  "image": "./img/shelter/office/200406.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/earps-inc-200406/",
+  "stateSlug": "indiana",
+  "stateName": "Indiana",
+  "citySlug": "brownsburg",
+  "cityName": "Brownsburg",
+  "cityLabel": "Brownsburg, IN",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/indiana/brownsburg/",
+  "fetchedAt": "2026-06-27T18:49:27.935262+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/200406.jpg?f=webp&w=730"
+}

@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:50:06.989674+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "frankfort",
+    "name": "Frankfort",
+    "label": "Frankfort, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/frankfort/",
+  "offices": [
+    {
+      "officeId": 201351,
+      "slug": "animal-protection-coalition-inc-201351",
+      "name": "Animal Protection Coalition, Inc",
+      "address": "916 South Prairie Avenue, Frankfort, IN 46041",
+      "phone": "765-601-4104",
+      "image": "./img/shelter/office/201351.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-protection-coalition-inc-201351/",
+      "imageUrl": "https://cdn.findpawpal.com/office/201351.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 217681,
+      "slug": "humane-society-clinton-county-217681",
+      "name": "Humane Society-Clinton County",
+      "address": "825 Izaak Walton Drive, Frankfort, IN 46041",
+      "phone": "765-654-7717",
+      "image": "./img/shelter/office/217681.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-clinton-county-217681/",
+      "imageUrl": "https://cdn.findpawpal.com/office/217681.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 251723,
+      "slug": "indiana-horse-rescue-251723",
+      "name": "Indiana Horse Rescue",
+      "address": "916 South Prairie Avenue, Frankfort, IN 46041",
+      "phone": "765-659-5209",
+      "image": "./img/shelter/office/251723.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/indiana-horse-rescue-251723/",
+      "imageUrl": "https://cdn.findpawpal.com/office/251723.jpg?f=webp&w=730"
+    }
+  ]
+}

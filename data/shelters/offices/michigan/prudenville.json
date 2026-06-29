@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:12:15.538469+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "prudenville",
+    "name": "Prudenville",
+    "label": "Prudenville, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/prudenville/",
+  "offices": [
+    {
+      "officeId": 237428,
+      "slug": "roscommon-county-animal-control-237428",
+      "name": "Roscommon County Animal Control",
+      "address": "1110 Short Drive, Prudenville, MI 48651",
+      "phone": "989-366-0260",
+      "image": "./img/shelter/office/237428.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/roscommon-county-animal-control-237428/",
+      "imageUrl": "https://cdn.findpawpal.com/office/237428.jpg?f=webp&w=730"
+    }
+  ]
+}

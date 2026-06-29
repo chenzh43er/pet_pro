@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:45:11.157355+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "easton",
+    "name": "Easton",
+    "label": "Easton, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/easton/",
+  "offices": [
+    {
+      "officeId": 387016,
+      "slug": "pets-without-parents-of-mason-logan-counties-387016",
+      "name": "Pets Without Parents of Mason Logan Counties",
+      "address": "PO Box 166, Easton, IL 62633",
+      "phone": "309-543-6099",
+      "image": "./img/shelter/office/387016.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pets-without-parents-of-mason-logan-counties-387016/",
+      "imageUrl": "https://cdn.findpawpal.com/office/387016.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 393503,
+      "slug": "mason-county-animal-control-393503",
+      "name": "Mason County Animal Control",
+      "address": "29926 State Route 10, Easton, IL 62633",
+      "phone": "309-562-7240",
+      "image": "./img/shelter/office/393503.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mason-county-animal-control-393503/",
+      "imageUrl": "https://cdn.findpawpal.com/office/393503.jpg?f=webp&w=730"
+    }
+  ]
+}

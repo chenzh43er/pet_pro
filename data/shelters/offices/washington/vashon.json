@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:19:29.352927+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "vashon",
+    "name": "Vashon",
+    "label": "Vashon, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/vashon/",
+  "offices": [
+    {
+      "officeId": 610748,
+      "slug": "vashon-island-pet-protection-610748",
+      "name": "Vashon Island Pet Protection",
+      "address": "PO Box 245, Vashon, WA 98070",
+      "phone": "206-389-1085",
+      "image": "./img/shelter/office/610748.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/vashon-island-pet-protection-610748/",
+      "imageUrl": "https://cdn.findpawpal.com/office/610748.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 664290,
+      "slug": "baahaus-animal-rescue-group-664290",
+      "name": "Baahaus Animal Rescue Group",
+      "address": "PO Box 2356, Vashon, WA 98070",
+      "phone": "206-463-2513",
+      "image": "./img/shelter/office/664290.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/baahaus-animal-rescue-group-664290/",
+      "imageUrl": "https://cdn.findpawpal.com/office/664290.jpg?f=webp&w=730"
+    }
+  ]
+}

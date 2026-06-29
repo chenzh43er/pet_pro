@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:53:31.185382+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa"
+  },
+  "city": {
+    "slug": "knoxville",
+    "name": "Knoxville",
+    "label": "Knoxville, IA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/knoxville/",
+  "offices": [
+    {
+      "officeId": 323970,
+      "slug": "knoxville-humane-society-323970",
+      "name": "Knoxville Humane Society",
+      "address": "1293 160th Avenue, Knoxville, IA 50138",
+      "phone": "515-828-7387",
+      "image": "./img/shelter/office/323970.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/knoxville-humane-society-323970/",
+      "imageUrl": "https://cdn.findpawpal.com/office/323970.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 327994,
+      "slug": "knoxville-animal-control-327994",
+      "name": "Knoxville Animal Control",
+      "address": "305 South 3rd Street, Knoxville, IA 50138",
+      "phone": "641-828-0554",
+      "image": "./img/shelter/office/327994.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/knoxville-animal-control-327994/",
+      "imageUrl": "https://cdn.findpawpal.com/office/327994.jpg?f=webp&w=730"
+    }
+  ]
+}

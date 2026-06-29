@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:02:28.034241+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "addison",
+    "name": "Addison",
+    "label": "Addison, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/addison/",
+  "offices": [
+    {
+      "officeId": 539194,
+      "slug": "greyhound-adoption-league-of-texas-inc-539194",
+      "name": "Greyhound Adoption League of Texas, Inc.",
+      "address": "PO Box 680, Addison, TX 75001",
+      "phone": "972-503-4258",
+      "image": "./img/shelter/office/539194.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhound-adoption-league-of-texas-inc-539194/",
+      "imageUrl": "https://cdn.findpawpal.com/office/539194.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 635296,
+      "slug": "addison-animal-control-department-635296",
+      "name": "Addison Animal Control Department",
+      "address": "16801 Westgrove Drive, Addison, TX 75001",
+      "phone": "972-450-2845",
+      "image": "./img/shelter/office/635296.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/addison-animal-control-department-635296/",
+      "imageUrl": "https://cdn.findpawpal.com/office/635296.jpg?f=webp&w=730"
+    }
+  ]
+}

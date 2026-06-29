@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:36:16.737122+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "potsdam",
+    "name": "Potsdam",
+    "label": "Potsdam, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/potsdam/",
+  "offices": [
+    {
+      "officeId": 415659,
+      "slug": "potsdam-animal-shelter-415659",
+      "name": "Potsdam Animal Shelter",
+      "address": "17 Madrid Avenue, Potsdam, NY 13676",
+      "phone": "315-265-3199",
+      "image": "./img/shelter/office/415659.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/potsdam-animal-shelter-415659/",
+      "imageUrl": "https://cdn.findpawpal.com/office/415659.jpg?f=webp&w=730"
+    }
+  ]
+}

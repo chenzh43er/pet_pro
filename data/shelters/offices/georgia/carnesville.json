@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:38:52.794051+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "carnesville",
+    "name": "Carnesville",
+    "label": "Carnesville, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/carnesville/",
+  "offices": [
+    {
+      "officeId": 134552,
+      "slug": "humane-society-of-north-georgia-134552",
+      "name": "Humane Society of North Georgia",
+      "address": "1170 Lewis Crump Road, Carnesville, GA 30521",
+      "phone": "706-282-9528",
+      "image": "https://cdn.findpawpal.com/office/134552.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-north-georgia-134552/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:25:45.386911+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "escalon",
+    "name": "Escalon",
+    "label": "Escalon, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/escalon/",
+  "offices": [
+    {
+      "officeId": 480791,
+      "slug": "escalon-animal-shelter-480791",
+      "name": "Escalon Animal Shelter",
+      "address": "25100 East River Road, Escalon, CA 95320",
+      "phone": "209-838-9908",
+      "image": "./img/shelter/office/480791.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/escalon-animal-shelter-480791/",
+      "imageUrl": "https://cdn.findpawpal.com/office/480791.jpg?f=webp&w=730"
+    }
+  ]
+}

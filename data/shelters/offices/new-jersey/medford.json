@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:27:26.344417+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "medford",
+    "name": "Medford",
+    "label": "Medford, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/medford/",
+  "offices": [
+    {
+      "officeId": 104968,
+      "slug": "joe-joes-place-animal-sanctuary-inc-104968",
+      "name": "Joe Joe's Place Animal Sanctuary Inc.",
+      "address": "PO Box 35, Medford, NJ 08055",
+      "phone": "",
+      "image": "./img/shelter/office/104968.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/joe-joes-place-animal-sanctuary-inc-104968/",
+      "imageUrl": "https://cdn.findpawpal.com/office/104968.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 105901,
+      "slug": "4-paws-with-a-cause-inc-105901",
+      "name": "4 Paws With A Cause Inc.",
+      "address": "131 Eaves Mill Road, Medford, NJ 08055",
+      "phone": "609-257-3701",
+      "image": "./img/shelter/office/105901.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/4-paws-with-a-cause-inc-105901/",
+      "imageUrl": "https://cdn.findpawpal.com/office/105901.jpg?f=webp&w=730"
+    }
+  ]
+}

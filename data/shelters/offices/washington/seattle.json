@@ -1,0 +1,149 @@
+{
+  "fetchedAt": "2026-06-27T20:18:57.718039+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "seattle",
+    "name": "Seattle",
+    "label": "Seattle, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/seattle/",
+  "offices": [
+    {
+      "officeId": 567258,
+      "slug": "friends-of-the-animals-foundation-567258",
+      "name": "Friends of the Animals Foundation",
+      "address": "PO Box 16308, Seattle, WA 98116",
+      "phone": "206-719-4864",
+      "image": "https://cdn.findpawpal.com/office/567258.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-the-animals-foundation-567258/"
+    },
+    {
+      "officeId": 611030,
+      "slug": "margaret-kyros-foundation-for-animals-611030",
+      "name": "Margaret Kyros Foundation for Animals",
+      "address": "1704 East Galer Street, Seattle, WA 98112",
+      "phone": "206-784-1576",
+      "image": "./img/shelter/office/611030.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/margaret-kyros-foundation-for-animals-611030/",
+      "imageUrl": "https://cdn.findpawpal.com/office/611030.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 614564,
+      "slug": "animals-in-recoveryair-614564",
+      "name": "Animals In Recoveryair",
+      "address": "3901 Southwest Portland Street, Seattle, WA 98136",
+      "phone": "206-934-4034",
+      "image": "./img/shelter/office/614564.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animals-in-recoveryair-614564/",
+      "imageUrl": "https://cdn.findpawpal.com/office/614564.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 621575,
+      "slug": "seattle-animal-shelter-621575",
+      "name": "Seattle Animal Shelter",
+      "address": "2061 15th Avenue West, Seattle, WA 98119",
+      "phone": "206-386-7387",
+      "image": "./img/shelter/office/621575.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/seattle-animal-shelter-621575/",
+      "imageUrl": "https://cdn.findpawpal.com/office/621575.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 621594,
+      "slug": "mercer-island-animal-control-621594",
+      "name": "Mercer Island Animal Control",
+      "address": "500 4th Avenue, Seattle, WA 98104",
+      "phone": "206-296-7387",
+      "image": "./img/shelter/office/621594.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mercer-island-animal-control-621594/",
+      "imageUrl": "https://cdn.findpawpal.com/office/621594.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 628850,
+      "slug": "petshelter-network-628850",
+      "name": "Petshelter Network",
+      "address": "PO Box 17477, Seattle, WA 98127",
+      "phone": "206-297-9055",
+      "image": "https://cdn.findpawpal.com/office/628850.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/petshelter-network-628850/"
+    },
+    {
+      "officeId": 628852,
+      "slug": "cat-purebred-rescue-628852",
+      "name": "Cat Purebred Rescue",
+      "address": "PO Box 66084, Seattle, WA 98166",
+      "phone": "206-782-2616",
+      "image": "https://cdn.findpawpal.com/office/628852.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/cat-purebred-rescue-628852/"
+    },
+    {
+      "officeId": 629030,
+      "slug": "pet-adoption-league-629030",
+      "name": "Pet Adoption League",
+      "address": "6558 2nd Avenue Northwest, Seattle, WA 98117",
+      "phone": "425-556-0502",
+      "image": "./img/shelter/office/629030.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-adoption-league-629030/",
+      "imageUrl": "https://cdn.findpawpal.com/office/629030.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 664656,
+      "slug": "animal-lovers-society-664656",
+      "name": "Animal Lovers Society",
+      "address": "435 Lake Washington Boulevard, Seattle, WA 98122",
+      "phone": "206-325-4587",
+      "image": "./img/shelter/office/664656.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-lovers-society-664656/",
+      "imageUrl": "https://cdn.findpawpal.com/office/664656.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 698840,
+      "slug": "feral-care-698840",
+      "name": "Feral Care",
+      "address": "PO Box 147, Seattle, WA 98111",
+      "phone": "206-459-7202",
+      "image": "https://cdn.findpawpal.com/office/698840.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/feral-care-698840/"
+    },
+    {
+      "officeId": 698849,
+      "slug": "armedia-group-698849",
+      "name": "Armedia Group",
+      "address": "PO Box 70180, Seattle, WA 98127",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/698849.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/armedia-group-698849/"
+    },
+    {
+      "officeId": 698885,
+      "slug": "best-little-rabbit-rodent-and-ferret-house-698885",
+      "name": "Best Little Rabbit, Rodent & Ferret House",
+      "address": "14317 Lake City Way Northeast, Seattle, WA 98125",
+      "phone": "206-365-9105",
+      "image": "./img/shelter/office/698885.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/best-little-rabbit-rodent-and-ferret-house-698885/",
+      "imageUrl": "https://cdn.findpawpal.com/office/698885.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 714634,
+      "slug": "friends-of-campus-cats-714634",
+      "name": "Friends of Campus Cats",
+      "address": "PO Box 75224, Seattle, WA 98175",
+      "phone": "206-442-2051",
+      "image": "https://cdn.findpawpal.com/office/714634.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-campus-cats-714634/"
+    },
+    {
+      "officeId": 714682,
+      "slug": "doney-memorial-pet-clinic-714682",
+      "name": "Doney Memorial Pet Clinic",
+      "address": "318 2nd Avenue South, Seattle, WA 98104",
+      "phone": "206-622-5177",
+      "image": "./img/shelter/office/714682.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/doney-memorial-pet-clinic-714682/",
+      "imageUrl": "https://cdn.findpawpal.com/office/714682.jpg?f=webp&w=730"
+    }
+  ]
+}

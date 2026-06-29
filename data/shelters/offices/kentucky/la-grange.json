@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:57:25.491305+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "la-grange",
+    "name": "La Grange",
+    "label": "La Grange, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/la-grange/",
+  "offices": [
+    {
+      "officeId": 111191,
+      "slug": "humane-society-oldham-county-111191",
+      "name": "Humane Society-Oldham County",
+      "address": "2419 Highway 53, La Grange, KY 40031",
+      "phone": "502-222-7537",
+      "image": "./img/shelter/office/111191.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-oldham-county-111191/",
+      "imageUrl": "https://cdn.findpawpal.com/office/111191.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 125883,
+      "slug": "oldham-county-animal-control-125883",
+      "name": "Oldham County Animal Control",
+      "address": "3946 Jones Drive, La Grange, KY 40031",
+      "phone": "502-222-7387",
+      "image": "./img/shelter/office/125883.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/oldham-county-animal-control-125883/",
+      "imageUrl": "https://cdn.findpawpal.com/office/125883.jpg?f=webp&w=730"
+    }
+  ]
+}

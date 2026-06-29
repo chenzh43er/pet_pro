@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:17:36.532598+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "barnhart",
+    "name": "Barnhart",
+    "label": "Barnhart, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/barnhart/",
+  "offices": [
+    {
+      "officeId": 231893,
+      "slug": "jefferson-county-animal-control-231893",
+      "name": "Jefferson County Animal Control",
+      "address": "7105 Shelter Road, Barnhart, MO 63012",
+      "phone": "636-797-5577",
+      "image": "https://cdn.findpawpal.com/office/231893.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/jefferson-county-animal-control-231893/"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:25:26.693189+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "dos-palos",
+    "name": "Dos Palos",
+    "label": "Dos Palos, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/dos-palos/",
+  "offices": [
+    {
+      "slug": "dos-palos-animal-control-385672",
+      "name": "Dos Palos Animal Control",
+      "address": "1546 Golden Gate Avenue, Dos Palos, CA 93620",
+      "phone": "209-392-2176",
+      "image": "./img/shelter/office/385672.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dos-palos-animal-control-385672/",
+      "imageUrl": "https://cdn.findpawpal.com/office/385672.jpg?f=webp&w=730"
+    }
+  ]
+}

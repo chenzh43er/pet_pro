@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T18:34:24.121351+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "greeley",
+    "name": "Greeley",
+    "label": "Greeley, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/greeley/",
+  "offices": [
+    {
+      "officeId": 40110,
+      "slug": "rocky-mountain-siamese-rescue-40110",
+      "name": "Rocky Mountain Siamese Rescue",
+      "address": "PO Box 336563, Greeley, CO 80633",
+      "phone": "970-351-6582",
+      "image": "./img/shelter/office/40110.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rocky-mountain-siamese-rescue-40110/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40110.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40121,
+      "slug": "second-chance-rescue-40121",
+      "name": "Second Chance Rescue",
+      "address": "3016 North West C Street, Greeley, CO 80631",
+      "phone": "970-353-7955",
+      "image": "./img/shelter/office/40121.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/second-chance-rescue-40121/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40121.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40254,
+      "slug": "k-9-bed-and-biscuit-40254",
+      "name": "K-9 Bed and Biscuit",
+      "address": "14253 Highway 392, Greeley, CO 80631",
+      "phone": "970-352-5330",
+      "image": "./img/shelter/office/40254.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/k-9-bed-and-biscuit-40254/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40254.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40823,
+      "slug": "weld-county-animal-control-40823",
+      "name": "Weld County Animal Control",
+      "address": "2875 West 10th Street, Greeley, CO 80634",
+      "phone": "970-356-4015",
+      "image": "./img/shelter/office/40823.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/weld-county-animal-control-40823/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40823.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 593246,
+  "slug": "jefferson-county-animal-shelter-593246",
+  "name": "Jefferson County Animal Shelter",
+  "address": "PO Box 1220, Port Townsend, WA 98368",
+  "street": "PO Box 1220",
+  "addressCity": "Port Townsend",
+  "stateCode": "WA",
+  "zip": "98368",
+  "phone": "360-385-3292",
+  "image": "./img/shelter/office/593246.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/jefferson-county-animal-shelter-593246/",
+  "stateSlug": "washington",
+  "stateName": "Washington",
+  "citySlug": "port-townsend",
+  "cityName": "Port Townsend",
+  "cityLabel": "Port Townsend, WA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/washington/port-townsend/",
+  "fetchedAt": "2026-06-27T20:18:39.735099+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/593246.jpg?f=webp&w=730"
+}

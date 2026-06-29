@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T19:51:15.582553+00:00",
+  "state": {
+    "slug": "oregon",
+    "name": "Oregon"
+  },
+  "city": {
+    "slug": "prineville",
+    "name": "Prineville",
+    "label": "Prineville, OR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oregon/prineville/",
+  "offices": [
+    {
+      "officeId": 580759,
+      "slug": "humane-society-of-the-ochocos-580759",
+      "name": "Humane Society of the Ochocos",
+      "address": "1280 Tom McCall Road, Prineville, OR 97754",
+      "phone": "541-447-7178",
+      "image": "./img/shelter/office/580759.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-the-ochocos-580759/",
+      "imageUrl": "https://cdn.findpawpal.com/office/580759.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 661179,
+      "slug": "deweys-wheelchairs-for-dogs-661179",
+      "name": "Dewey's Wheelchairs for Dogs",
+      "address": "PO Box 1439, Prineville, OR 97754",
+      "phone": "877-312-2122",
+      "image": "./img/shelter/office/661179.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/deweys-wheelchairs-for-dogs-661179/",
+      "imageUrl": "https://cdn.findpawpal.com/office/661179.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 712985,
+      "slug": "oregon-state-animal-shelter-712985",
+      "name": "Oregon State Animal Shelter",
+      "address": "3347 Southeast Umatilla Loop, Prineville, OR 97754",
+      "phone": "971-313-3622",
+      "image": "https://cdn.findpawpal.com/office/712985.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon-state-animal-shelter-712985/"
+    }
+  ]
+}

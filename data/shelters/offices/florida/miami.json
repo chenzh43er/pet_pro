@@ -1,0 +1,86 @@
+{
+  "fetchedAt": "2026-06-27T18:15:43.832310+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "miami",
+    "name": "Miami",
+    "label": "Miami, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/miami/",
+  "offices": [
+    {
+      "slug": "the-underdog-foundation-inc-272180",
+      "name": "The Underdog Foundation, Inc.",
+      "address": "200 South Biscayne Boulevard, Miami, FL 33131",
+      "phone": "786-488-4565",
+      "image": "./img/shelter/office/272180.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-underdog-foundation-inc-272180/",
+      "imageUrl": "https://cdn.findpawpal.com/office/272180.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-adoption-and-wellness-society-inc-288268",
+      "name": "Pet Adoption and Wellness Society, Inc.",
+      "address": "2645 Northeast Miami Gardens Drive, Miami, FL 33180",
+      "phone": "",
+      "image": "./img/shelter/office/288268.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-adoption-and-wellness-society-inc-288268/",
+      "imageUrl": "https://cdn.findpawpal.com/office/288268.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "its-meow-or-never-animal-sanctuary-292592",
+      "name": "It's Meow Or Never Animal Sanctuary",
+      "address": "PO Box 833120, Miami, FL 33283",
+      "phone": "305-472-7284",
+      "image": "./img/shelter/office/292592.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/its-meow-or-never-animal-sanctuary-292592/",
+      "imageUrl": "https://cdn.findpawpal.com/office/292592.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-cat-network-inc-292662",
+      "name": "The Cat Network, Inc.",
+      "address": "7200 South Red Road, Miami, FL 33143",
+      "phone": "305-255-3482",
+      "image": "./img/shelter/office/292662.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-cat-network-inc-292662/",
+      "imageUrl": "https://cdn.findpawpal.com/office/292662.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "adopt-a-pet-325581",
+      "name": "Adopt-A-Pet",
+      "address": "720 Palm Bay Lane, Miami, FL 33138",
+      "phone": "305-258-5123",
+      "image": "./img/shelter/office/325581.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/adopt-a-pet-325581/",
+      "imageUrl": "https://cdn.findpawpal.com/office/325581.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-dade-county-animal-shelter-342616",
+      "name": "Friends of Dade County Animal Shelter",
+      "address": "11945 Southwest 127th Court, Miami, FL 33186",
+      "phone": "",
+      "image": "./img/shelter/office/342616.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-dade-county-animal-shelter-342616/",
+      "imageUrl": "https://cdn.findpawpal.com/office/342616.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-4-you-rescue-350818",
+      "name": "Paws 4 You Rescue",
+      "address": "PO Box 561163, Miami, FL 33256",
+      "phone": "786-242-7377",
+      "image": "./img/shelter/office/350818.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/paws-4-you-rescue-350818/",
+      "imageUrl": "https://cdn.findpawpal.com/office/350818.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "collies-florida-rescue-inc-358977",
+      "name": "Collies Florida Rescue Inc",
+      "address": "11131 Southwest 69th Terrace, Miami, FL 33173",
+      "phone": "813-817-1122",
+      "image": "https://cdn.findpawpal.com/office/358977.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/collies-florida-rescue-inc-358977/"
+    }
+  ]
+}

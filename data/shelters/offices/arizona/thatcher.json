@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:21:06.772734+00:00",
+  "state": {
+    "slug": "arizona",
+    "name": "Arizona"
+  },
+  "city": {
+    "slug": "thatcher",
+    "name": "Thatcher",
+    "label": "Thatcher, AZ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arizona/thatcher/",
+  "offices": [
+    {
+      "slug": "spay-neuter-hotline-of-graham-county-167332",
+      "name": "Spay Neuter Hotline of Graham County",
+      "address": "PO Box 1149, Thatcher, AZ 85552",
+      "phone": "520-428-2222",
+      "image": "./img/shelter/office/167332.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/spay-neuter-hotline-of-graham-county-167332/",
+      "imageUrl": "https://cdn.findpawpal.com/office/167332.jpg?f=webp&w=730"
+    }
+  ]
+}

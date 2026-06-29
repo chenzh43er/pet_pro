@@ -1,0 +1,43 @@
+{
+  "fetchedAt": "2026-06-27T20:24:10.869602+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "slinger",
+    "name": "Slinger",
+    "label": "Slinger, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/slinger/",
+  "offices": [
+    {
+      "officeId": 475398,
+      "slug": "washington-county-humane-society-475398",
+      "name": "Washington County Humane Society",
+      "address": "3650 Highway 60 Trunk, Slinger, WI 53086",
+      "phone": "262-677-4388",
+      "image": "./img/shelter/office/475398.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/washington-county-humane-society-475398/",
+      "imageUrl": "https://cdn.findpawpal.com/office/475398.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 520258,
+      "slug": "defenders-of-animals-520258",
+      "name": "Defenders of Animals",
+      "address": "PO Box 141, Slinger, WI 53086",
+      "phone": "262-644-7896",
+      "image": "https://cdn.findpawpal.com/office/520258.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/defenders-of-animals-520258/"
+    },
+    {
+      "officeId": 701737,
+      "slug": "animal-resource-center-inc-701737",
+      "name": "Animal Resource Center, Inc.",
+      "address": "PO Box 98, Slinger, WI 53086",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/701737.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-resource-center-inc-701737/"
+    }
+  ]
+}

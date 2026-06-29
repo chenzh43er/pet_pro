@@ -1,0 +1,21 @@
+{
+  "officeId": 706688,
+  "slug": "paws-and-claws-animal-rescue-706688",
+  "name": "PAWS & Claws Animal Rescue",
+  "address": "PO Box 2504, Reston, VA 20195",
+  "street": "PO Box 2504",
+  "addressCity": "Reston",
+  "stateCode": "VA",
+  "zip": "20195",
+  "phone": "703-689-0500",
+  "image": "./img/shelter/office/706688.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/paws-and-claws-animal-rescue-706688/",
+  "stateSlug": "virginia",
+  "stateName": "Virginia",
+  "citySlug": "reston",
+  "cityName": "Reston",
+  "cityLabel": "Reston, VA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/virginia/reston/",
+  "fetchedAt": "2026-06-27T20:15:50.787428+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/706688.jpg?f=webp&w=730"
+}

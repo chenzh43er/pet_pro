@@ -1,0 +1,109 @@
+{
+  "fetchedAt": "2026-06-27T18:20:49.493186+00:00",
+  "state": {
+    "slug": "arizona",
+    "name": "Arizona"
+  },
+  "city": {
+    "slug": "scottsdale",
+    "name": "Scottsdale",
+    "label": "Scottsdale, AZ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arizona/scottsdale/",
+  "offices": [
+    {
+      "slug": "foothills-animal-rescue-156958",
+      "name": "Foothills Animal Rescue",
+      "address": "23030 North Pima Road, Scottsdale, AZ 85255",
+      "phone": "480-488-9890",
+      "image": "./img/shelter/office/156958.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/foothills-animal-rescue-156958/",
+      "imageUrl": "https://cdn.findpawpal.com/office/156958.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cat-nip-and-tuck-166658",
+      "name": "Cat Nip and Tuck",
+      "address": "PO Box 2993, Scottsdale, AZ 85252",
+      "phone": "480-949-7729",
+      "image": "https://cdn.findpawpal.com/office/166658.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/cat-nip-and-tuck-166658/"
+    },
+    {
+      "slug": "arizona-feline-network-167506",
+      "name": "Arizona Feline Network",
+      "address": "5821 North 82nd Street, Scottsdale, AZ 85250",
+      "phone": "480-483-3214",
+      "image": "./img/shelter/office/167506.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/arizona-feline-network-167506/",
+      "imageUrl": "https://cdn.findpawpal.com/office/167506.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "companion-animal-association-of-arizona-169397",
+      "name": "Companion Animal Association of Arizona",
+      "address": "PO Box 5006, Scottsdale, AZ 85261",
+      "phone": "602-258-3306",
+      "image": "https://cdn.findpawpal.com/office/169397.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/companion-animal-association-of-arizona-169397/"
+    },
+    {
+      "slug": "arizona-cat-assistance-team-inc-170757",
+      "name": "Arizona Cat Assistance Team, Inc.",
+      "address": "PO Box J, Scottsdale, AZ 85252",
+      "phone": "602-287-8824",
+      "image": "https://cdn.findpawpal.com/office/170757.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/arizona-cat-assistance-team-inc-170757/"
+    },
+    {
+      "slug": "protect-animals-through-angels-inc-171894",
+      "name": "Protect Animals Through Angels, Inc.",
+      "address": "6221 East Shea Boulevard, Scottsdale, AZ 85254",
+      "phone": "480-607-2891",
+      "image": "./img/shelter/office/171894.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/protect-animals-through-angels-inc-171894/",
+      "imageUrl": "https://cdn.findpawpal.com/office/171894.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paw-placement-171903",
+      "name": "Paw Placement",
+      "address": "3370 Hayden Road, Scottsdale, AZ 85251",
+      "phone": "602-712-1599",
+      "image": "./img/shelter/office/171903.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/paw-placement-171903/",
+      "imageUrl": "https://cdn.findpawpal.com/office/171903.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greyhounds-of-fairhaven-184417",
+      "name": "Greyhounds of Fairhaven",
+      "address": "16632 North 105th Way, Scottsdale, AZ 85255",
+      "phone": "602-493-1063",
+      "image": "./img/shelter/office/184417.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhounds-of-fairhaven-184417/",
+      "imageUrl": "https://cdn.findpawpal.com/office/184417.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "citizens-for-scottsdale-strays-190819",
+      "name": "Citizens for Scottsdale Strays",
+      "address": "PO Box 1345, Scottsdale, AZ 85252",
+      "phone": "602-341-7338",
+      "image": "https://cdn.findpawpal.com/office/190819.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/citizens-for-scottsdale-strays-190819/"
+    },
+    {
+      "slug": "tranquility-trail-animal-sanctuary-192338",
+      "name": "Tranquility Trail Animal Sanctuary",
+      "address": "7848 East Redfield Road, Scottsdale, AZ 85260",
+      "phone": "480-406-7301",
+      "image": "./img/shelter/office/192338.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tranquility-trail-animal-sanctuary-192338/",
+      "imageUrl": "https://cdn.findpawpal.com/office/192338.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "scottsdale-animal-control-192422",
+      "name": "Scottsdale Animal Control",
+      "address": "9293 East Desert View, Scottsdale, AZ 85255",
+      "phone": "480-279-5135",
+      "image": "https://cdn.findpawpal.com/office/192422.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/scottsdale-animal-control-192422/"
+    }
+  ]
+}

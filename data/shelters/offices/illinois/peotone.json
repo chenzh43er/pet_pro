@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:47:35.960103+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "peotone",
+    "name": "Peotone",
+    "label": "Peotone, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/peotone/",
+  "offices": [
+    {
+      "officeId": 674660,
+      "slug": "friends-for-life-inc-adoption-program-674660",
+      "name": "Friends For Life, Inc. Adoption Program",
+      "address": "314 Harlem Avenue, Peotone, IL 60468",
+      "phone": "708-258-6181",
+      "image": "./img/shelter/office/674660.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-for-life-inc-adoption-program-674660/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674660.jpg?f=webp&w=730"
+    }
+  ]
+}

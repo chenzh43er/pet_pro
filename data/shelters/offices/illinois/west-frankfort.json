@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:48:46.842084+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "west-frankfort",
+    "name": "West Frankfort",
+    "label": "West Frankfort, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/west-frankfort/",
+  "offices": [
+    {
+      "officeId": 412367,
+      "slug": "franklin-county-humane-society-412367",
+      "name": "Franklin County Humane Society",
+      "address": "436 Freeman Spur Road, West Frankfort, IL 62896",
+      "phone": "",
+      "image": "./img/shelter/office/412367.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/franklin-county-humane-society-412367/",
+      "imageUrl": "https://cdn.findpawpal.com/office/412367.jpg?f=webp&w=730"
+    }
+  ]
+}

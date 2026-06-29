@@ -1,0 +1,21 @@
+{
+  "officeId": 664686,
+  "slug": "sunny-skys-animal-rescue-664686",
+  "name": "Sunny Sky's Animal Rescue",
+  "address": "1102 East Main Avenue, Puyallup, WA 98372",
+  "street": "1102 East Main Avenue",
+  "addressCity": "Puyallup",
+  "stateCode": "WA",
+  "zip": "98372",
+  "phone": "253-845-8866",
+  "image": "./img/shelter/office/664686.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/sunny-skys-animal-rescue-664686/",
+  "stateSlug": "washington",
+  "stateName": "Washington",
+  "citySlug": "puyallup",
+  "cityName": "Puyallup",
+  "cityLabel": "Puyallup, WA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/washington/puyallup/",
+  "fetchedAt": "2026-06-27T20:18:42.746878+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/664686.jpg?f=webp&w=730"
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 201794,
+  "slug": "lafayette-animal-shelter-201794",
+  "name": "Lafayette Animal Shelter",
+  "address": "512 Veterans Memorial Parkway East, Lafayette, IN 47905",
+  "street": "512 Veterans Memorial Parkway East",
+  "addressCity": "Lafayette",
+  "stateCode": "IN",
+  "zip": "47905",
+  "phone": "765-447-1667",
+  "image": "./img/shelter/office/201794.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/lafayette-animal-shelter-201794/",
+  "stateSlug": "indiana",
+  "stateName": "Indiana",
+  "citySlug": "lafayette",
+  "cityName": "Lafayette",
+  "cityLabel": "Lafayette, IN",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/indiana/lafayette/",
+  "fetchedAt": "2026-06-27T18:50:37.254347+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/201794.jpg?f=webp&w=730"
+}

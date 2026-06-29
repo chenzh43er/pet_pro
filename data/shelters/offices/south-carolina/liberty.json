@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:57:46.690055+00:00",
+  "state": {
+    "slug": "south-carolina",
+    "name": "South Carolina"
+  },
+  "city": {
+    "slug": "liberty",
+    "name": "Liberty",
+    "label": "Liberty, SC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-carolina/liberty/",
+  "offices": [
+    {
+      "officeId": 709529,
+      "slug": "foothills-humane-society-foothills-humane-society-709529",
+      "name": "Foothills Humane Society. Foothills Humane Society",
+      "address": "500 5 Forks Road, Liberty, SC 29657",
+      "phone": "864-843-9693",
+      "image": "./img/shelter/office/709529.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/foothills-humane-society-foothills-humane-society-709529/",
+      "imageUrl": "https://cdn.findpawpal.com/office/709529.jpg?f=webp&w=730"
+    }
+  ]
+}

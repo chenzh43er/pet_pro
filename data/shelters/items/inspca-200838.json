@@ -1,0 +1,21 @@
+{
+  "officeId": 200838,
+  "slug": "inspca-200838",
+  "name": "InSPCA",
+  "address": "102 Lincolnway East, Mishawaka, IN 46544",
+  "street": "102 Lincolnway East",
+  "addressCity": "Mishawaka",
+  "stateCode": "IN",
+  "zip": "46544",
+  "phone": "574-217-7947",
+  "image": "./img/shelter/office/200838.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/inspca-200838/",
+  "stateSlug": "indiana",
+  "stateName": "Indiana",
+  "citySlug": "mishawaka",
+  "cityName": "Mishawaka",
+  "cityLabel": "Mishawaka, IN",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/indiana/mishawaka/",
+  "fetchedAt": "2026-06-27T18:51:01.807288+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/200838.jpg?f=webp&w=730"
+}

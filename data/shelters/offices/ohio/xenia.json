@@ -1,0 +1,74 @@
+{
+  "fetchedAt": "2026-06-27T19:47:51.775122+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "xenia",
+    "name": "Xenia",
+    "label": "Xenia, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/xenia/",
+  "offices": [
+    {
+      "officeId": 423277,
+      "slug": "hole-in-the-wall-farms-423277",
+      "name": "Hole In The Wall Farms",
+      "address": "1550 Stone Road, Xenia, OH 45385",
+      "phone": "937-376-2700",
+      "image": "./img/shelter/office/423277.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hole-in-the-wall-farms-423277/",
+      "imageUrl": "https://cdn.findpawpal.com/office/423277.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 444801,
+      "slug": "no-place-like-home-444801",
+      "name": "No Place Like Home",
+      "address": "2727 East Kearney Lane, Xenia, OH 45385",
+      "phone": "",
+      "image": "./img/shelter/office/444801.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/no-place-like-home-444801/",
+      "imageUrl": "https://cdn.findpawpal.com/office/444801.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 458086,
+      "slug": "4-paws-for-ability-inc-458086",
+      "name": "4 PAWS for Ability, Inc.",
+      "address": "253 Dayton Avenue, Xenia, OH 45385",
+      "phone": "937-374-0385",
+      "image": "./img/shelter/office/458086.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/4-paws-for-ability-inc-458086/",
+      "imageUrl": "https://cdn.findpawpal.com/office/458086.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 466179,
+      "slug": "humane-society-greene-county-466179",
+      "name": "Humane Society-Greene County",
+      "address": "187 Bellbrook Avenue, Xenia, OH 45385",
+      "phone": "937-376-3001",
+      "image": "./img/shelter/office/466179.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-greene-county-466179/",
+      "imageUrl": "https://cdn.findpawpal.com/office/466179.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 588028,
+      "slug": "advocates-4-animals-rescue-rehabilitation-588028",
+      "name": "Advocates 4 Animals Rescue Rehabilitation",
+      "address": "2727 East Kearney Lane, Xenia, OH 45385",
+      "phone": "",
+      "image": "./img/shelter/office/588028.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/advocates-4-animals-rescue-rehabilitation-588028/",
+      "imageUrl": "https://cdn.findpawpal.com/office/588028.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 640278,
+      "slug": "greene-county-animal-control-640278",
+      "name": "Greene County Animal Control",
+      "address": "641 Dayton Xenia Road, Xenia, OH 45385",
+      "phone": "937-562-7400",
+      "image": "https://cdn.findpawpal.com/office/640278.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/greene-county-animal-control-640278/"
+    }
+  ]
+}

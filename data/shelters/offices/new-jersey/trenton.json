@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T19:29:17.047974+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "trenton",
+    "name": "Trenton",
+    "label": "Trenton, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/trenton/",
+  "offices": [
+    {
+      "officeId": 94807,
+      "slug": "trenton-animal-shelter-94807",
+      "name": "Trenton Animal Shelter",
+      "address": "72 Escher Street, Trenton, NJ 08609",
+      "phone": "609-989-3254",
+      "image": "./img/shelter/office/94807.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/trenton-animal-shelter-94807/",
+      "imageUrl": "https://cdn.findpawpal.com/office/94807.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 96424,
+      "slug": "trenton-animal-shelter-96424",
+      "name": "Trenton Animal Shelter",
+      "address": "72 Escher Street, Trenton, NJ 08609",
+      "phone": "609-989-3254",
+      "image": "./img/shelter/office/96424.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/trenton-animal-shelter-96424/",
+      "imageUrl": "https://cdn.findpawpal.com/office/96424.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 97042,
+      "slug": "ewing-township-animal-shelter-97042",
+      "name": "Ewing Township Animal Shelter",
+      "address": "560 West Ingham Avenue, Trenton, NJ 08638",
+      "phone": "609-393-9608",
+      "image": "./img/shelter/office/97042.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ewing-township-animal-shelter-97042/",
+      "imageUrl": "https://cdn.findpawpal.com/office/97042.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 104716,
+      "slug": "ewing-animal-shelter-104716",
+      "name": "Ewing Animal Shelter",
+      "address": "559 West Ingham Avenue, Trenton, NJ 08638",
+      "phone": "609-393-9608",
+      "image": "./img/shelter/office/104716.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ewing-animal-shelter-104716/",
+      "imageUrl": "https://cdn.findpawpal.com/office/104716.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "fetchedAt": "2026-06-27T20:20:03.955426+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "charleston",
+    "name": "Charleston",
+    "label": "Charleston, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/charleston/",
+  "offices": [
+    {
+      "officeId": 466036,
+      "slug": "dachshund-rescue-of-charleston-wv-466036",
+      "name": "Dachshund Rescue of Charleston Wv",
+      "address": "487 58th Street Southeast, Charleston, WV 25304",
+      "phone": "304-541-5533",
+      "image": "./img/shelter/office/466036.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dachshund-rescue-of-charleston-wv-466036/",
+      "imageUrl": "https://cdn.findpawpal.com/office/466036.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 466038,
+      "slug": "mountain-state-boxer-rescue-466038",
+      "name": "Mountain State Boxer Rescue",
+      "address": "PO Box 11891, Charleston, WV 25339",
+      "phone": "304-344-4380",
+      "image": "./img/shelter/office/466038.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mountain-state-boxer-rescue-466038/",
+      "imageUrl": "https://cdn.findpawpal.com/office/466038.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 618920,
+      "slug": "kanawha-charleston-humane-association-618920",
+      "name": "Kanawha-Charleston Humane Association",
+      "address": "1248 Greenbrier Street, Charleston, WV 25311",
+      "phone": "304-342-1576",
+      "image": "./img/shelter/office/618920.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kanawha-charleston-humane-association-618920/",
+      "imageUrl": "https://cdn.findpawpal.com/office/618920.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 618923,
+      "slug": "karen-and-friends-animal-rescue-inc-618923",
+      "name": "Karen and Friends Animal Rescue, Inc.",
+      "address": "PO Box 6123, Charleston, WV 25362",
+      "phone": "304-553-8140",
+      "image": "./img/shelter/office/618923.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/karen-and-friends-animal-rescue-inc-618923/",
+      "imageUrl": "https://cdn.findpawpal.com/office/618923.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 618937,
+      "slug": "kanawha-action-for-animals-618937",
+      "name": "Kanawha Action for Animals",
+      "address": "101 Tiffany Lane, Charleston, WV 25302",
+      "phone": "304-342-7297",
+      "image": "./img/shelter/office/618937.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kanawha-action-for-animals-618937/",
+      "imageUrl": "https://cdn.findpawpal.com/office/618937.jpg?f=webp&w=730"
+    }
+  ]
+}

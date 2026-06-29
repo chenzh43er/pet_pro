@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T20:11:02.955010+00:00",
+  "state": {
+    "slug": "utah",
+    "name": "Utah"
+  },
+  "city": {
+    "slug": "murray",
+    "name": "Murray",
+    "label": "Murray, UT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/utah/murray/",
+  "offices": [
+    {
+      "officeId": 537877,
+      "slug": "humane-society-of-utah-537877",
+      "name": "Humane Society of Utah",
+      "address": "4242 300 West, Murray, UT 84107",
+      "phone": "801-261-2919",
+      "image": "https://cdn.findpawpal.com/office/537877.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-utah-537877/"
+    },
+    {
+      "officeId": 633313,
+      "slug": "murray-animal-shelter-633313",
+      "name": "Murray Animal Shelter",
+      "address": "5624 300 West, Murray, UT 84107",
+      "phone": "801-264-2671",
+      "image": "./img/shelter/office/633313.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/murray-animal-shelter-633313/",
+      "imageUrl": "https://cdn.findpawpal.com/office/633313.jpg?f=webp&w=730"
+    }
+  ]
+}

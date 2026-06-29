@@ -1,0 +1,21 @@
+{
+  "officeId": 361060,
+  "slug": "woods-humane-society-361060",
+  "name": "Woods Humane Society",
+  "address": "875 Oklahoma Avenue, San Luis Obispo, CA 93405",
+  "street": "875 Oklahoma Avenue",
+  "addressCity": "San Luis Obispo",
+  "stateCode": "CA",
+  "zip": "93405",
+  "phone": "805-543-9316",
+  "image": "./img/shelter/office/361060.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/woods-humane-society-361060/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "san-luis-obispo",
+  "cityName": "San Luis Obispo",
+  "cityLabel": "San Luis Obispo, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/san-luis-obispo/",
+  "fetchedAt": "2026-06-27T18:30:22.992030+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/361060.jpg?f=webp&w=730"
+}

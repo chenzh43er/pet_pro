@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:26:48.733849+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "kelseyville",
+    "name": "Kelseyville",
+    "label": "Kelseyville, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/kelseyville/",
+  "offices": [
+    {
+      "slug": "kelseyville-animal-control-539892",
+      "name": "Kelseyville Animal Control",
+      "address": "8025 California 29, Kelseyville, CA 95451",
+      "phone": "707-279-1400",
+      "image": "./img/shelter/office/539892.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kelseyville-animal-control-539892/",
+      "imageUrl": "https://cdn.findpawpal.com/office/539892.jpg?f=webp&w=730"
+    }
+  ]
+}

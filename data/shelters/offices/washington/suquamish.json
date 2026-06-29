@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:19:17.194231+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "suquamish",
+    "name": "Suquamish",
+    "label": "Suquamish, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/suquamish/",
+  "offices": [
+    {
+      "officeId": 610768,
+      "slug": "kindred-spirits-animal-sanctuary-610768",
+      "name": "Kindred Spirits Animal Sanctuary",
+      "address": "PO Box 48, Suquamish, WA 98392",
+      "phone": "",
+      "image": "./img/shelter/office/610768.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kindred-spirits-animal-sanctuary-610768/",
+      "imageUrl": "https://cdn.findpawpal.com/office/610768.jpg?f=webp&w=730"
+    }
+  ]
+}

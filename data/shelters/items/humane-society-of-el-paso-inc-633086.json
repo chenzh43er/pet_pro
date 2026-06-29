@@ -1,0 +1,21 @@
+{
+  "officeId": 633086,
+  "slug": "humane-society-of-el-paso-inc-633086",
+  "name": "Humane Society of El Paso, Inc.",
+  "address": "325 Shelter Place, El Paso, TX 79905",
+  "street": "325 Shelter Place",
+  "addressCity": "El Paso",
+  "stateCode": "TX",
+  "zip": "79905",
+  "phone": "915-532-6771",
+  "image": "./img/shelter/office/633086.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-el-paso-inc-633086/",
+  "stateSlug": "texas",
+  "stateName": "Texas",
+  "citySlug": "el-paso",
+  "cityName": "El Paso",
+  "cityLabel": "El Paso, TX",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/texas/el-paso/",
+  "fetchedAt": "2026-06-27T20:04:40.616677+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/633086.jpg?f=webp&w=730"
+}

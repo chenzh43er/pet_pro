@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:10:46.327491+00:00",
+  "state": {
+    "slug": "utah",
+    "name": "Utah"
+  },
+  "city": {
+    "slug": "kanab",
+    "name": "Kanab",
+    "label": "Kanab, UT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/utah/kanab/",
+  "offices": [
+    {
+      "officeId": 494110,
+      "slug": "best-friends-animal-society-494110",
+      "name": "Best Friends Animal Society",
+      "address": "5001 Angel Canyon Road, Kanab, UT 84741",
+      "phone": "435-644-2001",
+      "image": "./img/shelter/office/494110.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/best-friends-animal-society-494110/",
+      "imageUrl": "https://cdn.findpawpal.com/office/494110.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674304,
+      "slug": "greyhound-gang-674304",
+      "name": "Greyhound Gang",
+      "address": "PO Box 274, Kanab, UT 84741",
+      "phone": "435-644-2903",
+      "image": "./img/shelter/office/674304.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhound-gang-674304/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674304.jpg?f=webp&w=730"
+    }
+  ]
+}

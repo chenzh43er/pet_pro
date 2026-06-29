@@ -1,0 +1,21 @@
+{
+  "officeId": 673430,
+  "slug": "happy-puppies-inc-673430",
+  "name": "Happy Puppies, Inc.",
+  "address": "27700 Old Highway 80 Drive, Richland Center, WI 53581",
+  "street": "27700 Old Highway 80 Drive",
+  "addressCity": "Richland Center",
+  "stateCode": "WI",
+  "zip": "53581",
+  "phone": "608-647-3753",
+  "image": "./img/shelter/office/673430.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/happy-puppies-inc-673430/",
+  "stateSlug": "wisconsin",
+  "stateName": "Wisconsin",
+  "citySlug": "richland-center",
+  "cityName": "Richland Center",
+  "cityLabel": "Richland Center, WI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/wisconsin/richland-center/",
+  "fetchedAt": "2026-06-27T20:23:54.359828+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/673430.jpg?f=webp&w=730"
+}

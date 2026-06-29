@@ -1,0 +1,96 @@
+{
+  "fetchedAt": "2026-06-27T18:19:07.806149+00:00",
+  "state": {
+    "slug": "alaska",
+    "name": "Alaska"
+  },
+  "city": {
+    "slug": "anchorage",
+    "name": "Anchorage",
+    "label": "Anchorage, AK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alaska/anchorage/",
+  "offices": [
+    {
+      "slug": "alaska-animal-control-130016",
+      "name": "Alaska Animal Control",
+      "address": "549 West International Airport Road, Anchorage, AK 99518",
+      "phone": "907-562-2999",
+      "image": "./img/shelter/office/130016.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/alaska-animal-control-130016/",
+      "imageUrl": "https://cdn.findpawpal.com/office/130016.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-control-130026",
+      "name": "Animal Control",
+      "address": "4711 Elmore Road, Anchorage, AK 99507",
+      "phone": "907-343-8119",
+      "image": "./img/shelter/office/130026.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-control-130026/",
+      "imageUrl": "https://cdn.findpawpal.com/office/130026.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chateau-pampered-purr-133698",
+      "name": "Chateau Pampered Purr",
+      "address": "611 West Tudor Road, Anchorage, AK 99503",
+      "phone": "907-248-0155",
+      "image": "./img/shelter/office/133698.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/chateau-pampered-purr-133698/",
+      "imageUrl": "https://cdn.findpawpal.com/office/133698.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-pets-136791",
+      "name": "Friends of Pets",
+      "address": "PO Box 240981, Anchorage, AK 99524",
+      "phone": "907-562-2535",
+      "image": "./img/shelter/office/136791.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-pets-136791/",
+      "imageUrl": "https://cdn.findpawpal.com/office/136791.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-shelter-anchorage-136877",
+      "name": "Animal Shelter Anchorage",
+      "address": "3600 East Tudor Road, Anchorage, AK 99507",
+      "phone": "907-561-1369",
+      "image": "./img/shelter/office/136877.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-shelter-anchorage-136877/",
+      "imageUrl": "https://cdn.findpawpal.com/office/136877.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chinchillas-alaska-141062",
+      "name": "Chinchillas Alaska",
+      "address": "6735 Lisa Court, Anchorage, AK 99507",
+      "phone": "907-346-1214",
+      "image": "./img/shelter/office/141062.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/chinchillas-alaska-141062/",
+      "imageUrl": "https://cdn.findpawpal.com/office/141062.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kitty-and-k-9-connection-142504",
+      "name": "Kitty & K-9 Connection",
+      "address": "13140 Midori Drive, Anchorage, AK 99516",
+      "phone": "907-345-2096",
+      "image": "./img/shelter/office/142504.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kitty-and-k-9-connection-142504/",
+      "imageUrl": "https://cdn.findpawpal.com/office/142504.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alaska-spca-144131",
+      "name": "Alaska SPCA",
+      "address": "7309 Arctic Boulevard, Anchorage, AK 99518",
+      "phone": "907-344-3622",
+      "image": "./img/shelter/office/144131.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/alaska-spca-144131/",
+      "imageUrl": "https://cdn.findpawpal.com/office/144131.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alaska-humane-society-152625",
+      "name": "Alaska Humane Society",
+      "address": "1200 East 76th Avenue, Anchorage, AK 99518",
+      "phone": "907-344-8808",
+      "image": "./img/shelter/office/152625.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/alaska-humane-society-152625/",
+      "imageUrl": "https://cdn.findpawpal.com/office/152625.jpg?f=webp&w=730"
+    }
+  ]
+}

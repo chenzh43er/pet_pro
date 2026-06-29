@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:23:46.809752+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "plover",
+    "name": "Plover",
+    "label": "Plover, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/plover/",
+  "offices": [
+    {
+      "officeId": 533815,
+      "slug": "humane-society-of-portage-county-inc-533815",
+      "name": "Humane Society Of Portage County Inc",
+      "address": "3200 Iber Lane, Plover, WI 54467",
+      "phone": "715-344-6012",
+      "image": "https://cdn.findpawpal.com/office/533815.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-portage-county-inc-533815/"
+    }
+  ]
+}

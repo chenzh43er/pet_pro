@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:35:10.216799+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "montour-falls",
+    "name": "Montour Falls",
+    "label": "Montour Falls, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/montour-falls/",
+  "offices": [
+    {
+      "officeId": 415653,
+      "slug": "schuyler-humane-society-415653",
+      "name": "Schuyler Humane Society",
+      "address": "PO Box 427, Montour Falls, NY 14865",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/415653.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/schuyler-humane-society-415653/"
+    }
+  ]
+}

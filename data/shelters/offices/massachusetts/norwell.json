@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:07:45.322036+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "norwell",
+    "name": "Norwell",
+    "label": "Norwell, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/norwell/",
+  "offices": [
+    {
+      "officeId": 40351,
+      "slug": "pookies-pals-40351",
+      "name": "Pookie's Pals",
+      "address": "PO Box 226, Norwell, MA 02061",
+      "phone": "781-659-4023",
+      "image": "https://cdn.findpawpal.com/office/40351.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/pookies-pals-40351/"
+    }
+  ]
+}

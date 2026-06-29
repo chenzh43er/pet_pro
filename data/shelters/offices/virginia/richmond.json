@@ -1,0 +1,102 @@
+{
+  "fetchedAt": "2026-06-27T20:15:52.375246+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "richmond",
+    "name": "Richmond",
+    "label": "Richmond, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/richmond/",
+  "offices": [
+    {
+      "officeId": 529312,
+      "slug": "animal-adoption-and-rescue-foundation-529312",
+      "name": "Animal Adoption and Rescue Foundation",
+      "address": "PO Box 15262, Richmond, VA 23227",
+      "phone": "804-254-0800",
+      "image": "https://cdn.findpawpal.com/office/529312.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-adoption-and-rescue-foundation-529312/"
+    },
+    {
+      "officeId": 554354,
+      "slug": "greyhound-pets-of-america-554354",
+      "name": "Greyhound Pets of America",
+      "address": "PO Box 70811, Richmond, VA 23255",
+      "phone": "804-527-3584",
+      "image": "https://cdn.findpawpal.com/office/554354.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhound-pets-of-america-554354/"
+    },
+    {
+      "officeId": 554914,
+      "slug": "henrico-county-animal-shelter-554914",
+      "name": "Henrico County Animal Shelter",
+      "address": "420 Dabbs House Road, Richmond, VA 23223",
+      "phone": "804-652-3360",
+      "image": "./img/shelter/office/554914.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/henrico-county-animal-shelter-554914/",
+      "imageUrl": "https://cdn.findpawpal.com/office/554914.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 575064,
+      "slug": "richmond-spca-575064",
+      "name": "Richmond SPCA",
+      "address": "2519 Hermitage Road, Richmond, VA 23220",
+      "phone": "804-643-6785",
+      "image": "./img/shelter/office/575064.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/richmond-spca-575064/",
+      "imageUrl": "https://cdn.findpawpal.com/office/575064.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 579199,
+      "slug": "save-our-shelters-579199",
+      "name": "Save Our Shelters",
+      "address": "2933 West Cary Street, Richmond, VA 23221",
+      "phone": "804-358-7499",
+      "image": "./img/shelter/office/579199.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/save-our-shelters-579199/",
+      "imageUrl": "https://cdn.findpawpal.com/office/579199.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 644734,
+      "slug": "mid-atlantic-english-springer-spaniel-rescue-644734",
+      "name": "Mid Atlantic English Springer Spaniel Rescue",
+      "address": "PO Box 15354, Richmond, VA 23227",
+      "phone": "301-362-0423",
+      "image": "https://cdn.findpawpal.com/office/644734.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/mid-atlantic-english-springer-spaniel-rescue-644734/"
+    },
+    {
+      "officeId": 706679,
+      "slug": "richmond-animal-league-706679",
+      "name": "Richmond Animal League",
+      "address": "11401 International Drive, Richmond, VA 23236",
+      "phone": "804-379-0046",
+      "image": "./img/shelter/office/706679.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/richmond-animal-league-706679/",
+      "imageUrl": "https://cdn.findpawpal.com/office/706679.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 706743,
+      "slug": "richmond-city-animal-shelter-706743",
+      "name": "Richmond City Animal Shelter",
+      "address": "1600 Chamberlayne Avenue, Richmond, VA 23222",
+      "phone": "840-646-5573",
+      "image": "./img/shelter/office/706743.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/richmond-city-animal-shelter-706743/",
+      "imageUrl": "https://cdn.findpawpal.com/office/706743.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 706778,
+      "slug": "henrico-humane-society-706778",
+      "name": "Henrico Humane Society",
+      "address": "10421 Woodman Rd, Richmond, VA 23228",
+      "phone": "804-262-6634",
+      "image": "./img/shelter/office/706778.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/henrico-humane-society-706778/",
+      "imageUrl": "https://cdn.findpawpal.com/office/706778.jpg?f=webp&w=730"
+    }
+  ]
+}

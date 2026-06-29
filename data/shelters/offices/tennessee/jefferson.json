@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:00:31.737634+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "jefferson",
+    "name": "Jefferson",
+    "label": "Jefferson, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/jefferson/",
+  "offices": [
+    {
+      "officeId": 425621,
+      "slug": "humane-society-jefferson-county-425621",
+      "name": "Humane Society-Jefferson County",
+      "address": "310 Landfill Road, Jefferson, TN 37760",
+      "phone": "865-475-8930",
+      "image": "./img/shelter/office/425621.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-jefferson-county-425621/",
+      "imageUrl": "https://cdn.findpawpal.com/office/425621.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 193001,
+  "slug": "feline-friends-of-missouri-193001",
+  "name": "Feline Friends of Missouri",
+  "address": "1506 Creve Coeur Mill Road, St. Louis, MO 63146",
+  "street": "1506 Creve Coeur Mill Road",
+  "addressCity": "St. Louis",
+  "stateCode": "MO",
+  "zip": "63146",
+  "phone": "314-878-3645",
+  "image": "./img/shelter/office/193001.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/feline-friends-of-missouri-193001/",
+  "stateSlug": "missouri",
+  "stateName": "Missouri",
+  "citySlug": "st-louis",
+  "cityName": "St. Louis",
+  "cityLabel": "St. Louis, MO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/missouri/st-louis/",
+  "fetchedAt": "2026-06-27T19:20:46.295628+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/193001.jpg?f=webp&w=730"
+}

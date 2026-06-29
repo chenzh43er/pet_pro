@@ -1,0 +1,21 @@
+{
+  "officeId": 215400,
+  "slug": "nc-yorkie-rescue-inc-215400",
+  "name": "Nc Yorkie Rescue, Inc.",
+  "address": "5071 Foxburrow Road, Greensboro, NC 27406",
+  "street": "5071 Foxburrow Road",
+  "addressCity": "Greensboro",
+  "stateCode": "NC",
+  "zip": "27406",
+  "phone": "336-669-5833",
+  "image": "./img/shelter/office/215400.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/nc-yorkie-rescue-inc-215400/",
+  "stateSlug": "north-carolina",
+  "stateName": "North Carolina",
+  "citySlug": "greensboro",
+  "cityName": "Greensboro",
+  "cityLabel": "Greensboro, NC",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/north-carolina/greensboro/",
+  "fetchedAt": "2026-06-27T19:39:26.306892+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/215400.jpg?f=webp&w=730"
+}

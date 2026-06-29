@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T19:09:13.909486+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "allegan",
+    "name": "Allegan",
+    "label": "Allegan, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/allegan/",
+  "offices": [
+    {
+      "officeId": 190625,
+      "slug": "allegan-county-animal-shelter-190625",
+      "name": "Allegan County Animal Shelter",
+      "address": "2283 33rd Street, Allegan, MI 49010",
+      "phone": "269-673-0519",
+      "image": "https://cdn.findpawpal.com/office/190625.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/allegan-county-animal-shelter-190625/"
+    },
+    {
+      "officeId": 203405,
+      "slug": "adopt-a-pet-rescue-203405",
+      "name": "Adopt-A-Pet Rescue",
+      "address": "3537 Lake Ridge Lane, Allegan, MI 49010",
+      "phone": "269-673-5942",
+      "image": "https://cdn.findpawpal.com/office/203405.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/adopt-a-pet-rescue-203405/"
+    }
+  ]
+}

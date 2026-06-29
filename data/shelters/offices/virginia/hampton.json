@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T20:14:26.122511+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "hampton",
+    "name": "Hampton",
+    "label": "Hampton, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/hampton/",
+  "offices": [
+    {
+      "officeId": 574819,
+      "slug": "the-cat-corner-574819",
+      "name": "The Cat Corner",
+      "address": "85 Fulton St, Hampton, VA 23663",
+      "phone": "757-722-0590",
+      "image": "./img/shelter/office/574819.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-cat-corner-574819/",
+      "imageUrl": "https://cdn.findpawpal.com/office/574819.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 578902,
+      "slug": "reptile-rescue-ranch-of-virginia-578902",
+      "name": "Reptile Rescue Ranch of Virginia",
+      "address": "1521 Denton Dr, Hampton, VA 23664",
+      "phone": "757-268-1770",
+      "image": "./img/shelter/office/578902.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/reptile-rescue-ranch-of-virginia-578902/",
+      "imageUrl": "https://cdn.findpawpal.com/office/578902.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 706706,
+      "slug": "no-kill-dog-shelter-706706",
+      "name": "No Kill Dog Shelter",
+      "address": "80 Butler Farm Road, Hampton, VA 23666",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/706706.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/no-kill-dog-shelter-706706/"
+    }
+  ]
+}

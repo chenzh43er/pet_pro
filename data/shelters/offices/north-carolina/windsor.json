@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:42:04.281161+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "windsor",
+    "name": "Windsor",
+    "label": "Windsor, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/windsor/",
+  "offices": [
+    {
+      "officeId": 211495,
+      "slug": "bertie-county-animal-shelter-211495",
+      "name": "Bertie County Animal Shelter",
+      "address": "PO Box 530, Windsor, NC 27983",
+      "phone": "252-794-4465",
+      "image": "./img/shelter/office/211495.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bertie-county-animal-shelter-211495/",
+      "imageUrl": "https://cdn.findpawpal.com/office/211495.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 237977,
+      "slug": "bertie-county-humane-society-237977",
+      "name": "Bertie County Humane Society",
+      "address": "217 County Farm Road, Windsor, NC 27983",
+      "phone": "252-325-3647",
+      "image": "./img/shelter/office/237977.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bertie-county-humane-society-237977/",
+      "imageUrl": "https://cdn.findpawpal.com/office/237977.jpg?f=webp&w=730"
+    }
+  ]
+}

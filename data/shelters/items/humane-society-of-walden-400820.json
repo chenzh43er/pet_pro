@@ -1,0 +1,21 @@
+{
+  "officeId": 400820,
+  "slug": "humane-society-of-walden-400820",
+  "name": "Humane Society of Walden",
+  "address": "2489 Albany Post Road, Montgomery, NY 12549",
+  "street": "2489 Albany Post Road",
+  "addressCity": "Montgomery",
+  "stateCode": "NY",
+  "zip": "12549",
+  "phone": "845-778-5115",
+  "image": "./img/shelter/office/400820.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-walden-400820/",
+  "stateSlug": "new-york",
+  "stateName": "New York",
+  "citySlug": "montgomery",
+  "cityName": "Montgomery",
+  "cityLabel": "Montgomery, NY",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-york/montgomery/",
+  "fetchedAt": "2026-06-27T19:35:08.700061+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/400820.jpg?f=webp&w=730"
+}

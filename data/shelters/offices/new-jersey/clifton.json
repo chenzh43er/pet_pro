@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:25:39.125355+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "clifton",
+    "name": "Clifton",
+    "label": "Clifton, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/clifton/",
+  "offices": [
+    {
+      "officeId": 100465,
+      "slug": "angels-of-animals-inc-100465",
+      "name": "Angels of Animals, Inc.",
+      "address": "34 Craig Place, Clifton, NJ 07013",
+      "phone": "973-471-0622",
+      "image": "./img/shelter/office/100465.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/angels-of-animals-inc-100465/",
+      "imageUrl": "https://cdn.findpawpal.com/office/100465.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 104656,
+      "slug": "friends-of-the-shelter-104656",
+      "name": "Friends of the Shelter",
+      "address": "900 Clifton Avenue, Clifton, NJ 07013",
+      "phone": "973-470-5936",
+      "image": "./img/shelter/office/104656.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-the-shelter-104656/",
+      "imageUrl": "https://cdn.findpawpal.com/office/104656.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 106026,
+      "slug": "clifton-animal-control-106026",
+      "name": "Clifton Animal Control",
+      "address": "900 Clifton Avenue, Clifton, NJ 07013",
+      "phone": "973-470-5761",
+      "image": "./img/shelter/office/106026.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/clifton-animal-control-106026/",
+      "imageUrl": "https://cdn.findpawpal.com/office/106026.jpg?f=webp&w=730"
+    }
+  ]
+}

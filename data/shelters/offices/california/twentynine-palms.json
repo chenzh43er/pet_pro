@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-06-27T18:31:39.417608+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "twentynine-palms",
+    "name": "Twentynine Palms",
+    "label": "Twentynine Palms, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/twentynine-palms/",
+  "offices": [
+    {
+      "slug": "palms-n-paws-animal-shelter-534655",
+      "name": "Palms N Paws Animal Shelter",
+      "address": "7086 Bullion Avenue, Twentynine Palms, CA 92277",
+      "phone": "760-367-0157",
+      "image": "https://cdn.findpawpal.com/office/534655.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/palms-n-paws-animal-shelter-534655/"
+    }
+  ]
+}

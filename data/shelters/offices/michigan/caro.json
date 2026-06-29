@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:09:48.106491+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "caro",
+    "name": "Caro",
+    "label": "Caro, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/caro/",
+  "offices": [
+    {
+      "officeId": 191212,
+      "slug": "tuscola-county-animal-shelter-191212",
+      "name": "Tuscola County Animal Shelter",
+      "address": "2738 West Caro Road, Caro, MI 48723",
+      "phone": "989-672-3863",
+      "image": "./img/shelter/office/191212.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tuscola-county-animal-shelter-191212/",
+      "imageUrl": "https://cdn.findpawpal.com/office/191212.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 235277,
+      "slug": "cass-river-pet-friendz-235277",
+      "name": "Cass River Pet Friendz",
+      "address": "PO Box 513, Caro, MI 48723",
+      "phone": "517-672-7387",
+      "image": "https://cdn.findpawpal.com/office/235277.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/cass-river-pet-friendz-235277/"
+    }
+  ]
+}

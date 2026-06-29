@@ -1,0 +1,21 @@
+{
+  "officeId": 326041,
+  "slug": "new-mexico-animal-friends-326041",
+  "name": "New Mexico Animal Friends",
+  "address": "2917 Carlisle Boulevard Northeast, Albuquerque, NM 87110",
+  "street": "2917 Carlisle Boulevard Northeast",
+  "addressCity": "Albuquerque",
+  "stateCode": "NM",
+  "zip": "87110",
+  "phone": "505-881-7297",
+  "image": "./img/shelter/office/326041.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/new-mexico-animal-friends-326041/",
+  "stateSlug": "new-mexico",
+  "stateName": "New Mexico",
+  "citySlug": "albuquerque",
+  "cityName": "Albuquerque",
+  "cityLabel": "Albuquerque, NM",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-mexico/albuquerque/",
+  "fetchedAt": "2026-06-27T19:29:51.404721+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/326041.jpg?f=webp&w=730"
+}

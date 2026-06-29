@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:12:45.528598+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "st-clair-shores",
+    "name": "St. Clair Shores",
+    "label": "St. Clair Shores, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/st-clair-shores/",
+  "offices": [
+    {
+      "officeId": 190162,
+      "slug": "a-scooters-resq-190162",
+      "name": "A Scooter's Resq",
+      "address": "28018 Vogt Street, St. Clair Shores, MI 48081",
+      "phone": "586-774-4738",
+      "image": "./img/shelter/office/190162.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/a-scooters-resq-190162/",
+      "imageUrl": "https://cdn.findpawpal.com/office/190162.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 204873,
+      "slug": "detroit-bulldog-rescue-204873",
+      "name": "Detroit Bulldog Rescue",
+      "address": "PO Box 284, St. Clair Shores, MI 48080",
+      "phone": "313-282-9330",
+      "image": "./img/shelter/office/204873.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/detroit-bulldog-rescue-204873/",
+      "imageUrl": "https://cdn.findpawpal.com/office/204873.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 235982,
+      "slug": "michigan-cat-rescue-235982",
+      "name": "Michigan Cat Rescue",
+      "address": "PO Box 806371, St. Clair Shores, MI 48080",
+      "phone": "",
+      "image": "./img/shelter/office/235982.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan-cat-rescue-235982/",
+      "imageUrl": "https://cdn.findpawpal.com/office/235982.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:19:32.240707+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "warden",
+    "name": "Warden",
+    "label": "Warden, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/warden/",
+  "offices": [
+    {
+      "officeId": 698830,
+      "slug": "pet-adoption-services-698830",
+      "name": "Pet Adoption Services",
+      "address": "16711 Road 11 Southeast, Warden, WA 98857",
+      "phone": "509-760-2635",
+      "image": "https://cdn.findpawpal.com/office/698830.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-adoption-services-698830/"
+    }
+  ]
+}

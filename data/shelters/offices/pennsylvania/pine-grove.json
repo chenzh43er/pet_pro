@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:54:23.157692+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "pine-grove",
+    "name": "Pine Grove",
+    "label": "Pine Grove, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/pine-grove/",
+  "offices": [
+    {
+      "officeId": 474242,
+      "slug": "cats-with-no-name-474242",
+      "name": "Cats With No Name",
+      "address": "33 Walmer Lane, Pine Grove, PA 17963",
+      "phone": "570-345-2229",
+      "image": "https://cdn.findpawpal.com/office/474242.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/cats-with-no-name-474242/"
+    },
+    {
+      "officeId": 474248,
+      "slug": "ruth-steinert-memorial-spca-474248",
+      "name": "Ruth Steinert Memorial SPCA",
+      "address": "18 Wertz Drive, Pine Grove, PA 17963",
+      "phone": "570-345-3540",
+      "image": "./img/shelter/office/474248.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ruth-steinert-memorial-spca-474248/",
+      "imageUrl": "https://cdn.findpawpal.com/office/474248.jpg?f=webp&w=730"
+    }
+  ]
+}

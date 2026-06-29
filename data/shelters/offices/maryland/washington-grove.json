@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:04:58.689169+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "washington-grove",
+    "name": "Washington Grove",
+    "label": "Washington Grove, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/washington-grove/",
+  "offices": [
+    {
+      "officeId": 398293,
+      "slug": "montgomery-county-spca-398293",
+      "name": "Montgomery County SPCA",
+      "address": "PO Box 637, Washington Grove, MD 20880",
+      "phone": "301-948-4266",
+      "image": "https://cdn.findpawpal.com/office/398293.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/montgomery-county-spca-398293/"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "fetchedAt": "2026-06-27T18:30:28.987190+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "san-rafael",
+    "name": "San Rafael",
+    "label": "San Rafael, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/san-rafael/",
+  "offices": [
+    {
+      "slug": "humane-farming-association-360476",
+      "name": "Humane Farming Association",
+      "address": "PO Box 3577, San Rafael, CA 94912",
+      "phone": "415-485-1495",
+      "image": "./img/shelter/office/360476.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-farming-association-360476/",
+      "imageUrl": "https://cdn.findpawpal.com/office/360476.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "shelter-animal-reiki-association-364291",
+      "name": "Shelter Animal Reiki Association",
+      "address": "369 3rd Street, San Rafael, CA 94901",
+      "phone": "415-420-9783",
+      "image": "./img/shelter/office/364291.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/shelter-animal-reiki-association-364291/",
+      "imageUrl": "https://cdn.findpawpal.com/office/364291.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "all-creatures-animal-caring-society-535131",
+      "name": "All Creatures - Animal Caring Society",
+      "address": "PO Box 3664, San Rafael, CA 94912",
+      "phone": "415-456-1941",
+      "image": "./img/shelter/office/535131.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/all-creatures-animal-caring-society-535131/",
+      "imageUrl": "https://cdn.findpawpal.com/office/535131.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-rescue-667862",
+      "name": "Second Chance Rescue",
+      "address": "PO Box 2958, San Rafael, CA 94912",
+      "phone": "415-721-1721",
+      "image": "./img/shelter/office/667862.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/second-chance-rescue-667862/",
+      "imageUrl": "https://cdn.findpawpal.com/office/667862.jpg?f=webp&w=730"
+    }
+  ]
+}

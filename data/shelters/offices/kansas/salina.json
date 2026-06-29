@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:55:54.409720+00:00",
+  "state": {
+    "slug": "kansas",
+    "name": "Kansas"
+  },
+  "city": {
+    "slug": "salina",
+    "name": "Salina",
+    "label": "Salina, KS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kansas/salina/",
+  "offices": [
+    {
+      "officeId": 5650,
+      "slug": "the-salina-animal-shelter-5650",
+      "name": "The Salina Animal Shelter",
+      "address": "329 North 2nd Street, Salina, KS 67401",
+      "phone": "785-826-6535",
+      "image": "./img/shelter/office/5650.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-salina-animal-shelter-5650/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5650.jpg?f=webp&w=730"
+    }
+  ]
+}

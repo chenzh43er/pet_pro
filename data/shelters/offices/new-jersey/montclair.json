@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:27:35.593677+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "montclair",
+    "name": "Montclair",
+    "label": "Montclair, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/montclair/",
+  "offices": [
+    {
+      "officeId": 95751,
+      "slug": "doodle-rescue-collective-inc-95751",
+      "name": "Doodle Rescue Collective Inc",
+      "address": "2 Prospect Avenue, Montclair, NJ 07042",
+      "phone": "973-707-7089",
+      "image": "./img/shelter/office/95751.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/doodle-rescue-collective-inc-95751/",
+      "imageUrl": "https://cdn.findpawpal.com/office/95751.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 96872,
+      "slug": "montclair-animal-shelter-96872",
+      "name": "Montclair Animal Shelter",
+      "address": "77 North Willow Street, Montclair, NJ 07042",
+      "phone": "973-744-8600",
+      "image": "./img/shelter/office/96872.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/montclair-animal-shelter-96872/",
+      "imageUrl": "https://cdn.findpawpal.com/office/96872.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 99633,
+      "slug": "montclair-township-animal-shelter-99633",
+      "name": "Montclair Township Animal Shelter",
+      "address": "77 North Willow Street, Montclair, NJ 07042",
+      "phone": "973-744-8600",
+      "image": "./img/shelter/office/99633.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/montclair-township-animal-shelter-99633/",
+      "imageUrl": "https://cdn.findpawpal.com/office/99633.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:18:58.023634+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "grubville",
+    "name": "Grubville",
+    "label": "Grubville, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/grubville/",
+  "offices": [
+    {
+      "officeId": 210296,
+      "slug": "save-our-strays-210296",
+      "name": "Save Our Strays",
+      "address": "807 Providence Road, Grubville, MO 63041",
+      "phone": "660-748-4842",
+      "image": "https://cdn.findpawpal.com/office/210296.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/save-our-strays-210296/"
+    }
+  ]
+}

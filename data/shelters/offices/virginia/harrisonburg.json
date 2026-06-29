@@ -1,0 +1,53 @@
+{
+  "fetchedAt": "2026-06-27T20:14:29.111415+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "harrisonburg",
+    "name": "Harrisonburg",
+    "label": "Harrisonburg, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/harrisonburg/",
+  "offices": [
+    {
+      "officeId": 511349,
+      "slug": "cats-cradle-511349",
+      "name": "Cat's Cradle",
+      "address": "PO Box 2152, Harrisonburg, VA 22801",
+      "phone": "540-438-5222",
+      "image": "https://cdn.findpawpal.com/office/511349.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/cats-cradle-511349/"
+    },
+    {
+      "officeId": 528749,
+      "slug": "rockingham-harrisonburg-spca-528749",
+      "name": "Rockingham/Harrisonburg SPCA",
+      "address": "2170 Old Furnace Road, Harrisonburg, VA 22802",
+      "phone": "540-434-5270",
+      "image": "./img/shelter/office/528749.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rockingham-harrisonburg-spca-528749/",
+      "imageUrl": "https://cdn.findpawpal.com/office/528749.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 574837,
+      "slug": "harrisonburg-animal-control-574837",
+      "name": "Harrisonburg Animal Control",
+      "address": "181 South Liberty Street, Harrisonburg, VA 22801",
+      "phone": "540-434-2317",
+      "image": "./img/shelter/office/574837.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/harrisonburg-animal-control-574837/",
+      "imageUrl": "https://cdn.findpawpal.com/office/574837.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 682953,
+      "slug": "virginia-federation-of-humane-societies-682953",
+      "name": "Virginia Federation of Humane Societies",
+      "address": "826 Oakwood Drive, Harrisonburg, VA 22801",
+      "phone": "540-879-9874",
+      "image": "https://cdn.findpawpal.com/office/682953.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/virginia-federation-of-humane-societies-682953/"
+    }
+  ]
+}

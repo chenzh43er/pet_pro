@@ -1,0 +1,21 @@
+{
+  "officeId": 98105,
+  "slug": "animal-orphanage-98105",
+  "name": "Animal Orphanage",
+  "address": "421 Cooper Road, Voorhees, NJ 08043",
+  "street": "421 Cooper Road",
+  "addressCity": "Voorhees",
+  "stateCode": "NJ",
+  "zip": "08043",
+  "phone": "856-627-9111",
+  "image": "./img/shelter/office/98105.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/animal-orphanage-98105/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "voorhees",
+  "cityName": "Voorhees",
+  "cityLabel": "Voorhees, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/voorhees/",
+  "fetchedAt": "2026-06-27T19:29:24.522553+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/98105.jpg?f=webp&w=730"
+}

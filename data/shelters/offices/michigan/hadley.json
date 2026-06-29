@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:10:54.438980+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "hadley",
+    "name": "Hadley",
+    "label": "Hadley, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/hadley/",
+  "offices": [
+    {
+      "officeId": 189481,
+      "slug": "lapeers-adoptable-animals-inc-189481",
+      "name": "Lapeer's Adoptable Animals, Inc.",
+      "address": "PO Box 132, Hadley, MI 48440",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/189481.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/lapeers-adoptable-animals-inc-189481/"
+    }
+  ]
+}

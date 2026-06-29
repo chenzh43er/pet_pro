@@ -1,0 +1,21 @@
+{
+  "officeId": 593318,
+  "slug": "animal-rescue-593318",
+  "name": "Animal Rescue",
+  "address": "PO Box 814, Puyallup, WA 98371",
+  "street": "PO Box 814",
+  "addressCity": "Puyallup",
+  "stateCode": "WA",
+  "zip": "98371",
+  "phone": "206-535-0937",
+  "image": "./img/shelter/office/593318.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/animal-rescue-593318/",
+  "stateSlug": "washington",
+  "stateName": "Washington",
+  "citySlug": "puyallup",
+  "cityName": "Puyallup",
+  "cityLabel": "Puyallup, WA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/washington/puyallup/",
+  "fetchedAt": "2026-06-27T20:18:42.746878+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/593318.jpg?f=webp&w=730"
+}

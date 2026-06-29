@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:20:40.298441+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "st-charles",
+    "name": "St. Charles",
+    "label": "St. Charles, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/st-charles/",
+  "offices": [
+    {
+      "officeId": 208855,
+      "slug": "five-acres-animal-shelter-208855",
+      "name": "Five Acres Animal Shelter",
+      "address": "1099 Pralle Lane, St. Charles, MO 63303",
+      "phone": "636-949-9918",
+      "image": "./img/shelter/office/208855.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/five-acres-animal-shelter-208855/",
+      "imageUrl": "https://cdn.findpawpal.com/office/208855.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 210437,
+      "slug": "purebred-dog-rescue-210437",
+      "name": "Purebred Dog Rescue",
+      "address": "3308 Joyce Drive, St. Charles, MO 63301",
+      "phone": "636-949-0180",
+      "image": "./img/shelter/office/210437.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/purebred-dog-rescue-210437/",
+      "imageUrl": "https://cdn.findpawpal.com/office/210437.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 212187,
+      "slug": "city-of-st-charles-animal-control-212187",
+      "name": "City of St. Charles Animal Control",
+      "address": "2835 West Randolph Street, St. Charles, MO 63301",
+      "phone": "636-949-3395",
+      "image": "./img/shelter/office/212187.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/city-of-st-charles-animal-control-212187/",
+      "imageUrl": "https://cdn.findpawpal.com/office/212187.jpg?f=webp&w=730"
+    }
+  ]
+}

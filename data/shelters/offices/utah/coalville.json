@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:10:24.051667+00:00",
+  "state": {
+    "slug": "utah",
+    "name": "Utah"
+  },
+  "city": {
+    "slug": "coalville",
+    "name": "Coalville",
+    "label": "Coalville, UT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/utah/coalville/",
+  "offices": [
+    {
+      "officeId": 702217,
+      "slug": "beaver-county-animal-control-702217",
+      "name": "Beaver County Animal Control",
+      "address": "550 Beaver Circle, Coalville, UT 84017",
+      "phone": "435-438-6435",
+      "image": "https://cdn.findpawpal.com/office/702217.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/beaver-county-animal-control-702217/"
+    }
+  ]
+}

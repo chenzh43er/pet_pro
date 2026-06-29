@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T20:07:05.199067+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "lubbock",
+    "name": "Lubbock",
+    "label": "Lubbock, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/lubbock/",
+  "offices": [
+    {
+      "officeId": 635144,
+      "slug": "west-texas-chow-chow-rescue-635144",
+      "name": "West Texas Chow Chow Rescue",
+      "address": "1850 Farm to Market Road 2130, Lubbock, TX 79407",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/635144.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/west-texas-chow-chow-rescue-635144/"
+    },
+    {
+      "officeId": 674516,
+      "slug": "lubbock-animal-control-674516",
+      "name": "Lubbock Animal Control",
+      "address": "401 North Ash Avenue, Lubbock, TX 79403",
+      "phone": "806-775-2057",
+      "image": "./img/shelter/office/674516.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lubbock-animal-control-674516/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674516.jpg?f=webp&w=730"
+    }
+  ]
+}

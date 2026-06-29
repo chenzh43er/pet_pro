@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:49:16.550710+00:00",
+  "state": {
+    "slug": "oklahoma",
+    "name": "Oklahoma"
+  },
+  "city": {
+    "slug": "park-hill",
+    "name": "Park Hill",
+    "label": "Park Hill, OK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oklahoma/park-hill/",
+  "offices": [
+    {
+      "officeId": 649067,
+      "slug": "russell-davis-animal-sanctuary-inc-649067",
+      "name": "Russell Davis Animal Sanctuary, Inc.",
+      "address": "19728 South 540 Road, Park Hill, OK",
+      "phone": "918-456-2555",
+      "image": "https://cdn.findpawpal.com/office/649067.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/russell-davis-animal-sanctuary-inc-649067/"
+    }
+  ]
+}

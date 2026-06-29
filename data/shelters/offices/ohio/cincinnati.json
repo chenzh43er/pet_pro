@@ -1,0 +1,154 @@
+{
+  "fetchedAt": "2026-06-27T19:43:41.510093+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "cincinnati",
+    "name": "Cincinnati",
+    "label": "Cincinnati, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/cincinnati/",
+  "offices": [
+    {
+      "officeId": 430874,
+      "slug": "creekwood-critters-430874",
+      "name": "Creekwood Critters",
+      "address": "8650 Shawnee Run Road, Cincinnati, OH 45243",
+      "phone": "513-561-7877",
+      "image": "https://cdn.findpawpal.com/office/430874.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/creekwood-critters-430874/"
+    },
+    {
+      "officeId": 443997,
+      "slug": "cincinnati-catrs-inc-443997",
+      "name": "Cincinnati Catrs, Inc.",
+      "address": "PO Box 37912, Cincinnati, OH 45222",
+      "phone": "513-227-3533",
+      "image": "./img/shelter/office/443997.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cincinnati-catrs-inc-443997/",
+      "imageUrl": "https://cdn.findpawpal.com/office/443997.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 444039,
+      "slug": "pawz-and-clawz-adoption-foundation-inc-444039",
+      "name": "Pawz and Clawz Adoption Foundation, Inc.",
+      "address": "PO Box 53385, Cincinnati, OH 45253",
+      "phone": "513-851-4045",
+      "image": "./img/shelter/office/444039.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pawz-and-clawz-adoption-foundation-inc-444039/",
+      "imageUrl": "https://cdn.findpawpal.com/office/444039.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 444042,
+      "slug": "save-the-animals-foundation-444042",
+      "name": "Save the Animals Foundation",
+      "address": "4011 Red Bank Road, Cincinnati, OH 45227",
+      "phone": "513-561-7823",
+      "image": "./img/shelter/office/444042.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/save-the-animals-foundation-444042/",
+      "imageUrl": "https://cdn.findpawpal.com/office/444042.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 444047,
+      "slug": "pet-adoption-and-rescue-service-444047",
+      "name": "Pet Adoption & Rescue Service",
+      "address": "4278 Poole Road, Cincinnati, OH 45251",
+      "phone": "",
+      "image": "./img/shelter/office/444047.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-adoption-and-rescue-service-444047/",
+      "imageUrl": "https://cdn.findpawpal.com/office/444047.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 466504,
+      "slug": "cincinnati-poodle-rescue-466504",
+      "name": "Cincinnati Poodle Rescue",
+      "address": "PO Box 53898, Cincinnati, OH 45253",
+      "phone": "513-554-2698",
+      "image": "./img/shelter/office/466504.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cincinnati-poodle-rescue-466504/",
+      "imageUrl": "https://cdn.findpawpal.com/office/466504.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 466514,
+      "slug": "noahs-ark-animal-shelter-466514",
+      "name": "Noah's Ark Animal Shelter",
+      "address": "3898 Michael Drive, Cincinnati, OH 45255",
+      "phone": "513-276-8510",
+      "image": "./img/shelter/office/466514.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/noahs-ark-animal-shelter-466514/",
+      "imageUrl": "https://cdn.findpawpal.com/office/466514.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 580328,
+      "slug": "scratching-post-580328",
+      "name": "Scratching Post",
+      "address": "6958 Plainfield Road, Cincinnati, OH 45236",
+      "phone": "513-984-6369",
+      "image": "./img/shelter/office/580328.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/scratching-post-580328/",
+      "imageUrl": "https://cdn.findpawpal.com/office/580328.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 587272,
+      "slug": "spca-cincinnati-587272",
+      "name": "SPCA Cincinnati",
+      "address": "3949 Colerain Avenue, Cincinnati, OH 45223",
+      "phone": "513-541-6100",
+      "image": "./img/shelter/office/587272.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/spca-cincinnati-587272/",
+      "imageUrl": "https://cdn.findpawpal.com/office/587272.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 587276,
+      "slug": "labrador-retriever-rescue-of-cincinnati-inc-587276",
+      "name": "Labrador Retriever Rescue of Cincinnati, Inc.",
+      "address": "8327 Northport Drive, Cincinnati, OH 45255",
+      "phone": "513-543-3000",
+      "image": "./img/shelter/office/587276.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/labrador-retriever-rescue-of-cincinnati-inc-587276/",
+      "imageUrl": "https://cdn.findpawpal.com/office/587276.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 587283,
+      "slug": "purrfect-friends-cat-rescue-587283",
+      "name": "Purrfect Friends Cat Rescue",
+      "address": "7885 Pinemeadow Lane, Cincinnati, OH 45224",
+      "phone": "513-557-2107",
+      "image": "./img/shelter/office/587283.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/purrfect-friends-cat-rescue-587283/",
+      "imageUrl": "https://cdn.findpawpal.com/office/587283.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 587310,
+      "slug": "united-coalition-for-animals-587310",
+      "name": "United Coalition for Animals",
+      "address": "PO Box 42083, Cincinnati, OH 45242",
+      "phone": "513-981-7933",
+      "image": "./img/shelter/office/587310.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/united-coalition-for-animals-587310/",
+      "imageUrl": "https://cdn.findpawpal.com/office/587310.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 639866,
+      "slug": "obryonville-animal-rescue-639866",
+      "name": "O'bryonville Animal Rescue",
+      "address": "PO Box 9206, Cincinnati, OH 45209",
+      "phone": "513-871-7297",
+      "image": "./img/shelter/office/639866.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/obryonville-animal-rescue-639866/",
+      "imageUrl": "https://cdn.findpawpal.com/office/639866.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 639883,
+      "slug": "schnauzer-friends-for-rescue-and-adoption-639883",
+      "name": "Schnauzer Friends for Rescue and Adoption",
+      "address": "10558 Mill Road, Cincinnati, OH 45240",
+      "phone": "",
+      "image": "./img/shelter/office/639883.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/schnauzer-friends-for-rescue-and-adoption-639883/",
+      "imageUrl": "https://cdn.findpawpal.com/office/639883.jpg?f=webp&w=730"
+    }
+  ]
+}

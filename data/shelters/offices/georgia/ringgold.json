@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:41:15.405068+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "ringgold",
+    "name": "Ringgold",
+    "label": "Ringgold, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/ringgold/",
+  "offices": [
+    {
+      "officeId": 144174,
+      "slug": "catoosa-county-animal-shelter-144174",
+      "name": "Catoosa County Animal Shelter",
+      "address": "101 Allmond Lane, Ringgold, GA 30736",
+      "phone": "706-935-2454",
+      "image": "./img/shelter/office/144174.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/catoosa-county-animal-shelter-144174/",
+      "imageUrl": "https://cdn.findpawpal.com/office/144174.jpg?f=webp&w=730"
+    }
+  ]
+}

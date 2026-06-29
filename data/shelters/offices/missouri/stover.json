@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:20:53.923846+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "stover",
+    "name": "Stover",
+    "label": "Stover, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/stover/",
+  "offices": [
+    {
+      "officeId": 208097,
+      "slug": "stover-animal-control-208097",
+      "name": "Stover Animal Control",
+      "address": "PO Box 314, Stover, MO 65078",
+      "phone": "573-377-4300",
+      "image": "./img/shelter/office/208097.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/stover-animal-control-208097/",
+      "imageUrl": "https://cdn.findpawpal.com/office/208097.jpg?f=webp&w=730"
+    }
+  ]
+}

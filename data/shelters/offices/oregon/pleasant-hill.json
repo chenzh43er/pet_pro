@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:51:12.521852+00:00",
+  "state": {
+    "slug": "oregon",
+    "name": "Oregon"
+  },
+  "city": {
+    "slug": "pleasant-hill",
+    "name": "Pleasant Hill",
+    "label": "Pleasant Hill, OR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oregon/pleasant-hill/",
+  "offices": [
+    {
+      "officeId": 661201,
+      "slug": "animalwelfare-network-of-lane-county-661201",
+      "name": "Animalwelfare Network of Lane County",
+      "address": "PO Box 744, Pleasant Hill, OR 97455",
+      "phone": "541-988-3003",
+      "image": "https://cdn.findpawpal.com/office/661201.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/animalwelfare-network-of-lane-county-661201/"
+    }
+  ]
+}

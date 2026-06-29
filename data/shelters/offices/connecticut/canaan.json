@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:35:47.277975+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "canaan",
+    "name": "Canaan",
+    "label": "Canaan, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/canaan/",
+  "offices": [
+    {
+      "officeId": 157277,
+      "slug": "canaan-animal-control-157277",
+      "name": "Canaan Animal Control",
+      "address": "16 Carlson Road, Canaan, CT 06018",
+      "phone": "860-824-1026",
+      "image": "https://cdn.findpawpal.com/office/157277.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/canaan-animal-control-157277/"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-06-27T18:13:26.353476+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "bunnell",
+    "name": "Bunnell",
+    "label": "Bunnell, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/bunnell/",
+  "offices": [
+    {
+      "slug": "second-chance-rescue-292275",
+      "name": "Second Chance Rescue",
+      "address": "110 Bimini Lane, Bunnell, FL 32110",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/292275.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/second-chance-rescue-292275/"
+    }
+  ]
+}

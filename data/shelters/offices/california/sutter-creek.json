@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:31:16.634646+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "sutter-creek",
+    "name": "Sutter Creek",
+    "label": "Sutter Creek, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/sutter-creek/",
+  "offices": [
+    {
+      "officeId": 668886,
+      "slug": "amador-county-animal-control-668886",
+      "name": "Amador County Animal Control",
+      "address": "12200 Airport Road, Sutter Creek, CA 95685",
+      "phone": "209-223-6378",
+      "image": "./img/shelter/office/668886.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/amador-county-animal-control-668886/",
+      "imageUrl": "https://cdn.findpawpal.com/office/668886.jpg?f=webp&w=730"
+    }
+  ]
+}

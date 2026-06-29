@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:37:05.098796+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "stone-ridge",
+    "name": "Stone Ridge",
+    "label": "Stone Ridge, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/stone-ridge/",
+  "offices": [
+    {
+      "officeId": 330541,
+      "slug": "noahs-ark-330541",
+      "name": "Noah's Ark",
+      "address": "PO Box 275, Stone Ridge, NY 12484",
+      "phone": "914-657-8178",
+      "image": "./img/shelter/office/330541.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/noahs-ark-330541/",
+      "imageUrl": "https://cdn.findpawpal.com/office/330541.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:01:35.781046+00:00",
+  "state": {
+    "slug": "maine",
+    "name": "Maine"
+  },
+  "city": {
+    "slug": "fryeburg",
+    "name": "Fryeburg",
+    "label": "Fryeburg, ME"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maine/fryeburg/",
+  "offices": [
+    {
+      "officeId": 320226,
+      "slug": "harvest-hills-animal-shelter-320226",
+      "name": "Harvest Hills Animal Shelter",
+      "address": "1389 Bridgton Road, Fryeburg, ME 04037",
+      "phone": "207-935-4358",
+      "image": "./img/shelter/office/320226.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/harvest-hills-animal-shelter-320226/",
+      "imageUrl": "https://cdn.findpawpal.com/office/320226.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 320639,
+      "slug": "fryeburg-animal-shelter-320639",
+      "name": "Fryeburg Animal Shelter",
+      "address": "1389 Bridgton Road, Fryeburg, ME 04037",
+      "phone": "207-935-4358",
+      "image": "./img/shelter/office/320639.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fryeburg-animal-shelter-320639/",
+      "imageUrl": "https://cdn.findpawpal.com/office/320639.jpg?f=webp&w=730"
+    }
+  ]
+}

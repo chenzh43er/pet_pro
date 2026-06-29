@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:35:20.946921+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "newark-valley",
+    "name": "Newark Valley",
+    "label": "Newark Valley, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/newark-valley/",
+  "offices": [
+    {
+      "officeId": 341842,
+      "slug": "horse-education-and-rescue-alliance-of-the-united-states-341842",
+      "name": "Horse Education and Rescue Alliance of the United States",
+      "address": "PO Box 395, Newark Valley, NY 13811",
+      "phone": "",
+      "image": "./img/shelter/office/341842.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/horse-education-and-rescue-alliance-of-the-united-states-341842/",
+      "imageUrl": "https://cdn.findpawpal.com/office/341842.jpg?f=webp&w=730"
+    }
+  ]
+}

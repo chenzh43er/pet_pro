@@ -1,0 +1,21 @@
+{
+  "officeId": 201120,
+  "slug": "black-pine-animal-sanctuary-201120",
+  "name": "Black Pine Animal Sanctuary",
+  "address": "1426 West 300 North, Albion, IN 46701",
+  "street": "1426 West 300 North",
+  "addressCity": "Albion",
+  "stateCode": "IN",
+  "zip": "46701",
+  "phone": "260-636-7383",
+  "image": "./img/shelter/office/201120.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/black-pine-animal-sanctuary-201120/",
+  "stateSlug": "indiana",
+  "stateName": "Indiana",
+  "citySlug": "albion",
+  "cityName": "Albion",
+  "cityLabel": "Albion, IN",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/indiana/albion/",
+  "fetchedAt": "2026-06-27T18:49:05.451704+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/201120.jpg?f=webp&w=730"
+}

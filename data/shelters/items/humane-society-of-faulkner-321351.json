@@ -1,0 +1,21 @@
+{
+  "officeId": 321351,
+  "slug": "humane-society-of-faulkner-321351",
+  "name": "Humane Society of Faulkner",
+  "address": "2219 Washington Avenue, Conway, AR 72032",
+  "street": "2219 Washington Avenue",
+  "addressCity": "Conway",
+  "stateCode": "AR",
+  "zip": "72032",
+  "phone": "501-329-2361",
+  "image": "./img/shelter/office/321351.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-faulkner-321351/",
+  "stateSlug": "arkansas",
+  "stateName": "Arkansas",
+  "citySlug": "conway",
+  "cityName": "Conway",
+  "cityLabel": "Conway, AR",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/arkansas/conway/",
+  "fetchedAt": "2026-06-27T18:21:51.748599+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/321351.jpg?f=webp&w=730"
+}

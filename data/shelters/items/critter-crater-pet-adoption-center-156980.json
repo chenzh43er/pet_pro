@@ -1,0 +1,21 @@
+{
+  "officeId": 156980,
+  "slug": "critter-crater-pet-adoption-center-156980",
+  "name": "Critter Crater Pet Adoption Center",
+  "address": "PO Box 2005, Flagstaff, AZ 86003",
+  "street": "PO Box 2005",
+  "addressCity": "Flagstaff",
+  "stateCode": "AZ",
+  "zip": "86003",
+  "phone": "520-913-0582",
+  "image": "./img/shelter/office/156980.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/critter-crater-pet-adoption-center-156980/",
+  "stateSlug": "arizona",
+  "stateName": "Arizona",
+  "citySlug": "flagstaff",
+  "cityName": "Flagstaff",
+  "cityLabel": "Flagstaff, AZ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/arizona/flagstaff/",
+  "fetchedAt": "2026-06-27T18:20:04.685246+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/156980.jpg?f=webp&w=730"
+}

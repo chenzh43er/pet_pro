@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:53:11.155619+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa"
+  },
+  "city": {
+    "slug": "emmetsburg",
+    "name": "Emmetsburg",
+    "label": "Emmetsburg, IA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/emmetsburg/",
+  "offices": [
+    {
+      "officeId": 460959,
+      "slug": "emmetsburg-animal-shelter-460959",
+      "name": "Emmetsburg Animal Shelter",
+      "address": "PO Box 417, Emmetsburg, IA 50536",
+      "phone": "712-852-2550",
+      "image": "https://cdn.findpawpal.com/office/460959.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/emmetsburg-animal-shelter-460959/"
+    }
+  ]
+}

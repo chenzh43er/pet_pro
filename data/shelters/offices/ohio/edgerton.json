@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:44:11.561010+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "edgerton",
+    "name": "Edgerton",
+    "label": "Edgerton, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/edgerton/",
+  "offices": [
+    {
+      "officeId": 640512,
+      "slug": "miami-county-animal-shelter-640512",
+      "name": "Miami County Animal Shelter",
+      "address": "1110 County Road E, Edgerton, OH 43517",
+      "phone": "937-332-6919",
+      "image": "https://cdn.findpawpal.com/office/640512.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/miami-county-animal-shelter-640512/"
+    }
+  ]
+}

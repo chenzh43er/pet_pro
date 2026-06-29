@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:20:08.434758+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "coal-city",
+    "name": "Coal City",
+    "label": "Coal City, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/coal-city/",
+  "offices": [
+    {
+      "officeId": 453785,
+      "slug": "raleigh-county-animal-rescue-rcar-453785",
+      "name": "Raleigh County Animal Rescue Rcar",
+      "address": "PO Box 794, Coal City, WV 25823",
+      "phone": "304-228-9047",
+      "image": "./img/shelter/office/453785.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/raleigh-county-animal-rescue-rcar-453785/",
+      "imageUrl": "https://cdn.findpawpal.com/office/453785.jpg?f=webp&w=730"
+    }
+  ]
+}

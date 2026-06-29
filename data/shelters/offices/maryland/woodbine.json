@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:05:03.351502+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "woodbine",
+    "name": "Woodbine",
+    "label": "Woodbine, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/woodbine/",
+  "offices": [
+    {
+      "officeId": 369621,
+      "slug": "mid-atlantic-saint-bernard-rescue-369621",
+      "name": "Mid-Atlantic Saint Bernard Rescue",
+      "address": "PO Box 93, Woodbine, MD 21797",
+      "phone": "",
+      "image": "./img/shelter/office/369621.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mid-atlantic-saint-bernard-rescue-369621/",
+      "imageUrl": "https://cdn.findpawpal.com/office/369621.jpg?f=webp&w=730"
+    }
+  ]
+}

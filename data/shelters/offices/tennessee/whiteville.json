@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:02:20.653351+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "whiteville",
+    "name": "Whiteville",
+    "label": "Whiteville, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/whiteville/",
+  "offices": [
+    {
+      "officeId": 460248,
+      "slug": "hardman-county-humane-society-460248",
+      "name": "Hardman County Humane Society",
+      "address": "109 East Main Street, Whiteville, TN 38075",
+      "phone": "731-254-9777",
+      "image": "./img/shelter/office/460248.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hardman-county-humane-society-460248/",
+      "imageUrl": "https://cdn.findpawpal.com/office/460248.jpg?f=webp&w=730"
+    }
+  ]
+}

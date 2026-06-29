@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:18:38.286866+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "port-angeles",
+    "name": "Port Angeles",
+    "label": "Port Angeles, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/port-angeles/",
+  "offices": [
+    {
+      "officeId": 614380,
+      "slug": "clallam-county-humane-society-614380",
+      "name": "Clallam County Humane Society",
+      "address": "2105 US Highway 101, Port Angeles, WA 98363",
+      "phone": "360-452-5226",
+      "image": "./img/shelter/office/614380.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/clallam-county-humane-society-614380/",
+      "imageUrl": "https://cdn.findpawpal.com/office/614380.jpg?f=webp&w=730"
+    }
+  ]
+}

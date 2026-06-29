@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:54:05.276626+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa"
+  },
+  "city": {
+    "slug": "rowley",
+    "name": "Rowley",
+    "label": "Rowley, IA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/rowley/",
+  "offices": [
+    {
+      "officeId": 462068,
+      "slug": "rowley-animal-control-462068",
+      "name": "Rowley Animal Control",
+      "address": "104 Ely Street, Rowley, IA 52329",
+      "phone": "319-938-2665",
+      "image": "./img/shelter/office/462068.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rowley-animal-control-462068/",
+      "imageUrl": "https://cdn.findpawpal.com/office/462068.jpg?f=webp&w=730"
+    }
+  ]
+}

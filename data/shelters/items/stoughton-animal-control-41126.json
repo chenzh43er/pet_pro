@@ -1,0 +1,21 @@
+{
+  "officeId": 41126,
+  "slug": "stoughton-animal-control-41126",
+  "name": "Stoughton Animal Control",
+  "address": "499 West Street, Stoughton, MA 02072",
+  "street": "499 West Street",
+  "addressCity": "Stoughton",
+  "stateCode": "MA",
+  "zip": "02072",
+  "phone": "781-344-1294",
+  "image": "./img/shelter/office/41126.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/stoughton-animal-control-41126/",
+  "stateSlug": "massachusetts",
+  "stateName": "Massachusetts",
+  "citySlug": "stoughton",
+  "cityName": "Stoughton",
+  "cityLabel": "Stoughton, MA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/massachusetts/stoughton/",
+  "fetchedAt": "2026-06-27T19:08:28.920544+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/41126.jpg?f=webp&w=730"
+}

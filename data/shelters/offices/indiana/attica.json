@@ -1,0 +1,42 @@
+{
+  "fetchedAt": "2026-06-27T18:49:09.929962+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "attica",
+    "name": "Attica",
+    "label": "Attica, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/attica/",
+  "offices": [
+    {
+      "officeId": 201150,
+      "slug": "pawsnclaws-201150",
+      "name": "Paws'n'claws",
+      "address": "103 South Market Street, Attica, IN 47918",
+      "phone": "765-762-6598",
+      "image": "https://cdn.findpawpal.com/office/201150.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/pawsnclaws-201150/"
+    },
+    {
+      "officeId": 213653,
+      "slug": "fountain-warren-animal-welfare-213653",
+      "name": "Fountain-Warren Animal Welfare",
+      "address": "PO Box 164, Attica, IN 47918",
+      "phone": "765-764-4425",
+      "image": "https://cdn.findpawpal.com/office/213653.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/fountain-warren-animal-welfare-213653/"
+    },
+    {
+      "officeId": 219519,
+      "slug": "fountain-county-animal-shelter-219519",
+      "name": "Fountain County Animal Shelter",
+      "address": "2421 North Foster Road, Attica, IN 47918",
+      "phone": "765-295-0270",
+      "image": "https://cdn.findpawpal.com/office/219519.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/fountain-county-animal-shelter-219519/"
+    }
+  ]
+}

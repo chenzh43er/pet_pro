@@ -1,0 +1,21 @@
+{
+  "officeId": 493484,
+  "slug": "bay-city-animal-shelter-493484",
+  "name": "Bay City Animal Shelter",
+  "address": "4201 Avenue F, Bay, TX 77414",
+  "street": "4201 Avenue F",
+  "addressCity": "Bay",
+  "stateCode": "TX",
+  "zip": "77414",
+  "phone": "409-245-1396",
+  "image": "./img/shelter/office/493484.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/bay-city-animal-shelter-493484/",
+  "stateSlug": "texas",
+  "stateName": "Texas",
+  "citySlug": "bay",
+  "cityName": "Bay",
+  "cityLabel": "Bay, TX",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/texas/bay/",
+  "fetchedAt": "2026-06-27T20:02:56.249462+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/493484.jpg?f=webp&w=730"
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:48:00.454563+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "round-lake",
+    "name": "Round Lake",
+    "label": "Round Lake, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/round-lake/",
+  "offices": [
+    {
+      "officeId": 413097,
+      "slug": "petropolis-adoptions-413097",
+      "name": "Petropolis Adoptions",
+      "address": "503 Lakeside Court, Round Lake, IL 60073",
+      "phone": "847-201-6536",
+      "image": "./img/shelter/office/413097.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/petropolis-adoptions-413097/",
+      "imageUrl": "https://cdn.findpawpal.com/office/413097.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 514928,
+      "slug": "lake-county-animal-control-514928",
+      "name": "Lake County Animal Control",
+      "address": "247 North Cedar Lake Road, Round Lake, IL 60073",
+      "phone": "847-740-3977",
+      "image": "./img/shelter/office/514928.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lake-county-animal-control-514928/",
+      "imageUrl": "https://cdn.findpawpal.com/office/514928.jpg?f=webp&w=730"
+    }
+  ]
+}

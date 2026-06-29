@@ -1,0 +1,21 @@
+{
+  "officeId": 363070,
+  "slug": "county-of-san-diego-animal-services-363070",
+  "name": "County of San Diego Animal Services",
+  "address": "2481 Palomar Airport Road, Carlsbad, CA 92011",
+  "street": "2481 Palomar Airport Road",
+  "addressCity": "Carlsbad",
+  "stateCode": "CA",
+  "zip": "92011",
+  "phone": "619-767-2675",
+  "image": "./img/shelter/office/363070.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/county-of-san-diego-animal-services-363070/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "carlsbad",
+  "cityName": "Carlsbad",
+  "cityLabel": "Carlsbad, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/carlsbad/",
+  "fetchedAt": "2026-06-27T18:24:42.997895+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/363070.jpg?f=webp&w=730"
+}

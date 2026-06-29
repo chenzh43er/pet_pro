@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T19:47:08.490222+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "tiffin",
+    "name": "Tiffin",
+    "label": "Tiffin, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/tiffin/",
+  "offices": [
+    {
+      "officeId": 431794,
+      "slug": "buckeye-border-collie-rescue-inc-431794",
+      "name": "Buckeye Border Collie Rescue, Inc.",
+      "address": "3514 Township Line Road, Tiffin, OH 44883",
+      "phone": "419-447-8095",
+      "image": "https://cdn.findpawpal.com/office/431794.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/buckeye-border-collie-rescue-inc-431794/"
+    },
+    {
+      "officeId": 467585,
+      "slug": "county-dog-warden-467585",
+      "name": "County Dog Warden",
+      "address": "3140 Route 100, Tiffin, OH 44883",
+      "phone": "419-448-5097",
+      "image": "./img/shelter/office/467585.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/county-dog-warden-467585/",
+      "imageUrl": "https://cdn.findpawpal.com/office/467585.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 588427,
+      "slug": "seneca-county-humane-society-588427",
+      "name": "Seneca County Humane Society",
+      "address": "2811 Route 100, Tiffin, OH 44883",
+      "phone": "419-447-5704",
+      "image": "./img/shelter/office/588427.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/seneca-county-humane-society-588427/",
+      "imageUrl": "https://cdn.findpawpal.com/office/588427.jpg?f=webp&w=730"
+    }
+  ]
+}

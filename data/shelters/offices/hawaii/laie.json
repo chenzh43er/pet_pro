@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:42:29.269593+00:00",
+  "state": {
+    "slug": "hawaii",
+    "name": "Hawaii"
+  },
+  "city": {
+    "slug": "laie",
+    "name": "Laie",
+    "label": "Laie, HI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/hawaii/laie/",
+  "offices": [
+    {
+      "officeId": 314717,
+      "slug": "laie-animal-control-314717",
+      "name": "Laie Animal Control",
+      "address": "55-80 Kamehameha Highway, Laie, HI 96762",
+      "phone": "808-293-4127",
+      "image": "./img/shelter/office/314717.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/laie-animal-control-314717/",
+      "imageUrl": "https://cdn.findpawpal.com/office/314717.jpg?f=webp&w=730"
+    }
+  ]
+}

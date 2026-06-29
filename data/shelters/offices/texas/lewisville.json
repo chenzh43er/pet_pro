@@ -1,0 +1,74 @@
+{
+  "fetchedAt": "2026-06-27T20:06:51.846200+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "lewisville",
+    "name": "Lewisville",
+    "label": "Lewisville, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/lewisville/",
+  "offices": [
+    {
+      "officeId": 494727,
+      "slug": "lewisville-animal-control-494727",
+      "name": "Lewisville Animal Control",
+      "address": "995 Valley Ridge Boulevard, Lewisville, TX 75057",
+      "phone": "972-219-3478",
+      "image": "./img/shelter/office/494727.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lewisville-animal-control-494727/",
+      "imageUrl": "https://cdn.findpawpal.com/office/494727.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 537109,
+      "slug": "humane-society-of-lewisville-537109",
+      "name": "Humane Society of Lewisville",
+      "address": "421 South Mill Street, Lewisville, TX 75057",
+      "phone": "972-353-4840",
+      "image": "./img/shelter/office/537109.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-lewisville-537109/",
+      "imageUrl": "https://cdn.findpawpal.com/office/537109.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 538381,
+      "slug": "save-the-animals-rescue-society-538381",
+      "name": "Save The Animals Rescue Society",
+      "address": "1079 West Round Grove Road, Lewisville, TX 75067",
+      "phone": "972-459-9181",
+      "image": "https://cdn.findpawpal.com/office/538381.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/save-the-animals-rescue-society-538381/"
+    },
+    {
+      "officeId": 702126,
+      "slug": "animal-rescue-league-702126",
+      "name": "Animal Rescue League",
+      "address": "PO Box 294375, Lewisville, TX 75029",
+      "phone": "972-420-0641",
+      "image": "./img/shelter/office/702126.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-rescue-league-702126/",
+      "imageUrl": "https://cdn.findpawpal.com/office/702126.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 702285,
+      "slug": "basenji-rescue-and-transport-702285",
+      "name": "Basenji Rescue and Transport",
+      "address": "200 Brown Cliff Court, Lewisville, TX 75077",
+      "phone": "",
+      "image": "./img/shelter/office/702285.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/basenji-rescue-and-transport-702285/",
+      "imageUrl": "https://cdn.findpawpal.com/office/702285.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 702289,
+      "slug": "hound-haven-inc-702289",
+      "name": "Hound Haven, Inc.",
+      "address": "1410 Dogwood Trail, Lewisville, TX 75067",
+      "phone": "214-315-3287",
+      "image": "./img/shelter/office/702289.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hound-haven-inc-702289/",
+      "imageUrl": "https://cdn.findpawpal.com/office/702289.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:19:04.672455+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "wetumpka",
+    "name": "Wetumpka",
+    "label": "Wetumpka, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/wetumpka/",
+  "offices": [
+    {
+      "slug": "the-humane-society-of-elmore-county-5861",
+      "name": "The Humane Society Of Elmore County",
+      "address": "255 Central Plank Road, Wetumpka, AL 36092",
+      "phone": "334-567-3377",
+      "image": "./img/shelter/office/5861.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-humane-society-of-elmore-county-5861/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5861.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wetumpka-animal-control-6783",
+      "name": "Wetumpka Animal Control",
+      "address": "208 Marshall Street, Wetumpka, AL 36092",
+      "phone": "334-567-1327",
+      "image": "./img/shelter/office/6783.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wetumpka-animal-control-6783/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6783.jpg?f=webp&w=730"
+    }
+  ]
+}

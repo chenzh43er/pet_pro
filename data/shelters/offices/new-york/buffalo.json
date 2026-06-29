@@ -1,0 +1,85 @@
+{
+  "fetchedAt": "2026-06-27T19:32:13.612190+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "buffalo",
+    "name": "Buffalo",
+    "label": "Buffalo, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/buffalo/",
+  "offices": [
+    {
+      "officeId": 314866,
+      "slug": "buffalo-animal-control-314866",
+      "name": "Buffalo Animal Control",
+      "address": "1835 Sheridan Drive, Buffalo, NY 14223",
+      "phone": "716-879-6656",
+      "image": "./img/shelter/office/314866.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/buffalo-animal-control-314866/",
+      "imageUrl": "https://cdn.findpawpal.com/office/314866.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 333798,
+      "slug": "angel-paws-rescue-333798",
+      "name": "Angel PAWS Rescue",
+      "address": "21 Schuster Avenue, Buffalo, NY 14225",
+      "phone": "716-683-7546",
+      "image": "./img/shelter/office/333798.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/angel-paws-rescue-333798/",
+      "imageUrl": "https://cdn.findpawpal.com/office/333798.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 340116,
+      "slug": "buffalo-humane-340116",
+      "name": "Buffalo Humane",
+      "address": "90 Thatcher Avenue, Buffalo, NY 14215",
+      "phone": "716-862-9183",
+      "image": "./img/shelter/office/340116.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/buffalo-humane-340116/",
+      "imageUrl": "https://cdn.findpawpal.com/office/340116.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 414605,
+      "slug": "unfurrgetable-small-animal-rescue-and-adoption-414605",
+      "name": "Unfurrgetable Small Animal Rescue and Adoption",
+      "address": "PO Box 157, Buffalo, NY 14224",
+      "phone": "",
+      "image": "./img/shelter/office/414605.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/unfurrgetable-small-animal-rescue-and-adoption-414605/",
+      "imageUrl": "https://cdn.findpawpal.com/office/414605.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 434837,
+      "slug": "citizens-for-humane-animal-treatment-434837",
+      "name": "Citizens for Humane Animal Treatment",
+      "address": "455 Ellicott Street, Buffalo, NY 14203",
+      "phone": "716-847-0181",
+      "image": "./img/shelter/office/434837.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/citizens-for-humane-animal-treatment-434837/",
+      "imageUrl": "https://cdn.findpawpal.com/office/434837.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 434842,
+      "slug": "city-of-buffalo-animal-shelter-434842",
+      "name": "City of Buffalo Animal Shelter",
+      "address": "380 Oak Street, Buffalo, NY 14203",
+      "phone": "",
+      "image": "./img/shelter/office/434842.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/city-of-buffalo-animal-shelter-434842/",
+      "imageUrl": "https://cdn.findpawpal.com/office/434842.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 434997,
+      "slug": "r-a-r-e-reptile-adoption-rehab-and-education-inc-434997",
+      "name": "R.A.R.E. Reptile Adoption, Rehab & Education, Inc.",
+      "address": "60 Bright Street, Buffalo, NY 14206",
+      "phone": "716-895-0285",
+      "image": "./img/shelter/office/434997.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/r-a-r-e-reptile-adoption-rehab-and-education-inc-434997/",
+      "imageUrl": "https://cdn.findpawpal.com/office/434997.jpg?f=webp&w=730"
+    }
+  ]
+}

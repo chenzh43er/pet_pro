@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:06:52.974836+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "mansfield",
+    "name": "Mansfield",
+    "label": "Mansfield, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/mansfield/",
+  "offices": [
+    {
+      "officeId": 39721,
+      "slug": "just-cats-inc-39721",
+      "name": "Just Cats Inc",
+      "address": "1 Mill Street, Mansfield, MA 02048",
+      "phone": "508-339-6717",
+      "image": "./img/shelter/office/39721.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/just-cats-inc-39721/",
+      "imageUrl": "https://cdn.findpawpal.com/office/39721.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 41716,
+      "slug": "mansfield-animal-control-41716",
+      "name": "Mansfield Animal Control",
+      "address": "175 Fruit Street, Mansfield, MA 02048",
+      "phone": "508-261-7339",
+      "image": "./img/shelter/office/41716.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mansfield-animal-control-41716/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41716.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 42986,
+      "slug": "mansfield-animal-shelter-42986",
+      "name": "Mansfield Animal Shelter",
+      "address": "175 Fruit Street, Mansfield, MA 02048",
+      "phone": "508-261-7339",
+      "image": "./img/shelter/office/42986.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mansfield-animal-shelter-42986/",
+      "imageUrl": "https://cdn.findpawpal.com/office/42986.jpg?f=webp&w=730"
+    }
+  ]
+}

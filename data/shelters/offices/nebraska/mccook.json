@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:22:43.289727+00:00",
+  "state": {
+    "slug": "nebraska",
+    "name": "Nebraska"
+  },
+  "city": {
+    "slug": "mccook",
+    "name": "McCook",
+    "label": "McCook, NE"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nebraska/mccook/",
+  "offices": [
+    {
+      "officeId": 367442,
+      "slug": "mccook-humane-society-367442",
+      "name": "McCook Humane Society",
+      "address": "100 South Street, McCook, NE 69001",
+      "phone": "308-345-2372",
+      "image": "./img/shelter/office/367442.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mccook-humane-society-367442/",
+      "imageUrl": "https://cdn.findpawpal.com/office/367442.jpg?f=webp&w=730"
+    }
+  ]
+}

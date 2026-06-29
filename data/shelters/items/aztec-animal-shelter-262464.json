@@ -1,0 +1,21 @@
+{
+  "officeId": 262464,
+  "slug": "aztec-animal-shelter-262464",
+  "name": "Aztec Animal Shelter",
+  "address": "825 Sabena Street, Aztec, NM 87410",
+  "street": "825 Sabena Street",
+  "addressCity": "Aztec",
+  "stateCode": "NM",
+  "zip": "87410",
+  "phone": "505-334-6819",
+  "image": "./img/shelter/office/262464.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/aztec-animal-shelter-262464/",
+  "stateSlug": "new-mexico",
+  "stateName": "New Mexico",
+  "citySlug": "aztec",
+  "cityName": "Aztec",
+  "cityLabel": "Aztec, NM",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-mexico/aztec/",
+  "fetchedAt": "2026-06-27T19:29:57.289240+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/262464.jpg?f=webp&w=730"
+}

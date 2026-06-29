@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:37:06.589307+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "suffern",
+    "name": "Suffern",
+    "label": "Suffern, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/suffern/",
+  "offices": [
+    {
+      "officeId": 331294,
+      "slug": "second-chance-pet-society-331294",
+      "name": "Second Chance Pet Society",
+      "address": "198 Spook Rock Road, Suffern, NY 10901",
+      "phone": "914-357-4814",
+      "image": "./img/shelter/office/331294.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/second-chance-pet-society-331294/",
+      "imageUrl": "https://cdn.findpawpal.com/office/331294.jpg?f=webp&w=730"
+    }
+  ]
+}

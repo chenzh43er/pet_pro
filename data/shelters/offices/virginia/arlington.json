@@ -1,0 +1,65 @@
+{
+  "fetchedAt": "2026-06-27T20:12:45.425860+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "arlington",
+    "name": "Arlington",
+    "label": "Arlington, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/arlington/",
+  "offices": [
+    {
+      "officeId": 555287,
+      "slug": "metro-ferals-555287",
+      "name": "Metro Ferals",
+      "address": "PO Box 7138, Arlington, VA 22207",
+      "phone": "703-528-7782",
+      "image": "./img/shelter/office/555287.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/metro-ferals-555287/",
+      "imageUrl": "https://cdn.findpawpal.com/office/555287.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 579533,
+      "slug": "spca-of-northern-virginia-579533",
+      "name": "SPCA of Northern Virginia",
+      "address": "PO Box 100220, Arlington, VA 22210",
+      "phone": "703-799-9390",
+      "image": "./img/shelter/office/579533.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/spca-of-northern-virginia-579533/",
+      "imageUrl": "https://cdn.findpawpal.com/office/579533.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 683165,
+      "slug": "arlington-animal-control-683165",
+      "name": "Arlington Animal Control",
+      "address": "822 North Kenmore Street, Arlington, VA 22201",
+      "phone": "703-249-5066",
+      "image": "./img/shelter/office/683165.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/arlington-animal-control-683165/",
+      "imageUrl": "https://cdn.findpawpal.com/office/683165.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 706786,
+      "slug": "animal-welfare-league-of-arlington-706786",
+      "name": "Animal Welfare League of Arlington",
+      "address": "2650 South Arlington Mill Drive, Arlington, VA 22206",
+      "phone": "703-931-9241",
+      "image": "./img/shelter/office/706786.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-welfare-league-of-arlington-706786/",
+      "imageUrl": "https://cdn.findpawpal.com/office/706786.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 706787,
+      "slug": "homeward-trails-animal-rescue-706787",
+      "name": "Homeward Trails Animal Rescue",
+      "address": "PO Box 100968, Arlington, VA 22210",
+      "phone": "703-766-2647",
+      "image": "./img/shelter/office/706787.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/homeward-trails-animal-rescue-706787/",
+      "imageUrl": "https://cdn.findpawpal.com/office/706787.jpg?f=webp&w=730"
+    }
+  ]
+}

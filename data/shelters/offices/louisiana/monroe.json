@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T19:00:19.895032+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "monroe",
+    "name": "Monroe",
+    "label": "Monroe, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/monroe/",
+  "offices": [
+    {
+      "officeId": 224346,
+      "slug": "monroe-animal-control-224346",
+      "name": "Monroe Animal Control",
+      "address": "700 Wood Street, Monroe, LA 71201",
+      "phone": "318-329-2600",
+      "image": "./img/shelter/office/224346.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/monroe-animal-control-224346/",
+      "imageUrl": "https://cdn.findpawpal.com/office/224346.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 225756,
+      "slug": "paws-of-ne-louisiana-225756",
+      "name": "PAWS of Ne Louisiana",
+      "address": "PO Box 15432, Monroe, LA 71207",
+      "phone": "318-348-4944",
+      "image": "./img/shelter/office/225756.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/paws-of-ne-louisiana-225756/",
+      "imageUrl": "https://cdn.findpawpal.com/office/225756.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 242289,
+      "slug": "river-cities-humane-society-for-cats-242289",
+      "name": "River Cities Humane Society for Cats",
+      "address": "PO Box 4598, Monroe, LA 71211",
+      "phone": "318-387-4392",
+      "image": "./img/shelter/office/242289.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/river-cities-humane-society-for-cats-242289/",
+      "imageUrl": "https://cdn.findpawpal.com/office/242289.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 242916,
+      "slug": "humane-society-adoption-center-242916",
+      "name": "Humane Society Adoption Center",
+      "address": "920 Freight Drive, Monroe, LA 71203",
+      "phone": "318-387-9553",
+      "image": "./img/shelter/office/242916.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-adoption-center-242916/",
+      "imageUrl": "https://cdn.findpawpal.com/office/242916.jpg?f=webp&w=730"
+    }
+  ]
+}

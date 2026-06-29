@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:46:45.173529+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "salem",
+    "name": "Salem",
+    "label": "Salem, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/salem/",
+  "offices": [
+    {
+      "officeId": 457208,
+      "slug": "alchemy-acres-animal-sanctuary-457208",
+      "name": "Alchemy Acres Animal Sanctuary",
+      "address": "1859 Depot Road, Salem, OH 44460",
+      "phone": "330-332-4897",
+      "image": "./img/shelter/office/457208.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/alchemy-acres-animal-sanctuary-457208/",
+      "imageUrl": "https://cdn.findpawpal.com/office/457208.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 639707,
+      "slug": "humane-society-of-columbiana-county-639707",
+      "name": "Humane Society of Columbiana County",
+      "address": "1825 South Lincoln Avenue, Salem, OH 44460",
+      "phone": "330-332-2600",
+      "image": "./img/shelter/office/639707.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-columbiana-county-639707/",
+      "imageUrl": "https://cdn.findpawpal.com/office/639707.jpg?f=webp&w=730"
+    }
+  ]
+}

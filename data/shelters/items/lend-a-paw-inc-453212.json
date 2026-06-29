@@ -1,0 +1,21 @@
+{
+  "officeId": 453212,
+  "slug": "lend-a-paw-inc-453212",
+  "name": "Lend-A-Paw, Inc.",
+  "address": "920 East Main Street, Palmyra, PA 17078",
+  "street": "920 East Main Street",
+  "addressCity": "Palmyra",
+  "stateCode": "PA",
+  "zip": "17078",
+  "phone": "",
+  "image": "./img/shelter/office/453212.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/lend-a-paw-inc-453212/",
+  "stateSlug": "pennsylvania",
+  "stateName": "Pennsylvania",
+  "citySlug": "palmyra",
+  "cityName": "Palmyra",
+  "cityLabel": "Palmyra, PA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/pennsylvania/palmyra/",
+  "fetchedAt": "2026-06-27T19:54:15.716859+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/453212.jpg?f=webp&w=730"
+}

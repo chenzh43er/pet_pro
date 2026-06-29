@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:27:40.152957+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "morganville",
+    "name": "Morganville",
+    "label": "Morganville, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/morganville/",
+  "offices": [
+    {
+      "officeId": 99716,
+      "slug": "3-hearts-4-paws-animal-rescue-99716",
+      "name": "3 Hearts 4 Paws Animal Rescue",
+      "address": "PO Box 482, Morganville, NJ 07751",
+      "phone": "732-970-3654",
+      "image": "https://cdn.findpawpal.com/office/99716.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/3-hearts-4-paws-animal-rescue-99716/"
+    }
+  ]
+}

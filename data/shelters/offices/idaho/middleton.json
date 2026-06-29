@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:43:18.213800+00:00",
+  "state": {
+    "slug": "idaho",
+    "name": "Idaho"
+  },
+  "city": {
+    "slug": "middleton",
+    "name": "Middleton",
+    "label": "Middleton, ID"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/idaho/middleton/",
+  "offices": [
+    {
+      "officeId": 358424,
+      "slug": "dachshund-idaho-rescue-358424",
+      "name": "Dachshund Idaho Rescue",
+      "address": "PO Box 341, Middleton, ID 83644",
+      "phone": "208-585-3412",
+      "image": "./img/shelter/office/358424.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dachshund-idaho-rescue-358424/",
+      "imageUrl": "https://cdn.findpawpal.com/office/358424.jpg?f=webp&w=730"
+    }
+  ]
+}

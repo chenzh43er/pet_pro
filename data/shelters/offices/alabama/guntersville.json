@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:17:45.813509+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "guntersville",
+    "name": "Guntersville",
+    "label": "Guntersville, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/guntersville/",
+  "offices": [
+    {
+      "slug": "guntersville-animal-hospital-5778",
+      "name": "Guntersville Animal Hospital",
+      "address": "1609 Henry Street, Guntersville, AL 35976",
+      "phone": "256-582-3184",
+      "image": "./img/shelter/office/5778.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/guntersville-animal-hospital-5778/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5778.jpg?f=webp&w=730"
+    }
+  ]
+}

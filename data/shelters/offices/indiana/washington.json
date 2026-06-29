@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T18:52:20.764936+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "washington",
+    "name": "Washington",
+    "label": "Washington, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/washington/",
+  "offices": [
+    {
+      "officeId": 201499,
+      "slug": "apple-tree-animal-sanctuary-201499",
+      "name": "Apple Tree Animal Sanctuary",
+      "address": "1545 West 150 North, Washington, IN 47501",
+      "phone": "812-259-5349",
+      "image": "https://cdn.findpawpal.com/office/201499.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/apple-tree-animal-sanctuary-201499/"
+    },
+    {
+      "officeId": 215337,
+      "slug": "animal-control-shelter-215337",
+      "name": "Animal Control Shelter",
+      "address": "213 South 200 West, Washington, IN 47501",
+      "phone": "812-254-8226",
+      "image": "./img/shelter/office/215337.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-control-shelter-215337/",
+      "imageUrl": "https://cdn.findpawpal.com/office/215337.jpg?f=webp&w=730"
+    }
+  ]
+}

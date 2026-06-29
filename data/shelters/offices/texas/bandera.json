@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:02:53.263685+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "bandera",
+    "name": "Bandera",
+    "label": "Bandera, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/bandera/",
+  "offices": [
+    {
+      "officeId": 540440,
+      "slug": "grand-meadows-retirement-horse-farm-540440",
+      "name": "Grand Meadows Retirement Horse Farm",
+      "address": "518 Exotic Lane, Bandera, TX 78003",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/540440.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/grand-meadows-retirement-horse-farm-540440/"
+    }
+  ]
+}

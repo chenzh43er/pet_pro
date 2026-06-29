@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:20:49.369838+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "ste-genevieve",
+    "name": "Ste. Genevieve",
+    "label": "Ste. Genevieve, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/ste-genevieve/",
+  "offices": [
+    {
+      "officeId": 193186,
+      "slug": "st-genevieve-animal-control-193186",
+      "name": "St. Genevieve Animal Control",
+      "address": "PO Box 112, Ste. Genevieve, MO 63670",
+      "phone": "573-883-5400",
+      "image": "./img/shelter/office/193186.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/st-genevieve-animal-control-193186/",
+      "imageUrl": "https://cdn.findpawpal.com/office/193186.jpg?f=webp&w=730"
+    }
+  ]
+}

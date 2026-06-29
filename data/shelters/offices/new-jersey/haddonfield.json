@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:26:18.346330+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "haddonfield",
+    "name": "Haddonfield",
+    "label": "Haddonfield, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/haddonfield/",
+  "offices": [
+    {
+      "officeId": 103870,
+      "slug": "velvet-paws-103870",
+      "name": "Velvet Paws",
+      "address": "10 Kings Lane, Haddonfield, NJ 08033",
+      "phone": "609-428-8889",
+      "image": "./img/shelter/office/103870.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/velvet-paws-103870/",
+      "imageUrl": "https://cdn.findpawpal.com/office/103870.jpg?f=webp&w=730"
+    }
+  ]
+}

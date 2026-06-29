@@ -1,0 +1,143 @@
+{
+  "fetchedAt": "2026-06-27T18:34:00.097487+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "denver",
+    "name": "Denver",
+    "label": "Denver, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/denver/",
+  "offices": [
+    {
+      "officeId": 39740,
+      "slug": "urban-wildlife-rescue-inc-39740",
+      "name": "Urban Wildlife Rescue, Inc.",
+      "address": "PO Box 201311, Denver, CO 80220",
+      "phone": "303-340-4911",
+      "image": "https://cdn.findpawpal.com/office/39740.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/urban-wildlife-rescue-inc-39740/"
+    },
+    {
+      "officeId": 40421,
+      "slug": "animal-orphanage-40421",
+      "name": "Animal Orphanage",
+      "address": "2345 South Federal Boulevard, Denver, CO 80219",
+      "phone": "303-575-9070",
+      "image": "./img/shelter/office/40421.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-orphanage-40421/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40421.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40554,
+      "slug": "rocky-mountain-feline-rescue-40554",
+      "name": "Rocky Mountain Feline Rescue",
+      "address": "2390 South Delaware Street, Denver, CO 80223",
+      "phone": "303-744-6076",
+      "image": "./img/shelter/office/40554.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rocky-mountain-feline-rescue-40554/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40554.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40609,
+      "slug": "animal-assistance-foundation-40609",
+      "name": "Animal Assistance Foundation",
+      "address": "455 Sherman Street, Denver, CO 80203",
+      "phone": "303-774-8396",
+      "image": "./img/shelter/office/40609.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-assistance-foundation-40609/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40609.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40630,
+      "slug": "setter-rescue-40630",
+      "name": "Setter Rescue",
+      "address": "11 Federal Boulevard, Denver, CO 80219",
+      "phone": "303-922-6151",
+      "image": "./img/shelter/office/40630.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/setter-rescue-40630/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40630.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40700,
+      "slug": "maxfund-animal-adoption-center-40700",
+      "name": "Maxfund Animal Adoption Center",
+      "address": "1025 Galapago Street, Denver, CO 80204",
+      "phone": "303-595-4917",
+      "image": "./img/shelter/office/40700.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/maxfund-animal-adoption-center-40700/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40700.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40709,
+      "slug": "mile-high-husky-resce-40709",
+      "name": "Mile High Husky Resce",
+      "address": "820 South Monaco Parkway, Denver, CO 80224",
+      "phone": "303-941-2044",
+      "image": "./img/shelter/office/40709.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mile-high-husky-resce-40709/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40709.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40847,
+      "slug": "gabriel-foundation-40847",
+      "name": "Gabriel Foundation",
+      "address": "1025 Acoma Street, Denver, CO 80204",
+      "phone": "303-629-5900",
+      "image": "./img/shelter/office/40847.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gabriel-foundation-40847/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40847.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 41142,
+      "slug": "save-an-animal-foundation-41142",
+      "name": "Save An Animal Foundation",
+      "address": "PO Box 21792, Denver, CO 80221",
+      "phone": "303-940-8649",
+      "image": "https://cdn.findpawpal.com/office/41142.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/save-an-animal-foundation-41142/"
+    },
+    {
+      "officeId": 41292,
+      "slug": "denver-dumb-friends-league-41292",
+      "name": "Denver Dumb Friends League",
+      "address": "2080 South Quebec Street, Denver, CO 80231",
+      "phone": "303-751-5772",
+      "image": "./img/shelter/office/41292.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/denver-dumb-friends-league-41292/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41292.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 44029,
+      "slug": "denver-animal-shelter-44029",
+      "name": "Denver Animal Shelter",
+      "address": "1241 West Bayaud Avenue, Denver, CO 80223",
+      "phone": "720-913-1311",
+      "image": "./img/shelter/office/44029.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/denver-animal-shelter-44029/",
+      "imageUrl": "https://cdn.findpawpal.com/office/44029.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 44037,
+      "slug": "ho-bo-care-boxer-rescue-inc-44037",
+      "name": "Ho-Bo Care Boxer Rescue, Inc.",
+      "address": "1112 East Bayaud Avenue, Denver, CO 80209",
+      "phone": "303-744-8329",
+      "image": "./img/shelter/office/44037.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ho-bo-care-boxer-rescue-inc-44037/",
+      "imageUrl": "https://cdn.findpawpal.com/office/44037.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 44272,
+      "slug": "denver-animal-control-44272",
+      "name": "Denver Animal Control",
+      "address": "678 South Jason Street, Denver, CO 80223",
+      "phone": "303-698-0076",
+      "image": "./img/shelter/office/44272.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/denver-animal-control-44272/",
+      "imageUrl": "https://cdn.findpawpal.com/office/44272.jpg?f=webp&w=730"
+    }
+  ]
+}

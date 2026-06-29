@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:36:22.125841+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "hartford",
+    "name": "Hartford",
+    "label": "Hartford, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/hartford/",
+  "offices": [
+    {
+      "officeId": 156961,
+      "slug": "ferret-association-of-connecticut-inc-156961",
+      "name": "Ferret Association of Connecticut, Inc.",
+      "address": "14 Sherbrooke Avenue, Hartford, CT 06106",
+      "phone": "860-247-1275",
+      "image": "./img/shelter/office/156961.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ferret-association-of-connecticut-inc-156961/",
+      "imageUrl": "https://cdn.findpawpal.com/office/156961.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 178137,
+      "slug": "animal-shelter-hartford-178137",
+      "name": "Animal Shelter Hartford",
+      "address": "50 Jennings Road, Hartford, CT 06120",
+      "phone": "860-722-8301",
+      "image": "./img/shelter/office/178137.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-shelter-hartford-178137/",
+      "imageUrl": "https://cdn.findpawpal.com/office/178137.jpg?f=webp&w=730"
+    }
+  ]
+}

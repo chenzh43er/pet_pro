@@ -1,0 +1,21 @@
+{
+  "officeId": 536905,
+  "slug": "guymon-animal-shelter-536905",
+  "name": "Guymon Animal Shelter",
+  "address": "219 Northwest 4th Street, Guymon, OK 73942",
+  "street": "219 Northwest 4th Street",
+  "addressCity": "Guymon",
+  "stateCode": "OK",
+  "zip": "73942",
+  "phone": "580-338-6461",
+  "image": "./img/shelter/office/536905.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/guymon-animal-shelter-536905/",
+  "stateSlug": "oklahoma",
+  "stateName": "Oklahoma",
+  "citySlug": "guymon",
+  "cityName": "Guymon",
+  "cityLabel": "Guymon, OK",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/oklahoma/guymon/",
+  "fetchedAt": "2026-06-27T19:48:39.473721+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/536905.jpg?f=webp&w=730"
+}

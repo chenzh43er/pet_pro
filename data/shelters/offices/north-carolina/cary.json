@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:38:30.573064+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "cary",
+    "name": "Cary",
+    "label": "Cary, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/cary/",
+  "offices": [
+    {
+      "officeId": 229049,
+      "slug": "cary-animal-control-229049",
+      "name": "Cary Animal Control",
+      "address": "120 Wilkinson Avenue, Cary, NC 27513",
+      "phone": "919-319-4517",
+      "image": "./img/shelter/office/229049.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cary-animal-control-229049/",
+      "imageUrl": "https://cdn.findpawpal.com/office/229049.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 231126,
+      "slug": "best-friend-pet-adoption-231126",
+      "name": "Best Friend Pet Adoption",
+      "address": "PO Box 5305, Cary, NC 27512",
+      "phone": "919-661-1722",
+      "image": "./img/shelter/office/231126.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/best-friend-pet-adoption-231126/",
+      "imageUrl": "https://cdn.findpawpal.com/office/231126.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 270995,
+      "slug": "pets-for-vets-270995",
+      "name": "Pets for Vets",
+      "address": "103 Santa Fe Trail, Cary, NC 27519",
+      "phone": "",
+      "image": "./img/shelter/office/270995.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pets-for-vets-270995/",
+      "imageUrl": "https://cdn.findpawpal.com/office/270995.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 272085,
+  "slug": "luv-a-pet-272085",
+  "name": "Luv-A-Pet",
+  "address": "2015 W 1st St, Fort Myers, FL 33901",
+  "street": "2015 W 1st St",
+  "addressCity": "Fort Myers",
+  "stateCode": "FL",
+  "zip": "33901",
+  "phone": "813-332-3200",
+  "image": "./img/shelter/office/272085.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/luv-a-pet-272085/",
+  "stateSlug": "florida",
+  "stateName": "Florida",
+  "citySlug": "fort-myers",
+  "cityName": "Fort Myers",
+  "cityLabel": "Fort Myers, FL",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/florida/fort-myers/",
+  "fetchedAt": "2026-06-27T18:14:22.298185+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/272085.jpg?f=webp&w=730"
+}

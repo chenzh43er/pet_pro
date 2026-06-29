@@ -1,0 +1,21 @@
+{
+  "officeId": 6875,
+  "slug": "mobile-county-animal-shelter-6875",
+  "name": "Mobile County Animal Shelter",
+  "address": "2402 West Rebel Road, Mobile, AL 36612",
+  "street": "2402 West Rebel Road",
+  "addressCity": "Mobile",
+  "stateCode": "AL",
+  "zip": "36612",
+  "phone": "251-574-3647",
+  "image": "./img/shelter/office/6875.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/mobile-county-animal-shelter-6875/",
+  "stateSlug": "alabama",
+  "stateName": "Alabama",
+  "citySlug": "mobile",
+  "cityName": "Mobile",
+  "cityLabel": "Mobile, AL",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/alabama/mobile/",
+  "fetchedAt": "2026-06-27T18:18:06.162513+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/6875.jpg?f=webp&w=730"
+}

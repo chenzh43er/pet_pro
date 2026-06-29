@@ -1,0 +1,21 @@
+{
+  "officeId": 160335,
+  "slug": "the-amanda-connection-160335",
+  "name": "The Amanda Connection",
+  "address": "1 Currituck Road, Newtown, CT 06470",
+  "street": "1 Currituck Road",
+  "addressCity": "Newtown",
+  "stateCode": "CT",
+  "zip": "06470",
+  "phone": "203-426-5488",
+  "image": "./img/shelter/office/160335.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/the-amanda-connection-160335/",
+  "stateSlug": "connecticut",
+  "stateName": "Connecticut",
+  "citySlug": "newtown",
+  "cityName": "Newtown",
+  "cityLabel": "Newtown, CT",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/connecticut/newtown/",
+  "fetchedAt": "2026-06-27T18:36:50.720993+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/160335.jpg?f=webp&w=730"
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:06:41.180834+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "lampasas",
+    "name": "Lampasas",
+    "label": "Lampasas, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/lampasas/",
+  "offices": [
+    {
+      "officeId": 519352,
+      "slug": "lampasas-animal-shelter-519352",
+      "name": "Lampasas Animal Shelter",
+      "address": "301 College Street, Lampasas, TX 76550",
+      "phone": "512-556-8586",
+      "image": "./img/shelter/office/519352.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lampasas-animal-shelter-519352/",
+      "imageUrl": "https://cdn.findpawpal.com/office/519352.jpg?f=webp&w=730"
+    }
+  ]
+}

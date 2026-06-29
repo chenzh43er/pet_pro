@@ -1,0 +1,65 @@
+{
+  "fetchedAt": "2026-06-27T20:19:06.731270+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "spokane",
+    "name": "Spokane",
+    "label": "Spokane, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/spokane/",
+  "offices": [
+    {
+      "officeId": 610806,
+      "slug": "spokane-humane-society-610806",
+      "name": "Spokane Humane Society",
+      "address": "6607 North Havana Street, Spokane, WA 99217",
+      "phone": "509-467-5235",
+      "image": "./img/shelter/office/610806.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/spokane-humane-society-610806/",
+      "imageUrl": "https://cdn.findpawpal.com/office/610806.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 614627,
+      "slug": "partners-for-pets-614627",
+      "name": "Partners For Pets",
+      "address": "8901 East Trent Avenue, Spokane, WA 99212",
+      "phone": "509-893-9829",
+      "image": "./img/shelter/office/614627.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/partners-for-pets-614627/",
+      "imageUrl": "https://cdn.findpawpal.com/office/614627.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 664332,
+      "slug": "spokanimal-care-664332",
+      "name": "Spokanimal CARE",
+      "address": "PO Box 3151, Spokane, WA 99220",
+      "phone": "509-534-8133",
+      "image": "./img/shelter/office/664332.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/spokanimal-care-664332/",
+      "imageUrl": "https://cdn.findpawpal.com/office/664332.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 664711,
+      "slug": "spokane-animal-control-664711",
+      "name": "Spokane Animal Control",
+      "address": "603 West Augusta Avenue, Spokane, WA 99205",
+      "phone": "509-328-9999",
+      "image": "./img/shelter/office/664711.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/spokane-animal-control-664711/",
+      "imageUrl": "https://cdn.findpawpal.com/office/664711.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 714662,
+      "slug": "inland-empire-golden-retriever-rescue-714662",
+      "name": "Inland Empire Golden Retriever Rescue",
+      "address": "PO Box 48062, Spokane, WA 99228",
+      "phone": "509-443-1133",
+      "image": "./img/shelter/office/714662.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/inland-empire-golden-retriever-rescue-714662/",
+      "imageUrl": "https://cdn.findpawpal.com/office/714662.jpg?f=webp&w=730"
+    }
+  ]
+}

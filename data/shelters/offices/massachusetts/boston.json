@@ -1,0 +1,144 @@
+{
+  "fetchedAt": "2026-06-27T19:05:33.118144+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "boston",
+    "name": "Boston",
+    "label": "Boston, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/boston/",
+  "offices": [
+    {
+      "officeId": 40525,
+      "slug": "greyhound-welfare-inc-40525",
+      "name": "Greyhound Welfare, Inc.",
+      "address": "PO Box 120788, Boston, MA 02112",
+      "phone": "617-479-2323",
+      "image": "https://cdn.findpawpal.com/office/40525.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhound-welfare-inc-40525/"
+    },
+    {
+      "officeId": 40545,
+      "slug": "new-england-haven-for-animals-40545",
+      "name": "New England Haven for Animals",
+      "address": "11 Elton Street, Boston, MA 02125",
+      "phone": "",
+      "image": "./img/shelter/office/40545.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-england-haven-for-animals-40545/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40545.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40553,
+      "slug": "city-of-boston-animal-shelter-and-adoption-center-40553",
+      "name": "City of Boston: Animal Shelter and Adoption Center",
+      "address": "26 Mahler Road, Boston, MA 02131",
+      "phone": "617-635-1800",
+      "image": "./img/shelter/office/40553.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/city-of-boston-animal-shelter-and-adoption-center-40553/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40553.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40565,
+      "slug": "alliance-for-animals-40565",
+      "name": "Alliance For Animals",
+      "address": "232 Silver Street, Boston, MA 02127",
+      "phone": "617-268-7800",
+      "image": "./img/shelter/office/40565.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/alliance-for-animals-40565/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40565.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40566,
+      "slug": "welcome-home-40566",
+      "name": "Welcome Home",
+      "address": "25 Ridgeway Lane, Boston, MA 02114",
+      "phone": "617-227-1499",
+      "image": "./img/shelter/office/40566.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/welcome-home-40566/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40566.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40577,
+      "slug": "friends-of-the-saginaw-humane-society-40577",
+      "name": "Friends of the Saginaw Humane Society",
+      "address": "1 Post Office Square, Boston, MA 02109",
+      "phone": "",
+      "image": "./img/shelter/office/40577.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-the-saginaw-humane-society-40577/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40577.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40686,
+      "slug": "gifford-cat-shelter-40686",
+      "name": "Gifford Cat Shelter",
+      "address": "30 Undine Road, Boston, MA 02135",
+      "phone": "617-787-8872",
+      "image": "./img/shelter/office/40686.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gifford-cat-shelter-40686/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40686.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40698,
+      "slug": "angell-animal-medical-center-40698",
+      "name": "Angell Animal Medical Center",
+      "address": "350 South Huntington Avenue, Boston, MA 02130",
+      "phone": "617-522-7282",
+      "image": "./img/shelter/office/40698.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/angell-animal-medical-center-40698/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40698.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 41421,
+      "slug": "roslindale-animal-control-41421",
+      "name": "Roslindale Animal Control",
+      "address": "26 Mahler Road, Boston, MA 02131",
+      "phone": "617-635-1800",
+      "image": "./img/shelter/office/41421.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/roslindale-animal-control-41421/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41421.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 41765,
+      "slug": "dorchester-animal-control-41765",
+      "name": "Dorchester Animal Control",
+      "address": "39 Lawley Street, Boston, MA 02122",
+      "phone": "617-268-7800",
+      "image": "./img/shelter/office/41765.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dorchester-animal-control-41765/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41765.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 41938,
+      "slug": "boston-animal-control-41938",
+      "name": "Boston Animal Control",
+      "address": "1 City Hall Sq, Boston, MA 02201",
+      "phone": "617-635-5348",
+      "image": "./img/shelter/office/41938.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/boston-animal-control-41938/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41938.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 41949,
+      "slug": "brighton-animal-control-41949",
+      "name": "Brighton Animal Control",
+      "address": "30 Undine Road, Boston, MA 02135",
+      "phone": "617-787-8872",
+      "image": "./img/shelter/office/41949.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/brighton-animal-control-41949/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41949.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 43552,
+      "slug": "black-cat-rescue-43552",
+      "name": "Black Cat Rescue",
+      "address": "85R McBride Street, Boston, MA 02130",
+      "phone": "",
+      "image": "./img/shelter/office/43552.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/black-cat-rescue-43552/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43552.jpg?f=webp&w=730"
+    }
+  ]
+}

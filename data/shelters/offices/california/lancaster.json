@@ -1,0 +1,32 @@
+{
+  "fetchedAt": "2026-06-27T18:27:05.512973+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "lancaster",
+    "name": "Lancaster",
+    "label": "Lancaster, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/lancaster/",
+  "offices": [
+    {
+      "slug": "life-savers-wild-horse-rescue-536536",
+      "name": "Life Savers Wild Horse Rescue",
+      "address": "23809 East Avenue J, Lancaster, CA 93535",
+      "phone": "661-727-0049",
+      "image": "https://cdn.findpawpal.com/office/536536.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/life-savers-wild-horse-rescue-536536/"
+    },
+    {
+      "slug": "lancaster-animal-shelter-668545",
+      "name": "Lancaster Animal Shelter",
+      "address": "5210 West Avenue I, Lancaster, CA 93536",
+      "phone": "661-940-4191",
+      "image": "./img/shelter/office/668545.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lancaster-animal-shelter-668545/",
+      "imageUrl": "https://cdn.findpawpal.com/office/668545.jpg?f=webp&w=730"
+    }
+  ]
+}

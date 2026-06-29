@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T18:32:53.949482+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "brighton",
+    "name": "Brighton",
+    "label": "Brighton, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/brighton/",
+  "offices": [
+    {
+      "officeId": 40996,
+      "slug": "adams-county-animal-shelter-40996",
+      "name": "Adams County Animal Shelter",
+      "address": "10705 Fulton Street, Brighton, CO 80601",
+      "phone": "303-288-3294",
+      "image": "https://cdn.findpawpal.com/office/40996.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/adams-county-animal-shelter-40996/"
+    },
+    {
+      "officeId": 40997,
+      "slug": "lifeline-puppy-rescue-40997",
+      "name": "Lifeline Puppy Rescue",
+      "address": "15171 Riverdale Road, Brighton, CO 80602",
+      "phone": "303-655-9696",
+      "image": "./img/shelter/office/40997.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lifeline-puppy-rescue-40997/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40997.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 44474,
+      "slug": "countrydogs-rescue-inc-44474",
+      "name": "Countrydogs Rescue Inc.",
+      "address": "13777 Umpire Street, Brighton, CO 80603",
+      "phone": "720-278-5543",
+      "image": "./img/shelter/office/44474.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/countrydogs-rescue-inc-44474/",
+      "imageUrl": "https://cdn.findpawpal.com/office/44474.jpg?f=webp&w=730"
+    }
+  ]
+}

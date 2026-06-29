@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:00:06.070822+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "evensville",
+    "name": "Evensville",
+    "label": "Evensville, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/evensville/",
+  "offices": [
+    {
+      "officeId": 452294,
+      "slug": "rhea-county-animal-shelter-452294",
+      "name": "Rhea County Animal Shelter",
+      "address": "9118 Back Valley Road, Evensville, TN 37332",
+      "phone": "423-775-2029",
+      "image": "./img/shelter/office/452294.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rhea-county-animal-shelter-452294/",
+      "imageUrl": "https://cdn.findpawpal.com/office/452294.jpg?f=webp&w=730"
+    }
+  ]
+}

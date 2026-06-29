@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:17:10.259878+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "arlington",
+    "name": "Arlington",
+    "label": "Arlington, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/arlington/",
+  "offices": [
+    {
+      "officeId": 567217,
+      "slug": "purrfect-pals-567217",
+      "name": "Purrfect Pals",
+      "address": "230 McRae Road Northeast, Arlington, WA 98223",
+      "phone": "360-652-9611",
+      "image": "./img/shelter/office/567217.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/purrfect-pals-567217/",
+      "imageUrl": "https://cdn.findpawpal.com/office/567217.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 664729,
+      "slug": "snohomish-county-animal-control-664729",
+      "name": "Snohomish County Animal Control",
+      "address": "6221 188th Street Northeast, Arlington, WA 98223",
+      "phone": "360-403-3468",
+      "image": "./img/shelter/office/664729.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/snohomish-county-animal-control-664729/",
+      "imageUrl": "https://cdn.findpawpal.com/office/664729.jpg?f=webp&w=730"
+    }
+  ]
+}

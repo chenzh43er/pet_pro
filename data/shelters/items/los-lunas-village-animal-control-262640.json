@@ -1,0 +1,21 @@
+{
+  "officeId": 262640,
+  "slug": "los-lunas-village-animal-control-262640",
+  "name": "Los Lunas Village Animal Control",
+  "address": "839 Main Street Northwest, Albuquerque, NM 87104",
+  "street": "839 Main Street Northwest",
+  "addressCity": "Albuquerque",
+  "stateCode": "NM",
+  "zip": "87104",
+  "phone": "505-839-3847",
+  "image": "./img/shelter/office/262640.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/los-lunas-village-animal-control-262640/",
+  "stateSlug": "new-mexico",
+  "stateName": "New Mexico",
+  "citySlug": "albuquerque",
+  "cityName": "Albuquerque",
+  "cityLabel": "Albuquerque, NM",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-mexico/albuquerque/",
+  "fetchedAt": "2026-06-27T19:29:51.404721+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/262640.jpg?f=webp&w=730"
+}

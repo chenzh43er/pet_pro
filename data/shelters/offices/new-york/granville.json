@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:33:43.884544+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "granville",
+    "name": "Granville",
+    "label": "Granville, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/granville/",
+  "offices": [
+    {
+      "officeId": 317391,
+      "slug": "peaceable-kingdom-animal-rescue-ltd-317391",
+      "name": "Peaceable Kingdom Animal Rescue Ltd.",
+      "address": "7491 Highway 22, Granville, NY 12832",
+      "phone": "518-642-3168",
+      "image": "./img/shelter/office/317391.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/peaceable-kingdom-animal-rescue-ltd-317391/",
+      "imageUrl": "https://cdn.findpawpal.com/office/317391.jpg?f=webp&w=730"
+    }
+  ]
+}

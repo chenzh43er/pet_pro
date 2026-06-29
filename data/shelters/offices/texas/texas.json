@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:09:40.823292+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "texas",
+    "name": "Texas",
+    "label": "Texas, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/texas/",
+  "offices": [
+    {
+      "officeId": 494612,
+      "slug": "texas-city-animal-shelter-494612",
+      "name": "Texas City Animal Shelter",
+      "address": "3412 25th Avenue North, Texas, TX 77590",
+      "phone": "409-949-3011",
+      "image": "./img/shelter/office/494612.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/texas-city-animal-shelter-494612/",
+      "imageUrl": "https://cdn.findpawpal.com/office/494612.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674154,
+      "slug": "the-momma-cat-674154",
+      "name": "The Momma Cat",
+      "address": "PO Box 1251, Texas, TX 77592",
+      "phone": "409-933-3304",
+      "image": "./img/shelter/office/674154.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-momma-cat-674154/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674154.jpg?f=webp&w=730"
+    }
+  ]
+}

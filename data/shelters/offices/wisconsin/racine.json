@@ -1,0 +1,75 @@
+{
+  "fetchedAt": "2026-06-27T20:23:51.340678+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "racine",
+    "name": "Racine",
+    "label": "Racine, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/racine/",
+  "offices": [
+    {
+      "officeId": 490404,
+      "slug": "racine-county-humane-society-490404",
+      "name": "Racine County Humane Society",
+      "address": "4630 Oakdale Drive, Racine, WI 53405",
+      "phone": "262-886-4497",
+      "image": "./img/shelter/office/490404.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/racine-county-humane-society-490404/",
+      "imageUrl": "https://cdn.findpawpal.com/office/490404.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 514352,
+      "slug": "northcentral-maltese-rescue-inc-514352",
+      "name": "Northcentral Maltese Rescue, Inc.",
+      "address": "3601 Wright Avenue, Racine, WI 53405",
+      "phone": "262-633-9371",
+      "image": "./img/shelter/office/514352.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/northcentral-maltese-rescue-inc-514352/",
+      "imageUrl": "https://cdn.findpawpal.com/office/514352.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 632052,
+      "slug": "critter-adoption-maintenance-program-inc-632052",
+      "name": "Critter Adoption Maintenance Program, Inc.",
+      "address": "2711 16th Street, Racine, WI 53405",
+      "phone": "262-939-1619",
+      "image": "./img/shelter/office/632052.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/critter-adoption-maintenance-program-inc-632052/",
+      "imageUrl": "https://cdn.findpawpal.com/office/632052.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 634107,
+      "slug": "h-o-p-e-safehouse-634107",
+      "name": "H.O.P.E. Safehouse",
+      "address": "1911 Taylor Avenue, Racine, WI 53403",
+      "phone": "262-634-4571",
+      "image": "./img/shelter/office/634107.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/h-o-p-e-safehouse-634107/",
+      "imageUrl": "https://cdn.findpawpal.com/office/634107.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 673439,
+      "slug": "wisconsin-humane-society-673439",
+      "name": "Wisconsin Humane Society",
+      "address": "2706 Chicory Road, Racine, WI 53403",
+      "phone": "262-554-6699",
+      "image": "./img/shelter/office/673439.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wisconsin-humane-society-673439/",
+      "imageUrl": "https://cdn.findpawpal.com/office/673439.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 701753,
+      "slug": "orphaned-kanines-701753",
+      "name": "Orphaned Kanines",
+      "address": "1922 Kremer Avenue, Racine, WI 53402",
+      "phone": "262-681-1415",
+      "image": "./img/shelter/office/701753.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/orphaned-kanines-701753/",
+      "imageUrl": "https://cdn.findpawpal.com/office/701753.jpg?f=webp&w=730"
+    }
+  ]
+}

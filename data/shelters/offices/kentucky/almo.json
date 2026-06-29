@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:56:12.420262+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "almo",
+    "name": "Almo",
+    "label": "Almo, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/almo/",
+  "offices": [
+    {
+      "officeId": 115630,
+      "slug": "west-kentucky-rescue-115630",
+      "name": "West Kentucky Rescue",
+      "address": "PO Box 73, Almo, KY 42020",
+      "phone": "270-759-4257",
+      "image": "./img/shelter/office/115630.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/west-kentucky-rescue-115630/",
+      "imageUrl": "https://cdn.findpawpal.com/office/115630.jpg?f=webp&w=730"
+    }
+  ]
+}

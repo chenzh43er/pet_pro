@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:49:35.588872+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "center-point",
+    "name": "Center Point",
+    "label": "Center Point, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/center-point/",
+  "offices": [
+    {
+      "officeId": 201297,
+      "slug": "clay-county-animal-rescue-201297",
+      "name": "Clay County Animal Rescue",
+      "address": "735 Route 59, Center Point, IN 47840",
+      "phone": "812-603-6326",
+      "image": "./img/shelter/office/201297.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/clay-county-animal-rescue-201297/",
+      "imageUrl": "https://cdn.findpawpal.com/office/201297.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 214865,
+      "slug": "exotic-feline-rescue-center-214865",
+      "name": "Exotic Feline Rescue Center",
+      "address": "2221 East Ashboro Road, Center Point, IN 47840",
+      "phone": "812-835-1130",
+      "image": "./img/shelter/office/214865.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/exotic-feline-rescue-center-214865/",
+      "imageUrl": "https://cdn.findpawpal.com/office/214865.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:08:48.440124+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "wareham",
+    "name": "Wareham",
+    "label": "Wareham, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/wareham/",
+  "offices": [
+    {
+      "officeId": 43857,
+      "slug": "a-helping-paw-43857",
+      "name": "A Helping Paw",
+      "address": "3086 Cranberry Highway, Wareham, MA 02538",
+      "phone": "508-291-7297",
+      "image": "./img/shelter/office/43857.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/a-helping-paw-43857/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43857.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 44674,
+      "slug": "wareham-animal-control-44674",
+      "name": "Wareham Animal Control",
+      "address": "54 Marion Road, Wareham, MA 02571",
+      "phone": "508-291-1473",
+      "image": "./img/shelter/office/44674.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wareham-animal-control-44674/",
+      "imageUrl": "https://cdn.findpawpal.com/office/44674.jpg?f=webp&w=730"
+    }
+  ]
+}

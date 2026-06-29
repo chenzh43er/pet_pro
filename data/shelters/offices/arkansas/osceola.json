@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:22:57.388523+00:00",
+  "state": {
+    "slug": "arkansas",
+    "name": "Arkansas"
+  },
+  "city": {
+    "slug": "osceola",
+    "name": "Osceola",
+    "label": "Osceola, AR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arkansas/osceola/",
+  "offices": [
+    {
+      "slug": "osceola-city-animal-shelter-273134",
+      "name": "Osceola City Animal Shelter",
+      "address": "2501 West Semmes Avenue, Osceola, AR 72370",
+      "phone": "870-622-0739",
+      "image": "./img/shelter/office/273134.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/osceola-city-animal-shelter-273134/",
+      "imageUrl": "https://cdn.findpawpal.com/office/273134.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "south-missco-humane-society-297409",
+      "name": "South Missco Humane Society",
+      "address": "PO Box 902, Osceola, AR 72370",
+      "phone": "870-563-9816",
+      "image": "./img/shelter/office/297409.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/south-missco-humane-society-297409/",
+      "imageUrl": "https://cdn.findpawpal.com/office/297409.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:55:51.483517+00:00",
+  "state": {
+    "slug": "rhode-island",
+    "name": "Rhode Island"
+  },
+  "city": {
+    "slug": "bristol",
+    "name": "Bristol",
+    "label": "Bristol, RI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/rhode-island/bristol/",
+  "offices": [
+    {
+      "officeId": 521244,
+      "slug": "bristol-animal-shelter-521244",
+      "name": "Bristol Animal Shelter",
+      "address": "10 Minturn Farm Rd, Bristol, RI 02809",
+      "phone": "401-253-4834",
+      "image": "./img/shelter/office/521244.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bristol-animal-shelter-521244/",
+      "imageUrl": "https://cdn.findpawpal.com/office/521244.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 583590,
+      "slug": "bristol-animal-shelter-583590",
+      "name": "Bristol Animal Shelter",
+      "address": "395 Metacom Avenue, Bristol, RI 02809",
+      "phone": "401-253-4834",
+      "image": "./img/shelter/office/583590.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bristol-animal-shelter-583590/",
+      "imageUrl": "https://cdn.findpawpal.com/office/583590.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:30:36.161791+00:00",
+  "state": {
+    "slug": "new-mexico",
+    "name": "New Mexico"
+  },
+  "city": {
+    "slug": "lake-arthur",
+    "name": "Lake Arthur",
+    "label": "Lake Arthur, NM"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-mexico/lake-arthur/",
+  "offices": [
+    {
+      "officeId": 337923,
+      "slug": "lake-arthur-animal-control-337923",
+      "name": "Lake Arthur Animal Control",
+      "address": "PO Box 8, Lake Arthur, NM 88253",
+      "phone": "",
+      "image": "./img/shelter/office/337923.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lake-arthur-animal-control-337923/",
+      "imageUrl": "https://cdn.findpawpal.com/office/337923.jpg?f=webp&w=730"
+    }
+  ]
+}

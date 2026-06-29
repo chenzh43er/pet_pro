@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:32:01.265287+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "brainardsville",
+    "name": "Brainardsville",
+    "label": "Brainardsville, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/brainardsville/",
+  "offices": [
+    {
+      "officeId": 399563,
+      "slug": "focus-on-ferals-inc-399563",
+      "name": "Focus On Ferals, Inc.",
+      "address": "PO Box 274, Brainardsville, NY 12915",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/399563.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/focus-on-ferals-inc-399563/"
+    }
+  ]
+}

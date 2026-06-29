@@ -1,0 +1,21 @@
+{
+  "officeId": 44082,
+  "slug": "conway-animal-control-44082",
+  "name": "Conway Animal Control",
+  "address": "223 East Main Street, Conway, NH 03818",
+  "street": "223 East Main Street",
+  "addressCity": "Conway",
+  "stateCode": "NH",
+  "zip": "03818",
+  "phone": "603-447-5955",
+  "image": "./img/shelter/office/44082.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/conway-animal-control-44082/",
+  "stateSlug": "new-hampshire",
+  "stateName": "New Hampshire",
+  "citySlug": "conway",
+  "cityName": "Conway",
+  "cityLabel": "Conway, NH",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-hampshire/conway/",
+  "fetchedAt": "2026-06-27T19:23:59.738935+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/44082.jpg?f=webp&w=730"
+}

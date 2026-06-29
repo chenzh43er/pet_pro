@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:28:53.136123+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "oroville",
+    "name": "Oroville",
+    "label": "Oroville, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/oroville/",
+  "offices": [
+    {
+      "slug": "butte-county-animal-control-364380",
+      "name": "Butte County Animal Control",
+      "address": "202 Mira Loma Drive, Oroville, CA 95965",
+      "phone": "530-538-7409",
+      "image": "./img/shelter/office/364380.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/butte-county-animal-control-364380/",
+      "imageUrl": "https://cdn.findpawpal.com/office/364380.jpg?f=webp&w=730"
+    }
+  ]
+}

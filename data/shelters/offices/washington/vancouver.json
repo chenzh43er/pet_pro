@@ -1,0 +1,71 @@
+{
+  "fetchedAt": "2026-06-27T20:19:27.874744+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "vancouver",
+    "name": "Vancouver",
+    "label": "Vancouver, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/vancouver/",
+  "offices": [
+    {
+      "officeId": 566863,
+      "slug": "nw-bird-rescue-adoption-orphanage-566863",
+      "name": "NW Bird Rescue Adoption Orphanage",
+      "address": "13215 Southeast Mill Plain Boulevard, Vancouver, WA 98684",
+      "phone": "360-247-3626",
+      "image": "https://cdn.findpawpal.com/office/566863.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/nw-bird-rescue-adoption-orphanage-566863/"
+    },
+    {
+      "officeId": 610689,
+      "slug": "washington-reptile-rescue-610689",
+      "name": "Washington Reptile Rescue",
+      "address": "12614 Northeast 111th Street, Vancouver, WA 98682",
+      "phone": "360-980-3847",
+      "image": "https://cdn.findpawpal.com/office/610689.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/washington-reptile-rescue-610689/"
+    },
+    {
+      "officeId": 610885,
+      "slug": "clark-county-animal-protection-and-control-610885",
+      "name": "Clark County Animal Protection and Control",
+      "address": "PO Box 9810, Vancouver, WA 98666",
+      "phone": "360-699-2488",
+      "image": "https://cdn.findpawpal.com/office/610885.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/clark-county-animal-protection-and-control-610885/"
+    },
+    {
+      "officeId": 621352,
+      "slug": "aberdeen-scottish-terrier-rescue-621352",
+      "name": "Aberdeen Scottish Terrier Rescue",
+      "address": "100 West 35th Street, Vancouver, WA 98660",
+      "phone": "503-449-5484",
+      "image": "./img/shelter/office/621352.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/aberdeen-scottish-terrier-rescue-621352/",
+      "imageUrl": "https://cdn.findpawpal.com/office/621352.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 628819,
+      "slug": "humane-society-for-southwest-washington-628819",
+      "name": "Humane Society for Southwest Washington",
+      "address": "1100 Northeast 192nd Avenue, Vancouver, WA 98684",
+      "phone": "360-693-4746",
+      "image": "https://cdn.findpawpal.com/office/628819.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-for-southwest-washington-628819/"
+    },
+    {
+      "officeId": 664454,
+      "slug": "clark-county-animal-shelter-664454",
+      "name": "Clark County Animal Shelter",
+      "address": "2121 Saint Francis Lane, Vancouver, WA 98660",
+      "phone": "360-693-4746",
+      "image": "./img/shelter/office/664454.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/clark-county-animal-shelter-664454/",
+      "imageUrl": "https://cdn.findpawpal.com/office/664454.jpg?f=webp&w=730"
+    }
+  ]
+}

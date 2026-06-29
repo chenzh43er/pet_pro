@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T20:25:13.311852+00:00",
+  "state": {
+    "slug": "wyoming",
+    "name": "Wyoming"
+  },
+  "city": {
+    "slug": "jackson",
+    "name": "Jackson",
+    "label": "Jackson, WY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wyoming/jackson/",
+  "offices": [
+    {
+      "officeId": 532061,
+      "slug": "teton-county-pal-532061",
+      "name": "Teton County Pal",
+      "address": "PO Box 10023, Jackson, WY 83002",
+      "phone": "307-733-9167",
+      "image": "./img/shelter/office/532061.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/teton-county-pal-532061/",
+      "imageUrl": "https://cdn.findpawpal.com/office/532061.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 600278,
+      "slug": "teton-county-animal-shelter-600278",
+      "name": "Teton County Animal Shelter",
+      "address": "3150 Adams Canyon Drive, Jackson, WY 83001",
+      "phone": "307-733-2139",
+      "image": "https://cdn.findpawpal.com/office/600278.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/teton-county-animal-shelter-600278/"
+    },
+    {
+      "officeId": 653560,
+      "slug": "animal-adoption-center-653560",
+      "name": "Animal Adoption Center",
+      "address": "270 East Broadway, Jackson, WY 83001",
+      "phone": "307-739-1881",
+      "image": "./img/shelter/office/653560.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-adoption-center-653560/",
+      "imageUrl": "https://cdn.findpawpal.com/office/653560.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:08:07.835377+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "rockland",
+    "name": "Rockland",
+    "label": "Rockland, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/rockland/",
+  "offices": [
+    {
+      "officeId": 40333,
+      "slug": "foster-parrots-ltd-40333",
+      "name": "Foster Parrots, Ltd.",
+      "address": "PO Box 650, Rockland, MA 02370",
+      "phone": "781-878-3733",
+      "image": "./img/shelter/office/40333.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/foster-parrots-ltd-40333/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40333.jpg?f=webp&w=730"
+    }
+  ]
+}

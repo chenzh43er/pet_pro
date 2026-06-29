@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:53:04.854465+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "glenville",
+    "name": "Glenville",
+    "label": "Glenville, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/glenville/",
+  "offices": [
+    {
+      "officeId": 589035,
+      "slug": "angel-acres-horse-haven-rescue-inc-589035",
+      "name": "Angel Acres Horse Haven Rescue, Inc.",
+      "address": "PO Box 62, Glenville, PA 17329",
+      "phone": "717-965-7901",
+      "image": "./img/shelter/office/589035.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/angel-acres-horse-haven-rescue-inc-589035/",
+      "imageUrl": "https://cdn.findpawpal.com/office/589035.jpg?f=webp&w=730"
+    }
+  ]
+}

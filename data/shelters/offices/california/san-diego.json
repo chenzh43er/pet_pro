@@ -1,0 +1,135 @@
+{
+  "fetchedAt": "2026-06-27T18:30:10.432846+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "san-diego",
+    "name": "San Diego",
+    "label": "San Diego, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/san-diego/",
+  "offices": [
+    {
+      "officeId": 361922,
+      "slug": "almanor-humane-society-361922",
+      "name": "Almanor Humane Society",
+      "address": "11138 Melton Court, San Diego, CA 92131",
+      "phone": "",
+      "image": "./img/shelter/office/361922.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/almanor-humane-society-361922/",
+      "imageUrl": "https://cdn.findpawpal.com/office/361922.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 363878,
+      "slug": "jolenes-horse-rescue-363878",
+      "name": "Jolene's Horse Rescue",
+      "address": "10715 Wexford Street, San Diego, CA 92131",
+      "phone": "619-693-8272",
+      "image": "./img/shelter/office/363878.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/jolenes-horse-rescue-363878/",
+      "imageUrl": "https://cdn.findpawpal.com/office/363878.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 365356,
+      "slug": "animal-protection-and-rescue-league-365356",
+      "name": "Animal Protection and Rescue League",
+      "address": "3707 5th Avenue, San Diego, CA 92103",
+      "phone": "619-269-6393",
+      "image": "./img/shelter/office/365356.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-protection-and-rescue-league-365356/",
+      "imageUrl": "https://cdn.findpawpal.com/office/365356.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 365364,
+      "slug": "association-of-avian-rescue-organizations-365364",
+      "name": "Association of Avian Rescue Organizations",
+      "address": "5645 Dartford Way, San Diego, CA 92120",
+      "phone": "619-232-0707",
+      "image": "./img/shelter/office/365364.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/association-of-avian-rescue-organizations-365364/",
+      "imageUrl": "https://cdn.findpawpal.com/office/365364.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 383935,
+      "slug": "chihuahua-rescue-of-san-diego-383935",
+      "name": "Chihuahua Rescue of San Diego",
+      "address": "3711 Mount Abbey Avenue, San Diego, CA 92111",
+      "phone": "858-277-3557",
+      "image": "./img/shelter/office/383935.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/chihuahua-rescue-of-san-diego-383935/",
+      "imageUrl": "https://cdn.findpawpal.com/office/383935.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 385071,
+      "slug": "friends-of-humane-society-de-tijuana-385071",
+      "name": "Friends Of Humane Society De Tijuana",
+      "address": "641 East San Ysidro Boulevard, San Diego, CA 92173",
+      "phone": "619-300-3484",
+      "image": "./img/shelter/office/385071.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-humane-society-de-tijuana-385071/",
+      "imageUrl": "https://cdn.findpawpal.com/office/385071.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 385171,
+      "slug": "san-diego-county-animal-services-department-385171",
+      "name": "San Diego County Animal Services Department",
+      "address": "5480 Gaines Street, San Diego, CA 92110",
+      "phone": "619-767-2675",
+      "image": "./img/shelter/office/385171.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/san-diego-county-animal-services-department-385171/",
+      "imageUrl": "https://cdn.findpawpal.com/office/385171.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 385186,
+      "slug": "san-diego-german-shepherd-rescue-385186",
+      "name": "San Diego German Shepherd Rescue",
+      "address": "6161 El Cajon Boulevard, San Diego, CA 92115",
+      "phone": "858-576-1016",
+      "image": "./img/shelter/office/385186.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/san-diego-german-shepherd-rescue-385186/",
+      "imageUrl": "https://cdn.findpawpal.com/office/385186.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 391149,
+      "slug": "friends-of-animals-391149",
+      "name": "Friends of Animals",
+      "address": "13223 Black Mountain Road, San Diego, CA 92129",
+      "phone": "858-673-3894",
+      "image": "./img/shelter/office/391149.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-animals-391149/",
+      "imageUrl": "https://cdn.findpawpal.com/office/391149.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 478642,
+      "slug": "central-animal-shelter-478642",
+      "name": "Central Animal Shelter",
+      "address": "1104 Azusa Street, San Diego, CA 92110",
+      "phone": "",
+      "image": "./img/shelter/office/478642.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/central-animal-shelter-478642/",
+      "imageUrl": "https://cdn.findpawpal.com/office/478642.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 533228,
+      "slug": "baja-animal-sanctuary-533228",
+      "name": "Baja Animal Sanctuary",
+      "address": "PO Box 439060, San Diego, CA 92143",
+      "phone": "619-948-3199",
+      "image": "./img/shelter/office/533228.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/baja-animal-sanctuary-533228/",
+      "imageUrl": "https://cdn.findpawpal.com/office/533228.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 537946,
+      "slug": "san-diego-humane-society-and-spca-537946",
+      "name": "San Diego Humane Society and SPCA",
+      "address": "5500 Gaines Street, San Diego, CA 92110",
+      "phone": "619-299-7012",
+      "image": "./img/shelter/office/537946.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/san-diego-humane-society-and-spca-537946/",
+      "imageUrl": "https://cdn.findpawpal.com/office/537946.jpg?f=webp&w=730"
+    }
+  ]
+}

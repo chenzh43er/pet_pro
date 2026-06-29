@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:23:12.840339+00:00",
+  "state": {
+    "slug": "arkansas",
+    "name": "Arkansas"
+  },
+  "city": {
+    "slug": "russellville",
+    "name": "Russellville",
+    "label": "Russellville, AR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arkansas/russellville/",
+  "offices": [
+    {
+      "slug": "russellville-animal-control-267457",
+      "name": "Russellville Animal Control",
+      "address": "3115 South Mobile Avenue, Russellville, AR 72802",
+      "phone": "479-968-1944",
+      "image": "./img/shelter/office/267457.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/russellville-animal-control-267457/",
+      "imageUrl": "https://cdn.findpawpal.com/office/267457.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:27:41.623231+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "morristown",
+    "name": "Morristown",
+    "label": "Morristown, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/morristown/",
+  "offices": [
+    {
+      "officeId": 97064,
+      "slug": "morristown-animal-control-97064",
+      "name": "Morristown Animal Control",
+      "address": "200 South Street, Morristown, NJ 07960",
+      "phone": "973-292-6731",
+      "image": "./img/shelter/office/97064.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/morristown-animal-control-97064/",
+      "imageUrl": "https://cdn.findpawpal.com/office/97064.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:05:04.869108+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "abington",
+    "name": "Abington",
+    "label": "Abington, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/abington/",
+  "offices": [
+    {
+      "officeId": 41796,
+      "slug": "abington-town-animal-control-41796",
+      "name": "Abington Town Animal Control",
+      "address": "933 Brockton Avenue, Abington, MA 02351",
+      "phone": "781-878-3697",
+      "image": "./img/shelter/office/41796.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/abington-town-animal-control-41796/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41796.jpg?f=webp&w=730"
+    }
+  ]
+}

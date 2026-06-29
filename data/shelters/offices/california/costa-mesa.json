@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:25:09.764905+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "costa-mesa",
+    "name": "Costa Mesa",
+    "label": "Costa Mesa, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/costa-mesa/",
+  "offices": [
+    {
+      "officeId": 381086,
+      "slug": "wolfdog-rescue-resources-inc-381086",
+      "name": "Wolfdog Rescue Resources, Inc.",
+      "address": "1710 Labrador Drive, Costa Mesa, CA 92626",
+      "phone": "714-673-3729",
+      "image": "./img/shelter/office/381086.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wolfdog-rescue-resources-inc-381086/",
+      "imageUrl": "https://cdn.findpawpal.com/office/381086.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 385611,
+      "slug": "costa-mesa-animal-control-385611",
+      "name": "Costa Mesa Animal Control",
+      "address": "99 Fair Drive, Costa Mesa, CA 92626",
+      "phone": "714-754-5311",
+      "image": "./img/shelter/office/385611.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/costa-mesa-animal-control-385611/",
+      "imageUrl": "https://cdn.findpawpal.com/office/385611.jpg?f=webp&w=730"
+    }
+  ]
+}

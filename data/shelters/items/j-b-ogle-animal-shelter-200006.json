@@ -1,0 +1,21 @@
+{
+  "officeId": 200006,
+  "slug": "j-b-ogle-animal-shelter-200006",
+  "name": "J.B. Ogle Animal Shelter",
+  "address": "201 Willinger Lane, Jeffersonville, IN 47130",
+  "street": "201 Willinger Lane",
+  "addressCity": "Jeffersonville",
+  "stateCode": "IN",
+  "zip": "47130",
+  "phone": "812-282-0071",
+  "image": "./img/shelter/office/200006.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/j-b-ogle-animal-shelter-200006/",
+  "stateSlug": "indiana",
+  "stateName": "Indiana",
+  "citySlug": "jeffersonville",
+  "cityName": "Jeffersonville",
+  "cityLabel": "Jeffersonville, IN",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/indiana/jeffersonville/",
+  "fetchedAt": "2026-06-27T18:50:31.217762+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/200006.jpg?f=webp&w=730"
+}

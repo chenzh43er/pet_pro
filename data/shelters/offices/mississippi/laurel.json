@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:16:37.505253+00:00",
+  "state": {
+    "slug": "mississippi",
+    "name": "Mississippi"
+  },
+  "city": {
+    "slug": "laurel",
+    "name": "Laurel",
+    "label": "Laurel, MS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/mississippi/laurel/",
+  "offices": [
+    {
+      "officeId": 103368,
+      "slug": "laurel-animal-shelter-103368",
+      "name": "Laurel Animal Shelter",
+      "address": "1st St Airbase, Laurel, MS 39440",
+      "phone": "601-428-6463",
+      "image": "./img/shelter/office/103368.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/laurel-animal-shelter-103368/",
+      "imageUrl": "https://cdn.findpawpal.com/office/103368.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 116055,
+      "slug": "animal-rescue-league-116055",
+      "name": "Animal Rescue League",
+      "address": "2511 Moose Drive, Laurel, MS 39440",
+      "phone": "601-649-0821",
+      "image": "./img/shelter/office/116055.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-rescue-league-116055/",
+      "imageUrl": "https://cdn.findpawpal.com/office/116055.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 116065,
+      "slug": "perfect-harmony-animal-rescue-and-sanctuary-116065",
+      "name": "Perfect Harmony Animal Rescue and Sanctuary",
+      "address": "37 Floyd Walters Road, Laurel, MS 39443",
+      "phone": "601-729-5211",
+      "image": "./img/shelter/office/116065.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/perfect-harmony-animal-rescue-and-sanctuary-116065/",
+      "imageUrl": "https://cdn.findpawpal.com/office/116065.jpg?f=webp&w=730"
+    }
+  ]
+}

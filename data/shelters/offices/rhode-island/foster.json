@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:56:05.186216+00:00",
+  "state": {
+    "slug": "rhode-island",
+    "name": "Rhode Island"
+  },
+  "city": {
+    "slug": "foster",
+    "name": "Foster",
+    "label": "Foster, RI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/rhode-island/foster/",
+  "offices": [
+    {
+      "officeId": 708088,
+      "slug": "sweet-binks-rabbit-rescue-inc-708088",
+      "name": "Sweet Binks Rabbit Rescue, Inc.",
+      "address": "PO Box 415, Foster, RI 02825",
+      "phone": "401-623-1340",
+      "image": "./img/shelter/office/708088.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sweet-binks-rabbit-rescue-inc-708088/",
+      "imageUrl": "https://cdn.findpawpal.com/office/708088.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 104199,
+  "slug": "jackson-county-animal-shelter-104199",
+  "name": "Jackson County Animal Shelter",
+  "address": "PO Box 998, Pascagoula, MS 39568",
+  "street": "PO Box 998",
+  "addressCity": "Pascagoula",
+  "stateCode": "MS",
+  "zip": "39568",
+  "phone": "228-497-6350",
+  "image": "./img/shelter/office/104199.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/jackson-county-animal-shelter-104199/",
+  "stateSlug": "mississippi",
+  "stateName": "Mississippi",
+  "citySlug": "pascagoula",
+  "cityName": "Pascagoula",
+  "cityLabel": "Pascagoula, MS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/mississippi/pascagoula/",
+  "fetchedAt": "2026-06-27T19:16:56.593897+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/104199.jpg?f=webp&w=730"
+}

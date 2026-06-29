@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:02:54.047550+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "bethesda",
+    "name": "Bethesda",
+    "label": "Bethesda, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/bethesda/",
+  "offices": [
+    {
+      "officeId": 500049,
+      "slug": "alley-cat-allies-500049",
+      "name": "Alley Cat Allies",
+      "address": "7920 Norfolk Avenue, Bethesda, MD 20814",
+      "phone": "240-482-1980",
+      "image": "./img/shelter/office/500049.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/alley-cat-allies-500049/",
+      "imageUrl": "https://cdn.findpawpal.com/office/500049.jpg?f=webp&w=730"
+    }
+  ]
+}

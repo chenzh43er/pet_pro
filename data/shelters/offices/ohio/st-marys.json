@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:47:02.485952+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "st-marys",
+    "name": "St. Marys",
+    "label": "St. Marys, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/st-marys/",
+  "offices": [
+    {
+      "officeId": 432083,
+      "slug": "sart-432083",
+      "name": "Sart",
+      "address": "PO Box 146, St. Marys, OH 45885",
+      "phone": "419-733-3650",
+      "image": "./img/shelter/office/432083.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sart-432083/",
+      "imageUrl": "https://cdn.findpawpal.com/office/432083.jpg?f=webp&w=730"
+    }
+  ]
+}

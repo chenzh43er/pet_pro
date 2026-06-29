@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:51:45.188444+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "acme",
+    "name": "Acme",
+    "label": "Acme, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/acme/",
+  "offices": [
+    {
+      "officeId": 475031,
+      "slug": "greenview-acre-rescue-475031",
+      "name": "Greenview Acre Rescue",
+      "address": "1108 Claypike Road, Acme, PA 15610",
+      "phone": "412-423-7272",
+      "image": "https://cdn.findpawpal.com/office/475031.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/greenview-acre-rescue-475031/"
+    }
+  ]
+}

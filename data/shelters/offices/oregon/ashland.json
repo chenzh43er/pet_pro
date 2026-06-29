@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T19:50:00.469822+00:00",
+  "state": {
+    "slug": "oregon",
+    "name": "Oregon"
+  },
+  "city": {
+    "slug": "ashland",
+    "name": "Ashland",
+    "label": "Ashland, OR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oregon/ashland/",
+  "offices": [
+    {
+      "officeId": 600838,
+      "slug": "friends-of-the-animal-shelter-600838",
+      "name": "Friends of the Animal Shelter",
+      "address": "PO Box 3412, Ashland, OR 97520",
+      "phone": "541-774-6646",
+      "image": "https://cdn.findpawpal.com/office/600838.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-the-animal-shelter-600838/"
+    },
+    {
+      "officeId": 600842,
+      "slug": "equamore-foundation-600842",
+      "name": "Equamore Foundation",
+      "address": "4723 Highway 66, Ashland, OR 97520",
+      "phone": "541-482-5550",
+      "image": "https://cdn.findpawpal.com/office/600842.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/equamore-foundation-600842/"
+    }
+  ]
+}

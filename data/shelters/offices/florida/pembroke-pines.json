@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:16:37.314127+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "pembroke-pines",
+    "name": "Pembroke Pines",
+    "label": "Pembroke Pines, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/pembroke-pines/",
+  "offices": [
+    {
+      "slug": "top-paw-rescue-inc-271664",
+      "name": "Top Paw Rescue Inc",
+      "address": "2051 Northwest 81st Avenue, Pembroke Pines, FL 33024",
+      "phone": "954-342-9303",
+      "image": "./img/shelter/office/271664.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/top-paw-rescue-inc-271664/",
+      "imageUrl": "https://cdn.findpawpal.com/office/271664.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:08:22.494741+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "pinehurst",
+    "name": "Pinehurst",
+    "label": "Pinehurst, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/pinehurst/",
+  "offices": [
+    {
+      "officeId": 537713,
+      "slug": "lone-star-shih-tzu-and-lhasa-apso-rescue-537713",
+      "name": "Lone Star Shih Tzu and Lhasa Apso Rescue",
+      "address": "PO Box 1346, Pinehurst, TX 77362",
+      "phone": "281-754-4851",
+      "image": "./img/shelter/office/537713.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lone-star-shih-tzu-and-lhasa-apso-rescue-537713/",
+      "imageUrl": "https://cdn.findpawpal.com/office/537713.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 702168,
+      "slug": "heaven-sent-pitbull-rescue-702168",
+      "name": "Heaven Sent Pitbull Rescue",
+      "address": "PO Box 1424, Pinehurst, TX 77362",
+      "phone": "210-274-5444",
+      "image": "./img/shelter/office/702168.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/heaven-sent-pitbull-rescue-702168/",
+      "imageUrl": "https://cdn.findpawpal.com/office/702168.jpg?f=webp&w=730"
+    }
+  ]
+}

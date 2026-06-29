@@ -1,0 +1,21 @@
+{
+  "officeId": 5876,
+  "slug": "c-h-a-r-m-inc-5876",
+  "name": "C.H.A.R.M., Inc.",
+  "address": "PO Box 216, Headland, AL 36345",
+  "street": "PO Box 216",
+  "addressCity": "Headland",
+  "stateCode": "AL",
+  "zip": "36345",
+  "phone": "334-693-9097",
+  "image": "./img/shelter/office/5876.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/c-h-a-r-m-inc-5876/",
+  "stateSlug": "alabama",
+  "stateName": "Alabama",
+  "citySlug": "headland",
+  "cityName": "Headland",
+  "cityLabel": "Headland, AL",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/alabama/headland/",
+  "fetchedAt": "2026-06-27T18:17:50.303224+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/5876.jpg?f=webp&w=730"
+}

@@ -1,0 +1,53 @@
+{
+  "fetchedAt": "2026-06-27T19:39:23.213747+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "goldsboro",
+    "name": "Goldsboro",
+    "label": "Goldsboro, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/goldsboro/",
+  "offices": [
+    {
+      "officeId": 213346,
+      "slug": "wayne-county-animal-shelter-213346",
+      "name": "Wayne County Animal Shelter",
+      "address": "PO Box 227, Goldsboro, NC 27533",
+      "phone": "919-735-7287",
+      "image": "https://cdn.findpawpal.com/office/213346.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/wayne-county-animal-shelter-213346/"
+    },
+    {
+      "officeId": 213363,
+      "slug": "wayne-county-humane-society-213363",
+      "name": "Wayne County Humane Society",
+      "address": "104 South Center Street, Goldsboro, NC 27530",
+      "phone": "919-736-7387",
+      "image": "./img/shelter/office/213363.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wayne-county-humane-society-213363/",
+      "imageUrl": "https://cdn.findpawpal.com/office/213363.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 257965,
+      "slug": "purrrfect-friends-feline-shelter-and-adoptions-257965",
+      "name": "Purrrfect Friends Feline Shelter and Adoptions",
+      "address": "PO Box 4, Goldsboro, NC 27533",
+      "phone": "919-288-6224",
+      "image": "https://cdn.findpawpal.com/office/257965.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/purrrfect-friends-feline-shelter-and-adoptions-257965/"
+    },
+    {
+      "officeId": 260501,
+      "slug": "wayne-county-animal-control-260501",
+      "name": "Wayne County Animal Control",
+      "address": "1600 Clingman Street, Goldsboro, NC 27534",
+      "phone": "919-731-1439",
+      "image": "./img/shelter/office/260501.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wayne-county-animal-control-260501/",
+      "imageUrl": "https://cdn.findpawpal.com/office/260501.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:11:33.591097+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "mancelona",
+    "name": "Mancelona",
+    "label": "Mancelona, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/mancelona/",
+  "offices": [
+    {
+      "officeId": 208268,
+      "slug": "antrim-county-pet-animal-watch-208268",
+      "name": "Antrim County Pet Animal Watch",
+      "address": "PO Box 130, Mancelona, MI 49659",
+      "phone": "616-587-0738",
+      "image": "./img/shelter/office/208268.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/antrim-county-pet-animal-watch-208268/",
+      "imageUrl": "https://cdn.findpawpal.com/office/208268.jpg?f=webp&w=730"
+    }
+  ]
+}

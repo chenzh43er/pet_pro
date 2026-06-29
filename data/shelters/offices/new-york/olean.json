@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:35:39.052130+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "olean",
+    "name": "Olean",
+    "label": "Olean, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/olean/",
+  "offices": [
+    {
+      "officeId": 314618,
+      "slug": "spca-314618",
+      "name": "Spca",
+      "address": "2944 Route 16, Olean, NY 14760",
+      "phone": "716-372-8492",
+      "image": "./img/shelter/office/314618.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/spca-314618/",
+      "imageUrl": "https://cdn.findpawpal.com/office/314618.jpg?f=webp&w=730"
+    }
+  ]
+}

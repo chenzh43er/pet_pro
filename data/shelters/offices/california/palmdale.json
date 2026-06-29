@@ -1,0 +1,41 @@
+{
+  "fetchedAt": "2026-06-27T18:29:01.403624+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "palmdale",
+    "name": "Palmdale",
+    "label": "Palmdale, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/palmdale/",
+  "offices": [
+    {
+      "slug": "southern-california-labrador-retriever-rescue-inc-363456",
+      "name": "Southern California Labrador Retriever Rescue, Inc",
+      "address": "4654 East Avenue South, Palmdale, CA 93552",
+      "phone": "888-554-2522",
+      "image": "./img/shelter/office/363456.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/southern-california-labrador-retriever-rescue-inc-363456/",
+      "imageUrl": "https://cdn.findpawpal.com/office/363456.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "corral-of-comfort-horse-rescue-inc-363542",
+      "name": "Corral of Comfort Horse Rescue Inc",
+      "address": "36180 Valley Springs Road, Palmdale, CA 93550",
+      "phone": "626-340-7427",
+      "image": "https://cdn.findpawpal.com/office/363542.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/corral-of-comfort-horse-rescue-inc-363542/"
+    },
+    {
+      "slug": "california-animal-rescue-and-education-sanctuary-536967",
+      "name": "California Animal Rescue & Education Sanctuary",
+      "address": "PO Box 500128, Palmdale, CA 93550",
+      "phone": "661-264-4400",
+      "image": "./img/shelter/office/536967.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/california-animal-rescue-and-education-sanctuary-536967/",
+      "imageUrl": "https://cdn.findpawpal.com/office/536967.jpg?f=webp&w=730"
+    }
+  ]
+}

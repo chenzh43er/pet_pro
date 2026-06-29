@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:45:03.635903+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "decatur",
+    "name": "Decatur",
+    "label": "Decatur, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/decatur/",
+  "offices": [
+    {
+      "officeId": 383774,
+      "slug": "homeward-bound-pet-shelter-383774",
+      "name": "Homeward Bound Pet Shelter",
+      "address": "1720 Huston Drive, Decatur, IL 62526",
+      "phone": "217-876-1266",
+      "image": "./img/shelter/office/383774.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/homeward-bound-pet-shelter-383774/",
+      "imageUrl": "https://cdn.findpawpal.com/office/383774.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 392667,
+      "slug": "macon-county-animal-control-392667",
+      "name": "Macon County Animal Control",
+      "address": "2400 North Woodford Street, Decatur, IL 62526",
+      "phone": "217-425-4508",
+      "image": "./img/shelter/office/392667.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/macon-county-animal-control-392667/",
+      "imageUrl": "https://cdn.findpawpal.com/office/392667.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 413664,
+      "slug": "humane-society-decatur-macon-413664",
+      "name": "Humane Society Decatur Macon",
+      "address": "2890 North Martin Luther King Junior Drive, Decatur, IL 62526",
+      "phone": "217-876-0000",
+      "image": "./img/shelter/office/413664.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-decatur-macon-413664/",
+      "imageUrl": "https://cdn.findpawpal.com/office/413664.jpg?f=webp&w=730"
+    }
+  ]
+}

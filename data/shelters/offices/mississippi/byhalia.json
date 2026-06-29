@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:16:04.408220+00:00",
+  "state": {
+    "slug": "mississippi",
+    "name": "Mississippi"
+  },
+  "city": {
+    "slug": "byhalia",
+    "name": "Byhalia",
+    "label": "Byhalia, MS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/mississippi/byhalia/",
+  "offices": [
+    {
+      "officeId": 110001,
+      "slug": "blue-sky-dog-rescue-110001",
+      "name": "Blue Sky Dog Rescue",
+      "address": "533 Desoto Road, Byhalia, MS 38611",
+      "phone": "901-212-3698",
+      "image": "./img/shelter/office/110001.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/blue-sky-dog-rescue-110001/",
+      "imageUrl": "https://cdn.findpawpal.com/office/110001.jpg?f=webp&w=730"
+    }
+  ]
+}

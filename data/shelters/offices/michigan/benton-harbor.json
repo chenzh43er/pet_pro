@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:09:30.268114+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "benton-harbor",
+    "name": "Benton Harbor",
+    "label": "Benton Harbor, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/benton-harbor/",
+  "offices": [
+    {
+      "officeId": 203256,
+      "slug": "humane-society-southwestern-203256",
+      "name": "Humane Society-Southwestern",
+      "address": "641 South Crystal Avenue, Benton Harbor, MI 49022",
+      "phone": "269-927-3303",
+      "image": "./img/shelter/office/203256.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-southwestern-203256/",
+      "imageUrl": "https://cdn.findpawpal.com/office/203256.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 209665,
+      "slug": "benton-harbor-animal-control-209665",
+      "name": "Benton Harbor Animal Control",
+      "address": "134 Eastern Avenue, Benton Harbor, MI 49022",
+      "phone": "269-934-7729",
+      "image": "./img/shelter/office/209665.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/benton-harbor-animal-control-209665/",
+      "imageUrl": "https://cdn.findpawpal.com/office/209665.jpg?f=webp&w=730"
+    }
+  ]
+}

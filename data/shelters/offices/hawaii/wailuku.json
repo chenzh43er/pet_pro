@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:42:36.713488+00:00",
+  "state": {
+    "slug": "hawaii",
+    "name": "Hawaii"
+  },
+  "city": {
+    "slug": "wailuku",
+    "name": "Wailuku",
+    "label": "Wailuku, HI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/hawaii/wailuku/",
+  "offices": [
+    {
+      "officeId": 318082,
+      "slug": "maiu-paws-318082",
+      "name": "Maiu PAWS",
+      "address": "PO Box 858, Wailuku, HI 96793",
+      "phone": "808-242-4900",
+      "image": "./img/shelter/office/318082.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/maiu-paws-318082/",
+      "imageUrl": "https://cdn.findpawpal.com/office/318082.jpg?f=webp&w=730"
+    }
+  ]
+}

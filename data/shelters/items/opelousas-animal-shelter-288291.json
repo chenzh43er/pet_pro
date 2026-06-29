@@ -1,0 +1,21 @@
+{
+  "officeId": 288291,
+  "slug": "opelousas-animal-shelter-288291",
+  "name": "Opelousas Animal Shelter",
+  "address": "450 Park Avenue, Opelousas, LA 70570",
+  "street": "450 Park Avenue",
+  "addressCity": "Opelousas",
+  "stateCode": "LA",
+  "zip": "70570",
+  "phone": "318-948-2550",
+  "image": "./img/shelter/office/288291.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/opelousas-animal-shelter-288291/",
+  "stateSlug": "louisiana",
+  "stateName": "Louisiana",
+  "citySlug": "opelousas",
+  "cityName": "Opelousas",
+  "cityLabel": "Opelousas, LA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/louisiana/opelousas/",
+  "fetchedAt": "2026-06-27T19:00:28.965051+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/288291.jpg?f=webp&w=730"
+}

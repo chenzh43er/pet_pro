@@ -1,0 +1,21 @@
+{
+  "officeId": 230607,
+  "slug": "pet-zone-230607",
+  "name": "Pet Zone",
+  "address": "319 Cheves Road, Zebulon, NC 27597",
+  "street": "319 Cheves Road",
+  "addressCity": "Zebulon",
+  "stateCode": "NC",
+  "zip": "27597",
+  "phone": "919-496-2898",
+  "image": "./img/shelter/office/230607.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pet-zone-230607/",
+  "stateSlug": "north-carolina",
+  "stateName": "North Carolina",
+  "citySlug": "zebulon",
+  "cityName": "Zebulon",
+  "cityLabel": "Zebulon, NC",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/north-carolina/zebulon/",
+  "fetchedAt": "2026-06-27T19:42:14.741966+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/230607.jpg?f=webp&w=730"
+}

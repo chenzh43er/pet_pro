@@ -1,0 +1,21 @@
+{
+  "officeId": 340570,
+  "slug": "pasco-county-animal-control-340570",
+  "name": "Pasco County Animal Control",
+  "address": "19640 Dogpatch Lane, Land O' Lakes, FL 34638",
+  "street": "19640 Dogpatch Lane",
+  "addressCity": "Land O' Lakes",
+  "stateCode": "FL",
+  "zip": "34638",
+  "phone": "813-929-1212",
+  "image": "./img/shelter/office/340570.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pasco-county-animal-control-340570/",
+  "stateSlug": "florida",
+  "stateName": "Florida",
+  "citySlug": "land-o-lakes",
+  "cityName": "Land O' Lakes",
+  "cityLabel": "Land O' Lakes, FL",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/florida/land-o-lakes/",
+  "fetchedAt": "2026-06-27T18:15:17.276653+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/340570.jpg?f=webp&w=730"
+}

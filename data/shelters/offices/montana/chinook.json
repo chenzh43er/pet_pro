@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:21:34.696848+00:00",
+  "state": {
+    "slug": "montana",
+    "name": "Montana"
+  },
+  "city": {
+    "slug": "chinook",
+    "name": "Chinook",
+    "label": "Chinook, MT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/montana/chinook/",
+  "offices": [
+    {
+      "officeId": 328747,
+      "slug": "paws-of-chinook-328747",
+      "name": "Paws of Chinook",
+      "address": "PO Box 132, Chinook, MT 59523",
+      "phone": "406-357-4119",
+      "image": "https://cdn.findpawpal.com/office/328747.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/paws-of-chinook-328747/"
+    }
+  ]
+}

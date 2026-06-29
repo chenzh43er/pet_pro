@@ -1,0 +1,51 @@
+{
+  "fetchedAt": "2026-06-27T18:16:24.789078+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "palatka",
+    "name": "Palatka",
+    "label": "Palatka, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/palatka/",
+  "offices": [
+    {
+      "slug": "palatka-city-animal-control-286521",
+      "name": "Palatka City Animal Control",
+      "address": "1008 Ocean Street, Palatka, FL 32177",
+      "phone": "386-329-0107",
+      "image": "./img/shelter/office/286521.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/palatka-city-animal-control-286521/",
+      "imageUrl": "https://cdn.findpawpal.com/office/286521.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mikes-dog-house-324478",
+      "name": "Mikes Dog House",
+      "address": "820 South 13th Street, Palatka, FL 32177",
+      "phone": "386-328-7789",
+      "image": "./img/shelter/office/324478.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mikes-dog-house-324478/",
+      "imageUrl": "https://cdn.findpawpal.com/office/324478.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "putnam-county-humane-society-357389",
+      "name": "Putnam County Humane Society",
+      "address": "112 Norma Street, Palatka, FL 32177",
+      "phone": "386-325-1587",
+      "image": "./img/shelter/office/357389.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/putnam-county-humane-society-357389/",
+      "imageUrl": "https://cdn.findpawpal.com/office/357389.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "putnam-county-pound-357439",
+      "name": "Putnam County Pound",
+      "address": "140 County Landfill Road, Palatka, FL 32177",
+      "phone": "386-329-0399",
+      "image": "./img/shelter/office/357439.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/putnam-county-pound-357439/",
+      "imageUrl": "https://cdn.findpawpal.com/office/357439.jpg?f=webp&w=730"
+    }
+  ]
+}

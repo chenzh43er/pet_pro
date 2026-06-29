@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:02:19.056042+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "waynesboro",
+    "name": "Waynesboro",
+    "label": "Waynesboro, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/waynesboro/",
+  "offices": [
+    {
+      "officeId": 451923,
+      "slug": "tri-county-animal-clinic-451923",
+      "name": "Tri-County Animal Clinic",
+      "address": "415 Waynesboro Highway, Waynesboro, TN 38485",
+      "phone": "931-722-9240",
+      "image": "./img/shelter/office/451923.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tri-county-animal-clinic-451923/",
+      "imageUrl": "https://cdn.findpawpal.com/office/451923.jpg?f=webp&w=730"
+    }
+  ]
+}

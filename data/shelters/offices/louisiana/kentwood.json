@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:00:00.709037+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "kentwood",
+    "name": "Kentwood",
+    "label": "Kentwood, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/kentwood/",
+  "offices": [
+    {
+      "officeId": 226928,
+      "slug": "tangi-adopt-a-rescue-226928",
+      "name": "Tangi Adopt A Rescue",
+      "address": "1085 Jaeger Road, Kentwood, LA 70444",
+      "phone": "985-229-4398",
+      "image": "./img/shelter/office/226928.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tangi-adopt-a-rescue-226928/",
+      "imageUrl": "https://cdn.findpawpal.com/office/226928.jpg?f=webp&w=730"
+    }
+  ]
+}

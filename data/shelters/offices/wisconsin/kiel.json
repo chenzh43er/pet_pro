@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:23:07.880831+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "kiel",
+    "name": "Kiel",
+    "label": "Kiel, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/kiel/",
+  "offices": [
+    {
+      "officeId": 514107,
+      "slug": "wanekia-wanagi-domestic-animal-514107",
+      "name": "Wanekia Wanagi Domestic Animal",
+      "address": "18436 Co Road Xx, Kiel, WI 53042",
+      "phone": "920-894-2247",
+      "image": "./img/shelter/office/514107.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wanekia-wanagi-domestic-animal-514107/",
+      "imageUrl": "https://cdn.findpawpal.com/office/514107.jpg?f=webp&w=730"
+    }
+  ]
+}

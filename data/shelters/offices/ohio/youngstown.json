@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:47:53.223844+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "youngstown",
+    "name": "Youngstown",
+    "label": "Youngstown, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/youngstown/",
+  "offices": [
+    {
+      "officeId": 445501,
+      "slug": "falcon-animal-control-445501",
+      "name": "Falcon Animal Control",
+      "address": "6520 Mahoning Avenue, Youngstown, OH 44515",
+      "phone": "330-757-2351",
+      "image": "./img/shelter/office/445501.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/falcon-animal-control-445501/",
+      "imageUrl": "https://cdn.findpawpal.com/office/445501.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 458126,
+      "slug": "cat-ladies-society-458126",
+      "name": "Cat Ladies Society",
+      "address": "2616 Mahoning Avenue, Youngstown, OH 44509",
+      "phone": "330-261-6162",
+      "image": "./img/shelter/office/458126.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cat-ladies-society-458126/",
+      "imageUrl": "https://cdn.findpawpal.com/office/458126.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 466964,
+      "slug": "mahoning-county-humane-society-466964",
+      "name": "Mahoning County Humane Society",
+      "address": "PO Box 3965, Youngstown, OH 44513",
+      "phone": "330-533-5451",
+      "image": "./img/shelter/office/466964.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mahoning-county-humane-society-466964/",
+      "imageUrl": "https://cdn.findpawpal.com/office/466964.jpg?f=webp&w=730"
+    }
+  ]
+}

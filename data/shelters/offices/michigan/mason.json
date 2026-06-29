@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:11:39.513164+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "mason",
+    "name": "Mason",
+    "label": "Mason, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/mason/",
+  "offices": [
+    {
+      "officeId": 202367,
+      "slug": "michigan-weimaraner-rescue-inc-202367",
+      "name": "Michigan Weimaraner Rescue Inc",
+      "address": "2886 Hagadorn Road, Mason, MI 48854",
+      "phone": "517-333-7015",
+      "image": "./img/shelter/office/202367.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan-weimaraner-rescue-inc-202367/",
+      "imageUrl": "https://cdn.findpawpal.com/office/202367.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 207716,
+      "slug": "ingham-county-animal-control-and-shelter-207716",
+      "name": "Ingham County Animal Control and Shelter",
+      "address": "600 Curtis Street, Mason, MI 48854",
+      "phone": "517-676-8370",
+      "image": "./img/shelter/office/207716.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ingham-county-animal-control-and-shelter-207716/",
+      "imageUrl": "https://cdn.findpawpal.com/office/207716.jpg?f=webp&w=730"
+    }
+  ]
+}

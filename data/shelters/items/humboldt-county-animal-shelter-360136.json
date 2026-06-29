@@ -1,0 +1,21 @@
+{
+  "officeId": 360136,
+  "slug": "humboldt-county-animal-shelter-360136",
+  "name": "Humboldt County Animal Shelter",
+  "address": "980 Lycoming Avenue, McKinleyville, CA 95519",
+  "street": "980 Lycoming Avenue",
+  "addressCity": "McKinleyville",
+  "stateCode": "CA",
+  "zip": "95519",
+  "phone": "707-840-9132",
+  "image": "./img/shelter/office/360136.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/humboldt-county-animal-shelter-360136/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "mckinleyville",
+  "cityName": "McKinleyville",
+  "cityLabel": "McKinleyville, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/mckinleyville/",
+  "fetchedAt": "2026-06-27T18:27:46.184033+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/360136.jpg?f=webp&w=730"
+}

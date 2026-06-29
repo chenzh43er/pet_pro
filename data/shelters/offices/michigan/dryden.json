@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:10:12.363208+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "dryden",
+    "name": "Dryden",
+    "label": "Dryden, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/dryden/",
+  "offices": [
+    {
+      "officeId": 190323,
+      "slug": "for-the-love-of-rotts-the-michigan-connection-190323",
+      "name": "For the Love of Rotts...The Michigan Connection",
+      "address": "4124 South Lake George Road, Dryden, MI 48428",
+      "phone": "810-796-9434",
+      "image": "./img/shelter/office/190323.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/for-the-love-of-rotts-the-michigan-connection-190323/",
+      "imageUrl": "https://cdn.findpawpal.com/office/190323.jpg?f=webp&w=730"
+    }
+  ]
+}

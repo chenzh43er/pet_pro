@@ -1,0 +1,65 @@
+{
+  "fetchedAt": "2026-06-27T19:23:05.706997+00:00",
+  "state": {
+    "slug": "nevada",
+    "name": "Nevada"
+  },
+  "city": {
+    "slug": "carson-city",
+    "name": "Carson City",
+    "label": "Carson City, NV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nevada/carson-city/",
+  "offices": [
+    {
+      "officeId": 6794,
+      "slug": "carson-tahoe-spca-6794",
+      "name": "Carson Tahoe SPCA",
+      "address": "PO Box 4351, Carson City, NV 89702",
+      "phone": "775-885-7766",
+      "image": "./img/shelter/office/6794.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/carson-tahoe-spca-6794/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6794.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 6822,
+      "slug": "dog-town-canine-rescue-6822",
+      "name": "Dog Town Canine Rescue",
+      "address": "PO Box 2978, Carson City, NV 89702",
+      "phone": "775-230-3703",
+      "image": "./img/shelter/office/6822.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dog-town-canine-rescue-6822/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6822.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 6871,
+      "slug": "eagle-valley-humane-society-6871",
+      "name": "Eagle Valley Humane Society",
+      "address": "PO Box 768, Carson City, NV 89702",
+      "phone": "775-882-4880",
+      "image": "./img/shelter/office/6871.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/eagle-valley-humane-society-6871/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6871.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 7258,
+      "slug": "wild-horse-spirit-ltd-7258",
+      "name": "Wild Horse Spirit Ltd",
+      "address": "25 Lewers Creek Road, Carson City, NV 89704",
+      "phone": "775-883-5488",
+      "image": "./img/shelter/office/7258.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wild-horse-spirit-ltd-7258/",
+      "imageUrl": "https://cdn.findpawpal.com/office/7258.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 7415,
+      "slug": "4-paws-rescue-shelter-sanctuary-inc-7415",
+      "name": "4 Paws, Rescue, Shelter, Sanctuary, Inc.",
+      "address": "3240 Lakeshore Drive, Carson City, NV 89704",
+      "phone": "775-224-3384",
+      "image": "./img/shelter/office/7415.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/4-paws-rescue-shelter-sanctuary-inc-7415/",
+      "imageUrl": "https://cdn.findpawpal.com/office/7415.jpg?f=webp&w=730"
+    }
+  ]
+}

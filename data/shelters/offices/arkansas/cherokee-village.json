@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:21:47.055743+00:00",
+  "state": {
+    "slug": "arkansas",
+    "name": "Arkansas"
+  },
+  "city": {
+    "slug": "cherokee-village",
+    "name": "Cherokee Village",
+    "label": "Cherokee Village, AR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arkansas/cherokee-village/",
+  "offices": [
+    {
+      "slug": "ash-flat-animal-control-273451",
+      "name": "Ash Flat Animal Control",
+      "address": "1531 Arkansas 289, Cherokee Village, AR 72529",
+      "phone": "870-994-4445",
+      "image": "./img/shelter/office/273451.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ash-flat-animal-control-273451/",
+      "imageUrl": "https://cdn.findpawpal.com/office/273451.jpg?f=webp&w=730"
+    }
+  ]
+}

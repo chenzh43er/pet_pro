@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:39:33.962210+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "henderson",
+    "name": "Henderson",
+    "label": "Henderson, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/henderson/",
+  "offices": [
+    {
+      "officeId": 227088,
+      "slug": "vance-county-humane-society-227088",
+      "name": "Vance County Humane Society",
+      "address": "PO Box 1552, Henderson, NC 27536",
+      "phone": "252-492-5211",
+      "image": "https://cdn.findpawpal.com/office/227088.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/vance-county-humane-society-227088/"
+    },
+    {
+      "officeId": 270054,
+      "slug": "vance-county-animal-shelter-270054",
+      "name": "Vance County Animal Shelter",
+      "address": "165 Vance Academy Road, Henderson, NC 27537",
+      "phone": "252-492-3136",
+      "image": "./img/shelter/office/270054.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/vance-county-animal-shelter-270054/",
+      "imageUrl": "https://cdn.findpawpal.com/office/270054.jpg?f=webp&w=730"
+    }
+  ]
+}

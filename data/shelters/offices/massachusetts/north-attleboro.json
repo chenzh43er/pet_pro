@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:07:34.879175+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "north-attleboro",
+    "name": "North Attleboro",
+    "label": "North Attleboro, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/north-attleboro/",
+  "offices": [
+    {
+      "officeId": 43050,
+      "slug": "north-attleborough-virtual-animal-shelter-43050",
+      "name": "North Attleborough Virtual Animal Shelter",
+      "address": "43 South Washington Street, North Attleboro, MA 02760",
+      "phone": "",
+      "image": "./img/shelter/office/43050.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/north-attleborough-virtual-animal-shelter-43050/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43050.jpg?f=webp&w=730"
+    }
+  ]
+}

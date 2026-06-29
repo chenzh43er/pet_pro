@@ -1,0 +1,21 @@
+{
+  "officeId": 333798,
+  "slug": "angel-paws-rescue-333798",
+  "name": "Angel PAWS Rescue",
+  "address": "21 Schuster Avenue, Buffalo, NY 14225",
+  "street": "21 Schuster Avenue",
+  "addressCity": "Buffalo",
+  "stateCode": "NY",
+  "zip": "14225",
+  "phone": "716-683-7546",
+  "image": "./img/shelter/office/333798.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/angel-paws-rescue-333798/",
+  "stateSlug": "new-york",
+  "stateName": "New York",
+  "citySlug": "buffalo",
+  "cityName": "Buffalo",
+  "cityLabel": "Buffalo, NY",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-york/buffalo/",
+  "fetchedAt": "2026-06-27T19:32:13.612190+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/333798.jpg?f=webp&w=730"
+}

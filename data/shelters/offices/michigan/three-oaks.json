@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:13:00.435579+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "three-oaks",
+    "name": "Three Oaks",
+    "label": "Three Oaks, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/three-oaks/",
+  "offices": [
+    {
+      "officeId": 190637,
+      "slug": "three-oaks-animal-control-190637",
+      "name": "Three Oaks Animal Control",
+      "address": "18805 South Schwark Road, Three Oaks, MI 49128",
+      "phone": "269-756-9271",
+      "image": "./img/shelter/office/190637.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/three-oaks-animal-control-190637/",
+      "imageUrl": "https://cdn.findpawpal.com/office/190637.jpg?f=webp&w=730"
+    }
+  ]
+}

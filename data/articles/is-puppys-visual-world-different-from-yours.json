@@ -1,0 +1,113 @@
+{
+  "slug": "is-puppys-visual-world-different-from-yours",
+  "path": "/pet-health/is-puppys-visual-world-different-from-yours/",
+  "category": "pet-health",
+  "categoryLabel": "Pet Health",
+  "title": "Is Puppy's Visual World Different From Yours?",
+  "description": "Understanding the visual capabilities of our canine companions holds significant importance. Certain aspects of dog training and activities that engage their mental faculties heavily rely on their sense of sight, making it crucial to comprehend how they perceive the world.",
+  "listImage": "./img/blog/list/is-puppys-visual-world-different-from-yours.webp",
+  "sections": [
+    {
+      "id": "long-list-1",
+      "title": "1. Color Vision",
+      "paragraphs": [
+        "Dogs can see colors, but not the same colors as you see. Humans have three types of cones, each sensitive to different wavelengths of light corresponding to either blue, green, or red. But your dog has only blue and red cone types. Some people (mostly men) experience red-green colorblindness and also have only these two types of cones.",
+        "Therefore, dogs can only make out yellow and blue, and combinations of those colors. This renders a lot of the world grayish-brown. That lush green lawn? It looks like a field of dead hay. That bright red velvet cushion? Still comfy, but it probably comes across as a dark brown blob to the dog."
+      ],
+      "image": "./img/blog/content/is-puppys-visual-world-different-from-yours-1.webp"
+    },
+    {
+      "id": "long-list-2",
+      "title": "2. Binocular Vision",
+      "paragraphs": [
+        "The visual field simultaneously seen by both eyes is called the binocular field, and it makes possible the perception of depth. For instance, when you hold your finger in front of you and alternate closing one eye and then the other, the finger appears to shift position more noticeably when it is closer to your eyes. This effect occurs because each eye provides a slightly different perspective, and your brain processes these differences to determine the finger's distance.",
+        "The binocular field is reduced in dogs to 80-100 degrees in comparison to the one in humans (140 degrees) due to the lateral position of the eyeballs. Some dog breeds have better depth perception than others, depending on the position of their eyes and skull shape. This means that some dogs may be more likely to misjudge distances."
+      ],
+      "image": "./img/blog/content/is-puppys-visual-world-different-from-yours-2.webp"
+    },
+    {
+      "id": "long-list-3",
+      "title": "3. Visual Field",
+      "paragraphs": [
+        "The area that a dog can see without turning its head (its visual field) is determined by the position of its eyes, ears, snout length, and length of fur. Overall, dogs have wider visual fields than humans and can see between 150-240°, which allows them to more effectively scan the horizon."
+      ],
+      "image": "./img/blog/content/is-puppys-visual-world-different-from-yours-3.webp"
+    },
+    {
+      "id": "long-list-4",
+      "title": "4. Motion Vision",
+      "paragraphs": [
+        "Dogs and humans are much more sensitive to moving objects than to ones standing still. When comparing how fast dogs and humans can distinguish whether a light is flickering or steady, dogs can detect a light that flickers at 75 times per second, while humans can only detect a flicker at 60 times per second. Because of this heightened sensitivity to flickering lights, dogs may view television screens, which are renewed at a rate of 60 times a second, as flickering motion rather than continuous motion."
+      ],
+      "image": "./img/blog/content/is-puppys-visual-world-different-from-yours-4.webp"
+    },
+    {
+      "id": "long-list-5",
+      "title": "5. Dim Light Vision",
+      "paragraphs": [
+        "Your dog's eyes are specialized for vision in dim light. Dogs have many more rods than humans, which are important to see in the dark. Pets evolved from wild canines, which were crepuscular, and active mainly at dusk and dawn. They developed the ability to detect movement in low light to hunt. Dogs maintained this night vision advantage while adjusting to daylight conditions as they evolved."
+      ],
+      "image": "./img/blog/content/is-puppys-visual-world-different-from-yours-5.webp"
+    },
+    {
+      "id": "long-list-6",
+      "title": "6. Eye Aging",
+      "paragraphs": [
+        "Dog eyes appear to age faster than humans. Like humans, they experience lens thickening, hardening, and clouding, possibly caused by damage from ultraviolet sunlight. This can make vision blurrier with age. In addition, dogs' eyes can suffer from a range of diseases including cataracts, macula degeneration, and glaucoma.",
+        "While humans tend to become more long-sighted as they age (close objects become blurry), dogs become more near-sighted (distant objects become blurry)."
+      ],
+      "image": "./img/blog/content/is-puppys-visual-world-different-from-yours-6.webp"
+    },
+    {
+      "id": "long-list-7",
+      "title": "7. Visual Perspective",
+      "paragraphs": [
+        "Humans typically range in height from 165-180 cm, while dogs vary in shoulder height from 15-110 cm. This size difference means that dogs' vision is focused more toward the ground than that of humans, potentially causing navigation challenges in tall vegetation. Dogs with longer skulls may face additional restrictions when looking down due to their snouts obstructing their vision, requiring them to lower their entire head to see the ground."
+      ],
+      "image": "./img/blog/content/is-puppys-visual-world-different-from-yours-7.webp"
+    },
+    {
+      "id": "long-list-8",
+      "title": "8. Top Tips For Considering Dog's Vision",
+      "paragraphs": [
+        "By comprehending these differences, we enhance our training methods and deepen the bond we share with our furry friends. Through a clearer understanding of how dogs perceive the world visually, we can navigate their unique needs and experiences with empathy and insight, fostering stronger connections and enriching the shared journey between humans and dogs."
+      ],
+      "image": "./img/blog/content/is-puppys-visual-world-different-from-yours-8.webp"
+    }
+  ],
+  "nav": [
+    {
+      "id": "long-list-1",
+      "label": "1. Color Vision"
+    },
+    {
+      "id": "long-list-2",
+      "label": "2. Binocular Vision"
+    },
+    {
+      "id": "long-list-3",
+      "label": "3. Visual Field"
+    },
+    {
+      "id": "long-list-4",
+      "label": "4. Motion Vision"
+    },
+    {
+      "id": "long-list-5",
+      "label": "5. Dim Light Vision"
+    },
+    {
+      "id": "long-list-6",
+      "label": "6. Eye Aging"
+    },
+    {
+      "id": "long-list-7",
+      "label": "7. Visual Perspective"
+    },
+    {
+      "id": "long-list-8",
+      "label": "8. Top Tips For Considering Dog's Vision"
+    }
+  ],
+  "nextPath": "/pet-health/unlocking-the-10-secrets-to-your-dogs-longevity/"
+}

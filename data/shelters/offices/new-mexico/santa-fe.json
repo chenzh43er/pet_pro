@@ -1,0 +1,144 @@
+{
+  "fetchedAt": "2026-06-27T19:31:04.771830+00:00",
+  "state": {
+    "slug": "new-mexico",
+    "name": "New Mexico"
+  },
+  "city": {
+    "slug": "santa-fe",
+    "name": "Santa Fe",
+    "label": "Santa Fe, NM"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-mexico/santa-fe/",
+  "offices": [
+    {
+      "officeId": 259539,
+      "slug": "felines-and-friends-259539",
+      "name": "Felines & Friends",
+      "address": "369 Montezuma Avenue, Santa Fe, NM 87501",
+      "phone": "505-316-2281",
+      "image": "./img/shelter/office/259539.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/felines-and-friends-259539/",
+      "imageUrl": "https://cdn.findpawpal.com/office/259539.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 262039,
+      "slug": "p-f-ferrets-ferrets-r-fun-262039",
+      "name": "P F Ferrets Ferrets R Fun",
+      "address": "2640 Calle Primavera, Santa Fe, NM 87505",
+      "phone": "505-473-0153",
+      "image": "./img/shelter/office/262039.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/p-f-ferrets-ferrets-r-fun-262039/",
+      "imageUrl": "https://cdn.findpawpal.com/office/262039.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 262047,
+      "slug": "rottweiler-club-and-rescue-262047",
+      "name": "Rottweiler Club & Rescue",
+      "address": "18 Hampton Road, Santa Fe, NM 87505",
+      "phone": "505-466-0512",
+      "image": "./img/shelter/office/262047.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rottweiler-club-and-rescue-262047/",
+      "imageUrl": "https://cdn.findpawpal.com/office/262047.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 262557,
+      "slug": "bridging-the-worlds-262557",
+      "name": "Bridging The Worlds",
+      "address": "PO Box 9109, Santa Fe, NM 87504",
+      "phone": "505-501-1887",
+      "image": "./img/shelter/office/262557.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bridging-the-worlds-262557/",
+      "imageUrl": "https://cdn.findpawpal.com/office/262557.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 262634,
+      "slug": "second-chance-project-262634",
+      "name": "Second Chance Project",
+      "address": "PO Box 92AB, Santa Fe, NM 87501",
+      "phone": "505-455-1156",
+      "image": "./img/shelter/office/262634.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/second-chance-project-262634/",
+      "imageUrl": "https://cdn.findpawpal.com/office/262634.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 279177,
+      "slug": "santa-fe-animal-shelter-and-humane-society-279177",
+      "name": "Santa Fe Animal Shelter & Humane Society",
+      "address": "100 Caja Del Rio Road, Santa Fe, NM 87507",
+      "phone": "505-983-4309",
+      "image": "./img/shelter/office/279177.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/santa-fe-animal-shelter-and-humane-society-279177/",
+      "imageUrl": "https://cdn.findpawpal.com/office/279177.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 282307,
+      "slug": "santa-fe-county-animal-control-282307",
+      "name": "Santa Fe County Animal Control",
+      "address": "35 Camino Justicia, Santa Fe, NM 87508",
+      "phone": "505-986-2430",
+      "image": "./img/shelter/office/282307.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/santa-fe-county-animal-control-282307/",
+      "imageUrl": "https://cdn.findpawpal.com/office/282307.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 282332,
+      "slug": "heart-and-soul-sanctuary-282332",
+      "name": "Heart & Soul Sanctuary",
+      "address": "369 Montezuma Avenue, Santa Fe, NM 87501",
+      "phone": "505-757-6817",
+      "image": "./img/shelter/office/282332.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/heart-and-soul-sanctuary-282332/",
+      "imageUrl": "https://cdn.findpawpal.com/office/282332.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 309467,
+      "slug": "dew-paws-rescue-309467",
+      "name": "Dew PAWS Rescue",
+      "address": "3940 Los Milagros, Santa Fe, NM 87507",
+      "phone": "505-424-4432",
+      "image": "./img/shelter/office/309467.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dew-paws-rescue-309467/",
+      "imageUrl": "https://cdn.findpawpal.com/office/309467.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 326922,
+      "slug": "horse-shelter-326922",
+      "name": "Horse Shelter",
+      "address": "1600 Lena Street, Santa Fe, NM 87505",
+      "phone": "505-471-6179",
+      "image": "./img/shelter/office/326922.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/horse-shelter-326922/",
+      "imageUrl": "https://cdn.findpawpal.com/office/326922.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 326996,
+      "slug": "lost-horse-ranch-326996",
+      "name": "Lost Horse Ranch",
+      "address": "PO Box 110B, Santa Fe, NM 87501",
+      "phone": "505-471-8028",
+      "image": "./img/shelter/office/326996.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lost-horse-ranch-326996/",
+      "imageUrl": "https://cdn.findpawpal.com/office/326996.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 335466,
+      "slug": "kindred-spirits-animal-sanctuary-335466",
+      "name": "Kindred Spirits Animal Sanctuary",
+      "address": "3749 Highway 14, Santa Fe, NM 87508",
+      "phone": "505-471-5366",
+      "image": "./img/shelter/office/335466.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kindred-spirits-animal-sanctuary-335466/",
+      "imageUrl": "https://cdn.findpawpal.com/office/335466.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 335474,
+      "slug": "new-mexico-dachshund-rescue-335474",
+      "name": "New Mexico Dachshund Rescue",
+      "address": "36 Sandy Way, Santa Fe, NM 87506",
+      "phone": "505-455-3259",
+      "image": "https://cdn.findpawpal.com/office/335474.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico-dachshund-rescue-335474/"
+    }
+  ]
+}

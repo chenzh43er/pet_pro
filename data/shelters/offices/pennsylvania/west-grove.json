@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:55:33.635984+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "west-grove",
+    "name": "West Grove",
+    "label": "West Grove, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/west-grove/",
+  "offices": [
+    {
+      "officeId": 452433,
+      "slug": "large-animal-protection-society-inc-452433",
+      "name": "Large Animal Protection Society, Inc.",
+      "address": "PO Box 243, West Grove, PA 19390",
+      "phone": "610-869-9880",
+      "image": "https://cdn.findpawpal.com/office/452433.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/large-animal-protection-society-inc-452433/"
+    }
+  ]
+}

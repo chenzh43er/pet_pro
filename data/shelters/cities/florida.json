@@ -1,0 +1,1292 @@
+{
+  "fetchedAt": "2026-06-27T17:47:38.974852+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida",
+    "offices": 364
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/",
+  "cities": [
+    {
+      "slug": "arcadia",
+      "name": "Arcadia",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/arcadia/"
+    },
+    {
+      "slug": "atlantic-beach",
+      "name": "Atlantic Beach",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/atlantic-beach/"
+    },
+    {
+      "slug": "babson-park",
+      "name": "Babson Park",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/babson-park/"
+    },
+    {
+      "slug": "bell",
+      "name": "Bell",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/bell/"
+    },
+    {
+      "slug": "boca-raton",
+      "name": "Boca Raton",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/boca-raton/"
+    },
+    {
+      "slug": "bonita-springs",
+      "name": "Bonita Springs",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/bonita-springs/"
+    },
+    {
+      "slug": "boynton-beach",
+      "name": "Boynton Beach",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/boynton-beach/"
+    },
+    {
+      "slug": "bradenton",
+      "name": "Bradenton",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/bradenton/"
+    },
+    {
+      "slug": "bronson",
+      "name": "Bronson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/bronson/"
+    },
+    {
+      "slug": "brooksville",
+      "name": "Brooksville",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/brooksville/"
+    },
+    {
+      "slug": "bunnell",
+      "name": "Bunnell",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/bunnell/"
+    },
+    {
+      "slug": "cantonment",
+      "name": "Cantonment",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/cantonment/"
+    },
+    {
+      "slug": "century",
+      "name": "Century",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/century/"
+    },
+    {
+      "slug": "chiefland",
+      "name": "Chiefland",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/chiefland/"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/christmas/"
+    },
+    {
+      "slug": "clarcona",
+      "name": "Clarcona",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/clarcona/"
+    },
+    {
+      "slug": "clearwater",
+      "name": "Clearwater",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/clearwater/"
+    },
+    {
+      "slug": "clermont",
+      "name": "Clermont",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/clermont/"
+    },
+    {
+      "slug": "cocoa",
+      "name": "Cocoa",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/cocoa/"
+    },
+    {
+      "slug": "coconut-creek",
+      "name": "Coconut Creek",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/coconut-creek/"
+    },
+    {
+      "slug": "cooper",
+      "name": "Cooper",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/cooper/"
+    },
+    {
+      "slug": "coral-gables",
+      "name": "Coral Gables",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/coral-gables/"
+    },
+    {
+      "slug": "coral-springs",
+      "name": "Coral Springs",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/coral-springs/"
+    },
+    {
+      "slug": "crawfordville",
+      "name": "Crawfordville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/crawfordville/"
+    },
+    {
+      "slug": "crestview",
+      "name": "Crestview",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/crestview/"
+    },
+    {
+      "slug": "davenport",
+      "name": "Davenport",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/davenport/"
+    },
+    {
+      "slug": "davie",
+      "name": "Davie",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/davie/"
+    },
+    {
+      "slug": "daytona-beach",
+      "name": "Daytona Beach",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/daytona-beach/"
+    },
+    {
+      "slug": "de-leon-springs",
+      "name": "De Leon Springs",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/de-leon-springs/"
+    },
+    {
+      "slug": "debary",
+      "name": "DeBary",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/debary/"
+    },
+    {
+      "slug": "defuniak-springs",
+      "name": "DeFuniak Springs",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/defuniak-springs/"
+    },
+    {
+      "slug": "deland",
+      "name": "DeLand",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/deland/"
+    },
+    {
+      "slug": "delray-beach",
+      "name": "Delray Beach",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/delray-beach/"
+    },
+    {
+      "slug": "deltona",
+      "name": "Deltona",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/deltona/"
+    },
+    {
+      "slug": "destin",
+      "name": "Destin",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/destin/"
+    },
+    {
+      "slug": "dunedin",
+      "name": "Dunedin",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/dunedin/"
+    },
+    {
+      "slug": "dunnellon",
+      "name": "Dunnellon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/dunnellon/"
+    },
+    {
+      "slug": "eastpoint",
+      "name": "Eastpoint",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/eastpoint/"
+    },
+    {
+      "slug": "edgewater",
+      "name": "Edgewater",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/edgewater/"
+    },
+    {
+      "slug": "eglin-afb",
+      "name": "Eglin AFB",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/eglin-afb/"
+    },
+    {
+      "slug": "englewood",
+      "name": "Englewood",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/englewood/"
+    },
+    {
+      "slug": "eustis",
+      "name": "Eustis",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/eustis/"
+    },
+    {
+      "slug": "fernandina-beach",
+      "name": "Fernandina Beach",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/fernandina-beach/"
+    },
+    {
+      "slug": "floral-city",
+      "name": "Floral City",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/floral-city/"
+    },
+    {
+      "slug": "fort-lauderdale",
+      "name": "Fort Lauderdale",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/fort-lauderdale/"
+    },
+    {
+      "slug": "fort-myers",
+      "name": "Fort Myers",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/fort-myers/"
+    },
+    {
+      "slug": "fort-pierce",
+      "name": "Fort Pierce",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/fort-pierce/"
+    },
+    {
+      "slug": "fort-walton-beach",
+      "name": "Fort Walton Beach",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/fort-walton-beach/"
+    },
+    {
+      "slug": "fort-white",
+      "name": "Fort White",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/fort-white/"
+    },
+    {
+      "slug": "freeport",
+      "name": "Freeport",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/freeport/"
+    },
+    {
+      "slug": "fruit-cove",
+      "name": "Fruit Cove",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/fruit-cove/"
+    },
+    {
+      "slug": "gainesville",
+      "name": "Gainesville",
+      "offices": 6,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/gainesville/"
+    },
+    {
+      "slug": "goulds",
+      "name": "Goulds",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/goulds/"
+    },
+    {
+      "slug": "green-cove-springs",
+      "name": "Green Cove Springs",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/green-cove-springs/"
+    },
+    {
+      "slug": "gulf-breeze",
+      "name": "Gulf Breeze",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/gulf-breeze/"
+    },
+    {
+      "slug": "hollywood",
+      "name": "Hollywood",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/hollywood/"
+    },
+    {
+      "slug": "homosassa",
+      "name": "Homosassa",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/homosassa/"
+    },
+    {
+      "slug": "howey-in-the-hills",
+      "name": "Howey-in-the-Hills",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/howey-in-the-hills/"
+    },
+    {
+      "slug": "hudson",
+      "name": "Hudson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/hudson/"
+    },
+    {
+      "slug": "immokalee",
+      "name": "Immokalee",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/immokalee/"
+    },
+    {
+      "slug": "indian-rocks-beach",
+      "name": "Indian Rocks Beach",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/indian-rocks-beach/"
+    },
+    {
+      "slug": "inverness",
+      "name": "Inverness",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/inverness/"
+    },
+    {
+      "slug": "jacksonville",
+      "name": "Jacksonville",
+      "offices": 9,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/jacksonville/"
+    },
+    {
+      "slug": "jacksonville-beach",
+      "name": "Jacksonville Beach",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/jacksonville-beach/"
+    },
+    {
+      "slug": "jensen-beach",
+      "name": "Jensen Beach",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/jensen-beach/"
+    },
+    {
+      "slug": "jupiter",
+      "name": "Jupiter",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/jupiter/"
+    },
+    {
+      "slug": "key-largo",
+      "name": "Key Largo",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/key-largo/"
+    },
+    {
+      "slug": "key-west",
+      "name": "Key West",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/key-west/"
+    },
+    {
+      "slug": "kissimmee",
+      "name": "Kissimmee",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/kissimmee/"
+    },
+    {
+      "slug": "labelle",
+      "name": "LaBelle",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/labelle/"
+    },
+    {
+      "slug": "lady-lake",
+      "name": "Lady Lake",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/lady-lake/"
+    },
+    {
+      "slug": "lake",
+      "name": "Lake",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/lake/"
+    },
+    {
+      "slug": "lake-butler",
+      "name": "Lake Butler",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/lake-butler/"
+    },
+    {
+      "slug": "lake-panasoffkee",
+      "name": "Lake Panasoffkee",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/lake-panasoffkee/"
+    },
+    {
+      "slug": "lake-park",
+      "name": "Lake Park",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/lake-park/"
+    },
+    {
+      "slug": "lake-placid",
+      "name": "Lake Placid",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/lake-placid/"
+    },
+    {
+      "slug": "lake-wales",
+      "name": "Lake Wales",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/lake-wales/"
+    },
+    {
+      "slug": "lake-worth",
+      "name": "Lake Worth",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/lake-worth/"
+    },
+    {
+      "slug": "lakeland",
+      "name": "Lakeland",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/lakeland/"
+    },
+    {
+      "slug": "land-o-lakes",
+      "name": "Land O' Lakes",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/land-o-lakes/"
+    },
+    {
+      "slug": "largo",
+      "name": "Largo",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/largo/"
+    },
+    {
+      "slug": "laurel-hill",
+      "name": "Laurel Hill",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/laurel-hill/"
+    },
+    {
+      "slug": "leesburg",
+      "name": "Leesburg",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/leesburg/"
+    },
+    {
+      "slug": "lutz",
+      "name": "Lutz",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/lutz/"
+    },
+    {
+      "slug": "lynn-haven",
+      "name": "Lynn Haven",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/lynn-haven/"
+    },
+    {
+      "slug": "macclenny",
+      "name": "Macclenny",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/macclenny/"
+    },
+    {
+      "slug": "madeira-beach",
+      "name": "Madeira Beach",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/madeira-beach/"
+    },
+    {
+      "slug": "madison",
+      "name": "Madison",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/madison/"
+    },
+    {
+      "slug": "maitland",
+      "name": "Maitland",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/maitland/"
+    },
+    {
+      "slug": "marathon",
+      "name": "Marathon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/marathon/"
+    },
+    {
+      "slug": "margate",
+      "name": "Margate",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/margate/"
+    },
+    {
+      "slug": "marianna",
+      "name": "Marianna",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/marianna/"
+    },
+    {
+      "slug": "mcalpin",
+      "name": "McAlpin",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/mcalpin/"
+    },
+    {
+      "slug": "medley",
+      "name": "Medley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/medley/"
+    },
+    {
+      "slug": "melbourne",
+      "name": "Melbourne",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/melbourne/"
+    },
+    {
+      "slug": "melrose",
+      "name": "Melrose",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/melrose/"
+    },
+    {
+      "slug": "miami",
+      "name": "Miami",
+      "offices": 8,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/miami/"
+    },
+    {
+      "slug": "micanopy",
+      "name": "Micanopy",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/micanopy/"
+    },
+    {
+      "slug": "middleburg",
+      "name": "Middleburg",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/middleburg/"
+    },
+    {
+      "slug": "milton",
+      "name": "Milton",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/milton/"
+    },
+    {
+      "slug": "mims",
+      "name": "Mims",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/mims/"
+    },
+    {
+      "slug": "monticello",
+      "name": "Monticello",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/monticello/"
+    },
+    {
+      "slug": "murdock",
+      "name": "Murdock",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/murdock/"
+    },
+    {
+      "slug": "myakka-city",
+      "name": "Myakka City",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/myakka-city/"
+    },
+    {
+      "slug": "naples",
+      "name": "Naples",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/naples/"
+    },
+    {
+      "slug": "navarre",
+      "name": "Navarre",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/navarre/"
+    },
+    {
+      "slug": "neptune-beach",
+      "name": "Neptune Beach",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/neptune-beach/"
+    },
+    {
+      "slug": "new-port-richey",
+      "name": "New Port Richey",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/new-port-richey/"
+    },
+    {
+      "slug": "new-smyrna-beach",
+      "name": "New Smyrna Beach",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/new-smyrna-beach/"
+    },
+    {
+      "slug": "niceville",
+      "name": "Niceville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/niceville/"
+    },
+    {
+      "slug": "north-fort-myers",
+      "name": "North Fort Myers",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/north-fort-myers/"
+    },
+    {
+      "slug": "north-miami",
+      "name": "North Miami",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/north-miami/"
+    },
+    {
+      "slug": "north-miami-beach",
+      "name": "North Miami Beach",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/north-miami-beach/"
+    },
+    {
+      "slug": "north-palm-beach",
+      "name": "North Palm Beach",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/north-palm-beach/"
+    },
+    {
+      "slug": "oakland-park",
+      "name": "Oakland Park",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/oakland-park/"
+    },
+    {
+      "slug": "ocala",
+      "name": "Ocala",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/ocala/"
+    },
+    {
+      "slug": "okeechobee",
+      "name": "Okeechobee",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/okeechobee/"
+    },
+    {
+      "slug": "old-town",
+      "name": "Old Town",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/old-town/"
+    },
+    {
+      "slug": "orange-park",
+      "name": "Orange Park",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/orange-park/"
+    },
+    {
+      "slug": "orlando",
+      "name": "Orlando",
+      "offices": 7,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/orlando/"
+    },
+    {
+      "slug": "ormond-beach",
+      "name": "Ormond Beach",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/ormond-beach/"
+    },
+    {
+      "slug": "pahokee",
+      "name": "Pahokee",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/pahokee/"
+    },
+    {
+      "slug": "palatka",
+      "name": "Palatka",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/palatka/"
+    },
+    {
+      "slug": "palm-beach",
+      "name": "Palm Beach",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/palm-beach/"
+    },
+    {
+      "slug": "palm-beach-gardens",
+      "name": "Palm Beach Gardens",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/palm-beach-gardens/"
+    },
+    {
+      "slug": "palm-city",
+      "name": "Palm City",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/palm-city/"
+    },
+    {
+      "slug": "palm-coast",
+      "name": "Palm Coast",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/palm-coast/"
+    },
+    {
+      "slug": "palm-harbor",
+      "name": "Palm Harbor",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/palm-harbor/"
+    },
+    {
+      "slug": "palmetto",
+      "name": "Palmetto",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/palmetto/"
+    },
+    {
+      "slug": "panama",
+      "name": "Panama",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/panama/"
+    },
+    {
+      "slug": "pembroke-pines",
+      "name": "Pembroke Pines",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/pembroke-pines/"
+    },
+    {
+      "slug": "pensacola",
+      "name": "Pensacola",
+      "offices": 9,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/pensacola/"
+    },
+    {
+      "slug": "perry",
+      "name": "Perry",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/perry/"
+    },
+    {
+      "slug": "pinellas-park",
+      "name": "Pinellas Park",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/pinellas-park/"
+    },
+    {
+      "slug": "polk-city",
+      "name": "Polk City",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/polk-city/"
+    },
+    {
+      "slug": "pompano-beach",
+      "name": "Pompano Beach",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/pompano-beach/"
+    },
+    {
+      "slug": "ponte-vedra-beach",
+      "name": "Ponte Vedra Beach",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/ponte-vedra-beach/"
+    },
+    {
+      "slug": "port-charlotte",
+      "name": "Port Charlotte",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/port-charlotte/"
+    },
+    {
+      "slug": "port-orange",
+      "name": "Port Orange",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/port-orange/"
+    },
+    {
+      "slug": "port-richey",
+      "name": "Port Richey",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/port-richey/"
+    },
+    {
+      "slug": "port-saint-joe",
+      "name": "Port Saint Joe",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/port-saint-joe/"
+    },
+    {
+      "slug": "port-st-joe",
+      "name": "Port St. Joe",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/port-st-joe/"
+    },
+    {
+      "slug": "port-st-lucie",
+      "name": "Port St. Lucie",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/port-st-lucie/"
+    },
+    {
+      "slug": "punta-gorda",
+      "name": "Punta Gorda",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/punta-gorda/"
+    },
+    {
+      "slug": "quincy",
+      "name": "Quincy",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/quincy/"
+    },
+    {
+      "slug": "rockledge",
+      "name": "Rockledge",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/rockledge/"
+    },
+    {
+      "slug": "royal-palm-beach",
+      "name": "Royal Palm Beach",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/royal-palm-beach/"
+    },
+    {
+      "slug": "sanford",
+      "name": "Sanford",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/sanford/"
+    },
+    {
+      "slug": "sarasota",
+      "name": "Sarasota",
+      "offices": 6,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/sarasota/"
+    },
+    {
+      "slug": "sebastian",
+      "name": "Sebastian",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/sebastian/"
+    },
+    {
+      "slug": "sebring",
+      "name": "Sebring",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/sebring/"
+    },
+    {
+      "slug": "seminole",
+      "name": "Seminole",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/seminole/"
+    },
+    {
+      "slug": "st-augustine",
+      "name": "St. Augustine",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/st-augustine/"
+    },
+    {
+      "slug": "st-cloud",
+      "name": "St. Cloud",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/st-cloud/"
+    },
+    {
+      "slug": "st-petersburg",
+      "name": "St. Petersburg",
+      "offices": 6,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/st-petersburg/"
+    },
+    {
+      "slug": "starke",
+      "name": "Starke",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/starke/"
+    },
+    {
+      "slug": "stuart",
+      "name": "Stuart",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/stuart/"
+    },
+    {
+      "slug": "sunrise",
+      "name": "Sunrise",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/sunrise/"
+    },
+    {
+      "slug": "surfside",
+      "name": "Surfside",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/surfside/"
+    },
+    {
+      "slug": "tallahassee",
+      "name": "Tallahassee",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/tallahassee/"
+    },
+    {
+      "slug": "tampa",
+      "name": "Tampa",
+      "offices": 9,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/tampa/"
+    },
+    {
+      "slug": "tavares",
+      "name": "Tavares",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/tavares/"
+    },
+    {
+      "slug": "thonotosassa",
+      "name": "Thonotosassa",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/thonotosassa/"
+    },
+    {
+      "slug": "titusville",
+      "name": "Titusville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/titusville/"
+    },
+    {
+      "slug": "trenton",
+      "name": "Trenton",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/trenton/"
+    },
+    {
+      "slug": "umatilla",
+      "name": "Umatilla",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/umatilla/"
+    },
+    {
+      "slug": "venice",
+      "name": "Venice",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/venice/"
+    },
+    {
+      "slug": "vero-beach",
+      "name": "Vero Beach",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/vero-beach/"
+    },
+    {
+      "slug": "wauchula",
+      "name": "Wauchula",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/wauchula/"
+    },
+    {
+      "slug": "webster",
+      "name": "Webster",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/webster/"
+    },
+    {
+      "slug": "weeki-wachee",
+      "name": "Weeki Wachee",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/weeki-wachee/"
+    },
+    {
+      "slug": "wellborn",
+      "name": "Wellborn",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/wellborn/"
+    },
+    {
+      "slug": "wellington",
+      "name": "Wellington",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/wellington/"
+    },
+    {
+      "slug": "west-palm-beach",
+      "name": "West Palm Beach",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/west-palm-beach/"
+    },
+    {
+      "slug": "west-park",
+      "name": "West Park",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/west-park/"
+    },
+    {
+      "slug": "wildwood",
+      "name": "Wildwood",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/wildwood/"
+    },
+    {
+      "slug": "williston",
+      "name": "Williston",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/williston/"
+    },
+    {
+      "slug": "windermere",
+      "name": "Windermere",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/windermere/"
+    },
+    {
+      "slug": "winter-garden",
+      "name": "Winter Garden",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/winter-garden/"
+    },
+    {
+      "slug": "winter-haven",
+      "name": "Winter Haven",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/winter-haven/"
+    },
+    {
+      "slug": "winter-park",
+      "name": "Winter Park",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/winter-park/"
+    },
+    {
+      "slug": "winter-springs",
+      "name": "Winter Springs",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/winter-springs/"
+    },
+    {
+      "slug": "yulee",
+      "name": "Yulee",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/yulee/"
+    }
+  ]
+}

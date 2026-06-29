@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:05:34.614676+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "braintree",
+    "name": "Braintree",
+    "label": "Braintree, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/braintree/",
+  "offices": [
+    {
+      "officeId": 40246,
+      "slug": "south-shore-humane-society-40246",
+      "name": "South Shore Humane Society",
+      "address": "PO Box 850187, Braintree, MA 02185",
+      "phone": "781-335-0061",
+      "image": "https://cdn.findpawpal.com/office/40246.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/south-shore-humane-society-40246/"
+    }
+  ]
+}

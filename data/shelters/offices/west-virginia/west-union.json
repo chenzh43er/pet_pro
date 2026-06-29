@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:21:45.586379+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "west-union",
+    "name": "West Union",
+    "label": "West Union, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/west-union/",
+  "offices": [
+    {
+      "officeId": 453666,
+      "slug": "second-wind-adoption-program-inc-453666",
+      "name": "Second Wind Adoption Program, Inc.",
+      "address": "2224 JockeyCamp Run, West Union, WV 26456",
+      "phone": "304-873-3532",
+      "image": "https://cdn.findpawpal.com/office/453666.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/second-wind-adoption-program-inc-453666/"
+    }
+  ]
+}

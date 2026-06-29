@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:42:04.991541+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "winterville",
+    "name": "Winterville",
+    "label": "Winterville, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/winterville/",
+  "offices": [
+    {
+      "officeId": 159923,
+      "slug": "winterville-animal-control-159923",
+      "name": "Winterville Animal Control",
+      "address": "64 Yeargin Court, Winterville, GA 30683",
+      "phone": "706-742-9580",
+      "image": "https://cdn.findpawpal.com/office/159923.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/winterville-animal-control-159923/"
+    }
+  ]
+}

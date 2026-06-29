@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:39:21.684031+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "gold-hill",
+    "name": "Gold Hill",
+    "label": "Gold Hill, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/gold-hill/",
+  "offices": [
+    {
+      "officeId": 260463,
+      "slug": "gold-hill-animal-shelter-260463",
+      "name": "Gold Hill Animal Shelter",
+      "address": "1080 Triple D Dr, Gold Hill, NC 28071",
+      "phone": "704-431-5991",
+      "image": "./img/shelter/office/260463.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gold-hill-animal-shelter-260463/",
+      "imageUrl": "https://cdn.findpawpal.com/office/260463.jpg?f=webp&w=730"
+    }
+  ]
+}

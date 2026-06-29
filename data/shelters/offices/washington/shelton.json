@@ -1,0 +1,53 @@
+{
+  "fetchedAt": "2026-06-27T20:19:00.686617+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "shelton",
+    "name": "Shelton",
+    "label": "Shelton, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/shelton/",
+  "offices": [
+    {
+      "officeId": 593500,
+      "slug": "adopt-a-pet-593500",
+      "name": "Adopt-A-Pet",
+      "address": "940 East Jensen Road, Shelton, WA 98584",
+      "phone": "360-432-3091",
+      "image": "https://cdn.findpawpal.com/office/593500.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/adopt-a-pet-593500/"
+    },
+    {
+      "officeId": 664632,
+      "slug": "shelton-mason-county-parrot-rescue-smcpr-664632",
+      "name": "Shelton Mason County Parrot Rescue Smcpr",
+      "address": "81 East Daniels Road, Shelton, WA 98584",
+      "phone": "360-229-3976",
+      "image": "./img/shelter/office/664632.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/shelton-mason-county-parrot-rescue-smcpr-664632/",
+      "imageUrl": "https://cdn.findpawpal.com/office/664632.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 698853,
+      "slug": "companion-animal-care-project-698853",
+      "name": "Companion Animal Care Project",
+      "address": "PO Box 903, Shelton, WA 98584",
+      "phone": "360-427-0701",
+      "image": "https://cdn.findpawpal.com/office/698853.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/companion-animal-care-project-698853/"
+    },
+    {
+      "officeId": 714665,
+      "slug": "wild-felid-advocacy-center-of-washington-714665",
+      "name": "Wild Felid Advocacy Center of Washington",
+      "address": "3111 East Harstine Island Road North, Shelton, WA 98584",
+      "phone": "360-427-4466",
+      "image": "./img/shelter/office/714665.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wild-felid-advocacy-center-of-washington-714665/",
+      "imageUrl": "https://cdn.findpawpal.com/office/714665.jpg?f=webp&w=730"
+    }
+  ]
+}

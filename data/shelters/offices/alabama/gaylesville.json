@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-06-27T18:17:36.338503+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "gaylesville",
+    "name": "Gaylesville",
+    "label": "Gaylesville, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/gaylesville/",
+  "offices": [
+    {
+      "slug": "friends-for-life-inc-5696",
+      "name": "Friends for Life, Inc.",
+      "address": "2491 County Road 140, Gaylesville, AL 35973",
+      "phone": "256-422-5224",
+      "image": "https://cdn.findpawpal.com/office/5696.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-for-life-inc-5696/"
+    }
+  ]
+}

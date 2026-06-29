@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:24:56.512205+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "claremont",
+    "name": "Claremont",
+    "label": "Claremont, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/claremont/",
+  "offices": [
+    {
+      "officeId": 390758,
+      "slug": "st-roch-dog-rescue-claremont-390758",
+      "name": "St. Roch Dog Rescue Claremont",
+      "address": "915 West Foothill Boulevard, Claremont, CA 91711",
+      "phone": "909-620-7650",
+      "image": "./img/shelter/office/390758.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/st-roch-dog-rescue-claremont-390758/",
+      "imageUrl": "https://cdn.findpawpal.com/office/390758.jpg?f=webp&w=730"
+    }
+  ]
+}

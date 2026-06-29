@@ -1,0 +1,620 @@
+{
+  "fetchedAt": "2026-06-27T17:47:32.313899+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado",
+    "offices": 168
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/",
+  "cities": [
+    {
+      "slug": "alamosa",
+      "name": "Alamosa",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/alamosa/"
+    },
+    {
+      "slug": "arvada",
+      "name": "Arvada",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/arvada/"
+    },
+    {
+      "slug": "aspen",
+      "name": "Aspen",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/aspen/"
+    },
+    {
+      "slug": "aurora",
+      "name": "Aurora",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/aurora/"
+    },
+    {
+      "slug": "bailey",
+      "name": "Bailey",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/bailey/"
+    },
+    {
+      "slug": "basalt",
+      "name": "Basalt",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/basalt/"
+    },
+    {
+      "slug": "bayfield",
+      "name": "Bayfield",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/bayfield/"
+    },
+    {
+      "slug": "bennett",
+      "name": "Bennett",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/bennett/"
+    },
+    {
+      "slug": "boulder",
+      "name": "Boulder",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/boulder/"
+    },
+    {
+      "slug": "breckenridge",
+      "name": "Breckenridge",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/breckenridge/"
+    },
+    {
+      "slug": "brighton",
+      "name": "Brighton",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/brighton/"
+    },
+    {
+      "slug": "broomfield",
+      "name": "Broomfield",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/broomfield/"
+    },
+    {
+      "slug": "buena-vista",
+      "name": "Buena Vista",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/buena-vista/"
+    },
+    {
+      "slug": "byers",
+      "name": "Byers",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/byers/"
+    },
+    {
+      "slug": "calhan",
+      "name": "Calhan",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/calhan/"
+    },
+    {
+      "slug": "carbondale",
+      "name": "Carbondale",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/carbondale/"
+    },
+    {
+      "slug": "cascade-chipita-park",
+      "name": "Cascade-Chipita Park",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/cascade-chipita-park/"
+    },
+    {
+      "slug": "castle-rock",
+      "name": "Castle Rock",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/castle-rock/"
+    },
+    {
+      "slug": "canon",
+      "name": "Ca\u00f1on",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/canon/"
+    },
+    {
+      "slug": "cedaredge",
+      "name": "Cedaredge",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/cedaredge/"
+    },
+    {
+      "slug": "centennial",
+      "name": "Centennial",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/centennial/"
+    },
+    {
+      "slug": "colorado-springs",
+      "name": "Colorado Springs",
+      "offices": 12,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/colorado-springs/"
+    },
+    {
+      "slug": "commerce",
+      "name": "Commerce",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/commerce/"
+    },
+    {
+      "slug": "cortez",
+      "name": "Cortez",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/cortez/"
+    },
+    {
+      "slug": "cotopaxi",
+      "name": "Cotopaxi",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/cotopaxi/"
+    },
+    {
+      "slug": "craig",
+      "name": "Craig",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/craig/"
+    },
+    {
+      "slug": "creede",
+      "name": "Creede",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/creede/"
+    },
+    {
+      "slug": "cripple-creek",
+      "name": "Cripple Creek",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/cripple-creek/"
+    },
+    {
+      "slug": "delta",
+      "name": "Delta",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/delta/"
+    },
+    {
+      "slug": "denver",
+      "name": "Denver",
+      "offices": 13,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/denver/"
+    },
+    {
+      "slug": "divide",
+      "name": "Divide",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/divide/"
+    },
+    {
+      "slug": "durango",
+      "name": "Durango",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/durango/"
+    },
+    {
+      "slug": "eagle",
+      "name": "Eagle",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/eagle/"
+    },
+    {
+      "slug": "eaton",
+      "name": "Eaton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/eaton/"
+    },
+    {
+      "slug": "englewood",
+      "name": "Englewood",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/englewood/"
+    },
+    {
+      "slug": "erie",
+      "name": "Erie",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/erie/"
+    },
+    {
+      "slug": "evans",
+      "name": "Evans",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/evans/"
+    },
+    {
+      "slug": "fort-collins",
+      "name": "Fort Collins",
+      "offices": 7,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/fort-collins/"
+    },
+    {
+      "slug": "fort-garland",
+      "name": "Fort Garland",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/fort-garland/"
+    },
+    {
+      "slug": "fort-morgan",
+      "name": "Fort Morgan",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/fort-morgan/"
+    },
+    {
+      "slug": "frisco",
+      "name": "Frisco",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/frisco/"
+    },
+    {
+      "slug": "glenwood-springs",
+      "name": "Glenwood Springs",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/glenwood-springs/"
+    },
+    {
+      "slug": "golden",
+      "name": "Golden",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/golden/"
+    },
+    {
+      "slug": "granby",
+      "name": "Granby",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/granby/"
+    },
+    {
+      "slug": "grand-junction",
+      "name": "Grand Junction",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/grand-junction/"
+    },
+    {
+      "slug": "greeley",
+      "name": "Greeley",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/greeley/"
+    },
+    {
+      "slug": "grover",
+      "name": "Grover",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/grover/"
+    },
+    {
+      "slug": "gunnison",
+      "name": "Gunnison",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/gunnison/"
+    },
+    {
+      "slug": "gypsum",
+      "name": "Gypsum",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/gypsum/"
+    },
+    {
+      "slug": "idaho-springs",
+      "name": "Idaho Springs",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/idaho-springs/"
+    },
+    {
+      "slug": "ignacio",
+      "name": "Ignacio",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/ignacio/"
+    },
+    {
+      "slug": "joes",
+      "name": "Joes",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/joes/"
+    },
+    {
+      "slug": "la-junta",
+      "name": "La Junta",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/la-junta/"
+    },
+    {
+      "slug": "lakewood",
+      "name": "Lakewood",
+      "offices": 6,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/lakewood/"
+    },
+    {
+      "slug": "lamar",
+      "name": "Lamar",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/lamar/"
+    },
+    {
+      "slug": "larkspur",
+      "name": "Larkspur",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/larkspur/"
+    },
+    {
+      "slug": "las-animas",
+      "name": "Las Animas",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/las-animas/"
+    },
+    {
+      "slug": "leadville",
+      "name": "Leadville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/leadville/"
+    },
+    {
+      "slug": "littleton",
+      "name": "Littleton",
+      "offices": 6,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/littleton/"
+    },
+    {
+      "slug": "longmont",
+      "name": "Longmont",
+      "offices": 6,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/longmont/"
+    },
+    {
+      "slug": "lyons",
+      "name": "Lyons",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/lyons/"
+    },
+    {
+      "slug": "monte-vista",
+      "name": "Monte Vista",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/monte-vista/"
+    },
+    {
+      "slug": "montrose",
+      "name": "Montrose",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/montrose/"
+    },
+    {
+      "slug": "new-castle",
+      "name": "New Castle",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/new-castle/"
+    },
+    {
+      "slug": "northglenn",
+      "name": "Northglenn",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/northglenn/"
+    },
+    {
+      "slug": "ordway",
+      "name": "Ordway",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/ordway/"
+    },
+    {
+      "slug": "pagosa-springs",
+      "name": "Pagosa Springs",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/pagosa-springs/"
+    },
+    {
+      "slug": "parker",
+      "name": "Parker",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/parker/"
+    },
+    {
+      "slug": "penrose",
+      "name": "Penrose",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/penrose/"
+    },
+    {
+      "slug": "peyton",
+      "name": "Peyton",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/peyton/"
+    },
+    {
+      "slug": "pine",
+      "name": "Pine",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/pine/"
+    },
+    {
+      "slug": "pueblo",
+      "name": "Pueblo",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/pueblo/"
+    },
+    {
+      "slug": "ramah",
+      "name": "Ramah",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/ramah/"
+    },
+    {
+      "slug": "rangely",
+      "name": "Rangely",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/rangely/"
+    },
+    {
+      "slug": "ridgway",
+      "name": "Ridgway",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/ridgway/"
+    },
+    {
+      "slug": "rifle",
+      "name": "Rifle",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/rifle/"
+    },
+    {
+      "slug": "sedalia",
+      "name": "Sedalia",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/sedalia/"
+    },
+    {
+      "slug": "severance",
+      "name": "Severance",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/severance/"
+    },
+    {
+      "slug": "steamboat-springs",
+      "name": "Steamboat Springs",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/steamboat-springs/"
+    },
+    {
+      "slug": "trinidad",
+      "name": "Trinidad",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/trinidad/"
+    },
+    {
+      "slug": "watkins",
+      "name": "Watkins",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/watkins/"
+    },
+    {
+      "slug": "westminster",
+      "name": "Westminster",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/westminster/"
+    },
+    {
+      "slug": "wheat-ridge",
+      "name": "Wheat Ridge",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/wheat-ridge/"
+    },
+    {
+      "slug": "winter-park",
+      "name": "Winter Park",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/winter-park/"
+    },
+    {
+      "slug": "woodland-park",
+      "name": "Woodland Park",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/woodland-park/"
+    },
+    {
+      "slug": "yoder",
+      "name": "Yoder",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/yoder/"
+    },
+    {
+      "slug": "yuma",
+      "name": "Yuma",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/yuma/"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T18:39:08.200765+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "columbus",
+    "name": "Columbus",
+    "label": "Columbus, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/columbus/",
+  "offices": [
+    {
+      "officeId": 134336,
+      "slug": "paws-columbus-134336",
+      "name": "Paws Columbus",
+      "address": "5734 Windsor Drive, Columbus, GA 31909",
+      "phone": "706-565-0035",
+      "image": "./img/shelter/office/134336.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/paws-columbus-134336/",
+      "imageUrl": "https://cdn.findpawpal.com/office/134336.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 140615,
+      "slug": "columbus-animal-control-140615",
+      "name": "Columbus Animal Control",
+      "address": "1152 Cusseta Road, Columbus, GA 31901",
+      "phone": "706-653-4512",
+      "image": "./img/shelter/office/140615.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/columbus-animal-control-140615/",
+      "imageUrl": "https://cdn.findpawpal.com/office/140615.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 145856,
+      "slug": "allied-cats-of-columbus-145856",
+      "name": "Allied Cats of Columbus",
+      "address": "1343 Peacock Avenue, Columbus, GA 31906",
+      "phone": "706-324-1399",
+      "image": "./img/shelter/office/145856.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/allied-cats-of-columbus-145856/",
+      "imageUrl": "https://cdn.findpawpal.com/office/145856.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 149515,
+      "slug": "muscogee-county-humane-society-149515",
+      "name": "Muscogee County Humane Society",
+      "address": "4900 Milgen Road, Columbus, GA 31907",
+      "phone": "706-563-3647",
+      "image": "./img/shelter/office/149515.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/muscogee-county-humane-society-149515/",
+      "imageUrl": "https://cdn.findpawpal.com/office/149515.jpg?f=webp&w=730"
+    }
+  ]
+}

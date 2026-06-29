@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:27:41.955645+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "marina-del-rey",
+    "name": "Marina del Rey",
+    "label": "Marina del Rey, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/marina-del-rey/",
+  "offices": [
+    {
+      "slug": "forte-animal-rescue-668963",
+      "name": "Forte Animal Rescue",
+      "address": "13428 Maxella Avenue, Marina del Rey, CA 90292",
+      "phone": "310-362-0321",
+      "image": "./img/shelter/office/668963.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/forte-animal-rescue-668963/",
+      "imageUrl": "https://cdn.findpawpal.com/office/668963.jpg?f=webp&w=730"
+    }
+  ]
+}

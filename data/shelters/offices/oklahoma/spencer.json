@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:49:35.829084+00:00",
+  "state": {
+    "slug": "oklahoma",
+    "name": "Oklahoma"
+  },
+  "city": {
+    "slug": "spencer",
+    "name": "Spencer",
+    "label": "Spencer, OK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oklahoma/spencer/",
+  "offices": [
+    {
+      "officeId": 561974,
+      "slug": "oklahoma-boston-terrier-rescue-society-561974",
+      "name": "Oklahoma Boston Terrier Rescue Society",
+      "address": "PO Box 222, Spencer, OK 73084",
+      "phone": "405-313-1469",
+      "image": "./img/shelter/office/561974.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma-boston-terrier-rescue-society-561974/",
+      "imageUrl": "https://cdn.findpawpal.com/office/561974.jpg?f=webp&w=730"
+    }
+  ]
+}

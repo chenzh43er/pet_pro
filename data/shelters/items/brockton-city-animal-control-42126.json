@@ -1,0 +1,21 @@
+{
+  "officeId": 42126,
+  "slug": "brockton-city-animal-control-42126",
+  "name": "Brockton City Animal Control",
+  "address": "446 Court Street, Brockton, MA 02302",
+  "street": "446 Court Street",
+  "addressCity": "Brockton",
+  "stateCode": "MA",
+  "zip": "02302",
+  "phone": "508-580-7835",
+  "image": "./img/shelter/office/42126.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/brockton-city-animal-control-42126/",
+  "stateSlug": "massachusetts",
+  "stateName": "Massachusetts",
+  "citySlug": "brockton",
+  "cityName": "Brockton",
+  "cityLabel": "Brockton, MA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/massachusetts/brockton/",
+  "fetchedAt": "2026-06-27T19:05:36.172541+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/42126.jpg?f=webp&w=730"
+}

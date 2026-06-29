@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:50:49.860660+00:00",
+  "state": {
+    "slug": "oregon",
+    "name": "Oregon"
+  },
+  "city": {
+    "slug": "lake-oswego",
+    "name": "Lake Oswego",
+    "label": "Lake Oswego, OR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oregon/lake-oswego/",
+  "offices": [
+    {
+      "officeId": 555378,
+      "slug": "the-oregon-cat-adoption-center-555378",
+      "name": "The Oregon Cat Adoption Center",
+      "address": "342 B Avenue, Lake Oswego, OR 97034",
+      "phone": "503-555-0000",
+      "image": "./img/shelter/office/555378.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-oregon-cat-adoption-center-555378/",
+      "imageUrl": "https://cdn.findpawpal.com/office/555378.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 604509,
+      "slug": "project-pooch-604509",
+      "name": "Project Pooch",
+      "address": "543 3rd Street, Lake Oswego, OR 97034",
+      "phone": "503-697-0623",
+      "image": "./img/shelter/office/604509.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/project-pooch-604509/",
+      "imageUrl": "https://cdn.findpawpal.com/office/604509.jpg?f=webp&w=730"
+    }
+  ]
+}

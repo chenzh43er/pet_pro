@@ -1,0 +1,21 @@
+{
+  "officeId": 172060,
+  "slug": "pima-county-animal-control-172060",
+  "name": "Pima County Animal Control",
+  "address": "4000 North Silverbell Road, Tucson, AZ 85745",
+  "street": "4000 North Silverbell Road",
+  "addressCity": "Tucson",
+  "stateCode": "AZ",
+  "zip": "85745",
+  "phone": "520-243-5900",
+  "image": "./img/shelter/office/172060.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pima-county-animal-control-172060/",
+  "stateSlug": "arizona",
+  "stateName": "Arizona",
+  "citySlug": "tucson",
+  "cityName": "Tucson",
+  "cityLabel": "Tucson, AZ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/arizona/tucson/",
+  "fetchedAt": "2026-06-27T18:21:12.995650+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/172060.jpg?f=webp&w=730"
+}

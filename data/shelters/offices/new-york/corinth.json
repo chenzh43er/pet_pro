@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:32:43.573655+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "corinth",
+    "name": "Corinth",
+    "label": "Corinth, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/corinth/",
+  "offices": [
+    {
+      "officeId": 314070,
+      "slug": "adirondack-save-a-stray-314070",
+      "name": "Adirondack Save A Stray",
+      "address": "4880 Highway 9N, Corinth, NY 12822",
+      "phone": "518-654-6220",
+      "image": "./img/shelter/office/314070.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/adirondack-save-a-stray-314070/",
+      "imageUrl": "https://cdn.findpawpal.com/office/314070.jpg?f=webp&w=730"
+    }
+  ]
+}

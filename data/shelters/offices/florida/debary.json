@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:13:55.674271+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "debary",
+    "name": "DeBary",
+    "label": "DeBary, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/debary/",
+  "offices": [
+    {
+      "slug": "petrescue-com-272814",
+      "name": "Petrescue.Com",
+      "address": "PO Box 531057, DeBary, FL 32753",
+      "phone": "",
+      "image": "./img/shelter/office/272814.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/petrescue-com-272814/",
+      "imageUrl": "https://cdn.findpawpal.com/office/272814.jpg?f=webp&w=730"
+    }
+  ]
+}

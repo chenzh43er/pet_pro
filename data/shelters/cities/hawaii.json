@@ -1,0 +1,137 @@
+{
+  "fetchedAt": "2026-06-27T17:47:42.399186+00:00",
+  "state": {
+    "slug": "hawaii",
+    "name": "Hawaii",
+    "offices": 26
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/hawaii/",
+  "cities": [
+    {
+      "slug": "captain-cook",
+      "name": "Captain Cook",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/hawaii/captain-cook/"
+    },
+    {
+      "slug": "haiku-pauwela",
+      "name": "Haiku-Pauwela",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/hawaii/haiku-pauwela/"
+    },
+    {
+      "slug": "hilo",
+      "name": "Hilo",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/hawaii/hilo/"
+    },
+    {
+      "slug": "hoolehua",
+      "name": "Ho\u2018olehua",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/hawaii/hoolehua/"
+    },
+    {
+      "slug": "honolulu",
+      "name": "Honolulu",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/hawaii/honolulu/"
+    },
+    {
+      "slug": "kailua",
+      "name": "Kailua",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/hawaii/kailua/"
+    },
+    {
+      "slug": "kaneohe",
+      "name": "Kaneohe",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/hawaii/kaneohe/"
+    },
+    {
+      "slug": "kapaa",
+      "name": "Kapaa",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/hawaii/kapaa/"
+    },
+    {
+      "slug": "kapolei",
+      "name": "Kapolei",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/hawaii/kapolei/"
+    },
+    {
+      "slug": "keaau",
+      "name": "Keaau",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/hawaii/keaau/"
+    },
+    {
+      "slug": "kealakekua",
+      "name": "Kealakekua",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/hawaii/kealakekua/"
+    },
+    {
+      "slug": "kihei",
+      "name": "Kihei",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/hawaii/kihei/"
+    },
+    {
+      "slug": "laie",
+      "name": "Laie",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/hawaii/laie/"
+    },
+    {
+      "slug": "lihue",
+      "name": "Lihue",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/hawaii/lihue/"
+    },
+    {
+      "slug": "makawao",
+      "name": "Makawao",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/hawaii/makawao/"
+    },
+    {
+      "slug": "mountain-view",
+      "name": "Mountain View",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/hawaii/mountain-view/"
+    },
+    {
+      "slug": "waianae",
+      "name": "Waianae",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/hawaii/waianae/"
+    },
+    {
+      "slug": "wailuku",
+      "name": "Wailuku",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/hawaii/wailuku/"
+    }
+  ]
+}

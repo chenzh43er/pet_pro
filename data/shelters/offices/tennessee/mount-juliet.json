@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:01:17.343131+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "mount-juliet",
+    "name": "Mount Juliet",
+    "label": "Mount Juliet, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/mount-juliet/",
+  "offices": [
+    {
+      "officeId": 684992,
+      "slug": "mt-juliet-animal-shelter-684992",
+      "name": "Mt. Juliet Animal Shelter",
+      "address": "115 Industrial Drive, Mount Juliet, TN 37122",
+      "phone": "615-773-5533",
+      "image": "./img/shelter/office/684992.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mt-juliet-animal-shelter-684992/",
+      "imageUrl": "https://cdn.findpawpal.com/office/684992.jpg?f=webp&w=730"
+    }
+  ]
+}

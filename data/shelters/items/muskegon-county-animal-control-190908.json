@@ -1,0 +1,21 @@
+{
+  "officeId": 190908,
+  "slug": "muskegon-county-animal-control-190908",
+  "name": "Muskegon County Animal Control",
+  "address": "1300 East Keating Avenue, Muskegon, MI 49442",
+  "street": "1300 East Keating Avenue",
+  "addressCity": "Muskegon",
+  "stateCode": "MI",
+  "zip": "49442",
+  "phone": "231-724-6007",
+  "image": "./img/shelter/office/190908.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/muskegon-county-animal-control-190908/",
+  "stateSlug": "michigan",
+  "stateName": "Michigan",
+  "citySlug": "muskegon",
+  "cityName": "Muskegon",
+  "cityLabel": "Muskegon, MI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/michigan/muskegon/",
+  "fetchedAt": "2026-06-27T19:11:54.498421+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/190908.jpg?f=webp&w=730"
+}

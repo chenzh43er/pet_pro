@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:46:27.363258+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "peninsula",
+    "name": "Peninsula",
+    "label": "Peninsula, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/peninsula/",
+  "offices": [
+    {
+      "officeId": 580850,
+      "slug": "humane-society-of-greater-akron-580850",
+      "name": "Humane Society of Greater Akron",
+      "address": "4904 Quick Road, Peninsula, OH 44264",
+      "phone": "330-657-2010",
+      "image": "./img/shelter/office/580850.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-greater-akron-580850/",
+      "imageUrl": "https://cdn.findpawpal.com/office/580850.jpg?f=webp&w=730"
+    }
+  ]
+}

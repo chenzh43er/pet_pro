@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:19:20.938633+00:00",
+  "state": {
+    "slug": "alaska",
+    "name": "Alaska"
+  },
+  "city": {
+    "slug": "kenai",
+    "name": "Kenai",
+    "label": "Kenai, AK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alaska/kenai/",
+  "offices": [
+    {
+      "slug": "kenai-animal-shelter-133683",
+      "name": "Kenai Animal Shelter",
+      "address": "510 North Willow Street, Kenai, AK 99611",
+      "phone": "907-283-7353",
+      "image": "./img/shelter/office/133683.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kenai-animal-shelter-133683/",
+      "imageUrl": "https://cdn.findpawpal.com/office/133683.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 101210,
+  "slug": "helping-hands-for-helpless-paws-101210",
+  "name": "Helping Hands for Helpless Paws",
+  "address": "1996 Route 27, Edison, NJ 08817",
+  "street": "1996 Route 27",
+  "addressCity": "Edison",
+  "stateCode": "NJ",
+  "zip": "08817",
+  "phone": "732-572-7637",
+  "image": "./img/shelter/office/101210.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/helping-hands-for-helpless-paws-101210/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "edison",
+  "cityName": "Edison",
+  "cityLabel": "Edison, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/edison/",
+  "fetchedAt": "2026-06-27T19:25:54.449840+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/101210.jpg?f=webp&w=730"
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 629060,
+  "slug": "gig-harbor-animal-control-629060",
+  "name": "Gig Harbor Animal Control",
+  "address": "5500 Olympic Drive Northwest, Gig Harbor, WA 98335",
+  "street": "5500 Olympic Drive Northwest",
+  "addressCity": "Gig Harbor",
+  "stateCode": "WA",
+  "zip": "98335",
+  "phone": "206-909-0119",
+  "image": "./img/shelter/office/629060.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/gig-harbor-animal-control-629060/",
+  "stateSlug": "washington",
+  "stateName": "Washington",
+  "citySlug": "gig-harbor",
+  "cityName": "Gig Harbor",
+  "cityLabel": "Gig Harbor, WA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/washington/gig-harbor/",
+  "fetchedAt": "2026-06-27T20:17:56.522174+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/629060.jpg?f=webp&w=730"
+}

@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:14:14.990016+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "faribault",
+    "name": "Faribault",
+    "label": "Faribault, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/faribault/",
+  "offices": [
+    {
+      "officeId": 393554,
+      "slug": "prairies-edge-humane-society-393554",
+      "name": "Prairie\u2019s Edge Humane Society",
+      "address": "1201 Cannon Circle, Faribault, MN 55021",
+      "phone": "507-334-7117",
+      "image": "./img/shelter/office/393554.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/prairies-edge-humane-society-393554/",
+      "imageUrl": "https://cdn.findpawpal.com/office/393554.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 399720,
+      "slug": "safe-sanctuary-399720",
+      "name": "Safe Sanctuary",
+      "address": "309 11th Street Northwest, Faribault, MN 55021",
+      "phone": "507-334-7901",
+      "image": "./img/shelter/office/399720.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/safe-sanctuary-399720/",
+      "imageUrl": "https://cdn.findpawpal.com/office/399720.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 400457,
+      "slug": "faribault-animal-control-400457",
+      "name": "Faribault Animal Control",
+      "address": "218 3rd Street Northwest, Faribault, MN 55021",
+      "phone": "507-455-2810",
+      "image": "./img/shelter/office/400457.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/faribault-animal-control-400457/",
+      "imageUrl": "https://cdn.findpawpal.com/office/400457.jpg?f=webp&w=730"
+    }
+  ]
+}

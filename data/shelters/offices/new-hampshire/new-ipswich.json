@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:24:26.544173+00:00",
+  "state": {
+    "slug": "new-hampshire",
+    "name": "New Hampshire"
+  },
+  "city": {
+    "slug": "new-ipswich",
+    "name": "New Ipswich",
+    "label": "New Ipswich, NH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-hampshire/new-ipswich/",
+  "offices": [
+    {
+      "officeId": 43694,
+      "slug": "new-hampshire-equine-humane-association-43694",
+      "name": "New Hampshire Equine Humane Association",
+      "address": "PO Box 385, New Ipswich, NH 03071",
+      "phone": "603-878-0821",
+      "image": "./img/shelter/office/43694.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire-equine-humane-association-43694/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43694.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T20:24:13.879907+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "sparta",
+    "name": "Sparta",
+    "label": "Sparta, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/sparta/",
+  "offices": [
+    {
+      "officeId": 490449,
+      "slug": "monroe-county-animal-shelter-490449",
+      "name": "Monroe County Animal Shelter",
+      "address": "10714 Highway 16, Sparta, WI 54656",
+      "phone": "608-269-8775",
+      "image": "https://cdn.findpawpal.com/office/490449.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/monroe-county-animal-shelter-490449/"
+    },
+    {
+      "officeId": 634118,
+      "slug": "associated-society-animal-protection-634118",
+      "name": "Associated Society Animal Protection",
+      "address": "PO Box 101, Sparta, WI 54656",
+      "phone": "608-269-3525",
+      "image": "./img/shelter/office/634118.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/associated-society-animal-protection-634118/",
+      "imageUrl": "https://cdn.findpawpal.com/office/634118.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "fetchedAt": "2026-06-27T19:29:51.404721+00:00",
+  "state": {
+    "slug": "new-mexico",
+    "name": "New Mexico"
+  },
+  "city": {
+    "slug": "albuquerque",
+    "name": "Albuquerque",
+    "label": "Albuquerque, NM"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-mexico/albuquerque/",
+  "offices": [
+    {
+      "officeId": 258457,
+      "slug": "village-of-los-ranchos-animal-control-258457",
+      "name": "Village of Los Ranchos Animal Control",
+      "address": "11800 Sunset Gardens Road Southwest, Albuquerque, NM 87121",
+      "phone": "505-344-6582",
+      "image": "./img/shelter/office/258457.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/village-of-los-ranchos-animal-control-258457/",
+      "imageUrl": "https://cdn.findpawpal.com/office/258457.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 259420,
+      "slug": "a-place-for-us-greyhound-rescue-259420",
+      "name": "A Place for Us Greyhound Rescue",
+      "address": "1905 Gun Club Road Southwest, Albuquerque, NM 87105",
+      "phone": "505-873-1729",
+      "image": "./img/shelter/office/259420.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/a-place-for-us-greyhound-rescue-259420/",
+      "imageUrl": "https://cdn.findpawpal.com/office/259420.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 261355,
+      "slug": "justice-great-dane-rescue-261355",
+      "name": "Justice Great Dane Rescue",
+      "address": "6804 Paese Place Northwest, Albuquerque, NM 87114",
+      "phone": "505-899-9542",
+      "image": "./img/shelter/office/261355.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/justice-great-dane-rescue-261355/",
+      "imageUrl": "https://cdn.findpawpal.com/office/261355.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 261444,
+      "slug": "siberian-husky-rescue-of-new-mexico-261444",
+      "name": "Siberian Husky Rescue of New Mexico",
+      "address": "12408 View Court Northeast, Albuquerque, NM 87112",
+      "phone": "505-323-8908",
+      "image": "./img/shelter/office/261444.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/siberian-husky-rescue-of-new-mexico-261444/",
+      "imageUrl": "https://cdn.findpawpal.com/office/261444.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 261469,
+      "slug": "doberman-rescue-of-new-mexico-261469",
+      "name": "Doberman Rescue of New Mexico",
+      "address": "PO Box 10027, Albuquerque, NM 87184",
+      "phone": "505-710-8400",
+      "image": "https://cdn.findpawpal.com/office/261469.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/doberman-rescue-of-new-mexico-261469/"
+    },
+    {
+      "officeId": 262640,
+      "slug": "los-lunas-village-animal-control-262640",
+      "name": "Los Lunas Village Animal Control",
+      "address": "839 Main Street Northwest, Albuquerque, NM 87104",
+      "phone": "505-839-3847",
+      "image": "./img/shelter/office/262640.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/los-lunas-village-animal-control-262640/",
+      "imageUrl": "https://cdn.findpawpal.com/office/262640.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 274320,
+      "slug": "high-desert-ferret-rescue-274320",
+      "name": "High Desert Ferret Rescue",
+      "address": "329 Moon Street Northeast, Albuquerque, NM 87123",
+      "phone": "505-298-2997",
+      "image": "./img/shelter/office/274320.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/high-desert-ferret-rescue-274320/",
+      "imageUrl": "https://cdn.findpawpal.com/office/274320.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 275399,
+      "slug": "albuquerque-cat-action-team-275399",
+      "name": "Albuquerque Cat Action Team",
+      "address": "PO Box 51683, Albuquerque, NM 87181",
+      "phone": "505-323-2228",
+      "image": "https://cdn.findpawpal.com/office/275399.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/albuquerque-cat-action-team-275399/"
+    },
+    {
+      "officeId": 278102,
+      "slug": "pet-rescue-online-278102",
+      "name": "Pet Rescue Online",
+      "address": "PO Box 8888, Albuquerque, NM 87198",
+      "phone": "505-833-5025",
+      "image": "https://cdn.findpawpal.com/office/278102.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-rescue-online-278102/"
+    },
+    {
+      "officeId": 278133,
+      "slug": "animal-humane-new-mexico-278133",
+      "name": "Animal Humane New Mexico",
+      "address": "615 Virginia Street Southeast, Albuquerque, NM 87108",
+      "phone": "505-255-5523",
+      "image": "./img/shelter/office/278133.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-humane-new-mexico-278133/",
+      "imageUrl": "https://cdn.findpawpal.com/office/278133.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 279254,
+      "slug": "central-new-mexico-brittany-club-rescue-279254",
+      "name": "Central New Mexico Brittany Club Rescue",
+      "address": "1051 Sunset Road Southwest, Albuquerque, NM 87105",
+      "phone": "505-281-3545",
+      "image": "./img/shelter/office/279254.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/central-new-mexico-brittany-club-rescue-279254/",
+      "imageUrl": "https://cdn.findpawpal.com/office/279254.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 308490,
+      "slug": "working-together-for-equines-inc-308490",
+      "name": "Working Together for Equines, Inc.",
+      "address": "PO Box 1102, Albuquerque, NM 87103",
+      "phone": "505-345-7550",
+      "image": "https://cdn.findpawpal.com/office/308490.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/working-together-for-equines-inc-308490/"
+    },
+    {
+      "officeId": 310299,
+      "slug": "dalmatian-rescue-of-new-mexico-310299",
+      "name": "Dalmatian Rescue of New Mexico",
+      "address": "9012 Camino Del Sol Northeast, Albuquerque, NM 87111",
+      "phone": "505-857-0012",
+      "image": "./img/shelter/office/310299.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dalmatian-rescue-of-new-mexico-310299/",
+      "imageUrl": "https://cdn.findpawpal.com/office/310299.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 326041,
+      "slug": "new-mexico-animal-friends-326041",
+      "name": "New Mexico Animal Friends",
+      "address": "2917 Carlisle Boulevard Northeast, Albuquerque, NM 87110",
+      "phone": "505-881-7297",
+      "image": "./img/shelter/office/326041.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico-animal-friends-326041/",
+      "imageUrl": "https://cdn.findpawpal.com/office/326041.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 326060,
+      "slug": "new-mexico-independent-border-collie-rescue-326060",
+      "name": "New Mexico Independent Border Collie Rescue",
+      "address": "3805 Manchester Drive Northwest, Albuquerque, NM 87107",
+      "phone": "505-410-6647",
+      "image": "./img/shelter/office/326060.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico-independent-border-collie-rescue-326060/",
+      "imageUrl": "https://cdn.findpawpal.com/office/326060.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 334391,
+      "slug": "luvin-labs-334391",
+      "name": "Luvin' Labs",
+      "address": "PO Box 52212, Albuquerque, NM 87181",
+      "phone": "505-362-0331",
+      "image": "https://cdn.findpawpal.com/office/334391.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/luvin-labs-334391/"
+    },
+    {
+      "officeId": 334407,
+      "slug": "new-mexico-federation-of-animal-care-control-and-welfare-agencies-334407",
+      "name": "New Mexico Federation of Animal Care Control and Welfare Agencies",
+      "address": "1109 Luthy Circle Northeast, Albuquerque, NM 87112",
+      "phone": "505-294-8358",
+      "image": "./img/shelter/office/334407.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico-federation-of-animal-care-control-and-welfare-agencies-334407/",
+      "imageUrl": "https://cdn.findpawpal.com/office/334407.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 334448,
+      "slug": "new-mexico-ferret-shelter-and-rescue-334448",
+      "name": "New Mexico Ferret Shelter & Rescue",
+      "address": "2730 Morningside Drive Northeast, Albuquerque, NM 87110",
+      "phone": "505-837-2003",
+      "image": "./img/shelter/office/334448.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico-ferret-shelter-and-rescue-334448/",
+      "imageUrl": "https://cdn.findpawpal.com/office/334448.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 334463,
+      "slug": "peoples-anti-cruelty-association-334463",
+      "name": "People's Anti-Cruelty Association",
+      "address": "PO Box 21280, Albuquerque, NM 87154",
+      "phone": "505-255-0544",
+      "image": "https://cdn.findpawpal.com/office/334463.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/peoples-anti-cruelty-association-334463/"
+    },
+    {
+      "officeId": 334531,
+      "slug": "pets-are-wonderful-support-334531",
+      "name": "Pets Are Wonderful Support",
+      "address": "4200 Silver Avenue Southeast, Albuquerque, NM 87108",
+      "phone": "505-266-0911",
+      "image": "./img/shelter/office/334531.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pets-are-wonderful-support-334531/",
+      "imageUrl": "https://cdn.findpawpal.com/office/334531.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 336178,
+      "slug": "animal-welfare-foundation-336178",
+      "name": "Animal Welfare Foundation",
+      "address": "5005 College Street Northwest, Albuquerque, NM 87120",
+      "phone": "505-839-7030",
+      "image": "./img/shelter/office/336178.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-welfare-foundation-336178/",
+      "imageUrl": "https://cdn.findpawpal.com/office/336178.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 336365,
+      "slug": "bernalillo-county-animal-care-336365",
+      "name": "Bernalillo County Animal Care",
+      "address": "1136 Gatewood Avenue Southwest, Albuquerque, NM 87105",
+      "phone": "505-314-0280",
+      "image": "./img/shelter/office/336365.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bernalillo-county-animal-care-336365/",
+      "imageUrl": "https://cdn.findpawpal.com/office/336365.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 336372,
+      "slug": "city-of-albuquerque-336372",
+      "name": "City of Albuquerque",
+      "address": "11800 Sunset Gardens Road Southwest, Albuquerque, NM 87121",
+      "phone": "",
+      "image": "./img/shelter/office/336372.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/city-of-albuquerque-336372/",
+      "imageUrl": "https://cdn.findpawpal.com/office/336372.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 337653,
+      "slug": "greyhound-companions-of-new-mexico-337653",
+      "name": "Greyhound Companions of New Mexico",
+      "address": "PO Box 22053, Albuquerque, NM 87154",
+      "phone": "505-281-7295",
+      "image": "https://cdn.findpawpal.com/office/337653.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhound-companions-of-new-mexico-337653/"
+    },
+    {
+      "officeId": 339450,
+      "slug": "animal-shelter-339450",
+      "name": "Animal Shelter",
+      "address": "114 Central Avenue Southwest, Albuquerque, NM 87102",
+      "phone": "505-768-1981",
+      "image": "./img/shelter/office/339450.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-shelter-339450/",
+      "imageUrl": "https://cdn.findpawpal.com/office/339450.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 339458,
+      "slug": "albuquerque-animal-care-center-339458",
+      "name": "Albuquerque Animal Care Center",
+      "address": "8920 Lomas Boulevard Northeast, Albuquerque, NM 87112",
+      "phone": "505-764-1140",
+      "image": "./img/shelter/office/339458.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/albuquerque-animal-care-center-339458/",
+      "imageUrl": "https://cdn.findpawpal.com/office/339458.jpg?f=webp&w=730"
+    }
+  ]
+}

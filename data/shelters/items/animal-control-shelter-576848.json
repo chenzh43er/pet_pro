@@ -1,0 +1,21 @@
+{
+  "officeId": 576848,
+  "slug": "animal-control-shelter-576848",
+  "name": "Animal Control Shelter",
+  "address": "50 East 2nd North, Green River, WY 82935",
+  "street": "50 East 2nd North",
+  "addressCity": "Green River",
+  "stateCode": "WY",
+  "zip": "82935",
+  "phone": "307-872-0570",
+  "image": "./img/shelter/office/576848.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/animal-control-shelter-576848/",
+  "stateSlug": "wyoming",
+  "stateName": "Wyoming",
+  "citySlug": "green-river",
+  "cityName": "Green River",
+  "cityLabel": "Green River, WY",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/wyoming/green-river/",
+  "fetchedAt": "2026-06-27T20:25:08.862015+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/576848.jpg?f=webp&w=730"
+}

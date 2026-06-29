@@ -1,0 +1,53 @@
+{
+  "fetchedAt": "2026-06-27T18:41:09.364197+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "powder-springs",
+    "name": "Powder Springs",
+    "label": "Powder Springs, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/powder-springs/",
+  "offices": [
+    {
+      "officeId": 146029,
+      "slug": "fancy-feline-rescue-of-the-south-146029",
+      "name": "Fancy Feline Rescue of the South",
+      "address": "1311 Echo Mill Court, Powder Springs, GA 30127",
+      "phone": "678-522-2152",
+      "image": "./img/shelter/office/146029.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fancy-feline-rescue-of-the-south-146029/",
+      "imageUrl": "https://cdn.findpawpal.com/office/146029.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 149707,
+      "slug": "atlanta-persian-and-siamese-rescue-149707",
+      "name": "Atlanta Persian & Siamese Rescue",
+      "address": "3705 New Macland Road, Powder Springs, GA 30127",
+      "phone": "404-272-8962",
+      "image": "./img/shelter/office/149707.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/atlanta-persian-and-siamese-rescue-149707/",
+      "imageUrl": "https://cdn.findpawpal.com/office/149707.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 157651,
+      "slug": "pet-orphans-rescue-and-adoption-157651",
+      "name": "Pet Orphans Rescue & Adoption",
+      "address": "PO Box 768, Powder Springs, GA 30127",
+      "phone": "770-587-1570",
+      "image": "https://cdn.findpawpal.com/office/157651.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-orphans-rescue-and-adoption-157651/"
+    },
+    {
+      "officeId": 157660,
+      "slug": "southern-hope-humane-society-157660",
+      "name": "Southern Hope Humane Society",
+      "address": "PO Box 768, Powder Springs, GA 30127",
+      "phone": "770-447-7294",
+      "image": "https://cdn.findpawpal.com/office/157660.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/southern-hope-humane-society-157660/"
+    }
+  ]
+}

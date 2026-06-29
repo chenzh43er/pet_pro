@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:04:39.495230+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "salisbury",
+    "name": "Salisbury",
+    "label": "Salisbury, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/salisbury/",
+  "offices": [
+    {
+      "officeId": 398735,
+      "slug": "humane-society-of-wicomico-county-398735",
+      "name": "Humane Society of Wicomico County",
+      "address": "5130 Citation Drive, Salisbury, MD 21804",
+      "phone": "410-749-7603",
+      "image": "./img/shelter/office/398735.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-wicomico-county-398735/",
+      "imageUrl": "https://cdn.findpawpal.com/office/398735.jpg?f=webp&w=730"
+    }
+  ]
+}

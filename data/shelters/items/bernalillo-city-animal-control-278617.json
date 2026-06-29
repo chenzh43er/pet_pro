@@ -1,0 +1,21 @@
+{
+  "officeId": 278617,
+  "slug": "bernalillo-city-animal-control-278617",
+  "name": "Bernalillo City Animal Control",
+  "address": "PO Box 638, Bernalillo, NM 87004",
+  "street": "PO Box 638",
+  "addressCity": "Bernalillo",
+  "stateCode": "NM",
+  "zip": "87004",
+  "phone": "505-867-2304",
+  "image": "./img/shelter/office/278617.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/bernalillo-city-animal-control-278617/",
+  "stateSlug": "new-mexico",
+  "stateName": "New Mexico",
+  "citySlug": "bernalillo",
+  "cityName": "Bernalillo",
+  "cityLabel": "Bernalillo, NM",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-mexico/bernalillo/",
+  "fetchedAt": "2026-06-27T19:30:01.733501+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/278617.jpg?f=webp&w=730"
+}

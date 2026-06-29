@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:24:07.381946+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "bassett",
+    "name": "Bassett",
+    "label": "Bassett, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/bassett/",
+  "offices": [
+    {
+      "officeId": 483463,
+      "slug": "animal-match-rescue-team-inc-483463",
+      "name": "Animal Match Rescue Team, Inc.",
+      "address": "PO Box 2281, Bassett, CA 91746",
+      "phone": "",
+      "image": "./img/shelter/office/483463.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-match-rescue-team-inc-483463/",
+      "imageUrl": "https://cdn.findpawpal.com/office/483463.jpg?f=webp&w=730"
+    }
+  ]
+}

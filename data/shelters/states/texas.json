@@ -1,0 +1,4031 @@
+{
+  "stateSlug": "texas",
+  "count": 575,
+  "shelters": [
+    {
+      "slug": "abilene-animal-services-shelter-517909",
+      "name": "Abilene Animal Services Shelter",
+      "address": "925 South 25th Street, Abilene, TX 79602",
+      "phone": "325-698-0085",
+      "image": "https://cdn.findpawpal.com/office/517909.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "love-at-first-site-pet-adoption-center-633200",
+      "name": "Love at First Site Pet Adoption Center",
+      "address": "942 North Judge Ely Boulevard, Abilene, TX 79601",
+      "phone": "915-672-4789",
+      "image": "https://cdn.findpawpal.com/office/633200.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "noahs-ark-2-adoption-shelter-723332",
+      "name": "Noah's Ark 2- adoption shelter",
+      "address": "3401 South Treadaway Boulevard, Abilene, TX 79602",
+      "phone": "325-698-4900",
+      "image": "https://cdn.findpawpal.com/office/723332.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rescue-the-animals-inc-538800",
+      "name": "Rescue The Animals, Inc.",
+      "address": "4620 North 1st Street, Abilene, TX 79603",
+      "phone": "325-677-5521",
+      "image": "https://cdn.findpawpal.com/office/538800.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rescue-the-animals-spca-633206",
+      "name": "Rescue the Animals, SPCA",
+      "address": "5933 South 1st Street, Abilene, TX 79605",
+      "phone": "325-698-7722",
+      "image": "https://cdn.findpawpal.com/office/633206.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "taylor-jones-humane-society-493636",
+      "name": "Taylor Jones Humane Society",
+      "address": "3811 North 1st Street, Abilene, TX 79603",
+      "phone": "915-672-7124",
+      "image": "https://cdn.findpawpal.com/office/493636.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "addison-animal-control-department-635296",
+      "name": "Addison Animal Control Department",
+      "address": "16801 Westgrove Drive, Addison, TX 75001",
+      "phone": "972-450-2845",
+      "image": "https://cdn.findpawpal.com/office/635296.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greyhound-adoption-league-of-texas-inc-539194",
+      "name": "Greyhound Adoption League of Texas, Inc.",
+      "address": "PO Box 680, Addison, TX 75001",
+      "phone": "972-503-4258",
+      "image": "https://cdn.findpawpal.com/office/539194.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "miniature-pinscher-rescue-674219",
+      "name": "Miniature Pinscher Rescue",
+      "address": "PO Box 1598, Aledo, TX 76008",
+      "phone": "817-233-6339",
+      "image": "https://cdn.findpawpal.com/office/674219.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alice-city-animal-control-525598",
+      "name": "Alice City Animal Control",
+      "address": "1150 Commerce Road, Alice, TX 78332",
+      "phone": "361-664-1086",
+      "image": "https://cdn.findpawpal.com/office/525598.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "adoption-trailers-inc-478907",
+      "name": "Adoption Trailers, Inc.",
+      "address": "6009 Ranchview Court, Allen, TX 75002",
+      "phone": "469-563-7890",
+      "image": "https://cdn.findpawpal.com/office/478907.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-allen-animal-shelter-524776",
+      "name": "City Allen Animal Shelter",
+      "address": "770 South Allen Heights Drive, Allen, TX 75002",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/524776.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alpine-humane-society-721553",
+      "name": "Alpine Humane Society",
+      "address": "2900 Old Marathon Road, Alpine, TX 79830",
+      "phone": "432-837-2532",
+      "image": "https://cdn.findpawpal.com/office/721553.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alvarado-animal-control-479548",
+      "name": "Alvarado Animal Control",
+      "address": "206 North Baugh Street, Alvarado, TX 76009",
+      "phone": "817-783-2045",
+      "image": "https://cdn.findpawpal.com/office/479548.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alvin-city-animal-control-525604",
+      "name": "Alvin City Animal Control",
+      "address": "550 E Highway 6, Alvin, TX 77511",
+      "phone": "281-388-4332",
+      "image": "https://cdn.findpawpal.com/office/525604.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "amarillo-spca-523937",
+      "name": "Amarillo SPCA",
+      "address": "800 Southwest 3rd Avenue, Amarillo, TX 79101",
+      "phone": "806-374-3734",
+      "image": "https://cdn.findpawpal.com/office/523937.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "amarillo-panhandle-humane-society-537482",
+      "name": "Amarillo-Panhandle Humane Society",
+      "address": "3501 South Osage Street, Amarillo, TX 79118",
+      "phone": "806-373-1716",
+      "image": "https://cdn.findpawpal.com/office/537482.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-shelter-inc-633188",
+      "name": "Animal Rescue Shelter Inc",
+      "address": "12500 Farm to Market Road 1541, Amarillo, TX 79118",
+      "phone": "806-622-1082",
+      "image": "https://cdn.findpawpal.com/office/633188.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "andrews-rescue-and-foster-care-inc-479644",
+      "name": "Andrews Rescue and Foster Care, Inc.",
+      "address": "PO Box 1631, Andrews, TX 79714",
+      "phone": "432-355-6155",
+      "image": "https://cdn.findpawpal.com/office/479644.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brazoria-county-sheriffs-office-538193",
+      "name": "Brazoria County Sheriff's Office",
+      "address": "3602 County Road 45, Angleton, TX 77515",
+      "phone": "979-864-2338",
+      "image": "https://cdn.findpawpal.com/office/538193.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "companion-pet-rescue-518760",
+      "name": "Companion Pet Rescue",
+      "address": "110 Winding Creek Way, Argyle, TX 76226",
+      "phone": "214-359-1241",
+      "image": "https://cdn.findpawpal.com/office/518760.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "arlington-animal-shelter-674594",
+      "name": "Arlington Animal Shelter",
+      "address": "1000 Southeast Green Oaks Boulevard, Arlington, TX 76018",
+      "phone": "817-459-5898",
+      "image": "https://cdn.findpawpal.com/office/674594.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "arlington-humane-society-478682",
+      "name": "Arlington Humane Society",
+      "address": "7817 South Cooper Street, Arlington, TX 76001",
+      "phone": "817-468-0444",
+      "image": "https://cdn.findpawpal.com/office/478682.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-rescue-society-inc-635184",
+      "name": "Pet Rescue Society, Inc.",
+      "address": "PO Box 13976, Arlington, TX 76094",
+      "phone": "817-572-3220",
+      "image": "https://cdn.findpawpal.com/office/635184.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "feathers-and-tails-avian-santuary-and-rescue-674418",
+      "name": "Feathers and Tails Avian Santuary & Rescue",
+      "address": "PO Box 2839, Athens, TX 75751",
+      "phone": "903-677-5803",
+      "image": "https://cdn.findpawpal.com/office/674418.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-633457",
+      "name": "Humane Society",
+      "address": "900 West College Street, Athens, TX 75751",
+      "phone": "903-677-7387",
+      "image": "https://cdn.findpawpal.com/office/633457.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "action-for-animals-633208",
+      "name": "Action for Animals",
+      "address": "PO Box 17702, Austin, TX 78760",
+      "phone": "512-416-1617",
+      "image": "https://cdn.findpawpal.com/office/633208.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alagahi-exotic-animal-rescue-and-adoption-493851",
+      "name": "Alagahi Exotic Animal Rescue and Adoption",
+      "address": "2004 Lakeshore Drive, Austin, TX 78746",
+      "phone": "830-798-9900",
+      "image": "https://cdn.findpawpal.com/office/493851.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-trustees-of-austin-633279",
+      "name": "Animal Trustees of Austin",
+      "address": "5129 Cameron Road, Austin, TX 78723",
+      "phone": "512-450-0111",
+      "image": "https://cdn.findpawpal.com/office/633279.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "austin-animal-control-525611",
+      "name": "Austin Animal Control",
+      "address": "7201 Levander Loop, Austin, TX 78702",
+      "phone": "512-974-2000",
+      "image": "https://cdn.findpawpal.com/office/525611.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "austin-boxer-rescue-493642",
+      "name": "Austin Boxer Rescue",
+      "address": "PO Box 14421, Austin, TX 78761",
+      "phone": "512-968-1343",
+      "image": "https://cdn.findpawpal.com/office/493642.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "austin-humane-society-539053",
+      "name": "Austin Humane Society",
+      "address": "124 West Anderson Lane, Austin, TX 78752",
+      "phone": "512-646-7387",
+      "image": "https://cdn.findpawpal.com/office/539053.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "austin-siamese-rescue-inc-633210",
+      "name": "Austin Siamese Rescue, Inc.",
+      "address": "PO Box 13474, Austin, TX 78711",
+      "phone": "512-261-6395",
+      "image": "https://cdn.findpawpal.com/office/633210.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fila-rescue-inc-478315",
+      "name": "Fila Rescue, Inc.",
+      "address": "PO Box 14226, Austin, TX 78761",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/478315.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "house-rabbit-resource-network-537544",
+      "name": "House Rabbit Resource Network",
+      "address": "PO Box 152432, Austin, TX 78715",
+      "phone": "512-444-3277",
+      "image": "https://cdn.findpawpal.com/office/537544.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-helpers-inc-635204",
+      "name": "Pet Helpers, Inc.",
+      "address": "PO Box 4104, Austin, TX 78765",
+      "phone": "512-444-7387",
+      "image": "https://cdn.findpawpal.com/office/635204.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "town-lake-animal-center-635282",
+      "name": "Town Lake Animal Center",
+      "address": "1156 West Cesar Chavez Street, Austin, TX 78703",
+      "phone": "512-708-6000",
+      "image": "https://cdn.findpawpal.com/office/635282.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "azle-animal-shelter-494495",
+      "name": "Azle Animal Shelter",
+      "address": "613 Northwest Parkway, Azle, TX 76020",
+      "phone": "817-444-8215",
+      "image": "https://cdn.findpawpal.com/office/494495.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "2nd-chance-kittens-and-kats-493183",
+      "name": "2nd Chance Kittens & Kats",
+      "address": "PO Box 866, Balch Springs, TX 75180",
+      "phone": "972-286-1052",
+      "image": "https://cdn.findpawpal.com/office/493183.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "balch-springs-animal-control-539211",
+      "name": "Balch Springs Animal Control",
+      "address": "3117 Hickory Tree Road, Balch Springs, TX 75180",
+      "phone": "972-557-6034",
+      "image": "https://cdn.findpawpal.com/office/539211.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-ferret-lovers-club-of-texas-702226",
+      "name": "The Ferret Lovers Club of Texas",
+      "address": "5309 Wild Oak Road, Balch Springs, TX 75180",
+      "phone": "972-286-5778",
+      "image": "https://cdn.findpawpal.com/office/702226.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ballinger-city-animal-control-674596",
+      "name": "Ballinger City Animal Control",
+      "address": "308 North 7th Street, Ballinger, TX 76821",
+      "phone": "325-365-3714",
+      "image": "https://cdn.findpawpal.com/office/674596.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "grand-meadows-retirement-horse-farm-540440",
+      "name": "Grand Meadows Retirement Horse Farm",
+      "address": "518 Exotic Lane, Bandera, TX 78003",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/540440.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bastrop-animal-shelter-674457",
+      "name": "Bastrop Animal Shelter",
+      "address": "804 Pecan Street, Bastrop, TX 78602",
+      "phone": "512-303-1080",
+      "image": "https://cdn.findpawpal.com/office/674457.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bastrop-county-animal-control-540347",
+      "name": "Bastrop County Animal Control",
+      "address": "589 Cool Water Drive, Bastrop, TX 78602",
+      "phone": "512-549-5160",
+      "image": "https://cdn.findpawpal.com/office/540347.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bastrop-county-humane-society-633511",
+      "name": "Bastrop County Humane Society",
+      "address": "1192 Highway 304, Bastrop, TX 78602",
+      "phone": "512-303-3924",
+      "image": "https://cdn.findpawpal.com/office/633511.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bay-city-animal-shelter-493484",
+      "name": "Bay City Animal Shelter",
+      "address": "4201 Avenue F, Bay, TX 77414",
+      "phone": "409-245-1396",
+      "image": "https://cdn.findpawpal.com/office/493484.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "baytown-animal-control-540375",
+      "name": "Baytown Animal Control",
+      "address": "705 North Robert C Lanier Drive, Baytown, TX 77521",
+      "phone": "281-422-7600",
+      "image": "https://cdn.findpawpal.com/office/540375.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "beaumont-animal-shelter-479585",
+      "name": "Beaumont Animal Shelter",
+      "address": "1884 Pine Street, Beaumont, TX 77703",
+      "phone": "409-880-3794",
+      "image": "https://cdn.findpawpal.com/office/479585.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-southeast-texas-702302",
+      "name": "Humane Society-Southeast Texas",
+      "address": "2050 Spindletop Avenue, Beaumont, TX 77705",
+      "phone": "409-833-0504",
+      "image": "https://cdn.findpawpal.com/office/702302.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "port-arthur-humane-society-674187",
+      "name": "Port Arthur Humane Society",
+      "address": "PO Box 1629, Beaumont, TX 77704",
+      "phone": "713-722-0605",
+      "image": "https://cdn.findpawpal.com/office/674187.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bedford-city-animal-control-539245",
+      "name": "Bedford City Animal Control",
+      "address": "1809 Reliance Parkway, Bedford, TX 76021",
+      "phone": "817-952-2191",
+      "image": "https://cdn.findpawpal.com/office/539245.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "beeville-animal-shelter-702379",
+      "name": "Beeville Animal Shelter",
+      "address": "COOK Rd, Beeville, TX 78102",
+      "phone": "361-358-4545",
+      "image": "https://cdn.findpawpal.com/office/702379.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bellaire-animal-control-479597",
+      "name": "Bellaire Animal Control",
+      "address": "5110 Jessamine Street, Bellaire, TX 77401",
+      "phone": "713-668-0487",
+      "image": "https://cdn.findpawpal.com/office/479597.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "big-lake-animal-shelter-479601",
+      "name": "Big Lake Animal Shelter",
+      "address": "Highway 67, Big Lake, TX 76932",
+      "phone": "325-884-2155",
+      "image": "https://cdn.findpawpal.com/office/479601.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "big-spring-animal-control-674182",
+      "name": "Big Spring Animal Control",
+      "address": "400 East 4th Street, Big Spring, TX 79720",
+      "phone": "915-264-2372",
+      "image": "https://cdn.findpawpal.com/office/674182.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "big-spring-humane-society-523776",
+      "name": "Big Spring Humane Society",
+      "address": "PO Box 823, Big Spring, TX 79721",
+      "phone": "915-267-7832",
+      "image": "https://cdn.findpawpal.com/office/523776.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "texas-animal-guardians-702108",
+      "name": "Texas Animal Guardians",
+      "address": "PO Box 2603, Blanco, TX 78606",
+      "phone": "512-539-0545",
+      "image": "https://cdn.findpawpal.com/office/702108.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hill-county-animal-league-633363",
+      "name": "Hill County Animal League",
+      "address": "115 West Bandera Road, Boerne, TX 78006",
+      "phone": "830-249-8040",
+      "image": "https://cdn.findpawpal.com/office/633363.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-kendall-county-478708",
+      "name": "Humane Society of Kendall County",
+      "address": "214 Fawn Valley Drive, Boerne, TX 78006",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/478708.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kendall-county-animal-shelter-674570",
+      "name": "Kendall County Animal Shelter",
+      "address": "702 Farm to Market 289, Boerne, TX 78006",
+      "phone": "830-537-3430",
+      "image": "https://cdn.findpawpal.com/office/674570.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bonham-animal-control-633704",
+      "name": "Bonham Animal Control",
+      "address": "301 East 5th Street, Bonham, TX 75418",
+      "phone": "903-583-2141",
+      "image": "https://cdn.findpawpal.com/office/633704.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "borger-animal-control-shelter-525662",
+      "name": "Borger Animal Control Shelter",
+      "address": "1300 West 3rd Street, Borger, TX 79007",
+      "phone": "806-273-0973",
+      "image": "https://cdn.findpawpal.com/office/525662.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hutchinson-humane-society-702157",
+      "name": "Hutchinson Humane Society",
+      "address": "PO Box 1125, Borger, TX 79008",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/702157.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bowie-animal-shelter-493891",
+      "name": "Bowie Animal Shelter",
+      "address": "1504 East Wise Street, Bowie, TX 76230",
+      "phone": "940-872-2275",
+      "image": "https://cdn.findpawpal.com/office/493891.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brady-animal-control-633706",
+      "name": "Brady Animal Control",
+      "address": "300 West Main Street, Brady, TX 76825",
+      "phone": "325-597-2121",
+      "image": "https://cdn.findpawpal.com/office/633706.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "breckenridge-animal-shelter-539261",
+      "name": "Breckenridge Animal Shelter",
+      "address": "601 North Dubois Street, Breckenridge, TX 76424",
+      "phone": "254-559-1194",
+      "image": "https://cdn.findpawpal.com/office/539261.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brenham-humane-services-524067",
+      "name": "Brenham Humane Services",
+      "address": "2007 Old Chappell Hill Road, Brenham, TX 77833",
+      "phone": "979-337-7351",
+      "image": "https://cdn.findpawpal.com/office/524067.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-the-brenham-animal-shelter-537586",
+      "name": "Friends of the Brenham Animal Shelter",
+      "address": "PO Box 1654, Brenham, TX 77834",
+      "phone": "409-836-4896",
+      "image": "https://cdn.findpawpal.com/office/537586.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "true-blue-animal-rescue-633224",
+      "name": "True Blue Animal Rescue",
+      "address": "PO Box 1107, Brenham, TX 77834",
+      "phone": "936-878-2349",
+      "image": "https://cdn.findpawpal.com/office/633224.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bridge-city-animal-shelter-702174",
+      "name": "Bridge City Animal Shelter",
+      "address": "297 Bower Road, Bridge, TX 77611",
+      "phone": "409-735-8898",
+      "image": "https://cdn.findpawpal.com/office/702174.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-bridgeport-animal-shelter-478403",
+      "name": "City of Bridgeport Animal Shelter",
+      "address": "1000 Thompson Street, Bridgeport, TX 76426",
+      "phone": "940-683-3430",
+      "image": "https://cdn.findpawpal.com/office/478403.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "united-states-equine-sanctuary-and-rescue-524138",
+      "name": "United States Equine Sanctuary & Rescue",
+      "address": "PO Box 565, Bridgeport, TX 76426",
+      "phone": "877-720-1685",
+      "image": "https://cdn.findpawpal.com/office/524138.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sanctuary-for-unwanted-animals-and-care-538847",
+      "name": "Sanctuary for Unwanted Animals and Care",
+      "address": "1936 Peach Ridge Road, Brookshire, TX 77423",
+      "phone": "281-375-7787",
+      "image": "https://cdn.findpawpal.com/office/538847.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bevans-equine-rescue-518728",
+      "name": "Bevans Equine Rescue",
+      "address": "12602 County Road 3611, Brownsboro, TX 75756",
+      "phone": "903-852-7673",
+      "image": "https://cdn.findpawpal.com/office/518728.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brownsville-animal-shelter-702113",
+      "name": "Brownsville Animal Shelter",
+      "address": "PO Box 911, Brownsville, TX 78522",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/702113.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lower-valley-humane-society-477824",
+      "name": "Lower Valley Humane Society",
+      "address": "PO Box 8278, Brownsville, TX 78526",
+      "phone": "956-544-0414",
+      "image": "https://cdn.findpawpal.com/office/477824.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brownwood-animal-control-635700",
+      "name": "Brownwood Animal Control",
+      "address": "2016 Coggin Avenue, Brownwood, TX 76801",
+      "phone": "325-646-4536",
+      "image": "https://cdn.findpawpal.com/office/635700.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-brown-county-538498",
+      "name": "Humane Society of Brown County",
+      "address": "3016 Milam Drive, Brownwood, TX 76801",
+      "phone": "325-646-0617",
+      "image": "https://cdn.findpawpal.com/office/538498.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brazos-animal-shelter-inc-538541",
+      "name": "Brazos Animal Shelter Inc",
+      "address": "5359 Leonard Road, Bryan, TX 77807",
+      "phone": "979-775-5755",
+      "image": "https://cdn.findpawpal.com/office/538541.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bryan-animal-shelter-519548",
+      "name": "Bryan Animal Shelter",
+      "address": "2207 Finfeather Road, Bryan, TX 77801",
+      "phone": "979-775-5755",
+      "image": "https://cdn.findpawpal.com/office/519548.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "buchanan-animal-control-633713",
+      "name": "Buchanan Animal Control",
+      "address": "9150 W Ranch Road 1431, Buchanan Dam, TX 78609",
+      "phone": "512-793-5463",
+      "image": "https://cdn.findpawpal.com/office/633713.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bulverde-area-humane-society-674437",
+      "name": "Bulverde Area Humane Society",
+      "address": "3563 Kingsnake, Bulverde, TX 78163",
+      "phone": "830-980-2247",
+      "image": "https://cdn.findpawpal.com/office/674437.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-burleson-animal-shelter-633475",
+      "name": "City of Burleson Animal Shelter",
+      "address": "775 Southeast John Jones Drive, Burleson, TX 76028",
+      "phone": "817-447-5400",
+      "image": "https://cdn.findpawpal.com/office/633475.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "burnet-county-animal-control-539296",
+      "name": "Burnet County Animal Control",
+      "address": "1215 Texas 29, Burnet, TX 78611",
+      "phone": "512-756-8080",
+      "image": "https://cdn.findpawpal.com/office/539296.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-chick-with-pits-inc-674399",
+      "name": "The Chick With Pits, Inc.",
+      "address": "3389 Farm to Market Road 3211, Caddo Mills, TX 75135",
+      "phone": "469-708-8297",
+      "image": "https://cdn.findpawpal.com/office/674399.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "canadian-animal-control-702385",
+      "name": "Canadian Animal Control",
+      "address": "6 Main St, Canadian, TX 79014",
+      "phone": "806-323-6473",
+      "image": "https://cdn.findpawpal.com/office/702385.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "canton-animal-shelter-538265",
+      "name": "Canton Animal Shelter",
+      "address": "290 East Tyler Street, Canton, TX 75103",
+      "phone": "903-567-4880",
+      "image": "https://cdn.findpawpal.com/office/538265.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-league-of-el-paso-inc-537151",
+      "name": "Animal Rescue League of El Paso, Inc",
+      "address": "7256 La Junta Drive, Canutillo, TX 79835",
+      "phone": "915-877-5002",
+      "image": "https://cdn.findpawpal.com/office/537151.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "canyon-lake-animal-shelter-society-538022",
+      "name": "Canyon Lake Animal Shelter Society",
+      "address": "2170 Old Sattler Road, Canyon Lake, TX 78133",
+      "phone": "830-899-2527",
+      "image": "https://cdn.findpawpal.com/office/538022.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "adoption-and-rescue-klub-702119",
+      "name": "Adoption and Rescue Klub",
+      "address": "PO Box 117091, Carrollton, TX 75011",
+      "phone": "972-562-4357",
+      "image": "https://cdn.findpawpal.com/office/702119.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "carrollton-animal-control-519559",
+      "name": "Carrollton Animal Control",
+      "address": "2247 Sandy Lake Road, Carrollton, TX 75006",
+      "phone": "972-466-3420",
+      "image": "https://cdn.findpawpal.com/office/519559.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "carrollton-animal-services-702124",
+      "name": "Carrollton Animal Services",
+      "address": "PO Box 110535, Carrollton, TX 75011",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/702124.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lexees-legacy-493205",
+      "name": "Lexee's Legacy",
+      "address": "1437 Halsey Way, Carrollton, TX 75007",
+      "phone": "972-245-0900",
+      "image": "https://cdn.findpawpal.com/office/493205.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lost-paws-rescue-of-texas-537012",
+      "name": "Lost PAWS Rescue of Texas",
+      "address": "PO Box 116256, Carrollton, TX 75011",
+      "phone": "972-397-9373",
+      "image": "https://cdn.findpawpal.com/office/537012.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "operation-kindness-674321",
+      "name": "Operation Kindness",
+      "address": "3201 Earhart Drive, Carrollton, TX 75006",
+      "phone": "972-418-7297",
+      "image": "https://cdn.findpawpal.com/office/674321.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tassies-hope-animal-rescue-537114",
+      "name": "Tassie's Hope Animal Rescue",
+      "address": "4112 North Josey Lane, Carrollton, TX 75007",
+      "phone": "214-550-2648",
+      "image": "https://cdn.findpawpal.com/office/537114.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cat-spring-animal-shelter-635708",
+      "name": "Cat Spring Animal Shelter",
+      "address": "3808 Mill Creek Road, Cat Spring, TX 78933",
+      "phone": "979-865-2525",
+      "image": "https://cdn.findpawpal.com/office/635708.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bucks-quality-k9-539771",
+      "name": "Bucks Quality K9",
+      "address": "515 Pope Bend South, Cedar Creek, TX 78612",
+      "phone": "512-332-0383",
+      "image": "https://cdn.findpawpal.com/office/539771.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cedar-hill-animal-control-635032",
+      "name": "Cedar Hill Animal Control",
+      "address": "PO Box 96, Cedar Hill, TX 75106",
+      "phone": "972-291-7161",
+      "image": "https://cdn.findpawpal.com/office/635032.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tri-city-animal-shelter-537866",
+      "name": "Tri-City Animal Shelter",
+      "address": "1150 East Pleasant Run Road, Cedar Hill, TX 75104",
+      "phone": "972-291-5335",
+      "image": "https://cdn.findpawpal.com/office/537866.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-shelters-in-cedar-park-493701",
+      "name": "Animal Shelters in Cedar Park",
+      "address": "1400 West Whitestone Boulevard, Cedar Park, TX 78613",
+      "phone": "512-335-6300",
+      "image": "https://cdn.findpawpal.com/office/493701.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "potbellied-pig-haven-rescue-674257",
+      "name": "Potbellied Pig Haven Rescue",
+      "address": "815 Hall Street, Cedar Park, TX 78613",
+      "phone": "512-258-1102",
+      "image": "https://cdn.findpawpal.com/office/674257.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-cleburne-animal-shelter-633478",
+      "name": "City of Cleburne Animal Shelter",
+      "address": "2375 Service Dr, Cleburne, TX 76033",
+      "phone": "817-556-8895",
+      "image": "https://cdn.findpawpal.com/office/633478.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "johnson-county-humane-society-723328",
+      "name": "Johnson County Humane Society",
+      "address": ", Cleburne, TX",
+      "phone": "940-297-5111",
+      "image": "https://cdn.findpawpal.com/office/723328.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clifton-animal-control-479445",
+      "name": "Clifton Animal Control",
+      "address": "310 West 5th Street, Clifton, TX 76634",
+      "phone": "254-675-0089",
+      "image": "https://cdn.findpawpal.com/office/479445.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clyde-city-animal-shelter-525496",
+      "name": "Clyde City Animal Shelter",
+      "address": "3556 County Road 275, Clyde, TX 79510",
+      "phone": "325-893-2963",
+      "image": "https://cdn.findpawpal.com/office/525496.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tawnas-foster-home-for-dogs-539155",
+      "name": "Tawna's Foster Home for Dogs",
+      "address": "9259 County Road 258, Clyde, TX 79510",
+      "phone": "915-893-5089",
+      "image": "https://cdn.findpawpal.com/office/539155.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cats-cradle-feline-shelter-539777",
+      "name": "Cat's Cradle Feline Shelter",
+      "address": "2703 Brookway Drive, College Station, TX 77845",
+      "phone": "979-820-0599",
+      "image": "https://cdn.findpawpal.com/office/539777.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "impact-animal-foundation-493084",
+      "name": "Impact Animal Foundation",
+      "address": "PO Box 3302, College Station, TX 77841",
+      "phone": "979-402-2511",
+      "image": "https://cdn.findpawpal.com/office/493084.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "valley-view-animal-rescue-517905",
+      "name": "Valley View Animal Rescue",
+      "address": "205 Valley View Drive South, Colleyville, TX 76034",
+      "phone": "817-201-5983",
+      "image": "https://cdn.findpawpal.com/office/517905.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "comanche-animal-shelter-674571",
+      "name": "Comanche Animal Shelter",
+      "address": "800 East Fleming Avenue, Comanche, TX 76442",
+      "phone": "325-356-5685",
+      "image": "https://cdn.findpawpal.com/office/674571.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "commerce-city-animal-shelter-525500",
+      "name": "Commerce City Animal Shelter",
+      "address": "1119 Alamo Street, Commerce, TX 75428",
+      "phone": "903-886-1100",
+      "image": "https://cdn.findpawpal.com/office/525500.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "commerce-humane-association-478111",
+      "name": "Commerce Humane Association",
+      "address": "PO Box 2, Commerce, TX 75429",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/478111.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "conroe-animal-shelter-539105",
+      "name": "Conroe Animal Shelter",
+      "address": "407 Sgt Ed Holcomb Boulevard South, Conroe, TX 77304",
+      "phone": "936-522-3550",
+      "image": "https://cdn.findpawpal.com/office/539105.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "montgomery-county-animal-shelter-540245",
+      "name": "Montgomery County Animal Shelter",
+      "address": "8535 Texas 242, Conroe, TX 77385",
+      "phone": "936-442-7738",
+      "image": "https://cdn.findpawpal.com/office/540245.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "montgomery-county-humane-society-524186",
+      "name": "Montgomery County Humane Society",
+      "address": "PO Box 2424, Conroe, TX 77305",
+      "phone": "409-756-3914",
+      "image": "https://cdn.findpawpal.com/office/524186.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "converse-animal-shelter-702243",
+      "name": "Converse Animal Shelter",
+      "address": "9634 Schaeffer Road, Converse, TX 78109",
+      "phone": "210-658-4821",
+      "image": "https://cdn.findpawpal.com/office/702243.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-pals-of-texas-633373",
+      "name": "Pet Pals of Texas",
+      "address": "9834 Meadow Branch, Converse, TX 78109",
+      "phone": "210-279-1330",
+      "image": "https://cdn.findpawpal.com/office/633373.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "northeast-texas-humane-society-493899",
+      "name": "Northeast Texas Humane Society",
+      "address": "343 Cr 4218, Cookville, TX 75558",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/493899.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "blue-eyed-pup-rescue-jackie-635044",
+      "name": "Blue Eyed Pup Rescue Jackie",
+      "address": "PO Box 1306, Coppell, TX 75019",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/635044.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "coppell-animal-control-633329",
+      "name": "Coppell Animal Control",
+      "address": "255 East Parkway Boulevard, Coppell, TX 75019",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/633329.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "coppell-humane-society-478644",
+      "name": "Coppell Humane Society",
+      "address": "PO Box 1561, Coppell, TX 75019",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/478644.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "siamese-rescue-alliance-517421",
+      "name": "Siamese Rescue Alliance",
+      "address": "PO Box 3088, Coppell, TX 75019",
+      "phone": "866-639-6369",
+      "image": "https://cdn.findpawpal.com/office/517421.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "copperas-cove-animal-control-635255",
+      "name": "Copperas Cove Animal Control",
+      "address": "1601 North 1st Street, Copperas Cove, TX 76522",
+      "phone": "254-547-5584",
+      "image": "https://cdn.findpawpal.com/office/635255.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "university-of-texas-feral-cat-rescue-group-702131",
+      "name": "University of Texas Feral Cat Rescue Group",
+      "address": "1729 Vintage Drive, Corinth, TX 76210",
+      "phone": "940-565-4604",
+      "image": "https://cdn.findpawpal.com/office/702131.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-control-division-corpus-cristi-537734",
+      "name": "Animal Control Division Corpus Cristi",
+      "address": "2626 Holly Road, Corpus Christi, TX 78415",
+      "phone": "361-882-6082",
+      "image": "https://cdn.findpawpal.com/office/537734.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "compassion-for-animals-635163",
+      "name": "Compassion for Animals",
+      "address": "PO Box 72064, Corpus Christi, TX 78472",
+      "phone": "361-852-6573",
+      "image": "https://cdn.findpawpal.com/office/635163.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "corpus-christi-animal-rights-effort-702210",
+      "name": "Corpus Christi Animal Rights Effort",
+      "address": "PO Box 9093, Corpus Christi, TX 78469",
+      "phone": "361-289-7457",
+      "image": "https://cdn.findpawpal.com/office/702210.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "gulf-coast-humane-society-478458",
+      "name": "Gulf Coast Humane Society",
+      "address": "3118 Cabaniss Road, Corpus Christi, TX 78415",
+      "phone": "361-225-0845",
+      "image": "https://cdn.findpawpal.com/office/478458.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pals-animal-shelter-633664",
+      "name": "Pals Animal Shelter",
+      "address": "1101 Navigation Boulevard, Corpus Christi, TX 78407",
+      "phone": "361-884-0366",
+      "image": "https://cdn.findpawpal.com/office/633664.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-cattery-cat-shelter-537761",
+      "name": "The Cattery Cat Shelter",
+      "address": "4232 South Padre Island Drive, Corpus Christi, TX 78411",
+      "phone": "361-854-6369",
+      "image": "https://cdn.findpawpal.com/office/537761.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "welcome-home-barnyard-animal-sanctuary-702209",
+      "name": "Welcome Home Barnyard Animal Sanctuary",
+      "address": "1307 Saratoga Boulevard, Corpus Christi, TX 78417",
+      "phone": "361-215-5668",
+      "image": "https://cdn.findpawpal.com/office/702209.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "corsicana-animal-shelter-539038",
+      "name": "Corsicana Animal Shelter",
+      "address": "617 South 12th Street, Corsicana, TX 75110",
+      "phone": "903-654-4928",
+      "image": "https://cdn.findpawpal.com/office/539038.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cotulla-city-animal-control-539110",
+      "name": "Cotulla City Animal Control",
+      "address": "117 North Front Street, Cotulla, TX 78014",
+      "phone": "830-879-5806",
+      "image": "https://cdn.findpawpal.com/office/539110.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "houston-county-veterinary-hospital-523772",
+      "name": "Houston County Veterinary Hospital",
+      "address": "2105 North 4th Street, Crockett, TX 75835",
+      "phone": "936-544-2174",
+      "image": "https://cdn.findpawpal.com/office/523772.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "noahs-ark-animal-sanctuary-538482",
+      "name": "Noah's Ark Animal Sanctuary",
+      "address": "18430 Kz Road, Cypress, TX 77433",
+      "phone": "281-807-7387",
+      "image": "https://cdn.findpawpal.com/office/538482.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dalhart-animal-wellness-group-and-sanctuary-539684",
+      "name": "Dalhart Animal Wellness Group and Sanctuary",
+      "address": "PO Box 911, Dalhart, TX 79022",
+      "phone": "806-244-3216",
+      "image": "https://cdn.findpawpal.com/office/539684.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "carrollton-humane-society-633444",
+      "name": "Carrollton Humane Society",
+      "address": "2536 Sunscape Lane, Dallas, TX 75287",
+      "phone": "972-447-1180",
+      "image": "https://cdn.findpawpal.com/office/633444.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-dallas-animal-control-674327",
+      "name": "City of Dallas Animal Control",
+      "address": "525 Shelter Place, Dallas, TX 75203",
+      "phone": "214-670-7430",
+      "image": "https://cdn.findpawpal.com/office/674327.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "east-lake-veterinary-hospital-674319",
+      "name": "East Lake Veterinary Hospital",
+      "address": "10101 East Northwest Highway, Dallas, TX 75238",
+      "phone": "214-342-3100",
+      "image": "https://cdn.findpawpal.com/office/674319.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "feral-friends-animal-rescue-and-assistance-635323",
+      "name": "Feral Friends Animal Rescue & Assistance",
+      "address": "13410 Preston Road, Dallas, TX 75240",
+      "phone": "972-671-0427",
+      "image": "https://cdn.findpawpal.com/office/635323.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "german-shepherd-rescue-of-north-texas-inc-524438",
+      "name": "German Shepherd Rescue of North Texas, Inc.",
+      "address": "4114 Live Oak Street, Dallas, TX 75204",
+      "phone": "214-368-1120",
+      "image": "https://cdn.findpawpal.com/office/524438.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "golden-retriever-rescue-of-north-texas-674324",
+      "name": "Golden Retriever Rescue of North Texas",
+      "address": "PO Box 670031, Dallas, TX 75367",
+      "phone": "214-750-4477",
+      "image": "https://cdn.findpawpal.com/office/674324.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greyhounds-rescue-society-of-texas-inc-518342",
+      "name": "Greyhounds Rescue Society of Texas, Inc.",
+      "address": "PO Box 703967, Dallas, TX 75370",
+      "phone": "972-503-4739",
+      "image": "https://cdn.findpawpal.com/office/518342.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "help-for-helpless-animals-493138",
+      "name": "Help for Helpless Animals",
+      "address": "PO Box 797972, Dallas, TX 75379",
+      "phone": "972-424-4860",
+      "image": "https://cdn.findpawpal.com/office/493138.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-dallas-county-dog-and-kitty-city-702230",
+      "name": "Humane Society of Dallas County/Dog and Kitty City",
+      "address": "2719 Manor Way, Dallas, TX 75235",
+      "phone": "214-350-7387",
+      "image": "https://cdn.findpawpal.com/office/702230.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ivor-oconnor-morgan-home-for-lost-and-strayed-dogs-674331",
+      "name": "Ivor O'connor Morgan Home for Lost and Strayed Dogs",
+      "address": "8414 Forney Road, Dallas, TX 75227",
+      "phone": "214-388-0568",
+      "image": "https://cdn.findpawpal.com/office/674331.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-in-the-city-633345",
+      "name": "PAWS In The City",
+      "address": "3506 Cedar Springs Road, Dallas, TX 75219",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/633345.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spca-of-texas-674335",
+      "name": "SPCA of Texas",
+      "address": "4830 Village Fair Drive, Dallas, TX 75224",
+      "phone": "214-742-7722",
+      "image": "https://cdn.findpawpal.com/office/674335.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "scottie-kingdom-rescue-inc-635043",
+      "name": "Scottie Kingdom Rescue, Inc.",
+      "address": "PO Box 551265, Dallas, TX 75355",
+      "phone": "972-285-2402",
+      "image": "https://cdn.findpawpal.com/office/635043.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sheltie-haven-478553",
+      "name": "Sheltie Haven",
+      "address": "2637 San Marcus Avenue, Dallas, TX 75228",
+      "phone": "214-327-1102",
+      "image": "https://cdn.findpawpal.com/office/478553.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "summerlee-foundation-524337",
+      "name": "Summerlee Foundation",
+      "address": "5956 Sherry Lane, Dallas, TX 75225",
+      "phone": "214-363-9000",
+      "image": "https://cdn.findpawpal.com/office/524337.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "texas-cares-538237",
+      "name": "Texas Cares",
+      "address": "18484 Preston Road, Dallas, TX 75252",
+      "phone": "972-633-2287",
+      "image": "https://cdn.findpawpal.com/office/538237.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "texas-pawprints-674311",
+      "name": "Texas Pawprints",
+      "address": "5815 Ross Avenue, Dallas, TX 75206",
+      "phone": "214-356-9126",
+      "image": "https://cdn.findpawpal.com/office/674311.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "treasured-friends-478657",
+      "name": "Treasured Friends",
+      "address": "3556 Ridgebriar Drive, Dallas, TX 75234",
+      "phone": "972-247-3455",
+      "image": "https://cdn.findpawpal.com/office/478657.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "weimaraner-rescue-of-north-texas-inc-674313",
+      "name": "Weimaraner Rescue of North Texas, Inc.",
+      "address": "4347 West Northwest Highway, Dallas, TX 75220",
+      "phone": "972-994-3572",
+      "image": "https://cdn.findpawpal.com/office/674313.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "decatur-animal-shelter-538912",
+      "name": "Decatur Animal Shelter",
+      "address": "104 East Pecan Street, Decatur, TX 76234",
+      "phone": "940-627-7888",
+      "image": "https://cdn.findpawpal.com/office/538912.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wise-county-animal-shelter-674266",
+      "name": "Wise County Animal Shelter",
+      "address": "119 Private Rd 4195, Decatur, TX 76234",
+      "phone": "940-627-7577",
+      "image": "https://cdn.findpawpal.com/office/674266.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "deer-park-animal-control-494992",
+      "name": "Deer Park Animal Control",
+      "address": "4213 Luella Avenue, Deer Park, TX 77536",
+      "phone": "281-478-7274",
+      "image": "https://cdn.findpawpal.com/office/494992.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "del-rio-animal-shelter-721863",
+      "name": "Del Rio Animal Shelter",
+      "address": "203 Avenue P, Del Rio, TX 78840",
+      "phone": "830-774-8628",
+      "image": "https://cdn.findpawpal.com/office/721863.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pawmatch-493869",
+      "name": "Pawmatch",
+      "address": "14108 Farm to Market Road 812, Del Valle, TX 78617",
+      "phone": "512-243-3700",
+      "image": "https://cdn.findpawpal.com/office/493869.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "denton-animal-shelter-635456",
+      "name": "Denton Animal Shelter",
+      "address": "3717 North Elm Street, Denton, TX 76207",
+      "phone": "940-349-7594",
+      "image": "https://cdn.findpawpal.com/office/635456.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "denton-city-animal-control-633667",
+      "name": "Denton City Animal Control",
+      "address": "300 South Woodrow Lane, Denton, TX 76205",
+      "phone": "940-349-7594",
+      "image": "https://cdn.findpawpal.com/office/633667.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "denton-county-animal-rescue-league-539634",
+      "name": "Denton County Animal Rescue League",
+      "address": "3409 Fairview Drive, Denton, TX 76210",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/539634.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "denton-humane-society-517460",
+      "name": "Denton Humane Society",
+      "address": "PO Box 1972, Denton, TX 76202",
+      "phone": "940-382-7387",
+      "image": "https://cdn.findpawpal.com/office/517460.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rainbow-cat-rescue-702129",
+      "name": "Rainbow Cat Rescue",
+      "address": "6601 Grissom Road, Denton, TX 76208",
+      "phone": "940-243-4876",
+      "image": "https://cdn.findpawpal.com/office/702129.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "studio-d-633070",
+      "name": "Studio D",
+      "address": "1305 Bridges Street, Denton, TX 76208",
+      "phone": "443-371-5296",
+      "image": "https://cdn.findpawpal.com/office/633070.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "texas-coalition-for-animal-protection-477948",
+      "name": "Texas Coalition for Animal Protection",
+      "address": "PO Box 504, Denton, TX 76202",
+      "phone": "972-463-7000",
+      "image": "https://cdn.findpawpal.com/office/477948.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "young-animal-humane-society-674138",
+      "name": "Young Animal Humane Society",
+      "address": "1617 Egan Street, Denton, TX 76201",
+      "phone": "214-434-4501",
+      "image": "https://cdn.findpawpal.com/office/674138.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "desoto-animal-shelter-635660",
+      "name": "Desoto Animal Shelter",
+      "address": "1239 South Hampton Road, DeSoto, TX 75115",
+      "phone": "972-274-6000",
+      "image": "https://cdn.findpawpal.com/office/635660.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-angels-animal-sanctuary-702167",
+      "name": "City of Angels Animal Sanctuary",
+      "address": "849 County Road 6610, Devine, TX 78016",
+      "phone": "210-232-0840",
+      "image": "https://cdn.findpawpal.com/office/702167.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "devine-city-animal-control-494997",
+      "name": "Devine City Animal Control",
+      "address": "303 South Teel Drive, Devine, TX 78016",
+      "phone": "830-663-2804",
+      "image": "https://cdn.findpawpal.com/office/494997.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "thundering-paws-animal-sanctuary-524671",
+      "name": "Thundering PAWS Animal Sanctuary",
+      "address": "PO Box 1555, Dripping Springs, TX 78620",
+      "phone": "512-402-9725",
+      "image": "https://cdn.findpawpal.com/office/524671.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dumas-animal-shelter-519415",
+      "name": "Dumas Animal Shelter",
+      "address": "1830 South Maddox Avenue, Dumas, TX 79029",
+      "phone": "806-934-2268",
+      "image": "https://cdn.findpawpal.com/office/519415.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "best-southwest-humane-society-633299",
+      "name": "Best Southwest Humane Society",
+      "address": "PO Box 382373, Duncanville, TX 75138",
+      "phone": "972-293-4357",
+      "image": "https://cdn.findpawpal.com/office/633299.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "eagle-pass-animal-control-721431",
+      "name": "Eagle Pass Animal Control",
+      "address": "1100 Eidson Road, Eagle Pass, TX 78852",
+      "phone": "830-773-9408",
+      "image": "https://cdn.findpawpal.com/office/721431.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "angels-haven-animal-rescue-478083",
+      "name": "Angels Haven Animal Rescue",
+      "address": "PO Box 939, Edinburg, TX 78539",
+      "phone": "956-287-1182",
+      "image": "https://cdn.findpawpal.com/office/478083.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "edinburg-animal-control-495006",
+      "name": "Edinburg Animal Control",
+      "address": "1702 South Closner Boulevard, Edinburg, TX 78539",
+      "phone": "956-381-9825",
+      "image": "https://cdn.findpawpal.com/office/495006.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "palm-valley-animal-center-538161",
+      "name": "Palm Valley Animal Center",
+      "address": "2501 West Trenton Road, Edinburg, TX 78539",
+      "phone": "956-686-1141",
+      "image": "https://cdn.findpawpal.com/office/538161.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "el-campo-animal-shelter-525558",
+      "name": "El Campo Animal Shelter",
+      "address": "101 North Wharton Street, El Campo, TX 77437",
+      "phone": "979-541-5097",
+      "image": "https://cdn.findpawpal.com/office/525558.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-alliance-society-477983",
+      "name": "Animal Alliance Society",
+      "address": "10553 Murphy Street, El Paso, TX 79924",
+      "phone": "915-581-9500",
+      "image": "https://cdn.findpawpal.com/office/477983.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-el-paso-493504",
+      "name": "Humane Society of El Paso",
+      "address": "4991 Fred Wilson Avenue, El Paso, TX 79906",
+      "phone": "915-532-6971",
+      "image": "https://cdn.findpawpal.com/office/493504.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-el-paso-inc-633086",
+      "name": "Humane Society of El Paso, Inc.",
+      "address": "325 Shelter Place, El Paso, TX 79905",
+      "phone": "915-532-6771",
+      "image": "https://cdn.findpawpal.com/office/633086.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "no-kill-el-paso-538420",
+      "name": "No Kill El Paso",
+      "address": "8495 Neptune Street, El Paso, TX 79904",
+      "phone": "559-633-0822",
+      "image": "https://cdn.findpawpal.com/office/538420.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "passion-horse-dfw-canine-equine-rescue-538403",
+      "name": "Passion Horse Dfw Canine Equine Rescue",
+      "address": "9304 Joshua Louis Drive, El Paso, TX 79938",
+      "phone": "817-372-0047",
+      "image": "https://cdn.findpawpal.com/office/538403.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "electra-animal-control-674585",
+      "name": "Electra Animal Control",
+      "address": "111 East Cleveland Avenue, Electra, TX 76360",
+      "phone": "940-495-2131",
+      "image": "https://cdn.findpawpal.com/office/674585.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dreamtime-sanctuary-of-hacienda-de-los-milagros-493895",
+      "name": "Dreamtime Sanctuary of Hacienda De Los Milagros",
+      "address": "PO Box 328, Elgin, TX 78621",
+      "phone": "512-281-4572",
+      "image": "https://cdn.findpawpal.com/office/493895.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "euless-city-animal-control-525568",
+      "name": "Euless City Animal Control",
+      "address": "1517 Westpark Way, Euless, TX 76040",
+      "phone": "817-685-1594",
+      "image": "https://cdn.findpawpal.com/office/525568.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mazzocchi-farm-equine-rescue-524829",
+      "name": "Mazzocchi Farm Equine Rescue",
+      "address": "9800 County Road 2514, Eustace, TX 75124",
+      "phone": "903-910-9532",
+      "image": "https://cdn.findpawpal.com/office/524829.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "everman-animal-shelter-494071",
+      "name": "Everman Animal Shelter",
+      "address": "3961 Bluebell Drive, Everman, TX 76140",
+      "phone": "817-561-5495",
+      "image": "https://cdn.findpawpal.com/office/494071.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dallas-animal-control-525522",
+      "name": "Dallas Animal Control",
+      "address": "3727 Valley View Lane, Farmers Branch, TX 75244",
+      "phone": "972-243-7605",
+      "image": "https://cdn.findpawpal.com/office/525522.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-friends-inc-493777",
+      "name": "Animal Rescue Friends, Inc.",
+      "address": "312 West 8th Street, Ferris, TX 75125",
+      "phone": "972-842-8506",
+      "image": "https://cdn.findpawpal.com/office/493777.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "daress-domestic-animal-rescue-shelter-service-635251",
+      "name": "Daress Domestic Animal Rescue Shelter Service",
+      "address": "1200 South Central Street, Ferris, TX 75125",
+      "phone": "888-600-1077",
+      "image": "https://cdn.findpawpal.com/office/635251.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "las-lomas-k9-resuce-adoption-foundation-478527",
+      "name": "Las Lomas K9 Resuce Adoption Foundation",
+      "address": "PO Box 494, Floresville, TX 78114",
+      "phone": "830-216-4620",
+      "image": "https://cdn.findpawpal.com/office/478527.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "flower-mound-humane-society-702288",
+      "name": "Flower Mound Humane Society",
+      "address": "1601 Arrowhead Drive, Flower Mound, TX 75028",
+      "phone": "972-691-7387",
+      "image": "https://cdn.findpawpal.com/office/702288.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "serenity-springs-sanctuary-633295",
+      "name": "Serenity Springs Sanctuary",
+      "address": "2162 Merritt Rd, Forestburg, TX 76239",
+      "phone": "940-964-2318",
+      "image": "https://cdn.findpawpal.com/office/633295.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "forney-animal-shelter-479531",
+      "name": "Forney Animal Shelter",
+      "address": "1001 Farm to Market Road 741, Forney, TX 75126",
+      "phone": "972-564-2351",
+      "image": "https://cdn.findpawpal.com/office/479531.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "southern-molosser-rescue-517716",
+      "name": "Southern Molosser Rescue",
+      "address": "105 Windsor, Forney, TX 75126",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/517716.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "benbrook-animal-shelter-540386",
+      "name": "Benbrook Animal Shelter",
+      "address": "469 Winscott Road, Fort Worth, TX 76126",
+      "phone": "817-249-1882",
+      "image": "https://cdn.findpawpal.com/office/540386.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-fort-worth-animal-control-518423",
+      "name": "City of Fort Worth Animal Control",
+      "address": "1800 University Drive, Fort Worth, TX 76107",
+      "phone": "817-871-7345",
+      "image": "https://cdn.findpawpal.com/office/518423.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fort-worth-animal-care-and-control-shelter-702244",
+      "name": "Fort Worth Animal Care and Control Shelter",
+      "address": "4900 Martin Street, Fort Worth, TX 76119",
+      "phone": "817-392-1234",
+      "image": "https://cdn.findpawpal.com/office/702244.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "furever-friends-635351",
+      "name": "Furever Friends",
+      "address": "5912 Whitman Avenue, Fort Worth, TX 76133",
+      "phone": "817-246-9316",
+      "image": "https://cdn.findpawpal.com/office/635351.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "guardian-angels-animal-rescue-517866",
+      "name": "Guardian Angels Animal Rescue",
+      "address": "PO Box 3247, Fort Worth, TX 76113",
+      "phone": "817-919-7297",
+      "image": "https://cdn.findpawpal.com/office/517866.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "haltom-city-animal-control-540099",
+      "name": "Haltom City Animal Control",
+      "address": "5312 Midway Road, Fort Worth, TX 76117",
+      "phone": "817-759-2124",
+      "image": "https://cdn.findpawpal.com/office/540099.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-north-texas-524816",
+      "name": "Humane Society of North Texas",
+      "address": "1840 East Lancaster Avenue, Fort Worth, TX 76103",
+      "phone": "817-332-4768",
+      "image": "https://cdn.findpawpal.com/office/524816.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-and-claws-rescue-inc-523976",
+      "name": "PAWS & Claws Rescue, Inc.",
+      "address": "PO Box 121522, Fort Worth, TX 76121",
+      "phone": "817-491-7283",
+      "image": "https://cdn.findpawpal.com/office/523976.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "safe-haven-animal-shelter-635191",
+      "name": "Safe Haven Animal Shelter",
+      "address": "4909 Holiday Lane, Fort Worth, TX 76180",
+      "phone": "940-682-7065",
+      "image": "https://cdn.findpawpal.com/office/635191.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sansom-park-animal-shelter-635670",
+      "name": "Sansom Park Animal Shelter",
+      "address": "2303 Beverly Hills Drive, Fort Worth, TX 76114",
+      "phone": "817-378-9951",
+      "image": "https://cdn.findpawpal.com/office/635670.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-adoption-center-538439",
+      "name": "Pet Adoption Center",
+      "address": "PO Box 455, Fredericksburg, TX 78624",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/538439.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friendswood-animal-control-635599",
+      "name": "Friendswood Animal Control",
+      "address": "1322 Deepwood Drive, Friendswood, TX 77546",
+      "phone": "281-996-3391",
+      "image": "https://cdn.findpawpal.com/office/635599.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "apes-674421",
+      "name": "APES",
+      "address": "11705 Estacado Drive, Frisco, TX 75033",
+      "phone": "972-712-9606",
+      "image": "https://cdn.findpawpal.com/office/674421.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "frisco-humane-society-635054",
+      "name": "Frisco Humane Society",
+      "address": "PO Box 2655, Frisco, TX 75034",
+      "phone": "972-498-8980",
+      "image": "https://cdn.findpawpal.com/office/635054.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "gainesville-animal-control-702373",
+      "name": "Gainesville Animal Control",
+      "address": "201 Santa Fe Street, Gainesville, TX 76240",
+      "phone": "940-668-7777",
+      "image": "https://cdn.findpawpal.com/office/702373.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "galveston-island-humane-society-633315",
+      "name": "Galveston Island Humane Society",
+      "address": "6814 Broadway Street, Galveston, TX 77554",
+      "phone": "409-740-1919",
+      "image": "https://cdn.findpawpal.com/office/633315.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-adoption-center-of-garland-518240",
+      "name": "Animal Adoption Center of Garland",
+      "address": "117 North Garland Avenue, Garland, TX 75040",
+      "phone": "972-494-5463",
+      "image": "https://cdn.findpawpal.com/office/518240.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "garland-animal-control-494824",
+      "name": "Garland Animal Control",
+      "address": "600 Tower Street, Garland, TX 75040",
+      "phone": "972-205-3570",
+      "image": "https://cdn.findpawpal.com/office/494824.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greyhound-friends-of-texas-493133",
+      "name": "Greyhound Friends of Texas",
+      "address": "PO Box 451345, Garland, TX 75045",
+      "phone": "972-414-6627",
+      "image": "https://cdn.findpawpal.com/office/493133.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "north-texas-rabbit-sanctuary-674439",
+      "name": "North Texas Rabbit Sanctuary",
+      "address": "1013 Lesa Lane, Garland, TX 75042",
+      "phone": "972-205-1881",
+      "image": "https://cdn.findpawpal.com/office/674439.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "forgotten-angels-animal-foundation-and-rescue-524212",
+      "name": "Forgotten Angels Animal Foundation and Rescue",
+      "address": "502 South 5th Street, Gatesville, TX 76528",
+      "phone": "254-865-9050",
+      "image": "https://cdn.findpawpal.com/office/524212.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-georgetown-animal-shelter-674261",
+      "name": "City of Georgetown Animal Shelter",
+      "address": "110 West L Walden Drive, Georgetown, TX 78626",
+      "phone": "512-930-3592",
+      "image": "https://cdn.findpawpal.com/office/674261.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "williamson-county-regional-animal-shelter-635232",
+      "name": "Williamson County Regional Animal Shelter",
+      "address": "1855 Southeast Inner Loop, Georgetown, TX 78626",
+      "phone": "512-943-3322",
+      "image": "https://cdn.findpawpal.com/office/635232.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "giddings-animal-control-702345",
+      "name": "Giddings Animal Control",
+      "address": "332 East Cuero Street, Giddings, TX 78942",
+      "phone": "979-542-5010",
+      "image": "https://cdn.findpawpal.com/office/702345.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "upshure-county-hope-house-for-pets-538821",
+      "name": "Upshure County Hope House for Pets",
+      "address": "PO Box 187, Gilmer, TX 75644",
+      "phone": "903-734-4909",
+      "image": "https://cdn.findpawpal.com/office/538821.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "corgi-critters-n-e-t-rescue-inc-537190",
+      "name": "Corgi Critters N.E.T. Rescue, Inc.",
+      "address": "1212 North Edwards Street, Gladewater, TX 75647",
+      "phone": "903-918-3352",
+      "image": "https://cdn.findpawpal.com/office/537190.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "gladewater-animal-control-538914",
+      "name": "Gladewater Animal Control",
+      "address": "511 South Tyler Street, Gladewater, TX 75647",
+      "phone": "903-845-5801",
+      "image": "https://cdn.findpawpal.com/office/538914.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "glen-rose-animal-control-702346",
+      "name": "Glen Rose Animal Control",
+      "address": "1685 Farm to Market 56, Glen Rose, TX 76043",
+      "phone": "254-897-3113",
+      "image": "https://cdn.findpawpal.com/office/702346.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "home-at-last-animal-haven-523790",
+      "name": "Home At Last Animal Haven",
+      "address": "5640 County Road 907, Godley, TX 76044",
+      "phone": "817-389-3813",
+      "image": "https://cdn.findpawpal.com/office/523790.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-shelter-graham-518062",
+      "name": "Animal Shelter Graham",
+      "address": "417 Rodeo Road, Graham, TX 76450",
+      "phone": "940-549-1692",
+      "image": "https://cdn.findpawpal.com/office/518062.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "granbury-friends-for-animals-539573",
+      "name": "Granbury Friends for Animals",
+      "address": "2885 Fall Creek Highway, Granbury, TX 76049",
+      "phone": "817-326-3647",
+      "image": "https://cdn.findpawpal.com/office/539573.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hood-county-animal-control-538918",
+      "name": "Hood County Animal Control",
+      "address": "400 Deputy Larry Miller Drive, Granbury, TX 76048",
+      "phone": "817-579-8914",
+      "image": "https://cdn.findpawpal.com/office/538918.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "doberman-rescue-of-north-texas-635331",
+      "name": "Doberman Rescue of North Texas",
+      "address": "2021 Rock Creek Drive, Grand Prairie, TX 75050",
+      "phone": "972-606-1510",
+      "image": "https://cdn.findpawpal.com/office/635331.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mid-cities-humane-society-539325",
+      "name": "Mid-Cities Humane Society",
+      "address": "PO Box 540493, Grand Prairie, TX 75054",
+      "phone": "214-263-4567",
+      "image": "https://cdn.findpawpal.com/office/539325.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "texas-federation-of-humane-societies-478574",
+      "name": "Texas Federation of Humane Societies",
+      "address": "1225 Highway 161, Grand Prairie, TX 75051",
+      "phone": "972-237-8578",
+      "image": "https://cdn.findpawpal.com/office/478574.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "van-zandt-county-humane-society-524770",
+      "name": "Van Zandt County Humane Society",
+      "address": "PO Box 4, Grand Saline, TX 75140",
+      "phone": "903-962-5700",
+      "image": "https://cdn.findpawpal.com/office/524770.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "grapevine-animal-control-633616",
+      "name": "Grapevine Animal Control",
+      "address": "500 Shady Brook Drive, Grapevine, TX 76051",
+      "phone": "817-410-3370",
+      "image": "https://cdn.findpawpal.com/office/633616.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "north-texas-basset-hound-rescue-inc-494362",
+      "name": "North Texas Basset Hound Rescue, Inc.",
+      "address": "3064 High Ridge Drive, Grapevine, TX 76051",
+      "phone": "817-366-5649",
+      "image": "https://cdn.findpawpal.com/office/494362.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-greenville-animal-control-518637",
+      "name": "CIty of Greenville Animal Control",
+      "address": "5800 Joe Ramsey Boulevard North, Greenville, TX 75402",
+      "phone": "903-457-2990",
+      "image": "https://cdn.findpawpal.com/office/518637.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hunt-county-humane-society-524763",
+      "name": "Hunt County Humane Society",
+      "address": "4000 Spencer Street, Greenville, TX 75401",
+      "phone": "903-450-4680",
+      "image": "https://cdn.findpawpal.com/office/524763.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "yellow-rose-pet-rescue-674401",
+      "name": "Yellow Rose Pet Rescue",
+      "address": "4415 County Road 1152, Greenville, TX 75401",
+      "phone": "903-259-4678",
+      "image": "https://cdn.findpawpal.com/office/674401.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "straydog-inc-635135",
+      "name": "Straydog, Inc.",
+      "address": "PO Box 1465, Gun Barrel, TX 75147",
+      "phone": "903-479-3497",
+      "image": "https://cdn.findpawpal.com/office/635135.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "baraboo-roadside-rescue-retirement-ranch-478719",
+      "name": "Baraboo Roadside Rescue Retirement Ranch",
+      "address": "10215 Farm to Market 218, Hamilton, TX 76531",
+      "phone": "254-372-3987",
+      "image": "https://cdn.findpawpal.com/office/478719.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "harker-heights-animal-shelter-635609",
+      "name": "Harker Heights Animal Shelter",
+      "address": "403 Indian Trail, Harker Heights, TX 76548",
+      "phone": "254-953-5572",
+      "image": "https://cdn.findpawpal.com/office/635609.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cameron-county-health-department-animal-control-539391",
+      "name": "Cameron County Health Department Animal Control",
+      "address": "1122 Morgan Boulevard, Harlingen, TX 78550",
+      "phone": "817-222-1122",
+      "image": "https://cdn.findpawpal.com/office/539391.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-harlingen-674373",
+      "name": "Humane Society of Harlingen",
+      "address": "1106 Markowsky Avenue, Harlingen, TX 78550",
+      "phone": "956-425-7297",
+      "image": "https://cdn.findpawpal.com/office/674373.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-rio-grande-635382",
+      "name": "Humane Society of Rio Grande",
+      "address": "421 East Woodland Drive, Harlingen, TX 78550",
+      "phone": "254-699-7634",
+      "image": "https://cdn.findpawpal.com/office/635382.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lend-a-paw-518521",
+      "name": "Lend A Paw",
+      "address": "810 North 21st Street, Harlingen, TX 78550",
+      "phone": "956-440-7729",
+      "image": "https://cdn.findpawpal.com/office/518521.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lost-and-hound-pet-rescue-524142",
+      "name": "Lost and Hound Pet Rescue",
+      "address": "PO Box 1501, Hawkins, TX 75765",
+      "phone": "903-725-3186",
+      "image": "https://cdn.findpawpal.com/office/524142.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hearne-animal-control-519256",
+      "name": "Hearne Animal Control",
+      "address": "402 East 3rd Street, Hearne, TX 77859",
+      "phone": "979-279-3744",
+      "image": "https://cdn.findpawpal.com/office/519256.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "helotes-humane-society-702107",
+      "name": "Helotes Humane Society",
+      "address": "14398 Bandera Road, Helotes, TX 78023",
+      "phone": "210-422-6242",
+      "image": "https://cdn.findpawpal.com/office/702107.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "henderson-animal-shelter-518383",
+      "name": "Henderson Animal Shelter",
+      "address": "1201 Highland Drive, Henderson, TX 75652",
+      "phone": "903-657-7651",
+      "image": "https://cdn.findpawpal.com/office/518383.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "henderson-animal-shelter-674541",
+      "name": "Henderson Animal Shelter",
+      "address": "2257 U.s. 259, Henderson, TX 75654",
+      "phone": "903-657-7651",
+      "image": "https://cdn.findpawpal.com/office/674541.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clay-county-animal-shelter-479372",
+      "name": "Clay County Animal Shelter",
+      "address": "509 North Carroll Street, Henrietta, TX 76365",
+      "phone": "940-538-6757",
+      "image": "https://cdn.findpawpal.com/office/479372.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hereford-city-animal-control-525370",
+      "name": "Hereford City Animal Control",
+      "address": "212 Lee Avenue, Hereford, TX 79045",
+      "phone": "806-363-7127",
+      "image": "https://cdn.findpawpal.com/office/525370.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hewitt-animal-control-538961",
+      "name": "Hewitt Animal Control",
+      "address": "204 Chama Drive, Hewitt, TX 76643",
+      "phone": "254-666-6272",
+      "image": "https://cdn.findpawpal.com/office/538961.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hillsboro-animal-control-540141",
+      "name": "Hillsboro Animal Control",
+      "address": "303 North Waco Street, Hillsboro, TX 76645",
+      "phone": "254-582-2381",
+      "image": "https://cdn.findpawpal.com/office/540141.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "habitat-for-horses-537880",
+      "name": "Habitat For Horses",
+      "address": "6034 Terrebonne Road, Hitchcock, TX 77563",
+      "phone": "409-935-0277",
+      "image": "https://cdn.findpawpal.com/office/537880.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hondo-animal-control-479382",
+      "name": "Hondo Animal Control",
+      "address": "410 Disoway Road, Hondo, TX 78861",
+      "phone": "830-426-5353",
+      "image": "https://cdn.findpawpal.com/office/479382.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "adopt-a-cat-478820",
+      "name": "Adopt A Cat",
+      "address": "1401 Taft Street, Houston, TX 77019",
+      "phone": "713-523-0918",
+      "image": "https://cdn.findpawpal.com/office/478820.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-control-department-harris-county-sheriff-department-539444",
+      "name": "Animal Control Department Harris County Sheriff Department",
+      "address": "1307 Baker Street, Houston, TX 77002",
+      "phone": "713-454-7080",
+      "image": "https://cdn.findpawpal.com/office/539444.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "barc-animal-shelter-and-adoptions-674383",
+      "name": "BARC Animal Shelter & Adoptions",
+      "address": "3200 Carr Street, Houston, TX 77026",
+      "phone": "713-229-7300",
+      "image": "https://cdn.findpawpal.com/office/674383.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clear-lake-all-breed-rescue-537204",
+      "name": "Clear Lake All Breed Rescue",
+      "address": "PO Box 591270, Houston, TX 77259",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/537204.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "german-shepherd-dog-rescue-referral-of-houston-539447",
+      "name": "German Shepherd Dog Rescue Referral of Houston",
+      "address": "PO Box 8877, Houston, TX 77249",
+      "phone": "281-484-1737",
+      "image": "https://cdn.findpawpal.com/office/539447.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ginas-heart-of-gold-rescue-539471",
+      "name": "Gina's Heart of Gold Rescue",
+      "address": "9245 Opelika Street, Houston, TX 77080",
+      "phone": "713-329-9304",
+      "image": "https://cdn.findpawpal.com/office/539471.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greyhound-pets-of-america-478833",
+      "name": "Greyhound Pets of America",
+      "address": "5602 Royalton Street, Houston, TX 77081",
+      "phone": "713-667-3804",
+      "image": "https://cdn.findpawpal.com/office/478833.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "homeless-and-orphaned-pets-endeavor-702268",
+      "name": "Homeless & Orphaned Pets Endeavor",
+      "address": "2310 South Parkview Drive, Houston, TX 77084",
+      "phone": "713-622-4673",
+      "image": "https://cdn.findpawpal.com/office/702268.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "homeless-pet-placement-league-523683",
+      "name": "Homeless Pet Placement League",
+      "address": "PO Box 273027, Houston, TX 77277",
+      "phone": "713-862-7387",
+      "image": "https://cdn.findpawpal.com/office/523683.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "houston-animal-control-519299",
+      "name": "Houston Animal Control",
+      "address": "7747 Willow Mint Lane, Houston, TX 77086",
+      "phone": "832-602-5645",
+      "image": "https://cdn.findpawpal.com/office/519299.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "houston-animal-regulation-524724",
+      "name": "Houston Animal Regulation",
+      "address": "2700 Evella Street, Houston, TX 77026",
+      "phone": "713-238-9600",
+      "image": "https://cdn.findpawpal.com/office/524724.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "houston-animal-welfare-coalition-inc-478854",
+      "name": "Houston Animal Welfare Coalition, Inc.",
+      "address": "PO Box 721463, Houston, TX 77272",
+      "phone": "713-768-1332",
+      "image": "https://cdn.findpawpal.com/office/478854.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "houston-humane-society-674391",
+      "name": "Houston Humane Society",
+      "address": "14700 Almeda Road, Houston, TX 77053",
+      "phone": "713-433-6421",
+      "image": "https://cdn.findpawpal.com/office/674391.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "houston-spca-702269",
+      "name": "Houston SPCA",
+      "address": "900 Portway Drive, Houston, TX 77024",
+      "phone": "713-869-7722",
+      "image": "https://cdn.findpawpal.com/office/702269.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "its-all-about-love-635414",
+      "name": "It's All About Love",
+      "address": "1301 Walton Street, Houston, TX 77009",
+      "phone": "713-784-4120",
+      "image": "https://cdn.findpawpal.com/office/635414.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mr-ks-halfway-house-for-hounds-and-kitties-too-478040",
+      "name": "Mr. K's Halfway House for Hounds & Kitties Too",
+      "address": "9203 Jackrabbit Road, Houston, TX 77095",
+      "phone": "281-463-9884",
+      "image": "https://cdn.findpawpal.com/office/478040.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pets-are-wonderful-support-702147",
+      "name": "Pets Are Wonderful Support",
+      "address": "14900 Woodham Drive, Houston, TX 77073",
+      "phone": "281-443-3360",
+      "image": "https://cdn.findpawpal.com/office/702147.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "saving-animals-across-borders-537237",
+      "name": "Saving Animals Across Borders",
+      "address": "PO Box 130897, Houston, TX 77219",
+      "phone": "713-527-4490",
+      "image": "https://cdn.findpawpal.com/office/537237.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spay-neuter-assistance-program-633116",
+      "name": "Spay Neuter Assistance Program",
+      "address": "PO Box 70286, Houston, TX 77270",
+      "phone": "713-862-3863",
+      "image": "https://cdn.findpawpal.com/office/633116.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-zeke-fund-517648",
+      "name": "The Zeke Fund",
+      "address": "12121 Wickchester Lane, Houston, TX 77079",
+      "phone": "281-496-1249",
+      "image": "https://cdn.findpawpal.com/office/517648.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "twylas-friends-493357",
+      "name": "Twyla's Friends",
+      "address": "526 Kingwood Drive, Houston, TX 77339",
+      "phone": "281-319-1488",
+      "image": "https://cdn.findpawpal.com/office/493357.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "veterinary-public-health-538202",
+      "name": "Veterinary Public Health",
+      "address": "612 Canino Road, Houston, TX 77076",
+      "phone": "281-999-3191",
+      "image": "https://cdn.findpawpal.com/office/538202.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humble-animal-control-702352",
+      "name": "Humble Animal Control",
+      "address": "102 Granberry Street, Humble, TX 77338",
+      "phone": "281-446-2327",
+      "image": "https://cdn.findpawpal.com/office/702352.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pals-for-pooches-493345",
+      "name": "Pal's For Pooches",
+      "address": "813 1st Street East, Humble, TX 77338",
+      "phone": "281-548-7166",
+      "image": "https://cdn.findpawpal.com/office/493345.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "huntsville-animal-control-494885",
+      "name": "Huntsville Animal Control",
+      "address": "1220 11th Street, Huntsville, TX 77340",
+      "phone": "936-291-5480",
+      "image": "https://cdn.findpawpal.com/office/494885.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rita-b-huff-humane-society-539422",
+      "name": "Rita B. Huff Humane Society",
+      "address": "580 Bear Kat Boulevard, Huntsville, TX 77340",
+      "phone": "936-295-4666",
+      "image": "https://cdn.findpawpal.com/office/539422.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "great-dane-rescue-of-north-texas-inc-478914",
+      "name": "Great Dane Rescue of North Texas, Inc.",
+      "address": "PO Box 54601, Hurst, TX 76054",
+      "phone": "817-651-2336",
+      "image": "https://cdn.findpawpal.com/office/478914.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hurst-animal-control-538310",
+      "name": "Hurst Animal Control",
+      "address": "2001 Precinct Line Road, Hurst, TX 76054",
+      "phone": "817-788-7216",
+      "image": "https://cdn.findpawpal.com/office/538310.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lone-star-kitties-and-kanines-635186",
+      "name": "Lone Star Kitties and Kanines",
+      "address": "PO Box 432, Hurst, TX 76053",
+      "phone": "817-876-7476",
+      "image": "https://cdn.findpawpal.com/office/635186.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dorothy-h-oconnor-pet-adoption-center-702212",
+      "name": "Dorothy H. O'Connor Pet Adoption Center",
+      "address": "135 Progress Drive, Inez, TX 77968",
+      "phone": "361-575-8573",
+      "image": "https://cdn.findpawpal.com/office/702212.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ingleside-animal-control-633634",
+      "name": "Ingleside Animal Control",
+      "address": "2078 Tiner Lane, Ingleside, TX 78362",
+      "phone": "361-775-0154",
+      "image": "https://cdn.findpawpal.com/office/633634.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-animal-rescue-team-702120",
+      "name": "Humane Animal Rescue Team",
+      "address": "PO Box 153293, Irving, TX 75015",
+      "phone": "214-332-9535",
+      "image": "https://cdn.findpawpal.com/office/702120.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-irving-633339",
+      "name": "Humane Society of Irving",
+      "address": "1611 West Irving Boulevard, Irving, TX 75061",
+      "phone": "972-253-3333",
+      "image": "https://cdn.findpawpal.com/office/633339.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "irving-animal-shelter-539682",
+      "name": "Irving Animal Shelter",
+      "address": "128 North Briery Road, Irving, TX 75061",
+      "phone": "972-721-2262",
+      "image": "https://cdn.findpawpal.com/office/539682.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-angels-rescue-and-rehab-633364",
+      "name": "Animal Angels Rescue and Rehab",
+      "address": "290 Knowlton Road, Jacksboro, TX 76458",
+      "phone": "940-567-3252",
+      "image": "https://cdn.findpawpal.com/office/633364.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jacksboro-animal-shelter-538056",
+      "name": "Jacksboro Animal Shelter",
+      "address": "1310 U.s. 380, Jacksboro, TX 76458",
+      "phone": "940-507-2165",
+      "image": "https://cdn.findpawpal.com/office/538056.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-shelter-jacksonville-635497",
+      "name": "Animal Shelter Jacksonville",
+      "address": "805 Woodlawn Avenue, Jacksonville, TX 75766",
+      "phone": "903-586-9723",
+      "image": "https://cdn.findpawpal.com/office/635497.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "midnights-journey-inc-524092",
+      "name": "Midnight's Journey, Inc.",
+      "address": "PO Box 394, Jarrell, TX 76537",
+      "phone": "512-876-7081",
+      "image": "https://cdn.findpawpal.com/office/524092.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-jasper-county-517704",
+      "name": "Humane Society of Jasper County",
+      "address": "1546 Farm to Market Road 3414, Jasper, TX 75951",
+      "phone": "409-384-8167",
+      "image": "https://cdn.findpawpal.com/office/517704.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jasper-animal-rescue-702158",
+      "name": "Jasper Animal Rescue",
+      "address": "245 South Peachtree Street, Jasper, TX 75951",
+      "phone": "409-384-9094",
+      "image": "https://cdn.findpawpal.com/office/702158.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "joshua-city-animal-shelter-540151",
+      "name": "Joshua City Animal Shelter",
+      "address": "100 Santa Fe Street, Joshua, TX 76058",
+      "phone": "817-774-9450",
+      "image": "https://cdn.findpawpal.com/office/540151.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "junction-animal-shelter-479392",
+      "name": "Junction Animal Shelter",
+      "address": "1596 E Ranch Road 2169, Junction, TX 76849",
+      "phone": "325-446-9066",
+      "image": "https://cdn.findpawpal.com/office/479392.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "katy-animal-control-525418",
+      "name": "Katy Animal Control",
+      "address": "25839 Katy Fwy, Katy, TX 77494",
+      "phone": "281-391-4740",
+      "image": "https://cdn.findpawpal.com/office/525418.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "south-texas-animal-adoption-resource-635213",
+      "name": "South Texas Animal Adoption Resource",
+      "address": "PO Box 6575, Katy, TX 77491",
+      "phone": "281-392-0927",
+      "image": "https://cdn.findpawpal.com/office/635213.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "keene-city-animal-control-479413",
+      "name": "Keene City Animal Control",
+      "address": "101 North Mockingbird Lane, Keene, TX 76059",
+      "phone": "817-641-7831",
+      "image": "https://cdn.findpawpal.com/office/479413.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dharma-donkey-sanctuary-674429",
+      "name": "Dharma Donkey Sanctuary",
+      "address": "1875 Ottinger Road, Keller, TX 76262",
+      "phone": "817-379-0969",
+      "image": "https://cdn.findpawpal.com/office/674429.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "keller-animal-control-517893",
+      "name": "Keller Animal Control",
+      "address": "PO Box 770, Keller, TX 76244",
+      "phone": "817-431-1510",
+      "image": "https://cdn.findpawpal.com/office/517893.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "keller-animal-shelter-525426",
+      "name": "Keller Animal Shelter",
+      "address": "330 Rufe Snow Drive, Keller, TX 76248",
+      "phone": "817-743-4516",
+      "image": "https://cdn.findpawpal.com/office/525426.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "along-the-road-home-517753",
+      "name": "Along The Road Home",
+      "address": "PO Box 49, Kempner, TX 76539",
+      "phone": "512-556-4662",
+      "image": "https://cdn.findpawpal.com/office/517753.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kathys-kitties-633151",
+      "name": "Kathy's Kitties",
+      "address": "2910 Poplar Drive, Kempner, TX 76539",
+      "phone": "254-681-9784",
+      "image": "https://cdn.findpawpal.com/office/633151.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kennedale-animal-control-674556",
+      "name": "Kennedale Animal Control",
+      "address": "401 Municipal Drive, Kennedale, TX 76060",
+      "phone": "817-985-2163",
+      "image": "https://cdn.findpawpal.com/office/674556.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kermit-city-water-office-538909",
+      "name": "Kermit City Water Office",
+      "address": "110 South Tornillo Street, Kermit, TX 79745",
+      "phone": "432-586-3468",
+      "image": "https://cdn.findpawpal.com/office/538909.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tiny-paws-rescue-adoption-633243",
+      "name": "Tiny PAWS Rescue Adoption",
+      "address": "804 Jeffee Drive, Kermit, TX 79745",
+      "phone": "432-288-2623",
+      "image": "https://cdn.findpawpal.com/office/633243.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-welfare-society-of-kerr-county-539342",
+      "name": "Animal Welfare Society of Kerr County",
+      "address": "515 Spur 100, Kerrville, TX 78028",
+      "phone": "830-257-7821",
+      "image": "https://cdn.findpawpal.com/office/539342.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-kerrville-674361",
+      "name": "Humane Society of Kerrville",
+      "address": "2900 Junction Highway, Kerrville, TX 78028",
+      "phone": "830-895-2700",
+      "image": "https://cdn.findpawpal.com/office/674361.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kerr-county-animal-shelter-494134",
+      "name": "Kerr County Animal Shelter",
+      "address": "3317 Route 534 Loop, Kerrville, TX 78028",
+      "phone": "830-257-3100",
+      "image": "https://cdn.findpawpal.com/office/494134.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kerrville-animal-control-540189",
+      "name": "Kerrville Animal Control",
+      "address": "409 Mill Run, Kerrville, TX 78028",
+      "phone": "830-896-6535",
+      "image": "https://cdn.findpawpal.com/office/540189.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "killeen-animal-control-shelter-702270",
+      "name": "Killeen Animal Control Shelter",
+      "address": "3118 Commerce Drive, Killeen, TX 76543",
+      "phone": "254-526-4455",
+      "image": "https://cdn.findpawpal.com/office/702270.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "volunteers-for-animal-protection-538473",
+      "name": "Volunteers for Animal Protection",
+      "address": "PO Box 5266, Kingwood, TX 77325",
+      "phone": "281-358-9818",
+      "image": "https://cdn.findpawpal.com/office/538473.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kountze-animal-control-635634",
+      "name": "Kountze Animal Control",
+      "address": "1025 North Pine Street, Kountze, TX 77625",
+      "phone": "409-246-2704",
+      "image": "https://cdn.findpawpal.com/office/635634.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kyle-animal-control-479423",
+      "name": "Kyle Animal Control",
+      "address": "500 East Fm 150, Kyle, TX 78640",
+      "phone": "512-268-0859",
+      "image": "https://cdn.findpawpal.com/office/479423.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fayette-county-animal-shelter-540192",
+      "name": "Fayette County Animal Shelter",
+      "address": "240 Svoboda Lane, La Grange, TX 78945",
+      "phone": "979-966-0021",
+      "image": "https://cdn.findpawpal.com/office/540192.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "galveston-county-animal-control-540196",
+      "name": "Galveston County Animal Control",
+      "address": "1205 South Oak Street, La Marque, TX 77568",
+      "phone": "409-948-2485",
+      "image": "https://cdn.findpawpal.com/office/540196.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "la-porte-animal-control-674561",
+      "name": "LA Porte Animal Control",
+      "address": "1201 South 4th Street, La Porte, TX 77571",
+      "phone": "281-842-3700",
+      "image": "https://cdn.findpawpal.com/office/674561.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lago-vista-paws-inc-674295",
+      "name": "Lago Vista Paws Inc",
+      "address": "20803 Farm to Market Road 1431, Lago Vista, TX 78645",
+      "phone": "512-267-6876",
+      "image": "https://cdn.findpawpal.com/office/674295.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hickory-creek-animal-shelter-633626",
+      "name": "Hickory Creek Animal Shelter",
+      "address": "970 Main Street, Lake Dallas, TX 75065",
+      "phone": "940-465-7444",
+      "image": "https://cdn.findpawpal.com/office/633626.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lake-dallas-animal-control-540199",
+      "name": "Lake Dallas Animal Control",
+      "address": "687 North Lakeview Drive, Lake Dallas, TX 75065",
+      "phone": "940-497-7090",
+      "image": "https://cdn.findpawpal.com/office/540199.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brazoria-county-spca-477815",
+      "name": "Brazoria County SPCA",
+      "address": "141 Canna Lane, Lake Jackson, TX 77566",
+      "phone": "409-849-6900",
+      "image": "https://cdn.findpawpal.com/office/477815.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spca-of-brazoria-county-702109",
+      "name": "SPCA of Brazoria County",
+      "address": "141 Canna Lane, Lake Jackson, TX 77566",
+      "phone": "979-285-2340",
+      "image": "https://cdn.findpawpal.com/office/702109.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lake-worth-animal-shelter-723297",
+      "name": "Lake Worth Animal Shelter",
+      "address": ", Lake Worth, TX 76135",
+      "phone": "817-238-8738",
+      "image": "https://cdn.findpawpal.com/office/723297.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bandera-county-animal-control-525157",
+      "name": "Bandera County Animal Control",
+      "address": "535 Leibold Ranch Road, Lakehills, TX 78063",
+      "phone": "830-751-2595",
+      "image": "https://cdn.findpawpal.com/office/525157.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "la-mesa-spca-702125",
+      "name": "La Mesa SPCA",
+      "address": "PO Box 42, Lamesa, TX 79331",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/702125.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lampasas-animal-shelter-519352",
+      "name": "Lampasas Animal Shelter",
+      "address": "301 College Street, Lampasas, TX 76550",
+      "phone": "512-556-8586",
+      "image": "https://cdn.findpawpal.com/office/519352.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lancaster-city-animal-control-633649",
+      "name": "Lancaster City Animal Control",
+      "address": "700 East Main Street, Lancaster, TX 75146",
+      "phone": "972-218-1200",
+      "image": "https://cdn.findpawpal.com/office/633649.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "laredo-animal-control-702361",
+      "name": "Laredo Animal Control",
+      "address": "2600 Cedar Avenue, Laredo, TX 78040",
+      "phone": "956-795-2485",
+      "image": "https://cdn.findpawpal.com/office/702361.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "laredo-animal-protective-socty-635394",
+      "name": "Laredo Animal Protective Socty",
+      "address": "2500 Gonzalez Street, Laredo, TX 78040",
+      "phone": "956-724-8364",
+      "image": "https://cdn.findpawpal.com/office/635394.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "league-city-animal-control-518288",
+      "name": "League City Animal Control",
+      "address": "500 West Walker Street, League, TX 77573",
+      "phone": "281-332-2566",
+      "image": "https://cdn.findpawpal.com/office/518288.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-pets-633097",
+      "name": "Second Chance Pets",
+      "address": "PO Box 1216, League, TX 77574",
+      "phone": "281-286-3535",
+      "image": "https://cdn.findpawpal.com/office/633097.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tortuga-haven-houstontexas-702139",
+      "name": "Tortuga Haven Houstontexas",
+      "address": "PO Box 2786, League, TX 77574",
+      "phone": "832-268-0386",
+      "image": "https://cdn.findpawpal.com/office/702139.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "central-texas-spca-702194",
+      "name": "Central Texas SPCA",
+      "address": "909 South Bagdad Road, Leander, TX 78641",
+      "phone": "512-260-7722",
+      "image": "https://cdn.findpawpal.com/office/702194.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "collie-rescue-austin-537624",
+      "name": "Collie Rescue Austin",
+      "address": "PO Box 1039, Leander, TX 78646",
+      "phone": "512-515-5494",
+      "image": "https://cdn.findpawpal.com/office/537624.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "texas-humane-heroes-635224",
+      "name": "Texas Humane Heroes",
+      "address": "10930 East Crystal Falls Parkway, Leander, TX 78641",
+      "phone": "512-260-3602",
+      "image": "https://cdn.findpawpal.com/office/635224.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wendy-meadows-538899",
+      "name": "Wendy Meadows",
+      "address": "304 Frio Lane, Leander, TX 78641",
+      "phone": "512-415-6223",
+      "image": "https://cdn.findpawpal.com/office/538899.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "safe-harbor-foundation-633090",
+      "name": "Safe Harbor Foundation",
+      "address": "801 Flanagan Road, Leonard, TX 75452",
+      "phone": "888-613-2266",
+      "image": "https://cdn.findpawpal.com/office/633090.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-francis-674178",
+      "name": "Friends of Francis",
+      "address": "PO Box 495, Levelland, TX 79336",
+      "phone": "806-894-3663",
+      "image": "https://cdn.findpawpal.com/office/674178.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-league-702126",
+      "name": "Animal Rescue League",
+      "address": "PO Box 294375, Lewisville, TX 75029",
+      "phone": "972-420-0641",
+      "image": "https://cdn.findpawpal.com/office/702126.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "basenji-rescue-and-transport-702285",
+      "name": "Basenji Rescue and Transport",
+      "address": "200 Brown Cliff Court, Lewisville, TX 75077",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/702285.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hound-haven-inc-702289",
+      "name": "Hound Haven, Inc.",
+      "address": "1410 Dogwood Trail, Lewisville, TX 75067",
+      "phone": "214-315-3287",
+      "image": "https://cdn.findpawpal.com/office/702289.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-lewisville-537109",
+      "name": "Humane Society of Lewisville",
+      "address": "421 South Mill Street, Lewisville, TX 75057",
+      "phone": "972-353-4840",
+      "image": "https://cdn.findpawpal.com/office/537109.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lewisville-animal-control-494727",
+      "name": "Lewisville Animal Control",
+      "address": "995 Valley Ridge Boulevard, Lewisville, TX 75057",
+      "phone": "972-219-3478",
+      "image": "https://cdn.findpawpal.com/office/494727.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "save-the-animals-rescue-society-538381",
+      "name": "Save The Animals Rescue Society",
+      "address": "1079 West Round Grove Road, Lewisville, TX 75067",
+      "phone": "972-459-9181",
+      "image": "https://cdn.findpawpal.com/office/538381.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "liberty-animal-control-479261",
+      "name": "Liberty Animal Control",
+      "address": "1916 Lakeland Drive, Liberty, TX 77575",
+      "phone": "936-336-5666",
+      "image": "https://cdn.findpawpal.com/office/479261.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wise-equine-sanctuary-of-texas-west-494419",
+      "name": "Wise Equine Sanctuary of Texas West",
+      "address": "PO Box 4, Lillian, TX 76061",
+      "phone": "214-789-8491",
+      "image": "https://cdn.findpawpal.com/office/494419.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "little-elm-animal-shelter-633578",
+      "name": "Little Elm Animal Shelter",
+      "address": "1104 West Eldorado Parkway, Little Elm, TX 75068",
+      "phone": "214-975-0400",
+      "image": "https://cdn.findpawpal.com/office/633578.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "noahs-ark-bayou-sanctuary-rescue-536916",
+      "name": "Noah's Ark Bayou Sanctuary Rescue",
+      "address": "PO Box 307, Liverpool, TX 77577",
+      "phone": "281-330-5238",
+      "image": "https://cdn.findpawpal.com/office/536916.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "polk-county-humane-society-493566",
+      "name": "Polk County Humane Society",
+      "address": "PO Box 657, Livingston, TX 77351",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/493566.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spca-of-polk-county-635372",
+      "name": "SPCA of Polk County",
+      "address": "802 South Houston Avenue, Livingston, TX 77351",
+      "phone": "936-327-7722",
+      "image": "https://cdn.findpawpal.com/office/635372.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "llano-city-animal-control-702333",
+      "name": "Llano City Animal Control",
+      "address": "123 Robinson Park Drive, Llano, TX 78643",
+      "phone": "325-247-5767",
+      "image": "https://cdn.findpawpal.com/office/702333.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "caldwell-county-humane-society-539063",
+      "name": "Caldwell County Humane Society",
+      "address": "110 South Medina Street, Lockhart, TX 78644",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/539063.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lockhart-animal-shelter-494736",
+      "name": "Lockhart Animal Shelter",
+      "address": "547 Old McMahan Trail, Lockhart, TX 78644",
+      "phone": "512-376-3336",
+      "image": "https://cdn.findpawpal.com/office/494736.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-ne-texas-702142",
+      "name": "Humane Society of NE Texas",
+      "address": "303 Enterprise Street, Longview, TX 75604",
+      "phone": "903-297-2170",
+      "image": "https://cdn.findpawpal.com/office/702142.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "longview-animal-control-702334",
+      "name": "Longview Animal Control",
+      "address": "410 South High Street, Longview, TX 75601",
+      "phone": "903-237-1290",
+      "image": "https://cdn.findpawpal.com/office/702334.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lubbock-animal-control-674516",
+      "name": "Lubbock Animal Control",
+      "address": "401 North Ash Avenue, Lubbock, TX 79403",
+      "phone": "806-775-2057",
+      "image": "https://cdn.findpawpal.com/office/674516.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "west-texas-chow-chow-rescue-635144",
+      "name": "West Texas Chow Chow Rescue",
+      "address": "1850 Farm to Market Road 2130, Lubbock, TX 79407",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/635144.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "berry-winnie-pet-adoption-center-635244",
+      "name": "Berry Winnie Pet Adoption Center",
+      "address": "1102 North John Redditt Drive, Lufkin, TX 75904",
+      "phone": "936-639-1880",
+      "image": "https://cdn.findpawpal.com/office/635244.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-lufkin-humane-society-493768",
+      "name": "City of Lufkin Humane Society",
+      "address": "3306 Martin Luther King Junior Boulevard, Lufkin, TX 75904",
+      "phone": "407-633-0218",
+      "image": "https://cdn.findpawpal.com/office/493768.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lufkin-animal-control-479269",
+      "name": "Lufkin Animal Control",
+      "address": "1901 Hill Street, Lufkin, TX 75904",
+      "phone": "936-633-0218",
+      "image": "https://cdn.findpawpal.com/office/479269.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "texas-state-animal-control-540004",
+      "name": "Texas State Animal Control",
+      "address": "251 Smith Farm Road, Lufkin, TX 75904",
+      "phone": "936-875-3900",
+      "image": "https://cdn.findpawpal.com/office/540004.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lytle-animal-control-525265",
+      "name": "Lytle Animal Control",
+      "address": "14916 Main Street, Lytle, TX 78052",
+      "phone": "830-709-3692",
+      "image": "https://cdn.findpawpal.com/office/525265.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "adopt-a-foal-and-equine-rescue-inc-674277",
+      "name": "Adopt A Foal & Equine Rescue, Inc.",
+      "address": "310 Ruel Lane, Magnolia, TX 77355",
+      "phone": "281-356-6644",
+      "image": "https://cdn.findpawpal.com/office/674277.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ferret-waystation-shelter-rescue-478508",
+      "name": "Ferret Waystation Shelter Rescue",
+      "address": "513 Sendero Verde Street, Manchaca, TX 78652",
+      "phone": "512-636-5640",
+      "image": "https://cdn.findpawpal.com/office/478508.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "austin-german-shepherd-rescue-493654",
+      "name": "Austin German Shepherd Rescue",
+      "address": "PO Box 339, Manor, TX 78653",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/493654.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "crowes-nest-farm-inc-633283",
+      "name": "Crowes Nest Farm Inc",
+      "address": "10300 Taylor Lane, Manor, TX 78653",
+      "phone": "512-272-4418",
+      "image": "https://cdn.findpawpal.com/office/633283.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mansfield-animal-care-and-control-524818",
+      "name": "Mansfield Animal Care and Control",
+      "address": "407 Industrial Boulevard, Mansfield, TX 76063",
+      "phone": "817-276-4799",
+      "image": "https://cdn.findpawpal.com/office/524818.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "christ-yoder-animal-shelter-adoption-center-633427",
+      "name": "Christ-Yoder Animal Shelter Adoption Center",
+      "address": "PO Box 1041, Marble Falls, TX 78654",
+      "phone": "512-793-5463",
+      "image": "https://cdn.findpawpal.com/office/633427.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "marble-falls-animal-control-479278",
+      "name": "Marble Falls Animal Control",
+      "address": "209 Main Street, Marble Falls, TX 78654",
+      "phone": "830-693-3611",
+      "image": "https://cdn.findpawpal.com/office/479278.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "united-yorkie-rescue-inc-524614",
+      "name": "United Yorkie Rescue, Inc.",
+      "address": "204 West Krueger Street, Marion, TX 78124",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/524614.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-harrison-county-478784",
+      "name": "Humane Society of Harrison County",
+      "address": "PO Box 155, Marshall, TX 75671",
+      "phone": "903-938-7543",
+      "image": "https://cdn.findpawpal.com/office/478784.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mathis-animal-shelter-519168",
+      "name": "Mathis Animal Shelter",
+      "address": "9600 Farm to Market 3377, Mathis, TX 78368",
+      "phone": "361-547-4207",
+      "image": "https://cdn.findpawpal.com/office/519168.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cherokee-humane-society-493094",
+      "name": "Cherokee Humane Society",
+      "address": "PO Box 144, Maydelle, TX 75772",
+      "phone": "903-683-5753",
+      "image": "https://cdn.findpawpal.com/office/493094.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mc-allen-animal-control-635584",
+      "name": "MC Allen Animal Control",
+      "address": "1601 North Bicentennial Boulevard, McAllen, TX 78501",
+      "phone": "956-681-2124",
+      "image": "https://cdn.findpawpal.com/office/635584.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mccamey-animal-control-478334",
+      "name": "Mccamey Animal Control",
+      "address": "PO Box 1571, McCamey, TX 79752",
+      "phone": "432-693-6618",
+      "image": "https://cdn.findpawpal.com/office/478334.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "collin-county-animal-services-633439",
+      "name": "Collin County Animal Services",
+      "address": "4750 Community Boulevard, McKinney, TX 75071",
+      "phone": "972-547-7292",
+      "image": "https://cdn.findpawpal.com/office/633439.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "utopia-animal-rescue-ranch-674619",
+      "name": "Utopia Animal Rescue Ranch",
+      "address": "Echo Hill Road, Medina, TX 78055",
+      "phone": "830-589-7544",
+      "image": "https://cdn.findpawpal.com/office/674619.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mercedes-animal-control-702338",
+      "name": "Mercedes Animal Control",
+      "address": "105 North Ohio Avenue, Mercedes, TX 78570",
+      "phone": "956-565-9472",
+      "image": "https://cdn.findpawpal.com/office/702338.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-mesquite-animal-shelter-539188",
+      "name": "City of Mesquite Animal Shelter",
+      "address": "1515 North Galloway Avenue, Mesquite, TX 75149",
+      "phone": "972-216-6283",
+      "image": "https://cdn.findpawpal.com/office/539188.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "safer-stray-and-feral-rescue-518352",
+      "name": "Safer-Stray and Feral Rescue",
+      "address": "2316 Becard Drive, Mesquite, TX 75181",
+      "phone": "972-222-5508",
+      "image": "https://cdn.findpawpal.com/office/518352.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mexia-city-animal-control-479287",
+      "name": "Mexia City Animal Control",
+      "address": "211 North Sherman Street, Mexia, TX 76667",
+      "phone": "254-562-4100",
+      "image": "https://cdn.findpawpal.com/office/479287.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-permian-basin-494484",
+      "name": "Humane Society Permian Basin",
+      "address": "3917 West Wall Street, Midland, TX 79703",
+      "phone": "915-689-0999",
+      "image": "https://cdn.findpawpal.com/office/494484.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "midland-animal-control-633596",
+      "name": "Midland Animal Control",
+      "address": "1200 North Fairgrounds Road, Midland, TX 79706",
+      "phone": "432-685-7420",
+      "image": "https://cdn.findpawpal.com/office/633596.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "midland-spca-635484",
+      "name": "Midland Spca",
+      "address": "2701 South County Road 1206, Midland, TX 79706",
+      "phone": "432-684-7582",
+      "image": "https://cdn.findpawpal.com/office/635484.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "midlothian-city-animal-control-674524",
+      "name": "Midlothian City Animal Control",
+      "address": "1070 N Highway 67, Midlothian, TX 76065",
+      "phone": "972-775-3802",
+      "image": "https://cdn.findpawpal.com/office/674524.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "green-chicken-valley-674431",
+      "name": "Green Chicken Valley",
+      "address": "2210 Telephone Rd, Milam, TX 75959",
+      "phone": "409-625-4013",
+      "image": "https://cdn.findpawpal.com/office/674431.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "texas-burro-rescue-633501",
+      "name": "Texas Burro Rescue",
+      "address": "200 Ww Lane, Millsap, TX 76066",
+      "phone": "817-903-5336",
+      "image": "https://cdn.findpawpal.com/office/633501.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mineola-animal-shelter-633598",
+      "name": "Mineola Animal Shelter",
+      "address": "1000 Baker Street, Mineola, TX 75773",
+      "phone": "903-569-2252",
+      "image": "https://cdn.findpawpal.com/office/633598.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pound-pals-674269",
+      "name": "Pound Pals",
+      "address": "PO Box 591, Mineola, TX 75773",
+      "phone": "903-530-0266",
+      "image": "https://cdn.findpawpal.com/office/674269.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mineral-wells-animal-shelter-537775",
+      "name": "Mineral Wells Animal Shelter",
+      "address": "101 Fm 2256, Mineral Wells, TX 76067",
+      "phone": "940-328-1491",
+      "image": "https://cdn.findpawpal.com/office/537775.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "south-texas-animal-sanctuary-494202",
+      "name": "South Texas Animal Sanctuary",
+      "address": "1505 North Conway Avenue, Mission, TX 78572",
+      "phone": "956-969-5989",
+      "image": "https://cdn.findpawpal.com/office/494202.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "missouri-city-animal-control-538866",
+      "name": "Missouri City Animal Control",
+      "address": "1923 Scanlin Road, Missouri, TX 77489",
+      "phone": "281-403-8707",
+      "image": "https://cdn.findpawpal.com/office/538866.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "reptile-and-small-animal-rescue-of-texas-702290",
+      "name": "Reptile and Small Animal Rescue of Texas",
+      "address": "806 Hyacinth Place, Missouri, TX 77459",
+      "phone": "281-261-2645",
+      "image": "https://cdn.findpawpal.com/office/702290.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mont-belvieu-animal-control-519205",
+      "name": "Mont Belvieu Animal Control",
+      "address": "11607 Eagle Drive, Mont Belvieu, TX 77580",
+      "phone": "281-576-2417",
+      "image": "https://cdn.findpawpal.com/office/519205.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "texas-great-pyrenees-rescue-group-538991",
+      "name": "Texas Great Pyrenees Rescue Group",
+      "address": "13124 Ranchette Road, Montgomery, TX 77356",
+      "phone": "877-746-9508",
+      "image": "https://cdn.findpawpal.com/office/538991.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "southern-hill-county-animal-control-674528",
+      "name": "Southern Hill County Animal Control",
+      "address": "1418 Hcr 3254, Mount Calm, TX 76673",
+      "phone": "254-855-3779",
+      "image": "https://cdn.findpawpal.com/office/674528.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mount-pleasant-animal-control-633297",
+      "name": "Mount Pleasant Animal Control",
+      "address": "1500 Mulberry Street, Mount Pleasant, TX 75455",
+      "phone": "903-575-4174",
+      "image": "https://cdn.findpawpal.com/office/633297.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mt-vernon-animal-control-519207",
+      "name": "Mt Vernon Animal Control",
+      "address": "109 North Kaufman Street, Mount Vernon, TX 75457",
+      "phone": "903-537-7155",
+      "image": "https://cdn.findpawpal.com/office/519207.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "black-beauty-ranch-517653",
+      "name": "Black Beauty Ranch",
+      "address": "12526 County Road 3806, Murchison, TX 75778",
+      "phone": "903-469-3482",
+      "image": "https://cdn.findpawpal.com/office/517653.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "murphy-animal-shelter-633606",
+      "name": "Murphy Animal Shelter",
+      "address": "203 North Murphy Road, Murphy, TX 75094",
+      "phone": "972-468-4226",
+      "image": "https://cdn.findpawpal.com/office/633606.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-animal-shelter-635161",
+      "name": "City Animal Shelter",
+      "address": "PO Box 648, Nacogdoches, TX 75961",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/635161.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "nacogdoches-animal-shelter-537402",
+      "name": "Nacogdoches Animal Shelter",
+      "address": "3211 Southwest Stallings Drive, Nacogdoches, TX 75964",
+      "phone": "936-560-5011",
+      "image": "https://cdn.findpawpal.com/office/537402.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "nacogdoches-county-humane-society-702169",
+      "name": "Nacogdoches County Humane Society",
+      "address": "PO Box 631244, Nacogdoches, TX 75963",
+      "phone": "409-569-7272",
+      "image": "https://cdn.findpawpal.com/office/702169.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "navasota-animal-control-702296",
+      "name": "Navasota Animal Control",
+      "address": "PO Box 910, Navasota, TX 77868",
+      "phone": "409-825-6641",
+      "image": "https://cdn.findpawpal.com/office/702296.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-horse-refuge-674111",
+      "name": "Second Chance Horse Refuge",
+      "address": "11321 Morgan Dr, Nevada, TX 75173",
+      "phone": "972-843-2100",
+      "image": "https://cdn.findpawpal.com/office/674111.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-boston-animal-control-519212",
+      "name": "New Boston Animal Control",
+      "address": "301 Northeast Front Street, New Boston, TX 75570",
+      "phone": "903-628-7881",
+      "image": "https://cdn.findpawpal.com/office/519212.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-animal-shelter-539294",
+      "name": "Humane Society Animal Shelter",
+      "address": "1920 Kuehler Avenue, New Braunfels, TX 78130",
+      "phone": "830-629-5287",
+      "image": "https://cdn.findpawpal.com/office/539294.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "shelterme4ever-538025",
+      "name": "Shelterme4ever",
+      "address": "28450 Countryside Drive, New Braunfels, TX 78132",
+      "phone": "830-214-3307",
+      "image": "https://cdn.findpawpal.com/office/538025.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "north-richland-hills-animal-services-633453",
+      "name": "North Richland Hills Animal Services",
+      "address": "7200 Dick Fisher Drive North, North Richland Hills, TX 76180",
+      "phone": "817-581-5674",
+      "image": "https://cdn.findpawpal.com/office/633453.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ector-county-humane-society-477977",
+      "name": "Ector County Humane Society",
+      "address": "1902 North County Road West, Odessa, TX 79763",
+      "phone": "915-337-7387",
+      "image": "https://cdn.findpawpal.com/office/477977.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-odessa-633080",
+      "name": "Humane Society of Odessa",
+      "address": "7012 West Mockingbird Lane, Odessa, TX 79763",
+      "phone": "432-381-5503",
+      "image": "https://cdn.findpawpal.com/office/633080.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "odessa-animal-control-538646",
+      "name": "Odessa Animal Control",
+      "address": "910 West 42nd Street, Odessa, TX 79764",
+      "phone": "432-368-3526",
+      "image": "https://cdn.findpawpal.com/office/538646.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "odessa-department-of-animal-control-702135",
+      "name": "Odessa Department of Animal Control",
+      "address": "PO Box 4398, Odessa, TX 79760",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/702135.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-cat-rescue-haven-house-493253",
+      "name": "PAWS Cat Rescue Haven House",
+      "address": "401 East 61st Street, Odessa, TX 79762",
+      "phone": "432-366-1030",
+      "image": "https://cdn.findpawpal.com/office/493253.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "olmito-animal-control-702319",
+      "name": "Olmito Animal Control",
+      "address": "416 Farm to Market Road 511, Olmito, TX 78575",
+      "phone": "956-544-7351",
+      "image": "https://cdn.findpawpal.com/office/702319.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "orange-city-animal-shelter-674486",
+      "name": "Orange City Animal Shelter",
+      "address": "806 Simmons Drive, Orange, TX 77630",
+      "phone": "409-883-1056",
+      "image": "https://cdn.findpawpal.com/office/674486.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "orange-county-humane-society-674217",
+      "name": "Orange County Humane Society",
+      "address": "PO Box 394, Orange, TX 77632",
+      "phone": "409-746-3836",
+      "image": "https://cdn.findpawpal.com/office/674217.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "barc-the-humane-society-539305",
+      "name": "BARC The Humane Society",
+      "address": "335 Armory Road, Palestine, TX 75803",
+      "phone": "903-729-8074",
+      "image": "https://cdn.findpawpal.com/office/539305.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "panhandle-animal-shelter-525126",
+      "name": "Panhandle Animal Shelter",
+      "address": "119 Euclid Avenue, Panhandle, TX 79068",
+      "phone": "806-537-5393",
+      "image": "https://cdn.findpawpal.com/office/525126.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lamar-county-humane-association-478145",
+      "name": "Lamar County Humane Association",
+      "address": "1710 34th Street Northeast, Paris, TX 75462",
+      "phone": "903-784-6774",
+      "image": "https://cdn.findpawpal.com/office/478145.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paris-animal-shelter-674195",
+      "name": "Paris Animal Shelter",
+      "address": "310 Clement Road, Paris, TX 75460",
+      "phone": "903-784-6860",
+      "image": "https://cdn.findpawpal.com/office/674195.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pasadena-animal-shelter-633550",
+      "name": "Pasadena Animal Shelter",
+      "address": "5150 Burke Road, Pasadena, TX 77504",
+      "phone": "281-991-0602",
+      "image": "https://cdn.findpawpal.com/office/633550.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-pearland-animal-control-517319",
+      "name": "City-Pearland Animal Control",
+      "address": "2002 Old Alvin Road, Pearland, TX 77581",
+      "phone": "281-652-1970",
+      "image": "https://cdn.findpawpal.com/office/517319.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-forgotten-pet-advocates-536943",
+      "name": "The Forgotten Pet Advocates",
+      "address": "PO Box 3037, Pearland, TX 77588",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/536943.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-pearsall-animal-shelter-477993",
+      "name": "City of Pearsall Animal Shelter",
+      "address": "211 South Oak Street, Pearsall, TX 78061",
+      "phone": "830-334-4169",
+      "image": "https://cdn.findpawpal.com/office/477993.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ochiltree-humane-society-538679",
+      "name": "Ochiltree Humane Society",
+      "address": "901 Michigan Street, Perryton, TX 79070",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/538679.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pflugerville-animal-control-633554",
+      "name": "Pflugerville Animal Control",
+      "address": "1611 Pfennig Lane, Pflugerville, TX 78660",
+      "phone": "512-251-4004",
+      "image": "https://cdn.findpawpal.com/office/633554.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pharr-animal-control-494640",
+      "name": "Pharr Animal Control",
+      "address": "801 East Sam Houston Boulevard, Pharr, TX 78577",
+      "phone": "956-702-3647",
+      "image": "https://cdn.findpawpal.com/office/494640.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "heaven-sent-pitbull-rescue-702168",
+      "name": "Heaven Sent Pitbull Rescue",
+      "address": "PO Box 1424, Pinehurst, TX 77362",
+      "phone": "210-274-5444",
+      "image": "https://cdn.findpawpal.com/office/702168.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lone-star-shih-tzu-and-lhasa-apso-rescue-537713",
+      "name": "Lone Star Shih Tzu and Lhasa Apso Rescue",
+      "address": "PO Box 1346, Pinehurst, TX 77362",
+      "phone": "281-754-4851",
+      "image": "https://cdn.findpawpal.com/office/537713.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brighter-days-horse-refuge-inc-525711",
+      "name": "Brighter Days Horse Refuge Inc",
+      "address": "682 Krause Road, Pipe Creek, TX 78063",
+      "phone": "830-510-6607",
+      "image": "https://cdn.findpawpal.com/office/525711.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "plainview-humane-society-537199",
+      "name": "Plainview Humane Society",
+      "address": "500 Southwest 3rd Street, Plainview, TX 79072",
+      "phone": "806-296-1158",
+      "image": "https://cdn.findpawpal.com/office/537199.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-guardians-of-america-539567",
+      "name": "Animal Guardians of America",
+      "address": "7000 Independence Parkway, Plano, TX 75025",
+      "phone": "972-398-2123",
+      "image": "https://cdn.findpawpal.com/office/539567.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-plano-animal-services-523437",
+      "name": "City of Plano: Animal Services",
+      "address": "4028 West Plano Parkway, Plano, TX 75093",
+      "phone": "972-769-4360",
+      "image": "https://cdn.findpawpal.com/office/523437.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "doggies-wonderland-478965",
+      "name": "Doggie's Wonderland",
+      "address": "460 Independence Parkway, Plano, TX 75075",
+      "phone": "972-881-1905",
+      "image": "https://cdn.findpawpal.com/office/478965.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-adoption-plano-674106",
+      "name": "Humane Society Adoption Plano",
+      "address": "1449 Colmar Drive, Plano, TX 75023",
+      "phone": "972-517-2976",
+      "image": "https://cdn.findpawpal.com/office/674106.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "labmed-rx-for-rescued-labradors-477844",
+      "name": "Labmed Rx for Rescued Labradors",
+      "address": "3941 Legacy Drive, Plano, TX 75023",
+      "phone": "972-208-2470",
+      "image": "https://cdn.findpawpal.com/office/477844.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-spca-538226",
+      "name": "Second Chance SPCA",
+      "address": "505 Alma Drive, Plano, TX 75075",
+      "phone": "972-424-0077",
+      "image": "https://cdn.findpawpal.com/office/538226.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "port-aransas-animal-shelter-633273",
+      "name": "Port Aransas Animal Shelter",
+      "address": "403 West Cotter Avenue, Port Aransas, TX 78373",
+      "phone": "361-749-5941",
+      "image": "https://cdn.findpawpal.com/office/633273.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "port-arthur-animal-control-674492",
+      "name": "Port Arthur Animal Control",
+      "address": "201 4th Street, Port Arthur, TX 77640",
+      "phone": "409-983-8785",
+      "image": "https://cdn.findpawpal.com/office/674492.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "laguna-madre-humane-society-494176",
+      "name": "Laguna Madre Humane Society",
+      "address": "103 East Maxan Street, Port Isabel, TX 78578",
+      "phone": "956-266-3140",
+      "image": "https://cdn.findpawpal.com/office/494176.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "port-isabel-animal-shelter-479204",
+      "name": "Port Isabel Animal Shelter",
+      "address": "262 Woody Ln, Port Isabel, TX 78578",
+      "phone": "956-943-3888",
+      "image": "https://cdn.findpawpal.com/office/479204.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "port-lavaca-animal-control-702324",
+      "name": "Port Lavaca Animal Control",
+      "address": "201 STRINGHAM Dr, Port Lavaca, TX 77979",
+      "phone": "361-552-5726",
+      "image": "https://cdn.findpawpal.com/office/702324.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "adopt-a-rabbit-program-537395",
+      "name": "Adopt-A-Rabbit Program",
+      "address": "PO Box 2469, Porter, TX 77365",
+      "phone": "936-271-4156",
+      "image": "https://cdn.findpawpal.com/office/537395.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "magicarpet-show-horses-538619",
+      "name": "Magicarpet Show Horses",
+      "address": "1273 Co Road 44250, Powderly, TX 75473",
+      "phone": "903-732-4100",
+      "image": "https://cdn.findpawpal.com/office/538619.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "raymondville-animal-shelter-674495",
+      "name": "Raymondville Animal Shelter",
+      "address": "N 5th, Raymondville, TX 78580",
+      "phone": "956-689-3534",
+      "image": "https://cdn.findpawpal.com/office/674495.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "refugio-city-animal-control-539918",
+      "name": "Refugio City Animal Control",
+      "address": "601 Commerce Street, Refugio, TX 78377",
+      "phone": "361-526-4533",
+      "image": "https://cdn.findpawpal.com/office/539918.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "duck-team-6-537930",
+      "name": "Duck Team 6",
+      "address": "908 Audelia Road, Richardson, TX 75081",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/537930.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "protective-animal-league-702121",
+      "name": "Protective Animal League",
+      "address": "PO Box 832012, Richardson, TX 75083",
+      "phone": "972-881-1981",
+      "image": "https://cdn.findpawpal.com/office/702121.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "richardson-animal-control-537018",
+      "name": "Richardson Animal Control",
+      "address": "PO Box 830309, Richardson, TX 75083",
+      "phone": "972-238-0709",
+      "image": "https://cdn.findpawpal.com/office/537018.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "richardson-animal-shelter-635552",
+      "name": "Richardson Animal Shelter",
+      "address": "1330 Columbia Drive, Richardson, TX 75081",
+      "phone": "972-744-4480",
+      "image": "https://cdn.findpawpal.com/office/635552.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "richland-hills-animal-shelter-519074",
+      "name": "Richland Hills Animal Shelter",
+      "address": "7049 Baker Boulevard, Richland Hills, TX 76118",
+      "phone": "817-314-3962",
+      "image": "https://cdn.findpawpal.com/office/519074.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "classy-cats-inc-477922",
+      "name": "Classy Cats, Inc.",
+      "address": "PO Box 1755, Roanoke, TX 76262",
+      "phone": "817-430-2755",
+      "image": "https://cdn.findpawpal.com/office/477922.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "italian-greyhound-club-of-america-rescue-702132",
+      "name": "Italian Greyhound Club of America Rescue",
+      "address": "13493 Henrietta Creek Road, Roanoke, TX 76262",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/702132.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "metroport-humane-society-674126",
+      "name": "Metroport Humane Society",
+      "address": "PO Box 701, Roanoke, TX 76262",
+      "phone": "817-491-9499",
+      "image": "https://cdn.findpawpal.com/office/674126.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "texas-state-animal-control-635555",
+      "name": "Texas State Animal Control",
+      "address": "6200 Mesa Butte Ct, Roanoke, TX 76262",
+      "phone": "214-513-8228",
+      "image": "https://cdn.findpawpal.com/office/635555.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "nueces-county-animal-control-478470",
+      "name": "Nueces County Animal Control",
+      "address": "1427 Farm to Market Road 892, Robstown, TX 78380",
+      "phone": "361-387-5701",
+      "image": "https://cdn.findpawpal.com/office/478470.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "aransas-county-animal-control-519081",
+      "name": "Aransas County Animal Control",
+      "address": "611 East Mimosa Street, Rockport, TX 78382",
+      "phone": "361-790-0103",
+      "image": "https://cdn.findpawpal.com/office/519081.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lookin-for-love-animal-rescue-538536",
+      "name": "Lookin' for Love Animal Rescue",
+      "address": "1414 12th Street, Rockport, TX 78382",
+      "phone": "361-219-8018",
+      "image": "https://cdn.findpawpal.com/office/538536.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rockwall-animal-shelter-518676",
+      "name": "Rockwall Animal Shelter",
+      "address": "1825 Airport Road, Rockwall, TX 75087",
+      "phone": "972-771-7750",
+      "image": "https://cdn.findpawpal.com/office/518676.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fort-bend-county-animal-control-674501",
+      "name": "Fort Bend County Animal Control",
+      "address": "1210 Blume Road, Rosenberg, TX 77471",
+      "phone": "281-342-1512",
+      "image": "https://cdn.findpawpal.com/office/674501.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-round-rock-493727",
+      "name": "Humane Society Round Rock",
+      "address": "3607 Oak Meadow Drive, Round Rock, TX 78681",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/493727.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "round-rock-animal-control-702328",
+      "name": "Round Rock Animal Control",
+      "address": "2701 North Mays Street, Round Rock, TX 78665",
+      "phone": "512-255-7387",
+      "image": "https://cdn.findpawpal.com/office/702328.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rusty-cage-rescue-538865",
+      "name": "Rusty Cage Rescue",
+      "address": "PO Box 2332, Round Rock, TX 78680",
+      "phone": "512-574-9001",
+      "image": "https://cdn.findpawpal.com/office/538865.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-rowlett-animal-shelter-633323",
+      "name": "City of Rowlett: Animal Shelter",
+      "address": "4402 Industrial Street, Rowlett, TX 75088",
+      "phone": "972-412-6219",
+      "image": "https://cdn.findpawpal.com/office/633323.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rowlett-animal-adoption-633050",
+      "name": "Rowlett Animal Adoption",
+      "address": "PO Box 736, Rowlett, TX 75030",
+      "phone": "972-601-1082",
+      "image": "https://cdn.findpawpal.com/office/633050.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "royse-city-animal-control-635560",
+      "name": "Royse City Animal Control",
+      "address": "1101 North Josephine Street, Royse, TX 75189",
+      "phone": "972-635-6609",
+      "image": "https://cdn.findpawpal.com/office/635560.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-sachse-animal-shelter-493974",
+      "name": "City of Sachse Animal Shelter",
+      "address": "6436 Sachse Road, Sachse, TX 75048",
+      "phone": "972-495-2271",
+      "image": "https://cdn.findpawpal.com/office/493974.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sachse-pet-pals-association-524327",
+      "name": "Sachse Pet Pals Association",
+      "address": "1600 Bonanza Drive, Sachse, TX 75048",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/524327.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "saginaw-animal-control-519109",
+      "name": "Saginaw Animal Control",
+      "address": "205 BRENDA Ln, Saginaw, TX 76179",
+      "phone": "817-230-0460",
+      "image": "https://cdn.findpawpal.com/office/519109.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "country-club-for-dogs-adoption-center-518829",
+      "name": "Country Club for Dogs Adoption Center",
+      "address": "3520 Knickerbocker Road, San Angelo, TX 76904",
+      "phone": "325-617-4013",
+      "image": "https://cdn.findpawpal.com/office/518829.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-tom-green-county-538451",
+      "name": "Humane Society of Tom Green County",
+      "address": "4001 Sunset Drive, San Angelo, TX 76904",
+      "phone": "325-653-8056",
+      "image": "https://cdn.findpawpal.com/office/538451.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-4-life-524960",
+      "name": "PAWS 4 Life",
+      "address": "6420 Side View Road, San Angelo, TX 76901",
+      "phone": "915-374-0512",
+      "image": "https://cdn.findpawpal.com/office/524960.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "san-angelo-animal-shelter-538744",
+      "name": "San Angelo Animal Shelter",
+      "address": "3142 U.s. 67, San Angelo, TX 76905",
+      "phone": "325-657-4225",
+      "image": "https://cdn.findpawpal.com/office/538744.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "4dogsakes-635342",
+      "name": "4dogsakes",
+      "address": "203 West Sunset Road, San Antonio, TX 78209",
+      "phone": "210-822-0003",
+      "image": "https://cdn.findpawpal.com/office/635342.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "aapaw-536906",
+      "name": "AAPAW",
+      "address": "PO Box 17324, San Antonio, TX 78217",
+      "phone": "210-379-9034",
+      "image": "https://cdn.findpawpal.com/office/536906.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-defense-league-633347",
+      "name": "Animal Defense League",
+      "address": "11300 Nacogdoches Road, San Antonio, TX 78217",
+      "phone": "210-655-1481",
+      "image": "https://cdn.findpawpal.com/office/633347.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-resource-center-478673",
+      "name": "Animal Resource Center",
+      "address": "1615 South Laredo Street, San Antonio, TX 78207",
+      "phone": "210-351-7729",
+      "image": "https://cdn.findpawpal.com/office/478673.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-veterinary-hospital-518389",
+      "name": "City Veterinary Hospital",
+      "address": "818 Austin Street, San Antonio, TX 78208",
+      "phone": "210-225-6531",
+      "image": "https://cdn.findpawpal.com/office/518389.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "guardian-animal-rescue-633010",
+      "name": "Guardian Animal Rescue",
+      "address": "PO Box 65147, San Antonio, TX 78265",
+      "phone": "210-658-2097",
+      "image": "https://cdn.findpawpal.com/office/633010.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-greater-san-antonio-674359",
+      "name": "Humane Society of Greater San Antonio",
+      "address": "1402 Fredericksburg Road, San Antonio, TX 78201",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/674359.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "san-antonio-animal-control-525217",
+      "name": "San Antonio Animal Control",
+      "address": "4710 Texas 151, San Antonio, TX 78227",
+      "phone": "210-207-6650",
+      "image": "https://cdn.findpawpal.com/office/525217.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "san-antonio-humane-society-538071",
+      "name": "San Antonio Humane Society",
+      "address": "4804 Fredericksburg Road, San Antonio, TX 78229",
+      "phone": "210-226-7461",
+      "image": "https://cdn.findpawpal.com/office/538071.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "south-texas-animal-rescue-536910",
+      "name": "South Texas Animal Rescue",
+      "address": "PO Box 12651, San Antonio, TX 78212",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/536910.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "windcrest-animal-control-525027",
+      "name": "Windcrest Animal Control",
+      "address": "8520 Fourwinds Drive, San Antonio, TX 78239",
+      "phone": "210-448-8813",
+      "image": "https://cdn.findpawpal.com/office/525027.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "san-benito-animal-control-479234",
+      "name": "San Benito Animal Control",
+      "address": "401 North Sam Houston Boulevard, San Benito, TX 78586",
+      "phone": "956-361-3816",
+      "image": "https://cdn.findpawpal.com/office/479234.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "freer-animal-control-519452",
+      "name": "Freer Animal Control",
+      "address": "412 Richard Cruz Street, San Diego, TX 78384",
+      "phone": "361-394-7433",
+      "image": "https://cdn.findpawpal.com/office/519452.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "san-diego-animal-control-539965",
+      "name": "San Diego Animal Control",
+      "address": "804 East Juanita Street, San Diego, TX 78384",
+      "phone": "361-279-2626",
+      "image": "https://cdn.findpawpal.com/office/539965.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bay-area-pet-adoptions-524369",
+      "name": "Bay Area Pet Adoptions",
+      "address": "3000 Avenue R, San Leon, TX 77539",
+      "phone": "281-339-2086",
+      "image": "https://cdn.findpawpal.com/office/524369.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "texas-pekingese-rescue-478008",
+      "name": "Texas Pekingese Rescue",
+      "address": "PO Box 1072F, San Leon, TX 77539",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/478008.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-shelter-of-san-marcos-539439",
+      "name": "Animal Shelter of San Marcos",
+      "address": "706 River Road, San Marcos, TX 78666",
+      "phone": "512-353-4444",
+      "image": "https://cdn.findpawpal.com/office/539439.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "san-marcos-animal-shelter-538169",
+      "name": "San Marcos Animal Shelter",
+      "address": "630 East Hopkins Street, San Marcos, TX 78666",
+      "phone": "512-393-8341",
+      "image": "https://cdn.findpawpal.com/office/538169.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "casa-de-critters-humane-society-635453",
+      "name": "Casa De Critters Humane Society",
+      "address": "12825 Metz Road, Sanger, TX 76266",
+      "phone": "214-476-5962",
+      "image": "https://cdn.findpawpal.com/office/635453.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "schertz-animal-control-478767",
+      "name": "Schertz Animal Control",
+      "address": "1298 Borgfeld Road, Schertz, TX 78154",
+      "phone": "210-659-6607",
+      "image": "https://cdn.findpawpal.com/office/478767.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "schertz-humane-society-523677",
+      "name": "Schertz Humane Society",
+      "address": "PO Box 605, Schertz, TX 78154",
+      "phone": "210-566-7776",
+      "image": "https://cdn.findpawpal.com/office/523677.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "yorkie-haven-rescue-538518",
+      "name": "Yorkie Haven Rescue",
+      "address": "PO Box 219, Seabrook, TX 77586",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/538518.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "seagoville-animal-shelter-538588",
+      "name": "Seagoville Animal Shelter",
+      "address": "1330 East Malloy Bridge Road, Seagoville, TX 75159",
+      "phone": "972-287-2050",
+      "image": "https://cdn.findpawpal.com/office/538588.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "etosha-rescue-and-adoption-center-633384",
+      "name": "Etosha Rescue & Adoption Center",
+      "address": "1136 East Kingsbury Street, Seguin, TX 78155",
+      "phone": "830-401-0150",
+      "image": "https://cdn.findpawpal.com/office/633384.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "guadalupe-county-humane-society-518489",
+      "name": "Guadalupe County Humane Society",
+      "address": "2484 Highway 46, Seguin, TX 78155",
+      "phone": "830-372-2055",
+      "image": "https://cdn.findpawpal.com/office/518489.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hill-country-greyhound-adoptions-493310",
+      "name": "Hill Country Greyhound Adoptions",
+      "address": "PO Box 543, Seguin, TX 78156",
+      "phone": "830-303-2229",
+      "image": "https://cdn.findpawpal.com/office/493310.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sara-sanctuary-society-for-animal-rescue-and-adoption-518493",
+      "name": "SARA Sanctuary (Society for Animal Rescue and Adoption)",
+      "address": "1050 Rawhide Road, Seguin, TX 78155",
+      "phone": "830-401-0280",
+      "image": "https://cdn.findpawpal.com/office/518493.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "seguin-animal-control-702255",
+      "name": "Seguin Animal Control",
+      "address": "809 South River Street, Seguin, TX 78155",
+      "phone": "830-401-2335",
+      "image": "https://cdn.findpawpal.com/office/702255.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cedar-creek-humane-society-635115",
+      "name": "Cedar Creek Humane Society",
+      "address": "PO Box 43135, Seven Points, TX 75143",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/635115.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-refuge-foundation-494490",
+      "name": "Animal Refuge Foundation",
+      "address": "3377 Spalding Road, Sherman, TX 75092",
+      "phone": "903-564-7056",
+      "image": "https://cdn.findpawpal.com/office/494490.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sherman-animal-shelter-539729",
+      "name": "Sherman Animal Shelter",
+      "address": "1800 East Ida Road, Sherman, TX 75090",
+      "phone": "903-892-7255",
+      "image": "https://cdn.findpawpal.com/office/539729.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sinton-animal-control-539823",
+      "name": "Sinton Animal Control",
+      "address": "313 North Rachal Avenue, Sinton, TX 78387",
+      "phone": "361-364-6208",
+      "image": "https://cdn.findpawpal.com/office/539823.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "slaton-animal-control-518967",
+      "name": "Slaton Animal Control",
+      "address": "100 East Dickens Street, Slaton, TX 79364",
+      "phone": "806-828-2006",
+      "image": "https://cdn.findpawpal.com/office/518967.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "snyder-animal-shelter-702313",
+      "name": "Snyder Animal Shelter",
+      "address": "3706 Brick Plant Road, Snyder, TX 79549",
+      "phone": "325-573-3969",
+      "image": "https://cdn.findpawpal.com/office/702313.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "southlake-animal-control-518971",
+      "name": "Southlake Animal Control",
+      "address": "667 North Carroll Avenue, Southlake, TX 76092",
+      "phone": "817-748-8149",
+      "image": "https://cdn.findpawpal.com/office/518971.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spicewood-animal-control-635523",
+      "name": "Spicewood Animal Control",
+      "address": "8110 County Road 404, Spicewood, TX 78669",
+      "phone": "512-844-0800",
+      "image": "https://cdn.findpawpal.com/office/635523.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "s-a-f-e-house-rescue-and-adoption-674172",
+      "name": "S.A.F.E. House Rescue & Adoption",
+      "address": "6450 Louetta Road, Spring, TX 77379",
+      "phone": "281-370-0133",
+      "image": "https://cdn.findpawpal.com/office/674172.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "springtown-animal-control-479133",
+      "name": "Springtown Animal Control",
+      "address": "505 Martin Avenue, Springtown, TX 76082",
+      "phone": "817-523-4702",
+      "image": "https://cdn.findpawpal.com/office/479133.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-erath-county-674456",
+      "name": "Humane Society of Erath County",
+      "address": "PO Box 2006, Stephenville, TX 76401",
+      "phone": "254-965-3247",
+      "image": "https://cdn.findpawpal.com/office/674456.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sugar-land-animal-control-633536",
+      "name": "Sugar Land Animal Control",
+      "address": "101 Gillingham Lane, Sugar Land, TX 77478",
+      "phone": "281-275-2842",
+      "image": "https://cdn.findpawpal.com/office/633536.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hopkins-county-animal-league-674180",
+      "name": "Hopkins County Animal League",
+      "address": "468 Shannon Road East, Sulphur Springs, TX 75482",
+      "phone": "903-439-2953",
+      "image": "https://cdn.findpawpal.com/office/674180.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ppawss-pet-adoptions-welfare-of-sulphur-springs-523747",
+      "name": "PPAWSS Pet Adoptions Welfare of Sulphur Springs",
+      "address": "1209 Fisher Street, Sulphur Springs, TX 75482",
+      "phone": "903-243-4306",
+      "image": "https://cdn.findpawpal.com/office/523747.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sulphur-springs-animal-shelter-538632",
+      "name": "Sulphur Springs Animal Shelter",
+      "address": "1313 Hillcrest Drive North, Sulphur Springs, TX 75482",
+      "phone": "903-438-9369",
+      "image": "https://cdn.findpawpal.com/office/538632.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sweetwater-animal-shelter-517807",
+      "name": "Sweetwater Animal Shelter",
+      "address": "PO Box 450, Sweetwater, TX 79556",
+      "phone": "915-236-6139",
+      "image": "https://cdn.findpawpal.com/office/517807.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-palz-rescue-adoptions-478253",
+      "name": "Pet Palz Rescue Adoptions",
+      "address": "301 Retama Avenue, Taft, TX 78390",
+      "phone": "361-528-3149",
+      "image": "https://cdn.findpawpal.com/office/478253.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "taylor-city-animal-shelter-635528",
+      "name": "Taylor City Animal Shelter",
+      "address": "600 East 4th Street, Taylor, TX 76574",
+      "phone": "512-352-5483",
+      "image": "https://cdn.findpawpal.com/office/635528.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "association-for-a-pet-adoption-center-518633",
+      "name": "Association for A Pet Adoption Center",
+      "address": "PO Box 1358, Temple, TX 76503",
+      "phone": "254-298-2900",
+      "image": "https://cdn.findpawpal.com/office/518633.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bell-county-spca-523345",
+      "name": "Bell County SPCA",
+      "address": "PO Box 1222, Temple, TX 76503",
+      "phone": "254-985-9292",
+      "image": "https://cdn.findpawpal.com/office/523345.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greater-temple-humane-society-538145",
+      "name": "Greater Temple Humane Society",
+      "address": "PO Box 1093, Temple, TX 76503",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/538145.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "temple-city-animal-shelter-478864",
+      "name": "Temple City Animal Shelter",
+      "address": "620 Mama Dog Creek, Temple, TX 76504",
+      "phone": "254-298-5732",
+      "image": "https://cdn.findpawpal.com/office/478864.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "terrell-animal-shelter-633148",
+      "name": "Terrell Animal Shelter",
+      "address": "2601 East Moore Avenue, Terrell, TX 75161",
+      "phone": "972-551-6641",
+      "image": "https://cdn.findpawpal.com/office/633148.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "texas-city-animal-shelter-494612",
+      "name": "Texas City Animal Shelter",
+      "address": "3412 25th Avenue North, Texas, TX 77590",
+      "phone": "409-949-3011",
+      "image": "https://cdn.findpawpal.com/office/494612.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-momma-cat-674154",
+      "name": "The Momma Cat",
+      "address": "PO Box 1251, Texas, TX 77592",
+      "phone": "409-933-3304",
+      "image": "https://cdn.findpawpal.com/office/674154.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-the-colony-538336",
+      "name": "Humane Society of the Colony",
+      "address": "5541 Rutledge Drive, The Colony, TX 75056",
+      "phone": "903-883-5266",
+      "image": "https://cdn.findpawpal.com/office/538336.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spca-of-texas-in-the-colony-493225",
+      "name": "SPCA of Texas in the Colony",
+      "address": "4720 East Lake Highlands Drive, The Colony, TX 75056",
+      "phone": "972-625-5545",
+      "image": "https://cdn.findpawpal.com/office/493225.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tomball-animal-control-702317",
+      "name": "Tomball Animal Control",
+      "address": "419 East Hufsmith Road, Tomball, TX 77375",
+      "phone": "281-290-0121",
+      "image": "https://cdn.findpawpal.com/office/702317.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-humane-societys-pets-fur-people-479013",
+      "name": "The Humane Society's Pets Fur People",
+      "address": "1823 County Road 386, Tyler, TX 75708",
+      "phone": "903-597-2471",
+      "image": "https://cdn.findpawpal.com/office/479013.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tiger-creek-wildlife-refuge-702295",
+      "name": "Tiger Creek Wildlife Refuge",
+      "address": "17552 Farm to Market 14, Tyler, TX 75706",
+      "phone": "903-858-1008",
+      "image": "https://cdn.findpawpal.com/office/702295.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tonya-griffiths-animal-rescue-inc-723305",
+      "name": "Tonya Griffith's Animal Rescue, Inc.",
+      "address": ", Tyler, TX 75762",
+      "phone": "903-533-1282",
+      "image": "https://cdn.findpawpal.com/office/723305.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tyler-animal-control-479164",
+      "name": "Tyler Animal Control",
+      "address": "19739 County Road 113, Tyler, TX 75703",
+      "phone": "903-534-1913",
+      "image": "https://cdn.findpawpal.com/office/479164.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "universal-city-animal-shelter-524565",
+      "name": "Universal City Animal Shelter",
+      "address": "2150 Universal City Boulevard, Universal, TX 78148",
+      "phone": "210-658-0700",
+      "image": "https://cdn.findpawpal.com/office/524565.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "uvalde-animal-shelter-702274",
+      "name": "Uvalde Animal Shelter",
+      "address": "2893 Old US Highway 83, Uvalde, TX 78801",
+      "phone": "830-278-1407",
+      "image": "https://cdn.findpawpal.com/office/702274.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "foremans-rescue-animal-sanctuary-493128",
+      "name": "Foremans Rescue Animal Sanctuary",
+      "address": "897 Farm to Market Road 3442, Valley View, TX 76272",
+      "phone": "940-637-2306",
+      "image": "https://cdn.findpawpal.com/office/493128.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-vernon-674253",
+      "name": "Humane Society of Vernon",
+      "address": "2801 Sullivan Street, Vernon, TX 76384",
+      "phone": "940-552-5373",
+      "image": "https://cdn.findpawpal.com/office/674253.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "adopt-a-pet-493842",
+      "name": "Adopt A Pet",
+      "address": "8215 Houston Highway, Victoria, TX 77901",
+      "phone": "361-575-7387",
+      "image": "https://cdn.findpawpal.com/office/493842.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "18-shades-of-grey-523893",
+      "name": "18 Shades of Grey",
+      "address": "32 Heritage Drive, Vidor, TX 77662",
+      "phone": "409-769-9249",
+      "image": "https://cdn.findpawpal.com/office/523893.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "orange-county-animal-rescue-league-478212",
+      "name": "Orange County Animal Rescue League",
+      "address": "6320 Marshall Willey Road, Vidor, TX 77662",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/478212.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "vidor-animal-shelter-633177",
+      "name": "Vidor Animal Shelter",
+      "address": "155 N Watts St, Vidor, TX 77662",
+      "phone": "406-769-8718",
+      "image": "https://cdn.findpawpal.com/office/633177.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "vidor-lions-club-diamonds-in-the-ruff-493548",
+      "name": "Vidor Lions Club Diamonds In The Ruff",
+      "address": "195 West Bolivar Street, Vidor, TX 77662",
+      "phone": "409-783-2192",
+      "image": "https://cdn.findpawpal.com/office/493548.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-aid-humane-702165",
+      "name": "Animal Aid Humane",
+      "address": "1531 Wooded Acres Drive, Waco, TX 76710",
+      "phone": "254-776-7303",
+      "image": "https://cdn.findpawpal.com/office/702165.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fuzzy-friends-rescue-493487",
+      "name": "Fuzzy Friends Rescue",
+      "address": "6321 Airport Road, Waco, TX 76708",
+      "phone": "254-754-9444",
+      "image": "https://cdn.findpawpal.com/office/493487.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "waco-animal-control-633159",
+      "name": "Waco Animal Control",
+      "address": "721 North 4th Street, Waco, TX 76701",
+      "phone": "254-750-7500",
+      "image": "https://cdn.findpawpal.com/office/633159.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "waco-humane-society-537390",
+      "name": "Waco Humane Society",
+      "address": "2032 Circle Road, Waco, TX 76706",
+      "phone": "254-754-1454",
+      "image": "https://cdn.findpawpal.com/office/537390.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ellis-county-spca-633256",
+      "name": "Ellis County SPCA",
+      "address": "2570 Farm to Market Road 878, Waxahachie, TX 75165",
+      "phone": "972-935-0756",
+      "image": "https://cdn.findpawpal.com/office/633256.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "waxahachie-city-animal-control-635532",
+      "name": "Waxahachie City Animal Control",
+      "address": "2301 Howard Road, Waxahachie, TX 75165",
+      "phone": "972-937-1802",
+      "image": "https://cdn.findpawpal.com/office/635532.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ferrets-first-rescue-and-shelter-539731",
+      "name": "Ferrets First Rescue & Shelter",
+      "address": "3801 Zion Hill Loop, Weatherford, TX 76088",
+      "phone": "817-599-7740",
+      "image": "https://cdn.findpawpal.com/office/539731.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "grrr-village-canine-rescue-517850",
+      "name": "Grrr Village Canine Rescue",
+      "address": "PO Box 54, Weatherford, TX 76086",
+      "phone": "817-594-4386",
+      "image": "https://cdn.findpawpal.com/office/517850.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "nrw-ranch-llp-517856",
+      "name": "Nrw Ranch Llp",
+      "address": "PO Box 1352, Weatherford, TX 76086",
+      "phone": "817-313-1482",
+      "image": "https://cdn.findpawpal.com/office/517856.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "weatherford-animal-shelter-674451",
+      "name": "Weatherford Animal Shelter",
+      "address": "403 Hickory Lane, Weatherford, TX 76086",
+      "phone": "817-598-4111",
+      "image": "https://cdn.findpawpal.com/office/674451.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "carolyns-animal-refuge-723330",
+      "name": "Carolyns Animal Refuge",
+      "address": "2402 Collins Street, West Orange, TX 77630",
+      "phone": "409-466-1416",
+      "image": "https://cdn.findpawpal.com/office/723330.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "free-for-life-animal-sanctuary-corporation-524631",
+      "name": "Free for Life Animal Sanctuary Corporation",
+      "address": "543 Hcr 1231, Whitney, TX 76692",
+      "phone": "254-694-4513",
+      "image": "https://cdn.findpawpal.com/office/524631.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lake-whitney-humane-society-702153",
+      "name": "Lake Whitney Humane Society",
+      "address": "PO Box 767, Whitney, TX 76692",
+      "phone": "254-874-5430",
+      "image": "https://cdn.findpawpal.com/office/702153.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "purrfect-corporation-633396",
+      "name": "Purrfect Corporation",
+      "address": "133 Waterview Drive, Whitney, TX 76692",
+      "phone": "254-694-7055",
+      "image": "https://cdn.findpawpal.com/office/633396.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-reclaim-center-493688",
+      "name": "Animal Reclaim Center",
+      "address": "4360 Old Iowa Park Road, Wichita Falls, TX 76305",
+      "phone": "940-855-6771",
+      "image": "https://cdn.findpawpal.com/office/493688.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wichita-county-humane-society-524077",
+      "name": "Wichita County Humane Society",
+      "address": "4360 Old Iowa Park Road, Wichita Falls, TX 76305",
+      "phone": "940-855-4941",
+      "image": "https://cdn.findpawpal.com/office/524077.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wichita-falls-animal-control-635506",
+      "name": "Wichita Falls Animal Control",
+      "address": "1700 3rd Street, Wichita Falls, TX 76301",
+      "phone": "940-761-7842",
+      "image": "https://cdn.findpawpal.com/office/635506.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animals-1st-538959",
+      "name": "Animal's 1st",
+      "address": "13247 Cedar Lane Loop, Willis, TX 77378",
+      "phone": "936-228-0434",
+      "image": "https://cdn.findpawpal.com/office/538959.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wimberley-adoption-group-rescue-635112",
+      "name": "Wimberley Adoption Group Rescue",
+      "address": "PO Box 2603, Wimberley, TX 78676",
+      "phone": "512-394-8619",
+      "image": "https://cdn.findpawpal.com/office/635112.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "winnsboro-animal-shelter-674465",
+      "name": "Winnsboro Animal Shelter",
+      "address": "835 Hope Ln, Winnsboro, TX 75494",
+      "phone": "903-342-3400",
+      "image": "https://cdn.findpawpal.com/office/674465.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "smith-county-animal-control-538555",
+      "name": "Smith County Animal Control",
+      "address": "110 Dallas Street, Winona, TX 75792",
+      "phone": "903-566-6600",
+      "image": "https://cdn.findpawpal.com/office/538555.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "winters-animal-control-702309",
+      "name": "Winters Animal Control",
+      "address": "310 South Main Street, Winters, TX 79567",
+      "phone": "325-754-4121",
+      "image": "https://cdn.findpawpal.com/office/702309.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "frank-barchard-memorial-animal-shelter-479541",
+      "name": "Frank Barchard Memorial Animal Shelter",
+      "address": "661 County Road 4818, Wolfe, TX 75496",
+      "phone": "903-496-2412",
+      "image": "https://cdn.findpawpal.com/office/479541.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wimberley-animal-control-479102",
+      "name": "Wimberley Animal Control",
+      "address": "51 Canyon Creek Drive, Woodcreek, TX 78676",
+      "phone": "512-847-2878",
+      "image": "https://cdn.findpawpal.com/office/479102.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "woodville-animal-shelter-518958",
+      "name": "Woodville Animal Shelter",
+      "address": "1499 North Magnolia Street, Woodville, TX 75979",
+      "phone": "409-283-7387",
+      "image": "https://cdn.findpawpal.com/office/518958.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wylie-animal-control-539815",
+      "name": "Wylie Animal Control",
+      "address": "949 Hensley Lane, Wylie, TX 75098",
+      "phone": "972-442-5268",
+      "image": "https://cdn.findpawpal.com/office/539815.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "zapata-county-animal-shelter-633526",
+      "name": "Zapata County Animal Shelter",
+      "address": "605 U.s. 83, Zapata, TX 78076",
+      "phone": "956-765-6201",
+      "image": "https://cdn.findpawpal.com/office/633526.jpg?f=webp&w=730"
+    }
+  ]
+}

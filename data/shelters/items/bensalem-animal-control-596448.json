@@ -1,0 +1,21 @@
+{
+  "officeId": 596448,
+  "slug": "bensalem-animal-control-596448",
+  "name": "Bensalem Animal Control",
+  "address": "2400 Byberry Road, Bensalem, PA 19020",
+  "street": "2400 Byberry Road",
+  "addressCity": "Bensalem",
+  "stateCode": "PA",
+  "zip": "19020",
+  "phone": "215-633-3659",
+  "image": "./img/shelter/office/596448.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/bensalem-animal-control-596448/",
+  "stateSlug": "pennsylvania",
+  "stateName": "Pennsylvania",
+  "citySlug": "bensalem",
+  "cityName": "Bensalem",
+  "cityLabel": "Bensalem, PA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/pennsylvania/bensalem/",
+  "fetchedAt": "2026-06-27T19:51:57.259607+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/596448.jpg?f=webp&w=730"
+}

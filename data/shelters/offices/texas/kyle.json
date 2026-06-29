@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:06:26.187587+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "kyle",
+    "name": "Kyle",
+    "label": "Kyle, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/kyle/",
+  "offices": [
+    {
+      "officeId": 479423,
+      "slug": "kyle-animal-control-479423",
+      "name": "Kyle Animal Control",
+      "address": "500 East Fm 150, Kyle, TX 78640",
+      "phone": "512-268-0859",
+      "image": "./img/shelter/office/479423.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kyle-animal-control-479423/",
+      "imageUrl": "https://cdn.findpawpal.com/office/479423.jpg?f=webp&w=730"
+    }
+  ]
+}

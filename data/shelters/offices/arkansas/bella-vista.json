@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:21:33.582204+00:00",
+  "state": {
+    "slug": "arkansas",
+    "name": "Arkansas"
+  },
+  "city": {
+    "slug": "bella-vista",
+    "name": "Bella Vista",
+    "label": "Bella Vista, AR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arkansas/bella-vista/",
+  "offices": [
+    {
+      "officeId": 255271,
+      "slug": "bella-vista-animal-shelter-255271",
+      "name": "Bella Vista Animal Shelter",
+      "address": "32 Bella Vista Way, Bella Vista, AR 72714",
+      "phone": "479-855-6020",
+      "image": "./img/shelter/office/255271.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bella-vista-animal-shelter-255271/",
+      "imageUrl": "https://cdn.findpawpal.com/office/255271.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 270820,
+      "slug": "friends-of-the-animals-270820",
+      "name": "Friends of the Animals",
+      "address": "36 Dogwood Lane, Bella Vista, AR 72715",
+      "phone": "479-855-2363",
+      "image": "./img/shelter/office/270820.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-the-animals-270820/",
+      "imageUrl": "https://cdn.findpawpal.com/office/270820.jpg?f=webp&w=730"
+    }
+  ]
+}

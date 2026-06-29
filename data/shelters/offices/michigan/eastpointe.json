@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:10:15.348526+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "eastpointe",
+    "name": "Eastpointe",
+    "label": "Eastpointe, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/eastpointe/",
+  "offices": [
+    {
+      "officeId": 191175,
+      "slug": "eastpointe-police-animal-control-191175",
+      "name": "Eastpointe Police Animal Control",
+      "address": "16083 East 9 Mile Road, Eastpointe, MI 48021",
+      "phone": "586-445-5100",
+      "image": "./img/shelter/office/191175.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/eastpointe-police-animal-control-191175/",
+      "imageUrl": "https://cdn.findpawpal.com/office/191175.jpg?f=webp&w=730"
+    }
+  ]
+}

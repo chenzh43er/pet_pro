@@ -1,0 +1,42 @@
+{
+  "fetchedAt": "2026-06-27T19:30:56.971326+00:00",
+  "state": {
+    "slug": "new-mexico",
+    "name": "New Mexico"
+  },
+  "city": {
+    "slug": "raton",
+    "name": "Raton",
+    "label": "Raton, NM"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-mexico/raton/",
+  "offices": [
+    {
+      "officeId": 278234,
+      "slug": "raton-humane-society-278234",
+      "name": "Raton Humane Society",
+      "address": "PO Box 1321, Raton, NM 87740",
+      "phone": "505-445-9328",
+      "image": "https://cdn.findpawpal.com/office/278234.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/raton-humane-society-278234/"
+    },
+    {
+      "officeId": 281203,
+      "slug": "colfax-county-animal-control-281203",
+      "name": "Colfax County Animal Control",
+      "address": "PO Box 39, Raton, NM 87740",
+      "phone": "505-445-5562",
+      "image": "https://cdn.findpawpal.com/office/281203.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/colfax-county-animal-control-281203/"
+    },
+    {
+      "officeId": 281209,
+      "slug": "raton-city-animal-control-281209",
+      "name": "Raton City Animal Control",
+      "address": "PO Box 397, Raton, NM 87740",
+      "phone": "505-445-8640",
+      "image": "https://cdn.findpawpal.com/office/281209.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/raton-city-animal-control-281209/"
+    }
+  ]
+}

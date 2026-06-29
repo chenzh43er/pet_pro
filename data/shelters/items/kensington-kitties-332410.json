@@ -1,0 +1,21 @@
+{
+  "officeId": 332410,
+  "slug": "kensington-kitties-332410",
+  "name": "Kensington Kitties",
+  "address": "178 Ocean Parkway, Kensington, NY 11218",
+  "street": "178 Ocean Parkway",
+  "addressCity": "Kensington",
+  "stateCode": "NY",
+  "zip": "11218",
+  "phone": "347-414-5066",
+  "image": "./img/shelter/office/332410.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/kensington-kitties-332410/",
+  "stateSlug": "new-york",
+  "stateName": "New York",
+  "citySlug": "kensington",
+  "cityName": "Kensington",
+  "cityLabel": "Kensington, NY",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-york/kensington/",
+  "fetchedAt": "2026-06-27T19:34:20.638561+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/332410.jpg?f=webp&w=730"
+}

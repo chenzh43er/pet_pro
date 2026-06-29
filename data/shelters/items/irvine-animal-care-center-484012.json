@@ -1,0 +1,21 @@
+{
+  "officeId": 484012,
+  "slug": "irvine-animal-care-center-484012",
+  "name": "Irvine Animal Care Center",
+  "address": "6443 Oak Canyon, Irvine, CA 92618",
+  "street": "6443 Oak Canyon",
+  "addressCity": "Irvine",
+  "stateCode": "CA",
+  "zip": "92618",
+  "phone": "949-724-7740",
+  "image": "./img/shelter/office/484012.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/irvine-animal-care-center-484012/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "irvine",
+  "cityName": "Irvine",
+  "cityLabel": "Irvine, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/irvine/",
+  "fetchedAt": "2026-06-27T18:26:41.416280+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/484012.jpg?f=webp&w=730"
+}

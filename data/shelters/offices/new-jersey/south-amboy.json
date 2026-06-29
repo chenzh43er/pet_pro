@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:28:57.646256+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "south-amboy",
+    "name": "South Amboy",
+    "label": "South Amboy, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/south-amboy/",
+  "offices": [
+    {
+      "officeId": 100109,
+      "slug": "south-amboy-sayreville-shelter-100109",
+      "name": "South Amboy Sayreville Shelter",
+      "address": "140 North Broadway Street, South Amboy, NJ 08879",
+      "phone": "",
+      "image": "./img/shelter/office/100109.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/south-amboy-sayreville-shelter-100109/",
+      "imageUrl": "https://cdn.findpawpal.com/office/100109.jpg?f=webp&w=730"
+    }
+  ]
+}

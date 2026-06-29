@@ -1,0 +1,88 @@
+{
+  "slug": "do-dogs-have-blood-types-like-humans",
+  "path": "/pet-health/do-dogs-have-blood-types-like-humans/",
+  "category": "pet-health",
+  "categoryLabel": "Pet Health",
+  "title": "Do Dogs Have Blood Types Like Humans?",
+  "description": "Do dogs have blood types, and is it important for you to know your puppy's blood type? Discover why understanding dog blood types is crucial for ensuring safe and effective transfusions, ultimately safeguarding the health and well-being of our canine friends.",
+  "listImage": "./img/blog/list/do-dogs-have-blood-types-like-humans.webp",
+  "sections": [
+    {
+      "id": "long-list-1",
+      "title": "1. How Many Canine Blood Types Are There?",
+      "paragraphs": [
+        "First of all, human blood types are categorized by antigens on red blood cells, and for dogs, the approach is the same. There are 13 different dog blood types discovered so far, with complex genetic inheritance patterns. The canine blood groups most commonly recognized are DEA 1.1, DEA 1.2, DEA 3, DEA 4, DEA 5, and DEA 7. Dogs can have various combinations of these blood groups, leading to regional and breed-specific variations."
+      ],
+      "image": "./img/blog/content/do-dogs-have-blood-types-like-humans-11.webp"
+    },
+    {
+      "id": "long-list-2",
+      "title": "2. What's The Significance Of Identifying Your Dog's Blood Type?",
+      "paragraphs": [
+        "Knowing your dog's blood type is crucial in emergencies where blood transfusions might be necessary. By understanding your dog's blood type, veterinarians can ensure they receive compatible blood, reducing the risk of adverse reactions during transfusions. Additionally, identifying your dog's blood type can help in breeding programs to prevent potential issues related to blood compatibility in offspring."
+      ],
+      "image": "./img/blog/content/do-dogs-have-blood-types-like-humans-22.webp"
+    },
+    {
+      "id": "long-list-3",
+      "title": "3. Transfusion Reactions",
+      "paragraphs": [
+        "Incompatible blood transfusions can trigger strong immune responses, potentially causing fatal reactions in individuals. Symptoms of a transfusion reaction vary but can include changes in heartbeat, breathing difficulties, collapse, drooling, tremors, weakness, vomiting, and fever. To prevent such reactions, veterinary staff conduct tests before transfusions and closely monitor dogs during the process. Severe reactions are uncommon in dogs."
+      ],
+      "image": "./img/blog/content/do-dogs-have-blood-types-like-humans-3.webp"
+    },
+    {
+      "id": "long-list-4",
+      "title": "4. First Transfusion",
+      "paragraphs": [
+        "Dogs typically lack natural antibodies against incompatible blood, allowing for initial transfusions across different blood groups without immediate reactions. Many times, a dog's first transfusion takes place under emergency circumstances to save the dog's life. However, after the first exposure to foreign blood, the immune system can develop a dangerous response upon subsequent transfusions. It's advisable whenever possible—and always after your puppy has been previously transfused—to identify the dog's blood type so that sensitization of your dog's blood and a possible life-threatening reaction can be avoided."
+      ],
+      "image": "./img/blog/content/do-dogs-have-blood-types-like-humans-44.webp"
+    },
+    {
+      "id": "long-list-5",
+      "title": "5. Do Dogs Also Have a Universal Blood Type (Type O To Humans)?",
+      "paragraphs": [
+        "Yes! DEA1(+) blood type can accept both DEA 1(+) and DEA 1(-) blood. DEA 1(+) means that there is 1 antigen, and DEA 1(-) means that there is no such antigen, so it is generally fine to give DEA 1(-) this blood to DEA 1(+) or DEA 1(-), so DEA 1(-) can potentially be the equivalent of O blood type to humans, but other secondary antigens should be considered, such as 3.5.7. If these antigens are all negative and antigen 4 is positive, such blood type is then \"O blood type in the dog world\"."
+      ],
+      "image": "./img/blog/content/do-dogs-have-blood-types-like-humans-55.webp"
+    },
+    {
+      "id": "long-list-6",
+      "title": "6. Dog Blood Bank And Blood Donation",
+      "paragraphs": [
+        "Transfusion medicine has advanced significantly over the past decade to cater to the transfusion needs of dogs and cats. In 1989, Angell Memorial Animal Hospital in Boston established one of the earliest blood banks for pets. Today, a standard unit of whole canine blood is approximately 500cc, with packed red blood cells and smaller plasma units tailored to the pet's size and condition. Various blood donor programs, managed by veterinary teaching hospitals and private entities, are now operational.",
+        "Some blood donor programs enlist pet dogs, based on several criteria including health, weight, and age. Other facilities may already have colonies of dogs (greyhounds are common because most are DEA1.1 negative—but they're positive for DEA 3) that get lots of attention and treats for their participation and later may be adopted.",
+        "Veterinarians now have access to user-friendly typing cards for canines and felines to identify critical blood types in their practices. Cross-matching can also be swiftly conducted to assess the likelihood of a transfusion reaction, providing essential insights for safe transfusions."
+      ],
+      "image": "./img/blog/content/do-dogs-have-blood-types-like-humans-66.webp"
+    }
+  ],
+  "nav": [
+    {
+      "id": "long-list-1",
+      "label": "1. How Many Canine Blood Types Are There?"
+    },
+    {
+      "id": "long-list-2",
+      "label": "2. What's The Significance Of Identifying Your Dog's Blood Type?"
+    },
+    {
+      "id": "long-list-3",
+      "label": "3. Transfusion Reactions"
+    },
+    {
+      "id": "long-list-4",
+      "label": "4. First Transfusion"
+    },
+    {
+      "id": "long-list-5",
+      "label": "5. Do Dogs Also Have a Universal Blood Type (Type O To Humans)?"
+    },
+    {
+      "id": "long-list-6",
+      "label": "6. Dog Blood Bank And Blood Donation"
+    }
+  ],
+  "nextPath": "/pet-health/12-amazing-facts-about-dogs/"
+}

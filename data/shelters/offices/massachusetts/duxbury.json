@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T19:05:57.026847+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "duxbury",
+    "name": "Duxbury",
+    "label": "Duxbury, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/duxbury/",
+  "offices": [
+    {
+      "officeId": 40751,
+      "slug": "airedale-rescue-40751",
+      "name": "Airedale Rescue",
+      "address": "681 Congress Street, Duxbury, MA 02332",
+      "phone": "",
+      "image": "./img/shelter/office/40751.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/airedale-rescue-40751/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40751.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 41881,
+      "slug": "duxbury-animal-control-41881",
+      "name": "Duxbury Animal Control",
+      "address": "878 Tremont Street, Duxbury, MA 02332",
+      "phone": "781-934-6424",
+      "image": "https://cdn.findpawpal.com/office/41881.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/duxbury-animal-control-41881/"
+    },
+    {
+      "officeId": 44253,
+      "slug": "standish-humane-society-44253",
+      "name": "Standish Humane Society",
+      "address": "622 Congress Street, Duxbury, MA 02332",
+      "phone": "781-834-4663",
+      "image": "./img/shelter/office/44253.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/standish-humane-society-44253/",
+      "imageUrl": "https://cdn.findpawpal.com/office/44253.jpg?f=webp&w=730"
+    }
+  ]
+}

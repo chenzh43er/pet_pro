@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:37:53.239403+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "york",
+    "name": "York",
+    "label": "York, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/york/",
+  "offices": [
+    {
+      "officeId": 332462,
+      "slug": "horse-rescue-and-sanctuary-inc-332462",
+      "name": "HORSE Rescue and Sanctuary, Inc.",
+      "address": "PO Box 432, York, NY 14592",
+      "phone": "585-584-8210",
+      "image": "./img/shelter/office/332462.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/horse-rescue-and-sanctuary-inc-332462/",
+      "imageUrl": "https://cdn.findpawpal.com/office/332462.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "fetchedAt": "2026-06-27T18:26:34.884809+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "huntington-beach",
+    "name": "Huntington Beach",
+    "label": "Huntington Beach, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/huntington-beach/",
+  "offices": [
+    {
+      "slug": "westie-rescue-of-orange-county-beyond-380923",
+      "name": "Westie Rescue of Orange County Beyond",
+      "address": "9151 Atlanta Avenue, Huntington Beach, CA 92615",
+      "phone": "714-402-1054",
+      "image": "./img/shelter/office/380923.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/westie-rescue-of-orange-county-beyond-380923/",
+      "imageUrl": "https://cdn.findpawpal.com/office/380923.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "boxer-orange-county-animal-rescue-inc-474501",
+      "name": "Boxer Orange County Animal Rescue, Inc.",
+      "address": "PO Box 1235, Huntington Beach, CA 92647",
+      "phone": "714-904-0012",
+      "image": "./img/shelter/office/474501.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/boxer-orange-county-animal-rescue-inc-474501/",
+      "imageUrl": "https://cdn.findpawpal.com/office/474501.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "orange-county-humane-society-483819",
+      "name": "Orange County Humane Society",
+      "address": "21632 Newland Street, Huntington Beach, CA 92646",
+      "phone": "714-536-8480",
+      "image": "./img/shelter/office/483819.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/orange-county-humane-society-483819/",
+      "imageUrl": "https://cdn.findpawpal.com/office/483819.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-pet-adoptions-532703",
+      "name": "Second Chance Pet Adoptions",
+      "address": "9121 Atlanta Avenue, Huntington Beach, CA 92646",
+      "phone": "714-960-8415",
+      "image": "https://cdn.findpawpal.com/office/532703.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/second-chance-pet-adoptions-532703/"
+    },
+    {
+      "slug": "warner-west-pet-clinic-532749",
+      "name": "Warner West Pet Clinic",
+      "address": "6885 Warner Avenue, Huntington Beach, CA 92647",
+      "phone": "714-847-9617",
+      "image": "./img/shelter/office/532749.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/warner-west-pet-clinic-532749/",
+      "imageUrl": "https://cdn.findpawpal.com/office/532749.jpg?f=webp&w=730"
+    }
+  ]
+}

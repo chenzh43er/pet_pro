@@ -1,0 +1,21 @@
+{
+  "officeId": 622769,
+  "slug": "humane-society-shelter-parkersburg-622769",
+  "name": "Humane Society Shelter Parkersburg",
+  "address": "29th Poplar St, Parkersburg, WV 26101",
+  "street": "29th Poplar St",
+  "addressCity": "Parkersburg",
+  "stateCode": "WV",
+  "zip": "26101",
+  "phone": "304-422-5541",
+  "image": "./img/shelter/office/622769.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/humane-society-shelter-parkersburg-622769/",
+  "stateSlug": "west-virginia",
+  "stateName": "West Virginia",
+  "citySlug": "parkersburg",
+  "cityName": "Parkersburg",
+  "cityLabel": "Parkersburg, WV",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/west-virginia/parkersburg/",
+  "fetchedAt": "2026-06-27T20:21:11.248250+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/622769.jpg?f=webp&w=730"
+}

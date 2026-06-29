@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:16:42.072470+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "alexander",
+    "name": "Alexander",
+    "label": "Alexander, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/alexander/",
+  "offices": [
+    {
+      "slug": "lake-martin-humane-society-and-animal-shelter-6602",
+      "name": "Lake Martin Humane Society & Animal Shelter",
+      "address": "2502 Sugar Creek Rd, Alexander, AL 35011",
+      "phone": "256-234-5533",
+      "image": "./img/shelter/office/6602.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lake-martin-humane-society-and-animal-shelter-6602/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6602.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alexander-city-animal-control-7089",
+      "name": "Alexander City Animal Control",
+      "address": "1 Court Square, Alexander, AL 35010",
+      "phone": "256-397-1023",
+      "image": "./img/shelter/office/7089.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/alexander-city-animal-control-7089/",
+      "imageUrl": "https://cdn.findpawpal.com/office/7089.jpg?f=webp&w=730"
+    }
+  ]
+}

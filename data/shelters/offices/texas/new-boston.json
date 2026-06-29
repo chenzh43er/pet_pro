@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:08:00.254432+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "new-boston",
+    "name": "New Boston",
+    "label": "New Boston, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/new-boston/",
+  "offices": [
+    {
+      "officeId": 519212,
+      "slug": "new-boston-animal-control-519212",
+      "name": "New Boston Animal Control",
+      "address": "301 Northeast Front Street, New Boston, TX 75570",
+      "phone": "903-628-7881",
+      "image": "./img/shelter/office/519212.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-boston-animal-control-519212/",
+      "imageUrl": "https://cdn.findpawpal.com/office/519212.jpg?f=webp&w=730"
+    }
+  ]
+}

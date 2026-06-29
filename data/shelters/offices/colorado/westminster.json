@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T18:35:19.416103+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "westminster",
+    "name": "Westminster",
+    "label": "Westminster, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/westminster/",
+  "offices": [
+    {
+      "officeId": 39943,
+      "slug": "german-shepherd-rescue-of-the-rockies-39943",
+      "name": "German Shepherd Rescue of the Rockies",
+      "address": "PO Box 1481, Westminster, CO 80036",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/39943.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/german-shepherd-rescue-of-the-rockies-39943/"
+    },
+    {
+      "officeId": 40432,
+      "slug": "almost-home-adoptions-40432",
+      "name": "Almost Home Adoptions",
+      "address": "6010 West 88th Avenue, Westminster, CO 80031",
+      "phone": "303-432-2299",
+      "image": "./img/shelter/office/40432.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/almost-home-adoptions-40432/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40432.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 41005,
+      "slug": "animal-relocators-41005",
+      "name": "Animal Relocators",
+      "address": "8065 Julian Street, Westminster, CO 80031",
+      "phone": "303-429-7116",
+      "image": "./img/shelter/office/41005.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-relocators-41005/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41005.jpg?f=webp&w=730"
+    }
+  ]
+}

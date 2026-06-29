@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:19:35.225817+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "wenatchee",
+    "name": "Wenatchee",
+    "label": "Wenatchee, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/wenatchee/",
+  "offices": [
+    {
+      "officeId": 698879,
+      "slug": "wenatchee-valley-humane-society-698879",
+      "name": "Wenatchee Valley Humane Society",
+      "address": "1474 South Wenatchee Avenue, Wenatchee, WA 98801",
+      "phone": "509-662-9577",
+      "image": "./img/shelter/office/698879.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wenatchee-valley-humane-society-698879/",
+      "imageUrl": "https://cdn.findpawpal.com/office/698879.jpg?f=webp&w=730"
+    }
+  ]
+}

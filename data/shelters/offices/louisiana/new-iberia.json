@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:00:22.918312+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "new-iberia",
+    "name": "New Iberia",
+    "label": "New Iberia, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/new-iberia/",
+  "offices": [
+    {
+      "officeId": 223447,
+      "slug": "iberia-humane-society-223447",
+      "name": "Iberia Humane Society",
+      "address": "PO Box 11422, New Iberia, LA 70562",
+      "phone": "337-365-1923",
+      "image": "./img/shelter/office/223447.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/iberia-humane-society-223447/",
+      "imageUrl": "https://cdn.findpawpal.com/office/223447.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 243078,
+      "slug": "iberia-parish-animal-shelter-243078",
+      "name": "Iberia Parish Animal Shelter",
+      "address": "2017 Seaway Access Road, New Iberia, LA 70560",
+      "phone": "337-364-6311",
+      "image": "./img/shelter/office/243078.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/iberia-parish-animal-shelter-243078/",
+      "imageUrl": "https://cdn.findpawpal.com/office/243078.jpg?f=webp&w=730"
+    }
+  ]
+}

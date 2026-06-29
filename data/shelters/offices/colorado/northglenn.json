@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T18:34:53.075465+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "northglenn",
+    "name": "Northglenn",
+    "label": "Northglenn, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/northglenn/",
+  "offices": [
+    {
+      "officeId": 41025,
+      "slug": "recycled-critter-rescue-41025",
+      "name": "Recycled Critter Rescue",
+      "address": "PO Box 33932, Northglenn, CO 80233",
+      "phone": "720-872-9147",
+      "image": "https://cdn.findpawpal.com/office/41025.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/recycled-critter-rescue-41025/"
+    },
+    {
+      "officeId": 41046,
+      "slug": "mile-high-humane-society-41046",
+      "name": "Mile High Humane Society",
+      "address": "11470 York Street, Northglenn, CO 80233",
+      "phone": "303-452-2224",
+      "image": "./img/shelter/office/41046.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mile-high-humane-society-41046/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41046.jpg?f=webp&w=730"
+    }
+  ]
+}

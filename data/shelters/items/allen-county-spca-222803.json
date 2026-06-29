@@ -1,0 +1,21 @@
+{
+  "officeId": 222803,
+  "slug": "allen-county-spca-222803",
+  "name": "Allen County SPCA",
+  "address": "4914 Hanna Street, Fort Wayne, IN 46806",
+  "street": "4914 Hanna Street",
+  "addressCity": "Fort Wayne",
+  "stateCode": "IN",
+  "zip": "46806",
+  "phone": "260-744-0454",
+  "image": "./img/shelter/office/222803.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/allen-county-spca-222803/",
+  "stateSlug": "indiana",
+  "stateName": "Indiana",
+  "citySlug": "fort-wayne",
+  "cityName": "Fort Wayne",
+  "cityLabel": "Fort Wayne, IN",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/indiana/fort-wayne/",
+  "fetchedAt": "2026-06-27T18:50:05.497426+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/222803.jpg?f=webp&w=730"
+}

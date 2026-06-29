@@ -1,0 +1,21 @@
+{
+  "officeId": 508219,
+  "slug": "greenbrier-county-humane-society-508219",
+  "name": "Greenbrier County Humane Society",
+  "address": "151 Holliday Lane, Lewisburg, WV 24901",
+  "street": "151 Holliday Lane",
+  "addressCity": "Lewisburg",
+  "stateCode": "WV",
+  "zip": "24901",
+  "phone": "304-645-4775",
+  "image": "./img/shelter/office/508219.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/greenbrier-county-humane-society-508219/",
+  "stateSlug": "west-virginia",
+  "stateName": "West Virginia",
+  "citySlug": "lewisburg",
+  "cityName": "Lewisburg",
+  "cityLabel": "Lewisburg, WV",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/west-virginia/lewisburg/",
+  "fetchedAt": "2026-06-27T20:20:50.426571+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/508219.jpg?f=webp&w=730"
+}

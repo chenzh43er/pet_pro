@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:25:48.378621+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "eureka",
+    "name": "Eureka",
+    "label": "Eureka, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/eureka/",
+  "offices": [
+    {
+      "slug": "sequoia-humane-society-360634",
+      "name": "Sequoia Humane Society",
+      "address": "6073 Loma Avenue, Eureka, CA 95503",
+      "phone": "707-442-1782",
+      "image": "./img/shelter/office/360634.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sequoia-humane-society-360634/",
+      "imageUrl": "https://cdn.findpawpal.com/office/360634.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "eureka-animal-control-364205",
+      "name": "Eureka Animal Control",
+      "address": "604 C Street, Eureka, CA 95501",
+      "phone": "707-441-4327",
+      "image": "./img/shelter/office/364205.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/eureka-animal-control-364205/",
+      "imageUrl": "https://cdn.findpawpal.com/office/364205.jpg?f=webp&w=730"
+    }
+  ]
+}

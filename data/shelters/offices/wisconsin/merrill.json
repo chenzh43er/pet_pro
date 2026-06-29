@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:23:25.841329+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "merrill",
+    "name": "Merrill",
+    "label": "Merrill, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/merrill/",
+  "offices": [
+    {
+      "officeId": 673477,
+      "slug": "lincoln-county-humane-society-673477",
+      "name": "Lincoln County Humane Society",
+      "address": "200 Memorial Drive, Merrill, WI 54452",
+      "phone": "715-536-3459",
+      "image": "./img/shelter/office/673477.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lincoln-county-humane-society-673477/",
+      "imageUrl": "https://cdn.findpawpal.com/office/673477.jpg?f=webp&w=730"
+    }
+  ]
+}

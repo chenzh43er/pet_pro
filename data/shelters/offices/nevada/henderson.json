@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T19:23:17.678914+00:00",
+  "state": {
+    "slug": "nevada",
+    "name": "Nevada"
+  },
+  "city": {
+    "slug": "henderson",
+    "name": "Henderson",
+    "label": "Henderson, NV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nevada/henderson/",
+  "offices": [
+    {
+      "officeId": 6819,
+      "slug": "animal-adoptions-ltd-6819",
+      "name": "Animal Adoptions, Ltd.",
+      "address": "PO Box 90640, Henderson, NV 89009",
+      "phone": "702-361-2484",
+      "image": "https://cdn.findpawpal.com/office/6819.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-adoptions-ltd-6819/"
+    },
+    {
+      "officeId": 6890,
+      "slug": "henderson-animal-control-6890",
+      "name": "Henderson Animal Control",
+      "address": "240 South Water Street, Henderson, NV 89015",
+      "phone": "702-565-2314",
+      "image": "./img/shelter/office/6890.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/henderson-animal-control-6890/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6890.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 7347,
+      "slug": "henderson-animal-control-7347",
+      "name": "Henderson Animal Control",
+      "address": "300 Galleria Drive, Henderson, NV 89011",
+      "phone": "702-267-4970",
+      "image": "./img/shelter/office/7347.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/henderson-animal-control-7347/",
+      "imageUrl": "https://cdn.findpawpal.com/office/7347.jpg?f=webp&w=730"
+    }
+  ]
+}

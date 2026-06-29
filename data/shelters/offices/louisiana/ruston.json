@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T19:00:40.918327+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "ruston",
+    "name": "Ruston",
+    "label": "Ruston, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/ruston/",
+  "offices": [
+    {
+      "officeId": 240052,
+      "slug": "ruston-animal-control-240052",
+      "name": "Ruston Animal Control",
+      "address": "1901 McDonald Avenue, Ruston, LA 71270",
+      "phone": "318-251-8685",
+      "image": "./img/shelter/office/240052.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ruston-animal-control-240052/",
+      "imageUrl": "https://cdn.findpawpal.com/office/240052.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 281643,
+      "slug": "paws-rescue-inc-281643",
+      "name": "Paws Rescue Inc",
+      "address": "290 Rodeo Road, Ruston, LA 71270",
+      "phone": "318-251-3647",
+      "image": "./img/shelter/office/281643.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/paws-rescue-inc-281643/",
+      "imageUrl": "https://cdn.findpawpal.com/office/281643.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 281650,
+      "slug": "taylor-ridge-guinea-pig-rescue-and-adoption-281650",
+      "name": "Taylor Ridge Guinea Pig Rescue & Adoption",
+      "address": "167 Trace Drive, Ruston, LA 71270",
+      "phone": "318-254-8018",
+      "image": "https://cdn.findpawpal.com/office/281650.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/taylor-ridge-guinea-pig-rescue-and-adoption-281650/"
+    }
+  ]
+}

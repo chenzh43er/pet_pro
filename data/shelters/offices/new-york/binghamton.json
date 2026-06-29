@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T19:31:59.740515+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "binghamton",
+    "name": "Binghamton",
+    "label": "Binghamton, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/binghamton/",
+  "offices": [
+    {
+      "officeId": 317835,
+      "slug": "broome-county-shelter-317835",
+      "name": "Broome County Shelter",
+      "address": "110 Cutler Pond Road, Binghamton, NY 13905",
+      "phone": "607-778-2493",
+      "image": "./img/shelter/office/317835.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/broome-county-shelter-317835/",
+      "imageUrl": "https://cdn.findpawpal.com/office/317835.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 332246,
+      "slug": "project-paw-inc-332246",
+      "name": "Project Paw Inc",
+      "address": "127 Bevier Street, Binghamton, NY 13904",
+      "phone": "607-724-2241",
+      "image": "./img/shelter/office/332246.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/project-paw-inc-332246/",
+      "imageUrl": "https://cdn.findpawpal.com/office/332246.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 334862,
+      "slug": "speak-animal-hospital-maresca-mindy-dvm-334862",
+      "name": "Speak Animal Hospital: Maresca Mindy DVM",
+      "address": "351 Flint Road, Binghamton, NY 13905",
+      "phone": "607-729-7368",
+      "image": "./img/shelter/office/334862.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/speak-animal-hospital-maresca-mindy-dvm-334862/",
+      "imageUrl": "https://cdn.findpawpal.com/office/334862.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 342875,
+      "slug": "the-humane-society-342875",
+      "name": "The humane society",
+      "address": "2 Jackson Street, Binghamton, NY 13903",
+      "phone": "607-724-3709",
+      "image": "./img/shelter/office/342875.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-humane-society-342875/",
+      "imageUrl": "https://cdn.findpawpal.com/office/342875.jpg?f=webp&w=730"
+    }
+  ]
+}

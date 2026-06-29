@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:56:34.980991+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "casey-creek",
+    "name": "Casey Creek",
+    "label": "Casey Creek, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/casey-creek/",
+  "offices": [
+    {
+      "officeId": 115370,
+      "slug": "casey-creek-horse-rescue-and-adoption-inc-115370",
+      "name": "Casey Creek Horse Rescue & Adoption, Inc.",
+      "address": "624 Wilson Creek Rd, Casey Creek, KY 42728",
+      "phone": "270-789-4198",
+      "image": "./img/shelter/office/115370.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/casey-creek-horse-rescue-and-adoption-inc-115370/",
+      "imageUrl": "https://cdn.findpawpal.com/office/115370.jpg?f=webp&w=730"
+    }
+  ]
+}

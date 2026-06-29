@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:14:02.750135+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "coon-rapids",
+    "name": "Coon Rapids",
+    "label": "Coon Rapids, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/coon-rapids/",
+  "offices": [
+    {
+      "officeId": 400445,
+      "slug": "animal-humane-shelter-400445",
+      "name": "Animal Humane Shelter",
+      "address": "1411 Main Street Northwest, Coon Rapids, MN 55448",
+      "phone": "763-522-4325",
+      "image": "./img/shelter/office/400445.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-humane-shelter-400445/",
+      "imageUrl": "https://cdn.findpawpal.com/office/400445.jpg?f=webp&w=730"
+    }
+  ]
+}

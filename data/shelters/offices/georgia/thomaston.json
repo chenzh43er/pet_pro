@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:41:44.688121+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "thomaston",
+    "name": "Thomaston",
+    "label": "Thomaston, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/thomaston/",
+  "offices": [
+    {
+      "officeId": 141455,
+      "slug": "thomaston-upson-humane-society-141455",
+      "name": "Thomaston Upson Humane Society",
+      "address": "157 Wildwood Drive, Thomaston, GA 30286",
+      "phone": "706-647-1881",
+      "image": "./img/shelter/office/141455.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/thomaston-upson-humane-society-141455/",
+      "imageUrl": "https://cdn.findpawpal.com/office/141455.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 145745,
+      "slug": "upson-county-animal-shelter-145745",
+      "name": "Upson County Animal Shelter",
+      "address": "2371 Yatesville Highway, Thomaston, GA 30286",
+      "phone": "706-647-5586",
+      "image": "./img/shelter/office/145745.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/upson-county-animal-shelter-145745/",
+      "imageUrl": "https://cdn.findpawpal.com/office/145745.jpg?f=webp&w=730"
+    }
+  ]
+}

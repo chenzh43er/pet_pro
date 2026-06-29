@@ -1,0 +1,21 @@
+{
+  "officeId": 490520,
+  "slug": "waukesha-county-humane-society-490520",
+  "name": "Waukesha County Humane Society",
+  "address": "309 Summit Avenue, Oconomowoc, WI 53066",
+  "street": "309 Summit Avenue",
+  "addressCity": "Oconomowoc",
+  "stateCode": "WI",
+  "zip": "53066",
+  "phone": "262-965-2670",
+  "image": "./img/shelter/office/490520.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/waukesha-county-humane-society-490520/",
+  "stateSlug": "wisconsin",
+  "stateName": "Wisconsin",
+  "citySlug": "oconomowoc",
+  "cityName": "Oconomowoc",
+  "cityLabel": "Oconomowoc, WI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/wisconsin/oconomowoc/",
+  "fetchedAt": "2026-06-27T20:23:37.854100+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/490520.jpg?f=webp&w=730"
+}

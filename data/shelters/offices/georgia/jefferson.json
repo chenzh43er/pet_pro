@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:40:19.805633+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "jefferson",
+    "name": "Jefferson",
+    "label": "Jefferson, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/jefferson/",
+  "offices": [
+    {
+      "officeId": 158244,
+      "slug": "humane-society-of-jackson-county-158244",
+      "name": "Humane Society of Jackson County",
+      "address": "98 College Street, Jefferson, GA 30549",
+      "phone": "706-367-1111",
+      "image": "./img/shelter/office/158244.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-jackson-county-158244/",
+      "imageUrl": "https://cdn.findpawpal.com/office/158244.jpg?f=webp&w=730"
+    }
+  ]
+}

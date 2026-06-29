@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:21:27.477039+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "spencer",
+    "name": "Spencer",
+    "label": "Spencer, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/spencer/",
+  "offices": [
+    {
+      "officeId": 507545,
+      "slug": "roane-county-humane-society-507545",
+      "name": "Roane County Humane Society",
+      "address": "2426 Charleston Road, Spencer, WV 25276",
+      "phone": "304-927-0078",
+      "image": "./img/shelter/office/507545.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/roane-county-humane-society-507545/",
+      "imageUrl": "https://cdn.findpawpal.com/office/507545.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 696193,
+      "slug": "roane-county-animal-shelter-696193",
+      "name": "Roane County Animal Shelter",
+      "address": "2550 Parkersburg Road, Spencer, WV 25276",
+      "phone": "304-927-2555",
+      "image": "./img/shelter/office/696193.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/roane-county-animal-shelter-696193/",
+      "imageUrl": "https://cdn.findpawpal.com/office/696193.jpg?f=webp&w=730"
+    }
+  ]
+}

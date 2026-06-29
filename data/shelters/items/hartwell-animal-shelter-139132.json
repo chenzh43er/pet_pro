@@ -1,0 +1,21 @@
+{
+  "officeId": 139132,
+  "slug": "hartwell-animal-shelter-139132",
+  "name": "Hartwell Animal Shelter",
+  "address": "500 East Howell Street, Hartwell, GA 30643",
+  "street": "500 East Howell Street",
+  "addressCity": "Hartwell",
+  "stateCode": "GA",
+  "zip": "30643",
+  "phone": "706-376-4756",
+  "image": "./img/shelter/office/139132.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/hartwell-animal-shelter-139132/",
+  "stateSlug": "georgia",
+  "stateName": "Georgia",
+  "citySlug": "hartwell",
+  "cityName": "Hartwell",
+  "cityLabel": "Hartwell, GA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/georgia/hartwell/",
+  "fetchedAt": "2026-06-27T18:40:08.484665+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/139132.jpg?f=webp&w=730"
+}

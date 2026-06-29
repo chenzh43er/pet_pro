@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T18:45:06.634478+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "dixon",
+    "name": "Dixon",
+    "label": "Dixon, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/dixon/",
+  "offices": [
+    {
+      "officeId": 383010,
+      "slug": "granny-rose-animal-shelter-383010",
+      "name": "Granny Rose Animal Shelter",
+      "address": "613 River Lane, Dixon, IL 61021",
+      "phone": "815-288-7387",
+      "image": "./img/shelter/office/383010.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/granny-rose-animal-shelter-383010/",
+      "imageUrl": "https://cdn.findpawpal.com/office/383010.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 383014,
+      "slug": "cause-4-paws-rescue-383014",
+      "name": "Cause 4 Paws Rescue",
+      "address": "5039 West Murray Drive, Dixon, IL 61021",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/383014.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/cause-4-paws-rescue-383014/"
+    }
+  ]
+}

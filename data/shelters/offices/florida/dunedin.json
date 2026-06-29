@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:14:05.173492+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "dunedin",
+    "name": "Dunedin",
+    "label": "Dunedin, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/dunedin/",
+  "offices": [
+    {
+      "slug": "canine-rescue-flights-293165",
+      "name": "Canine Rescue Flights",
+      "address": "PO Box 1364, Dunedin, FL 34697",
+      "phone": "",
+      "image": "./img/shelter/office/293165.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/canine-rescue-flights-293165/",
+      "imageUrl": "https://cdn.findpawpal.com/office/293165.jpg?f=webp&w=730"
+    }
+  ]
+}

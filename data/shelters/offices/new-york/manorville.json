@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:34:43.076976+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "manorville",
+    "name": "Manorville",
+    "label": "Manorville, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/manorville/",
+  "offices": [
+    {
+      "officeId": 401294,
+      "slug": "new-york-horse-rescue-401294",
+      "name": "New York Horse Rescue",
+      "address": "PO Box 435, Manorville, NY 11949",
+      "phone": "631-874-9420",
+      "image": "./img/shelter/office/401294.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york-horse-rescue-401294/",
+      "imageUrl": "https://cdn.findpawpal.com/office/401294.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 403798,
+      "slug": "riverhead-shelter-volunteer-program-403798",
+      "name": "Riverhead Shelter Volunteer Program",
+      "address": "Old River Rd, Manorville, NY 11949",
+      "phone": "516-369-1544",
+      "image": "./img/shelter/office/403798.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/riverhead-shelter-volunteer-program-403798/",
+      "imageUrl": "https://cdn.findpawpal.com/office/403798.jpg?f=webp&w=730"
+    }
+  ]
+}

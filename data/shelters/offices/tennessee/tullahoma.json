@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:02:14.553737+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "tullahoma",
+    "name": "Tullahoma",
+    "label": "Tullahoma, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/tullahoma/",
+  "offices": [
+    {
+      "officeId": 459943,
+      "slug": "humane-society-of-coffee-county-459943",
+      "name": "Humane Society of Coffee County",
+      "address": "707 South Washington Street, Tullahoma, TN 37388",
+      "phone": "931-728-8036",
+      "image": "./img/shelter/office/459943.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-coffee-county-459943/",
+      "imageUrl": "https://cdn.findpawpal.com/office/459943.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 460189,
+      "slug": "tullahoma-animal-control-460189",
+      "name": "Tullahoma Animal Control",
+      "address": "942 Maplewood Avenue, Tullahoma, TN 37388",
+      "phone": "931-454-9580",
+      "image": "./img/shelter/office/460189.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tullahoma-animal-control-460189/",
+      "imageUrl": "https://cdn.findpawpal.com/office/460189.jpg?f=webp&w=730"
+    }
+  ]
+}

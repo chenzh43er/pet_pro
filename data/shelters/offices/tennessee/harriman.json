@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:00:21.121411+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "harriman",
+    "name": "Harriman",
+    "label": "Harriman, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/harriman/",
+  "offices": [
+    {
+      "officeId": 418255,
+      "slug": "americas-dog-rescue-418255",
+      "name": "America's Dog Rescue",
+      "address": "420 Skyline Drive, Harriman, TN 37748",
+      "phone": "865-360-9302",
+      "image": "./img/shelter/office/418255.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/americas-dog-rescue-418255/",
+      "imageUrl": "https://cdn.findpawpal.com/office/418255.jpg?f=webp&w=730"
+    }
+  ]
+}

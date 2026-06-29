@@ -1,0 +1,42 @@
+{
+  "fetchedAt": "2026-06-27T18:27:51.147195+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "merced",
+    "name": "Merced",
+    "label": "Merced, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/merced/",
+  "offices": [
+    {
+      "slug": "merced-spca-388488",
+      "name": "MERCED SPCA",
+      "address": "1021 East Childs Avenue, Merced, CA 95341",
+      "phone": "209-384-7722",
+      "image": "./img/shelter/office/388488.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/merced-spca-388488/",
+      "imageUrl": "https://cdn.findpawpal.com/office/388488.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "merced-city-animal-control-489265",
+      "name": "Merced City Animal Control",
+      "address": "611 West 22nd Street, Merced, CA 95340",
+      "phone": "209-385-4720",
+      "image": "./img/shelter/office/489265.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/merced-city-animal-control-489265/",
+      "imageUrl": "https://cdn.findpawpal.com/office/489265.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "merced-county-animal-control-489271",
+      "name": "Merced County Animal Control",
+      "address": "2080 Grogan Avenue, Merced, CA 95341",
+      "phone": "209-385-7436",
+      "image": "./img/shelter/office/489271.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/merced-county-animal-control-489271/",
+      "imageUrl": "https://cdn.findpawpal.com/office/489271.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:08:46.323070+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "rockport",
+    "name": "Rockport",
+    "label": "Rockport, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/rockport/",
+  "offices": [
+    {
+      "officeId": 519081,
+      "slug": "aransas-county-animal-control-519081",
+      "name": "Aransas County Animal Control",
+      "address": "611 East Mimosa Street, Rockport, TX 78382",
+      "phone": "361-790-0103",
+      "image": "./img/shelter/office/519081.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/aransas-county-animal-control-519081/",
+      "imageUrl": "https://cdn.findpawpal.com/office/519081.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 538536,
+      "slug": "lookin-for-love-animal-rescue-538536",
+      "name": "Lookin' for Love Animal Rescue",
+      "address": "1414 12th Street, Rockport, TX 78382",
+      "phone": "361-219-8018",
+      "image": "./img/shelter/office/538536.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lookin-for-love-animal-rescue-538536/",
+      "imageUrl": "https://cdn.findpawpal.com/office/538536.jpg?f=webp&w=730"
+    }
+  ]
+}

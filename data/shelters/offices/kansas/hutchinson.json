@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:55:04.954308+00:00",
+  "state": {
+    "slug": "kansas",
+    "name": "Kansas"
+  },
+  "city": {
+    "slug": "hutchinson",
+    "name": "Hutchinson",
+    "label": "Hutchinson, KS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kansas/hutchinson/",
+  "offices": [
+    {
+      "officeId": 5644,
+      "slug": "hutchinson-humane-welfare-association-5644",
+      "name": "Hutchinson Humane Welfare Association",
+      "address": "3501 Stewart Street, Hutchinson, KS 67502",
+      "phone": "620-662-6981",
+      "image": "./img/shelter/office/5644.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hutchinson-humane-welfare-association-5644/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5644.jpg?f=webp&w=730"
+    }
+  ]
+}

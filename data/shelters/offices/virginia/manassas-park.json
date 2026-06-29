@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:15:01.153220+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "manassas-park",
+    "name": "Manassas Park",
+    "label": "Manassas Park, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/manassas-park/",
+  "offices": [
+    {
+      "officeId": 561284,
+      "slug": "manassas-park-animal-control-561284",
+      "name": "Manassas Park Animal Control",
+      "address": "329 Manassas Dr, Manassas Park, VA 20111",
+      "phone": "",
+      "image": "./img/shelter/office/561284.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/manassas-park-animal-control-561284/",
+      "imageUrl": "https://cdn.findpawpal.com/office/561284.jpg?f=webp&w=730"
+    }
+  ]
+}

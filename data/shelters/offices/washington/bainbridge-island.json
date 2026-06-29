@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:17:11.759485+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "bainbridge-island",
+    "name": "Bainbridge Island",
+    "label": "Bainbridge Island, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/bainbridge-island/",
+  "offices": [
+    {
+      "officeId": 614827,
+      "slug": "bainbridge-animal-shelter-614827",
+      "name": "Bainbridge Animal Shelter",
+      "address": "7501 Northeast Dolphin Drive, Bainbridge Island, WA 98110",
+      "phone": "206-855-9057",
+      "image": "./img/shelter/office/614827.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bainbridge-animal-shelter-614827/",
+      "imageUrl": "https://cdn.findpawpal.com/office/614827.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 698901,
+      "slug": "paws-of-bainbridge-island-and-north-kitsap-698901",
+      "name": "PAWS of Bainbridge Island and North Kitsap",
+      "address": "4688 Lynwood Center Road Northeast, Bainbridge Island, WA 98110",
+      "phone": "206-842-2451",
+      "image": "./img/shelter/office/698901.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/paws-of-bainbridge-island-and-north-kitsap-698901/",
+      "imageUrl": "https://cdn.findpawpal.com/office/698901.jpg?f=webp&w=730"
+    }
+  ]
+}

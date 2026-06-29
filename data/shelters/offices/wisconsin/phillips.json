@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:23:43.756330+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "phillips",
+    "name": "Phillips",
+    "label": "Phillips, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/phillips/",
+  "offices": [
+    {
+      "officeId": 634171,
+      "slug": "phillips-animal-control-634171",
+      "name": "Phillips Animal Control",
+      "address": "104 South Eyder Avenue, Phillips, WI 54555",
+      "phone": "715-339-3014",
+      "image": "https://cdn.findpawpal.com/office/634171.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/phillips-animal-control-634171/"
+    }
+  ]
+}

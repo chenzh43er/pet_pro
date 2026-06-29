@@ -1,0 +1,21 @@
+{
+  "officeId": 582185,
+  "slug": "marion-county-animal-shelter-582185",
+  "name": "Marion County Animal Shelter",
+  "address": "123 Cat and Dog Rd, Mullins, SC 29574",
+  "street": "123 Cat and Dog Rd",
+  "addressCity": "Mullins",
+  "stateCode": "SC",
+  "zip": "29574",
+  "phone": "843-423-8370",
+  "image": "./img/shelter/office/582185.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/marion-county-animal-shelter-582185/",
+  "stateSlug": "south-carolina",
+  "stateName": "South Carolina",
+  "citySlug": "mullins",
+  "cityName": "Mullins",
+  "cityLabel": "Mullins, SC",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/south-carolina/mullins/",
+  "fetchedAt": "2026-06-27T19:57:55.727520+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/582185.jpg?f=webp&w=730"
+}

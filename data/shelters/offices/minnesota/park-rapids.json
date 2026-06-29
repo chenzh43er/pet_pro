@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T19:15:07.368292+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "park-rapids",
+    "name": "Park Rapids",
+    "label": "Park Rapids, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/park-rapids/",
+  "offices": [
+    {
+      "officeId": 418897,
+      "slug": "headwaters-humane-society-418897",
+      "name": "Headwaters Humane Society",
+      "address": "PO Box 573, Park Rapids, MN 56470",
+      "phone": "218-732-4620",
+      "image": "https://cdn.findpawpal.com/office/418897.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/headwaters-humane-society-418897/"
+    },
+    {
+      "officeId": 595920,
+      "slug": "park-rapids-animal-shelter-595920",
+      "name": "Park Rapids Animal Shelter",
+      "address": "901 Western Avenue South, Park Rapids, MN 56470",
+      "phone": "218-237-7100",
+      "image": "https://cdn.findpawpal.com/office/595920.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/park-rapids-animal-shelter-595920/"
+    }
+  ]
+}

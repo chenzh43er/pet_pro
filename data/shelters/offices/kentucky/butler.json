@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:56:30.499218+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "butler",
+    "name": "Butler",
+    "label": "Butler, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/butler/",
+  "offices": [
+    {
+      "officeId": 117317,
+      "slug": "pendleton-county-animal-shelter-117317",
+      "name": "Pendleton County Animal Shelter",
+      "address": "1314 Bryan Griffin Rd, Butler, KY 41006",
+      "phone": "859-472-5400",
+      "image": "./img/shelter/office/117317.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pendleton-county-animal-shelter-117317/",
+      "imageUrl": "https://cdn.findpawpal.com/office/117317.jpg?f=webp&w=730"
+    }
+  ]
+}

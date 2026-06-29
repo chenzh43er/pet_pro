@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:08:35.829623+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "powderly",
+    "name": "Powderly",
+    "label": "Powderly, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/powderly/",
+  "offices": [
+    {
+      "officeId": 538619,
+      "slug": "magicarpet-show-horses-538619",
+      "name": "Magicarpet Show Horses",
+      "address": "1273 Co Road 44250, Powderly, TX 75473",
+      "phone": "903-732-4100",
+      "image": "./img/shelter/office/538619.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/magicarpet-show-horses-538619/",
+      "imageUrl": "https://cdn.findpawpal.com/office/538619.jpg?f=webp&w=730"
+    }
+  ]
+}

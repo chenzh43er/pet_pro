@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:21:42.279175+00:00",
+  "state": {
+    "slug": "montana",
+    "name": "Montana"
+  },
+  "city": {
+    "slug": "dillon",
+    "name": "Dillon",
+    "label": "Dillon, MT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/montana/dillon/",
+  "offices": [
+    {
+      "officeId": 329155,
+      "slug": "humane-society-of-beaverhead-county-329155",
+      "name": "Humane Society of Beaverhead County",
+      "address": "80 Lagoon Ln, Dillon, MT 59725",
+      "phone": "406-683-8119",
+      "image": "./img/shelter/office/329155.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-beaverhead-county-329155/",
+      "imageUrl": "https://cdn.findpawpal.com/office/329155.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 329161,
+      "slug": "southwest-montana-humane-association-329161",
+      "name": "Southwest Montana Humane Association",
+      "address": "PO Box 1364, Dillon, MT 59725",
+      "phone": "406-683-6414",
+      "image": "./img/shelter/office/329161.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/southwest-montana-humane-association-329161/",
+      "imageUrl": "https://cdn.findpawpal.com/office/329161.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:40:12.579083+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "lumberton",
+    "name": "Lumberton",
+    "label": "Lumberton, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/lumberton/",
+  "offices": [
+    {
+      "officeId": 272536,
+      "slug": "lumberton-animal-control-272536",
+      "name": "Lumberton Animal Control",
+      "address": "460 Country Club Road, Lumberton, NC 28360",
+      "phone": "910-671-3200",
+      "image": "./img/shelter/office/272536.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lumberton-animal-control-272536/",
+      "imageUrl": "https://cdn.findpawpal.com/office/272536.jpg?f=webp&w=730"
+    }
+  ]
+}

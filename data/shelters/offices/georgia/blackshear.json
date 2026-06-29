@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:38:37.375748+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "blackshear",
+    "name": "Blackshear",
+    "label": "Blackshear, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/blackshear/",
+  "offices": [
+    {
+      "officeId": 143023,
+      "slug": "blackshear-animal-control-143023",
+      "name": "Blackshear Animal Control",
+      "address": "931 Gordon Street, Blackshear, GA 31516",
+      "phone": "912-288-2029",
+      "image": "./img/shelter/office/143023.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/blackshear-animal-control-143023/",
+      "imageUrl": "https://cdn.findpawpal.com/office/143023.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "fetchedAt": "2026-06-27T19:30:04.774200+00:00",
+  "state": {
+    "slug": "new-mexico",
+    "name": "New Mexico"
+  },
+  "city": {
+    "slug": "carlsbad",
+    "name": "Carlsbad",
+    "label": "Carlsbad, NM"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-mexico/carlsbad/",
+  "offices": [
+    {
+      "officeId": 281363,
+      "slug": "noahs-ark-animal-refuge-inc-281363",
+      "name": "Noah's Ark Animal Refuge, Inc.",
+      "address": "3417 Ferguson Road, Carlsbad, NM 88220",
+      "phone": "505-236-6414",
+      "image": "./img/shelter/office/281363.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/noahs-ark-animal-refuge-inc-281363/",
+      "imageUrl": "https://cdn.findpawpal.com/office/281363.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 309004,
+      "slug": "eddy-county-animal-control-309004",
+      "name": "Eddy County Animal Control",
+      "address": "102 North Canal Street, Carlsbad, NM 88220",
+      "phone": "505-887-7551",
+      "image": "./img/shelter/office/309004.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/eddy-county-animal-control-309004/",
+      "imageUrl": "https://cdn.findpawpal.com/office/309004.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 309986,
+      "slug": "noahs-ark-animal-shelter-309986",
+      "name": "Noah's Ark Animal Shelter",
+      "address": "5217 Buena Vista Drive, Carlsbad, NM 88220",
+      "phone": "575-885-5769",
+      "image": "./img/shelter/office/309986.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/noahs-ark-animal-shelter-309986/",
+      "imageUrl": "https://cdn.findpawpal.com/office/309986.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 327442,
+      "slug": "carlsbad-animal-control-327442",
+      "name": "Carlsbad Animal Control",
+      "address": "602 West Mermod Street, Carlsbad, NM 88220",
+      "phone": "575-885-2111",
+      "image": "./img/shelter/office/327442.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/carlsbad-animal-control-327442/",
+      "imageUrl": "https://cdn.findpawpal.com/office/327442.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 338187,
+      "slug": "carlsbad-humane-society-338187",
+      "name": "Carlsbad Humane Society",
+      "address": "PO Box 1318, Carlsbad, NM 88221",
+      "phone": "505-885-4051",
+      "image": "./img/shelter/office/338187.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/carlsbad-humane-society-338187/",
+      "imageUrl": "https://cdn.findpawpal.com/office/338187.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 338195,
+      "slug": "ferrets-first-of-new-mexico-338195",
+      "name": "Ferrets First of New Mexico",
+      "address": "1413 Bryan Circle, Carlsbad, NM 88220",
+      "phone": "505-885-3567",
+      "image": "./img/shelter/office/338195.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ferrets-first-of-new-mexico-338195/",
+      "imageUrl": "https://cdn.findpawpal.com/office/338195.jpg?f=webp&w=730"
+    }
+  ]
+}

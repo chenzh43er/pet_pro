@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:49:05.937959+00:00",
+  "state": {
+    "slug": "oklahoma",
+    "name": "Oklahoma"
+  },
+  "city": {
+    "slug": "newcastle",
+    "name": "Newcastle",
+    "label": "Newcastle, OK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oklahoma/newcastle/",
+  "offices": [
+    {
+      "officeId": 646884,
+      "slug": "rocky-spot-rescue-646884",
+      "name": "Rocky Spot Rescue",
+      "address": "PO Box 98, Newcastle, OK 73065",
+      "phone": "405-699-7358",
+      "image": "https://cdn.findpawpal.com/office/646884.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/rocky-spot-rescue-646884/"
+    }
+  ]
+}

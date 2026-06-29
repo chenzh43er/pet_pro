@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:20:00.978558+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "camden-on-gauley",
+    "name": "Camden-on-Gauley",
+    "label": "Camden-on-Gauley, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/camden-on-gauley/",
+  "offices": [
+    {
+      "officeId": 696164,
+      "slug": "katies-rescue-shelter-696164",
+      "name": "Katies Rescue Shelter",
+      "address": "PO Box 194, Camden-on-Gauley, WV 26208",
+      "phone": "304-226-5859",
+      "image": "https://cdn.findpawpal.com/office/696164.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/katies-rescue-shelter-696164/"
+    }
+  ]
+}

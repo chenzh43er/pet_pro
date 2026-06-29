@@ -1,0 +1,21 @@
+{
+  "officeId": 382480,
+  "slug": "silicon-valley-animal-rescue-382480",
+  "name": "Silicon Valley Animal Rescue",
+  "address": "PO Box 50249, Palo Alto, CA 94303",
+  "street": "PO Box 50249",
+  "addressCity": "Palo Alto",
+  "stateCode": "CA",
+  "zip": "94303",
+  "phone": "650-529-1390",
+  "image": "./img/shelter/office/382480.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/silicon-valley-animal-rescue-382480/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "palo-alto",
+  "cityName": "Palo Alto",
+  "cityLabel": "Palo Alto, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/palo-alto/",
+  "fetchedAt": "2026-06-27T18:29:02.843785+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/382480.jpg?f=webp&w=730"
+}

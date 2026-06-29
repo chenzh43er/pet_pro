@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:14:13.497860+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "fairmont",
+    "name": "Fairmont",
+    "label": "Fairmont, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/fairmont/",
+  "offices": [
+    {
+      "officeId": 399416,
+      "slug": "martin-county-humane-society-399416",
+      "name": "Martin County Humane Society",
+      "address": "522 East Margaret Street, Fairmont, MN 56031",
+      "phone": "507-238-1885",
+      "image": "./img/shelter/office/399416.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/martin-county-humane-society-399416/",
+      "imageUrl": "https://cdn.findpawpal.com/office/399416.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 400451,
+      "slug": "fairmont-animal-control-400451",
+      "name": "Fairmont Animal Control",
+      "address": "201 Lake Avenue, Fairmont, MN 56031",
+      "phone": "507-238-4481",
+      "image": "./img/shelter/office/400451.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fairmont-animal-control-400451/",
+      "imageUrl": "https://cdn.findpawpal.com/office/400451.jpg?f=webp&w=730"
+    }
+  ]
+}

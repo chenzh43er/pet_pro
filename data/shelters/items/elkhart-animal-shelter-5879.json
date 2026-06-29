@@ -1,0 +1,21 @@
+{
+  "officeId": 5879,
+  "slug": "elkhart-animal-shelter-5879",
+  "name": "Elkhart Animal Shelter",
+  "address": "433 Morton Street, Elkhart, KS 67950",
+  "street": "433 Morton Street",
+  "addressCity": "Elkhart",
+  "stateCode": "KS",
+  "zip": "67950",
+  "phone": "620-697-2424",
+  "image": "./img/shelter/office/5879.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/elkhart-animal-shelter-5879/",
+  "stateSlug": "kansas",
+  "stateName": "Kansas",
+  "citySlug": "elkhart",
+  "cityName": "Elkhart",
+  "cityLabel": "Elkhart, KS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kansas/elkhart/",
+  "fetchedAt": "2026-06-27T18:54:51.647396+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/5879.jpg?f=webp&w=730"
+}

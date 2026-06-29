@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:48:59.211071+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "worden",
+    "name": "Worden",
+    "label": "Worden, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/worden/",
+  "offices": [
+    {
+      "officeId": 412088,
+      "slug": "pig-pal-sanctuary-412088",
+      "name": "Pig Pal Sanctuary",
+      "address": "8000 Dustman Road, Worden, IL 62097",
+      "phone": "618-459-3619",
+      "image": "https://cdn.findpawpal.com/office/412088.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/pig-pal-sanctuary-412088/"
+    }
+  ]
+}

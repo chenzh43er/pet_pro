@@ -1,0 +1,65 @@
+{
+  "fetchedAt": "2026-06-27T20:08:04.789783+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "odessa",
+    "name": "Odessa",
+    "label": "Odessa, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/odessa/",
+  "offices": [
+    {
+      "officeId": 477977,
+      "slug": "ector-county-humane-society-477977",
+      "name": "Ector County Humane Society",
+      "address": "1902 North County Road West, Odessa, TX 79763",
+      "phone": "915-337-7387",
+      "image": "./img/shelter/office/477977.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ector-county-humane-society-477977/",
+      "imageUrl": "https://cdn.findpawpal.com/office/477977.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 493253,
+      "slug": "paws-cat-rescue-haven-house-493253",
+      "name": "PAWS Cat Rescue Haven House",
+      "address": "401 East 61st Street, Odessa, TX 79762",
+      "phone": "432-366-1030",
+      "image": "./img/shelter/office/493253.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/paws-cat-rescue-haven-house-493253/",
+      "imageUrl": "https://cdn.findpawpal.com/office/493253.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 538646,
+      "slug": "odessa-animal-control-538646",
+      "name": "Odessa Animal Control",
+      "address": "910 West 42nd Street, Odessa, TX 79764",
+      "phone": "432-368-3526",
+      "image": "./img/shelter/office/538646.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/odessa-animal-control-538646/",
+      "imageUrl": "https://cdn.findpawpal.com/office/538646.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 633080,
+      "slug": "humane-society-of-odessa-633080",
+      "name": "Humane Society of Odessa",
+      "address": "7012 West Mockingbird Lane, Odessa, TX 79763",
+      "phone": "432-381-5503",
+      "image": "./img/shelter/office/633080.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-odessa-633080/",
+      "imageUrl": "https://cdn.findpawpal.com/office/633080.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 702135,
+      "slug": "odessa-department-of-animal-control-702135",
+      "name": "Odessa Department of Animal Control",
+      "address": "PO Box 4398, Odessa, TX 79760",
+      "phone": "",
+      "image": "./img/shelter/office/702135.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/odessa-department-of-animal-control-702135/",
+      "imageUrl": "https://cdn.findpawpal.com/office/702135.jpg?f=webp&w=730"
+    }
+  ]
+}

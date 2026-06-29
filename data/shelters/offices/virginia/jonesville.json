@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:14:38.212614+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "jonesville",
+    "name": "Jonesville",
+    "label": "Jonesville, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/jonesville/",
+  "offices": [
+    {
+      "officeId": 574876,
+      "slug": "lee-county-animal-control-574876",
+      "name": "Lee County Animal Control",
+      "address": "PO Box 367, Jonesville, VA 24263",
+      "phone": "276-346-7710",
+      "image": "./img/shelter/office/574876.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lee-county-animal-control-574876/",
+      "imageUrl": "https://cdn.findpawpal.com/office/574876.jpg?f=webp&w=730"
+    }
+  ]
+}

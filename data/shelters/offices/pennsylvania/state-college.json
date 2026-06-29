@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:55:05.216921+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "state-college",
+    "name": "State College",
+    "label": "State College, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/state-college/",
+  "offices": [
+    {
+      "officeId": 588575,
+      "slug": "centre-county-paws-588575",
+      "name": "Centre County PAWS",
+      "address": "1401 Trout Road, State College, PA 16801",
+      "phone": "814-237-8722",
+      "image": "./img/shelter/office/588575.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/centre-county-paws-588575/",
+      "imageUrl": "https://cdn.findpawpal.com/office/588575.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 688178,
+      "slug": "pennsylvania-ferret-rescue-association-688178",
+      "name": "Pennsylvania Ferret Rescue Association",
+      "address": "PO Box 1206, State College, PA 16804",
+      "phone": "814-237-9267",
+      "image": "./img/shelter/office/688178.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pennsylvania-ferret-rescue-association-688178/",
+      "imageUrl": "https://cdn.findpawpal.com/office/688178.jpg?f=webp&w=730"
+    }
+  ]
+}

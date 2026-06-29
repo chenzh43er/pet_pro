@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:02:58.421149+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "boyds",
+    "name": "Boyds",
+    "label": "Boyds, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/boyds/",
+  "offices": [
+    {
+      "officeId": 670504,
+      "slug": "burnerkitty-com-670504",
+      "name": "Burnerkitty.Com",
+      "address": "PO Box 332, Boyds, MD 20841",
+      "phone": "240-605-3423",
+      "image": "./img/shelter/office/670504.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/burnerkitty-com-670504/",
+      "imageUrl": "https://cdn.findpawpal.com/office/670504.jpg?f=webp&w=730"
+    }
+  ]
+}

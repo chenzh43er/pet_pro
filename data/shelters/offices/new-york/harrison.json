@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:33:57.554971+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "harrison",
+    "name": "Harrison",
+    "label": "Harrison, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/harrison/",
+  "offices": [
+    {
+      "officeId": 402393,
+      "slug": "westchester-shore-humane-society-402393",
+      "name": "Westchester Shore Humane Society",
+      "address": "7 Harrison Avenue, Harrison, NY 10528",
+      "phone": "914-835-3332",
+      "image": "./img/shelter/office/402393.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/westchester-shore-humane-society-402393/",
+      "imageUrl": "https://cdn.findpawpal.com/office/402393.jpg?f=webp&w=730"
+    }
+  ]
+}

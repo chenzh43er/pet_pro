@@ -1,0 +1,21 @@
+{
+  "officeId": 518069,
+  "slug": "hughs-pet-adoption-518069",
+  "name": "Hughs Pet Adoption",
+  "address": "306 East 14th Street, Pawhuska, OK 74056",
+  "street": "306 East 14th Street",
+  "addressCity": "Pawhuska",
+  "stateCode": "OK",
+  "zip": "74056",
+  "phone": "918-766-5019",
+  "image": "./img/shelter/office/518069.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/hughs-pet-adoption-518069/",
+  "stateSlug": "oklahoma",
+  "stateName": "Oklahoma",
+  "citySlug": "pawhuska",
+  "cityName": "Pawhuska",
+  "cityLabel": "Pawhuska, OK",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/oklahoma/pawhuska/",
+  "fetchedAt": "2026-06-27T19:49:19.543771+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/518069.jpg?f=webp&w=730"
+}

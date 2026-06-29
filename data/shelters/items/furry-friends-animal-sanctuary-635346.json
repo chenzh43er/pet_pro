@@ -1,0 +1,21 @@
+{
+  "officeId": 635346,
+  "slug": "furry-friends-animal-sanctuary-635346",
+  "name": "Furry Friends Animal Sanctuary",
+  "address": "164 East 300 South, Ephraim, UT 84627",
+  "street": "164 East 300 South",
+  "addressCity": "Ephraim",
+  "stateCode": "UT",
+  "zip": "84627",
+  "phone": "435-283-5445",
+  "image": "./img/shelter/office/635346.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/furry-friends-animal-sanctuary-635346/",
+  "stateSlug": "utah",
+  "stateName": "Utah",
+  "citySlug": "ephraim",
+  "cityName": "Ephraim",
+  "cityLabel": "Ephraim, UT",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/utah/ephraim/",
+  "fetchedAt": "2026-06-27T20:10:32.965314+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/635346.jpg?f=webp&w=730"
+}

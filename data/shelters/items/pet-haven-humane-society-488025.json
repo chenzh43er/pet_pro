@@ -1,0 +1,21 @@
+{
+  "officeId": 488025,
+  "slug": "pet-haven-humane-society-488025",
+  "name": "Pet Haven Humane Society",
+  "address": "333 West Orchard Avenue, Nampa, ID 83651",
+  "street": "333 West Orchard Avenue",
+  "addressCity": "Nampa",
+  "stateCode": "ID",
+  "zip": "83651",
+  "phone": "208-466-1298",
+  "image": "./img/shelter/office/488025.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pet-haven-humane-society-488025/",
+  "stateSlug": "idaho",
+  "stateName": "Idaho",
+  "citySlug": "nampa",
+  "cityName": "Nampa",
+  "cityLabel": "Nampa, ID",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/idaho/nampa/",
+  "fetchedAt": "2026-06-27T18:43:22.708018+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/488025.jpg?f=webp&w=730"
+}

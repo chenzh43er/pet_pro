@@ -1,0 +1,85 @@
+{
+  "fetchedAt": "2026-06-27T20:01:23.285321+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "nashville",
+    "name": "Nashville",
+    "label": "Nashville, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/nashville/",
+  "offices": [
+    {
+      "officeId": 418271,
+      "slug": "regen-holler-rescue-mission-418271",
+      "name": "Regen Holler Rescue Mission",
+      "address": "8797 Highway 100, Nashville, TN 37221",
+      "phone": "",
+      "image": "./img/shelter/office/418271.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/regen-holler-rescue-mission-418271/",
+      "imageUrl": "https://cdn.findpawpal.com/office/418271.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 425965,
+      "slug": "all-cattle-dogs-rescue-425965",
+      "name": "All Cattle Dogs Rescue",
+      "address": "549 Annex Avenue, Nashville, TN 37209",
+      "phone": "615-598-1940",
+      "image": "./img/shelter/office/425965.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/all-cattle-dogs-rescue-425965/",
+      "imageUrl": "https://cdn.findpawpal.com/office/425965.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 452124,
+      "slug": "grape-tail-ferret-rescue-and-sanctuary-452124",
+      "name": "Grape Tail Ferret Rescue and Sanctuary",
+      "address": "242 Wilowen Drive, Nashville, TN 37210",
+      "phone": "",
+      "image": "./img/shelter/office/452124.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/grape-tail-ferret-rescue-and-sanctuary-452124/",
+      "imageUrl": "https://cdn.findpawpal.com/office/452124.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 460749,
+      "slug": "metro-animal-shelter-460749",
+      "name": "Metro Animal Shelter",
+      "address": "311 23rd Avenue North, Nashville, TN 37203",
+      "phone": "615-862-7930",
+      "image": "./img/shelter/office/460749.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/metro-animal-shelter-460749/",
+      "imageUrl": "https://cdn.findpawpal.com/office/460749.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 581157,
+      "slug": "the-purr-factory-581157",
+      "name": "The Purr Factory",
+      "address": "3220 Wingate Avenue, Nashville, TN 37211",
+      "phone": "615-331-9274",
+      "image": "./img/shelter/office/581157.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-purr-factory-581157/",
+      "imageUrl": "https://cdn.findpawpal.com/office/581157.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 685017,
+      "slug": "nashville-humane-association-685017",
+      "name": "Nashville Humane Association",
+      "address": "213 Oceola Avenue, Nashville, TN 37209",
+      "phone": "615-352-1010",
+      "image": "./img/shelter/office/685017.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/nashville-humane-association-685017/",
+      "imageUrl": "https://cdn.findpawpal.com/office/685017.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 685019,
+      "slug": "nashville-cares-paws-program-685019",
+      "name": "Nashville Cares PAWS Program",
+      "address": "209 10th Avenue South, Nashville, TN 37203",
+      "phone": "615-259-4866",
+      "image": "./img/shelter/office/685019.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/nashville-cares-paws-program-685019/",
+      "imageUrl": "https://cdn.findpawpal.com/office/685019.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:50:54.126726+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "martinsville",
+    "name": "Martinsville",
+    "label": "Martinsville, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/martinsville/",
+  "offices": [
+    {
+      "officeId": 200632,
+      "slug": "morgan-county-humane-society-200632",
+      "name": "Morgan County Humane Society",
+      "address": "690 West Mitchell Avenue, Martinsville, IN 46151",
+      "phone": "765-349-9177",
+      "image": "./img/shelter/office/200632.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/morgan-county-humane-society-200632/",
+      "imageUrl": "https://cdn.findpawpal.com/office/200632.jpg?f=webp&w=730"
+    }
+  ]
+}

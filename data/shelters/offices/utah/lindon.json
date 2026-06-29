@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:10:52.276099+00:00",
+  "state": {
+    "slug": "utah",
+    "name": "Utah"
+  },
+  "city": {
+    "slug": "lindon",
+    "name": "Lindon",
+    "label": "Lindon, UT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/utah/lindon/",
+  "offices": [
+    {
+      "officeId": 633376,
+      "slug": "north-utah-valley-animal-shelter-633376",
+      "name": "North Utah Valley Animal Shelter",
+      "address": "193 North 2000 West, Lindon, UT 84042",
+      "phone": "801-785-3442",
+      "image": "./img/shelter/office/633376.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/north-utah-valley-animal-shelter-633376/",
+      "imageUrl": "https://cdn.findpawpal.com/office/633376.jpg?f=webp&w=730"
+    }
+  ]
+}

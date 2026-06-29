@@ -1,0 +1,21 @@
+{
+  "officeId": 40100,
+  "slug": "humane-society-of-weld-county-40100",
+  "name": "Humane Society of Weld County",
+  "address": "1620 42nd Street, Evans, CO 80620",
+  "street": "1620 42nd Street",
+  "addressCity": "Evans",
+  "stateCode": "CO",
+  "zip": "80620",
+  "phone": "970-506-9550",
+  "image": "./img/shelter/office/40100.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-weld-county-40100/",
+  "stateSlug": "colorado",
+  "stateName": "Colorado",
+  "citySlug": "evans",
+  "cityName": "Evans",
+  "cityLabel": "Evans, CO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/colorado/evans/",
+  "fetchedAt": "2026-06-27T18:34:10.665433+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/40100.jpg?f=webp&w=730"
+}

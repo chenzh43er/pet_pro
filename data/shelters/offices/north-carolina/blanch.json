@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:38:10.038437+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "blanch",
+    "name": "Blanch",
+    "label": "Blanch, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/blanch/",
+  "offices": [
+    {
+      "officeId": 260681,
+      "slug": "caswell-county-animal-shelter-260681",
+      "name": "Caswell County Animal Shelter",
+      "address": "836 County Home Road, Blanch, NC 27212",
+      "phone": "336-694-4921",
+      "image": "./img/shelter/office/260681.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/caswell-county-animal-shelter-260681/",
+      "imageUrl": "https://cdn.findpawpal.com/office/260681.jpg?f=webp&w=730"
+    }
+  ]
+}

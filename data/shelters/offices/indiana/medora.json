@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:50:55.601047+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "medora",
+    "name": "Medora",
+    "label": "Medora, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/medora/",
+  "offices": [
+    {
+      "officeId": 218884,
+      "slug": "red-sky-rescue-218884",
+      "name": "Red Sky Rescue",
+      "address": "8750 West County Road 150 North, Medora, IN 47260",
+      "phone": "812-216-6310",
+      "image": "https://cdn.findpawpal.com/office/218884.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/red-sky-rescue-218884/"
+    }
+  ]
+}

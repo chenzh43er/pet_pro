@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:58:51.097080+00:00",
+  "state": {
+    "slug": "south-dakota",
+    "name": "South Dakota"
+  },
+  "city": {
+    "slug": "hot-springs",
+    "name": "Hot Springs",
+    "label": "Hot Springs, SD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-dakota/hot-springs/",
+  "offices": [
+    {
+      "officeId": 618902,
+      "slug": "battle-mountain-humane-society-618902",
+      "name": "Battle Mountain Humane Society",
+      "address": "27254 Wind Cave Road, Hot Springs, SD 57747",
+      "phone": "",
+      "image": "./img/shelter/office/618902.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/battle-mountain-humane-society-618902/",
+      "imageUrl": "https://cdn.findpawpal.com/office/618902.jpg?f=webp&w=730"
+    }
+  ]
+}

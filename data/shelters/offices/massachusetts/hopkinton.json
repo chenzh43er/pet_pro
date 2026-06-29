@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:06:34.787145+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "hopkinton",
+    "name": "Hopkinton",
+    "label": "Hopkinton, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/hopkinton/",
+  "offices": [
+    {
+      "officeId": 40096,
+      "slug": "poundhounds-inc-40096",
+      "name": "Poundhounds, Inc.",
+      "address": "PO Box 454, Hopkinton, MA 01748",
+      "phone": "508-435-5029",
+      "image": "./img/shelter/office/40096.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/poundhounds-inc-40096/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40096.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40978,
+      "slug": "greysland-greyhound-adoption-40978",
+      "name": "Greysland Greyhound Adoption",
+      "address": "177 Hayden Rowe Street, Hopkinton, MA 01748",
+      "phone": "508-435-6023",
+      "image": "./img/shelter/office/40978.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greysland-greyhound-adoption-40978/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40978.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 41051,
+      "slug": "baypath-humane-society-of-hopkinton-41051",
+      "name": "Baypath Humane Society of Hopkinton",
+      "address": "5 Rafferty Road, Hopkinton, MA 01748",
+      "phone": "508-435-6938",
+      "image": "./img/shelter/office/41051.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/baypath-humane-society-of-hopkinton-41051/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41051.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:29:05.579699+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "paradise",
+    "name": "Paradise",
+    "label": "Paradise, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/paradise/",
+  "offices": [
+    {
+      "slug": "paradise-animal-control-538784",
+      "name": "Paradise Animal Control",
+      "address": "925 American Way, Paradise, CA 95969",
+      "phone": "530-872-6275",
+      "image": "./img/shelter/office/538784.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/paradise-animal-control-538784/",
+      "imageUrl": "https://cdn.findpawpal.com/office/538784.jpg?f=webp&w=730"
+    }
+  ]
+}

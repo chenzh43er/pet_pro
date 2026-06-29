@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:09:36.227226+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "taylor",
+    "name": "Taylor",
+    "label": "Taylor, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/taylor/",
+  "offices": [
+    {
+      "officeId": 635528,
+      "slug": "taylor-city-animal-shelter-635528",
+      "name": "Taylor City Animal Shelter",
+      "address": "600 East 4th Street, Taylor, TX 76574",
+      "phone": "512-352-5483",
+      "image": "./img/shelter/office/635528.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/taylor-city-animal-shelter-635528/",
+      "imageUrl": "https://cdn.findpawpal.com/office/635528.jpg?f=webp&w=730"
+    }
+  ]
+}

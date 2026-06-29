@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:27:12.893894+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "madison",
+    "name": "Madison",
+    "label": "Madison, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/madison/",
+  "offices": [
+    {
+      "officeId": 96711,
+      "slug": "st-huberts-animal-welfare-center-96711",
+      "name": "St Huberts Animal Welfare Center",
+      "address": "575 Woodland Road, Madison, NJ 07940",
+      "phone": "973-377-2295",
+      "image": "./img/shelter/office/96711.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/st-huberts-animal-welfare-center-96711/",
+      "imageUrl": "https://cdn.findpawpal.com/office/96711.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 104897,
+      "slug": "st-huberts-animal-welfare-center-104897",
+      "name": "St. Hubert's Animal Welfare Center",
+      "address": "575 Woodland Road, Madison, NJ 07940",
+      "phone": "973-377-2295",
+      "image": "./img/shelter/office/104897.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/st-huberts-animal-welfare-center-104897/",
+      "imageUrl": "https://cdn.findpawpal.com/office/104897.jpg?f=webp&w=730"
+    }
+  ]
+}

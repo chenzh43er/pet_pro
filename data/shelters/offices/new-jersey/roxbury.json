@@ -1,0 +1,65 @@
+{
+  "fetchedAt": "2026-06-27T19:28:45.657216+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "roxbury",
+    "name": "Roxbury",
+    "label": "Roxbury, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/roxbury/",
+  "offices": [
+    {
+      "officeId": 101686,
+      "slug": "roxbury-township-animal-control-101686",
+      "name": "Roxbury Township Animal Control",
+      "address": "1915 Route 46, Roxbury, NJ 07852",
+      "phone": "973-347-6912",
+      "image": "./img/shelter/office/101686.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/roxbury-township-animal-control-101686/",
+      "imageUrl": "https://cdn.findpawpal.com/office/101686.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 104784,
+      "slug": "lakeland-animal-haven-104784",
+      "name": "Lakeland Animal Haven",
+      "address": "29 Pine Street, Roxbury, NJ 07847",
+      "phone": "973-584-1415",
+      "image": "./img/shelter/office/104784.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lakeland-animal-haven-104784/",
+      "imageUrl": "https://cdn.findpawpal.com/office/104784.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 104821,
+      "slug": "noahs-ark-animal-welfare-association-inc-104821",
+      "name": "Noah's Ark Animal Welfare Association, Inc.",
+      "address": "1915 Route 46, Roxbury, NJ 07852",
+      "phone": "973-347-0378",
+      "image": "./img/shelter/office/104821.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/noahs-ark-animal-welfare-association-inc-104821/",
+      "imageUrl": "https://cdn.findpawpal.com/office/104821.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 105952,
+      "slug": "kenvil-animal-control-105952",
+      "name": "Kenvil Animal Control",
+      "address": "29 Pine Street, Roxbury, NJ 07847",
+      "phone": "973-584-1415",
+      "image": "./img/shelter/office/105952.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kenvil-animal-control-105952/",
+      "imageUrl": "https://cdn.findpawpal.com/office/105952.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 106458,
+      "slug": "succasunna-animal-control-106458",
+      "name": "Succasunna Animal Control",
+      "address": "72 Eyland Avenue, Roxbury, NJ 07876",
+      "phone": "973-584-4372",
+      "image": "./img/shelter/office/106458.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/succasunna-animal-control-106458/",
+      "imageUrl": "https://cdn.findpawpal.com/office/106458.jpg?f=webp&w=730"
+    }
+  ]
+}

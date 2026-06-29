@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:39:06.728326+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "eden",
+    "name": "Eden",
+    "label": "Eden, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/eden/",
+  "offices": [
+    {
+      "officeId": 213783,
+      "slug": "rockingham-humane-society-213783",
+      "name": "Rockingham Humane Society",
+      "address": "205 Boone Road, Eden, NC 27288",
+      "phone": "336-623-4428",
+      "image": "./img/shelter/office/213783.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rockingham-humane-society-213783/",
+      "imageUrl": "https://cdn.findpawpal.com/office/213783.jpg?f=webp&w=730"
+    }
+  ]
+}

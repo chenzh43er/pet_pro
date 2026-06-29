@@ -1,0 +1,60 @@
+{
+  "fetchedAt": "2026-06-27T18:15:40.559916+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "melbourne",
+    "name": "Melbourne",
+    "label": "Melbourne, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/melbourne/",
+  "offices": [
+    {
+      "slug": "brevard-county-animal-services-267947",
+      "name": "Brevard County Animal Services",
+      "address": "1515 Sarno Road, Melbourne, FL 32935",
+      "phone": "407-633-2024",
+      "image": "./img/shelter/office/267947.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/brevard-county-animal-services-267947/",
+      "imageUrl": "https://cdn.findpawpal.com/office/267947.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-287554",
+      "name": "PAWS",
+      "address": "PO Box 411363, Melbourne, FL 32941",
+      "phone": "321-752-5120",
+      "image": "./img/shelter/office/287554.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/paws-287554/",
+      "imageUrl": "https://cdn.findpawpal.com/office/287554.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ace-coast-seabird-rescue-291891",
+      "name": "Ace Coast Seabird Rescue",
+      "address": "2210 Front Street, Melbourne, FL 32901",
+      "phone": "",
+      "image": "./img/shelter/office/291891.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ace-coast-seabird-rescue-291891/",
+      "imageUrl": "https://cdn.findpawpal.com/office/291891.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "melbourne-friends-for-animals-291919",
+      "name": "Melbourne Friends for Animals",
+      "address": "218 East Eau Gallie Boulevard, Melbourne, FL 32937",
+      "phone": "",
+      "image": "./img/shelter/office/291919.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/melbourne-friends-for-animals-291919/",
+      "imageUrl": "https://cdn.findpawpal.com/office/291919.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "coastal-poodle-rescue-inc-322226",
+      "name": "Coastal Poodle Rescue, Inc.",
+      "address": "PO Box 121142, Melbourne, FL 32912",
+      "phone": "321-459-2652",
+      "image": "./img/shelter/office/322226.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/coastal-poodle-rescue-inc-322226/",
+      "imageUrl": "https://cdn.findpawpal.com/office/322226.jpg?f=webp&w=730"
+    }
+  ]
+}

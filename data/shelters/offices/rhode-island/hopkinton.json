@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:56:08.133395+00:00",
+  "state": {
+    "slug": "rhode-island",
+    "name": "Rhode Island"
+  },
+  "city": {
+    "slug": "hopkinton",
+    "name": "Hopkinton",
+    "label": "Hopkinton, RI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/rhode-island/hopkinton/",
+  "offices": [
+    {
+      "officeId": 565320,
+      "slug": "hopkinton-animal-control-565320",
+      "name": "Hopkinton Animal Control",
+      "address": "395 Woodville Road, Hopkinton, RI 02804",
+      "phone": "401-377-7785",
+      "image": "./img/shelter/office/565320.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hopkinton-animal-control-565320/",
+      "imageUrl": "https://cdn.findpawpal.com/office/565320.jpg?f=webp&w=730"
+    }
+  ]
+}

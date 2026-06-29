@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:19:53.848892+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "nevada",
+    "name": "Nevada",
+    "label": "Nevada, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/nevada/",
+  "offices": [
+    {
+      "officeId": 209509,
+      "slug": "nevada-city-animal-shelter-209509",
+      "name": "Nevada City Animal Shelter",
+      "address": "17818 S 1400 Rd, Nevada, MO 64772",
+      "phone": "417-448-2753",
+      "image": "./img/shelter/office/209509.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada-city-animal-shelter-209509/",
+      "imageUrl": "https://cdn.findpawpal.com/office/209509.jpg?f=webp&w=730"
+    }
+  ]
+}

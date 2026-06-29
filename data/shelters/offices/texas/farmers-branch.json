@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:04:49.432891+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "farmers-branch",
+    "name": "Farmers Branch",
+    "label": "Farmers Branch, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/farmers-branch/",
+  "offices": [
+    {
+      "officeId": 525522,
+      "slug": "dallas-animal-control-525522",
+      "name": "Dallas Animal Control",
+      "address": "3727 Valley View Lane, Farmers Branch, TX 75244",
+      "phone": "972-243-7605",
+      "image": "./img/shelter/office/525522.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dallas-animal-control-525522/",
+      "imageUrl": "https://cdn.findpawpal.com/office/525522.jpg?f=webp&w=730"
+    }
+  ]
+}

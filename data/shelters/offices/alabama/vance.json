@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-06-27T18:18:58.478798+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "vance",
+    "name": "Vance",
+    "label": "Vance, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/vance/",
+  "offices": [
+    {
+      "slug": "halls-farm-animal-sanctuary-6444",
+      "name": "Halls Farm Animal Sanctuary",
+      "address": "10920 Dale Earnhardt Drive, Vance, AL 35490",
+      "phone": "205-556-7215",
+      "image": "https://cdn.findpawpal.com/office/6444.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/halls-farm-animal-sanctuary-6444/"
+    }
+  ]
+}

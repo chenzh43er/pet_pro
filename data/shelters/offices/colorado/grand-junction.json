@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:34:22.654916+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "grand-junction",
+    "name": "Grand Junction",
+    "label": "Grand Junction, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/grand-junction/",
+  "offices": [
+    {
+      "officeId": 40642,
+      "slug": "roice-hurst-humane-society-40642",
+      "name": "Roice-Hurst Humane Society",
+      "address": "362 28 Road, Grand Junction, CO 81501",
+      "phone": "970-434-7337",
+      "image": "./img/shelter/office/40642.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/roice-hurst-humane-society-40642/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40642.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40668,
+      "slug": "claws-40668",
+      "name": "Claws",
+      "address": "2214 Sanford Drive, Grand Junction, CO 81505",
+      "phone": "970-241-3793",
+      "image": "./img/shelter/office/40668.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/claws-40668/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40668.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40798,
+      "slug": "humane-society-of-western-colorado-inc-40798",
+      "name": "Humane Society of Western Colorado, Inc.",
+      "address": "PO Box 502, Grand Junction, CO 81502",
+      "phone": "970-243-8823",
+      "image": "./img/shelter/office/40798.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-western-colorado-inc-40798/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40798.jpg?f=webp&w=730"
+    }
+  ]
+}

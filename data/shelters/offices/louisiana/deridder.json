@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:59:29.517436+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "deridder",
+    "name": "DeRidder",
+    "label": "DeRidder, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/deridder/",
+  "offices": [
+    {
+      "officeId": 243147,
+      "slug": "deridder-animal-control-243147",
+      "name": "Deridder Animal Control",
+      "address": "716 Carver Street, DeRidder, LA 70634",
+      "phone": "337-462-8987",
+      "image": "./img/shelter/office/243147.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/deridder-animal-control-243147/",
+      "imageUrl": "https://cdn.findpawpal.com/office/243147.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 277107,
+      "slug": "humane-society-of-west-louisiana-277107",
+      "name": "Humane Society of West Louisiana",
+      "address": "19301 Lake Charles Highway, DeRidder, LA 70634",
+      "phone": "337-462-3321",
+      "image": "./img/shelter/office/277107.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-west-louisiana-277107/",
+      "imageUrl": "https://cdn.findpawpal.com/office/277107.jpg?f=webp&w=730"
+    }
+  ]
+}

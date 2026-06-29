@@ -1,0 +1,21 @@
+{
+  "officeId": 706799,
+  "slug": "the-shiloh-project-706799",
+  "name": "The Shiloh Project",
+  "address": "12210 Fairfax Towne Center, Fairfax, VA 22033",
+  "street": "12210 Fairfax Towne Center",
+  "addressCity": "Fairfax",
+  "stateCode": "VA",
+  "zip": "22033",
+  "phone": "703-591-3600",
+  "image": "./img/shelter/office/706799.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/the-shiloh-project-706799/",
+  "stateSlug": "virginia",
+  "stateName": "Virginia",
+  "citySlug": "fairfax",
+  "cityName": "Fairfax",
+  "cityLabel": "Fairfax, VA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/virginia/fairfax/",
+  "fetchedAt": "2026-06-27T20:13:53.232776+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/706799.jpg?f=webp&w=730"
+}

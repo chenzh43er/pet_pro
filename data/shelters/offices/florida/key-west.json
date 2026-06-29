@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:14:57.542731+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "key-west",
+    "name": "Key West",
+    "label": "Key West, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/key-west/",
+  "offices": [
+    {
+      "slug": "florida-keys-spca-inc-284592",
+      "name": "Florida Keys SPCA, Inc",
+      "address": "5230 College Road, Key West, FL 33040",
+      "phone": "305-294-4857",
+      "image": "./img/shelter/office/284592.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/florida-keys-spca-inc-284592/",
+      "imageUrl": "https://cdn.findpawpal.com/office/284592.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lower-keys-friends-of-animals-340240",
+      "name": "Lower Keys Friends of Animals",
+      "address": "PO Box 1043, Key West, FL 33041",
+      "phone": "305-292-5070",
+      "image": "./img/shelter/office/340240.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lower-keys-friends-of-animals-340240/",
+      "imageUrl": "https://cdn.findpawpal.com/office/340240.jpg?f=webp&w=730"
+    }
+  ]
+}

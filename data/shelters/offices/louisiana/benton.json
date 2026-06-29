@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:59:10.147032+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "benton",
+    "name": "Benton",
+    "label": "Benton, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/benton/",
+  "offices": [
+    {
+      "officeId": 258554,
+      "slug": "bossier-parish-animal-control-258554",
+      "name": "Bossier Parish Animal Control",
+      "address": "410 Mayfield Street, Benton, LA 71006",
+      "phone": "318-965-9557",
+      "image": "https://cdn.findpawpal.com/office/258554.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/bossier-parish-animal-control-258554/"
+    }
+  ]
+}

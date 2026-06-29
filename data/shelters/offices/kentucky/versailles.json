@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:58:43.334293+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "versailles",
+    "name": "Versailles",
+    "label": "Versailles, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/versailles/",
+  "offices": [
+    {
+      "officeId": 115724,
+      "slug": "woodford-county-animal-control-115724",
+      "name": "Woodford County Animal Control",
+      "address": "204 Beasley Road, Versailles, KY 40383",
+      "phone": "859-879-0598",
+      "image": "./img/shelter/office/115724.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/woodford-county-animal-control-115724/",
+      "imageUrl": "https://cdn.findpawpal.com/office/115724.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 116397,
+      "slug": "woodford-humane-society-inc-116397",
+      "name": "Woodford Humane Society Inc",
+      "address": "265 Thomas Lane, Versailles, KY 40383",
+      "phone": "859-873-5491",
+      "image": "./img/shelter/office/116397.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/woodford-humane-society-inc-116397/",
+      "imageUrl": "https://cdn.findpawpal.com/office/116397.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:03:21.963232+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "dundalk",
+    "name": "Dundalk",
+    "label": "Dundalk, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/dundalk/",
+  "offices": [
+    {
+      "officeId": 500701,
+      "slug": "furry-friends-500701",
+      "name": "Furry Friends",
+      "address": "1539 Merritt Boulevard, Dundalk, MD 21222",
+      "phone": "410-282-8602",
+      "image": "./img/shelter/office/500701.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/furry-friends-500701/",
+      "imageUrl": "https://cdn.findpawpal.com/office/500701.jpg?f=webp&w=730"
+    }
+  ]
+}

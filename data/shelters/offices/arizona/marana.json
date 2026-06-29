@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:20:26.078606+00:00",
+  "state": {
+    "slug": "arizona",
+    "name": "Arizona"
+  },
+  "city": {
+    "slug": "marana",
+    "name": "Marana",
+    "label": "Marana, AZ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arizona/marana/",
+  "offices": [
+    {
+      "slug": "hoofprints-of-the-heart-169290",
+      "name": "HoofPrints of the Heart",
+      "address": "12207 West Swanson Street, Marana, AZ 85653",
+      "phone": "520-780-6900",
+      "image": "./img/shelter/office/169290.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hoofprints-of-the-heart-169290/",
+      "imageUrl": "https://cdn.findpawpal.com/office/169290.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T19:18:44.575449+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "foristell",
+    "name": "Foristell",
+    "label": "Foristell, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/foristell/",
+  "offices": [
+    {
+      "officeId": 193902,
+      "slug": "foristell-animal-control-193902",
+      "name": "Foristell Animal Control",
+      "address": "2134 Hunn Road, Foristell, MO 63348",
+      "phone": "636-673-1055",
+      "image": "https://cdn.findpawpal.com/office/193902.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/foristell-animal-control-193902/"
+    },
+    {
+      "officeId": 208860,
+      "slug": "canine-rescue-208860",
+      "name": "Canine Rescue",
+      "address": "803 Heitman Lane, Foristell, MO 63348",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/208860.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/canine-rescue-208860/"
+    }
+  ]
+}

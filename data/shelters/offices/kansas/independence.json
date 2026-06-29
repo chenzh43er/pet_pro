@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:55:06.561986+00:00",
+  "state": {
+    "slug": "kansas",
+    "name": "Kansas"
+  },
+  "city": {
+    "slug": "independence",
+    "name": "Independence",
+    "label": "Independence, KS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kansas/independence/",
+  "offices": [
+    {
+      "officeId": 5288,
+      "slug": "animals-with-our-love-5288",
+      "name": "Animals With Our Love",
+      "address": "PO Box 290, Independence, KS 67301",
+      "phone": "316-331-7930",
+      "image": "./img/shelter/office/5288.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animals-with-our-love-5288/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5288.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 5304,
+      "slug": "awol-humane-society-5304",
+      "name": "Awol Humane Society",
+      "address": "116 South 23rd Street, Independence, KS 67301",
+      "phone": "620-331-7931",
+      "image": "./img/shelter/office/5304.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/awol-humane-society-5304/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5304.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 5822,
+      "slug": "independence-animal-control-5822",
+      "name": "Independence Animal Control",
+      "address": "120 North 6th Street, Independence, KS 67301",
+      "phone": "620-332-1700",
+      "image": "./img/shelter/office/5822.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/independence-animal-control-5822/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5822.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:24:06.380253+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "sheldon",
+    "name": "Sheldon",
+    "label": "Sheldon, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/sheldon/",
+  "offices": [
+    {
+      "officeId": 475576,
+      "slug": "taylor-county-humane-society-475576",
+      "name": "Taylor County Humane Society",
+      "address": "N 8644 Marsh Dr, Sheldon, WI 54766",
+      "phone": "715-452-5216",
+      "image": "https://cdn.findpawpal.com/office/475576.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/taylor-county-humane-society-475576/"
+    }
+  ]
+}

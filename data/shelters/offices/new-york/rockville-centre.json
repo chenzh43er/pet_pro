@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:36:31.888698+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "rockville-centre",
+    "name": "Rockville Centre",
+    "label": "Rockville Centre, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/rockville-centre/",
+  "offices": [
+    {
+      "officeId": 332566,
+      "slug": "rockville-center-animal-control-332566",
+      "name": "Rockville Center Animal Control",
+      "address": "PO Box 950, Rockville Centre, NY 11571",
+      "phone": "",
+      "image": "./img/shelter/office/332566.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rockville-center-animal-control-332566/",
+      "imageUrl": "https://cdn.findpawpal.com/office/332566.jpg?f=webp&w=730"
+    }
+  ]
+}

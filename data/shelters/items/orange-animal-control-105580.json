@@ -1,0 +1,21 @@
+{
+  "officeId": 105580,
+  "slug": "orange-animal-control-105580",
+  "name": "Orange Animal Control",
+  "address": "29 North Day Street, City of Orange, NJ 07050",
+  "street": "29 North Day Street",
+  "addressCity": "City of Orange",
+  "stateCode": "NJ",
+  "zip": "07050",
+  "phone": "973-266-4071",
+  "image": "./img/shelter/office/105580.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/orange-animal-control-105580/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "city-of-orange",
+  "cityName": "City of Orange",
+  "cityLabel": "City of Orange, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/city-of-orange/",
+  "fetchedAt": "2026-06-27T19:25:33.115028+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/105580.jpg?f=webp&w=730"
+}

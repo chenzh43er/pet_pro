@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:21:57.172853+00:00",
+  "state": {
+    "slug": "montana",
+    "name": "Montana"
+  },
+  "city": {
+    "slug": "libby",
+    "name": "Libby",
+    "label": "Libby, MT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/montana/libby/",
+  "offices": [
+    {
+      "officeId": 440749,
+      "slug": "lincoln-county-animal-control-440749",
+      "name": "Lincoln County Animal Control",
+      "address": "188 County Shop Road, Libby, MT 59923",
+      "phone": "406-293-4040",
+      "image": "./img/shelter/office/440749.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lincoln-county-animal-control-440749/",
+      "imageUrl": "https://cdn.findpawpal.com/office/440749.jpg?f=webp&w=730"
+    }
+  ]
+}

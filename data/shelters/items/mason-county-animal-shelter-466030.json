@@ -1,0 +1,21 @@
+{
+  "officeId": 466030,
+  "slug": "mason-county-animal-shelter-466030",
+  "name": "Mason County Animal Shelter",
+  "address": "1965 Fairground Road, Point Pleasant, WV 25550",
+  "street": "1965 Fairground Road",
+  "addressCity": "Point Pleasant",
+  "stateCode": "WV",
+  "zip": "25550",
+  "phone": "304-675-6458",
+  "image": "./img/shelter/office/466030.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/mason-county-animal-shelter-466030/",
+  "stateSlug": "west-virginia",
+  "stateName": "West Virginia",
+  "citySlug": "point-pleasant",
+  "cityName": "Point Pleasant",
+  "cityLabel": "Point Pleasant, WV",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/west-virginia/point-pleasant/",
+  "fetchedAt": "2026-06-27T20:21:15.694782+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/466030.jpg?f=webp&w=730"
+}

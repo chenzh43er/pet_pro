@@ -1,0 +1,75 @@
+{
+  "fetchedAt": "2026-06-27T20:02:26.586881+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "abilene",
+    "name": "Abilene",
+    "label": "Abilene, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/abilene/",
+  "offices": [
+    {
+      "officeId": 493636,
+      "slug": "taylor-jones-humane-society-493636",
+      "name": "Taylor Jones Humane Society",
+      "address": "3811 North 1st Street, Abilene, TX 79603",
+      "phone": "915-672-7124",
+      "image": "./img/shelter/office/493636.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/taylor-jones-humane-society-493636/",
+      "imageUrl": "https://cdn.findpawpal.com/office/493636.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 517909,
+      "slug": "abilene-animal-services-shelter-517909",
+      "name": "Abilene Animal Services Shelter",
+      "address": "925 South 25th Street, Abilene, TX 79602",
+      "phone": "325-698-0085",
+      "image": "./img/shelter/office/517909.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/abilene-animal-services-shelter-517909/",
+      "imageUrl": "https://cdn.findpawpal.com/office/517909.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 538800,
+      "slug": "rescue-the-animals-inc-538800",
+      "name": "Rescue The Animals, Inc.",
+      "address": "4620 North 1st Street, Abilene, TX 79603",
+      "phone": "325-677-5521",
+      "image": "./img/shelter/office/538800.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rescue-the-animals-inc-538800/",
+      "imageUrl": "https://cdn.findpawpal.com/office/538800.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 633200,
+      "slug": "love-at-first-site-pet-adoption-center-633200",
+      "name": "Love at First Site Pet Adoption Center",
+      "address": "942 North Judge Ely Boulevard, Abilene, TX 79601",
+      "phone": "915-672-4789",
+      "image": "./img/shelter/office/633200.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/love-at-first-site-pet-adoption-center-633200/",
+      "imageUrl": "https://cdn.findpawpal.com/office/633200.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 633206,
+      "slug": "rescue-the-animals-spca-633206",
+      "name": "Rescue the Animals, SPCA",
+      "address": "5933 South 1st Street, Abilene, TX 79605",
+      "phone": "325-698-7722",
+      "image": "./img/shelter/office/633206.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rescue-the-animals-spca-633206/",
+      "imageUrl": "https://cdn.findpawpal.com/office/633206.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 723332,
+      "slug": "noahs-ark-2-adoption-shelter-723332",
+      "name": "Noah's Ark 2- adoption shelter",
+      "address": "3401 South Treadaway Boulevard, Abilene, TX 79602",
+      "phone": "325-698-4900",
+      "image": "./img/shelter/office/723332.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/noahs-ark-2-adoption-shelter-723332/",
+      "imageUrl": "https://cdn.findpawpal.com/office/723332.jpg?f=webp&w=730"
+    }
+  ]
+}

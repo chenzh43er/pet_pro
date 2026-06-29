@@ -1,0 +1,21 @@
+{
+  "officeId": 44006,
+  "slug": "mspca-animal-shelter-44006",
+  "name": "MSPCA Animal Shelter",
+  "address": "1577 Falmouth Road, Barnstable, MA 02632",
+  "street": "1577 Falmouth Road",
+  "addressCity": "Barnstable",
+  "stateCode": "MA",
+  "zip": "02632",
+  "phone": "508-775-0940",
+  "image": "./img/shelter/office/44006.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/mspca-animal-shelter-44006/",
+  "stateSlug": "massachusetts",
+  "stateName": "Massachusetts",
+  "citySlug": "barnstable",
+  "cityName": "Barnstable",
+  "cityLabel": "Barnstable, MA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/massachusetts/barnstable/",
+  "fetchedAt": "2026-06-27T19:05:19.547277+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/44006.jpg?f=webp&w=730"
+}

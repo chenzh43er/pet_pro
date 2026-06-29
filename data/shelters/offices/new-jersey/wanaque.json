@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:29:26.008158+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "wanaque",
+    "name": "Wanaque",
+    "label": "Wanaque, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/wanaque/",
+  "offices": [
+    {
+      "officeId": 100738,
+      "slug": "all-humane-animal-rescue-100738",
+      "name": "All Humane Animal Rescue",
+      "address": "781 Ringwood Avenue, Wanaque, NJ 07465",
+      "phone": "973-616-8569",
+      "image": "./img/shelter/office/100738.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/all-humane-animal-rescue-100738/",
+      "imageUrl": "https://cdn.findpawpal.com/office/100738.jpg?f=webp&w=730"
+    }
+  ]
+}

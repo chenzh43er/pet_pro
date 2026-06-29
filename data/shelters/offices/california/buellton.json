@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:24:27.340290+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "buellton",
+    "name": "Buellton",
+    "label": "Buellton, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/buellton/",
+  "offices": [
+    {
+      "slug": "santa-ynez-valley-humane-society-533684",
+      "name": "Santa Ynez Valley Humane Society",
+      "address": "111 Commerce Drive, Buellton, CA 93427",
+      "phone": "805-688-8224",
+      "image": "./img/shelter/office/533684.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/santa-ynez-valley-humane-society-533684/",
+      "imageUrl": "https://cdn.findpawpal.com/office/533684.jpg?f=webp&w=730"
+    }
+  ]
+}

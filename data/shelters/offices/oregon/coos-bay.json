@@ -1,0 +1,64 @@
+{
+  "fetchedAt": "2026-06-27T19:50:18.080086+00:00",
+  "state": {
+    "slug": "oregon",
+    "name": "Oregon"
+  },
+  "city": {
+    "slug": "coos-bay",
+    "name": "Coos Bay",
+    "label": "Coos Bay, OR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oregon/coos-bay/",
+  "offices": [
+    {
+      "officeId": 601019,
+      "slug": "snipped-601019",
+      "name": "Snipped",
+      "address": "132 North Wasson Street, Coos Bay, OR 97420",
+      "phone": "541-808-2377",
+      "image": "./img/shelter/office/601019.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/snipped-601019/",
+      "imageUrl": "https://cdn.findpawpal.com/office/601019.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 604447,
+      "slug": "coos-county-humane-society-inc-604447",
+      "name": "Coos County Humane Society, Inc.",
+      "address": "600 South Port Road, Coos Bay, OR 97420",
+      "phone": "541-267-4033",
+      "image": "https://cdn.findpawpal.com/office/604447.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/coos-county-humane-society-inc-604447/"
+    },
+    {
+      "officeId": 613156,
+      "slug": "kohls-kitty-kare-613156",
+      "name": "Kohls Kitty Kare",
+      "address": "1431 Southwest Boulevard, Coos Bay, OR 97420",
+      "phone": "541-294-3876",
+      "image": "./img/shelter/office/613156.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kohls-kitty-kare-613156/",
+      "imageUrl": "https://cdn.findpawpal.com/office/613156.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 613167,
+      "slug": "pacific-animal-rescue-and-sanctuary-paras-613167",
+      "name": "Pacific Animal Rescue and Sanctuary Paras",
+      "address": "483 6th Avenue, Coos Bay, OR 97420",
+      "phone": "541-260-7709",
+      "image": "./img/shelter/office/613167.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pacific-animal-rescue-and-sanctuary-paras-613167/",
+      "imageUrl": "https://cdn.findpawpal.com/office/613167.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 695487,
+      "slug": "friends-of-coos-county-animals-695487",
+      "name": "Friends of Coos County Animals",
+      "address": "PO Box 911, Coos Bay, OR 97420",
+      "phone": "541-269-1989",
+      "image": "./img/shelter/office/695487.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-coos-county-animals-695487/",
+      "imageUrl": "https://cdn.findpawpal.com/office/695487.jpg?f=webp&w=730"
+    }
+  ]
+}

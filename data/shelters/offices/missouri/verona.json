@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:21:10.974703+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "verona",
+    "name": "Verona",
+    "label": "Verona, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/verona/",
+  "offices": [
+    {
+      "officeId": 192446,
+      "slug": "care-no-kill-shelter-192446",
+      "name": "CARE No Kill Shelter",
+      "address": "19219 Farm Road 2240, Verona, MO 65769",
+      "phone": "417-574-6500",
+      "image": "https://cdn.findpawpal.com/office/192446.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/care-no-kill-shelter-192446/"
+    },
+    {
+      "officeId": 207988,
+      "slug": "verona-animal-control-207988",
+      "name": "Verona Animal Control",
+      "address": "PO Box 158, Verona, MO 65769",
+      "phone": "417-498-6725",
+      "image": "./img/shelter/office/207988.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/verona-animal-control-207988/",
+      "imageUrl": "https://cdn.findpawpal.com/office/207988.jpg?f=webp&w=730"
+    }
+  ]
+}

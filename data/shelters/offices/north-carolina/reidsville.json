@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:41:02.991945+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "reidsville",
+    "name": "Reidsville",
+    "label": "Reidsville, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/reidsville/",
+  "offices": [
+    {
+      "officeId": 226983,
+      "slug": "rockingham-county-animal-shelter-226983",
+      "name": "Rockingham County Animal Shelter",
+      "address": "1401 West Harrison Street, Reidsville, NC 27320",
+      "phone": "336-342-4022",
+      "image": "./img/shelter/office/226983.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rockingham-county-animal-shelter-226983/",
+      "imageUrl": "https://cdn.findpawpal.com/office/226983.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 229808,
+      "slug": "rockingham-county-animal-welfare-society-229808",
+      "name": "Rockingham County Animal Welfare Society",
+      "address": "PO Box 302, Reidsville, NC 27323",
+      "phone": "336-427-2874",
+      "image": "./img/shelter/office/229808.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rockingham-county-animal-welfare-society-229808/",
+      "imageUrl": "https://cdn.findpawpal.com/office/229808.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 268574,
+      "slug": "rockingham-county-animal-control-268574",
+      "name": "Rockingham County Animal Control",
+      "address": "1088 North Carolina 65, Reidsville, NC 27320",
+      "phone": "336-634-3232",
+      "image": "./img/shelter/office/268574.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rockingham-county-animal-control-268574/",
+      "imageUrl": "https://cdn.findpawpal.com/office/268574.jpg?f=webp&w=730"
+    }
+  ]
+}

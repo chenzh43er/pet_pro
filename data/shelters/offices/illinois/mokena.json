@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:46:52.539557+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "mokena",
+    "name": "Mokena",
+    "label": "Mokena, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/mokena/",
+  "offices": [
+    {
+      "officeId": 411845,
+      "slug": "p-a-w-s-of-tinley-park-411845",
+      "name": "P.A.W.S. of Tinley Park",
+      "address": "8301 West 191st Street, Mokena, IL 60448",
+      "phone": "815-464-7298",
+      "image": "./img/shelter/office/411845.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/p-a-w-s-of-tinley-park-411845/",
+      "imageUrl": "https://cdn.findpawpal.com/office/411845.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 522933,
+      "slug": "national-animal-welfare-society-522933",
+      "name": "National Animal Welfare Society",
+      "address": "9981 190th Street, Mokena, IL 60448",
+      "phone": "708-478-5102",
+      "image": "./img/shelter/office/522933.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/national-animal-welfare-society-522933/",
+      "imageUrl": "https://cdn.findpawpal.com/office/522933.jpg?f=webp&w=730"
+    }
+  ]
+}

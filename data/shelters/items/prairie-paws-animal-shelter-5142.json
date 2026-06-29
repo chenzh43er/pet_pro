@@ -1,0 +1,21 @@
+{
+  "officeId": 5142,
+  "slug": "prairie-paws-animal-shelter-5142",
+  "name": "Prairie Paws Animal Shelter",
+  "address": "3173 Highway K 68, Ottawa, KS 66067",
+  "street": "3173 Highway K 68",
+  "addressCity": "Ottawa",
+  "stateCode": "KS",
+  "zip": "66067",
+  "phone": "785-242-2967",
+  "image": "./img/shelter/office/5142.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/prairie-paws-animal-shelter-5142/",
+  "stateSlug": "kansas",
+  "stateName": "Kansas",
+  "citySlug": "ottawa",
+  "cityName": "Ottawa",
+  "cityLabel": "Ottawa, KS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kansas/ottawa/",
+  "fetchedAt": "2026-06-27T18:55:43.951985+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/5142.jpg?f=webp&w=730"
+}

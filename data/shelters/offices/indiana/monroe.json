@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:51:03.471514+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "monroe",
+    "name": "Monroe",
+    "label": "Monroe, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/monroe/",
+  "offices": [
+    {
+      "officeId": 252159,
+      "slug": "adams-county-animal-shelter-252159",
+      "name": "Adams County Animal Shelter",
+      "address": "2168 South 300 East, Monroe, IN 46772",
+      "phone": "260-692-6819",
+      "image": "https://cdn.findpawpal.com/office/252159.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/adams-county-animal-shelter-252159/"
+    }
+  ]
+}

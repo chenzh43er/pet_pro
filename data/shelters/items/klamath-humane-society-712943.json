@@ -1,0 +1,21 @@
+{
+  "officeId": 712943,
+  "slug": "klamath-humane-society-712943",
+  "name": "Klamath Humane Society",
+  "address": "PO Box 482, Klamath Falls, OR 97601",
+  "street": "PO Box 482",
+  "addressCity": "Klamath Falls",
+  "stateCode": "OR",
+  "zip": "97601",
+  "phone": "541-882-1119",
+  "image": "./img/shelter/office/712943.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/klamath-humane-society-712943/",
+  "stateSlug": "oregon",
+  "stateName": "Oregon",
+  "citySlug": "klamath-falls",
+  "cityName": "Klamath Falls",
+  "cityLabel": "Klamath Falls, OR",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/oregon/klamath-falls/",
+  "fetchedAt": "2026-06-27T19:50:46.729111+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/712943.jpg?f=webp&w=730"
+}

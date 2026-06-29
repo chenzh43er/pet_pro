@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-06-27T18:17:41.212529+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "wellborn",
+    "name": "Wellborn",
+    "label": "Wellborn, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/wellborn/",
+  "offices": [
+    {
+      "slug": "florida-state-animal-control-274130",
+      "name": "Florida State Animal Control",
+      "address": "16800 County Road 137, Wellborn, FL 32094",
+      "phone": "386-963-1295",
+      "image": "https://cdn.findpawpal.com/office/274130.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/florida-state-animal-control-274130/"
+    }
+  ]
+}

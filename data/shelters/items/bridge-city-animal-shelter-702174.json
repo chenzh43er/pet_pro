@@ -1,0 +1,21 @@
+{
+  "officeId": 702174,
+  "slug": "bridge-city-animal-shelter-702174",
+  "name": "Bridge City Animal Shelter",
+  "address": "297 Bower Road, Bridge, TX 77611",
+  "street": "297 Bower Road",
+  "addressCity": "Bridge",
+  "stateCode": "TX",
+  "zip": "77611",
+  "phone": "409-735-8898",
+  "image": "./img/shelter/office/702174.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/bridge-city-animal-shelter-702174/",
+  "stateSlug": "texas",
+  "stateName": "Texas",
+  "citySlug": "bridge",
+  "cityName": "Bridge",
+  "cityLabel": "Bridge, TX",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/texas/bridge/",
+  "fetchedAt": "2026-06-27T20:03:19.740664+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/702174.jpg?f=webp&w=730"
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:49:32.506987+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "cannelton",
+    "name": "Cannelton",
+    "label": "Cannelton, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/cannelton/",
+  "offices": [
+    {
+      "officeId": 201793,
+      "slug": "perry-county-animal-shelter-201793",
+      "name": "Perry County Animal Shelter",
+      "address": "200 Herzelle Street, Cannelton, IN 47520",
+      "phone": "812-547-6381",
+      "image": "./img/shelter/office/201793.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/perry-county-animal-shelter-201793/",
+      "imageUrl": "https://cdn.findpawpal.com/office/201793.jpg?f=webp&w=730"
+    }
+  ]
+}

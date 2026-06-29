@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T18:31:46.772902+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "vacaville",
+    "name": "Vacaville",
+    "label": "Vacaville, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/vacaville/",
+  "offices": [
+    {
+      "officeId": 391062,
+      "slug": "animal-place-farm-rescue-391062",
+      "name": "Animal Place-Farm Rescue",
+      "address": "3448 Laguna Creek Trail, Vacaville, CA 95688",
+      "phone": "707-449-4814",
+      "image": "https://cdn.findpawpal.com/office/391062.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-place-farm-rescue-391062/"
+    },
+    {
+      "officeId": 479356,
+      "slug": "vacaville-animal-control-479356",
+      "name": "Vacaville Animal Control",
+      "address": "51 Commerce Pl, Vacaville, CA 95687",
+      "phone": "707-449-1700",
+      "image": "./img/shelter/office/479356.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/vacaville-animal-control-479356/",
+      "imageUrl": "https://cdn.findpawpal.com/office/479356.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 484771,
+      "slug": "northern-california-sled-dog-rescue-484771",
+      "name": "Northern California Sled Dog Rescue",
+      "address": "PO Box 604, Vacaville, CA 95696",
+      "phone": "800-471-5822",
+      "image": "./img/shelter/office/484771.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/northern-california-sled-dog-rescue-484771/",
+      "imageUrl": "https://cdn.findpawpal.com/office/484771.jpg?f=webp&w=730"
+    }
+  ]
+}

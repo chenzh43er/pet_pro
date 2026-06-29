@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T20:17:43.257491+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "edmonds",
+    "name": "Edmonds",
+    "label": "Edmonds, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/edmonds/",
+  "offices": [
+    {
+      "officeId": 621557,
+      "slug": "papillon-haven-rescue-621557",
+      "name": "Papillon Haven Rescue",
+      "address": "7806 191st Street Southwest, Edmonds, WA 98026",
+      "phone": "",
+      "image": "./img/shelter/office/621557.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/papillon-haven-rescue-621557/",
+      "imageUrl": "https://cdn.findpawpal.com/office/621557.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 621621,
+      "slug": "edmonds-animal-control-621621",
+      "name": "Edmonds Animal Control",
+      "address": "250 5th Avenue North, Edmonds, WA 98020",
+      "phone": "425-771-0205",
+      "image": "./img/shelter/office/621621.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/edmonds-animal-control-621621/",
+      "imageUrl": "https://cdn.findpawpal.com/office/621621.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 664424,
+      "slug": "precious-life-animal-sanctuary-664424",
+      "name": "Precious Life Animal Sanctuary",
+      "address": "PO Box 1209, Edmonds, WA 98020",
+      "phone": "425-776-6986",
+      "image": "./img/shelter/office/664424.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/precious-life-animal-sanctuary-664424/",
+      "imageUrl": "https://cdn.findpawpal.com/office/664424.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 698926,
+      "slug": "just-frogs-toads-too-amphibian-center-698926",
+      "name": "Just Frogs Toads Too Amphibian Center",
+      "address": "300 Admiral Way, Edmonds, WA 98020",
+      "phone": "425-778-8726",
+      "image": "./img/shelter/office/698926.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/just-frogs-toads-too-amphibian-center-698926/",
+      "imageUrl": "https://cdn.findpawpal.com/office/698926.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:18:29.299929+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "omak",
+    "name": "Omak",
+    "label": "Omak, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/omak/",
+  "offices": [
+    {
+      "officeId": 664357,
+      "slug": "okanogan-county-animal-foster-care-664357",
+      "name": "Okanogan County Animal Foster Care",
+      "address": "PO Box 3385, Omak, WA 98841",
+      "phone": "509-826-2227",
+      "image": "https://cdn.findpawpal.com/office/664357.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/okanogan-county-animal-foster-care-664357/"
+    }
+  ]
+}

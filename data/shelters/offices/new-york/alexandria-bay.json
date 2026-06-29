@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:31:27.262631+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "alexandria-bay",
+    "name": "Alexandria Bay",
+    "label": "Alexandria Bay, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/alexandria-bay/",
+  "offices": [
+    {
+      "officeId": 331916,
+      "slug": "poodle-rescue-331916",
+      "name": "Poodle Rescue",
+      "address": "24193 Swan Hollow Road, Alexandria Bay, NY 13607",
+      "phone": "315-482-3053",
+      "image": "https://cdn.findpawpal.com/office/331916.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/poodle-rescue-331916/"
+    }
+  ]
+}

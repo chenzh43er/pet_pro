@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:01:12.789046+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "milton",
+    "name": "Milton",
+    "label": "Milton, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/milton/",
+  "offices": [
+    {
+      "officeId": 685043,
+      "slug": "action-for-animals-685043",
+      "name": "Action for Animals",
+      "address": "11048 Bradley Creek Road, Milton, TN 37118",
+      "phone": "615-273-2853",
+      "image": "https://cdn.findpawpal.com/office/685043.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/action-for-animals-685043/"
+    }
+  ]
+}

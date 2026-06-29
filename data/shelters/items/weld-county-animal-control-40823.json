@@ -1,0 +1,21 @@
+{
+  "officeId": 40823,
+  "slug": "weld-county-animal-control-40823",
+  "name": "Weld County Animal Control",
+  "address": "2875 West 10th Street, Greeley, CO 80634",
+  "street": "2875 West 10th Street",
+  "addressCity": "Greeley",
+  "stateCode": "CO",
+  "zip": "80634",
+  "phone": "970-356-4015",
+  "image": "./img/shelter/office/40823.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/weld-county-animal-control-40823/",
+  "stateSlug": "colorado",
+  "stateName": "Colorado",
+  "citySlug": "greeley",
+  "cityName": "Greeley",
+  "cityLabel": "Greeley, CO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/colorado/greeley/",
+  "fetchedAt": "2026-06-27T18:34:24.121351+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/40823.jpg?f=webp&w=730"
+}

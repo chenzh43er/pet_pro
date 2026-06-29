@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T20:17:08.848225+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "anacortes",
+    "name": "Anacortes",
+    "label": "Anacortes, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/anacortes/",
+  "offices": [
+    {
+      "officeId": 593327,
+      "slug": "anacortes-animal-relief-fund-593327",
+      "name": "Anacortes Animal Relief Fund",
+      "address": "PO Box 906, Anacortes, WA 98221",
+      "phone": "360-293-2865",
+      "image": "https://cdn.findpawpal.com/office/593327.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/anacortes-animal-relief-fund-593327/"
+    },
+    {
+      "officeId": 714644,
+      "slug": "the-cats-meow-714644",
+      "name": "The Cats Meow",
+      "address": "803 4th Street, Anacortes, WA 98221",
+      "phone": "360-588-9900",
+      "image": "./img/shelter/office/714644.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-cats-meow-714644/",
+      "imageUrl": "https://cdn.findpawpal.com/office/714644.jpg?f=webp&w=730"
+    }
+  ]
+}

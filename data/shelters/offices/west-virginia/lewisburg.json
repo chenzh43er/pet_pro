@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T20:20:50.426571+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "lewisburg",
+    "name": "Lewisburg",
+    "label": "Lewisburg, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/lewisburg/",
+  "offices": [
+    {
+      "officeId": 453715,
+      "slug": "animal-shelter-lewisburg-453715",
+      "name": "Animal Shelter Lewisburg",
+      "address": "PO Box 246, Lewisburg, WV 24901",
+      "phone": "304-645-7255",
+      "image": "./img/shelter/office/453715.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-shelter-lewisburg-453715/",
+      "imageUrl": "https://cdn.findpawpal.com/office/453715.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 507396,
+      "slug": "friends-for-life-inc-507396",
+      "name": "Friends for Life, Inc.",
+      "address": "RR 2 Box 271, Lewisburg, WV 24901",
+      "phone": "304-667-1387",
+      "image": "./img/shelter/office/507396.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-for-life-inc-507396/",
+      "imageUrl": "https://cdn.findpawpal.com/office/507396.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 508219,
+      "slug": "greenbrier-county-humane-society-508219",
+      "name": "Greenbrier County Humane Society",
+      "address": "151 Holliday Lane, Lewisburg, WV 24901",
+      "phone": "304-645-4775",
+      "image": "./img/shelter/office/508219.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greenbrier-county-humane-society-508219/",
+      "imageUrl": "https://cdn.findpawpal.com/office/508219.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 622676,
+      "slug": "please-save-a-cat-622676",
+      "name": "Please Save A Cat",
+      "address": "RR 2 Box 340C, Lewisburg, WV 24901",
+      "phone": "304-667-6853",
+      "image": "./img/shelter/office/622676.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/please-save-a-cat-622676/",
+      "imageUrl": "https://cdn.findpawpal.com/office/622676.jpg?f=webp&w=730"
+    }
+  ]
+}

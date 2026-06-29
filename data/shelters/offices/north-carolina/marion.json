@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:40:18.650887+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "marion",
+    "name": "Marion",
+    "label": "Marion, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/marion/",
+  "offices": [
+    {
+      "officeId": 265938,
+      "slug": "mcdowell-county-animal-shelter-265938",
+      "name": "McDowell County Animal Shelter",
+      "address": "3751 Highway 226, Marion, NC 28752",
+      "phone": "828-652-6643",
+      "image": "./img/shelter/office/265938.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mcdowell-county-animal-shelter-265938/",
+      "imageUrl": "https://cdn.findpawpal.com/office/265938.jpg?f=webp&w=730"
+    }
+  ]
+}

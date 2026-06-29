@@ -1,0 +1,1889 @@
+{
+  "stateSlug": "georgia",
+  "count": 269,
+  "shelters": [
+    {
+      "slug": "cherokee-city-humane-society-143940",
+      "name": "Cherokee City Humane Society",
+      "address": "5577 Priest Road, Acworth, GA 30102",
+      "phone": "770-974-1853",
+      "image": "https://cdn.findpawpal.com/office/143940.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cherokee-county-humane-society-134800",
+      "name": "Cherokee County Humane Society",
+      "address": "5900 Bells Ferry Road, Acworth, GA 30102",
+      "phone": "770-592-8072",
+      "image": "https://cdn.findpawpal.com/office/134800.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "stopping-pet-overpopulation-together-140785",
+      "name": "Stopping Pet Overpopulation Together",
+      "address": "PO Box 801012, Acworth, GA 30101",
+      "phone": "404-584-7768",
+      "image": "https://cdn.findpawpal.com/office/140785.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "albany-animal-control-147246",
+      "name": "Albany Animal Control",
+      "address": "530 West Broad Avenue, Albany, GA 31701",
+      "phone": "229-430-3938",
+      "image": "https://cdn.findpawpal.com/office/147246.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "albany-humane-society-inc-138426",
+      "name": "Albany Humane Society, Inc.",
+      "address": "PO Box 3151, Albany, GA 31706",
+      "phone": "912-888-7387",
+      "image": "https://cdn.findpawpal.com/office/138426.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ahimsa-house-inc-148878",
+      "name": "Ahimsa House, Inc.",
+      "address": "PO Box 3495, Alpharetta, GA 30023",
+      "phone": "678-640-6706",
+      "image": "https://cdn.findpawpal.com/office/148878.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alpharetta-animal-shelter-140747",
+      "name": "Alpharetta Animal Shelter",
+      "address": "1520 Union Hill Road, Alpharetta, GA 30005",
+      "phone": "770-613-0009",
+      "image": "https://cdn.findpawpal.com/office/140747.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cats-in-the-cradle-133581",
+      "name": "Cats In The Cradle",
+      "address": "PO Box 753, Alpharetta, GA 30009",
+      "phone": "770-664-4355",
+      "image": "https://cdn.findpawpal.com/office/133581.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "north-fulton-humane-society-inc-158116",
+      "name": "North Fulton Humane Society, Inc.",
+      "address": "PO Box 3324, Alpharetta, GA 30023",
+      "phone": "770-772-7472",
+      "image": "https://cdn.findpawpal.com/office/158116.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "americus-animal-control-140726",
+      "name": "Americus Animal Control",
+      "address": "119 South Lee Street, Americus, GA 31709",
+      "phone": "229-924-3677",
+      "image": "https://cdn.findpawpal.com/office/140726.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sumter-humane-society-133880",
+      "name": "Sumter Humane Society",
+      "address": "702 Magnolia Street, Americus, GA 31719",
+      "phone": "229-924-0268",
+      "image": "https://cdn.findpawpal.com/office/133880.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "columbia-county-animal-care-and-control-148956",
+      "name": "Columbia County Animal Care and Control",
+      "address": "6337 Columbia Road, Appling, GA 30802",
+      "phone": "706-541-4077",
+      "image": "https://cdn.findpawpal.com/office/148956.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ashburn-animal-shelter-160532",
+      "name": "Ashburn Animal Shelter",
+      "address": "SON STORY Rd, Ashburn, GA 31714",
+      "phone": "229-567-2796",
+      "image": "https://cdn.findpawpal.com/office/160532.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "athens-area-humane-society-133227",
+      "name": "Athens Area Humane Society",
+      "address": "150 Buddy Christian Way, Athens, GA 30605",
+      "phone": "706-353-2287",
+      "image": "https://cdn.findpawpal.com/office/133227.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "athens-canine-rescue-148515",
+      "name": "Athens Canine Rescue",
+      "address": "PO Box 7064, Athens, GA 30604",
+      "phone": "706-549-4883",
+      "image": "https://cdn.findpawpal.com/office/148515.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kitty-crusaders-of-athens-144990",
+      "name": "Kitty Crusaders of Athens",
+      "address": "360 Old Winterville Road, Athens, GA 30601",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/144990.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-assistance-and-welfare-society-of-athens-142213",
+      "name": "Pet Assistance and Welfare Society of Athens",
+      "address": "PO Box 7905, Athens, GA 30604",
+      "phone": "706-310-0663",
+      "image": "https://cdn.findpawpal.com/office/142213.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "a-welcome-home-animal-rescue-146185",
+      "name": "A Welcome Home Animal Rescue",
+      "address": "2580 Northeast Expressway Northeast, Atlanta, GA 30345",
+      "phone": "404-329-9006",
+      "image": "https://cdn.findpawpal.com/office/146185.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "aiding-and-a-petting-141010",
+      "name": "Aiding and A-Petting",
+      "address": "PO Box 191652, Atlanta, GA 31119",
+      "phone": "404-275-8384",
+      "image": "https://cdn.findpawpal.com/office/141010.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-savers-rescue-134724",
+      "name": "Animal Savers Rescue",
+      "address": "19 Ivy Trail Northeast, Atlanta, GA 30342",
+      "phone": "404-610-4655",
+      "image": "https://cdn.findpawpal.com/office/134724.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "atlanta-animal-rescue-friends-141039",
+      "name": "Atlanta Animal Rescue Friends",
+      "address": "PO Box 5336, Atlanta, GA 31107",
+      "phone": "678-318-1886",
+      "image": "https://cdn.findpawpal.com/office/141039.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "atlanta-beagle-rescue-inc-159230",
+      "name": "Atlanta Beagle Rescue, Inc.",
+      "address": "1619 Jobeth Avenue Southeast, Atlanta, GA 30316",
+      "phone": "404-889-5041",
+      "image": "https://cdn.findpawpal.com/office/159230.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "atlanta-humane-society-howell-mill-campus-146555",
+      "name": "Atlanta Humane Society - Howell Mill Campus",
+      "address": "981 Howell Mill Road Northwest, Atlanta, GA 30318",
+      "phone": "404-875-5331",
+      "image": "https://cdn.findpawpal.com/office/146555.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "atlanta-pet-rescue-and-adoption-147396",
+      "name": "Atlanta Pet Rescue & Adoption",
+      "address": "20 14th Street Northwest, Atlanta, GA 30309",
+      "phone": "770-351-7377",
+      "image": "https://cdn.findpawpal.com/office/147396.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "collie-rescue-of-metro-atlanta-149957",
+      "name": "Collie Rescue of Metro-Atlanta",
+      "address": "1524 Cortez Lane Northeast, Atlanta, GA 30319",
+      "phone": "404-633-2337",
+      "image": "https://cdn.findpawpal.com/office/149957.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fulton-county-animal-services-133789",
+      "name": "Fulton County Animal Services",
+      "address": "860 Marietta Boulevard Northwest, Atlanta, GA 30318",
+      "phone": "404-613-0358",
+      "image": "https://cdn.findpawpal.com/office/133789.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fulton-county-spca-138616",
+      "name": "Fulton County SPCA",
+      "address": "875 Rice Street Northwest, Atlanta, GA 30318",
+      "phone": "404-872-2207",
+      "image": "https://cdn.findpawpal.com/office/138616.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "furkids-animal-rescue-inc-145366",
+      "name": "Furkids Animal Rescue, Inc.",
+      "address": "PO Box 191102, Atlanta, GA 31119",
+      "phone": "404-816-6256",
+      "image": "https://cdn.findpawpal.com/office/145366.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "furkids-animal-shelter-151218",
+      "name": "Furkids Animal Shelter",
+      "address": "2650 Pleasantdale Rd, Atlanta, GA 30340",
+      "phone": "770-613-0009",
+      "image": "https://cdn.findpawpal.com/office/151218.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-association-of-georgia-159245",
+      "name": "Humane Association of Georgia",
+      "address": "1317 Hearst Drive Northeast, Atlanta, GA 30319",
+      "phone": "404-827-0603",
+      "image": "https://cdn.findpawpal.com/office/159245.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-community-of-america-133755",
+      "name": "Humane Community of America",
+      "address": "PO Box 450715, Atlanta, GA 31145",
+      "phone": "404-325-0181",
+      "image": "https://cdn.findpawpal.com/office/133755.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-rattitude-rat-terrier-rescue-and-adoption-142575",
+      "name": "New Rattitude Rat Terrier Rescue and Adoption",
+      "address": "PO Box 81462, Atlanta, GA 30366",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/142575.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "augusta-humane-society-inc-133844",
+      "name": "Augusta Humane Society, Inc.",
+      "address": "PO Box 12035, Augusta, GA 30914",
+      "phone": "706-736-0186",
+      "image": "https://cdn.findpawpal.com/office/133844.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-augusta-animal-services-139453",
+      "name": "City of Augusta Animal Services",
+      "address": "4164 Mack Lane, Augusta, GA 30906",
+      "phone": "706-790-6836",
+      "image": "https://cdn.findpawpal.com/office/139453.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "csra-humane-society-148275",
+      "name": "Csra Humane Society",
+      "address": "425 Wood Street, Augusta, GA 30904",
+      "phone": "706-261-7387",
+      "image": "https://cdn.findpawpal.com/office/148275.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greyhound-friends-of-augusta-inc-134325",
+      "name": "Greyhound Friends of Augusta, Inc.",
+      "address": "2122 Richards Road, Augusta, GA 30906",
+      "phone": "706-796-1708",
+      "image": "https://cdn.findpawpal.com/office/134325.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "happy-tails-rescue-147688",
+      "name": "Happy Tails Rescue",
+      "address": "PO Box 211773, Augusta, GA 30917",
+      "phone": "706-294-4718",
+      "image": "https://cdn.findpawpal.com/office/147688.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "save-the-animals-rescue-society-inc-135097",
+      "name": "Save The Animals Rescue Society, Inc.",
+      "address": "PO Box 212136, Augusta, GA 30917",
+      "phone": "706-231-4399",
+      "image": "https://cdn.findpawpal.com/office/135097.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "avondale-estates-animal-control-140768",
+      "name": "Avondale Estates Animal Control",
+      "address": "129 Lake Street, Avondale Estates, GA 30002",
+      "phone": "404-292-8800",
+      "image": "https://cdn.findpawpal.com/office/140768.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-148786",
+      "name": "Humane Society",
+      "address": "1350 Cox Avenue, Bainbridge, GA 39819",
+      "phone": "229-246-0101",
+      "image": "https://cdn.findpawpal.com/office/148786.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "barnesville-animal-shelter-139389",
+      "name": "Barnesville Animal Shelter",
+      "address": "300 Mill Street, Barnesville, GA 30204",
+      "phone": "770-358-1087",
+      "image": "https://cdn.findpawpal.com/office/139389.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oconee-county-animal-control-135653",
+      "name": "Oconee County Animal Control",
+      "address": "1171 Branch Road, Bishop, GA 30621",
+      "phone": "706-769-3956",
+      "image": "https://cdn.findpawpal.com/office/135653.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "blackshear-animal-control-143023",
+      "name": "Blackshear Animal Control",
+      "address": "931 Gordon Street, Blackshear, GA 31516",
+      "phone": "912-288-2029",
+      "image": "https://cdn.findpawpal.com/office/143023.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-mountain-shelter-145729",
+      "name": "Humane Society Mountain Shelter",
+      "address": "PO Box 1252, Blairsville, GA 30514",
+      "phone": "706-896-6116",
+      "image": "https://cdn.findpawpal.com/office/145729.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "union-county-animal-control-135405",
+      "name": "Union County Animal Control",
+      "address": "41 Hospital Street, Blairsville, GA 30512",
+      "phone": "706-439-6052",
+      "image": "https://cdn.findpawpal.com/office/135405.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-shelter-143324",
+      "name": "Animal Shelter",
+      "address": "1450 North Main Street, Blakely, GA 39823",
+      "phone": "912-723-3727",
+      "image": "https://cdn.findpawpal.com/office/143324.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "gilmer-fannin-humane-society-142494",
+      "name": "Gilmer-Fannin Humane Society",
+      "address": "PO Box 1251, Blue Ridge, GA 30513",
+      "phone": "706-632-7711",
+      "image": "https://cdn.findpawpal.com/office/142494.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-south-coastal-georgia-inc-133900",
+      "name": "Humane Society of South Coastal Georgia Inc",
+      "address": "4627 U.s. 17, Brunswick, GA 31525",
+      "phone": "912-264-6246",
+      "image": "https://cdn.findpawpal.com/office/133900.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "haralson-county-animal-control-143054",
+      "name": "Haralson County Animal Control",
+      "address": "1799 Macedonia Church Road, Buchanan, GA 30113",
+      "phone": "770-646-6622",
+      "image": "https://cdn.findpawpal.com/office/143054.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "haralson-county-spca-141157",
+      "name": "Haralson County SPCA",
+      "address": "PO Box 902, Buchanan, GA 30113",
+      "phone": "708-645-5876",
+      "image": "https://cdn.findpawpal.com/office/141157.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rescuing-animals-in-need-inc-133917",
+      "name": "Rescuing Animals in Need, Inc.",
+      "address": "PO Box 1182, Buford, GA 30515",
+      "phone": "770-945-3497",
+      "image": "https://cdn.findpawpal.com/office/133917.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "grady-county-animal-control-144620",
+      "name": "Grady County Animal Control",
+      "address": "LIVESTOCK PAVILION Rd, Cairo, GA 39828",
+      "phone": "229-377-3425",
+      "image": "https://cdn.findpawpal.com/office/144620.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-animal-rescue-134980",
+      "name": "Second Chance Animal Rescue",
+      "address": "1660 Ridge Road, Cairo, GA 39827",
+      "phone": "229-224-8393",
+      "image": "https://cdn.findpawpal.com/office/134980.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "gordon-county-animal-shelter-138632",
+      "name": "Gordon County Animal Shelter",
+      "address": "790 Harris Beamer Road Southwest, Calhoun, GA 30701",
+      "phone": "706-629-3327",
+      "image": "https://cdn.findpawpal.com/office/138632.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cherokee-county-animal-shelter-142356",
+      "name": "Cherokee County Animal Shelter",
+      "address": "1015 Univeter Road, Canton, GA 30115",
+      "phone": "770-345-7270",
+      "image": "https://cdn.findpawpal.com/office/142356.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-north-georgia-134552",
+      "name": "Humane Society of North Georgia",
+      "address": "1170 Lewis Crump Road, Carnesville, GA 30521",
+      "phone": "706-282-9528",
+      "image": "https://cdn.findpawpal.com/office/134552.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "carroll-county-animal-shelter-134414",
+      "name": "Carroll County Animal Shelter",
+      "address": "251 Automation Drive, Carrollton, GA 30117",
+      "phone": "770-214-3590",
+      "image": "https://cdn.findpawpal.com/office/134414.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "carroll-county-humane-society-143206",
+      "name": "Carroll County Humane Society",
+      "address": "PO Box 1304, Carrollton, GA 30112",
+      "phone": "770-830-2763",
+      "image": "https://cdn.findpawpal.com/office/143206.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "southeast-bloodhound-rescue-141680",
+      "name": "Southeast Bloodhound Rescue",
+      "address": "61 Cypress Circle, Carrollton, GA 30116",
+      "phone": "770-836-8862",
+      "image": "https://cdn.findpawpal.com/office/141680.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bartow-county-humane-society-134083",
+      "name": "Bartow County Humane Society",
+      "address": "50 Ladds Mountain Rd SW, Cartersville, GA 30120",
+      "phone": "770-383-3338",
+      "image": "https://cdn.findpawpal.com/office/134083.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "polk-county-animal-control-135639",
+      "name": "Polk County Animal Control",
+      "address": "1215 Veal Street, Cedartown, GA 30125",
+      "phone": "678-901-4665",
+      "image": "https://cdn.findpawpal.com/office/135639.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chamblee-animal-control-151193",
+      "name": "Chamblee Animal Control",
+      "address": "3210 Cumberland Drive, Chamblee, GA 30341",
+      "phone": "770-986-5019",
+      "image": "https://cdn.findpawpal.com/office/151193.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "murray-county-animal-control-135716",
+      "name": "Murray County Animal Control",
+      "address": "571 Highway 52, Chatsworth, GA 30705",
+      "phone": "706-695-8003",
+      "image": "https://cdn.findpawpal.com/office/135716.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "walker-county-animal-shelter-134385",
+      "name": "Walker County Animal Shelter",
+      "address": "5488 North Marble Top Road, Chickamauga, GA 30707",
+      "phone": "706-375-2100",
+      "image": "https://cdn.findpawpal.com/office/134385.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "habersham-county-animal-control-140595",
+      "name": "Habersham County Animal Control",
+      "address": "4231 Toccoa Highway, Clarkesville, GA 30523",
+      "phone": "706-754-3533",
+      "image": "https://cdn.findpawpal.com/office/140595.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "white-county-animal-control-144418",
+      "name": "White County Animal Control",
+      "address": "1536 South Main Street, Cleveland, GA 30528",
+      "phone": "706-219-2689",
+      "image": "https://cdn.findpawpal.com/office/144418.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-cochran-animal-shelter-140593",
+      "name": "City of Cochran Animal Shelter",
+      "address": "230 NW Railroad Ave, Cochran, GA 31014",
+      "phone": "478-934-1306",
+      "image": "https://cdn.findpawpal.com/office/140593.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "allied-cats-of-columbus-145856",
+      "name": "Allied Cats of Columbus",
+      "address": "1343 Peacock Avenue, Columbus, GA 31906",
+      "phone": "706-324-1399",
+      "image": "https://cdn.findpawpal.com/office/145856.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "columbus-animal-control-140615",
+      "name": "Columbus Animal Control",
+      "address": "1152 Cusseta Road, Columbus, GA 31901",
+      "phone": "706-653-4512",
+      "image": "https://cdn.findpawpal.com/office/140615.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "muscogee-county-humane-society-149515",
+      "name": "Muscogee County Humane Society",
+      "address": "4900 Milgen Road, Columbus, GA 31907",
+      "phone": "706-563-3647",
+      "image": "https://cdn.findpawpal.com/office/149515.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-columbus-134336",
+      "name": "Paws Columbus",
+      "address": "5734 Windsor Drive, Columbus, GA 31909",
+      "phone": "706-565-0035",
+      "image": "https://cdn.findpawpal.com/office/134336.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "commerce-veterinary-hospital-139178",
+      "name": "Commerce Veterinary Hospital",
+      "address": "1012 South Broad Street, Commerce, GA 30529",
+      "phone": "706-335-5111",
+      "image": "https://cdn.findpawpal.com/office/139178.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "conyers-rockdale-humane-society-148697",
+      "name": "Conyers-Rockdale Humane Society",
+      "address": "1581 Loganville Highway, Conyers, GA 30012",
+      "phone": "770-922-4618",
+      "image": "https://cdn.findpawpal.com/office/148697.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "north-georgia-house-rabbit-society-139864",
+      "name": "North Georgia House Rabbit Society",
+      "address": "3013 Barcelona Way, Conyers, GA 30012",
+      "phone": "678-526-8884",
+      "image": "https://cdn.findpawpal.com/office/139864.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rockdale-county-animal-control-143759",
+      "name": "Rockdale County Animal Control",
+      "address": "1506 Rockbridge Road Northwest, Conyers, GA 30012",
+      "phone": "770-278-8403",
+      "image": "https://cdn.findpawpal.com/office/143759.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cordele-animal-shelter-147136",
+      "name": "Cordele Animal Shelter",
+      "address": "701 South 15th Street, Cordele, GA 31015",
+      "phone": "229-276-2547",
+      "image": "https://cdn.findpawpal.com/office/147136.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "black-diamond-rottweiler-rescue-145917",
+      "name": "Black Diamond Rottweiler Rescue",
+      "address": "Lower River Rd, Covington, GA 30016",
+      "phone": "770-728-0558",
+      "image": "https://cdn.findpawpal.com/office/145917.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "little-chosen-rescue-house-134387",
+      "name": "Little Chosen Rescue House",
+      "address": "90 Mountainside Lane, Covington, GA 30016",
+      "phone": "678-658-0557",
+      "image": "https://cdn.findpawpal.com/office/134387.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "newton-county-animal-shelter-158800",
+      "name": "Newton County Animal Shelter",
+      "address": "210 Lower River Road, Covington, GA 30016",
+      "phone": "770-786-9514",
+      "image": "https://cdn.findpawpal.com/office/158800.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rotten-russells-rescue-ranch-141650",
+      "name": "Rotten Russell's Rescue Ranch",
+      "address": "80 Salem Branch Road, Covington, GA 30016",
+      "phone": "770-633-7626",
+      "image": "https://cdn.findpawpal.com/office/141650.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "helping-hands-humane-society-149299",
+      "name": "Helping Hands Humane Society",
+      "address": "PO Box 112, Crawfordville, GA 30631",
+      "phone": "706-456-3339",
+      "image": "https://cdn.findpawpal.com/office/149299.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "forsyth-county-animal-shelter-160403",
+      "name": "Forsyth County Animal Shelter",
+      "address": "1904 Old Atlanta Road, Cumming, GA 30041",
+      "phone": "770-888-2500",
+      "image": "https://cdn.findpawpal.com/office/160403.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-forsyth-county-133811",
+      "name": "Humane Society of Forsyth County",
+      "address": "PO Box 337, Cumming, GA 30028",
+      "phone": "770-889-1356",
+      "image": "https://cdn.findpawpal.com/office/133811.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "labrador-friends-of-the-south-inc-148870",
+      "name": "Labrador Friends of the South, Inc.",
+      "address": "PO Box 933, Cumming, GA 30028",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/148870.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-horse-rescue-relief-and-retirement-fund-inc-133786",
+      "name": "The Horse Rescue, Relief And Retirement Fund, Inc.",
+      "address": "1768 Newt Green Road, Cumming, GA 30028",
+      "phone": "770-886-5419",
+      "image": "https://cdn.findpawpal.com/office/133786.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "canine-pet-rescue-134533",
+      "name": "Canine Pet Rescue",
+      "address": "2625 Jones Phillips Road, Dacula, GA 30019",
+      "phone": "770-307-6057",
+      "image": "https://cdn.findpawpal.com/office/134533.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lumpkin-co-animal-shelter-133784",
+      "name": "Lumpkin Co Animal Shelter",
+      "address": "1363 Red Oak Flats Road, Dahlonega, GA 30533",
+      "phone": "706-867-7297",
+      "image": "https://cdn.findpawpal.com/office/133784.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tlc-humane-society-133974",
+      "name": "TLC Humane Society",
+      "address": "1735 Red Oak Flats Road, Dahlonega, GA 30533",
+      "phone": "706-864-2817",
+      "image": "https://cdn.findpawpal.com/office/133974.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-evans-county-ga-inc-148818",
+      "name": "Humane Society of Evans County, GA Inc",
+      "address": "PO Box 201, Daisy, GA 30423",
+      "phone": "912-739-0860",
+      "image": "https://cdn.findpawpal.com/office/148818.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paulding-county-animal-control-147167",
+      "name": "Paulding County Animal Control",
+      "address": "779 Industrial Boulevard North, Dallas, GA 30132",
+      "phone": "770-445-1511",
+      "image": "https://cdn.findpawpal.com/office/147167.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paulding-humane-society-158416",
+      "name": "Paulding Humane Society",
+      "address": "PO Box 674, Dallas, GA 30132",
+      "phone": "770-443-3565",
+      "image": "https://cdn.findpawpal.com/office/158416.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-northwest-georgia-139084",
+      "name": "Humane Society of Northwest Georgia",
+      "address": "1703 Cleveland Highway, Dalton, GA 30721",
+      "phone": "706-226-5002",
+      "image": "https://cdn.findpawpal.com/office/139084.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "whitfield-county-animal-control-147905",
+      "name": "Whitfield County Animal Control",
+      "address": "156 Gillespie Drive, Dalton, GA 30721",
+      "phone": "706-278-2018",
+      "image": "https://cdn.findpawpal.com/office/147905.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "danielsville-animal-control-140638",
+      "name": "Danielsville Animal Control",
+      "address": "1888 Colbert-Danielsville Road, Danielsville, GA 30633",
+      "phone": "706-795-2868",
+      "image": "https://cdn.findpawpal.com/office/140638.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mcintosh-county-animal-control-135498",
+      "name": "McIntosh County Animal Control",
+      "address": "1184 Animal Shelter Dr SW, Darien, GA 31305",
+      "phone": "912-437-4242",
+      "image": "https://cdn.findpawpal.com/office/135498.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "all-c-a-t-s-inc-142426",
+      "name": "All C.A.T.S., Inc.",
+      "address": "PO Box 1095, Dawsonville, GA 30534",
+      "phone": "404-998-9442",
+      "image": "https://cdn.findpawpal.com/office/142426.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dawson-county-animal-shelter-133634",
+      "name": "Dawson County Animal Shelter",
+      "address": "633 Martin Road, Dawsonville, GA 30534",
+      "phone": "706-265-9160",
+      "image": "https://cdn.findpawpal.com/office/133634.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rainbow-nation-133440",
+      "name": "Rainbow Nation",
+      "address": "PO Box 1114, Dawsonville, GA 30534",
+      "phone": "706-864-4899",
+      "image": "https://cdn.findpawpal.com/office/133440.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sheltie-rescue-of-georgia-145204",
+      "name": "Sheltie Rescue of Georgia",
+      "address": "201 Hampton Drive, Dawsonville, GA 30534",
+      "phone": "770-926-2001",
+      "image": "https://cdn.findpawpal.com/office/145204.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mcduffie-friends-of-animals-142826",
+      "name": "Mcduffie Friends of Animals",
+      "address": "104 1st Street, Dearing, GA 30808",
+      "phone": "706-556-9090",
+      "image": "https://cdn.findpawpal.com/office/142826.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-action-group-146194",
+      "name": "Animal Action Group",
+      "address": "734 South Candler Street, Decatur, GA 30030",
+      "phone": "404-378-4230",
+      "image": "https://cdn.findpawpal.com/office/146194.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dekalb-county-animal-control-144473",
+      "name": "DeKalb County Animal Control",
+      "address": "845 Camp Road, Decatur, GA 30032",
+      "phone": "404-294-2996",
+      "image": "https://cdn.findpawpal.com/office/144473.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "georgia-humane-association-149927",
+      "name": "Georgia Humane Association",
+      "address": "379 Poplar Lane Way, Decatur, GA 30030",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/149927.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-atlanta-134582",
+      "name": "PAWS Atlanta",
+      "address": "5287 Covington Highway, Decatur, GA 30035",
+      "phone": "770-593-1155",
+      "image": "https://cdn.findpawpal.com/office/134582.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-cats-meow-rescue-134407",
+      "name": "The Cat's Meow Rescue",
+      "address": "19 Carteret Place, Decatur, GA 30032",
+      "phone": "910-709-1773",
+      "image": "https://cdn.findpawpal.com/office/134407.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "coffee-county-animal-control-160477",
+      "name": "Coffee County Animal Control",
+      "address": "941 Mahogany Road, Douglas, GA 31533",
+      "phone": "912-383-8075",
+      "image": "https://cdn.findpawpal.com/office/160477.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "douglas-animal-shelter-144487",
+      "name": "Douglas Animal Shelter",
+      "address": "620 Iron Road, Douglas, GA 31535",
+      "phone": "912-384-8031",
+      "image": "https://cdn.findpawpal.com/office/144487.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "douglas-coffee-county-humane-society-138287",
+      "name": "Douglas-Coffee County Humane Society",
+      "address": "PO Box 2049, Douglas, GA 31534",
+      "phone": "912-384-4751",
+      "image": "https://cdn.findpawpal.com/office/138287.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "douglas-county-animal-control-160487",
+      "name": "Douglas County Animal Control",
+      "address": "1755 County Services Road, Douglasville, GA 30134",
+      "phone": "770-942-5961",
+      "image": "https://cdn.findpawpal.com/office/160487.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "douglas-county-humane-society-134563",
+      "name": "Douglas County Humane Society",
+      "address": "8177 Cedar Mountain Road, Douglasville, GA 30134",
+      "phone": "678-838-9123",
+      "image": "https://cdn.findpawpal.com/office/134563.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dublin-laurens-county-humane-association-141217",
+      "name": "Dublin-Laurens County Humane Association",
+      "address": "PO Box 4358, Dublin, GA 31040",
+      "phone": "912-272-5341",
+      "image": "https://cdn.findpawpal.com/office/141217.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "putnam-county-animal-control-150252",
+      "name": "Putnam County Animal Control",
+      "address": "107 Ridley Drive, Eatonton, GA 31024",
+      "phone": "706-485-3970",
+      "image": "https://cdn.findpawpal.com/office/150252.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "elbert-county-animal-control-149646",
+      "name": "Elbert County Animal Control",
+      "address": "2160 Hulmes Chapel Road, Elberton, GA 30635",
+      "phone": "706-283-5054",
+      "image": "https://cdn.findpawpal.com/office/149646.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "marcus-star-141395",
+      "name": "Marcus Star",
+      "address": "278 Chapel Hill Cir, Enigma, GA 31749",
+      "phone": "229-533-1014",
+      "image": "https://cdn.findpawpal.com/office/141395.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cat-haven-rescue-inc-142390",
+      "name": "Cat Haven Rescue Inc.",
+      "address": "PO Box 3313, Evans, GA 30809",
+      "phone": "706-533-1926",
+      "image": "https://cdn.findpawpal.com/office/142390.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fayette-county-animal-shelter-134847",
+      "name": "Fayette County Animal Shelter",
+      "address": "140 Stonewall Avenue West, Fayetteville, GA 30214",
+      "phone": "404-487-6450",
+      "image": "https://cdn.findpawpal.com/office/134847.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "georgia-heartland-humane-society-157965",
+      "name": "Georgia Heartland Humane Society",
+      "address": "PO Box 466, Fayetteville, GA 30214",
+      "phone": "770-830-2820",
+      "image": "https://cdn.findpawpal.com/office/157965.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rescuecats-inc-148852",
+      "name": "Rescuecats, Inc.",
+      "address": "PO Box 142882, Fayetteville, GA 30214",
+      "phone": "678-817-9647",
+      "image": "https://cdn.findpawpal.com/office/148852.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fitzgerald-ben-hill-humane-society-146825",
+      "name": "Fitzgerald Ben Hill Humane Society",
+      "address": "154 Perry House Road, Fitzgerald, GA 31750",
+      "phone": "912-423-7000",
+      "image": "https://cdn.findpawpal.com/office/146825.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-shelter-of-monroe-county-145580",
+      "name": "Animal Shelter of Monroe County",
+      "address": "PO Box 189, Forsyth, GA 31029",
+      "phone": "912-994-7000",
+      "image": "https://cdn.findpawpal.com/office/145580.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fort-valley-animal-shelter-134169",
+      "name": "Fort Valley Animal Shelter",
+      "address": "204 West Church Street, Fort Valley, GA 31030",
+      "phone": "912-825-2615",
+      "image": "https://cdn.findpawpal.com/office/134169.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "heard-county-animal-control-135021",
+      "name": "Heard County Animal Control",
+      "address": "11818 Highway 100, Franklin, GA 30217",
+      "phone": "706-675-3570",
+      "image": "https://cdn.findpawpal.com/office/135021.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-northeast-georgia-150033",
+      "name": "Humane Society of Northeast Georgia",
+      "address": "845 West Ridge Road, Gainesville, GA 30501",
+      "phone": "770-532-6617",
+      "image": "https://cdn.findpawpal.com/office/150033.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-shelter-gray-133994",
+      "name": "Animal Shelter Gray",
+      "address": "PO Box 15, Gray, GA 31032",
+      "phone": "985-873-1095",
+      "image": "https://cdn.findpawpal.com/office/133994.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jones-county-animal-shelter-147023",
+      "name": "Jones County Animal Shelter",
+      "address": "395 Eatonton Highway, Gray, GA 31032",
+      "phone": "478-986-1427",
+      "image": "https://cdn.findpawpal.com/office/147023.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "auxiliary-for-dekalb-animals-150042",
+      "name": "Auxiliary for Dekalb Animals",
+      "address": "85 Leighs Grove Way, Grayson, GA 30017",
+      "phone": "770-237-8891",
+      "image": "https://cdn.findpawpal.com/office/150042.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greene-county-animal-control-160229",
+      "name": "Greene County Animal Control",
+      "address": "1110 C Weldon Smith Drive, Greensboro, GA 30642",
+      "phone": "706-454-7039",
+      "image": "https://cdn.findpawpal.com/office/160229.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oconee-regional-humane-society-134682",
+      "name": "Oconee Regional Humane Society",
+      "address": "1020 Park Avenue, Greensboro, GA 30642",
+      "phone": "706-454-1508",
+      "image": "https://cdn.findpawpal.com/office/134682.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "meriwether-county-animal-shelter-135158",
+      "name": "Meriwether County Animal Shelter",
+      "address": "263 McLaughlin Rd, Greenville, GA 30222",
+      "phone": "706-672-2966",
+      "image": "https://cdn.findpawpal.com/office/135158.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-griffin-and-spalding-county-142902",
+      "name": "Humane Society of Griffin & Spalding County",
+      "address": "599 Smoak Road, Griffin, GA 30223",
+      "phone": "770-229-4925",
+      "image": "https://cdn.findpawpal.com/office/142902.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spalding-county-animal-control-138905",
+      "name": "Spalding County Animal Control",
+      "address": "208 Justice Boulevard, Griffin, GA 30224",
+      "phone": "770-467-4772",
+      "image": "https://cdn.findpawpal.com/office/138905.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "columbia-county-animal-control-135165",
+      "name": "Columbia County Animal Control",
+      "address": "1940 William Few Parkway, Grovetown, GA 30813",
+      "phone": "706-541-4077",
+      "image": "https://cdn.findpawpal.com/office/135165.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "columbia-county-humane-society-148987",
+      "name": "Columbia County Humane Society",
+      "address": "6100 Columbia Road, Grovetown, GA 30813",
+      "phone": "706-860-5020",
+      "image": "https://cdn.findpawpal.com/office/148987.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-of-effingham-134908",
+      "name": "PAWS of Effingham",
+      "address": "806 Honey Ridge Road, Guyton, GA 31312",
+      "phone": "912-352-2247",
+      "image": "https://cdn.findpawpal.com/office/134908.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "begin-again-farms-inc-133886",
+      "name": "Begin Again Farms, Inc.",
+      "address": "PO Box 242, Hamilton, GA 31811",
+      "phone": "706-628-4303",
+      "image": "https://cdn.findpawpal.com/office/133886.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "harris-county-animal-shelter-133895",
+      "name": "Harris County Animal Shelter",
+      "address": "10244 Highway 116, Hamilton, GA 31811",
+      "phone": "706-628-4000",
+      "image": "https://cdn.findpawpal.com/office/133895.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "feathered-friends-forerver-rescue-134868",
+      "name": "Feathered Friends Forerver Rescue",
+      "address": "612 Byrd Road, Harlem, GA 30814",
+      "phone": "706-541-9316",
+      "image": "https://cdn.findpawpal.com/office/134868.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hartwell-animal-shelter-139132",
+      "name": "Hartwell Animal Shelter",
+      "address": "500 East Howell Street, Hartwell, GA 30643",
+      "phone": "706-376-4756",
+      "image": "https://cdn.findpawpal.com/office/139132.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pulaski-county-animal-control-135376",
+      "name": "Pulaski County Animal Control",
+      "address": "28 Bow Wow Ln, Hawkinsville, GA 31036",
+      "phone": "478-783-1212",
+      "image": "https://cdn.findpawpal.com/office/135376.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hazlehurst-animal-shelter-142802",
+      "name": "Hazlehurst Animal Shelter",
+      "address": "52 J A Yawn Road, Hazlehurst, GA 31539",
+      "phone": "912-253-4665",
+      "image": "https://cdn.findpawpal.com/office/142802.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "liberty-animal-shelter-150006",
+      "name": "Liberty Animal Shelter",
+      "address": "134 Briarwood Circle, Hinesville, GA 31313",
+      "phone": "912-876-3647",
+      "image": "https://cdn.findpawpal.com/office/150006.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-beginnings-animal-rescue-142007",
+      "name": "New Beginnings Animal Rescue",
+      "address": "279 Briarwood Circle, Hinesville, GA 31313",
+      "phone": "912-610-0573",
+      "image": "https://cdn.findpawpal.com/office/142007.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "maxs-animal-rescue-134651",
+      "name": "Max's Animal Rescue",
+      "address": "2320 Saddle Club Road, Hoboken, GA 31542",
+      "phone": "912-458-3263",
+      "image": "https://cdn.findpawpal.com/office/134651.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "butts-county-humane-society-133463",
+      "name": "Butts County Humane Society",
+      "address": "PO Box 474, Jackson, GA 30233",
+      "phone": "770-775-0095",
+      "image": "https://cdn.findpawpal.com/office/133463.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jasper-animal-control-135451",
+      "name": "Jasper Animal Control",
+      "address": "55 Maintenance Road, Jasper, GA 30143",
+      "phone": "706-268-1346",
+      "image": "https://cdn.findpawpal.com/office/135451.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-jackson-county-158244",
+      "name": "Humane Society of Jackson County",
+      "address": "98 College Street, Jefferson, GA 30549",
+      "phone": "706-367-1111",
+      "image": "https://cdn.findpawpal.com/office/158244.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "noble-doberman-refuge-145775",
+      "name": "Noble Doberman Refuge",
+      "address": "PO Box 58, Jersey, GA 30018",
+      "phone": "770-617-7731",
+      "image": "https://cdn.findpawpal.com/office/145775.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "southern-pups-pet-rescue-149024",
+      "name": "Southern Pups Pet Rescue",
+      "address": "439 Rodman Rd, Jesup, GA 31545",
+      "phone": "912-256-7567",
+      "image": "https://cdn.findpawpal.com/office/149024.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "american-neoplitan-and-english-mastiff-rescue-league-133257",
+      "name": "American Neoplitan & English Mastiff Rescue League",
+      "address": "244 South Main Street, Jonesboro, GA 30236",
+      "phone": "770-478-2819",
+      "image": "https://cdn.findpawpal.com/office/133257.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clayton-county-animal-control-140541",
+      "name": "Clayton County Animal Control",
+      "address": "1396 Government Circle, Jonesboro, GA 30236",
+      "phone": "770-477-3509",
+      "image": "https://cdn.findpawpal.com/office/140541.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clayton-county-humane-society-133531",
+      "name": "Clayton County Humane Society",
+      "address": "7810 North McDonough Street, Jonesboro, GA 30236",
+      "phone": "770-471-9436",
+      "image": "https://cdn.findpawpal.com/office/133531.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-camden-county-133203",
+      "name": "Humane Society of Camden County",
+      "address": "950 South Grove Boulevard, Kingsland, GA 31548",
+      "phone": "912-729-7141",
+      "image": "https://cdn.findpawpal.com/office/133203.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kingsland-animal-control-160326",
+      "name": "Kingsland Animal Control",
+      "address": "111 South Seaboard, Kingsland, GA 31548",
+      "phone": "912-729-1442",
+      "image": "https://cdn.findpawpal.com/office/160326.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dog-pack-rescue-inc-145882",
+      "name": "Dog Pack Rescue, Inc.",
+      "address": "715 Fulton Road Northeast, Kingston, GA 30145",
+      "phone": "706-378-9215",
+      "image": "https://cdn.findpawpal.com/office/145882.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lagrange-troup-county-humane-society-133931",
+      "name": "LaGrange - Troup County Humane Society",
+      "address": "1390 Orchard Hill Road, LaGrange, GA 30240",
+      "phone": "706-298-3608",
+      "image": "https://cdn.findpawpal.com/office/133931.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "georgia-state-animal-shelter-147117",
+      "name": "Georgia State Animal Shelter",
+      "address": "870 Bear Creek Road, Lavonia, GA 30553",
+      "phone": "706-356-5363",
+      "image": "https://cdn.findpawpal.com/office/147117.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "gwinnett-county-animal-control-135437",
+      "name": "Gwinnett County Animal Control",
+      "address": "632 Hi Hope Road, Lawrenceville, GA 30043",
+      "phone": "770-339-3200",
+      "image": "https://cdn.findpawpal.com/office/135437.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "gwinnett-county-animal-shelter-134544",
+      "name": "Gwinnett County Animal Shelter",
+      "address": "884 Winder Highway, Lawrenceville, GA 30045",
+      "phone": "770-339-3200",
+      "image": "https://cdn.findpawpal.com/office/134544.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "gwinnett-humane-society-133662",
+      "name": "Gwinnett Humane Society",
+      "address": "3724 Lawrenceville Highway, Lawrenceville, GA 30044",
+      "phone": "770-798-7711",
+      "image": "https://cdn.findpawpal.com/office/133662.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "society-of-humane-friends-133866",
+      "name": "Society of Humane Friends",
+      "address": "PO Box 1416, Lawrenceville, GA 30046",
+      "phone": "770-962-1549",
+      "image": "https://cdn.findpawpal.com/office/133866.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "amberwood-sanctuary-134013",
+      "name": "Amberwood Sanctuary",
+      "address": "PO Box 300, Leary, GA 31762",
+      "phone": "229-792-6246",
+      "image": "https://cdn.findpawpal.com/office/134013.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lee-county-animal-control-140365",
+      "name": "Lee County Animal Control",
+      "address": "759 Highway 32 East, Leesburg, GA 31763",
+      "phone": "229-759-6009",
+      "image": "https://cdn.findpawpal.com/office/140365.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dees-haven-parrot-rescue-135138",
+      "name": "Dee's Haven Parrot Rescue",
+      "address": "139 Terrace Circle, Lexington, GA 30648",
+      "phone": "706-599-5631",
+      "image": "https://cdn.findpawpal.com/office/135138.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "georgia-equine-rescue-league-139842",
+      "name": "Georgia Equine Rescue League",
+      "address": "PO Box 787, Locust Grove, GA 30248",
+      "phone": "770-464-0138",
+      "image": "https://cdn.findpawpal.com/office/139842.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lyons-animal-control-160106",
+      "name": "Lyons Animal Control",
+      "address": "109 South Lanier Street, Lyons, GA 30436",
+      "phone": "912-526-0478",
+      "image": "https://cdn.findpawpal.com/office/160106.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "macon-city-animal-control-160136",
+      "name": "Macon City Animal Control",
+      "address": "1010 11th Street, Macon, GA 31201",
+      "phone": "478-751-9200",
+      "image": "https://cdn.findpawpal.com/office/160136.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "southern-comfort-animal-rescue-133420",
+      "name": "Southern Comfort Animal Rescue",
+      "address": "PO Box 23090, Macon, GA 31206",
+      "phone": "478-342-0191",
+      "image": "https://cdn.findpawpal.com/office/133420.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "madison-animal-control-146964",
+      "name": "Madison Animal Control",
+      "address": "1612 Lakeview Drive, Madison, GA 30650",
+      "phone": "706-342-9604",
+      "image": "https://cdn.findpawpal.com/office/146964.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "morgan-county-animal-control-146975",
+      "name": "Morgan County Animal Control",
+      "address": "2392 Athens Highway, Madison, GA 30650",
+      "phone": "706-752-1195",
+      "image": "https://cdn.findpawpal.com/office/146975.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animals-deserve-better-inc-134415",
+      "name": "Animals Deserve Better Inc",
+      "address": "3151 Inman Park Court, Marietta, GA 30062",
+      "phone": "770-402-0297",
+      "image": "https://cdn.findpawpal.com/office/134415.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "basset-hound-rescue-of-georgia-inc-133558",
+      "name": "Basset Hound Rescue of Georgia, Inc.",
+      "address": "PO Box 680322, Marietta, GA 30068",
+      "phone": "770-499-1164",
+      "image": "https://cdn.findpawpal.com/office/133558.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cobb-county-animal-control-134404",
+      "name": "Cobb County Animal Control",
+      "address": "1060 Al Bishop Drive, Marietta, GA 30008",
+      "phone": "770-499-4136",
+      "image": "https://cdn.findpawpal.com/office/134404.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "good-mews-animal-foundation-133561",
+      "name": "Good Mews Animal Foundation",
+      "address": "736 Johnson Ferry Road, Marietta, GA 30068",
+      "phone": "770-499-2287",
+      "image": "https://cdn.findpawpal.com/office/133561.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greyt-friends-inc-138212",
+      "name": "Greyt Friends, Inc",
+      "address": "2969 Gant Quarters Drive Southeast, Marietta, GA 30068",
+      "phone": "770-971-8788",
+      "image": "https://cdn.findpawpal.com/office/138212.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "homeless-pets-foundation-157713",
+      "name": "Homeless Pets Foundation",
+      "address": "PO Box 7194, Marietta, GA 30065",
+      "phone": "404-451-9494",
+      "image": "https://cdn.findpawpal.com/office/157713.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-cobb-county-133355",
+      "name": "Humane Society of Cobb County",
+      "address": "148 Fairground Street North, Marietta, GA 30060",
+      "phone": "770-428-9882",
+      "image": "https://cdn.findpawpal.com/office/133355.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mutt-madd-ness-inc-148621",
+      "name": "Mutt Madd-Ness, Inc.",
+      "address": "PO Box 71821, Marietta, GA 30007",
+      "phone": "404-406-6322",
+      "image": "https://cdn.findpawpal.com/office/148621.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "our-pals-place-inc-133524",
+      "name": "Our Pal's Place, Inc.",
+      "address": "4508 Canton Road, Marietta, GA 30066",
+      "phone": "678-795-0202",
+      "image": "https://cdn.findpawpal.com/office/133524.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "henry-county-animal-care-and-control-139832",
+      "name": "Henry County Animal Care & Control",
+      "address": "46 Work Camp Road, McDonough, GA 30253",
+      "phone": "770-288-7387",
+      "image": "https://cdn.findpawpal.com/office/139832.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "henry-county-humane-society-142158",
+      "name": "Henry County Humane Society",
+      "address": "46 Work Camp Road, McDonough, GA 30253",
+      "phone": "770-914-1272",
+      "image": "https://cdn.findpawpal.com/office/142158.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "metter-animal-shelter-135368",
+      "name": "Metter Animal Shelter",
+      "address": "940 East Hiawatha Street, Metter, GA 30439",
+      "phone": "912-685-7877",
+      "image": "https://cdn.findpawpal.com/office/135368.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-foundation-inc-149884",
+      "name": "Animal Rescue Foundation Inc",
+      "address": "711 South Wilkinson Street, Milledgeville, GA 31061",
+      "phone": "478-454-1273",
+      "image": "https://cdn.findpawpal.com/office/149884.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "baldwin-county-animal-shelter-135481",
+      "name": "Baldwin County Animal Shelter",
+      "address": "119 Linda Drive Northeast, Milledgeville, GA 31061",
+      "phone": "478-445-5514",
+      "image": "https://cdn.findpawpal.com/office/135481.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "milton-animal-control-144271",
+      "name": "Milton Animal Control",
+      "address": "16025 New Bull Pen Road, Milton, GA 30004",
+      "phone": "678-408-4858",
+      "image": "https://cdn.findpawpal.com/office/144271.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "caanational-143031",
+      "name": "Caanational",
+      "address": "1208 South Broad Street, Monroe, GA 30655",
+      "phone": "770-266-7496",
+      "image": "https://cdn.findpawpal.com/office/143031.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-walton-county-149438",
+      "name": "Humane Society of Walton County",
+      "address": "1429 Monroe Drive, Monroe, GA 30655",
+      "phone": "770-868-5105",
+      "image": "https://cdn.findpawpal.com/office/149438.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "save-our-strays-inc-133970",
+      "name": "Save Our Strays, Inc.",
+      "address": "PO Box 961, Monroe, GA 30655",
+      "phone": "404-729-2671",
+      "image": "https://cdn.findpawpal.com/office/133970.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "walton-county-animal-control-133995",
+      "name": "Walton County Animal Control",
+      "address": "1411 South Madison Avenue, Monroe, GA 30655",
+      "phone": "770-267-1322",
+      "image": "https://cdn.findpawpal.com/office/133995.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jasper-county-animal-control-149099",
+      "name": "Jasper County Animal Control",
+      "address": "126 Mack Tillman Dr, Monticello, GA 31064",
+      "phone": "706-468-0396",
+      "image": "https://cdn.findpawpal.com/office/149099.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pawsitive-causes-pet-rescue-149108",
+      "name": "Pawsitive Causes Pet Rescue",
+      "address": "902 West Greene Street, Monticello, GA 31064",
+      "phone": "706-468-8569",
+      "image": "https://cdn.findpawpal.com/office/149108.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-moultrie-133580",
+      "name": "Humane Society of Moultrie",
+      "address": "1412 1st Street Northeast, Moultrie, GA 31768",
+      "phone": "229-985-5463",
+      "image": "https://cdn.findpawpal.com/office/133580.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-moultrie-and-colquitt-county-142381",
+      "name": "Humane Society of Moultrie & Colquitt County",
+      "address": "PO Box 1498, Moultrie, GA 31776",
+      "phone": "912-985-5463",
+      "image": "https://cdn.findpawpal.com/office/142381.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "berrien-county-humane-society-133411",
+      "name": "Berrien County Humane Society",
+      "address": "1111 Exum Rd, Nashville, GA 31639",
+      "phone": "229-686-0565",
+      "image": "https://cdn.findpawpal.com/office/133411.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "coweta-county-animal-shelter-135130",
+      "name": "Coweta County Animal Shelter",
+      "address": "91 Selt Road, Newnan, GA 30263",
+      "phone": "770-254-3735",
+      "image": "https://cdn.findpawpal.com/office/135130.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "newnan-coweta-humane-society-138338",
+      "name": "Newnan-Coweta Humane Society",
+      "address": "PO Box 191, Newnan, GA 30264",
+      "phone": "770-253-4694",
+      "image": "https://cdn.findpawpal.com/office/138338.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "altered-feral-state-inc-145924",
+      "name": "Altered Feral State, Inc.",
+      "address": "5362 Old Highway 138, Oxford, GA 30054",
+      "phone": "770-712-8331",
+      "image": "https://cdn.findpawpal.com/office/145924.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "patterson-animal-control-160020",
+      "name": "Patterson Animal Control",
+      "address": "5880 North Campus Road, Patterson, GA 31557",
+      "phone": "912-647-1346",
+      "image": "https://cdn.findpawpal.com/office/160020.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fayette-county-humane-society-147266",
+      "name": "Fayette County Humane Society",
+      "address": "849 Highway 74 South, Peachtree, GA 30269",
+      "phone": "770-487-1073",
+      "image": "https://cdn.findpawpal.com/office/147266.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "golden-retriever-rescue-of-atlanta-inc-134838",
+      "name": "Golden Retriever Rescue of Atlanta, Inc.",
+      "address": "PO Box 3907, Peachtree, GA 30269",
+      "phone": "770-915-4922",
+      "image": "https://cdn.findpawpal.com/office/134838.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bryan-county-animal-control-149193",
+      "name": "Bryan County Animal Control",
+      "address": "116 Lanier Road, Pembroke, GA 31321",
+      "phone": "912-653-3816",
+      "image": "https://cdn.findpawpal.com/office/149193.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "perry-animal-shelter-149203",
+      "name": "Perry Animal Shelter",
+      "address": "1026 Macon Road, Perry, GA 31069",
+      "phone": "478-988-7854",
+      "image": "https://cdn.findpawpal.com/office/149203.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "best-friends-humane-society-143100",
+      "name": "Best Friends Humane Society",
+      "address": "787 Ephesus Church Road, Poulan, GA 31781",
+      "phone": "229-777-7774",
+      "image": "https://cdn.findpawpal.com/office/143100.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "atlanta-persian-and-siamese-rescue-149707",
+      "name": "Atlanta Persian & Siamese Rescue",
+      "address": "3705 New Macland Road, Powder Springs, GA 30127",
+      "phone": "404-272-8962",
+      "image": "https://cdn.findpawpal.com/office/149707.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fancy-feline-rescue-of-the-south-146029",
+      "name": "Fancy Feline Rescue of the South",
+      "address": "1311 Echo Mill Court, Powder Springs, GA 30127",
+      "phone": "678-522-2152",
+      "image": "https://cdn.findpawpal.com/office/146029.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-orphans-rescue-and-adoption-157651",
+      "name": "Pet Orphans Rescue & Adoption",
+      "address": "PO Box 768, Powder Springs, GA 30127",
+      "phone": "770-587-1570",
+      "image": "https://cdn.findpawpal.com/office/157651.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "southern-hope-humane-society-157660",
+      "name": "Southern Hope Humane Society",
+      "address": "PO Box 768, Powder Springs, GA 30127",
+      "phone": "770-447-7294",
+      "image": "https://cdn.findpawpal.com/office/157660.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "quitman-animal-shelter-135288",
+      "name": "Quitman Animal Shelter",
+      "address": "800 North Highland Road, Quitman, GA 31643",
+      "phone": "229-605-9810",
+      "image": "https://cdn.findpawpal.com/office/135288.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tattnall-county-animal-control-148607",
+      "name": "Tattnall County Animal Control",
+      "address": "114 West Brazell Street, Reidsville, GA 30453",
+      "phone": "912-557-6082",
+      "image": "https://cdn.findpawpal.com/office/148607.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "waging-tails-puppy-rescue-723302",
+      "name": "Waging Tails Puppy Rescue",
+      "address": ", Reidsville, GA",
+      "phone": "912-557-0065",
+      "image": "https://cdn.findpawpal.com/office/723302.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bryan-county-animal-shelter-133370",
+      "name": "Bryan County Animal Shelter",
+      "address": "PO Box 1186, Richmond Hill, GA 31324",
+      "phone": "912-756-3803",
+      "image": "https://cdn.findpawpal.com/office/133370.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ratbone-rescues-149805",
+      "name": "Ratbone Rescues",
+      "address": "3601 Cartertown Road, Richmond Hill, GA 31324",
+      "phone": "912-667-5253",
+      "image": "https://cdn.findpawpal.com/office/149805.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "catoosa-county-animal-shelter-144174",
+      "name": "Catoosa County Animal Shelter",
+      "address": "101 Allmond Lane, Ringgold, GA 30736",
+      "phone": "706-935-2454",
+      "image": "https://cdn.findpawpal.com/office/144174.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rockmart-animal-control-140348",
+      "name": "Rockmart Animal Control",
+      "address": "180 West Elm Street, Rockmart, GA 30153",
+      "phone": "770-684-4020",
+      "image": "https://cdn.findpawpal.com/office/140348.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chesapeake-bay-retriever-relief-and-rescue-134500",
+      "name": "Chesapeake Bay Retriever Relief & Rescue",
+      "address": "420 Scoggin Road Northwest, Rome, GA 30165",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/134500.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "floyd-county-animal-control-135299",
+      "name": "Floyd County Animal Control",
+      "address": "431 Mathis Road Southeast, Rome, GA 30161",
+      "phone": "706-236-4537",
+      "image": "https://cdn.findpawpal.com/office/135299.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-connection-149718",
+      "name": "Pet Connection",
+      "address": "1953 Blacks Bluff Road Southwest, Rome, GA 30161",
+      "phone": "706-235-2913",
+      "image": "https://cdn.findpawpal.com/office/149718.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rome-floyd-humane-society-134250",
+      "name": "Rome/Floyd Humane Society",
+      "address": "518 Broad Street, Rome, GA 30161",
+      "phone": "706-234-7979",
+      "image": "https://cdn.findpawpal.com/office/134250.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-animal-rescue-and-adoptions-158126",
+      "name": "Second Chance Animal Rescue & Adoptions",
+      "address": "PO Box 1515, Roswell, GA 30077",
+      "phone": "678-493-4999",
+      "image": "https://cdn.findpawpal.com/office/158126.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "northeast-georgia-animal-shelter-159043",
+      "name": "Northeast Georgia Animal Shelter",
+      "address": "20 Spring Water Dr, Royston, GA 30662",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/159043.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "royston-animal-hosp-and-shelter-149786",
+      "name": "Royston Animal Hosp and Shelter",
+      "address": "2888 West Main Street, Royston, GA 30662",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/149786.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sandersville-animal-control-142498",
+      "name": "Sandersville Animal Control",
+      "address": "430 Beck Boulevard, Sandersville, GA 31082",
+      "phone": "478-552-2756",
+      "image": "https://cdn.findpawpal.com/office/142498.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "washington-county-animal-hospital-144033",
+      "name": "Washington County Animal Hospital",
+      "address": "1182 Highway 15, Sandersville, GA 31082",
+      "phone": "478-552-9011",
+      "image": "https://cdn.findpawpal.com/office/144033.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sautee-nacoochee-animal-shelter-149111",
+      "name": "Sautee Nacoochee Animal Shelter",
+      "address": "4823 Helen Highway, Sautee-Nacoochee, GA 30571",
+      "phone": "706-865-4135",
+      "image": "https://cdn.findpawpal.com/office/149111.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-welfare-and-rescue-effort-of-savannah-148832",
+      "name": "Animal Welfare and Rescue Effort of Savannah",
+      "address": "PO Box 31046, Savannah, GA 31410",
+      "phone": "912-412-7387",
+      "image": "https://cdn.findpawpal.com/office/148832.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-for-greater-savannah-146597",
+      "name": "Humane Society for Greater Savannah",
+      "address": "7215 Sallie Mood Drive, Savannah, GA 31406",
+      "phone": "912-354-9515",
+      "image": "https://cdn.findpawpal.com/office/146597.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "save-a-life-inc-142295",
+      "name": "Save-A-Life, Inc.",
+      "address": "4 Raintree Lane, Savannah, GA 31411",
+      "phone": "912-598-0268",
+      "image": "https://cdn.findpawpal.com/office/142295.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "georgia-f-e-r-r-e-t-s-148357",
+      "name": "Georgia F.E.R.R.E.T.S.",
+      "address": "443 Patterson Avenue, Scottdale, GA 30079",
+      "phone": "404-343-1245",
+      "image": "https://cdn.findpawpal.com/office/148357.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "good-shepherd-humane-society-134646",
+      "name": "Good Shepherd Humane Society",
+      "address": "10 Dover Square, Sharpsburg, GA 30277",
+      "phone": "770-462-5513",
+      "image": "https://cdn.findpawpal.com/office/134646.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tails-and-whiskers-rescue-148657",
+      "name": "Tails & Whiskers Rescue",
+      "address": "4061 Laurel Ridge Trail, Smyrna, GA 30080",
+      "phone": "770-489-6867",
+      "image": "https://cdn.findpawpal.com/office/148657.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "effingham-county-animal-control-134892",
+      "name": "Effingham County Animal Control",
+      "address": "307 Highway 119, Springfield, GA 31329",
+      "phone": "912-754-2109",
+      "image": "https://cdn.findpawpal.com/office/134892.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-effingham-county-134696",
+      "name": "Humane Society of Effingham County",
+      "address": "PO Box 1407, Springfield, GA 31329",
+      "phone": "912-826-4906",
+      "image": "https://cdn.findpawpal.com/office/134696.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "st-marys-animal-control-142659",
+      "name": "St Marys Animal Control",
+      "address": "6350 Georgia 40 Spur, St. Marys, GA 31558",
+      "phone": "912-729-1442",
+      "image": "https://cdn.findpawpal.com/office/142659.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bulloch-county-animal-shelter-139655",
+      "name": "Bulloch County Animal Shelter",
+      "address": "81 Mill Creek Road, Statesboro, GA 30461",
+      "phone": "912-764-4529",
+      "image": "https://cdn.findpawpal.com/office/139655.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "statesboro-animal-control-135216",
+      "name": "Statesboro Animal Control",
+      "address": "715 Northside Drive East, Statesboro, GA 30458",
+      "phone": "912-681-9393",
+      "image": "https://cdn.findpawpal.com/office/135216.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "misfit-haven-animal-rescue-inc-133479",
+      "name": "Misfit Haven Animal Rescue Inc.",
+      "address": "536 Brock Road, Summerville, GA 30747",
+      "phone": "706-766-8539",
+      "image": "https://cdn.findpawpal.com/office/133479.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "georgia-humane-society-143607",
+      "name": "Georgia Humane Society",
+      "address": "479 Rutlidge Park Lane, Suwanee, GA 30024",
+      "phone": "404-308-6404",
+      "image": "https://cdn.findpawpal.com/office/143607.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-friends-rescue-139690",
+      "name": "Humane Friends Rescue",
+      "address": "1000 Peachtree Industrial Boulevard, Suwanee, GA 30024",
+      "phone": "678-491-4140",
+      "image": "https://cdn.findpawpal.com/office/139690.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "southeast-pug-rescue-and-adoption-143630",
+      "name": "Southeast Pug Rescue and Adoption",
+      "address": "3245 Peachtree Parkway, Suwanee, GA 30024",
+      "phone": "770-887-9741",
+      "image": "https://cdn.findpawpal.com/office/143630.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "swainsboro-city-animal-shelter-135225",
+      "name": "Swainsboro City Animal Shelter",
+      "address": "343 Market Street, Swainsboro, GA 30401",
+      "phone": "478-237-4040",
+      "image": "https://cdn.findpawpal.com/office/135225.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "screven-county-animal-shelter-141340",
+      "name": "Screven County Animal Shelter",
+      "address": "915 Rocky Ford Road, Sylvania, GA 30467",
+      "phone": "912-863-8947",
+      "image": "https://cdn.findpawpal.com/office/141340.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pickens-animal-rescue-135030",
+      "name": "Pickens Animal Rescue",
+      "address": "401 Old Whitestone Road West, Talking Rock, GA 30175",
+      "phone": "706-253-5383",
+      "image": "https://cdn.findpawpal.com/office/135030.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "thomaston-upson-humane-society-141455",
+      "name": "Thomaston Upson Humane Society",
+      "address": "157 Wildwood Drive, Thomaston, GA 30286",
+      "phone": "706-647-1881",
+      "image": "https://cdn.findpawpal.com/office/141455.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "upson-county-animal-shelter-145745",
+      "name": "Upson County Animal Shelter",
+      "address": "2371 Yatesville Highway, Thomaston, GA 30286",
+      "phone": "706-647-5586",
+      "image": "https://cdn.findpawpal.com/office/145745.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-thomasville-149082",
+      "name": "Humane Society Thomasville",
+      "address": "180 Big Star Drive, Thomasville, GA 31757",
+      "phone": "912-228-0613",
+      "image": "https://cdn.findpawpal.com/office/149082.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mc-duffie-county-animal-shelter-146854",
+      "name": "Mc Duffie County Animal Shelter",
+      "address": "802 White Oak Road, Thomson, GA 30824",
+      "phone": "706-595-0463",
+      "image": "https://cdn.findpawpal.com/office/146854.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kountry-kritters-dane-rescue-inc-134159",
+      "name": "Kountry Kritters Dane Rescue, Inc.",
+      "address": "1026 Bowen Road, Tifton, GA 31794",
+      "phone": "229-382-5639",
+      "image": "https://cdn.findpawpal.com/office/134159.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tifton-area-humane-society-147784",
+      "name": "Tifton Area Humane Society",
+      "address": "278 Georgia Highway 125 South, Tifton, GA 31794",
+      "phone": "912-382-7387",
+      "image": "https://cdn.findpawpal.com/office/147784.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "boggs-mountain-humane-shelter-148305",
+      "name": "Boggs Mountain Humane Shelter",
+      "address": "PO Box 249, Tiger, GA 30576",
+      "phone": "706-782-5422",
+      "image": "https://cdn.findpawpal.com/office/148305.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-lowndes-county-133749",
+      "name": "Humane Society Lowndes County",
+      "address": "307 East Jane Street, Valdosta, GA 31601",
+      "phone": "229-247-3266",
+      "image": "https://cdn.findpawpal.com/office/133749.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-valdosta-138775",
+      "name": "Humane Society Valdosta",
+      "address": "307 East Jane Street, Valdosta, GA 31601",
+      "phone": "229-242-7729",
+      "image": "https://cdn.findpawpal.com/office/138775.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lowndes-county-animal-shelter-135206",
+      "name": "Lowndes County Animal Shelter",
+      "address": "337 Gil Harbin Industrial Boulevard, Valdosta, GA 31601",
+      "phone": "229-671-2760",
+      "image": "https://cdn.findpawpal.com/office/135206.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "valdosta-animal-shelter-135198",
+      "name": "Valdosta Animal Shelter",
+      "address": "2110 Cypress Street, Valdosta, GA 31601",
+      "phone": "229-245-5253",
+      "image": "https://cdn.findpawpal.com/office/135198.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dixie-dog-rescue-134554",
+      "name": "Dixie Dog Rescue",
+      "address": "3224 Old Normantown Road, Vidalia, GA 30474",
+      "phone": "912-537-9307",
+      "image": "https://cdn.findpawpal.com/office/134554.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "vidalia-animal-control-149855",
+      "name": "Vidalia Animal Control",
+      "address": "2811 Airport Rd, Vidalia, GA 30474",
+      "phone": "912-537-8866",
+      "image": "https://cdn.findpawpal.com/office/149855.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "american-veterinary-animal-welfare-foundation-158840",
+      "name": "American Veterinary Animal Welfare Foundation",
+      "address": "102 Thomas Dorsey Drive, Villa Rica, GA 30180",
+      "phone": "770-459-2253",
+      "image": "https://cdn.findpawpal.com/office/158840.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-and-kindness-138699",
+      "name": "Animal Rescue & Kindness",
+      "address": "PO Box 7603, Warner Robins, GA 31095",
+      "phone": "478-213-3619",
+      "image": "https://cdn.findpawpal.com/office/138699.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "homeless-animal-rescue-and-placement-services-inc-149661",
+      "name": "Homeless Animal Rescue and Placement Services, Inc",
+      "address": "PO Box 7363, Warner Robins, GA 31095",
+      "phone": "912-827-8020",
+      "image": "https://cdn.findpawpal.com/office/149661.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "warner-robins-animal-shelter-148221",
+      "name": "Warner Robins Animal Shelter",
+      "address": "206 Bay Street, Warner Robins, GA 31088",
+      "phone": "478-929-7280",
+      "image": "https://cdn.findpawpal.com/office/148221.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "washington-wilkes-animal-shelter-149466",
+      "name": "Washington Wilkes Animal Shelter",
+      "address": "358 Brown Road, Washington, GA 30673",
+      "phone": "706-678-2287",
+      "image": "https://cdn.findpawpal.com/office/149466.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "okefenokee-humane-society-149860",
+      "name": "Okefenokee Humane Society",
+      "address": "1501 Blackwell Street, Waycross, GA 31501",
+      "phone": "912-283-4214",
+      "image": "https://cdn.findpawpal.com/office/149860.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "old-fella-burke-county-animal-rescue-inc-133454",
+      "name": "Old Fella Burke County Animal Rescue, Inc.",
+      "address": "PO Box 1437, Waynesboro, GA 30830",
+      "phone": "706-306-5542",
+      "image": "https://cdn.findpawpal.com/office/133454.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "waynesboro-burke-humane-society-142149",
+      "name": "Waynesboro Burke Humane Society",
+      "address": "PO Box 1245, Waynesboro, GA 30830",
+      "phone": "706-437-0734",
+      "image": "https://cdn.findpawpal.com/office/142149.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "barrow-county-animal-control-134453",
+      "name": "Barrow County Animal Control",
+      "address": "610 Barrow Park Drive Northwest, Winder, GA 30680",
+      "phone": "770-307-3012",
+      "image": "https://cdn.findpawpal.com/office/134453.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "winterville-animal-control-159923",
+      "name": "Winterville Animal Control",
+      "address": "64 Yeargin Court, Winterville, GA 30683",
+      "phone": "706-742-9580",
+      "image": "https://cdn.findpawpal.com/office/159923.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "camden-county-animal-control-149101",
+      "name": "Camden County Animal Control",
+      "address": "1144 Godley Avenue, Woodbine, GA 31569",
+      "phone": "912-576-7395",
+      "image": "https://cdn.findpawpal.com/office/149101.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bucks-back-yard-animal-society-135015",
+      "name": "Bucks Back Yard Animal Society",
+      "address": "107 North River Drive, Woodstock, GA 30188",
+      "phone": "678-557-6149",
+      "image": "https://cdn.findpawpal.com/office/135015.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dalmatian-club-of-greater-atlanta-rescue-135032",
+      "name": "Dalmatian Club of Greater Atlanta Rescue",
+      "address": "981 Bailey Road, Woodstock, GA 30188",
+      "phone": "770-442-0334",
+      "image": "https://cdn.findpawpal.com/office/135032.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "peach-state-sheltie-rescue-inc-135050",
+      "name": "Peach State Sheltie Rescue, Inc.",
+      "address": "110 Sunnybrook Lane, Woodstock, GA 30188",
+      "phone": "770-634-7130",
+      "image": "https://cdn.findpawpal.com/office/135050.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dog-zoo-inc-134182",
+      "name": "Dog Zoo, Inc.",
+      "address": "PO Box 1152, Young Harris, GA 30582",
+      "phone": "706-781-3162",
+      "image": "https://cdn.findpawpal.com/office/134182.jpg?f=webp&w=730"
+    }
+  ]
+}

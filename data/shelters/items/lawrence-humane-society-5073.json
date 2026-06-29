@@ -1,0 +1,21 @@
+{
+  "officeId": 5073,
+  "slug": "lawrence-humane-society-5073",
+  "name": "Lawrence Humane Society",
+  "address": "1805 East 19th Street, Lawrence, KS 66046",
+  "street": "1805 East 19th Street",
+  "addressCity": "Lawrence",
+  "stateCode": "KS",
+  "zip": "66046",
+  "phone": "785-843-6835",
+  "image": "./img/shelter/office/5073.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/lawrence-humane-society-5073/",
+  "stateSlug": "kansas",
+  "stateName": "Kansas",
+  "citySlug": "lawrence",
+  "cityName": "Lawrence",
+  "cityLabel": "Lawrence, KS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kansas/lawrence/",
+  "fetchedAt": "2026-06-27T18:55:13.941478+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/5073.jpg?f=webp&w=730"
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:48:48.387050+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "west-union",
+    "name": "West Union",
+    "label": "West Union, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/west-union/",
+  "offices": [
+    {
+      "officeId": 523749,
+      "slug": "west-union-animal-shelter-523749",
+      "name": "West Union Animal Shelter",
+      "address": "15303 East Anderson Road, West Union, IL 62477",
+      "phone": "217-826-1380",
+      "image": "https://cdn.findpawpal.com/office/523749.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/west-union-animal-shelter-523749/"
+    }
+  ]
+}

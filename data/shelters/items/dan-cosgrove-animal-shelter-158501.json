@@ -1,0 +1,21 @@
+{
+  "officeId": 158501,
+  "slug": "dan-cosgrove-animal-shelter-158501",
+  "name": "Dan Cosgrove Animal Shelter",
+  "address": "749 East Main Street, Branford, CT 06405",
+  "street": "749 East Main Street",
+  "addressCity": "Branford",
+  "stateCode": "CT",
+  "zip": "06405",
+  "phone": "203-315-4125",
+  "image": "./img/shelter/office/158501.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/dan-cosgrove-animal-shelter-158501/",
+  "stateSlug": "connecticut",
+  "stateName": "Connecticut",
+  "citySlug": "branford",
+  "cityName": "Branford",
+  "cityLabel": "Branford, CT",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/connecticut/branford/",
+  "fetchedAt": "2026-06-27T18:35:41.313608+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/158501.jpg?f=webp&w=730"
+}

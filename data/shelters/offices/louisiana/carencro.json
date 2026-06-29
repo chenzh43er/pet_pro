@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:59:17.625365+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "carencro",
+    "name": "Carencro",
+    "label": "Carencro, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/carencro/",
+  "offices": [
+    {
+      "officeId": 243057,
+      "slug": "lafayette-animal-aid-243057",
+      "name": "Lafayette Animal Aid",
+      "address": "142 Le Medicin Road, Carencro, LA 70520",
+      "phone": "337-896-1553",
+      "image": "./img/shelter/office/243057.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lafayette-animal-aid-243057/",
+      "imageUrl": "https://cdn.findpawpal.com/office/243057.jpg?f=webp&w=730"
+    }
+  ]
+}

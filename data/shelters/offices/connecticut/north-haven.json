@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T18:36:53.746950+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "north-haven",
+    "name": "North Haven",
+    "label": "North Haven, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/north-haven/",
+  "offices": [
+    {
+      "officeId": 147910,
+      "slug": "bikers-against-animal-cruelty-147910",
+      "name": "Bikers Against Animal Cruelty",
+      "address": "PO Box 68, North Haven, CT 06473",
+      "phone": "203-800-0431",
+      "image": "./img/shelter/office/147910.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bikers-against-animal-cruelty-147910/",
+      "imageUrl": "https://cdn.findpawpal.com/office/147910.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 148153,
+      "slug": "animal-haven-inc-148153",
+      "name": "Animal Haven Inc",
+      "address": "89 Mill Road, North Haven, CT 06473",
+      "phone": "203-239-2641",
+      "image": "./img/shelter/office/148153.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-haven-inc-148153/",
+      "imageUrl": "https://cdn.findpawpal.com/office/148153.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 156434,
+      "slug": "halfway-home-rescue-inc-156434",
+      "name": "Halfway Home Rescue, Inc.",
+      "address": "PO Box 712, North Haven, CT 06473",
+      "phone": "203-985-8338",
+      "image": "./img/shelter/office/156434.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/halfway-home-rescue-inc-156434/",
+      "imageUrl": "https://cdn.findpawpal.com/office/156434.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 159170,
+      "slug": "north-haven-animal-control-159170",
+      "name": "North Haven Animal Control",
+      "address": "89 Mill Road, North Haven, CT 06473",
+      "phone": "203-239-2641",
+      "image": "./img/shelter/office/159170.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/north-haven-animal-control-159170/",
+      "imageUrl": "https://cdn.findpawpal.com/office/159170.jpg?f=webp&w=730"
+    }
+  ]
+}

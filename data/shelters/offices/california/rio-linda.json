@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:29:50.941407+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "rio-linda",
+    "name": "Rio Linda",
+    "label": "Rio Linda, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/rio-linda/",
+  "offices": [
+    {
+      "officeId": 485833,
+      "slug": "animalsavers-485833",
+      "name": "Animalsavers",
+      "address": "5822 20th Street, Rio Linda, CA 95673",
+      "phone": "916-992-9970",
+      "image": "./img/shelter/office/485833.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animalsavers-485833/",
+      "imageUrl": "https://cdn.findpawpal.com/office/485833.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:31:50.478432+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "bay-shore",
+    "name": "Bay Shore",
+    "label": "Bay Shore, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/bay-shore/",
+  "offices": [
+    {
+      "officeId": 313668,
+      "slug": "islip-animal-shelter-313668",
+      "name": "Islip Animal Shelter",
+      "address": "210 South Denver Avenue, Bay Shore, NY 11706",
+      "phone": "516-224-5660",
+      "image": "./img/shelter/office/313668.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/islip-animal-shelter-313668/",
+      "imageUrl": "https://cdn.findpawpal.com/office/313668.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 42004,
+  "slug": "centerville-animal-shelter-42004",
+  "name": "Centerville Animal Shelter",
+  "address": "1577 Falmouth Road, Barnstable Town, MA 02632",
+  "street": "1577 Falmouth Road",
+  "addressCity": "Barnstable Town",
+  "stateCode": "MA",
+  "zip": "02632",
+  "phone": "508-775-0940",
+  "image": "./img/shelter/office/42004.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/centerville-animal-shelter-42004/",
+  "stateSlug": "massachusetts",
+  "stateName": "Massachusetts",
+  "citySlug": "barnstable-town",
+  "cityName": "Barnstable Town",
+  "cityLabel": "Barnstable Town, MA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/massachusetts/barnstable-town/",
+  "fetchedAt": "2026-06-27T19:05:20.989586+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/42004.jpg?f=webp&w=730"
+}

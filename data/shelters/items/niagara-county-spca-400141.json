@@ -1,0 +1,21 @@
+{
+  "officeId": 400141,
+  "slug": "niagara-county-spca-400141",
+  "name": "Niagara County SPCA",
+  "address": "2100 Lockport Road, Niagara Falls, NY 14304",
+  "street": "2100 Lockport Road",
+  "addressCity": "Niagara Falls",
+  "stateCode": "NY",
+  "zip": "14304",
+  "phone": "800-536-7722",
+  "image": "./img/shelter/office/400141.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/niagara-county-spca-400141/",
+  "stateSlug": "new-york",
+  "stateName": "New York",
+  "citySlug": "niagara-falls",
+  "cityName": "Niagara Falls",
+  "cityLabel": "Niagara Falls, NY",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-york/niagara-falls/",
+  "fetchedAt": "2026-06-27T19:35:25.478087+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/400141.jpg?f=webp&w=730"
+}

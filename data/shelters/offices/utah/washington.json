@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:11:43.368268+00:00",
+  "state": {
+    "slug": "utah",
+    "name": "Utah"
+  },
+  "city": {
+    "slug": "washington",
+    "name": "Washington",
+    "label": "Washington, UT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/utah/washington/",
+  "offices": [
+    {
+      "officeId": 494019,
+      "slug": "washington-animal-shelter-494019",
+      "name": "Washington Animal Shelter",
+      "address": "95 West Industrial Drive, Washington, UT 84780",
+      "phone": "435-673-7194",
+      "image": "./img/shelter/office/494019.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/washington-animal-shelter-494019/",
+      "imageUrl": "https://cdn.findpawpal.com/office/494019.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 494031,
+      "slug": "washington-shelter-494031",
+      "name": "Washington Shelter",
+      "address": "95 East Industrial Drive, Washington, UT 84780",
+      "phone": "435-673-6174",
+      "image": "./img/shelter/office/494031.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/washington-shelter-494031/",
+      "imageUrl": "https://cdn.findpawpal.com/office/494031.jpg?f=webp&w=730"
+    }
+  ]
+}

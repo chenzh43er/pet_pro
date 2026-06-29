@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:21:24.503018+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "shinnston",
+    "name": "Shinnston",
+    "label": "Shinnston, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/shinnston/",
+  "offices": [
+    {
+      "officeId": 507293,
+      "slug": "humane-society-of-harrison-county-507293",
+      "name": "Humane Society of Harrison County",
+      "address": "2450 Saltwell Road, Shinnston, WV 26431",
+      "phone": "304-592-1600",
+      "image": "./img/shelter/office/507293.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-harrison-county-507293/",
+      "imageUrl": "https://cdn.findpawpal.com/office/507293.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 666983,
+      "slug": "harrison-county-animal-control-666983",
+      "name": "Harrison County Animal Control",
+      "address": "2420 Saltwell Road, Shinnston, WV 26431",
+      "phone": "304-592-1876",
+      "image": "./img/shelter/office/666983.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/harrison-county-animal-control-666983/",
+      "imageUrl": "https://cdn.findpawpal.com/office/666983.jpg?f=webp&w=730"
+    }
+  ]
+}

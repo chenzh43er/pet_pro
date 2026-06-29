@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:06:03.031391+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "easton",
+    "name": "Easton",
+    "label": "Easton, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/easton/",
+  "offices": [
+    {
+      "officeId": 45056,
+      "slug": "north-easton-animal-control-45056",
+      "name": "North Easton Animal Control",
+      "address": "46 Lothrop Street, Easton, MA 02356",
+      "phone": "508-230-3353",
+      "image": "./img/shelter/office/45056.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/north-easton-animal-control-45056/",
+      "imageUrl": "https://cdn.findpawpal.com/office/45056.jpg?f=webp&w=730"
+    }
+  ]
+}

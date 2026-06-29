@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:24:19.749021+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "bishop",
+    "name": "Bishop",
+    "label": "Bishop, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/bishop/",
+  "offices": [
+    {
+      "slug": "inyo-county-animal-resources-and-education-363150",
+      "name": "Inyo County Animal Resources and Education",
+      "address": "PO Box 76, Bishop, CA 93515",
+      "phone": "760-872-3802",
+      "image": "./img/shelter/office/363150.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/inyo-county-animal-resources-and-education-363150/",
+      "imageUrl": "https://cdn.findpawpal.com/office/363150.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "inyo-county-animal-control-669004",
+      "name": "Inyo County Animal Control",
+      "address": "207 West South Street, Bishop, CA 93514",
+      "phone": "760-873-7852",
+      "image": "./img/shelter/office/669004.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/inyo-county-animal-control-669004/",
+      "imageUrl": "https://cdn.findpawpal.com/office/669004.jpg?f=webp&w=730"
+    }
+  ]
+}

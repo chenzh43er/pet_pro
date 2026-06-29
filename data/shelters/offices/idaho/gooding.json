@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:43:01.659609+00:00",
+  "state": {
+    "slug": "idaho",
+    "name": "Idaho"
+  },
+  "city": {
+    "slug": "gooding",
+    "name": "Gooding",
+    "label": "Gooding, ID"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/idaho/gooding/",
+  "offices": [
+    {
+      "officeId": 358786,
+      "slug": "gooding-animal-control-358786",
+      "name": "Gooding Animal Control",
+      "address": "1945 Airport Road, Gooding, ID 83330",
+      "phone": "208-934-4354",
+      "image": "./img/shelter/office/358786.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gooding-animal-control-358786/",
+      "imageUrl": "https://cdn.findpawpal.com/office/358786.jpg?f=webp&w=730"
+    }
+  ]
+}

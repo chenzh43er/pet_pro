@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T18:24:53.514666+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "chula-vista",
+    "name": "Chula Vista",
+    "label": "Chula Vista, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/chula-vista/",
+  "offices": [
+    {
+      "officeId": 383916,
+      "slug": "chula-vista-animal-care-facility-383916",
+      "name": "Chula Vista Animal Care Facility",
+      "address": "130 Beyer Way, Chula Vista, CA 91911",
+      "phone": "619-691-5123",
+      "image": "./img/shelter/office/383916.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/chula-vista-animal-care-facility-383916/",
+      "imageUrl": "https://cdn.findpawpal.com/office/383916.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 385126,
+      "slug": "rags-2-riches-dog-adoption-385126",
+      "name": "Rags 2 Riches Dog Adoption",
+      "address": "501 Anita Street, Chula Vista, CA 91911",
+      "phone": "619-961-3997",
+      "image": "https://cdn.findpawpal.com/office/385126.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/rags-2-riches-dog-adoption-385126/"
+    }
+  ]
+}

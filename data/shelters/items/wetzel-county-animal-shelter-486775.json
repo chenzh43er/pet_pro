@@ -1,0 +1,21 @@
+{
+  "officeId": 486775,
+  "slug": "wetzel-county-animal-shelter-486775",
+  "name": "Wetzel County Animal Shelter",
+  "address": "RR 2 Box 57, New Martinsville, WV 26155",
+  "street": "RR 2 Box 57",
+  "addressCity": "New Martinsville",
+  "stateCode": "WV",
+  "zip": "26155",
+  "phone": "304-455-5348",
+  "image": "./img/shelter/office/486775.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/wetzel-county-animal-shelter-486775/",
+  "stateSlug": "west-virginia",
+  "stateName": "West Virginia",
+  "citySlug": "new-martinsville",
+  "cityName": "New Martinsville",
+  "cityLabel": "New Martinsville, WV",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/west-virginia/new-martinsville/",
+  "fetchedAt": "2026-06-27T20:21:03.812448+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/486775.jpg?f=webp&w=730"
+}

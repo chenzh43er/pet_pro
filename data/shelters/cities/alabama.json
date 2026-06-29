@@ -1,0 +1,669 @@
+{
+  "fetchedAt": "2026-06-27T17:47:23.376194+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama",
+    "offices": 156
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/",
+  "cities": [
+    {
+      "slug": "alabaster",
+      "name": "Alabaster",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/alabaster/"
+    },
+    {
+      "slug": "albertville",
+      "name": "Albertville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/albertville/"
+    },
+    {
+      "slug": "alexander",
+      "name": "Alexander",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/alexander/"
+    },
+    {
+      "slug": "andalusia",
+      "name": "Andalusia",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/andalusia/"
+    },
+    {
+      "slug": "anniston",
+      "name": "Anniston",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/anniston/"
+    },
+    {
+      "slug": "arab",
+      "name": "Arab",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/arab/"
+    },
+    {
+      "slug": "athens",
+      "name": "Athens",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/athens/"
+    },
+    {
+      "slug": "atmore",
+      "name": "Atmore",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/atmore/"
+    },
+    {
+      "slug": "auburn",
+      "name": "Auburn",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/auburn/"
+    },
+    {
+      "slug": "bay-minette",
+      "name": "Bay Minette",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/bay-minette/"
+    },
+    {
+      "slug": "belk",
+      "name": "Belk",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/belk/"
+    },
+    {
+      "slug": "bessemer",
+      "name": "Bessemer",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/bessemer/"
+    },
+    {
+      "slug": "birmingham",
+      "name": "Birmingham",
+      "offices": 12,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/birmingham/"
+    },
+    {
+      "slug": "blountsville",
+      "name": "Blountsville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/blountsville/"
+    },
+    {
+      "slug": "boaz",
+      "name": "Boaz",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/boaz/"
+    },
+    {
+      "slug": "brewton",
+      "name": "Brewton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/brewton/"
+    },
+    {
+      "slug": "chickasaw",
+      "name": "Chickasaw",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/chickasaw/"
+    },
+    {
+      "slug": "clanton",
+      "name": "Clanton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/clanton/"
+    },
+    {
+      "slug": "clayton",
+      "name": "Clayton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/clayton/"
+    },
+    {
+      "slug": "columbiana",
+      "name": "Columbiana",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/columbiana/"
+    },
+    {
+      "slug": "cottondale",
+      "name": "Cottondale",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/cottondale/"
+    },
+    {
+      "slug": "cullman",
+      "name": "Cullman",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/cullman/"
+    },
+    {
+      "slug": "daphne",
+      "name": "Daphne",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/daphne/"
+    },
+    {
+      "slug": "decatur",
+      "name": "Decatur",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/decatur/"
+    },
+    {
+      "slug": "demopolis",
+      "name": "Demopolis",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/demopolis/"
+    },
+    {
+      "slug": "dothan",
+      "name": "Dothan",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/dothan/"
+    },
+    {
+      "slug": "enterprise",
+      "name": "Enterprise",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/enterprise/"
+    },
+    {
+      "slug": "eufaula",
+      "name": "Eufaula",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/eufaula/"
+    },
+    {
+      "slug": "evergreen",
+      "name": "Evergreen",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/evergreen/"
+    },
+    {
+      "slug": "fairhope",
+      "name": "Fairhope",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/fairhope/"
+    },
+    {
+      "slug": "fayette",
+      "name": "Fayette",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/fayette/"
+    },
+    {
+      "slug": "florala",
+      "name": "Florala",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/florala/"
+    },
+    {
+      "slug": "florence",
+      "name": "Florence",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/florence/"
+    },
+    {
+      "slug": "foley",
+      "name": "Foley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/foley/"
+    },
+    {
+      "slug": "fort-payne",
+      "name": "Fort Payne",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/fort-payne/"
+    },
+    {
+      "slug": "gadsden",
+      "name": "Gadsden",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/gadsden/"
+    },
+    {
+      "slug": "gaylesville",
+      "name": "Gaylesville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/gaylesville/"
+    },
+    {
+      "slug": "gordo",
+      "name": "Gordo",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/gordo/"
+    },
+    {
+      "slug": "gordon",
+      "name": "Gordon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/gordon/"
+    },
+    {
+      "slug": "greensboro",
+      "name": "Greensboro",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/greensboro/"
+    },
+    {
+      "slug": "greenville",
+      "name": "Greenville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/greenville/"
+    },
+    {
+      "slug": "grove-hill",
+      "name": "Grove Hill",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/grove-hill/"
+    },
+    {
+      "slug": "guntersville",
+      "name": "Guntersville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/guntersville/"
+    },
+    {
+      "slug": "haleyville",
+      "name": "Haleyville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/haleyville/"
+    },
+    {
+      "slug": "hartselle",
+      "name": "Hartselle",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/hartselle/"
+    },
+    {
+      "slug": "headland",
+      "name": "Headland",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/headland/"
+    },
+    {
+      "slug": "hoover",
+      "name": "Hoover",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/hoover/"
+    },
+    {
+      "slug": "huntsville",
+      "name": "Huntsville",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/huntsville/"
+    },
+    {
+      "slug": "jackson",
+      "name": "Jackson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/jackson/"
+    },
+    {
+      "slug": "jacksonville",
+      "name": "Jacksonville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/jacksonville/"
+    },
+    {
+      "slug": "jasper",
+      "name": "Jasper",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/jasper/"
+    },
+    {
+      "slug": "la-fayette",
+      "name": "La Fayette",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/la-fayette/"
+    },
+    {
+      "slug": "lineville",
+      "name": "Lineville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/lineville/"
+    },
+    {
+      "slug": "locust-fork",
+      "name": "Locust Fork",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/locust-fork/"
+    },
+    {
+      "slug": "madison",
+      "name": "Madison",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/madison/"
+    },
+    {
+      "slug": "mobile",
+      "name": "Mobile",
+      "offices": 8,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/mobile/"
+    },
+    {
+      "slug": "monroeville",
+      "name": "Monroeville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/monroeville/"
+    },
+    {
+      "slug": "montevallo",
+      "name": "Montevallo",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/montevallo/"
+    },
+    {
+      "slug": "montgomery",
+      "name": "Montgomery",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/montgomery/"
+    },
+    {
+      "slug": "moulton",
+      "name": "Moulton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/moulton/"
+    },
+    {
+      "slug": "mount-olive",
+      "name": "Mount Olive",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/mount-olive/"
+    },
+    {
+      "slug": "northport",
+      "name": "Northport",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/northport/"
+    },
+    {
+      "slug": "odenville",
+      "name": "Odenville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/odenville/"
+    },
+    {
+      "slug": "opelika",
+      "name": "Opelika",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/opelika/"
+    },
+    {
+      "slug": "oxford",
+      "name": "Oxford",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/oxford/"
+    },
+    {
+      "slug": "ozark",
+      "name": "Ozark",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/ozark/"
+    },
+    {
+      "slug": "pelham",
+      "name": "Pelham",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/pelham/"
+    },
+    {
+      "slug": "pell",
+      "name": "Pell",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/pell/"
+    },
+    {
+      "slug": "phenix",
+      "name": "Phenix",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/phenix/"
+    },
+    {
+      "slug": "piedmont",
+      "name": "Piedmont",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/piedmont/"
+    },
+    {
+      "slug": "prichard",
+      "name": "Prichard",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/prichard/"
+    },
+    {
+      "slug": "rainbow",
+      "name": "Rainbow",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/rainbow/"
+    },
+    {
+      "slug": "saraland",
+      "name": "Saraland",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/saraland/"
+    },
+    {
+      "slug": "scottsboro",
+      "name": "Scottsboro",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/scottsboro/"
+    },
+    {
+      "slug": "selma",
+      "name": "Selma",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/selma/"
+    },
+    {
+      "slug": "shelby",
+      "name": "Shelby",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/shelby/"
+    },
+    {
+      "slug": "somerville",
+      "name": "Somerville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/somerville/"
+    },
+    {
+      "slug": "springville",
+      "name": "Springville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/springville/"
+    },
+    {
+      "slug": "summerdale",
+      "name": "Summerdale",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/summerdale/"
+    },
+    {
+      "slug": "sylacauga",
+      "name": "Sylacauga",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/sylacauga/"
+    },
+    {
+      "slug": "talladega",
+      "name": "Talladega",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/talladega/"
+    },
+    {
+      "slug": "theodore",
+      "name": "Theodore",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/theodore/"
+    },
+    {
+      "slug": "troy",
+      "name": "Troy",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/troy/"
+    },
+    {
+      "slug": "tuscaloosa",
+      "name": "Tuscaloosa",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/tuscaloosa/"
+    },
+    {
+      "slug": "tuscumbia",
+      "name": "Tuscumbia",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/tuscumbia/"
+    },
+    {
+      "slug": "tuskegee",
+      "name": "Tuskegee",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/tuskegee/"
+    },
+    {
+      "slug": "valley",
+      "name": "Valley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/valley/"
+    },
+    {
+      "slug": "valley-grande",
+      "name": "Valley Grande",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/valley-grande/"
+    },
+    {
+      "slug": "vance",
+      "name": "Vance",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/vance/"
+    },
+    {
+      "slug": "vernon",
+      "name": "Vernon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/vernon/"
+    },
+    {
+      "slug": "vestavia-hills",
+      "name": "Vestavia Hills",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/vestavia-hills/"
+    },
+    {
+      "slug": "wedowee",
+      "name": "Wedowee",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/wedowee/"
+    },
+    {
+      "slug": "wetumpka",
+      "name": "Wetumpka",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/wetumpka/"
+    },
+    {
+      "slug": "york",
+      "name": "York",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/york/"
+    }
+  ]
+}

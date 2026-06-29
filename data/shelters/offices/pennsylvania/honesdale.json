@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:53:17.048649+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "honesdale",
+    "name": "Honesdale",
+    "label": "Honesdale, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/honesdale/",
+  "offices": [
+    {
+      "officeId": 474306,
+      "slug": "aussie-rescue-and-placement-helpline-inc-474306",
+      "name": "Aussie Rescue & Placement Helpline, Inc.",
+      "address": "PO Box 85, Honesdale, PA 18431",
+      "phone": "877-177-4779",
+      "image": "./img/shelter/office/474306.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/aussie-rescue-and-placement-helpline-inc-474306/",
+      "imageUrl": "https://cdn.findpawpal.com/office/474306.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 595737,
+      "slug": "dessin-animal-shelter-595737",
+      "name": "Dessin Animal Shelter",
+      "address": "138 Miller Drive, Honesdale, PA 18431",
+      "phone": "570-253-4037",
+      "image": "./img/shelter/office/595737.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dessin-animal-shelter-595737/",
+      "imageUrl": "https://cdn.findpawpal.com/office/595737.jpg?f=webp&w=730"
+    }
+  ]
+}

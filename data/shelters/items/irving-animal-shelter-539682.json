@@ -1,0 +1,21 @@
+{
+  "officeId": 539682,
+  "slug": "irving-animal-shelter-539682",
+  "name": "Irving Animal Shelter",
+  "address": "128 North Briery Road, Irving, TX 75061",
+  "street": "128 North Briery Road",
+  "addressCity": "Irving",
+  "stateCode": "TX",
+  "zip": "75061",
+  "phone": "972-721-2262",
+  "image": "./img/shelter/office/539682.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/irving-animal-shelter-539682/",
+  "stateSlug": "texas",
+  "stateName": "Texas",
+  "citySlug": "irving",
+  "cityName": "Irving",
+  "cityLabel": "Irving, TX",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/texas/irving/",
+  "fetchedAt": "2026-06-27T20:06:00.485042+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/539682.jpg?f=webp&w=730"
+}

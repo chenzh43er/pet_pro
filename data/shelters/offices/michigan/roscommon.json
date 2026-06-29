@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:12:30.458469+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "roscommon",
+    "name": "Roscommon",
+    "label": "Roscommon, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/roscommon/",
+  "offices": [
+    {
+      "officeId": 209148,
+      "slug": "roscommon-county-animal-control-209148",
+      "name": "Roscommon County Animal Control",
+      "address": "685 South Main Street, Roscommon, MI 48653",
+      "phone": "989-275-5630",
+      "image": "./img/shelter/office/209148.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/roscommon-county-animal-control-209148/",
+      "imageUrl": "https://cdn.findpawpal.com/office/209148.jpg?f=webp&w=730"
+    }
+  ]
+}

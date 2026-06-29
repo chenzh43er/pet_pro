@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:46:34.876037+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "port-clinton",
+    "name": "Port Clinton",
+    "label": "Port Clinton, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/port-clinton/",
+  "offices": [
+    {
+      "officeId": 458558,
+      "slug": "safe-harbor-schnauzer-rescue-foundation-inc-458558",
+      "name": "Safe Harbor Schnauzer Rescue Foundation, Inc.",
+      "address": "1111 Fulton Street, Port Clinton, OH 43452",
+      "phone": "419-734-4502",
+      "image": "./img/shelter/office/458558.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/safe-harbor-schnauzer-rescue-foundation-inc-458558/",
+      "imageUrl": "https://cdn.findpawpal.com/office/458558.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 640561,
+      "slug": "humane-society-of-ottawa-county-640561",
+      "name": "Humane Society of Ottawa County",
+      "address": "2424 East Sand Road, Port Clinton, OH 43452",
+      "phone": "419-734-5191",
+      "image": "./img/shelter/office/640561.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-ottawa-county-640561/",
+      "imageUrl": "https://cdn.findpawpal.com/office/640561.jpg?f=webp&w=730"
+    }
+  ]
+}

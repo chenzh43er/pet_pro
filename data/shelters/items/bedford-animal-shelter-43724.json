@@ -1,0 +1,21 @@
+{
+  "officeId": 43724,
+  "slug": "bedford-animal-shelter-43724",
+  "name": "Bedford Animal Shelter",
+  "address": "Route 101 W, Bedford, NH 03104",
+  "street": "Route 101 W",
+  "addressCity": "Bedford",
+  "stateCode": "NH",
+  "zip": "03104",
+  "phone": "",
+  "image": "./img/shelter/office/43724.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/bedford-animal-shelter-43724/",
+  "stateSlug": "new-hampshire",
+  "stateName": "New Hampshire",
+  "citySlug": "bedford",
+  "cityName": "Bedford",
+  "cityLabel": "Bedford, NH",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-hampshire/bedford/",
+  "fetchedAt": "2026-06-27T19:23:43.250881+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/43724.jpg?f=webp&w=730"
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:47:14.402708+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "troy",
+    "name": "Troy",
+    "label": "Troy, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/troy/",
+  "offices": [
+    {
+      "officeId": 467675,
+      "slug": "miami-county-humane-society-467675",
+      "name": "Miami County Humane Society",
+      "address": "1190 North Co Road 25A, Troy, OH 45373",
+      "phone": "937-335-9955",
+      "image": "./img/shelter/office/467675.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/miami-county-humane-society-467675/",
+      "imageUrl": "https://cdn.findpawpal.com/office/467675.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 640520,
+      "slug": "ohio-papillon-pom-rescue-640520",
+      "name": "Ohio Papillon Pom Rescue",
+      "address": "1064 Dorchester Road, Troy, OH 45373",
+      "phone": "937-335-0380",
+      "image": "./img/shelter/office/640520.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ohio-papillon-pom-rescue-640520/",
+      "imageUrl": "https://cdn.findpawpal.com/office/640520.jpg?f=webp&w=730"
+    }
+  ]
+}

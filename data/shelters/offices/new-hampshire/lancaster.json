@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:24:17.599769+00:00",
+  "state": {
+    "slug": "new-hampshire",
+    "name": "New Hampshire"
+  },
+  "city": {
+    "slug": "lancaster",
+    "name": "Lancaster",
+    "label": "Lancaster, NH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-hampshire/lancaster/",
+  "offices": [
+    {
+      "officeId": 43881,
+      "slug": "lancaster-humane-society-43881",
+      "name": "Lancaster Humane Society",
+      "address": "62 Martin Meadow Pond Road, Lancaster, NH 03584",
+      "phone": "603-788-4500",
+      "image": "./img/shelter/office/43881.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lancaster-humane-society-43881/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43881.jpg?f=webp&w=730"
+    }
+  ]
+}

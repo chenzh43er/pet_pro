@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:46:36.381711+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "portsmouth",
+    "name": "Portsmouth",
+    "label": "Portsmouth, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/portsmouth/",
+  "offices": [
+    {
+      "officeId": 431208,
+      "slug": "scioto-county-humane-society-431208",
+      "name": "Scioto County Humane Society",
+      "address": "3114 Sheridan Road, Portsmouth, OH 45662",
+      "phone": "740-353-5517",
+      "image": "./img/shelter/office/431208.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/scioto-county-humane-society-431208/",
+      "imageUrl": "https://cdn.findpawpal.com/office/431208.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 431214,
+      "slug": "scioto-county-horse-rescue-431214",
+      "name": "Scioto County Horse Rescue",
+      "address": "922 Carver Ridge Road, Portsmouth, OH 45662",
+      "phone": "740-456-5953",
+      "image": "./img/shelter/office/431214.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/scioto-county-horse-rescue-431214/",
+      "imageUrl": "https://cdn.findpawpal.com/office/431214.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 587677,
+      "slug": "county-dog-warden-587677",
+      "name": "County Dog Warden",
+      "address": "95 Arrowhead North Road, Portsmouth, OH 45662",
+      "phone": "740-353-8802",
+      "image": "./img/shelter/office/587677.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/county-dog-warden-587677/",
+      "imageUrl": "https://cdn.findpawpal.com/office/587677.jpg?f=webp&w=730"
+    }
+  ]
+}

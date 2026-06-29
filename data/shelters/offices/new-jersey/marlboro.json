@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:27:23.244164+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "marlboro",
+    "name": "Marlboro",
+    "label": "Marlboro, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/marlboro/",
+  "offices": [
+    {
+      "officeId": 99993,
+      "slug": "otter-hound-rescue-99993",
+      "name": "Otter Hound Rescue",
+      "address": "431 Texas Road, Marlboro, NJ 07751",
+      "phone": "732-591-0706",
+      "image": "./img/shelter/office/99993.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/otter-hound-rescue-99993/",
+      "imageUrl": "https://cdn.findpawpal.com/office/99993.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:57:27.102510+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "lancaster",
+    "name": "Lancaster",
+    "label": "Lancaster, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/lancaster/",
+  "offices": [
+    {
+      "officeId": 125540,
+      "slug": "central-kentucky-regional-humane-society-inc-125540",
+      "name": "Central Kentucky Regional Humane Society, Inc.",
+      "address": "214 Richmond Street, Lancaster, KY 40444",
+      "phone": "859-792-4581",
+      "image": "./img/shelter/office/125540.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/central-kentucky-regional-humane-society-inc-125540/",
+      "imageUrl": "https://cdn.findpawpal.com/office/125540.jpg?f=webp&w=730"
+    }
+  ]
+}

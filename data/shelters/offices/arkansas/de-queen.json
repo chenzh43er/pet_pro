@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:21:57.036235+00:00",
+  "state": {
+    "slug": "arkansas",
+    "name": "Arkansas"
+  },
+  "city": {
+    "slug": "de-queen",
+    "name": "De Queen",
+    "label": "De Queen, AR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arkansas/de-queen/",
+  "offices": [
+    {
+      "officeId": 267617,
+      "slug": "de-queen-animal-control-267617",
+      "name": "De Queen Animal Control",
+      "address": "220 North 2nd Street, De Queen, AR 71832",
+      "phone": "870-642-2213",
+      "image": "./img/shelter/office/267617.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/de-queen-animal-control-267617/",
+      "imageUrl": "https://cdn.findpawpal.com/office/267617.jpg?f=webp&w=730"
+    }
+  ]
+}

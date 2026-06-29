@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:14:41.769421+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "litchfield",
+    "name": "Litchfield",
+    "label": "Litchfield, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/litchfield/",
+  "offices": [
+    {
+      "officeId": 533517,
+      "slug": "meeker-county-humane-society-533517",
+      "name": "Meeker County Humane Society",
+      "address": "411 North Austin Avenue, Litchfield, MN 55355",
+      "phone": "651-693-7648",
+      "image": "./img/shelter/office/533517.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/meeker-county-humane-society-533517/",
+      "imageUrl": "https://cdn.findpawpal.com/office/533517.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:25:03.300229+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "bellmawr",
+    "name": "Bellmawr",
+    "label": "Bellmawr, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/bellmawr/",
+  "offices": [
+    {
+      "officeId": 103897,
+      "slug": "pet-pals-of-southern-nj-103897",
+      "name": "Pet Pals of Southern Nj",
+      "address": "100 Essex Avenue, Bellmawr, NJ 08031",
+      "phone": "609-931-4399",
+      "image": "./img/shelter/office/103897.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-pals-of-southern-nj-103897/",
+      "imageUrl": "https://cdn.findpawpal.com/office/103897.jpg?f=webp&w=730"
+    }
+  ]
+}

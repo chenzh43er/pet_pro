@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:15:17.276653+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "land-o-lakes",
+    "name": "Land O' Lakes",
+    "label": "Land O' Lakes, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/land-o-lakes/",
+  "offices": [
+    {
+      "slug": "florida-cocker-spaniel-rescue-340527",
+      "name": "Florida Cocker Spaniel Rescue",
+      "address": "4635 Land O' Lakes Boulevard, Land O' Lakes, FL 34639",
+      "phone": "813-907-0451",
+      "image": "./img/shelter/office/340527.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/florida-cocker-spaniel-rescue-340527/",
+      "imageUrl": "https://cdn.findpawpal.com/office/340527.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pasco-county-animal-control-340570",
+      "name": "Pasco County Animal Control",
+      "address": "19640 Dogpatch Lane, Land O' Lakes, FL 34638",
+      "phone": "813-929-1212",
+      "image": "./img/shelter/office/340570.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pasco-county-animal-control-340570/",
+      "imageUrl": "https://cdn.findpawpal.com/office/340570.jpg?f=webp&w=730"
+    }
+  ]
+}

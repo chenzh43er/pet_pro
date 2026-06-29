@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T20:24:58.572044+00:00",
+  "state": {
+    "slug": "wyoming",
+    "name": "Wyoming"
+  },
+  "city": {
+    "slug": "cheyenne",
+    "name": "Cheyenne",
+    "label": "Cheyenne, WY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wyoming/cheyenne/",
+  "offices": [
+    {
+      "officeId": 576842,
+      "slug": "black-dog-animal-rescue-576842",
+      "name": "Black Dog Animal Rescue",
+      "address": "8313 Red Fox Road, Cheyenne, WY 82009",
+      "phone": "307-640-0092",
+      "image": "./img/shelter/office/576842.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/black-dog-animal-rescue-576842/",
+      "imageUrl": "https://cdn.findpawpal.com/office/576842.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 651790,
+      "slug": "sacred-earth-animal-rescue-inc-651790",
+      "name": "Sacred Earth Animal Rescue, Inc.",
+      "address": "PO Box 15708, Cheyenne, WY 82003",
+      "phone": "307-640-6703",
+      "image": "./img/shelter/office/651790.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sacred-earth-animal-rescue-inc-651790/",
+      "imageUrl": "https://cdn.findpawpal.com/office/651790.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 651792,
+      "slug": "wyoming-advocates-for-animals-651792",
+      "name": "Wyoming Advocates for Animals",
+      "address": "316 East Pershing Boulevard, Cheyenne, WY 82001",
+      "phone": "307-778-4086",
+      "image": "./img/shelter/office/651792.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming-advocates-for-animals-651792/",
+      "imageUrl": "https://cdn.findpawpal.com/office/651792.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 653553,
+      "slug": "cheyenne-animal-shelter-653553",
+      "name": "Cheyenne Animal Shelter",
+      "address": "800 Southwest Drive, Cheyenne, WY 82007",
+      "phone": "307-632-6655",
+      "image": "./img/shelter/office/653553.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cheyenne-animal-shelter-653553/",
+      "imageUrl": "https://cdn.findpawpal.com/office/653553.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:50:44.819935+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "lawrenceburg",
+    "name": "Lawrenceburg",
+    "label": "Lawrenceburg, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/lawrenceburg/",
+  "offices": [
+    {
+      "officeId": 223734,
+      "slug": "dearborn-county-animal-control-223734",
+      "name": "Dearborn County Animal Control",
+      "address": "210 Charles A Liddle Drive, Lawrenceburg, IN 47025",
+      "phone": "812-537-0913",
+      "image": "./img/shelter/office/223734.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dearborn-county-animal-control-223734/",
+      "imageUrl": "https://cdn.findpawpal.com/office/223734.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:58:47.840784+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "west-liberty",
+    "name": "West Liberty",
+    "label": "West Liberty, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/west-liberty/",
+  "offices": [
+    {
+      "officeId": 126329,
+      "slug": "morgan-county-animal-shelter-126329",
+      "name": "Morgan County Animal Shelter",
+      "address": "6591 U.s. 460, West Liberty, KY 41472",
+      "phone": "606-743-2545",
+      "image": "./img/shelter/office/126329.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/morgan-county-animal-shelter-126329/",
+      "imageUrl": "https://cdn.findpawpal.com/office/126329.jpg?f=webp&w=730"
+    }
+  ]
+}

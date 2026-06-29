@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:45:45.330463+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "mount-gilead",
+    "name": "Mount Gilead",
+    "label": "Mount Gilead, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/mount-gilead/",
+  "offices": [
+    {
+      "officeId": 422962,
+      "slug": "morrow-county-humane-society-422962",
+      "name": "Morrow County Humane Society",
+      "address": "PO Box 235, Mount Gilead, OH 43338",
+      "phone": "419-947-5791",
+      "image": "./img/shelter/office/422962.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/morrow-county-humane-society-422962/",
+      "imageUrl": "https://cdn.findpawpal.com/office/422962.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 445256,
+      "slug": "morrow-county-dog-shelter-445256",
+      "name": "Morrow County Dog Shelter",
+      "address": "195 South Main Street, Mount Gilead, OH 43338",
+      "phone": "419-946-1747",
+      "image": "./img/shelter/office/445256.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/morrow-county-dog-shelter-445256/",
+      "imageUrl": "https://cdn.findpawpal.com/office/445256.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 588466,
+      "slug": "alaskan-malamute-assitance-league-588466",
+      "name": "Alaskan Malamute Assitance League",
+      "address": "PO Box 14, Mount Gilead, OH 43338",
+      "phone": "419-947-7948",
+      "image": "./img/shelter/office/588466.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/alaskan-malamute-assitance-league-588466/",
+      "imageUrl": "https://cdn.findpawpal.com/office/588466.jpg?f=webp&w=730"
+    }
+  ]
+}

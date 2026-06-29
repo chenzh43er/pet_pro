@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:41:22.490245+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "southport",
+    "name": "Southport",
+    "label": "Southport, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/southport/",
+  "offices": [
+    {
+      "officeId": 214824,
+      "slug": "southport-animal-shelter-214824",
+      "name": "Southport Animal Shelter",
+      "address": "201 East Moore Street, Southport, NC 28461",
+      "phone": "910-457-7926",
+      "image": "./img/shelter/office/214824.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/southport-animal-shelter-214824/",
+      "imageUrl": "https://cdn.findpawpal.com/office/214824.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 267606,
+      "slug": "soar-southport-oak-island-animal-rescue-267606",
+      "name": "SOAR Southport/Oak Island Animal Rescue",
+      "address": "3376 Saint Charles Place Southeast, Southport, NC 28461",
+      "phone": "910-457-6340",
+      "image": "./img/shelter/office/267606.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/soar-southport-oak-island-animal-rescue-267606/",
+      "imageUrl": "https://cdn.findpawpal.com/office/267606.jpg?f=webp&w=730"
+    }
+  ]
+}

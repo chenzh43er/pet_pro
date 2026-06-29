@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:08:28.469482+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "port-aransas",
+    "name": "Port Aransas",
+    "label": "Port Aransas, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/port-aransas/",
+  "offices": [
+    {
+      "officeId": 633273,
+      "slug": "port-aransas-animal-shelter-633273",
+      "name": "Port Aransas Animal Shelter",
+      "address": "403 West Cotter Avenue, Port Aransas, TX 78373",
+      "phone": "361-749-5941",
+      "image": "./img/shelter/office/633273.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/port-aransas-animal-shelter-633273/",
+      "imageUrl": "https://cdn.findpawpal.com/office/633273.jpg?f=webp&w=730"
+    }
+  ]
+}

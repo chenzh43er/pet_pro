@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:14:04.459358+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "crookston",
+    "name": "Crookston",
+    "label": "Crookston, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/crookston/",
+  "offices": [
+    {
+      "officeId": 524422,
+      "slug": "humane-society-animal-shelter-524422",
+      "name": "Humane Society Animal Shelter",
+      "address": "720 East Robert Street, Crookston, MN 56716",
+      "phone": "218-281-7225",
+      "image": "https://cdn.findpawpal.com/office/524422.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-animal-shelter-524422/"
+    }
+  ]
+}

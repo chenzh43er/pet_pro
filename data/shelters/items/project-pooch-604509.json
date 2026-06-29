@@ -1,0 +1,21 @@
+{
+  "officeId": 604509,
+  "slug": "project-pooch-604509",
+  "name": "Project Pooch",
+  "address": "543 3rd Street, Lake Oswego, OR 97034",
+  "street": "543 3rd Street",
+  "addressCity": "Lake Oswego",
+  "stateCode": "OR",
+  "zip": "97034",
+  "phone": "503-697-0623",
+  "image": "./img/shelter/office/604509.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/project-pooch-604509/",
+  "stateSlug": "oregon",
+  "stateName": "Oregon",
+  "citySlug": "lake-oswego",
+  "cityName": "Lake Oswego",
+  "cityLabel": "Lake Oswego, OR",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/oregon/lake-oswego/",
+  "fetchedAt": "2026-06-27T19:50:49.860660+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/604509.jpg?f=webp&w=730"
+}

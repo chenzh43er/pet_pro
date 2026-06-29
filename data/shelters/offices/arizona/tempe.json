@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T18:21:05.377946+00:00",
+  "state": {
+    "slug": "arizona",
+    "name": "Arizona"
+  },
+  "city": {
+    "slug": "tempe",
+    "name": "Tempe",
+    "label": "Tempe, AZ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arizona/tempe/",
+  "offices": [
+    {
+      "officeId": 156949,
+      "slug": "dog-rescue-156949",
+      "name": "Dog Rescue",
+      "address": "PO Box 25706, Tempe, AZ 85285",
+      "phone": "480-755-7343",
+      "image": "https://cdn.findpawpal.com/office/156949.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/dog-rescue-156949/"
+    },
+    {
+      "officeId": 158221,
+      "slug": "tempe-animal-control-158221",
+      "name": "Tempe Animal Control",
+      "address": "301 South McClintock Drive, Tempe, AZ 85281",
+      "phone": "480-744-5729",
+      "image": "./img/shelter/office/158221.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tempe-animal-control-158221/",
+      "imageUrl": "https://cdn.findpawpal.com/office/158221.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 168649,
+      "slug": "in-defense-of-animals-168649",
+      "name": "In Defense of Animals",
+      "address": "2121 South Mill Avenue, Tempe, AZ 85282",
+      "phone": "480-394-0578",
+      "image": "./img/shelter/office/168649.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/in-defense-of-animals-168649/",
+      "imageUrl": "https://cdn.findpawpal.com/office/168649.jpg?f=webp&w=730"
+    }
+  ]
+}

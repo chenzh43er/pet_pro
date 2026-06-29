@@ -1,0 +1,21 @@
+{
+  "officeId": 270510,
+  "slug": "little-rock-animal-services-270510",
+  "name": "Little Rock Animal Services",
+  "address": "4500 Kramer Street, Little Rock, AR 72204",
+  "street": "4500 Kramer Street",
+  "addressCity": "Little Rock",
+  "stateCode": "AR",
+  "zip": "72204",
+  "phone": "501-376-3067",
+  "image": "./img/shelter/office/270510.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/little-rock-animal-services-270510/",
+  "stateSlug": "arkansas",
+  "stateName": "Arkansas",
+  "citySlug": "little-rock",
+  "cityName": "Little Rock",
+  "cityLabel": "Little Rock, AR",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/arkansas/little-rock/",
+  "fetchedAt": "2026-06-27T18:22:34.992223+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/270510.jpg?f=webp&w=730"
+}

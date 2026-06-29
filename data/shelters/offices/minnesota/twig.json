@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:15:35.737376+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "twig",
+    "name": "Twig",
+    "label": "Twig, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/twig/",
+  "offices": [
+    {
+      "officeId": 399734,
+      "slug": "northern-lights-animal-rescue-399734",
+      "name": "Northern Lights Animal Rescue",
+      "address": "PO Box 1096, Twig, MN 55791",
+      "phone": "218-729-1485",
+      "image": "https://cdn.findpawpal.com/office/399734.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/northern-lights-animal-rescue-399734/"
+    }
+  ]
+}

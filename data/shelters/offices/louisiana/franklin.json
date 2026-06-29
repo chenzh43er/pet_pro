@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:59:39.807657+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "franklin",
+    "name": "Franklin",
+    "label": "Franklin, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/franklin/",
+  "offices": [
+    {
+      "officeId": 282883,
+      "slug": "st-mary-parish-animal-control-282883",
+      "name": "St Mary Parish Animal Control",
+      "address": "10905 Louisiana 182, Franklin, LA 70538",
+      "phone": "337-828-4646",
+      "image": "https://cdn.findpawpal.com/office/282883.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/st-mary-parish-animal-control-282883/"
+    }
+  ]
+}

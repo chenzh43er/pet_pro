@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:06:54.871488+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "lillian",
+    "name": "Lillian",
+    "label": "Lillian, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/lillian/",
+  "offices": [
+    {
+      "officeId": 494419,
+      "slug": "wise-equine-sanctuary-of-texas-west-494419",
+      "name": "Wise Equine Sanctuary of Texas West",
+      "address": "PO Box 4, Lillian, TX 76061",
+      "phone": "214-789-8491",
+      "image": "https://cdn.findpawpal.com/office/494419.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/wise-equine-sanctuary-of-texas-west-494419/"
+    }
+  ]
+}

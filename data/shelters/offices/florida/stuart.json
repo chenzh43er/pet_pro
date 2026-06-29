@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:17:17.365075+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "stuart",
+    "name": "Stuart",
+    "label": "Stuart, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/stuart/",
+  "offices": [
+    {
+      "slug": "martin-county-animal-control-273516",
+      "name": "Martin County Animal Control",
+      "address": "2151 Southeast Aviation Way, Stuart, FL 34996",
+      "phone": "772-463-2817",
+      "image": "./img/shelter/office/273516.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/martin-county-animal-control-273516/",
+      "imageUrl": "https://cdn.findpawpal.com/office/273516.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-the-treasure-coast-341683",
+      "name": "Humane Society of the Treasure Coast",
+      "address": "2675 Southeast Dixie Highway, Stuart, FL 34996",
+      "phone": "772-287-5753",
+      "image": "./img/shelter/office/341683.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-the-treasure-coast-341683/",
+      "imageUrl": "https://cdn.findpawpal.com/office/341683.jpg?f=webp&w=730"
+    }
+  ]
+}

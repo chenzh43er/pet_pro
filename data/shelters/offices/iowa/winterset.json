@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:54:32.180746+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa"
+  },
+  "city": {
+    "slug": "winterset",
+    "name": "Winterset",
+    "label": "Winterset, IA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/winterset/",
+  "offices": [
+    {
+      "officeId": 428098,
+      "slug": "winterset-animal-control-428098",
+      "name": "Winterset Animal Control",
+      "address": "124 West Court Avenue, Winterset, IA 50273",
+      "phone": "",
+      "image": "./img/shelter/office/428098.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/winterset-animal-control-428098/",
+      "imageUrl": "https://cdn.findpawpal.com/office/428098.jpg?f=webp&w=730"
+    }
+  ]
+}

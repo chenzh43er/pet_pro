@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T18:37:21.185758+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "somers",
+    "name": "Somers",
+    "label": "Somers, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/somers/",
+  "offices": [
+    {
+      "officeId": 160748,
+      "slug": "second-chance-ranch-160748",
+      "name": "Second Chance Ranch",
+      "address": "PO Box 583, Somers, CT 06071",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/160748.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/second-chance-ranch-160748/"
+    },
+    {
+      "officeId": 167882,
+      "slug": "somers-animal-control-167882",
+      "name": "Somers Animal Control",
+      "address": "600 Main Street, Somers, CT 06071",
+      "phone": "860-763-0623",
+      "image": "./img/shelter/office/167882.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/somers-animal-control-167882/",
+      "imageUrl": "https://cdn.findpawpal.com/office/167882.jpg?f=webp&w=730"
+    }
+  ]
+}

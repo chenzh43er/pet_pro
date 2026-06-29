@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:53:56.371317+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa"
+  },
+  "city": {
+    "slug": "ottumwa",
+    "name": "Ottumwa",
+    "label": "Ottumwa, IA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/ottumwa/",
+  "offices": [
+    {
+      "officeId": 427757,
+      "slug": "heartland-humane-society-427757",
+      "name": "Heartland Humane Society",
+      "address": "314 Fox Sauk Road, Ottumwa, IA 52501",
+      "phone": "641-682-1228",
+      "image": "./img/shelter/office/427757.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/heartland-humane-society-427757/",
+      "imageUrl": "https://cdn.findpawpal.com/office/427757.jpg?f=webp&w=730"
+    }
+  ]
+}

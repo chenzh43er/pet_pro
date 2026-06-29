@@ -1,0 +1,21 @@
+{
+  "officeId": 43188,
+  "slug": "pets-in-need-animal-rescue-43188",
+  "name": "Pets In Need Animal Rescue",
+  "address": "PO Box 123, Dracut, MA 01826",
+  "street": "PO Box 123",
+  "addressCity": "Dracut",
+  "stateCode": "MA",
+  "zip": "01826",
+  "phone": "978-459-8700",
+  "image": "./img/shelter/office/43188.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pets-in-need-animal-rescue-43188/",
+  "stateSlug": "massachusetts",
+  "stateName": "Massachusetts",
+  "citySlug": "dracut",
+  "cityName": "Dracut",
+  "cityLabel": "Dracut, MA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/massachusetts/dracut/",
+  "fetchedAt": "2026-06-27T19:05:54.086548+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/43188.jpg?f=webp&w=730"
+}

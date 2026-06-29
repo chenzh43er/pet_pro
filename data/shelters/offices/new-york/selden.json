@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:36:46.940680+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "selden",
+    "name": "Selden",
+    "label": "Selden, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/selden/",
+  "offices": [
+    {
+      "officeId": 342067,
+      "slug": "christians-helping-animal-and-people-342067",
+      "name": "Christians Helping Animal and People",
+      "address": "PO Box 272, Selden, NY 11784",
+      "phone": "516-732-3138",
+      "image": "./img/shelter/office/342067.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/christians-helping-animal-and-people-342067/",
+      "imageUrl": "https://cdn.findpawpal.com/office/342067.jpg?f=webp&w=730"
+    }
+  ]
+}

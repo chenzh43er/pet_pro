@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:34:02.189191+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "hornell",
+    "name": "Hornell",
+    "label": "Hornell, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/hornell/",
+  "offices": [
+    {
+      "officeId": 313400,
+      "slug": "humane-society-animal-shelter-313400",
+      "name": "Humane Society Animal Shelter",
+      "address": "7649 Industrial Park Road, Hornell, NY 14843",
+      "phone": "607-324-1270",
+      "image": "./img/shelter/office/313400.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-animal-shelter-313400/",
+      "imageUrl": "https://cdn.findpawpal.com/office/313400.jpg?f=webp&w=730"
+    }
+  ]
+}

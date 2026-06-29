@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:48:32.118035+00:00",
+  "state": {
+    "slug": "oklahoma",
+    "name": "Oklahoma"
+  },
+  "city": {
+    "slug": "elk",
+    "name": "Elk",
+    "label": "Elk, OK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oklahoma/elk/",
+  "offices": [
+    {
+      "officeId": 707700,
+      "slug": "elk-city-animal-control-707700",
+      "name": "Elk City Animal Control",
+      "address": "1022 South Main Street, Elk, OK 73644",
+      "phone": "580-225-7222",
+      "image": "./img/shelter/office/707700.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/elk-city-animal-control-707700/",
+      "imageUrl": "https://cdn.findpawpal.com/office/707700.jpg?f=webp&w=730"
+    }
+  ]
+}

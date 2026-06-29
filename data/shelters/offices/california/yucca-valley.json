@@ -1,0 +1,32 @@
+{
+  "fetchedAt": "2026-06-27T18:32:36.751053+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "yucca-valley",
+    "name": "Yucca Valley",
+    "label": "Yucca Valley, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/yucca-valley/",
+  "offices": [
+    {
+      "slug": "wildheart-animal-rescue-383183",
+      "name": "Wildheart Animal Rescue",
+      "address": "56372 Paseo Los Ninos, Yucca Valley, CA 92284",
+      "phone": "760-369-2400",
+      "image": "./img/shelter/office/383183.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wildheart-animal-rescue-383183/",
+      "imageUrl": "https://cdn.findpawpal.com/office/383183.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "yucca-valley-animal-shelter-476293",
+      "name": "Yucca Valley Animal Shelter",
+      "address": "56460 Paseo Los Ninos, Yucca Valley, CA 92284",
+      "phone": "760-365-3111",
+      "image": "https://cdn.findpawpal.com/office/476293.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/yucca-valley-animal-shelter-476293/"
+    }
+  ]
+}

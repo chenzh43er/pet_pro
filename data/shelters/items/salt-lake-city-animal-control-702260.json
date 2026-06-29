@@ -1,0 +1,21 @@
+{
+  "officeId": 702260,
+  "slug": "salt-lake-city-animal-control-702260",
+  "name": "Salt Lake City Animal Control",
+  "address": "220 Morris Ave, Salt Lake, UT 84115",
+  "street": "220 Morris Ave",
+  "addressCity": "Salt Lake",
+  "stateCode": "UT",
+  "zip": "84115",
+  "phone": "801-483-6024",
+  "image": "./img/shelter/office/702260.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/salt-lake-city-animal-control-702260/",
+  "stateSlug": "utah",
+  "stateName": "Utah",
+  "citySlug": "salt-lake",
+  "cityName": "Salt Lake",
+  "cityLabel": "Salt Lake, UT",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/utah/salt-lake/",
+  "fetchedAt": "2026-06-27T20:11:23.708159+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/702260.jpg?f=webp&w=730"
+}

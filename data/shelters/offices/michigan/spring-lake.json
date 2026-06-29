@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:12:43.941529+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "spring-lake",
+    "name": "Spring Lake",
+    "label": "Spring Lake, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/spring-lake/",
+  "offices": [
+    {
+      "officeId": 190088,
+      "slug": "micheles-rescue-190088",
+      "name": "Michele's Rescue",
+      "address": "7238 Harvey Road, Spring Lake, MI 49456",
+      "phone": "231-798-4935",
+      "image": "./img/shelter/office/190088.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/micheles-rescue-190088/",
+      "imageUrl": "https://cdn.findpawpal.com/office/190088.jpg?f=webp&w=730"
+    }
+  ]
+}

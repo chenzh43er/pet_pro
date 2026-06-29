@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:01:09.291074+00:00",
+  "state": {
+    "slug": "maine",
+    "name": "Maine"
+  },
+  "city": {
+    "slug": "augusta",
+    "name": "Augusta",
+    "label": "Augusta, ME"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maine/augusta/",
+  "offices": [
+    {
+      "officeId": 341167,
+      "slug": "kennebec-valley-humane-society-341167",
+      "name": "Kennebec Valley Humane Society",
+      "address": "10 Pethaven Lane, Augusta, ME 04330",
+      "phone": "207-626-3491",
+      "image": "./img/shelter/office/341167.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kennebec-valley-humane-society-341167/",
+      "imageUrl": "https://cdn.findpawpal.com/office/341167.jpg?f=webp&w=730"
+    }
+  ]
+}

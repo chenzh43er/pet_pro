@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:05:10.910662+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "arlington",
+    "name": "Arlington",
+    "label": "Arlington, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/arlington/",
+  "offices": [
+    {
+      "officeId": 41921,
+      "slug": "arlington-animal-control-41921",
+      "name": "Arlington Animal Control",
+      "address": "51 Grove Street, Arlington, MA 02476",
+      "phone": "781-316-3950",
+      "image": "./img/shelter/office/41921.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/arlington-animal-control-41921/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41921.jpg?f=webp&w=730"
+    }
+  ]
+}

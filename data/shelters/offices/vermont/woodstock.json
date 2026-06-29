@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:12:29.042784+00:00",
+  "state": {
+    "slug": "vermont",
+    "name": "Vermont"
+  },
+  "city": {
+    "slug": "woodstock",
+    "name": "Woodstock",
+    "label": "Woodstock, VT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/vermont/woodstock/",
+  "offices": [
+    {
+      "officeId": 704726,
+      "slug": "lucy-mackenzie-humane-society-704726",
+      "name": "Lucy Mackenzie Humane Society",
+      "address": "PO Box 343, Woodstock, VT 05091",
+      "phone": "802-457-3080",
+      "image": "./img/shelter/office/704726.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lucy-mackenzie-humane-society-704726/",
+      "imageUrl": "https://cdn.findpawpal.com/office/704726.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:38:27.506303+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "carrboro",
+    "name": "Carrboro",
+    "label": "Carrboro, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/carrboro/",
+  "offices": [
+    {
+      "officeId": 272850,
+      "slug": "carrboro-animal-control-272850",
+      "name": "Carrboro Animal Control",
+      "address": "100 North Greensboro Street, Carrboro, NC 27510",
+      "phone": "919-918-7418",
+      "image": "./img/shelter/office/272850.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/carrboro-animal-control-272850/",
+      "imageUrl": "https://cdn.findpawpal.com/office/272850.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-06-27T18:15:07.248215+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "lake-panasoffkee",
+    "name": "Lake Panasoffkee",
+    "label": "Lake Panasoffkee, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/lake-panasoffkee/",
+  "offices": [
+    {
+      "slug": "humane-society-sumter-co-285828",
+      "name": "Humane Society-Sumter Co",
+      "address": "994 Cr 529a, Lake Panasoffkee, FL 33538",
+      "phone": "352-793-9117",
+      "image": "https://cdn.findpawpal.com/office/285828.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-sumter-co-285828/"
+    }
+  ]
+}

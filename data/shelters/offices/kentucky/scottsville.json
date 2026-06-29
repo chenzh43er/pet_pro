@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:58:25.386383+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "scottsville",
+    "name": "Scottsville",
+    "label": "Scottsville, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/scottsville/",
+  "offices": [
+    {
+      "officeId": 111912,
+      "slug": "scottsville-animal-shelter-111912",
+      "name": "Scottsville Animal Shelter",
+      "address": "51 Humane Ln, Scottsville, KY 42164",
+      "phone": "270-618-7387",
+      "image": "./img/shelter/office/111912.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/scottsville-animal-shelter-111912/",
+      "imageUrl": "https://cdn.findpawpal.com/office/111912.jpg?f=webp&w=730"
+    }
+  ]
+}

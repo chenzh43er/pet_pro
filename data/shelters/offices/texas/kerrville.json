@@ -1,0 +1,54 @@
+{
+  "fetchedAt": "2026-06-27T20:06:20.006340+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "kerrville",
+    "name": "Kerrville",
+    "label": "Kerrville, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/kerrville/",
+  "offices": [
+    {
+      "officeId": 494134,
+      "slug": "kerr-county-animal-shelter-494134",
+      "name": "Kerr County Animal Shelter",
+      "address": "3317 Route 534 Loop, Kerrville, TX 78028",
+      "phone": "830-257-3100",
+      "image": "https://cdn.findpawpal.com/office/494134.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/kerr-county-animal-shelter-494134/"
+    },
+    {
+      "officeId": 539342,
+      "slug": "animal-welfare-society-of-kerr-county-539342",
+      "name": "Animal Welfare Society of Kerr County",
+      "address": "515 Spur 100, Kerrville, TX 78028",
+      "phone": "830-257-7821",
+      "image": "./img/shelter/office/539342.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-welfare-society-of-kerr-county-539342/",
+      "imageUrl": "https://cdn.findpawpal.com/office/539342.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 540189,
+      "slug": "kerrville-animal-control-540189",
+      "name": "Kerrville Animal Control",
+      "address": "409 Mill Run, Kerrville, TX 78028",
+      "phone": "830-896-6535",
+      "image": "./img/shelter/office/540189.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kerrville-animal-control-540189/",
+      "imageUrl": "https://cdn.findpawpal.com/office/540189.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674361,
+      "slug": "humane-society-of-kerrville-674361",
+      "name": "Humane Society of Kerrville",
+      "address": "2900 Junction Highway, Kerrville, TX 78028",
+      "phone": "830-895-2700",
+      "image": "./img/shelter/office/674361.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-kerrville-674361/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674361.jpg?f=webp&w=730"
+    }
+  ]
+}

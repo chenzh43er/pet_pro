@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:00:48.605912+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "lexington",
+    "name": "Lexington",
+    "label": "Lexington, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/lexington/",
+  "offices": [
+    {
+      "officeId": 461037,
+      "slug": "lexington-animal-shelter-461037",
+      "name": "Lexington Animal Shelter",
+      "address": "78 Mig Drive, Lexington, TN 38351",
+      "phone": "731-249-9443",
+      "image": "./img/shelter/office/461037.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lexington-animal-shelter-461037/",
+      "imageUrl": "https://cdn.findpawpal.com/office/461037.jpg?f=webp&w=730"
+    }
+  ]
+}

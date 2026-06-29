@@ -1,0 +1,65 @@
+{
+  "fetchedAt": "2026-06-27T19:11:18.638072+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "kalamazoo",
+    "name": "Kalamazoo",
+    "label": "Kalamazoo, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/kalamazoo/",
+  "offices": [
+    {
+      "officeId": 190408,
+      "slug": "spca-of-southwest-michigan-190408",
+      "name": "SPCA of Southwest Michigan",
+      "address": "6955 West Kl Avenue, Kalamazoo, MI 49009",
+      "phone": "269-344-1474",
+      "image": "./img/shelter/office/190408.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/spca-of-southwest-michigan-190408/",
+      "imageUrl": "https://cdn.findpawpal.com/office/190408.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 190428,
+      "slug": "kalamazoo-animal-rescue-190428",
+      "name": "Kalamazoo Animal Rescue",
+      "address": "2918 Business One Drive, Kalamazoo, MI 49048",
+      "phone": "269-226-8570",
+      "image": "./img/shelter/office/190428.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kalamazoo-animal-rescue-190428/",
+      "imageUrl": "https://cdn.findpawpal.com/office/190428.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 190537,
+      "slug": "animal-rescue-project-190537",
+      "name": "Animal Rescue Project",
+      "address": "219 Peekstok Drive, Kalamazoo, MI 49001",
+      "phone": "269-492-1010",
+      "image": "./img/shelter/office/190537.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-rescue-project-190537/",
+      "imageUrl": "https://cdn.findpawpal.com/office/190537.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 191124,
+      "slug": "pet-resource-network-inc-191124",
+      "name": "Pet Resource Network, Inc",
+      "address": "PO Box 3034, Kalamazoo, MI 49003",
+      "phone": "269-388-2150",
+      "image": "./img/shelter/office/191124.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-resource-network-inc-191124/",
+      "imageUrl": "https://cdn.findpawpal.com/office/191124.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 207367,
+      "slug": "animal-meals-on-wheels-207367",
+      "name": "Animal Meals On Wheels",
+      "address": "3627 Lark Drive, Kalamazoo, MI 49008",
+      "phone": "616-375-8974",
+      "image": "./img/shelter/office/207367.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-meals-on-wheels-207367/",
+      "imageUrl": "https://cdn.findpawpal.com/office/207367.jpg?f=webp&w=730"
+    }
+  ]
+}

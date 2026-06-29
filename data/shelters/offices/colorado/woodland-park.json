@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:35:24.064484+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "woodland-park",
+    "name": "Woodland Park",
+    "label": "Woodland Park, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/woodland-park/",
+  "offices": [
+    {
+      "officeId": 40615,
+      "slug": "castle-cat-rescue-40615",
+      "name": "Castle Cat Rescue",
+      "address": "547 Douglas Fir Drive, Woodland Park, CO 80863",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/40615.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/castle-cat-rescue-40615/"
+    }
+  ]
+}

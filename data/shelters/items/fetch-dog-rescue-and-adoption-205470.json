@@ -1,0 +1,21 @@
+{
+  "officeId": 205470,
+  "slug": "fetch-dog-rescue-and-adoption-205470",
+  "name": "Fetch Dog Rescue and Adoption",
+  "address": "780 East Gunn Road, Rochester, MI 48306",
+  "street": "780 East Gunn Road",
+  "addressCity": "Rochester",
+  "stateCode": "MI",
+  "zip": "48306",
+  "phone": "248-608-4000",
+  "image": "./img/shelter/office/205470.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/fetch-dog-rescue-and-adoption-205470/",
+  "stateSlug": "michigan",
+  "stateName": "Michigan",
+  "citySlug": "rochester",
+  "cityName": "Rochester",
+  "cityLabel": "Rochester, MI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/michigan/rochester/",
+  "fetchedAt": "2026-06-27T19:12:26.133770+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/205470.jpg?f=webp&w=730"
+}

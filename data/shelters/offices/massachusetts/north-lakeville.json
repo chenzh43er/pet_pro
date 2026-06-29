@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:07:40.831657+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "north-lakeville",
+    "name": "North Lakeville",
+    "label": "North Lakeville, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/north-lakeville/",
+  "offices": [
+    {
+      "officeId": 40343,
+      "slug": "pets-are-worth-saving-40343",
+      "name": "Pets Are Worth Saving",
+      "address": "PO Box 816, North Lakeville, MA 02347",
+      "phone": "508-947-7536",
+      "image": "https://cdn.findpawpal.com/office/40343.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/pets-are-worth-saving-40343/"
+    },
+    {
+      "officeId": 41003,
+      "slug": "lakeville-animal-shelter-41003",
+      "name": "Lakeville Animal Shelter",
+      "address": "8 Montgomery Street, North Lakeville, MA 02347",
+      "phone": "508-947-3891",
+      "image": "./img/shelter/office/41003.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lakeville-animal-shelter-41003/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41003.jpg?f=webp&w=730"
+    }
+  ]
+}

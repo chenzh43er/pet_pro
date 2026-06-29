@@ -1,0 +1,21 @@
+{
+  "officeId": 610920,
+  "slug": "pet-project-inc-610920",
+  "name": "Pet Project, Inc.",
+  "address": "PO Box 370, Dickinson, ND 58602",
+  "street": "PO Box 370",
+  "addressCity": "Dickinson",
+  "stateCode": "ND",
+  "zip": "58602",
+  "phone": "701-483-1720",
+  "image": "./img/shelter/office/610920.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pet-project-inc-610920/",
+  "stateSlug": "north-dakota",
+  "stateName": "North Dakota",
+  "citySlug": "dickinson",
+  "cityName": "Dickinson",
+  "cityLabel": "Dickinson, ND",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/north-dakota/dickinson/",
+  "fetchedAt": "2026-06-27T19:42:17.875776+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/610920.jpg?f=webp&w=730"
+}

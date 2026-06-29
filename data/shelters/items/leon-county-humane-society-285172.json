@@ -1,0 +1,21 @@
+{
+  "officeId": 285172,
+  "slug": "leon-county-humane-society-285172",
+  "name": "Leon County Humane Society",
+  "address": "413 Timberlane Road, Tallahassee, FL 32312",
+  "street": "413 Timberlane Road",
+  "addressCity": "Tallahassee",
+  "stateCode": "FL",
+  "zip": "32312",
+  "phone": "850-224-9193",
+  "image": "./img/shelter/office/285172.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/leon-county-humane-society-285172/",
+  "stateSlug": "florida",
+  "stateName": "Florida",
+  "citySlug": "tallahassee",
+  "cityName": "Tallahassee",
+  "cityLabel": "Tallahassee, FL",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/florida/tallahassee/",
+  "fetchedAt": "2026-06-27T18:17:21.979942+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/285172.jpg?f=webp&w=730"
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:47:07.748258+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "mundelein",
+    "name": "Mundelein",
+    "label": "Mundelein, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/mundelein/",
+  "offices": [
+    {
+      "officeId": 674843,
+      "slug": "lake-county-animal-control-674843",
+      "name": "Lake County Animal Control",
+      "address": "29278 Illinois 83, Mundelein, IL 60060",
+      "phone": "847-949-9925",
+      "image": "https://cdn.findpawpal.com/office/674843.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/lake-county-animal-control-674843/"
+    }
+  ]
+}

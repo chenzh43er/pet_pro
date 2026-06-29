@@ -1,0 +1,21 @@
+{
+  "officeId": 414890,
+  "slug": "humane-society-414890",
+  "name": "Humane Society",
+  "address": "1473 Main Avenue, Clinton, IA 52732",
+  "street": "1473 Main Avenue",
+  "addressCity": "Clinton",
+  "stateCode": "IA",
+  "zip": "52732",
+  "phone": "563-242-2457",
+  "image": "./img/shelter/office/414890.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/humane-society-414890/",
+  "stateSlug": "iowa",
+  "stateName": "Iowa",
+  "citySlug": "clinton",
+  "cityName": "Clinton",
+  "cityLabel": "Clinton, IA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/iowa/clinton/",
+  "fetchedAt": "2026-06-27T18:52:55.028720+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/414890.jpg?f=webp&w=730"
+}

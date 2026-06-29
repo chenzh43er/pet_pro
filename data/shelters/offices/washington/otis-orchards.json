@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:18:33.787684+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "otis-orchards",
+    "name": "Otis Orchards",
+    "label": "Otis Orchards, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/otis-orchards/",
+  "offices": [
+    {
+      "officeId": 621432,
+      "slug": "pet-rescue-of-spokane-621432",
+      "name": "Pet Rescue of Spokane",
+      "address": "PO Box 924, Otis Orchards, WA 99027",
+      "phone": "509-534-6316",
+      "image": "./img/shelter/office/621432.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-rescue-of-spokane-621432/",
+      "imageUrl": "https://cdn.findpawpal.com/office/621432.jpg?f=webp&w=730"
+    }
+  ]
+}

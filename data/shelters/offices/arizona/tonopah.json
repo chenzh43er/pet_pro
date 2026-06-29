@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-06-27T18:21:09.943837+00:00",
+  "state": {
+    "slug": "arizona",
+    "name": "Arizona"
+  },
+  "city": {
+    "slug": "tonopah",
+    "name": "Tonopah",
+    "label": "Tonopah, AZ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arizona/tonopah/",
+  "offices": [
+    {
+      "slug": "new-dawn-livestock-rescue-168348",
+      "name": "New Dawn Livestock Rescue",
+      "address": "8909 North 387th Avenue, Tonopah, AZ 85354",
+      "phone": "602-550-3183",
+      "image": "https://cdn.findpawpal.com/office/168348.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/new-dawn-livestock-rescue-168348/"
+    }
+  ]
+}

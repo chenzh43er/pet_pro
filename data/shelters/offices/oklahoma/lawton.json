@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:48:48.390093+00:00",
+  "state": {
+    "slug": "oklahoma",
+    "name": "Oklahoma"
+  },
+  "city": {
+    "slug": "lawton",
+    "name": "Lawton",
+    "label": "Lawton, OK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oklahoma/lawton/",
+  "offices": [
+    {
+      "officeId": 569056,
+      "slug": "lawton-friends-of-animals-569056",
+      "name": "Lawton Friends of Animals",
+      "address": "181 Kiowa Place, Lawton, OK 73507",
+      "phone": "580-492-4337",
+      "image": "https://cdn.findpawpal.com/office/569056.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/lawton-friends-of-animals-569056/"
+    },
+    {
+      "officeId": 649063,
+      "slug": "lawton-animal-shelter-649063",
+      "name": "Lawton Animal Shelter",
+      "address": "2104 Southwest 6th Street, Lawton, OK 73501",
+      "phone": "580-581-3219",
+      "image": "./img/shelter/office/649063.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lawton-animal-shelter-649063/",
+      "imageUrl": "https://cdn.findpawpal.com/office/649063.jpg?f=webp&w=730"
+    }
+  ]
+}

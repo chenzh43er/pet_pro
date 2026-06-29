@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:59:43.564799+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "cookeville",
+    "name": "Cookeville",
+    "label": "Cookeville, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/cookeville/",
+  "offices": [
+    {
+      "officeId": 460723,
+      "slug": "cookeville-putnam-county-animal-shelter-460723",
+      "name": "Cookeville Putnam County Animal Shelter",
+      "address": "2105 West Jackson Street, Cookeville, TN 38501",
+      "phone": "931-526-3647",
+      "image": "./img/shelter/office/460723.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cookeville-putnam-county-animal-shelter-460723/",
+      "imageUrl": "https://cdn.findpawpal.com/office/460723.jpg?f=webp&w=730"
+    }
+  ]
+}

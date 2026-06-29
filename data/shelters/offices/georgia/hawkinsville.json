@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:40:09.948226+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "hawkinsville",
+    "name": "Hawkinsville",
+    "label": "Hawkinsville, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/hawkinsville/",
+  "offices": [
+    {
+      "officeId": 135376,
+      "slug": "pulaski-county-animal-control-135376",
+      "name": "Pulaski County Animal Control",
+      "address": "28 Bow Wow Ln, Hawkinsville, GA 31036",
+      "phone": "478-783-1212",
+      "image": "https://cdn.findpawpal.com/office/135376.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/pulaski-county-animal-control-135376/"
+    }
+  ]
+}

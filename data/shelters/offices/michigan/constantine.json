@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:10:04.688409+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "constantine",
+    "name": "Constantine",
+    "label": "Constantine, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/constantine/",
+  "offices": [
+    {
+      "officeId": 206694,
+      "slug": "animal-rescue-fund-206694",
+      "name": "Animal Rescue Fund",
+      "address": "20579 Roys Road, Constantine, MI 49042",
+      "phone": "616-279-6251",
+      "image": "https://cdn.findpawpal.com/office/206694.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-rescue-fund-206694/"
+    }
+  ]
+}

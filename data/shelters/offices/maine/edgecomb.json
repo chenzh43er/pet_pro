@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:01:30.284737+00:00",
+  "state": {
+    "slug": "maine",
+    "name": "Maine"
+  },
+  "city": {
+    "slug": "edgecomb",
+    "name": "Edgecomb",
+    "label": "Edgecomb, ME"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maine/edgecomb/",
+  "offices": [
+    {
+      "officeId": 338748,
+      "slug": "lincoln-county-animal-shelter-338748",
+      "name": "Lincoln County Animal Shelter",
+      "address": "27 Atlantic Highway, Edgecomb, ME 04556",
+      "phone": "207-882-9677",
+      "image": "./img/shelter/office/338748.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lincoln-county-animal-shelter-338748/",
+      "imageUrl": "https://cdn.findpawpal.com/office/338748.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 408764,
+      "slug": "lincoln-county-animal-shelter-408764",
+      "name": "Lincoln County Animal Shelter",
+      "address": "27 Atlantic Highway, Edgecomb, ME 04556",
+      "phone": "207-882-9677",
+      "image": "./img/shelter/office/408764.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lincoln-county-animal-shelter-408764/",
+      "imageUrl": "https://cdn.findpawpal.com/office/408764.jpg?f=webp&w=730"
+    }
+  ]
+}

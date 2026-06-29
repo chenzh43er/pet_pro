@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:36:40.921122+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "saugerties",
+    "name": "Saugerties",
+    "label": "Saugerties, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/saugerties/",
+  "offices": [
+    {
+      "officeId": 316268,
+      "slug": "catskill-animal-sanctuary-316268",
+      "name": "Catskill Animal Sanctuary",
+      "address": "316 Old Stage Road, Saugerties, NY 12477",
+      "phone": "845-336-8447",
+      "image": "./img/shelter/office/316268.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/catskill-animal-sanctuary-316268/",
+      "imageUrl": "https://cdn.findpawpal.com/office/316268.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 332436,
+      "slug": "saugerties-animal-shelter-332436",
+      "name": "Saugerties Animal Shelter",
+      "address": "216 Main Street, Saugerties, NY 12477",
+      "phone": "631-287-7383",
+      "image": "./img/shelter/office/332436.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/saugerties-animal-shelter-332436/",
+      "imageUrl": "https://cdn.findpawpal.com/office/332436.jpg?f=webp&w=730"
+    }
+  ]
+}

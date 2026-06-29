@@ -1,0 +1,21 @@
+{
+  "officeId": 40024,
+  "slug": "conour-slv-animal-shelter-40024",
+  "name": "Conour SLV Animal Shelter",
+  "address": "2825 Sherman Avenue, Monte Vista, CO 81144",
+  "street": "2825 Sherman Avenue",
+  "addressCity": "Monte Vista",
+  "stateCode": "CO",
+  "zip": "81144",
+  "phone": "719-852-3366",
+  "image": "./img/shelter/office/40024.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/conour-slv-animal-shelter-40024/",
+  "stateSlug": "colorado",
+  "stateName": "Colorado",
+  "citySlug": "monte-vista",
+  "cityName": "Monte Vista",
+  "cityLabel": "Monte Vista, CO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/colorado/monte-vista/",
+  "fetchedAt": "2026-06-27T18:34:48.474776+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/40024.jpg?f=webp&w=730"
+}

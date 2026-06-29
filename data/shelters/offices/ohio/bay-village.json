@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:42:53.823674+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "bay-village",
+    "name": "Bay Village",
+    "label": "Bay Village, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/bay-village/",
+  "offices": [
+    {
+      "officeId": 686540,
+      "slug": "bay-village-animal-control-686540",
+      "name": "Bay Village Animal Control",
+      "address": "27214 Wolf Road, Bay Village, OH 44140",
+      "phone": "216-871-1234",
+      "image": "./img/shelter/office/686540.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bay-village-animal-control-686540/",
+      "imageUrl": "https://cdn.findpawpal.com/office/686540.jpg?f=webp&w=730"
+    }
+  ]
+}

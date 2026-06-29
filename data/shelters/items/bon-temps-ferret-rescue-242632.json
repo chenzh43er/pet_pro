@@ -1,0 +1,21 @@
+{
+  "officeId": 242632,
+  "slug": "bon-temps-ferret-rescue-242632",
+  "name": "Bon Temps Ferret Rescue",
+  "address": "4203 Chataignier Road, Ville Platte, LA 70586",
+  "street": "4203 Chataignier Road",
+  "addressCity": "Ville Platte",
+  "stateCode": "LA",
+  "zip": "70586",
+  "phone": "337-207-2468",
+  "image": "./img/shelter/office/242632.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/bon-temps-ferret-rescue-242632/",
+  "stateSlug": "louisiana",
+  "stateName": "Louisiana",
+  "citySlug": "ville-platte",
+  "cityName": "Ville Platte",
+  "cityLabel": "Ville Platte, LA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/louisiana/ville-platte/",
+  "fetchedAt": "2026-06-27T19:00:54.437497+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/242632.jpg?f=webp&w=730"
+}

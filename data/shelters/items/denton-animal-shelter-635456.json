@@ -1,0 +1,21 @@
+{
+  "officeId": 635456,
+  "slug": "denton-animal-shelter-635456",
+  "name": "Denton Animal Shelter",
+  "address": "3717 North Elm Street, Denton, TX 76207",
+  "street": "3717 North Elm Street",
+  "addressCity": "Denton",
+  "stateCode": "TX",
+  "zip": "76207",
+  "phone": "940-349-7594",
+  "image": "./img/shelter/office/635456.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/denton-animal-shelter-635456/",
+  "stateSlug": "texas",
+  "stateName": "Texas",
+  "citySlug": "denton",
+  "cityName": "Denton",
+  "cityLabel": "Denton, TX",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/texas/denton/",
+  "fetchedAt": "2026-06-27T20:04:27.136783+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/635456.jpg?f=webp&w=730"
+}

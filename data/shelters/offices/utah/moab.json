@@ -1,0 +1,43 @@
+{
+  "fetchedAt": "2026-06-27T20:10:56.813443+00:00",
+  "state": {
+    "slug": "utah",
+    "name": "Utah"
+  },
+  "city": {
+    "slug": "moab",
+    "name": "Moab",
+    "label": "Moab, UT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/utah/moab/",
+  "offices": [
+    {
+      "officeId": 539087,
+      "slug": "pet-friends-539087",
+      "name": "Pet Friends",
+      "address": "PO Box 569, Moab, UT 84532",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/539087.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-friends-539087/"
+    },
+    {
+      "officeId": 635284,
+      "slug": "humane-society-of-moab-valley-635284",
+      "name": "Humane Society of Moab Valley",
+      "address": "PO Box 1188, Moab, UT 84532",
+      "phone": "435-259-4862",
+      "image": "https://cdn.findpawpal.com/office/635284.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-moab-valley-635284/"
+    },
+    {
+      "officeId": 635391,
+      "slug": "moab-animal-control-635391",
+      "name": "Moab Animal Control",
+      "address": "217 East Center Street, Moab, UT 84532",
+      "phone": "435-259-8938",
+      "image": "./img/shelter/office/635391.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/moab-animal-control-635391/",
+      "imageUrl": "https://cdn.findpawpal.com/office/635391.jpg?f=webp&w=730"
+    }
+  ]
+}

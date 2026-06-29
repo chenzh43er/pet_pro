@@ -1,0 +1,1838 @@
+{
+  "fetchedAt": "2026-06-27T17:48:19.087171+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York",
+    "offices": 398
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/",
+  "cities": [
+    {
+      "slug": "accord",
+      "name": "Accord",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/accord/"
+    },
+    {
+      "slug": "afton",
+      "name": "Afton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/afton/"
+    },
+    {
+      "slug": "albany",
+      "name": "Albany",
+      "offices": 6,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/albany/"
+    },
+    {
+      "slug": "albion",
+      "name": "Albion",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/albion/"
+    },
+    {
+      "slug": "alden",
+      "name": "Alden",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/alden/"
+    },
+    {
+      "slug": "alexandria-bay",
+      "name": "Alexandria Bay",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/alexandria-bay/"
+    },
+    {
+      "slug": "altamont",
+      "name": "Altamont",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/altamont/"
+    },
+    {
+      "slug": "amityville",
+      "name": "Amityville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/amityville/"
+    },
+    {
+      "slug": "amsterdam",
+      "name": "Amsterdam",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/amsterdam/"
+    },
+    {
+      "slug": "angola",
+      "name": "Angola",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/angola/"
+    },
+    {
+      "slug": "arlington",
+      "name": "Arlington",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/arlington/"
+    },
+    {
+      "slug": "armonk",
+      "name": "Armonk",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/armonk/"
+    },
+    {
+      "slug": "athens",
+      "name": "Athens",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/athens/"
+    },
+    {
+      "slug": "attica",
+      "name": "Attica",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/attica/"
+    },
+    {
+      "slug": "auburn",
+      "name": "Auburn",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/auburn/"
+    },
+    {
+      "slug": "avon",
+      "name": "Avon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/avon/"
+    },
+    {
+      "slug": "ballston-spa",
+      "name": "Ballston Spa",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/ballston-spa/"
+    },
+    {
+      "slug": "batavia",
+      "name": "Batavia",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/batavia/"
+    },
+    {
+      "slug": "bath",
+      "name": "Bath",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/bath/"
+    },
+    {
+      "slug": "bay-ridge",
+      "name": "Bay Ridge",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/bay-ridge/"
+    },
+    {
+      "slug": "bay-shore",
+      "name": "Bay Shore",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/bay-shore/"
+    },
+    {
+      "slug": "bayport",
+      "name": "Bayport",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/bayport/"
+    },
+    {
+      "slug": "beacon",
+      "name": "Beacon",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/beacon/"
+    },
+    {
+      "slug": "bellmore",
+      "name": "Bellmore",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/bellmore/"
+    },
+    {
+      "slug": "belmont",
+      "name": "Belmont",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/belmont/"
+    },
+    {
+      "slug": "bensonhurst",
+      "name": "Bensonhurst",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/bensonhurst/"
+    },
+    {
+      "slug": "binghamton",
+      "name": "Binghamton",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/binghamton/"
+    },
+    {
+      "slug": "brainardsville",
+      "name": "Brainardsville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/brainardsville/"
+    },
+    {
+      "slug": "branchport",
+      "name": "Branchport",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/branchport/"
+    },
+    {
+      "slug": "briarcliff-manor",
+      "name": "Briarcliff Manor",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/briarcliff-manor/"
+    },
+    {
+      "slug": "brighton-beach",
+      "name": "Brighton Beach",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/brighton-beach/"
+    },
+    {
+      "slug": "broadalbin",
+      "name": "Broadalbin",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/broadalbin/"
+    },
+    {
+      "slug": "bronx",
+      "name": "Bronx",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/bronx/"
+    },
+    {
+      "slug": "brooklyn",
+      "name": "Brooklyn",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/brooklyn/"
+    },
+    {
+      "slug": "brownsville",
+      "name": "Brownsville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/brownsville/"
+    },
+    {
+      "slug": "buffalo",
+      "name": "Buffalo",
+      "offices": 7,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/buffalo/"
+    },
+    {
+      "slug": "calverton",
+      "name": "Calverton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/calverton/"
+    },
+    {
+      "slug": "canaan",
+      "name": "Canaan",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/canaan/"
+    },
+    {
+      "slug": "canandaigua",
+      "name": "Canandaigua",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/canandaigua/"
+    },
+    {
+      "slug": "canastota",
+      "name": "Canastota",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/canastota/"
+    },
+    {
+      "slug": "carmel",
+      "name": "Carmel",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/carmel/"
+    },
+    {
+      "slug": "cassadaga",
+      "name": "Cassadaga",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/cassadaga/"
+    },
+    {
+      "slug": "castleton-on-hudson",
+      "name": "Castleton-on-Hudson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/castleton-on-hudson/"
+    },
+    {
+      "slug": "center-moriches",
+      "name": "Center Moriches",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/center-moriches/"
+    },
+    {
+      "slug": "chappaqua",
+      "name": "Chappaqua",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/chappaqua/"
+    },
+    {
+      "slug": "charleston",
+      "name": "Charleston",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/charleston/"
+    },
+    {
+      "slug": "chatham",
+      "name": "Chatham",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/chatham/"
+    },
+    {
+      "slug": "cheektowaga",
+      "name": "Cheektowaga",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/cheektowaga/"
+    },
+    {
+      "slug": "clay",
+      "name": "Clay",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/clay/"
+    },
+    {
+      "slug": "clinton",
+      "name": "Clinton",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/clinton/"
+    },
+    {
+      "slug": "cochecton",
+      "name": "Cochecton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/cochecton/"
+    },
+    {
+      "slug": "cold-spring",
+      "name": "Cold Spring",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/cold-spring/"
+    },
+    {
+      "slug": "conesus",
+      "name": "Conesus",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/conesus/"
+    },
+    {
+      "slug": "constantia",
+      "name": "Constantia",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/constantia/"
+    },
+    {
+      "slug": "cooperstown",
+      "name": "Cooperstown",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/cooperstown/"
+    },
+    {
+      "slug": "corinth",
+      "name": "Corinth",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/corinth/"
+    },
+    {
+      "slug": "corning",
+      "name": "Corning",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/corning/"
+    },
+    {
+      "slug": "cornwall-on-hudson",
+      "name": "Cornwall-on-Hudson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/cornwall-on-hudson/"
+    },
+    {
+      "slug": "cortland",
+      "name": "Cortland",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/cortland/"
+    },
+    {
+      "slug": "cuba",
+      "name": "Cuba",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/cuba/"
+    },
+    {
+      "slug": "deer-park",
+      "name": "Deer Park",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/deer-park/"
+    },
+    {
+      "slug": "delhi",
+      "name": "Delhi",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/delhi/"
+    },
+    {
+      "slug": "delmar",
+      "name": "Delmar",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/delmar/"
+    },
+    {
+      "slug": "dunkirk",
+      "name": "Dunkirk",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/dunkirk/"
+    },
+    {
+      "slug": "east-amherst",
+      "name": "East Amherst",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/east-amherst/"
+    },
+    {
+      "slug": "east-aurora",
+      "name": "East Aurora",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/east-aurora/"
+    },
+    {
+      "slug": "east-branch",
+      "name": "East Branch",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/east-branch/"
+    },
+    {
+      "slug": "east-concord",
+      "name": "East Concord",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/east-concord/"
+    },
+    {
+      "slug": "east-hampton",
+      "name": "East Hampton",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/east-hampton/"
+    },
+    {
+      "slug": "east-islip",
+      "name": "East Islip",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/east-islip/"
+    },
+    {
+      "slug": "east-meadow",
+      "name": "East Meadow",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/east-meadow/"
+    },
+    {
+      "slug": "east-northport",
+      "name": "East Northport",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/east-northport/"
+    },
+    {
+      "slug": "elizaville",
+      "name": "Elizaville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/elizaville/"
+    },
+    {
+      "slug": "elmira",
+      "name": "Elmira",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/elmira/"
+    },
+    {
+      "slug": "elmsford",
+      "name": "Elmsford",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/elmsford/"
+    },
+    {
+      "slug": "endicott",
+      "name": "Endicott",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/endicott/"
+    },
+    {
+      "slug": "endwell",
+      "name": "Endwell",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/endwell/"
+    },
+    {
+      "slug": "evans-mills",
+      "name": "Evans Mills",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/evans-mills/"
+    },
+    {
+      "slug": "fairport",
+      "name": "Fairport",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/fairport/"
+    },
+    {
+      "slug": "falconer",
+      "name": "Falconer",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/falconer/"
+    },
+    {
+      "slug": "farmingdale",
+      "name": "Farmingdale",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/farmingdale/"
+    },
+    {
+      "slug": "farmingville",
+      "name": "Farmingville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/farmingville/"
+    },
+    {
+      "slug": "fishkill",
+      "name": "Fishkill",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/fishkill/"
+    },
+    {
+      "slug": "flatlands",
+      "name": "Flatlands",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/flatlands/"
+    },
+    {
+      "slug": "flushing",
+      "name": "Flushing",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/flushing/"
+    },
+    {
+      "slug": "forest-hills",
+      "name": "Forest Hills",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/forest-hills/"
+    },
+    {
+      "slug": "franklin",
+      "name": "Franklin",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/franklin/"
+    },
+    {
+      "slug": "freeport",
+      "name": "Freeport",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/freeport/"
+    },
+    {
+      "slug": "gainesville",
+      "name": "Gainesville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/gainesville/"
+    },
+    {
+      "slug": "geneva",
+      "name": "Geneva",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/geneva/"
+    },
+    {
+      "slug": "glen-cove",
+      "name": "Glen Cove",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/glen-cove/"
+    },
+    {
+      "slug": "glen-wild",
+      "name": "Glen Wild",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/glen-wild/"
+    },
+    {
+      "slug": "glenfield",
+      "name": "Glenfield",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/glenfield/"
+    },
+    {
+      "slug": "gloversville",
+      "name": "Gloversville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/gloversville/"
+    },
+    {
+      "slug": "goshen",
+      "name": "Goshen",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/goshen/"
+    },
+    {
+      "slug": "granville",
+      "name": "Granville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/granville/"
+    },
+    {
+      "slug": "great-neck",
+      "name": "Great Neck",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/great-neck/"
+    },
+    {
+      "slug": "greenfield-center",
+      "name": "Greenfield Center",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/greenfield-center/"
+    },
+    {
+      "slug": "greenlawn",
+      "name": "Greenlawn",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/greenlawn/"
+    },
+    {
+      "slug": "greenvale",
+      "name": "Greenvale",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/greenvale/"
+    },
+    {
+      "slug": "greenwich",
+      "name": "Greenwich",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/greenwich/"
+    },
+    {
+      "slug": "halfmoon",
+      "name": "Halfmoon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/halfmoon/"
+    },
+    {
+      "slug": "hamburg",
+      "name": "Hamburg",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/hamburg/"
+    },
+    {
+      "slug": "hampton-bays",
+      "name": "Hampton Bays",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/hampton-bays/"
+    },
+    {
+      "slug": "harrison",
+      "name": "Harrison",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/harrison/"
+    },
+    {
+      "slug": "hilton",
+      "name": "Hilton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/hilton/"
+    },
+    {
+      "slug": "homer",
+      "name": "Homer",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/homer/"
+    },
+    {
+      "slug": "hornell",
+      "name": "Hornell",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/hornell/"
+    },
+    {
+      "slug": "horseheads",
+      "name": "Horseheads",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/horseheads/"
+    },
+    {
+      "slug": "howes-cave",
+      "name": "Howes Cave",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/howes-cave/"
+    },
+    {
+      "slug": "hudson",
+      "name": "Hudson",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/hudson/"
+    },
+    {
+      "slug": "huntington",
+      "name": "Huntington",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/huntington/"
+    },
+    {
+      "slug": "hyde-park",
+      "name": "Hyde Park",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/hyde-park/"
+    },
+    {
+      "slug": "island-park",
+      "name": "Island Park",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/island-park/"
+    },
+    {
+      "slug": "ithaca",
+      "name": "Ithaca",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/ithaca/"
+    },
+    {
+      "slug": "jamaica",
+      "name": "Jamaica",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/jamaica/"
+    },
+    {
+      "slug": "jamestown",
+      "name": "Jamestown",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/jamestown/"
+    },
+    {
+      "slug": "kauneonga-lake",
+      "name": "Kauneonga Lake",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/kauneonga-lake/"
+    },
+    {
+      "slug": "kenmore",
+      "name": "Kenmore",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/kenmore/"
+    },
+    {
+      "slug": "kensington",
+      "name": "Kensington",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/kensington/"
+    },
+    {
+      "slug": "kings-park",
+      "name": "Kings Park",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/kings-park/"
+    },
+    {
+      "slug": "kingston",
+      "name": "Kingston",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/kingston/"
+    },
+    {
+      "slug": "lake-george",
+      "name": "Lake George",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/lake-george/"
+    },
+    {
+      "slug": "lancaster",
+      "name": "Lancaster",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/lancaster/"
+    },
+    {
+      "slug": "latham",
+      "name": "Latham",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/latham/"
+    },
+    {
+      "slug": "levittown",
+      "name": "Levittown",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/levittown/"
+    },
+    {
+      "slug": "liberty",
+      "name": "Liberty",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/liberty/"
+    },
+    {
+      "slug": "lindenhurst",
+      "name": "Lindenhurst",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/lindenhurst/"
+    },
+    {
+      "slug": "lisle",
+      "name": "Lisle",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/lisle/"
+    },
+    {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/liverpool/"
+    },
+    {
+      "slug": "lockport",
+      "name": "Lockport",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/lockport/"
+    },
+    {
+      "slug": "long-beach",
+      "name": "Long Beach",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/long-beach/"
+    },
+    {
+      "slug": "malone",
+      "name": "Malone",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/malone/"
+    },
+    {
+      "slug": "mamaroneck",
+      "name": "Mamaroneck",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/mamaroneck/"
+    },
+    {
+      "slug": "manorville",
+      "name": "Manorville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/manorville/"
+    },
+    {
+      "slug": "maspeth",
+      "name": "Maspeth",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/maspeth/"
+    },
+    {
+      "slug": "massapequa-park",
+      "name": "Massapequa Park",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/massapequa-park/"
+    },
+    {
+      "slug": "massena",
+      "name": "Massena",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/massena/"
+    },
+    {
+      "slug": "mastic-beach",
+      "name": "Mastic Beach",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/mastic-beach/"
+    },
+    {
+      "slug": "maybrook",
+      "name": "Maybrook",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/maybrook/"
+    },
+    {
+      "slug": "mcdonough",
+      "name": "McDonough",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/mcdonough/"
+    },
+    {
+      "slug": "mechanicville",
+      "name": "Mechanicville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/mechanicville/"
+    },
+    {
+      "slug": "medina",
+      "name": "Medina",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/medina/"
+    },
+    {
+      "slug": "memphis",
+      "name": "Memphis",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/memphis/"
+    },
+    {
+      "slug": "menands",
+      "name": "Menands",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/menands/"
+    },
+    {
+      "slug": "merrick",
+      "name": "Merrick",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/merrick/"
+    },
+    {
+      "slug": "mexico",
+      "name": "Mexico",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/mexico/"
+    },
+    {
+      "slug": "middletown",
+      "name": "Middletown",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/middletown/"
+    },
+    {
+      "slug": "modena",
+      "name": "Modena",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/modena/"
+    },
+    {
+      "slug": "mohawk",
+      "name": "Mohawk",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/mohawk/"
+    },
+    {
+      "slug": "monroe",
+      "name": "Monroe",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/monroe/"
+    },
+    {
+      "slug": "montgomery",
+      "name": "Montgomery",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/montgomery/"
+    },
+    {
+      "slug": "montour-falls",
+      "name": "Montour Falls",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/montour-falls/"
+    },
+    {
+      "slug": "mount-vernon",
+      "name": "Mount Vernon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/mount-vernon/"
+    },
+    {
+      "slug": "naples",
+      "name": "Naples",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/naples/"
+    },
+    {
+      "slug": "nassau",
+      "name": "Nassau",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/nassau/"
+    },
+    {
+      "slug": "new-hartford",
+      "name": "New Hartford",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/new-hartford/"
+    },
+    {
+      "slug": "new-rochelle",
+      "name": "New Rochelle",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/new-rochelle/"
+    },
+    {
+      "slug": "new-york",
+      "name": "New York",
+      "offices": 27,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/new-york/"
+    },
+    {
+      "slug": "newark-valley",
+      "name": "Newark Valley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/newark-valley/"
+    },
+    {
+      "slug": "newburgh",
+      "name": "Newburgh",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/newburgh/"
+    },
+    {
+      "slug": "newfane",
+      "name": "Newfane",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/newfane/"
+    },
+    {
+      "slug": "niagara-falls",
+      "name": "Niagara Falls",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/niagara-falls/"
+    },
+    {
+      "slug": "north-boston",
+      "name": "North Boston",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/north-boston/"
+    },
+    {
+      "slug": "north-branch",
+      "name": "North Branch",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/north-branch/"
+    },
+    {
+      "slug": "north-collins",
+      "name": "North Collins",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/north-collins/"
+    },
+    {
+      "slug": "north-syracuse",
+      "name": "North Syracuse",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/north-syracuse/"
+    },
+    {
+      "slug": "northport",
+      "name": "Northport",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/northport/"
+    },
+    {
+      "slug": "norwich",
+      "name": "Norwich",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/norwich/"
+    },
+    {
+      "slug": "ogdensburg",
+      "name": "Ogdensburg",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/ogdensburg/"
+    },
+    {
+      "slug": "old-bethpage",
+      "name": "Old Bethpage",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/old-bethpage/"
+    },
+    {
+      "slug": "olean",
+      "name": "Olean",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/olean/"
+    },
+    {
+      "slug": "oneonta",
+      "name": "Oneonta",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/oneonta/"
+    },
+    {
+      "slug": "ossining",
+      "name": "Ossining",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/ossining/"
+    },
+    {
+      "slug": "oswego",
+      "name": "Oswego",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/oswego/"
+    },
+    {
+      "slug": "oyster-bay",
+      "name": "Oyster Bay",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/oyster-bay/"
+    },
+    {
+      "slug": "ozone-park",
+      "name": "Ozone Park",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/ozone-park/"
+    },
+    {
+      "slug": "palmyra",
+      "name": "Palmyra",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/palmyra/"
+    },
+    {
+      "slug": "park-slope",
+      "name": "Park Slope",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/park-slope/"
+    },
+    {
+      "slug": "patchogue",
+      "name": "Patchogue",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/patchogue/"
+    },
+    {
+      "slug": "patterson",
+      "name": "Patterson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/patterson/"
+    },
+    {
+      "slug": "peconic",
+      "name": "Peconic",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/peconic/"
+    },
+    {
+      "slug": "peekskill",
+      "name": "Peekskill",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/peekskill/"
+    },
+    {
+      "slug": "penn-yan",
+      "name": "Penn Yan",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/penn-yan/"
+    },
+    {
+      "slug": "perry",
+      "name": "Perry",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/perry/"
+    },
+    {
+      "slug": "peru",
+      "name": "Peru",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/peru/"
+    },
+    {
+      "slug": "petersburg",
+      "name": "Petersburg",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/petersburg/"
+    },
+    {
+      "slug": "pine-bush",
+      "name": "Pine Bush",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/pine-bush/"
+    },
+    {
+      "slug": "pittsford",
+      "name": "Pittsford",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/pittsford/"
+    },
+    {
+      "slug": "plainview",
+      "name": "Plainview",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/plainview/"
+    },
+    {
+      "slug": "plattsburgh",
+      "name": "Plattsburgh",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/plattsburgh/"
+    },
+    {
+      "slug": "pomona",
+      "name": "Pomona",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/pomona/"
+    },
+    {
+      "slug": "port-jefferson-station",
+      "name": "Port Jefferson Station",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/port-jefferson-station/"
+    },
+    {
+      "slug": "port-jervis",
+      "name": "Port Jervis",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/port-jervis/"
+    },
+    {
+      "slug": "port-washington",
+      "name": "Port Washington",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/port-washington/"
+    },
+    {
+      "slug": "porter-corners",
+      "name": "Porter Corners",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/porter-corners/"
+    },
+    {
+      "slug": "potsdam",
+      "name": "Potsdam",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/potsdam/"
+    },
+    {
+      "slug": "poughkeepsie",
+      "name": "Poughkeepsie",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/poughkeepsie/"
+    },
+    {
+      "slug": "poughquag",
+      "name": "Poughquag",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/poughquag/"
+    },
+    {
+      "slug": "queensbury",
+      "name": "Queensbury",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/queensbury/"
+    },
+    {
+      "slug": "rego-park",
+      "name": "Rego Park",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/rego-park/"
+    },
+    {
+      "slug": "richland",
+      "name": "Richland",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/richland/"
+    },
+    {
+      "slug": "ridge",
+      "name": "Ridge",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/ridge/"
+    },
+    {
+      "slug": "ridgewood",
+      "name": "Ridgewood",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/ridgewood/"
+    },
+    {
+      "slug": "rochester",
+      "name": "Rochester",
+      "offices": 10,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/rochester/"
+    },
+    {
+      "slug": "rock-hill",
+      "name": "Rock Hill",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/rock-hill/"
+    },
+    {
+      "slug": "rockville-centre",
+      "name": "Rockville Centre",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/rockville-centre/"
+    },
+    {
+      "slug": "rome",
+      "name": "Rome",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/rome/"
+    },
+    {
+      "slug": "roslyn-heights",
+      "name": "Roslyn Heights",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/roslyn-heights/"
+    },
+    {
+      "slug": "rye",
+      "name": "Rye",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/rye/"
+    },
+    {
+      "slug": "saranac-lake",
+      "name": "Saranac Lake",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/saranac-lake/"
+    },
+    {
+      "slug": "saratoga-springs",
+      "name": "Saratoga Springs",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/saratoga-springs/"
+    },
+    {
+      "slug": "saugerties",
+      "name": "Saugerties",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/saugerties/"
+    },
+    {
+      "slug": "sayville",
+      "name": "Sayville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/sayville/"
+    },
+    {
+      "slug": "schenectady",
+      "name": "Schenectady",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/schenectady/"
+    },
+    {
+      "slug": "scottsville",
+      "name": "Scottsville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/scottsville/"
+    },
+    {
+      "slug": "selden",
+      "name": "Selden",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/selden/"
+    },
+    {
+      "slug": "seneca-falls",
+      "name": "Seneca Falls",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/seneca-falls/"
+    },
+    {
+      "slug": "shelter-island",
+      "name": "Shelter Island",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/shelter-island/"
+    },
+    {
+      "slug": "sidney",
+      "name": "Sidney",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/sidney/"
+    },
+    {
+      "slug": "slingerlands",
+      "name": "Slingerlands",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/slingerlands/"
+    },
+    {
+      "slug": "smithtown",
+      "name": "Smithtown",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/smithtown/"
+    },
+    {
+      "slug": "southampton",
+      "name": "Southampton",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/southampton/"
+    },
+    {
+      "slug": "southold",
+      "name": "Southold",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/southold/"
+    },
+    {
+      "slug": "spencer",
+      "name": "Spencer",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/spencer/"
+    },
+    {
+      "slug": "sprakers",
+      "name": "Sprakers",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/sprakers/"
+    },
+    {
+      "slug": "staten-island",
+      "name": "Staten Island",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/staten-island/"
+    },
+    {
+      "slug": "stephentown",
+      "name": "Stephentown",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/stephentown/"
+    },
+    {
+      "slug": "stone-ridge",
+      "name": "Stone Ridge",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/stone-ridge/"
+    },
+    {
+      "slug": "suffern",
+      "name": "Suffern",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/suffern/"
+    },
+    {
+      "slug": "syosset",
+      "name": "Syosset",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/syosset/"
+    },
+    {
+      "slug": "syracuse",
+      "name": "Syracuse",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/syracuse/"
+    },
+    {
+      "slug": "tonawanda",
+      "name": "Tonawanda",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/tonawanda/"
+    },
+    {
+      "slug": "university-at-buffalo",
+      "name": "University at Buffalo",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/university-at-buffalo/"
+    },
+    {
+      "slug": "utica",
+      "name": "Utica",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/utica/"
+    },
+    {
+      "slug": "vails-gate",
+      "name": "Vails Gate",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/vails-gate/"
+    },
+    {
+      "slug": "valley-stream",
+      "name": "Valley Stream",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/valley-stream/"
+    },
+    {
+      "slug": "victor",
+      "name": "Victor",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/victor/"
+    },
+    {
+      "slug": "walden",
+      "name": "Walden",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/walden/"
+    },
+    {
+      "slug": "walton",
+      "name": "Walton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/walton/"
+    },
+    {
+      "slug": "wantagh",
+      "name": "Wantagh",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/wantagh/"
+    },
+    {
+      "slug": "wappingers-falls",
+      "name": "Wappingers Falls",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/wappingers-falls/"
+    },
+    {
+      "slug": "warwick",
+      "name": "Warwick",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/warwick/"
+    },
+    {
+      "slug": "washingtonville",
+      "name": "Washingtonville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/washingtonville/"
+    },
+    {
+      "slug": "waterloo",
+      "name": "Waterloo",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/waterloo/"
+    },
+    {
+      "slug": "watertown",
+      "name": "Watertown",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/watertown/"
+    },
+    {
+      "slug": "watkins-glen",
+      "name": "Watkins Glen",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/watkins-glen/"
+    },
+    {
+      "slug": "waverly",
+      "name": "Waverly",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/waverly/"
+    },
+    {
+      "slug": "webster",
+      "name": "Webster",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/webster/"
+    },
+    {
+      "slug": "weedsport",
+      "name": "Weedsport",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/weedsport/"
+    },
+    {
+      "slug": "wellsville",
+      "name": "Wellsville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/wellsville/"
+    },
+    {
+      "slug": "west-babylon",
+      "name": "West Babylon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/west-babylon/"
+    },
+    {
+      "slug": "west-hurley",
+      "name": "West Hurley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/west-hurley/"
+    },
+    {
+      "slug": "westport",
+      "name": "Westport",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/westport/"
+    },
+    {
+      "slug": "white-plains",
+      "name": "White Plains",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/white-plains/"
+    },
+    {
+      "slug": "williamsburg",
+      "name": "Williamsburg",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/williamsburg/"
+    },
+    {
+      "slug": "wilton",
+      "name": "Wilton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/wilton/"
+    },
+    {
+      "slug": "woodhull",
+      "name": "Woodhull",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/woodhull/"
+    },
+    {
+      "slug": "woodstock",
+      "name": "Woodstock",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/woodstock/"
+    },
+    {
+      "slug": "yonkers",
+      "name": "Yonkers",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/yonkers/"
+    },
+    {
+      "slug": "york",
+      "name": "York",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/york/"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:15:53.215582+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "murdock",
+    "name": "Murdock",
+    "label": "Murdock, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/murdock/",
+  "offices": [
+    {
+      "slug": "gulf-coast-golden-retriever-rescue-271103",
+      "name": "Gulf Coast Golden Retriever Rescue",
+      "address": "PO Box 380894, Murdock, FL 33938",
+      "phone": "941-380-8633",
+      "image": "./img/shelter/office/271103.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gulf-coast-golden-retriever-rescue-271103/",
+      "imageUrl": "https://cdn.findpawpal.com/office/271103.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 415110,
+  "slug": "paw-animal-shelter-415110",
+  "name": "PAW Animal Shelter",
+  "address": "2031 48th Street, Fort Madison, IA 52627",
+  "street": "2031 48th Street",
+  "addressCity": "Fort Madison",
+  "stateCode": "IA",
+  "zip": "52627",
+  "phone": "319-372-2274",
+  "image": "./img/shelter/office/415110.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/paw-animal-shelter-415110/",
+  "stateSlug": "iowa",
+  "stateName": "Iowa",
+  "citySlug": "fort-madison",
+  "cityName": "Fort Madison",
+  "cityLabel": "Fort Madison, IA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/iowa/fort-madison/",
+  "fetchedAt": "2026-06-27T18:53:15.540506+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/415110.jpg?f=webp&w=730"
+}

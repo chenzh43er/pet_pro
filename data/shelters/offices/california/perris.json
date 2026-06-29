@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:29:11.565039+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "perris",
+    "name": "Perris",
+    "label": "Perris, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/perris/",
+  "offices": [
+    {
+      "officeId": 384723,
+      "slug": "perris-animal-control-384723",
+      "name": "Perris Animal Control",
+      "address": "1015 South G Street, Perris, CA 92570",
+      "phone": "951-657-4134",
+      "image": "./img/shelter/office/384723.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/perris-animal-control-384723/",
+      "imageUrl": "https://cdn.findpawpal.com/office/384723.jpg?f=webp&w=730"
+    }
+  ]
+}

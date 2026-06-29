@@ -1,0 +1,21 @@
+{
+  "officeId": 5038,
+  "slug": "burlington-animal-shelter-5038",
+  "name": "Burlington Animal Shelter",
+  "address": "PO Box 207, Burlington, KS 66839",
+  "street": "PO Box 207",
+  "addressCity": "Burlington",
+  "stateCode": "KS",
+  "zip": "66839",
+  "phone": "620-364-8785",
+  "image": "./img/shelter/office/5038.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/burlington-animal-shelter-5038/",
+  "stateSlug": "kansas",
+  "stateName": "Kansas",
+  "citySlug": "burlington",
+  "cityName": "Burlington",
+  "cityLabel": "Burlington, KS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kansas/burlington/",
+  "fetchedAt": "2026-06-27T18:54:42.531061+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/5038.jpg?f=webp&w=730"
+}

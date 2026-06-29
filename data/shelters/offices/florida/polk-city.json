@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:16:41.848369+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "polk-city",
+    "name": "Polk City",
+    "label": "Polk City, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/polk-city/",
+  "offices": [
+    {
+      "slug": "a-place-for-animals-sanctuary-and-rescue-inc-293173",
+      "name": "A Place for Animals Sanctuary and Rescue Inc .",
+      "address": "6845 Fussell Road, Polk City, FL 33868",
+      "phone": "863-984-6428",
+      "image": "./img/shelter/office/293173.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/a-place-for-animals-sanctuary-and-rescue-inc-293173/",
+      "imageUrl": "https://cdn.findpawpal.com/office/293173.jpg?f=webp&w=730"
+    }
+  ]
+}

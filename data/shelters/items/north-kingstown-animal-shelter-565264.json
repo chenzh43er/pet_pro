@@ -1,0 +1,21 @@
+{
+  "officeId": 565264,
+  "slug": "north-kingstown-animal-shelter-565264",
+  "name": "North Kingstown Animal Shelter",
+  "address": "395 Hamilton Allenton Road, North Kingstown, RI 02852",
+  "street": "395 Hamilton Allenton Road",
+  "addressCity": "North Kingstown",
+  "stateCode": "RI",
+  "zip": "02852",
+  "phone": "401-295-5579",
+  "image": "./img/shelter/office/565264.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/north-kingstown-animal-shelter-565264/",
+  "stateSlug": "rhode-island",
+  "stateName": "Rhode Island",
+  "citySlug": "north-kingstown",
+  "cityName": "North Kingstown",
+  "cityLabel": "North Kingstown, RI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/rhode-island/north-kingstown/",
+  "fetchedAt": "2026-06-27T19:56:17.389801+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/565264.jpg?f=webp&w=730"
+}

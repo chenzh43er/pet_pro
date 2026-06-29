@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:37:09.737754+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "syracuse",
+    "name": "Syracuse",
+    "label": "Syracuse, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/syracuse/",
+  "offices": [
+    {
+      "officeId": 312424,
+      "slug": "pug-rescue-of-central-new-york-inc-312424",
+      "name": "Pug Rescue of Central New York, Inc.",
+      "address": "105 Center Street, Syracuse, NY 13209",
+      "phone": "315-485-2500",
+      "image": "./img/shelter/office/312424.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pug-rescue-of-central-new-york-inc-312424/",
+      "imageUrl": "https://cdn.findpawpal.com/office/312424.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 330076,
+      "slug": "animal-control-center-syracuse-330076",
+      "name": "Animal Control Center Syracuse",
+      "address": "412 Spencer Street, Syracuse, NY 13204",
+      "phone": "315-454-8672",
+      "image": "./img/shelter/office/330076.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-control-center-syracuse-330076/",
+      "imageUrl": "https://cdn.findpawpal.com/office/330076.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 438261,
+      "slug": "cny-spca-438261",
+      "name": "Cny Spca",
+      "address": "5878 East Molloy Road, Syracuse, NY 13211",
+      "phone": "315-454-4479",
+      "image": "./img/shelter/office/438261.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cny-spca-438261/",
+      "imageUrl": "https://cdn.findpawpal.com/office/438261.jpg?f=webp&w=730"
+    }
+  ]
+}

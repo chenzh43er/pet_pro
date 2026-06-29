@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:43:10.750584+00:00",
+  "state": {
+    "slug": "idaho",
+    "name": "Idaho"
+  },
+  "city": {
+    "slug": "kellogg",
+    "name": "Kellogg",
+    "label": "Kellogg, ID"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/idaho/kellogg/",
+  "offices": [
+    {
+      "officeId": 438504,
+      "slug": "shoshone-humane-society-438504",
+      "name": "Shoshone Humane Society",
+      "address": "PO Box 1005, Kellogg, ID 83837",
+      "phone": "208-786-1911",
+      "image": "./img/shelter/office/438504.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/shoshone-humane-society-438504/",
+      "imageUrl": "https://cdn.findpawpal.com/office/438504.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 449603,
+      "slug": "city-of-kellogg-animal-shelter-449603",
+      "name": "City of Kellogg Animal Shelter",
+      "address": "323 Main Street, Kellogg, ID 83837",
+      "phone": "208-784-1131",
+      "image": "./img/shelter/office/449603.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/city-of-kellogg-animal-shelter-449603/",
+      "imageUrl": "https://cdn.findpawpal.com/office/449603.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:17:53.661420+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "winter-haven",
+    "name": "Winter Haven",
+    "label": "Winter Haven, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/winter-haven/",
+  "offices": [
+    {
+      "slug": "polk-county-animal-control-285041",
+      "name": "Polk County Animal Control",
+      "address": "7115 De Castro Road, Winter Haven, FL 33880",
+      "phone": "863-499-2600",
+      "image": "./img/shelter/office/285041.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/polk-county-animal-control-285041/",
+      "imageUrl": "https://cdn.findpawpal.com/office/285041.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-polk-county-285051",
+      "name": "Humane Society of Polk County",
+      "address": "3195 Dundee Road, Winter Haven, FL 33884",
+      "phone": "863-324-5227",
+      "image": "./img/shelter/office/285051.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-polk-county-285051/",
+      "imageUrl": "https://cdn.findpawpal.com/office/285051.jpg?f=webp&w=730"
+    }
+  ]
+}

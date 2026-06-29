@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:57:21.848630+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "jackson",
+    "name": "Jackson",
+    "label": "Jackson, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/jackson/",
+  "offices": [
+    {
+      "officeId": 110553,
+      "slug": "jackson-animal-control-110553",
+      "name": "Jackson Animal Control",
+      "address": "1137 Main Street, Jackson, KY 41339",
+      "phone": "606-666-3812",
+      "image": "./img/shelter/office/110553.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/jackson-animal-control-110553/",
+      "imageUrl": "https://cdn.findpawpal.com/office/110553.jpg?f=webp&w=730"
+    }
+  ]
+}

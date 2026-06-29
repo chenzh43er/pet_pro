@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T19:13:36.799574+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "barrett",
+    "name": "Barrett",
+    "label": "Barrett, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/barrett/",
+  "offices": [
+    {
+      "officeId": 594035,
+      "slug": "brighter-future-animal-rescue-594035",
+      "name": "Brighter Future Animal Rescue",
+      "address": "14696 205th St, Barrett, MN 56311",
+      "phone": "320-815-7033",
+      "image": "https://cdn.findpawpal.com/office/594035.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/brighter-future-animal-rescue-594035/"
+    },
+    {
+      "officeId": 676297,
+      "slug": "for-birds-only-refuge-676297",
+      "name": "For Birds Only Refuge",
+      "address": "Rt 1, Box 27, Barrett, MN 56311",
+      "phone": "320-528-2558",
+      "image": "https://cdn.findpawpal.com/office/676297.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/for-birds-only-refuge-676297/"
+    }
+  ]
+}

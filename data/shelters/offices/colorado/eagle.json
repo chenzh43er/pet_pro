@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:34:04.703547+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "eagle",
+    "name": "Eagle",
+    "label": "Eagle, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/eagle/",
+  "offices": [
+    {
+      "officeId": 40042,
+      "slug": "eagle-valley-humane-society-40042",
+      "name": "Eagle Valley Humane Society",
+      "address": "65 Market Street, Eagle, CO 81631",
+      "phone": "970-328-7387",
+      "image": "./img/shelter/office/40042.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/eagle-valley-humane-society-40042/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40042.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 664680,
+  "slug": "paws-of-grays-harbor-664680",
+  "name": "Paws of Grays Harbor",
+  "address": "800 West 1st Street, Aberdeen, WA 98520",
+  "street": "800 West 1st Street",
+  "addressCity": "Aberdeen",
+  "stateCode": "WA",
+  "zip": "98520",
+  "phone": "360-533-1141",
+  "image": "./img/shelter/office/664680.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/paws-of-grays-harbor-664680/",
+  "stateSlug": "washington",
+  "stateName": "Washington",
+  "citySlug": "aberdeen",
+  "cityName": "Aberdeen",
+  "cityLabel": "Aberdeen, WA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/washington/aberdeen/",
+  "fetchedAt": "2026-06-27T20:17:05.906154+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/664680.jpg?f=webp&w=730"
+}

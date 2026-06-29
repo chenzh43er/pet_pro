@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T20:24:35.956993+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "waupaca",
+    "name": "Waupaca",
+    "label": "Waupaca, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/waupaca/",
+  "offices": [
+    {
+      "officeId": 490304,
+      "slug": "humane-society-of-waupaca-county-490304",
+      "name": "Humane Society of Waupaca County",
+      "address": "PO Box 145, Waupaca, WI 54981",
+      "phone": "715-258-2545",
+      "image": "https://cdn.findpawpal.com/office/490304.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-waupaca-county-490304/"
+    },
+    {
+      "officeId": 701738,
+      "slug": "help-shelter-dog-rescue-701738",
+      "name": "Help Shelter Dog Rescue",
+      "address": "E2011 King Road, Waupaca, WI 54981",
+      "phone": "715-258-6929",
+      "image": "https://cdn.findpawpal.com/office/701738.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/help-shelter-dog-rescue-701738/"
+    }
+  ]
+}

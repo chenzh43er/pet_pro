@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:29:30.258578+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "rancho-cordova",
+    "name": "Rancho Cordova",
+    "label": "Rancho Cordova, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/rancho-cordova/",
+  "offices": [
+    {
+      "slug": "rancho-cordova-animal-control-391703",
+      "name": "Rancho Cordova Animal Control",
+      "address": "3121 Gold Canal Drive, Rancho Cordova, CA 95670",
+      "phone": "916-851-8852",
+      "image": "./img/shelter/office/391703.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rancho-cordova-animal-control-391703/",
+      "imageUrl": "https://cdn.findpawpal.com/office/391703.jpg?f=webp&w=730"
+    }
+  ]
+}

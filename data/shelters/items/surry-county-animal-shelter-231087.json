@@ -1,0 +1,21 @@
+{
+  "officeId": 231087,
+  "slug": "surry-county-animal-shelter-231087",
+  "name": "Surry County Animal Shelter",
+  "address": "172 County Home Road, Dobson, NC 27017",
+  "street": "172 County Home Road",
+  "addressCity": "Dobson",
+  "stateCode": "NC",
+  "zip": "27017",
+  "phone": "336-401-8481",
+  "image": "./img/shelter/office/231087.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/surry-county-animal-shelter-231087/",
+  "stateSlug": "north-carolina",
+  "stateName": "North Carolina",
+  "citySlug": "dobson",
+  "cityName": "Dobson",
+  "cityLabel": "Dobson, NC",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/north-carolina/dobson/",
+  "fetchedAt": "2026-06-27T19:39:00.733683+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/231087.jpg?f=webp&w=730"
+}

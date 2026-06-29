@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:42:28.136497+00:00",
+  "state": {
+    "slug": "north-dakota",
+    "name": "North Dakota"
+  },
+  "city": {
+    "slug": "new-town",
+    "name": "New Town",
+    "label": "New Town, ND"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-dakota/new-town/",
+  "offices": [
+    {
+      "officeId": 720627,
+      "slug": "new-town-animal-control-720627",
+      "name": "New Town Animal Control",
+      "address": "325 Main Street, New Town, ND 58763",
+      "phone": "701-627-2654",
+      "image": "https://cdn.findpawpal.com/office/720627.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/new-town-animal-control-720627/"
+    }
+  ]
+}

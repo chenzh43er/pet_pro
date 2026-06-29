@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:29:18.527070+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "tuckerton",
+    "name": "Tuckerton",
+    "label": "Tuckerton, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/tuckerton/",
+  "offices": [
+    {
+      "officeId": 100914,
+      "slug": "little-egg-harbor-animal-rescue-100914",
+      "name": "Little Egg Harbor Animal Rescue",
+      "address": "PO Box 235, Tuckerton, NJ 08087",
+      "phone": "609-294-1667",
+      "image": "https://cdn.findpawpal.com/office/100914.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/little-egg-harbor-animal-rescue-100914/"
+    }
+  ]
+}

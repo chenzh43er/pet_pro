@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:42:13.218551+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "youngsville",
+    "name": "Youngsville",
+    "label": "Youngsville, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/youngsville/",
+  "offices": [
+    {
+      "officeId": 231983,
+      "slug": "spca-of-franklin-county-231983",
+      "name": "SPCA of Franklin County",
+      "address": "1614 Youngsville Boulevard South, Youngsville, NC 27596",
+      "phone": "919-556-0954",
+      "image": "./img/shelter/office/231983.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/spca-of-franklin-county-231983/",
+      "imageUrl": "https://cdn.findpawpal.com/office/231983.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 240631,
+      "slug": "heaven-and-earth-animal-rescue-team-240631",
+      "name": "Heaven and Earth Animal Rescue Team",
+      "address": "PO Box 867, Youngsville, NC 27596",
+      "phone": "",
+      "image": "./img/shelter/office/240631.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/heaven-and-earth-animal-rescue-team-240631/",
+      "imageUrl": "https://cdn.findpawpal.com/office/240631.jpg?f=webp&w=730"
+    }
+  ]
+}

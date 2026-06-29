@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:37:56.187146+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "albemarle",
+    "name": "Albemarle",
+    "label": "Albemarle, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/albemarle/",
+  "offices": [
+    {
+      "officeId": 228244,
+      "slug": "stanly-county-animal-control-228244",
+      "name": "Stanly County Animal Control",
+      "address": "1037 Coble Avenue, Albemarle, NC 28001",
+      "phone": "704-986-3881",
+      "image": "https://cdn.findpawpal.com/office/228244.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/stanly-county-animal-control-228244/"
+    },
+    {
+      "officeId": 241053,
+      "slug": "stanley-county-animal-rescue-league-241053",
+      "name": "Stanley County Animal Rescue League",
+      "address": "PO Box 1676, Albemarle, NC 28002",
+      "phone": "",
+      "image": "./img/shelter/office/241053.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/stanley-county-animal-rescue-league-241053/",
+      "imageUrl": "https://cdn.findpawpal.com/office/241053.jpg?f=webp&w=730"
+    }
+  ]
+}

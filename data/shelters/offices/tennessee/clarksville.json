@@ -1,0 +1,75 @@
+{
+  "fetchedAt": "2026-06-27T19:59:35.922266+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "clarksville",
+    "name": "Clarksville",
+    "label": "Clarksville, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/clarksville/",
+  "offices": [
+    {
+      "officeId": 418585,
+      "slug": "montgomery-county-animal-control-418585",
+      "name": "Montgomery County Animal Control",
+      "address": "616 North Spring Street, Clarksville, TN 37040",
+      "phone": "931-648-5750",
+      "image": "./img/shelter/office/418585.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/montgomery-county-animal-control-418585/",
+      "imageUrl": "https://cdn.findpawpal.com/office/418585.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 437515,
+      "slug": "love-at-first-sight-nursery-adoption-center-437515",
+      "name": "Love at First Sight Nursery Adoption Center",
+      "address": "1567 Fort Campbell Boulevard, Clarksville, TN 37042",
+      "phone": "931-645-9890",
+      "image": "./img/shelter/office/437515.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/love-at-first-sight-nursery-adoption-center-437515/",
+      "imageUrl": "https://cdn.findpawpal.com/office/437515.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 451816,
+      "slug": "precious-friends-puppy-rescue-and-adoption-program-451816",
+      "name": "Precious Friends Puppy Rescue & Adoption Program",
+      "address": "110 Red River Street, Clarksville, TN 37040",
+      "phone": "931-551-4407",
+      "image": "./img/shelter/office/451816.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/precious-friends-puppy-rescue-and-adoption-program-451816/",
+      "imageUrl": "https://cdn.findpawpal.com/office/451816.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 573439,
+      "slug": "humane-society-of-clarksville-montgomery-co-573439",
+      "name": "Humane Society of Clarksville-Montgomery Co.",
+      "address": "940 Tennessee Avenue, Clarksville, TN 37040",
+      "phone": "931-648-8042",
+      "image": "./img/shelter/office/573439.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-clarksville-montgomery-co-573439/",
+      "imageUrl": "https://cdn.findpawpal.com/office/573439.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 580811,
+      "slug": "cats-are-us-580811",
+      "name": "Cats Are US",
+      "address": "119 Providence Boulevard, Clarksville, TN 37042",
+      "phone": "931-503-0053",
+      "image": "./img/shelter/office/580811.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cats-are-us-580811/",
+      "imageUrl": "https://cdn.findpawpal.com/office/580811.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 636352,
+      "slug": "montgomery-county-animal-shelter-636352",
+      "name": "Montgomery County Animal Shelter",
+      "address": "PO Box 368, Clarksville, TN 37041",
+      "phone": "615-648-5750",
+      "image": "./img/shelter/office/636352.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/montgomery-county-animal-shelter-636352/",
+      "imageUrl": "https://cdn.findpawpal.com/office/636352.jpg?f=webp&w=730"
+    }
+  ]
+}

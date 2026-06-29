@@ -1,0 +1,74 @@
+{
+  "fetchedAt": "2026-06-27T19:08:25.866399+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "springfield",
+    "name": "Springfield",
+    "label": "Springfield, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/springfield/",
+  "offices": [
+    {
+      "officeId": 40119,
+      "slug": "western-massachusettes-lost-pet-and-adoption-webpage-40119",
+      "name": "Western Massachusettes Lost Pet and Adoption Webpage",
+      "address": "146 Bowdoin Street, Springfield, MA 01109",
+      "phone": "",
+      "image": "./img/shelter/office/40119.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/western-massachusettes-lost-pet-and-adoption-webpage-40119/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40119.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40136,
+      "slug": "western-new-england-animal-care-and-adoption-center-40136",
+      "name": "Western New England Animal Care and Adoption Center",
+      "address": "171 Union Street, Springfield, MA 01105",
+      "phone": "413-736-2992",
+      "image": "./img/shelter/office/40136.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/western-new-england-animal-care-and-adoption-center-40136/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40136.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40972,
+      "slug": "dog-adoption-network-40972",
+      "name": "Dog Adoption Network",
+      "address": "1367 Parker Street, Springfield, MA 01129",
+      "phone": "413-783-2642",
+      "image": "./img/shelter/office/40972.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dog-adoption-network-40972/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40972.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 41094,
+      "slug": "springfield-animal-control-41094",
+      "name": "Springfield Animal Control",
+      "address": "627 Cottage Street, Springfield, MA 01104",
+      "phone": "413-781-1484",
+      "image": "./img/shelter/office/41094.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/springfield-animal-control-41094/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41094.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 41239,
+      "slug": "springfield-animal-control-41239",
+      "name": "Springfield Animal Control",
+      "address": "171 Union Street, Springfield, MA 01105",
+      "phone": "413-785-1221",
+      "image": "./img/shelter/office/41239.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/springfield-animal-control-41239/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41239.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 43287,
+      "slug": "house-rabbit-connection-inc-43287",
+      "name": "House Rabbit Connection, Inc.",
+      "address": "PO Box 83, Springfield, MA 01101",
+      "phone": "413-525-9222",
+      "image": "https://cdn.findpawpal.com/office/43287.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/house-rabbit-connection-inc-43287/"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T19:00:05.216996+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "lake-charles",
+    "name": "Lake Charles",
+    "label": "Lake Charles, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/lake-charles/",
+  "offices": [
+    {
+      "officeId": 223408,
+      "slug": "lake-area-partnerships-for-animal-welfare-223408",
+      "name": "Lake Area Partnerships for Animal Welfare",
+      "address": "PO Box 4964, Lake Charles, LA 70606",
+      "phone": "337-478-7294",
+      "image": "./img/shelter/office/223408.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lake-area-partnerships-for-animal-welfare-223408/",
+      "imageUrl": "https://cdn.findpawpal.com/office/223408.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 225513,
+      "slug": "lake-charles-pit-bull-rescue-225513",
+      "name": "Lake Charles Pit Bull Rescue",
+      "address": "712 Live Oak Street, Lake Charles, LA 70601",
+      "phone": "713-854-1895",
+      "image": "./img/shelter/office/225513.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lake-charles-pit-bull-rescue-225513/",
+      "imageUrl": "https://cdn.findpawpal.com/office/225513.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 256821,
+      "slug": "bels-no-kill-animal-shelter-256821",
+      "name": "Bel's No Kill Animal Shelter",
+      "address": "630 East School Street, Lake Charles, LA 70607",
+      "phone": "337-480-0069",
+      "image": "./img/shelter/office/256821.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bels-no-kill-animal-shelter-256821/",
+      "imageUrl": "https://cdn.findpawpal.com/office/256821.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 256829,
+      "slug": "calcasieu-parish-animal-control-and-protection-department-256829",
+      "name": "Calcasieu Parish Animal Control & Protection Department",
+      "address": "5500 Swift Plant Road, Lake Charles, LA 70615",
+      "phone": "337-439-8879",
+      "image": "./img/shelter/office/256829.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/calcasieu-parish-animal-control-and-protection-department-256829/",
+      "imageUrl": "https://cdn.findpawpal.com/office/256829.jpg?f=webp&w=730"
+    }
+  ]
+}

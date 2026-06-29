@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:27:22.145743+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "lompoc",
+    "name": "Lompoc",
+    "label": "Lompoc, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/lompoc/",
+  "offices": [
+    {
+      "slug": "companion-animal-placement-assistance-534982",
+      "name": "Companion Animal Placement Assistance",
+      "address": "1501 West Central Avenue, Lompoc, CA 93436",
+      "phone": "805-737-7754",
+      "image": "./img/shelter/office/534982.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/companion-animal-placement-assistance-534982/",
+      "imageUrl": "https://cdn.findpawpal.com/office/534982.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lompoc-animal-shelter-668809",
+      "name": "Lompoc Animal Shelter",
+      "address": "110 South L Street, Lompoc, CA 93436",
+      "phone": "805-742-0414",
+      "image": "./img/shelter/office/668809.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lompoc-animal-shelter-668809/",
+      "imageUrl": "https://cdn.findpawpal.com/office/668809.jpg?f=webp&w=730"
+    }
+  ]
+}

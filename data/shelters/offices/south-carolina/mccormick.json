@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:57:51.205703+00:00",
+  "state": {
+    "slug": "south-carolina",
+    "name": "South Carolina"
+  },
+  "city": {
+    "slug": "mccormick",
+    "name": "McCormick",
+    "label": "McCormick, SC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-carolina/mccormick/",
+  "offices": [
+    {
+      "officeId": 582010,
+      "slug": "humane-society-of-mccormick-county-inc-582010",
+      "name": "Humane Society of Mccormick County, Inc.",
+      "address": "PO Box 900, McCormick, SC 29835",
+      "phone": "864-391-5414",
+      "image": "https://cdn.findpawpal.com/office/582010.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-mccormick-county-inc-582010/"
+    }
+  ]
+}

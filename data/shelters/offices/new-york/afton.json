@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:31:21.219718+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "afton",
+    "name": "Afton",
+    "label": "Afton, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/afton/",
+  "offices": [
+    {
+      "officeId": 331974,
+      "slug": "tuffys-place-feline-sanctuary-inc-331974",
+      "name": "Tuffy's Place Feline Sanctuary, Inc.",
+      "address": "PO Box 32, Afton, NY 13730",
+      "phone": "607-639-2340",
+      "image": "https://cdn.findpawpal.com/office/331974.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/tuffys-place-feline-sanctuary-inc-331974/"
+    }
+  ]
+}

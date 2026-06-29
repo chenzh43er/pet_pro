@@ -1,0 +1,21 @@
+{
+  "officeId": 5902,
+  "slug": "arkansas-city-animal-control-5902",
+  "name": "Arkansas City Animal Control",
+  "address": "1603 South M Street, Arkansas, KS 67005",
+  "street": "1603 South M Street",
+  "addressCity": "Arkansas",
+  "stateCode": "KS",
+  "zip": "67005",
+  "phone": "620-441-4448",
+  "image": "./img/shelter/office/5902.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/arkansas-city-animal-control-5902/",
+  "stateSlug": "kansas",
+  "stateName": "Kansas",
+  "citySlug": "arkansas",
+  "cityName": "Arkansas",
+  "cityLabel": "Arkansas, KS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kansas/arkansas/",
+  "fetchedAt": "2026-06-27T18:54:35.204868+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/5902.jpg?f=webp&w=730"
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:52:56.497508+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa"
+  },
+  "city": {
+    "slug": "coralville",
+    "name": "Coralville",
+    "label": "Coralville, IA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/coralville/",
+  "offices": [
+    {
+      "officeId": 342974,
+      "slug": "coralville-city-animal-control-342974",
+      "name": "Coralville City Animal Control",
+      "address": "1503 5th Street, Coralville, IA 52241",
+      "phone": "319-248-1823",
+      "image": "./img/shelter/office/342974.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/coralville-city-animal-control-342974/",
+      "imageUrl": "https://cdn.findpawpal.com/office/342974.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 416149,
+      "slug": "adopt-a-friend-animal-sanctuary-416149",
+      "name": "Adopt-A-Friend Animal Sanctuary",
+      "address": "817 20th Avenue, Coralville, IA 52241",
+      "phone": "575-792-7387",
+      "image": "./img/shelter/office/416149.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/adopt-a-friend-animal-sanctuary-416149/",
+      "imageUrl": "https://cdn.findpawpal.com/office/416149.jpg?f=webp&w=730"
+    }
+  ]
+}

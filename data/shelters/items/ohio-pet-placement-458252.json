@@ -1,0 +1,21 @@
+{
+  "officeId": 458252,
+  "slug": "ohio-pet-placement-458252",
+  "name": "Ohio Pet Placement",
+  "address": "2555 North Ridge Road, Elyria, OH 44035",
+  "street": "2555 North Ridge Road",
+  "addressCity": "Elyria",
+  "stateCode": "OH",
+  "zip": "44035",
+  "phone": "440-277-7400",
+  "image": "./img/shelter/office/458252.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/ohio-pet-placement-458252/",
+  "stateSlug": "ohio",
+  "stateName": "Ohio",
+  "citySlug": "elyria",
+  "cityName": "Elyria",
+  "cityLabel": "Elyria, OH",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/ohio/elyria/",
+  "fetchedAt": "2026-06-27T19:44:14.673061+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/458252.jpg?f=webp&w=730"
+}

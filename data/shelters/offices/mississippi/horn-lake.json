@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:16:31.480136+00:00",
+  "state": {
+    "slug": "mississippi",
+    "name": "Mississippi"
+  },
+  "city": {
+    "slug": "horn-lake",
+    "name": "Horn Lake",
+    "label": "Horn Lake, MS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/mississippi/horn-lake/",
+  "offices": [
+    {
+      "officeId": 103848,
+      "slug": "desoto-animal-rescue-society-103848",
+      "name": "Desoto Animal Rescue Society",
+      "address": "PO Box 316, Horn Lake, MS 38637",
+      "phone": "662-342-9448",
+      "image": "./img/shelter/office/103848.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/desoto-animal-rescue-society-103848/",
+      "imageUrl": "https://cdn.findpawpal.com/office/103848.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 104072,
+      "slug": "tri-county-animal-control-104072",
+      "name": "Tri-County Animal Control",
+      "address": "6345 Lynnfield Road, Horn Lake, MS 38637",
+      "phone": "662-393-7529",
+      "image": "./img/shelter/office/104072.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tri-county-animal-control-104072/",
+      "imageUrl": "https://cdn.findpawpal.com/office/104072.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 115975,
+      "slug": "city-of-horn-lake-animal-shelter-115975",
+      "name": "City of Horn Lake Animal Shelter",
+      "address": "6410 Center Street East, Horn Lake, MS 38637",
+      "phone": "662-393-5857",
+      "image": "./img/shelter/office/115975.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/city-of-horn-lake-animal-shelter-115975/",
+      "imageUrl": "https://cdn.findpawpal.com/office/115975.jpg?f=webp&w=730"
+    }
+  ]
+}

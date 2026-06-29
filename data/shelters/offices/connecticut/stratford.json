@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T18:37:28.776351+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "stratford",
+    "name": "Stratford",
+    "label": "Stratford, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/stratford/",
+  "offices": [
+    {
+      "officeId": 147783,
+      "slug": "brandees-bunch-147783",
+      "name": "Brandee's Bunch",
+      "address": "306 Lordship Road, Stratford, CT 06615",
+      "phone": "203-767-1150",
+      "image": "./img/shelter/office/147783.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/brandees-bunch-147783/",
+      "imageUrl": "https://cdn.findpawpal.com/office/147783.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 156556,
+      "slug": "animal-angels-rescue-foundation-inc-156556",
+      "name": "Animal Angels Rescue Foundation, Inc.",
+      "address": "PO Box 1223, Stratford, CT 06615",
+      "phone": "203-378-4158",
+      "image": "https://cdn.findpawpal.com/office/156556.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-angels-rescue-foundation-inc-156556/"
+    },
+    {
+      "officeId": 160447,
+      "slug": "stratford-animal-control-160447",
+      "name": "Stratford Animal Control",
+      "address": "225 Beacon Point Road, Stratford, CT 06615",
+      "phone": "203-385-4068",
+      "image": "./img/shelter/office/160447.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/stratford-animal-control-160447/",
+      "imageUrl": "https://cdn.findpawpal.com/office/160447.jpg?f=webp&w=730"
+    }
+  ]
+}

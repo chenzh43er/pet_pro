@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T19:37:51.791100+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "yonkers",
+    "name": "Yonkers",
+    "label": "Yonkers, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/yonkers/",
+  "offices": [
+    {
+      "officeId": 313134,
+      "slug": "a-cause-for-paws-313134",
+      "name": "A Cause for PAWS",
+      "address": "96 Halstead Avenue, Yonkers, NY 10704",
+      "phone": "917-658-7912",
+      "image": "./img/shelter/office/313134.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/a-cause-for-paws-313134/",
+      "imageUrl": "https://cdn.findpawpal.com/office/313134.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 330576,
+      "slug": "just-strays-inc-330576",
+      "name": "Just Strays, Inc.",
+      "address": "PO Box 334, Yonkers, NY 10710",
+      "phone": "",
+      "image": "./img/shelter/office/330576.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/just-strays-inc-330576/",
+      "imageUrl": "https://cdn.findpawpal.com/office/330576.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 333529,
+      "slug": "friends-of-the-yonkers-animal-shelter-333529",
+      "name": "Friends of the Yonkers Animal Shelter",
+      "address": "PO Box 1038, Yonkers, NY 10704",
+      "phone": "914-924-0708",
+      "image": "./img/shelter/office/333529.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-the-yonkers-animal-shelter-333529/",
+      "imageUrl": "https://cdn.findpawpal.com/office/333529.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 333584,
+      "slug": "yonkers-animal-shelter-333584",
+      "name": "Yonkers Animal Shelter",
+      "address": "120 Fullerton Avenue, Yonkers, NY 10704",
+      "phone": "914-377-6730",
+      "image": "./img/shelter/office/333584.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/yonkers-animal-shelter-333584/",
+      "imageUrl": "https://cdn.findpawpal.com/office/333584.jpg?f=webp&w=730"
+    }
+  ]
+}

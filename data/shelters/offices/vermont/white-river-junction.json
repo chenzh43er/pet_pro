@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:12:22.395884+00:00",
+  "state": {
+    "slug": "vermont",
+    "name": "Vermont"
+  },
+  "city": {
+    "slug": "white-river-junction",
+    "name": "White River Junction",
+    "label": "White River Junction, VT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/vermont/white-river-junction/",
+  "offices": [
+    {
+      "officeId": 723299,
+      "slug": "green-mountain-humane-society-723299",
+      "name": "Green Mountain Humane Society",
+      "address": ", White River Junction, VT 05001",
+      "phone": "802-296-7297",
+      "image": "./img/shelter/office/723299.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/green-mountain-humane-society-723299/",
+      "imageUrl": "https://cdn.findpawpal.com/office/723299.jpg?f=webp&w=730"
+    }
+  ]
+}

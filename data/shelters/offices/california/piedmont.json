@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:29:14.676000+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "piedmont",
+    "name": "Piedmont",
+    "label": "Piedmont, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/piedmont/",
+  "offices": [
+    {
+      "slug": "piedmont-animal-control-367420",
+      "name": "Piedmont Animal Control",
+      "address": "403 Highland Avenue, Piedmont, CA 94611",
+      "phone": "510-420-3006",
+      "image": "./img/shelter/office/367420.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/piedmont-animal-control-367420/",
+      "imageUrl": "https://cdn.findpawpal.com/office/367420.jpg?f=webp&w=730"
+    }
+  ]
+}

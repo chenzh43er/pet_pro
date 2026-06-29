@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T18:55:42.462228+00:00",
+  "state": {
+    "slug": "kansas",
+    "name": "Kansas"
+  },
+  "city": {
+    "slug": "olathe",
+    "name": "Olathe",
+    "label": "Olathe, KS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kansas/olathe/",
+  "offices": [
+    {
+      "officeId": 5236,
+      "slug": "humane-society-of-the-heartland-5236",
+      "name": "Humane Society of the Heartland",
+      "address": "PO Box 3466, Olathe, KS 66063",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/5236.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-the-heartland-5236/"
+    },
+    {
+      "officeId": 5528,
+      "slug": "german-wirehaired-pointer-rescue-inc-5528",
+      "name": "German Wirehaired Pointer Rescue, Inc",
+      "address": "1408 East Salem Lane, Olathe, KS 66062",
+      "phone": "913-602-9124",
+      "image": "./img/shelter/office/5528.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/german-wirehaired-pointer-rescue-inc-5528/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5528.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 5791,
+      "slug": "olathe-city-animal-control-5791",
+      "name": "Olathe City Animal Control",
+      "address": "505 E Sunvale Dr, Olathe, KS 66061",
+      "phone": "913-971-6362",
+      "image": "./img/shelter/office/5791.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/olathe-city-animal-control-5791/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5791.jpg?f=webp&w=730"
+    }
+  ]
+}

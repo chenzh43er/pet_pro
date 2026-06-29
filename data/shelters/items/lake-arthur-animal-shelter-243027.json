@@ -1,0 +1,21 @@
+{
+  "officeId": 243027,
+  "slug": "lake-arthur-animal-shelter-243027",
+  "name": "Lake Arthur Animal Shelter",
+  "address": "PO Box AK, Lake Arthur, LA 70549",
+  "street": "PO Box AK",
+  "addressCity": "Lake Arthur",
+  "stateCode": "LA",
+  "zip": "70549",
+  "phone": "318-774-2211",
+  "image": "./img/shelter/office/243027.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/lake-arthur-animal-shelter-243027/",
+  "stateSlug": "louisiana",
+  "stateName": "Louisiana",
+  "citySlug": "lake-arthur",
+  "cityName": "Lake Arthur",
+  "cityLabel": "Lake Arthur, LA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/louisiana/lake-arthur/",
+  "fetchedAt": "2026-06-27T19:00:03.727063+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/243027.jpg?f=webp&w=730"
+}

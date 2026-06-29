@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:24:13.526425+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "berkeley",
+    "name": "Berkeley",
+    "label": "Berkeley, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/berkeley/",
+  "offices": [
+    {
+      "officeId": 368707,
+      "slug": "small-breed-rescue-368707",
+      "name": "Small Breed Rescue",
+      "address": "2335 5th Street, Berkeley, CA 94710",
+      "phone": "510-843-1569",
+      "image": "./img/shelter/office/368707.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/small-breed-rescue-368707/",
+      "imageUrl": "https://cdn.findpawpal.com/office/368707.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 382773,
+      "slug": "berkeley-east-bay-humane-society-382773",
+      "name": "Berkeley East Bay Humane Society",
+      "address": "2700 9th Street, Berkeley, CA 94710",
+      "phone": "510-845-3633",
+      "image": "./img/shelter/office/382773.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/berkeley-east-bay-humane-society-382773/",
+      "imageUrl": "https://cdn.findpawpal.com/office/382773.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 383783,
+      "slug": "city-of-berkeley-animal-care-services-383783",
+      "name": "City of Berkeley: Animal Care Services",
+      "address": "1 Bolivar Drive, Berkeley, CA 94710",
+      "phone": "510-981-6600",
+      "image": "./img/shelter/office/383783.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/city-of-berkeley-animal-care-services-383783/",
+      "imageUrl": "https://cdn.findpawpal.com/office/383783.jpg?f=webp&w=730"
+    }
+  ]
+}

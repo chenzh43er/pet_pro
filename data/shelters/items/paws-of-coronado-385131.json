@@ -1,0 +1,21 @@
+{
+  "officeId": 385131,
+  "slug": "paws-of-coronado-385131",
+  "name": "PAWS of Coronado",
+  "address": "1395 1st Street, Coronado, CA 92118",
+  "street": "1395 1st Street",
+  "addressCity": "Coronado",
+  "stateCode": "CA",
+  "zip": "92118",
+  "phone": "619-435-8247",
+  "image": "./img/shelter/office/385131.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/paws-of-coronado-385131/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "coronado",
+  "cityName": "Coronado",
+  "cityLabel": "Coronado, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/coronado/",
+  "fetchedAt": "2026-06-27T18:25:08.272408+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/385131.jpg?f=webp&w=730"
+}

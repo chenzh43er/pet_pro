@@ -1,0 +1,1077 @@
+{
+  "stateSlug": "new-mexico",
+  "count": 153,
+  "shelters": [
+    {
+      "slug": "alamogordo-animal-shelter-278984",
+      "name": "Alamogordo Animal Shelter",
+      "address": "2910 North Florida Avenue, Alamogordo, NM 88310",
+      "phone": "505-439-4330",
+      "image": "https://cdn.findpawpal.com/office/278984.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alamogordo-rare-breeds-327361",
+      "name": "Alamogordo Rare Breeds",
+      "address": "161 La Luz Gate Road, Alamogordo, NM 88310",
+      "phone": "505-439-1689",
+      "image": "https://cdn.findpawpal.com/office/327361.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-mission-inc-262331",
+      "name": "Animal Rescue Mission, Inc.",
+      "address": "19 Acoma Avenue, Alamogordo, NM 88310",
+      "phone": "505-443-1613",
+      "image": "https://cdn.findpawpal.com/office/262331.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "otero-county-animal-control-278991",
+      "name": "Otero County Animal Control",
+      "address": "3208 North White Sands Boulevard, Alamogordo, NM 88310",
+      "phone": "505-437-2210",
+      "image": "https://cdn.findpawpal.com/office/278991.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "otero-county-animal-shelter-339736",
+      "name": "Otero County Animal Shelter",
+      "address": "601 Wright Avenue, Alamogordo, NM 88310",
+      "phone": "575-434-2959",
+      "image": "https://cdn.findpawpal.com/office/339736.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "a-place-for-us-greyhound-rescue-259420",
+      "name": "A Place for Us Greyhound Rescue",
+      "address": "1905 Gun Club Road Southwest, Albuquerque, NM 87105",
+      "phone": "505-873-1729",
+      "image": "https://cdn.findpawpal.com/office/259420.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "albuquerque-animal-care-center-339458",
+      "name": "Albuquerque Animal Care Center",
+      "address": "8920 Lomas Boulevard Northeast, Albuquerque, NM 87112",
+      "phone": "505-764-1140",
+      "image": "https://cdn.findpawpal.com/office/339458.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "albuquerque-cat-action-team-275399",
+      "name": "Albuquerque Cat Action Team",
+      "address": "PO Box 51683, Albuquerque, NM 87181",
+      "phone": "505-323-2228",
+      "image": "https://cdn.findpawpal.com/office/275399.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-humane-new-mexico-278133",
+      "name": "Animal Humane New Mexico",
+      "address": "615 Virginia Street Southeast, Albuquerque, NM 87108",
+      "phone": "505-255-5523",
+      "image": "https://cdn.findpawpal.com/office/278133.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-shelter-339450",
+      "name": "Animal Shelter",
+      "address": "114 Central Avenue Southwest, Albuquerque, NM 87102",
+      "phone": "505-768-1981",
+      "image": "https://cdn.findpawpal.com/office/339450.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-welfare-foundation-336178",
+      "name": "Animal Welfare Foundation",
+      "address": "5005 College Street Northwest, Albuquerque, NM 87120",
+      "phone": "505-839-7030",
+      "image": "https://cdn.findpawpal.com/office/336178.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bernalillo-county-animal-care-336365",
+      "name": "Bernalillo County Animal Care",
+      "address": "1136 Gatewood Avenue Southwest, Albuquerque, NM 87105",
+      "phone": "505-314-0280",
+      "image": "https://cdn.findpawpal.com/office/336365.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "central-new-mexico-brittany-club-rescue-279254",
+      "name": "Central New Mexico Brittany Club Rescue",
+      "address": "1051 Sunset Road Southwest, Albuquerque, NM 87105",
+      "phone": "505-281-3545",
+      "image": "https://cdn.findpawpal.com/office/279254.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-albuquerque-336372",
+      "name": "City of Albuquerque",
+      "address": "11800 Sunset Gardens Road Southwest, Albuquerque, NM 87121",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/336372.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dalmatian-rescue-of-new-mexico-310299",
+      "name": "Dalmatian Rescue of New Mexico",
+      "address": "9012 Camino Del Sol Northeast, Albuquerque, NM 87111",
+      "phone": "505-857-0012",
+      "image": "https://cdn.findpawpal.com/office/310299.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "doberman-rescue-of-new-mexico-261469",
+      "name": "Doberman Rescue of New Mexico",
+      "address": "PO Box 10027, Albuquerque, NM 87184",
+      "phone": "505-710-8400",
+      "image": "https://cdn.findpawpal.com/office/261469.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greyhound-companions-of-new-mexico-337653",
+      "name": "Greyhound Companions of New Mexico",
+      "address": "PO Box 22053, Albuquerque, NM 87154",
+      "phone": "505-281-7295",
+      "image": "https://cdn.findpawpal.com/office/337653.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "high-desert-ferret-rescue-274320",
+      "name": "High Desert Ferret Rescue",
+      "address": "329 Moon Street Northeast, Albuquerque, NM 87123",
+      "phone": "505-298-2997",
+      "image": "https://cdn.findpawpal.com/office/274320.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "justice-great-dane-rescue-261355",
+      "name": "Justice Great Dane Rescue",
+      "address": "6804 Paese Place Northwest, Albuquerque, NM 87114",
+      "phone": "505-899-9542",
+      "image": "https://cdn.findpawpal.com/office/261355.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "los-lunas-village-animal-control-262640",
+      "name": "Los Lunas Village Animal Control",
+      "address": "839 Main Street Northwest, Albuquerque, NM 87104",
+      "phone": "505-839-3847",
+      "image": "https://cdn.findpawpal.com/office/262640.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "luvin-labs-334391",
+      "name": "Luvin' Labs",
+      "address": "PO Box 52212, Albuquerque, NM 87181",
+      "phone": "505-362-0331",
+      "image": "https://cdn.findpawpal.com/office/334391.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-mexico-animal-friends-326041",
+      "name": "New Mexico Animal Friends",
+      "address": "2917 Carlisle Boulevard Northeast, Albuquerque, NM 87110",
+      "phone": "505-881-7297",
+      "image": "https://cdn.findpawpal.com/office/326041.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-mexico-federation-of-animal-care-control-and-welfare-agencies-334407",
+      "name": "New Mexico Federation of Animal Care Control and Welfare Agencies",
+      "address": "1109 Luthy Circle Northeast, Albuquerque, NM 87112",
+      "phone": "505-294-8358",
+      "image": "https://cdn.findpawpal.com/office/334407.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-mexico-ferret-shelter-and-rescue-334448",
+      "name": "New Mexico Ferret Shelter & Rescue",
+      "address": "2730 Morningside Drive Northeast, Albuquerque, NM 87110",
+      "phone": "505-837-2003",
+      "image": "https://cdn.findpawpal.com/office/334448.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-mexico-independent-border-collie-rescue-326060",
+      "name": "New Mexico Independent Border Collie Rescue",
+      "address": "3805 Manchester Drive Northwest, Albuquerque, NM 87107",
+      "phone": "505-410-6647",
+      "image": "https://cdn.findpawpal.com/office/326060.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "peoples-anti-cruelty-association-334463",
+      "name": "People's Anti-Cruelty Association",
+      "address": "PO Box 21280, Albuquerque, NM 87154",
+      "phone": "505-255-0544",
+      "image": "https://cdn.findpawpal.com/office/334463.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-rescue-online-278102",
+      "name": "Pet Rescue Online",
+      "address": "PO Box 8888, Albuquerque, NM 87198",
+      "phone": "505-833-5025",
+      "image": "https://cdn.findpawpal.com/office/278102.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pets-are-wonderful-support-334531",
+      "name": "Pets Are Wonderful Support",
+      "address": "4200 Silver Avenue Southeast, Albuquerque, NM 87108",
+      "phone": "505-266-0911",
+      "image": "https://cdn.findpawpal.com/office/334531.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "siberian-husky-rescue-of-new-mexico-261444",
+      "name": "Siberian Husky Rescue of New Mexico",
+      "address": "12408 View Court Northeast, Albuquerque, NM 87112",
+      "phone": "505-323-8908",
+      "image": "https://cdn.findpawpal.com/office/261444.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "village-of-los-ranchos-animal-control-258457",
+      "name": "Village of Los Ranchos Animal Control",
+      "address": "11800 Sunset Gardens Road Southwest, Albuquerque, NM 87121",
+      "phone": "505-344-6582",
+      "image": "https://cdn.findpawpal.com/office/258457.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "working-together-for-equines-inc-308490",
+      "name": "Working Together for Equines, Inc.",
+      "address": "PO Box 1102, Albuquerque, NM 87103",
+      "phone": "505-345-7550",
+      "image": "https://cdn.findpawpal.com/office/308490.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chihuahuan-desert-wildlife-rescue-261614",
+      "name": "Chihuahuan Desert Wildlife Rescue",
+      "address": "PO Box 2627, Anthony, NM 88021",
+      "phone": "505-882-2910",
+      "image": "https://cdn.findpawpal.com/office/261614.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "puppy-dog-ranch-rescue-and-sanctuary-334968",
+      "name": "Puppy Dog Ranch Rescue and Sanctuary",
+      "address": "27 Twin Sister Creek Road, Arenas Valley, NM 88022",
+      "phone": "575-313-7232",
+      "image": "https://cdn.findpawpal.com/office/334968.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "artesia-animal-control-309012",
+      "name": "Artesia Animal Control",
+      "address": "702 West Chisum Avenue, Artesia, NM 88210",
+      "phone": "575-746-5000",
+      "image": "https://cdn.findpawpal.com/office/309012.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-and-claws-humane-society-309992",
+      "name": "PAWS & Claws Humane Society",
+      "address": "706 West Quay Avenue, Artesia, NM 88210",
+      "phone": "505-748-1276",
+      "image": "https://cdn.findpawpal.com/office/309992.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "aztec-animal-shelter-262464",
+      "name": "Aztec Animal Shelter",
+      "address": "825 Sabena Street, Aztec, NM 87410",
+      "phone": "505-334-6819",
+      "image": "https://cdn.findpawpal.com/office/262464.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "san-juan-county-animal-control-282286",
+      "name": "San Juan County Animal Control",
+      "address": "211 South Oliver Drive, Aztec, NM 87410",
+      "phone": "505-334-6622",
+      "image": "https://cdn.findpawpal.com/office/282286.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bayard-animal-control-258713",
+      "name": "Bayard Animal Control",
+      "address": "PO Box 788, Bayard, NM 88023",
+      "phone": "505-537-3312",
+      "image": "https://cdn.findpawpal.com/office/258713.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "belen-animal-control-278847",
+      "name": "Belen Animal Control",
+      "address": "607 Becker Avenue, Belen, NM 87002",
+      "phone": "505-864-4403",
+      "image": "https://cdn.findpawpal.com/office/278847.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bomear-equine-rescue-and-rehabilitation-center-inc-275114",
+      "name": "Bomear Equine Rescue and Rehabilitation Center, Inc.",
+      "address": "PO Box 1038, Belen, NM 87002",
+      "phone": "505-861-0659",
+      "image": "https://cdn.findpawpal.com/office/275114.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bernalillo-city-animal-control-278617",
+      "name": "Bernalillo City Animal Control",
+      "address": "PO Box 638, Bernalillo, NM 87004",
+      "phone": "505-867-2304",
+      "image": "https://cdn.findpawpal.com/office/278617.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sandoval-county-animal-control-261986",
+      "name": "Sandoval County Animal Control",
+      "address": "PO Box 40, Bernalillo, NM 87004",
+      "phone": "505-867-0245",
+      "image": "https://cdn.findpawpal.com/office/261986.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bloomfield-animal-shelter-and-sheriffs-department-279154",
+      "name": "Bloomfield Animal Shelter & Sheriff's Department",
+      "address": "915 North 1st Street, Bloomfield, NM 87413",
+      "phone": "505-632-6311",
+      "image": "https://cdn.findpawpal.com/office/279154.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "carlsbad-animal-control-327442",
+      "name": "Carlsbad Animal Control",
+      "address": "602 West Mermod Street, Carlsbad, NM 88220",
+      "phone": "575-885-2111",
+      "image": "https://cdn.findpawpal.com/office/327442.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "carlsbad-humane-society-338187",
+      "name": "Carlsbad Humane Society",
+      "address": "PO Box 1318, Carlsbad, NM 88221",
+      "phone": "505-885-4051",
+      "image": "https://cdn.findpawpal.com/office/338187.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "eddy-county-animal-control-309004",
+      "name": "Eddy County Animal Control",
+      "address": "102 North Canal Street, Carlsbad, NM 88220",
+      "phone": "505-887-7551",
+      "image": "https://cdn.findpawpal.com/office/309004.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ferrets-first-of-new-mexico-338195",
+      "name": "Ferrets First of New Mexico",
+      "address": "1413 Bryan Circle, Carlsbad, NM 88220",
+      "phone": "505-885-3567",
+      "image": "https://cdn.findpawpal.com/office/338195.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "noahs-ark-animal-refuge-inc-281363",
+      "name": "Noah's Ark Animal Refuge, Inc.",
+      "address": "3417 Ferguson Road, Carlsbad, NM 88220",
+      "phone": "505-236-6414",
+      "image": "https://cdn.findpawpal.com/office/281363.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "noahs-ark-animal-shelter-309986",
+      "name": "Noah's Ark Animal Shelter",
+      "address": "5217 Buena Vista Drive, Carlsbad, NM 88220",
+      "phone": "575-885-5769",
+      "image": "https://cdn.findpawpal.com/office/309986.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lincoln-county-animal-control-262314",
+      "name": "Lincoln County Animal Control",
+      "address": "PO Box 278, Carrizozo, NM 88301",
+      "phone": "505-648-2341",
+      "image": "https://cdn.findpawpal.com/office/262314.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "walkin-n-circle-ranch-equine-262056",
+      "name": "Walkin N Circle Ranch Equine",
+      "address": "198 Weimer Road North, Cedar Grove, NM 87056",
+      "phone": "505-286-0779",
+      "image": "https://cdn.findpawpal.com/office/262056.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cerrillos-animal-shelter-310377",
+      "name": "Cerrillos Animal Shelter",
+      "address": "100AB Old Cash Ranch Rd, Cerrillos, NM 87010",
+      "phone": "505-471-6179",
+      "image": "https://cdn.findpawpal.com/office/310377.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chama-valley-humane-society-326704",
+      "name": "Chama Valley Humane Society",
+      "address": "PO Box 131, Chama, NM 87520",
+      "phone": "505-756-0155",
+      "image": "https://cdn.findpawpal.com/office/326704.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "2-can-rescue-inc-309828",
+      "name": "2 Can Rescue, Inc.",
+      "address": "PO Box 5612, Clovis, NM 88102",
+      "phone": "575-742-8508",
+      "image": "https://cdn.findpawpal.com/office/309828.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clovis-animal-welfare-league-327230",
+      "name": "Clovis Animal Welfare League",
+      "address": "407 North Prince Street, Clovis, NM 88101",
+      "phone": "505-762-5008",
+      "image": "https://cdn.findpawpal.com/office/327230.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clovis-county-animal-control-and-shelter-282018",
+      "name": "Clovis County Animal Control & Shelter",
+      "address": "2203 East Brady Avenue, Clovis, NM 88101",
+      "phone": "505-769-7893",
+      "image": "https://cdn.findpawpal.com/office/282018.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "curry-county-animal-control-326279",
+      "name": "Curry County Animal Control",
+      "address": "PO Box 1043, Clovis, NM 88102",
+      "phone": "505-769-2335",
+      "image": "https://cdn.findpawpal.com/office/326279.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sundance-ranch-feline-sanctuary-inc-327236",
+      "name": "Sundance Ranch Feline Sanctuary, Inc.",
+      "address": "PO Box 5395, Clovis, NM 88102",
+      "phone": "505-985-0089",
+      "image": "https://cdn.findpawpal.com/office/327236.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wandering-tails-animal-rescue-inc-258592",
+      "name": "Wandering Tails Animal Rescue, Inc.",
+      "address": "PO Box 0546, Clovis, NM 88101",
+      "phone": "253-973-5801",
+      "image": "https://cdn.findpawpal.com/office/258592.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "columbus-animal-control-262348",
+      "name": "Columbus Animal Control",
+      "address": "PO Box 350, Columbus, NM 88029",
+      "phone": "505-531-7154",
+      "image": "https://cdn.findpawpal.com/office/262348.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bro-and-tracy-animal-welfare-inc-261948",
+      "name": "Bro and Tracy Animal Welfare, Inc.",
+      "address": "528 Reclining Acres Road, Corrales, NM 87048",
+      "phone": "505-898-5433",
+      "image": "https://cdn.findpawpal.com/office/261948.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "carma-mobile-adoptions-at-petsmart-262510",
+      "name": "Carma Mobile Adoptions at Petsmart",
+      "address": "PO Box 1233, Corrales, NM 87048",
+      "phone": "505-342-8070",
+      "image": "https://cdn.findpawpal.com/office/262510.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "corrales-animal-control-326850",
+      "name": "Corrales Animal Control",
+      "address": "4324 Corrales Road, Corrales, NM 87048",
+      "phone": "505-898-0401",
+      "image": "https://cdn.findpawpal.com/office/326850.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "regina-animal-rescue-326857",
+      "name": "Regina Animal Rescue",
+      "address": "70 Highway 96, Cuba, NM 87013",
+      "phone": "505-289-3114",
+      "image": "https://cdn.findpawpal.com/office/326857.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "deming-animal-guardians-258802",
+      "name": "Deming Animal Guardians",
+      "address": "PO Box 1275, Deming, NM 88031",
+      "phone": "505-544-2209",
+      "image": "https://cdn.findpawpal.com/office/258802.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "deming-animal-shelter-281467",
+      "name": "Deming Animal Shelter",
+      "address": "2135 Onate Avenue, Deming, NM 88030",
+      "phone": "575-546-2024",
+      "image": "https://cdn.findpawpal.com/office/281467.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "deming-luna-county-humane-society-309169",
+      "name": "Deming Luna County Humane Society",
+      "address": "PO Box 568, Deming, NM 88031",
+      "phone": "505-546-2024",
+      "image": "https://cdn.findpawpal.com/office/309169.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dixon-animal-protection-society-309256",
+      "name": "Dixon Animal Protection Society",
+      "address": "PO Box 96, Dixon, NM 87527",
+      "phone": "505-579-4608",
+      "image": "https://cdn.findpawpal.com/office/309256.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "edgewood-animal-care-control-327643",
+      "name": "Edgewood Animal Care Control",
+      "address": "1911 Historic Old Rte 66, Edgewood, NM 87015",
+      "phone": "505-286-4518",
+      "image": "https://cdn.findpawpal.com/office/327643.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "espanola-valley-humane-society-335239",
+      "name": "Espanola Valley Humane Society",
+      "address": "108 Hamm Parkway, Española, NM 87532",
+      "phone": "505-753-8662",
+      "image": "https://cdn.findpawpal.com/office/335239.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rio-arriba-county-animal-control-281598",
+      "name": "Rio Arriba County Animal Control",
+      "address": "PO Box 1256, Española, NM 87532",
+      "phone": "505-753-2992",
+      "image": "https://cdn.findpawpal.com/office/281598.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "estancia-city-animal-control-262897",
+      "name": "Estancia City Animal Control",
+      "address": "PO Box 835, Estancia, NM 87016",
+      "phone": "505-384-4282",
+      "image": "https://cdn.findpawpal.com/office/262897.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "torrance-county-animal-control-336015",
+      "name": "Torrance County Animal Control",
+      "address": "PO Box 498, Estancia, NM 87016",
+      "phone": "505-384-9636",
+      "image": "https://cdn.findpawpal.com/office/336015.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "farmington-animal-shelter-263062",
+      "name": "Farmington Animal Shelter",
+      "address": "133 Browning Parkway, Farmington, NM 87401",
+      "phone": "505-599-1098",
+      "image": "https://cdn.findpawpal.com/office/263062.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "san-juan-animal-league-338600",
+      "name": "San Juan Animal League",
+      "address": "PO Box 142, Farmington, NM 87499",
+      "phone": "505-325-3366",
+      "image": "https://cdn.findpawpal.com/office/338600.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "debaca-county-animal-control-327420",
+      "name": "Debaca County Animal Control",
+      "address": "PO Box 927, Fort Sumner, NM 88119",
+      "phone": "505-355-2405",
+      "image": "https://cdn.findpawpal.com/office/327420.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-control-center-326638",
+      "name": "Animal Control Center",
+      "address": "1315 Hamilton Road, Gallup, NM 87301",
+      "phone": "505-863-1309",
+      "image": "https://cdn.findpawpal.com/office/326638.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-mc-kinley-309189",
+      "name": "Humane Society-Mc Kinley",
+      "address": "1315 Hamilton Road, Gallup, NM 87301",
+      "phone": "505-863-2616",
+      "image": "https://cdn.findpawpal.com/office/309189.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "grants-animal-control-278208",
+      "name": "Grants Animal Control",
+      "address": "1728 Animal Shelter Rd, Grants, NM 87020",
+      "phone": "505-287-4012",
+      "image": "https://cdn.findpawpal.com/office/278208.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hobbs-animal-control-327449",
+      "name": "Hobbs Animal Control",
+      "address": "300 North Turner Street, Hobbs, NM 88240",
+      "phone": "505-397-9323",
+      "image": "https://cdn.findpawpal.com/office/327449.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lea-county-humane-society-278426",
+      "name": "Lea County Humane Society",
+      "address": "PO Box 1192, Hobbs, NM 88241",
+      "phone": "505-392-4638",
+      "image": "https://cdn.findpawpal.com/office/278426.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-otero-county-326656",
+      "name": "Humane Society of Otero County",
+      "address": "PO Box 686, La Luz, NM 88337",
+      "phone": "505-434-0316",
+      "image": "https://cdn.findpawpal.com/office/326656.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "laguna-pueblo-animal-control-337927",
+      "name": "Laguna Pueblo Animal Control",
+      "address": "PO Box 194, Laguna, NM 87026",
+      "phone": "505-552-6652",
+      "image": "https://cdn.findpawpal.com/office/337927.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lake-arthur-animal-control-337923",
+      "name": "Lake Arthur Animal Control",
+      "address": "PO Box 8, Lake Arthur, NM 88253",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/337923.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-services-center-of-the-mesilla-valley-334761",
+      "name": "Animal Services Center of the Mesilla Valley",
+      "address": "3551 Bataan Memorial, Las Cruces, NM 88012",
+      "phone": "575-382-0018",
+      "image": "https://cdn.findpawpal.com/office/334761.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dona-ana-county-animal-control-282436",
+      "name": "Dona Ana County Animal Control",
+      "address": "2024 East Griggs Avenue, Las Cruces, NM 88001",
+      "phone": "575-647-7715",
+      "image": "https://cdn.findpawpal.com/office/282436.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dona-ana-county-animal-control-308888",
+      "name": "Dona Ana County Animal Control",
+      "address": "750 North Motel Boulevard, Las Cruces, NM 88007",
+      "phone": "575-647-7715",
+      "image": "https://cdn.findpawpal.com/office/308888.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dona-ana-county-humane-society-326367",
+      "name": "Dona Ana County Humane Society",
+      "address": "3551 Bataan Memorial, Las Cruces, NM 88012",
+      "phone": "505-382-0018",
+      "image": "https://cdn.findpawpal.com/office/326367.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "las-cruces-animal-control-259617",
+      "name": "Las Cruces Animal Control",
+      "address": "1085 Med Park Drive, Las Cruces, NM 88001",
+      "phone": "575-528-4100",
+      "image": "https://cdn.findpawpal.com/office/259617.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "safe-haven-animal-sanctuary-338136",
+      "name": "Safe Haven Animal Sanctuary",
+      "address": "144 Wyatt Drive, Las Cruces, NM 88005",
+      "phone": "505-527-4544",
+      "image": "https://cdn.findpawpal.com/office/338136.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "southern-new-mexico-shepherds-334832",
+      "name": "Southern New Mexico Shepherds",
+      "address": "4308 Butterfly Road, Las Cruces, NM 88011",
+      "phone": "575-649-2372",
+      "image": "https://cdn.findpawpal.com/office/334832.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "las-vegas-new-mexico-animal-shelter-262480",
+      "name": "Las Vegas, New Mexico Animal Shelter",
+      "address": "1700 North Grand Avenue, Las Vegas, NM 87701",
+      "phone": "505-454-1401",
+      "image": "https://cdn.findpawpal.com/office/262480.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-animal-support-center-261918",
+      "name": "The Animal Support Center",
+      "address": "1822 7th Street, Las Vegas, NM 87701",
+      "phone": "505-454-0221",
+      "image": "https://cdn.findpawpal.com/office/261918.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lordsburg-animal-control-339381",
+      "name": "Lordsburg Animal Control",
+      "address": "206 Main Street, Lordsburg, NM 88045",
+      "phone": "505-542-3505",
+      "image": "https://cdn.findpawpal.com/office/339381.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "aid-for-animals-339180",
+      "name": "Aid for Animals",
+      "address": "1368 35th Street, Los Alamos, NM 87544",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/339180.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-the-shelter-262285",
+      "name": "Friends of the Shelter",
+      "address": "162 Chamisa Street, Los Alamos, NM 87544",
+      "phone": "505-662-3252",
+      "image": "https://cdn.findpawpal.com/office/262285.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "los-alamos-county-animal-shelter-309892",
+      "name": "Los Alamos County Animal Shelter",
+      "address": "226 East Road, Los Alamos, NM 87544",
+      "phone": "505-662-8179",
+      "image": "https://cdn.findpawpal.com/office/309892.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "homeless-animal-rescue-team-259193",
+      "name": "Homeless Animal Rescue Team",
+      "address": "PO Box 267, Los Lunas, NM 87031",
+      "phone": "505-450-6966",
+      "image": "https://cdn.findpawpal.com/office/259193.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "los-chavez-animal-rescue-262727",
+      "name": "Los Chavez Animal Rescue",
+      "address": "PO Box 1477, Los Lunas, NM 87031",
+      "phone": "505-565-1425",
+      "image": "https://cdn.findpawpal.com/office/262727.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "los-lunas-animal-control-281940",
+      "name": "Los Lunas Animal Control",
+      "address": "PO Box 1209, Los Lunas, NM 87031",
+      "phone": "505-865-1377",
+      "image": "https://cdn.findpawpal.com/office/281940.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-mexican-horse-project-275175",
+      "name": "New Mexican Horse Project",
+      "address": "PO Box 1198, Los Lunas, NM 87031",
+      "phone": "505-865-8992",
+      "image": "https://cdn.findpawpal.com/office/275175.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pick-of-the-pound-perfect-pets-from-the-valencia-county-275180",
+      "name": "Pick of the Pound Perfect Pets From The Valencia County",
+      "address": "PO Box 2702, Los Lunas, NM 87031",
+      "phone": "505-764-5799",
+      "image": "https://cdn.findpawpal.com/office/275180.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rio-grande-animal-humane-association-309769",
+      "name": "Rio Grande Animal Humane Association",
+      "address": "PO Box 912, Los Lunas, NM 87031",
+      "phone": "505-565-0864",
+      "image": "https://cdn.findpawpal.com/office/309769.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "valencia-county-animal-control-and-shelter-259241",
+      "name": "Valencia County Animal Control & Shelter",
+      "address": "1209 Highway 314, Los Lunas, NM 87031",
+      "phone": "505-866-2479",
+      "image": "https://cdn.findpawpal.com/office/259241.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "harding-county-animal-control-309079",
+      "name": "Harding County Animal Control",
+      "address": "PO Box 1002, Mosquero, NM 87733",
+      "phone": "505-673-2231",
+      "image": "https://cdn.findpawpal.com/office/309079.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pecos-animal-welfare-society-281657",
+      "name": "Pecos Animal Welfare Society",
+      "address": "PO Box 704, Pecos, NM 87552",
+      "phone": "505-757-3333",
+      "image": "https://cdn.findpawpal.com/office/281657.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chihuahua-rescue-and-transport-327150",
+      "name": "Chihuahua Rescue and Transport",
+      "address": "PO Box 1285, Peralta, NM 87042",
+      "phone": "505-869-2397",
+      "image": "https://cdn.findpawpal.com/office/327150.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fur-and-feather-animal-assistance-inc-718321",
+      "name": "Fur and Feather Animal Assistance, Inc.",
+      "address": "PO Box 555, Pie Town, NM 87827",
+      "phone": "575-772-2661",
+      "image": "https://cdn.findpawpal.com/office/718321.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "st-francis-sanctuary-for-animals-262075",
+      "name": "St. Francis Sanctuary for Animals",
+      "address": "PO Box 336, Pinehill, NM 87357",
+      "phone": "505-775-3260",
+      "image": "https://cdn.findpawpal.com/office/262075.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "timber-ridge-aviary-and-rescue-337915",
+      "name": "Timber Ridge Aviary and Rescue",
+      "address": "PO Box 42, Pinon, NM 88344",
+      "phone": "575-687-4128",
+      "image": "https://cdn.findpawpal.com/office/337915.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "eastern-new-mexico-humane-society-258600",
+      "name": "Eastern New Mexico Humane Society",
+      "address": "PO Box 122, Portales, NM 88101",
+      "phone": "505-762-5453",
+      "image": "https://cdn.findpawpal.com/office/258600.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "portales-animal-control-shelter-335255",
+      "name": "Portales Animal Control Shelter",
+      "address": "1700 North Boston Avenue, Portales, NM 88130",
+      "phone": "505-356-4404",
+      "image": "https://cdn.findpawpal.com/office/335255.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "roosevelt-county-animal-control-326771",
+      "name": "Roosevelt County Animal Control",
+      "address": "1700 North Boston Avenue, Portales, NM 88130",
+      "phone": "505-356-4408",
+      "image": "https://cdn.findpawpal.com/office/326771.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "candy-kitchen-rescue-ranch-261815",
+      "name": "Candy Kitchen Rescue Ranch",
+      "address": "PO Box 28, Ramah, NM 87321",
+      "phone": "505-775-3304",
+      "image": "https://cdn.findpawpal.com/office/261815.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "colfax-county-animal-control-281203",
+      "name": "Colfax County Animal Control",
+      "address": "PO Box 39, Raton, NM 87740",
+      "phone": "505-445-5562",
+      "image": "https://cdn.findpawpal.com/office/281203.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "raton-city-animal-control-281209",
+      "name": "Raton City Animal Control",
+      "address": "PO Box 397, Raton, NM 87740",
+      "phone": "505-445-8640",
+      "image": "https://cdn.findpawpal.com/office/281209.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "raton-humane-society-278234",
+      "name": "Raton Humane Society",
+      "address": "PO Box 1321, Raton, NM 87740",
+      "phone": "505-445-9328",
+      "image": "https://cdn.findpawpal.com/office/278234.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "catron-county-animal-control-334545",
+      "name": "Catron County Animal Control",
+      "address": "PO Box 467, Reserve, NM 87830",
+      "phone": "505-533-6622",
+      "image": "https://cdn.findpawpal.com/office/334545.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rio-rancho-animal-control-326863",
+      "name": "Rio Rancho Animal Control",
+      "address": "3441 Northern Boulevard Northeast, Rio Rancho, NM 87124",
+      "phone": "505-891-7237",
+      "image": "https://cdn.findpawpal.com/office/326863.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "watermelon-mountain-ranch-262552",
+      "name": "Watermelon Mountain Ranch",
+      "address": "4320 Ridgecrest Drive Southeast, Rio Rancho, NM 87124",
+      "phone": "505-771-0140",
+      "image": "https://cdn.findpawpal.com/office/262552.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chaves-county-animal-control-261489",
+      "name": "Chaves County Animal Control",
+      "address": "PO Box 1396, Roswell, NM 88202",
+      "phone": "505-624-6500",
+      "image": "https://cdn.findpawpal.com/office/261489.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "roswell-animal-control-310269",
+      "name": "Roswell Animal Control",
+      "address": "705 East McGaffey Street, Roswell, NM 88203",
+      "phone": "575-624-6722",
+      "image": "https://cdn.findpawpal.com/office/310269.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "roswell-humane-society-282359",
+      "name": "Roswell Humane Society",
+      "address": "703 East McGaffey Street, Roswell, NM 88203",
+      "phone": "505-622-8950",
+      "image": "https://cdn.findpawpal.com/office/282359.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lincoln-county-humane-society-262325",
+      "name": "Lincoln County Humane Society",
+      "address": "430 Gavilan Canyon Road, Ruidoso, NM 88345",
+      "phone": "505-257-9841",
+      "image": "https://cdn.findpawpal.com/office/262325.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ruidoso-village-animal-control-262321",
+      "name": "Ruidoso Village Animal Control",
+      "address": "1085 Mechem Drive, Ruidoso, NM 88345",
+      "phone": "575-257-7365",
+      "image": "https://cdn.findpawpal.com/office/262321.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bridging-the-worlds-262557",
+      "name": "Bridging The Worlds",
+      "address": "PO Box 9109, Santa Fe, NM 87504",
+      "phone": "505-501-1887",
+      "image": "https://cdn.findpawpal.com/office/262557.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dew-paws-rescue-309467",
+      "name": "Dew PAWS Rescue",
+      "address": "3940 Los Milagros, Santa Fe, NM 87507",
+      "phone": "505-424-4432",
+      "image": "https://cdn.findpawpal.com/office/309467.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "felines-and-friends-259539",
+      "name": "Felines & Friends",
+      "address": "369 Montezuma Avenue, Santa Fe, NM 87501",
+      "phone": "505-316-2281",
+      "image": "https://cdn.findpawpal.com/office/259539.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "heart-and-soul-sanctuary-282332",
+      "name": "Heart & Soul Sanctuary",
+      "address": "369 Montezuma Avenue, Santa Fe, NM 87501",
+      "phone": "505-757-6817",
+      "image": "https://cdn.findpawpal.com/office/282332.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "horse-shelter-326922",
+      "name": "Horse Shelter",
+      "address": "1600 Lena Street, Santa Fe, NM 87505",
+      "phone": "505-471-6179",
+      "image": "https://cdn.findpawpal.com/office/326922.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kindred-spirits-animal-sanctuary-335466",
+      "name": "Kindred Spirits Animal Sanctuary",
+      "address": "3749 Highway 14, Santa Fe, NM 87508",
+      "phone": "505-471-5366",
+      "image": "https://cdn.findpawpal.com/office/335466.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lost-horse-ranch-326996",
+      "name": "Lost Horse Ranch",
+      "address": "PO Box 110B, Santa Fe, NM 87501",
+      "phone": "505-471-8028",
+      "image": "https://cdn.findpawpal.com/office/326996.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-mexico-dachshund-rescue-335474",
+      "name": "New Mexico Dachshund Rescue",
+      "address": "36 Sandy Way, Santa Fe, NM 87506",
+      "phone": "505-455-3259",
+      "image": "https://cdn.findpawpal.com/office/335474.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "p-f-ferrets-ferrets-r-fun-262039",
+      "name": "P F Ferrets Ferrets R Fun",
+      "address": "2640 Calle Primavera, Santa Fe, NM 87505",
+      "phone": "505-473-0153",
+      "image": "https://cdn.findpawpal.com/office/262039.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rottweiler-club-and-rescue-262047",
+      "name": "Rottweiler Club & Rescue",
+      "address": "18 Hampton Road, Santa Fe, NM 87505",
+      "phone": "505-466-0512",
+      "image": "https://cdn.findpawpal.com/office/262047.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "santa-fe-animal-shelter-and-humane-society-279177",
+      "name": "Santa Fe Animal Shelter & Humane Society",
+      "address": "100 Caja Del Rio Road, Santa Fe, NM 87507",
+      "phone": "505-983-4309",
+      "image": "https://cdn.findpawpal.com/office/279177.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "santa-fe-county-animal-control-282307",
+      "name": "Santa Fe County Animal Control",
+      "address": "35 Camino Justicia, Santa Fe, NM 87508",
+      "phone": "505-986-2430",
+      "image": "https://cdn.findpawpal.com/office/282307.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-project-262634",
+      "name": "Second Chance Project",
+      "address": "PO Box 92AB, Santa Fe, NM 87501",
+      "phone": "505-455-1156",
+      "image": "https://cdn.findpawpal.com/office/262634.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "guadalupe-county-animal-control-310051",
+      "name": "Guadalupe County Animal Control",
+      "address": "117 South 5th Street, Santa Rosa, NM 88435",
+      "phone": "505-472-3711",
+      "image": "https://cdn.findpawpal.com/office/310051.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "silver-city-animal-control-and-shelter-334960",
+      "name": "Silver City Animal Control and Shelter",
+      "address": "3050 Cougar Way, Silver City, NM 88061",
+      "phone": "505-538-9261",
+      "image": "https://cdn.findpawpal.com/office/334960.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-protection-association-of-socorro-259107",
+      "name": "Animal Protection Association of Socorro",
+      "address": "PO Box 451, Socorro, NM 87801",
+      "phone": "505-835-0259",
+      "image": "https://cdn.findpawpal.com/office/259107.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "socorro-animal-control-and-shelter-309615",
+      "name": "Socorro Animal Control and Shelter",
+      "address": "PO Box 992, Socorro, NM 87801",
+      "phone": "505-838-3103",
+      "image": "https://cdn.findpawpal.com/office/309615.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "socorro-animal-shelter-262123",
+      "name": "Socorro Animal Shelter",
+      "address": "2998 Highway 1, Socorro, NM 87801",
+      "phone": "575-838-3103",
+      "image": "https://cdn.findpawpal.com/office/262123.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "four-corners-animal-league-327086",
+      "name": "Four Corners Animal League",
+      "address": "PO Box 1163, Taos, NM 87571",
+      "phone": "505-751-0150",
+      "image": "https://cdn.findpawpal.com/office/327086.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "stray-hearts-animal-shelter-of-taos-335670",
+      "name": "Stray Hearts Animal Shelter of Taos",
+      "address": "PO Box 622, Taos, NM 87571",
+      "phone": "505-758-2981",
+      "image": "https://cdn.findpawpal.com/office/335670.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "taos-animal-control-338970",
+      "name": "Taos Animal Control",
+      "address": "400 Camino De La Placita, Taos, NM 87571",
+      "phone": "505-751-2017",
+      "image": "https://cdn.findpawpal.com/office/338970.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "texico-ferret-rescue-326288",
+      "name": "Texico Ferret Rescue",
+      "address": "PO Box 165, Texico, NM 88135",
+      "phone": "575-309-6225",
+      "image": "https://cdn.findpawpal.com/office/326288.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lap-dog-rescue-of-new-mexico-325996",
+      "name": "Lap Dog Rescue of New Mexico",
+      "address": "PO Box 1316, Tijeras, NM 87059",
+      "phone": "505-934-2202",
+      "image": "https://cdn.findpawpal.com/office/325996.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sierra-county-animal-control-262654",
+      "name": "Sierra County Animal Control",
+      "address": "311 North Date Street, Truth or Consequences, NM 87901",
+      "phone": "505-894-2240",
+      "image": "https://cdn.findpawpal.com/office/262654.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "truth-or-consequences-animal-control-263165",
+      "name": "Truth Or Consequences Animal Control",
+      "address": "505 Sims Street, Truth or Consequences, NM 87901",
+      "phone": "575-894-7111",
+      "image": "https://cdn.findpawpal.com/office/263165.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "quay-county-animal-control-261843",
+      "name": "Quay County Animal Control",
+      "address": "PO Box 943, Tucumcari, NM 88401",
+      "phone": "505-461-2720",
+      "image": "https://cdn.findpawpal.com/office/261843.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tucumcari-animal-shelter-338481",
+      "name": "Tucumcari Animal Shelter",
+      "address": "PO Box 1336, Tucumcari, NM 88401",
+      "phone": "505-461-2160",
+      "image": "https://cdn.findpawpal.com/office/338481.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sierra-county-humane-society-259093",
+      "name": "Sierra County Humane Society",
+      "address": "PO Box 638, Williamsburg, NM 87942",
+      "phone": "505-894-2639",
+      "image": "https://cdn.findpawpal.com/office/259093.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fetchedAt": "2026-06-27T18:17:14.075996+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "st-petersburg",
+    "name": "St. Petersburg",
+    "label": "St. Petersburg, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/st-petersburg/",
+  "offices": [
+    {
+      "slug": "pet-pal-animal-shelter-272032",
+      "name": "Pet Pal Animal Shelter",
+      "address": "405 22nd Street South, St. Petersburg, FL 33712",
+      "phone": "727-328-7738",
+      "image": "./img/shelter/office/272032.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-pal-animal-shelter-272032/",
+      "imageUrl": "https://cdn.findpawpal.com/office/272032.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "save-our-strays-284976",
+      "name": "Save Our Strays",
+      "address": "PO Box 76128, St. Petersburg, FL 33734",
+      "phone": "727-896-4452",
+      "image": "https://cdn.findpawpal.com/office/284976.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/save-our-strays-284976/"
+    },
+    {
+      "slug": "friends-of-strays-286209",
+      "name": "Friends of Strays",
+      "address": "2911 47th Avenue North, St. Petersburg, FL 33714",
+      "phone": "727-522-6566",
+      "image": "./img/shelter/office/286209.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-strays-286209/",
+      "imageUrl": "https://cdn.findpawpal.com/office/286209.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "florida-poodle-rescue-288624",
+      "name": "Florida Poodle Rescue",
+      "address": "PO Box 7336, St. Petersburg, FL 33734",
+      "phone": "727-898-5114",
+      "image": "https://cdn.findpawpal.com/office/288624.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/florida-poodle-rescue-288624/"
+    },
+    {
+      "slug": "heavens-safe-haven-stray-cat-rescue-288633",
+      "name": "Heavens Safe Haven Stray Cat Rescue",
+      "address": "653 37th Avenue South, St. Petersburg, FL 33705",
+      "phone": "727-520-4968",
+      "image": "./img/shelter/office/288633.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/heavens-safe-haven-stray-cat-rescue-288633/",
+      "imageUrl": "https://cdn.findpawpal.com/office/288633.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "k-9-shelter-sanctuary-inc-351353",
+      "name": "K-9 Shelter Sanctuary, Inc.",
+      "address": "3511 2nd Avenue South, St. Petersburg, FL 33711",
+      "phone": "813-484-2236",
+      "image": "./img/shelter/office/351353.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/k-9-shelter-sanctuary-inc-351353/",
+      "imageUrl": "https://cdn.findpawpal.com/office/351353.jpg?f=webp&w=730"
+    }
+  ]
+}

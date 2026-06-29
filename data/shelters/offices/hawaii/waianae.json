@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:42:35.257182+00:00",
+  "state": {
+    "slug": "hawaii",
+    "name": "Hawaii"
+  },
+  "city": {
+    "slug": "waianae",
+    "name": "Waianae",
+    "label": "Waianae, HI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/hawaii/waianae/",
+  "offices": [
+    {
+      "officeId": 335182,
+      "slug": "pawprints-rescue-335182",
+      "name": "Pawprints Rescue",
+      "address": "84-541 Nukea Street, Waianae, HI 96792",
+      "phone": "808-772-7635",
+      "image": "./img/shelter/office/335182.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pawprints-rescue-335182/",
+      "imageUrl": "https://cdn.findpawpal.com/office/335182.jpg?f=webp&w=730"
+    }
+  ]
+}

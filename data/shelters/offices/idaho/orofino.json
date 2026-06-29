@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:43:25.753724+00:00",
+  "state": {
+    "slug": "idaho",
+    "name": "Idaho"
+  },
+  "city": {
+    "slug": "orofino",
+    "name": "Orofino",
+    "label": "Orofino, ID"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/idaho/orofino/",
+  "offices": [
+    {
+      "officeId": 337843,
+      "slug": "clearwater-humane-society-ltd-337843",
+      "name": "Clearwater Humane Society, Ltd",
+      "address": "PO Box 2063, Orofino, ID 83544",
+      "phone": "208-476-5908",
+      "image": "./img/shelter/office/337843.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/clearwater-humane-society-ltd-337843/",
+      "imageUrl": "https://cdn.findpawpal.com/office/337843.jpg?f=webp&w=730"
+    }
+  ]
+}

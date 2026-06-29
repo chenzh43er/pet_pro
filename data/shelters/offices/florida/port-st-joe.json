@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:16:53.005071+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "port-st-joe",
+    "name": "Port St. Joe",
+    "label": "Port St. Joe, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/port-st-joe/",
+  "offices": [
+    {
+      "slug": "st-joseph-bay-humane-society-inc-284252",
+      "name": "St. Joseph Bay Humane Society, Inc.",
+      "address": "1006 McClelland Ave, Port St. Joe, FL 32456",
+      "phone": "865-227-1103",
+      "image": "./img/shelter/office/284252.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/st-joseph-bay-humane-society-inc-284252/",
+      "imageUrl": "https://cdn.findpawpal.com/office/284252.jpg?f=webp&w=730"
+    }
+  ]
+}

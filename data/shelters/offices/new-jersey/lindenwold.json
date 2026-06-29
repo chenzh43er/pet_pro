@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:27:02.274478+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "lindenwold",
+    "name": "Lindenwold",
+    "label": "Lindenwold, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/lindenwold/",
+  "offices": [
+    {
+      "officeId": 94386,
+      "slug": "animal-adoption-center-94386",
+      "name": "Animal Adoption Center",
+      "address": "501 Berlin Road North, Lindenwold, NJ 08021",
+      "phone": "856-435-9116",
+      "image": "./img/shelter/office/94386.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-adoption-center-94386/",
+      "imageUrl": "https://cdn.findpawpal.com/office/94386.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 105774,
+      "slug": "lindenwold-animal-control-105774",
+      "name": "Lindenwold Animal Control",
+      "address": "501 Berlin Road North, Lindenwold, NJ 08021",
+      "phone": "856-435-9116",
+      "image": "./img/shelter/office/105774.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lindenwold-animal-control-105774/",
+      "imageUrl": "https://cdn.findpawpal.com/office/105774.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "fetchedAt": "2026-06-27T18:30:32.125253+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "santa-barbara",
+    "name": "Santa Barbara",
+    "label": "Santa Barbara, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/santa-barbara/",
+  "offices": [
+    {
+      "slug": "animal-adoption-solutions-362417",
+      "name": "Animal Adoption Solutions",
+      "address": "2026 Cliff Drive, Santa Barbara, CA 93109",
+      "phone": "805-426-9738",
+      "image": "./img/shelter/office/362417.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-adoption-solutions-362417/",
+      "imageUrl": "https://cdn.findpawpal.com/office/362417.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-shelter-assistance-program-asap-365146",
+      "name": "Animal Shelter Assistance Program (ASAP)",
+      "address": "5473 Overpass Road, Santa Barbara, CA 93111",
+      "phone": "805-683-3368",
+      "image": "./img/shelter/office/365146.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-shelter-assistance-program-asap-365146/",
+      "imageUrl": "https://cdn.findpawpal.com/office/365146.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "santa-barbara-humane-society-381573",
+      "name": "Santa Barbara Humane Society",
+      "address": "5399 Overpass Road, Santa Barbara, CA 93111",
+      "phone": "805-964-4777",
+      "image": "./img/shelter/office/381573.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/santa-barbara-humane-society-381573/",
+      "imageUrl": "https://cdn.findpawpal.com/office/381573.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-cocker-rescue-475441",
+      "name": "Second Chance Cocker Rescue",
+      "address": "1168 Palomino Road, Santa Barbara, CA 93105",
+      "phone": "805-687-4674",
+      "image": "./img/shelter/office/475441.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/second-chance-cocker-rescue-475441/",
+      "imageUrl": "https://cdn.findpawpal.com/office/475441.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "santa-barbara-chihuahua-rescue-668053",
+      "name": "Santa Barbara Chihuahua Rescue",
+      "address": "PO Box 3474, Santa Barbara, CA 93130",
+      "phone": "805-563-1385",
+      "image": "./img/shelter/office/668053.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/santa-barbara-chihuahua-rescue-668053/",
+      "imageUrl": "https://cdn.findpawpal.com/office/668053.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "santa-barbara-county-animal-shelter-668056",
+      "name": "Santa Barbara County Animal Shelter",
+      "address": "5473 Overpass Road, Santa Barbara, CA 93111",
+      "phone": "805-681-5285",
+      "image": "./img/shelter/office/668056.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/santa-barbara-county-animal-shelter-668056/",
+      "imageUrl": "https://cdn.findpawpal.com/office/668056.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "santa-barbara-city-animal-control-668790",
+      "name": "Santa Barbara City Animal Control",
+      "address": "415 East Sola Street, Santa Barbara, CA 93101",
+      "phone": "805-963-1514",
+      "image": "./img/shelter/office/668790.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/santa-barbara-city-animal-control-668790/",
+      "imageUrl": "https://cdn.findpawpal.com/office/668790.jpg?f=webp&w=730"
+    }
+  ]
+}

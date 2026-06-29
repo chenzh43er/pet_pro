@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:22:21.402050+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "de-pere",
+    "name": "De Pere",
+    "label": "De Pere, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/de-pere/",
+  "offices": [
+    {
+      "officeId": 533602,
+      "slug": "furry-guardians-of-wisconsin-533602",
+      "name": "Furry Guardians of Wisconsin",
+      "address": "992 Aldrin Street, De Pere, WI 54115",
+      "phone": "920-713-3787",
+      "image": "./img/shelter/office/533602.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/furry-guardians-of-wisconsin-533602/",
+      "imageUrl": "https://cdn.findpawpal.com/office/533602.jpg?f=webp&w=730"
+    }
+  ]
+}

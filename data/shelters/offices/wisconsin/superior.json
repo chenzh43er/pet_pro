@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:24:21.268711+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "superior",
+    "name": "Superior",
+    "label": "Superior, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/superior/",
+  "offices": [
+    {
+      "officeId": 534208,
+      "slug": "superior-animal-control-534208",
+      "name": "Superior Animal Control",
+      "address": "2225 Hill Avenue, Superior, WI 54880",
+      "phone": "715-394-7387",
+      "image": "./img/shelter/office/534208.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/superior-animal-control-534208/",
+      "imageUrl": "https://cdn.findpawpal.com/office/534208.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 632068,
+      "slug": "animal-rescue-federation-632068",
+      "name": "Animal Rescue Federation",
+      "address": "2035 East Erie Street, Superior, WI 54880",
+      "phone": "715-392-2664",
+      "image": "./img/shelter/office/632068.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-rescue-federation-632068/",
+      "imageUrl": "https://cdn.findpawpal.com/office/632068.jpg?f=webp&w=730"
+    }
+  ]
+}

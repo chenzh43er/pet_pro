@@ -1,0 +1,21 @@
+{
+  "officeId": 252016,
+  "slug": "randolph-county-animal-shelter-252016",
+  "name": "Randolph County Animal Shelter",
+  "address": "1040 N County Rd 200, Winchester, IN 47394",
+  "street": "1040 N County Rd 200",
+  "addressCity": "Winchester",
+  "stateCode": "IN",
+  "zip": "47394",
+  "phone": "765-584-1510",
+  "image": "./img/shelter/office/252016.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/randolph-county-animal-shelter-252016/",
+  "stateSlug": "indiana",
+  "stateName": "Indiana",
+  "citySlug": "winchester",
+  "cityName": "Winchester",
+  "cityLabel": "Winchester, IN",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/indiana/winchester/",
+  "fetchedAt": "2026-06-27T18:52:28.379639+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/252016.jpg?f=webp&w=730"
+}

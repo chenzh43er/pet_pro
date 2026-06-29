@@ -1,0 +1,49 @@
+{
+  "fetchedAt": "2026-06-27T18:30:22.992030+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "san-luis-obispo",
+    "name": "San Luis Obispo",
+    "label": "San Luis Obispo, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/san-luis-obispo/",
+  "offices": [
+    {
+      "slug": "san-luis-obispo-county-animals-requesting-friends-361044",
+      "name": "San Luis Obispo County Animals Requesting Friends",
+      "address": "PO Box 3760, San Luis Obispo, CA 93403",
+      "phone": "805-781-4413",
+      "image": "https://cdn.findpawpal.com/office/361044.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/san-luis-obispo-county-animals-requesting-friends-361044/"
+    },
+    {
+      "slug": "woods-humane-society-361060",
+      "name": "Woods Humane Society",
+      "address": "875 Oklahoma Avenue, San Luis Obispo, CA 93405",
+      "phone": "805-543-9316",
+      "image": "./img/shelter/office/361060.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/woods-humane-society-361060/",
+      "imageUrl": "https://cdn.findpawpal.com/office/361060.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "feline-network-of-the-central-coast-390969",
+      "name": "Feline Network of the Central Coast",
+      "address": "PO Box 526, San Luis Obispo, CA 93406",
+      "phone": "805-545-9385",
+      "image": "https://cdn.findpawpal.com/office/390969.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/feline-network-of-the-central-coast-390969/"
+    },
+    {
+      "slug": "san-luis-obispo-county-animal-control-488973",
+      "name": "San Luis Obispo County Animal Control",
+      "address": "885 Oklahoma Avenue, San Luis Obispo, CA 93405",
+      "phone": "805-781-4400",
+      "image": "./img/shelter/office/488973.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/san-luis-obispo-county-animal-control-488973/",
+      "imageUrl": "https://cdn.findpawpal.com/office/488973.jpg?f=webp&w=730"
+    }
+  ]
+}

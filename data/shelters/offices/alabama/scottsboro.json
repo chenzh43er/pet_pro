@@ -1,0 +1,32 @@
+{
+  "fetchedAt": "2026-06-27T18:18:34.399056+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "scottsboro",
+    "name": "Scottsboro",
+    "label": "Scottsboro, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/scottsboro/",
+  "offices": [
+    {
+      "slug": "scottsboro-animal-shelter-6442",
+      "name": "Scottsboro Animal Shelter",
+      "address": "222 Howard Street, Scottsboro, AL 35768",
+      "phone": "256-259-6511",
+      "image": "./img/shelter/office/6442.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/scottsboro-animal-shelter-6442/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6442.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "scottsboro-animal-control-6772",
+      "name": "Scottsboro Animal Control",
+      "address": "210 Abby Ln, Scottsboro, AL 35769",
+      "phone": "256-259-6511",
+      "image": "https://cdn.findpawpal.com/office/6772.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/scottsboro-animal-control-6772/"
+    }
+  ]
+}

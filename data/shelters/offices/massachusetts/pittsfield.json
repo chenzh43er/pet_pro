@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:07:55.999916+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "pittsfield",
+    "name": "Pittsfield",
+    "label": "Pittsfield, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/pittsfield/",
+  "offices": [
+    {
+      "officeId": 40870,
+      "slug": "berkshire-humane-society-40870",
+      "name": "Berkshire Humane Society",
+      "address": "214 Barker Road, Pittsfield, MA 01201",
+      "phone": "413-447-7878",
+      "image": "./img/shelter/office/40870.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/berkshire-humane-society-40870/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40870.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 41029,
+      "slug": "eleanor-sonsini-animal-shelter-41029",
+      "name": "Eleanor Sonsini Animal Shelter",
+      "address": "63 Downing Industrial Parkway, Pittsfield, MA 01201",
+      "phone": "413-448-9800",
+      "image": "./img/shelter/office/41029.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/eleanor-sonsini-animal-shelter-41029/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41029.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 41294,
+      "slug": "pittsfield-animal-control-41294",
+      "name": "Pittsfield Animal Control",
+      "address": "63 Downing Industrial Parkway, Pittsfield, MA 01201",
+      "phone": "413-448-9800",
+      "image": "./img/shelter/office/41294.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pittsfield-animal-control-41294/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41294.jpg?f=webp&w=730"
+    }
+  ]
+}

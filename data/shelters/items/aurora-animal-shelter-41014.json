@@ -1,0 +1,21 @@
+{
+  "officeId": 41014,
+  "slug": "aurora-animal-shelter-41014",
+  "name": "Aurora Animal Shelter",
+  "address": "15750 East 32nd Avenue, Aurora, CO 80011",
+  "street": "15750 East 32nd Avenue",
+  "addressCity": "Aurora",
+  "stateCode": "CO",
+  "zip": "80011",
+  "phone": "303-326-8280",
+  "image": "./img/shelter/office/41014.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/aurora-animal-shelter-41014/",
+  "stateSlug": "colorado",
+  "stateName": "Colorado",
+  "citySlug": "aurora",
+  "cityName": "Aurora",
+  "cityLabel": "Aurora, CO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/colorado/aurora/",
+  "fetchedAt": "2026-06-27T18:32:42.633649+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/41014.jpg?f=webp&w=730"
+}

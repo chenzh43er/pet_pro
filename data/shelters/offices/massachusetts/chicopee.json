@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:05:43.633407+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "chicopee",
+    "name": "Chicopee",
+    "label": "Chicopee, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/chicopee/",
+  "offices": [
+    {
+      "officeId": 40166,
+      "slug": "thomas-j-oconnor-regional-dog-pound-40166",
+      "name": "Thomas J. O'connor Regional Dog Pound",
+      "address": "701 Center Street, Chicopee, MA 01013",
+      "phone": "413-781-1484",
+      "image": "./img/shelter/office/40166.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/thomas-j-oconnor-regional-dog-pound-40166/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40166.jpg?f=webp&w=730"
+    }
+  ]
+}

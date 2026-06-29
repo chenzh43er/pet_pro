@@ -1,0 +1,2925 @@
+{
+  "stateSlug": "ohio",
+  "count": 417,
+  "shelters": [
+    {
+      "slug": "akron-city-animal-control-581800",
+      "name": "Akron City Animal Control",
+      "address": "166 South High Street, Akron, OH 44308",
+      "phone": "330-375-2320",
+      "image": "https://cdn.findpawpal.com/office/581800.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "all-breed-puppy-rescue-587745",
+      "name": "All-Breed Puppy Rescue",
+      "address": "PO Box 6374, Akron, OH 44312",
+      "phone": "330-699-2595",
+      "image": "https://cdn.findpawpal.com/office/587745.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-pets-444528",
+      "name": "Friends of Pets",
+      "address": "PO Box 813, Akron, OH 44309",
+      "phone": "330-571-7387",
+      "image": "https://cdn.findpawpal.com/office/444528.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "heaven-can-wait-rescue-and-adoptions-444532",
+      "name": "Heaven Can Wait Rescue & Adoptions",
+      "address": "PO Box 4865, Akron, OH 44310",
+      "phone": "330-328-8699",
+      "image": "https://cdn.findpawpal.com/office/444532.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "one-of-a-kind-pet-rescue-580855",
+      "name": "One of A Kind Pet Rescue",
+      "address": "1929 West Market Street, Akron, OH 44313",
+      "phone": "330-865-6200",
+      "image": "https://cdn.findpawpal.com/office/580855.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-and-prayers-466701",
+      "name": "PAWS and Prayers",
+      "address": "PO Box 2864, Akron, OH 44309",
+      "phone": "330-475-8300",
+      "image": "https://cdn.findpawpal.com/office/466701.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-puppy-rescue-640141",
+      "name": "Second Chance Puppy Rescue",
+      "address": "2129 Lake Road, Akron, OH 44312",
+      "phone": "330-354-6291",
+      "image": "https://cdn.findpawpal.com/office/640141.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "summit-county-dog-warden-587740",
+      "name": "Summit County Dog Warden",
+      "address": "250 Opportunity Parkway, Akron, OH 44307",
+      "phone": "330-643-2845",
+      "image": "https://cdn.findpawpal.com/office/587740.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cat-assistance-team-of-central-ohio-587465",
+      "name": "Cat Assistance Team of Central Ohio",
+      "address": "PO Box 41, Alexandria, OH 43001",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/587465.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mission-impawssible-inc-580552",
+      "name": "Mission Impawssible, Inc.",
+      "address": "137 North Liberty Street, Alexandria, OH 43001",
+      "phone": "614-743-9540",
+      "image": "https://cdn.findpawpal.com/office/580552.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alliance-for-animals-640368",
+      "name": "Alliance for Animals",
+      "address": "1472 West State Street, Alliance, OH 44601",
+      "phone": "330-821-4370",
+      "image": "https://cdn.findpawpal.com/office/640368.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "minervas-den-reptile-and-exotics-rescue-431232",
+      "name": "Minerva's Den Reptile and Exotics Rescue",
+      "address": "22243 Lake Park Boulevard, Alliance, OH 44601",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/431232.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-fund-inc-581029",
+      "name": "Animal Rescue Fund Inc",
+      "address": "85 Lucy Run Road, Amelia, OH 45102",
+      "phone": "513-753-9252",
+      "image": "https://cdn.findpawpal.com/office/581029.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ohio-pound-puppy-rescue-639885",
+      "name": "Ohio Pound Puppy Rescue",
+      "address": "PO Box 712, Arlington, OH 45814",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/639885.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ashland-county-animal-shelter-467632",
+      "name": "Ashland County Animal Shelter",
+      "address": "1710 Garfield Avenue, Ashland, OH 44805",
+      "phone": "419-289-1455",
+      "image": "https://cdn.findpawpal.com/office/467632.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ashland-county-humane-society-686684",
+      "name": "Ashland County Humane Society",
+      "address": "PO Box 114, Ashland, OH 44805",
+      "phone": "419-289-3658",
+      "image": "https://cdn.findpawpal.com/office/686684.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-4-life-dog-rescue-432065",
+      "name": "PAWS 4 Life Dog Rescue",
+      "address": "256 Ronald Avenue, Ashland, OH 44805",
+      "phone": "419-930-8282",
+      "image": "https://cdn.findpawpal.com/office/432065.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-protective-league-686494",
+      "name": "Animal Protective League",
+      "address": "5970 Green Road, Ashtabula, OH 44004",
+      "phone": "440-224-1222",
+      "image": "https://cdn.findpawpal.com/office/686494.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "english-springer-rescue-american-inc-467115",
+      "name": "English Springer Rescue American, Inc.",
+      "address": "7920 Center Road, Ashtabula, OH 44004",
+      "phone": "440-319-3991",
+      "image": "https://cdn.findpawpal.com/office/467115.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "athens-county-humane-society-423397",
+      "name": "Athens County Humane Society",
+      "address": "PO Box 765, Athens, OH 45701",
+      "phone": "740-592-6047",
+      "image": "https://cdn.findpawpal.com/office/423397.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "avalon-animal-rescue-581841",
+      "name": "Avalon Animal Rescue",
+      "address": "PO Box 1103, Athens, OH 45701",
+      "phone": "740-596-8235",
+      "image": "https://cdn.findpawpal.com/office/581841.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "buckeye-house-rabbit-society-467640",
+      "name": "Buckeye House Rabbit Society",
+      "address": "PO Box 5767, Athens, OH 45701",
+      "phone": "740-797-7616",
+      "image": "https://cdn.findpawpal.com/office/467640.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "last-chance-corral-467787",
+      "name": "Last Chance Corral",
+      "address": "5350 Pomeroy Road, Athens, OH 45701",
+      "phone": "740-594-4336",
+      "image": "https://cdn.findpawpal.com/office/467787.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pound-rescue-of-athens-467930",
+      "name": "Pound Rescue of Athens",
+      "address": "PO Box 1209, Athens, OH 45701",
+      "phone": "740-594-3647",
+      "image": "https://cdn.findpawpal.com/office/467930.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dantes-rescue-division-431469",
+      "name": "Dante's Rescue Division",
+      "address": "31671 Schwartz Road, Avon, OH 44011",
+      "phone": "440-937-5411",
+      "image": "https://cdn.findpawpal.com/office/431469.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "love-a-stray-580565",
+      "name": "Love-A-Stray",
+      "address": "PO Box 46, Avon, OH 44011",
+      "phone": "216-556-4993",
+      "image": "https://cdn.findpawpal.com/office/580565.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clermont-county-humane-society-466852",
+      "name": "Clermont County Humane Society",
+      "address": "4001 Filager Road, Batavia, OH 45103",
+      "phone": "513-732-8854",
+      "image": "https://cdn.findpawpal.com/office/466852.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "league-for-animal-welfare-431409",
+      "name": "League For Animal Welfare",
+      "address": "4193 Taylor Road, Batavia, OH 45103",
+      "phone": "513-735-2299",
+      "image": "https://cdn.findpawpal.com/office/431409.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "golden-treasures-golden-retriever-rescue-587755",
+      "name": "Golden Treasures Golden Retriever Rescue",
+      "address": "PO Box 434, Bath, OH 44210",
+      "phone": "440-238-2457",
+      "image": "https://cdn.findpawpal.com/office/587755.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bay-village-animal-control-686540",
+      "name": "Bay Village Animal Control",
+      "address": "27214 Wolf Road, Bay Village, OH 44140",
+      "phone": "216-871-1234",
+      "image": "https://cdn.findpawpal.com/office/686540.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "beachwood-animal-control-581805",
+      "name": "Beachwood Animal Control",
+      "address": "23102 Beachwood Boulevard, Beachwood, OH 44122",
+      "phone": "216-382-7387",
+      "image": "https://cdn.findpawpal.com/office/581805.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "companion-animal-rescue-effort-686352",
+      "name": "Companion Animal Rescue Effort",
+      "address": "PO Box 340923, Beavercreek, OH 45434",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/686352.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "purebred-rescue-organization-of-ohio-inc-458091",
+      "name": "Purebred Rescue Organization of Ohio, Inc.",
+      "address": "PO Box 88, Bellbrook, OH 45305",
+      "phone": "866-841-9137",
+      "image": "https://cdn.findpawpal.com/office/458091.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-inc-445368",
+      "name": "Humane Society Inc",
+      "address": "2521 U.s. 68, Bellefontaine, OH 43311",
+      "phone": "937-593-4277",
+      "image": "https://cdn.findpawpal.com/office/445368.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "west-wind-stables-686648",
+      "name": "West Wind Stables",
+      "address": "3130 Township Road 200, Bellefontaine, OH 43311",
+      "phone": "937-592-4666",
+      "image": "https://cdn.findpawpal.com/office/686648.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "berea-animal-rescue-fund-431520",
+      "name": "Berea Animal Rescue Fund",
+      "address": "390 Barrett Road, Berea, OH 44017",
+      "phone": "440-234-2034",
+      "image": "https://cdn.findpawpal.com/office/431520.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "north-coast-siberian-husky-rescue-457271",
+      "name": "North Coast Siberian Husky Rescue",
+      "address": "PO Box 112, Berlin Heights, OH 44814",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/457271.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "harlequin-haven-great-dane-467580",
+      "name": "Harlequin Haven Great Dane",
+      "address": "11567 Highway 774, Bethel, OH 45106",
+      "phone": "937-379-2231",
+      "image": "https://cdn.findpawpal.com/office/467580.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "meow-shelter-580045",
+      "name": "MEOW Shelter",
+      "address": "PO Box 80, Blanchester, OH 45107",
+      "phone": "937-783-2707",
+      "image": "https://cdn.findpawpal.com/office/580045.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sugar-bear-dog-cat-rescue-686683",
+      "name": "Sugar Bear Dog Cat Rescue",
+      "address": "PO Box 68, Blue Creek, OH 45616",
+      "phone": "937-587-5454",
+      "image": "https://cdn.findpawpal.com/office/686683.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bowling-green-animal-control-445507",
+      "name": "Bowling Green Animal Control",
+      "address": "175 West Wooster Street, Bowling Green, OH 43402",
+      "phone": "419-352-2571",
+      "image": "https://cdn.findpawpal.com/office/445507.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wood-county-dog-shelter-423131",
+      "name": "Wood County Dog Shelter",
+      "address": "1912 E Gypsy Lane Rd, Bowling Green, OH 43402",
+      "phone": "419-954-9242",
+      "image": "https://cdn.findpawpal.com/office/423131.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wood-county-humane-society-457932",
+      "name": "Wood County Humane Society",
+      "address": "801 Van Camp Road, Bowling Green, OH 43402",
+      "phone": "419-352-7339",
+      "image": "https://cdn.findpawpal.com/office/457932.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "swank-haus-pinscher-rescue-doberman-german-minia-431741",
+      "name": "Swank-Haus Pinscher Rescue Doberman German Minia",
+      "address": "5090 Croft Mill Road, Bradford, OH 45308",
+      "phone": "937-473-5592",
+      "image": "https://cdn.findpawpal.com/office/431741.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-weiner-brigade-inc-640143",
+      "name": "The Weiner Brigade, Inc.",
+      "address": "PO Box 204, Bristolville, OH 44402",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/640143.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brooklyn-animal-rescue-467001",
+      "name": "Brooklyn Animal Rescue",
+      "address": "4342 Roadoan Road, Brooklyn, OH 44144",
+      "phone": "216-459-1595",
+      "image": "https://cdn.findpawpal.com/office/467001.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brooklyn-animal-shelter-444882",
+      "name": "Brooklyn Animal Shelter",
+      "address": "8300 Memphis Avenue, Brooklyn, OH 44144",
+      "phone": "216-741-1213",
+      "image": "https://cdn.findpawpal.com/office/444882.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greater-dayton-labrador-retriever-rescue-431833",
+      "name": "Greater Dayton Labrador Retriever Rescue",
+      "address": "375 Baker Street, Brookville, OH 45309",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/431833.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brunswick-animal-control-640650",
+      "name": "Brunswick Animal Control",
+      "address": "4095 Center Road, Brunswick, OH 44212",
+      "phone": "330-225-9111",
+      "image": "https://cdn.findpawpal.com/office/640650.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "williams-county-humane-society-686480",
+      "name": "Williams County Humane Society",
+      "address": "9464 County Road 13, Bryan, OH 43506",
+      "phone": "419-636-2200",
+      "image": "https://cdn.findpawpal.com/office/686480.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "buckeye-lake-animal-control-445514",
+      "name": "Buckeye Lake Animal Control",
+      "address": "136 Anchors Way, Buckeye Lake, OH 43008",
+      "phone": "740-964-9651",
+      "image": "https://cdn.findpawpal.com/office/445514.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "crawford-county-humane-society-465971",
+      "name": "Crawford County Humane Society",
+      "address": "3590 Highway 98, Bucyrus, OH 44820",
+      "phone": "419-562-9149",
+      "image": "https://cdn.findpawpal.com/office/465971.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "harrison-county-dog-pound-467422",
+      "name": "Harrison County Dog Pound",
+      "address": "100 West Market Street, Cadiz, OH 43907",
+      "phone": "740-942-4080",
+      "image": "https://cdn.findpawpal.com/office/467422.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "guersney-county-dog-warden-466196",
+      "name": "Guersney County Dog Warden",
+      "address": "62824 Bennett Avenue, Cambridge, OH 43725",
+      "phone": "740-432-2219",
+      "image": "https://cdn.findpawpal.com/office/466196.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-guernsey-county-422702",
+      "name": "Humane Society of Guernsey County",
+      "address": "62800 Bennett Avenue, Cambridge, OH 43725",
+      "phone": "614-439-1903",
+      "image": "https://cdn.findpawpal.com/office/422702.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "save-a-dog-foundation-457421",
+      "name": "Save-A-Dog Foundation",
+      "address": "10655 Twin Oaks Drive, Cambridge, OH 43725",
+      "phone": "740-432-3900",
+      "image": "https://cdn.findpawpal.com/office/457421.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hearts-and-paws-431219",
+      "name": "Hearts and PAWS",
+      "address": "PO Box 313, Canal Fulton, OH 44614",
+      "phone": "330-668-9706",
+      "image": "https://cdn.findpawpal.com/office/431219.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "central-ohio-poms-and-more-rescue-580182",
+      "name": "Central Ohio Poms and More Rescue",
+      "address": "PO Box 63, Canal Winchester, OH 43110",
+      "phone": "614-834-8881",
+      "image": "https://cdn.findpawpal.com/office/580182.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-for-life-animal-haven-466115",
+      "name": "Friends For Life Animal Haven",
+      "address": "6670 Lithopolis-Winchester Road, Canal Winchester, OH 43110",
+      "phone": "614-837-6260",
+      "image": "https://cdn.findpawpal.com/office/466115.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "angels-for-animals-423299",
+      "name": "ANGELS for ANIMALS",
+      "address": "4750 West South Range Road, Canfield, OH 44406",
+      "phone": "330-549-1111",
+      "image": "https://cdn.findpawpal.com/office/423299.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-attic-resale-store-458236",
+      "name": "Animal Attic Resale Store",
+      "address": "3124 9th Street Southwest, Canton, OH 44710",
+      "phone": "330-455-2001",
+      "image": "https://cdn.findpawpal.com/office/458236.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greyhound-gathering-458240",
+      "name": "Greyhound Gathering",
+      "address": "3570 Shepler Church Avenue Southwest, Canton, OH 44706",
+      "phone": "330-484-1720",
+      "image": "https://cdn.findpawpal.com/office/458240.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ohio-pound-pals-444478",
+      "name": "Ohio Pound Pals",
+      "address": "1712 Woodlawn Avenue Northwest, Canton, OH 44708",
+      "phone": "330-418-9744",
+      "image": "https://cdn.findpawpal.com/office/444478.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "stark-county-dog-warden-587718",
+      "name": "Stark County Dog Warden",
+      "address": "1801 Mahoning Road Northeast, Canton, OH 44705",
+      "phone": "330-451-2343",
+      "image": "https://cdn.findpawpal.com/office/587718.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wolfspirits-animal-shelter-inc-587712",
+      "name": "Wolfspirit's Animal Shelter, Inc.",
+      "address": "2506 9th Street Southwest, Canton, OH 44710",
+      "phone": "330-453-2746",
+      "image": "https://cdn.findpawpal.com/office/587712.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "creatures-comfort-animal-shelter-588468",
+      "name": "Creatures Comfort Animal Shelter",
+      "address": "116 West Walnut Street, Cardington, OH 43315",
+      "phone": "419-864-2965",
+      "image": "https://cdn.findpawpal.com/office/588468.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "carroll-county-dog-pound-457160",
+      "name": "Carroll County Dog Pound",
+      "address": "2185 Kensington Road Northeast, Carrollton, OH 44615",
+      "phone": "330-627-4244",
+      "image": "https://cdn.findpawpal.com/office/457160.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "carrollton-city-humane-society-586920",
+      "name": "Carrollton City Humane Society",
+      "address": "1128 Antigua Road Southwest, Carrollton, OH 44615",
+      "phone": "330-627-3044",
+      "image": "https://cdn.findpawpal.com/office/586920.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-protection-league-of-mercer-county-686530",
+      "name": "Animal Protection League of Mercer County",
+      "address": "PO Box 663, Celina, OH 45822",
+      "phone": "419-363-0024",
+      "image": "https://cdn.findpawpal.com/office/686530.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "save-a-life-rescue-466953",
+      "name": "Save A Life Rescue",
+      "address": "7240 Highway 219, Celina, OH 45822",
+      "phone": "419-302-0584",
+      "image": "https://cdn.findpawpal.com/office/466953.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brendas-small-dog-rescue-587391",
+      "name": "Brenda's Small Dog Rescue.",
+      "address": "77777 Tucker Rd, Centerburg, OH 43011",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/587391.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brendas-small-dog-rescue-430982",
+      "name": "Brendas Small Dog Rescue",
+      "address": "7111 Tucker Road, Centerburg, OH 43011",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/430982.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "geauga-county-dog-shelter-and-wardens-office-467208",
+      "name": "Geauga County Dog Shelter & Warden's Office",
+      "address": "12513 Merritt Road, Chardon, OH 44024",
+      "phone": "440-285-2222",
+      "image": "https://cdn.findpawpal.com/office/467208.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "heart-of-oh-great-pyrenees-rescue-inc-580301",
+      "name": "Heart of Oh Great Pyrenees Rescue, Inc.",
+      "address": "PO Box 465, Chardon, OH 44024",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/580301.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "morgan-county-humane-society-457720",
+      "name": "Morgan County Humane Society",
+      "address": "1625 Mill Street, Chesterhill, OH 43728",
+      "phone": "614-554-5831",
+      "image": "https://cdn.findpawpal.com/office/457720.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cause-for-paws-466876",
+      "name": "Cause for PAWS",
+      "address": "PO Box 1767, Chillicothe, OH 45601",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/466876.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lost-acres-horse-rescue-and-rehabilitation-686443",
+      "name": "Lost Acres Horse Rescue and Rehabilitation",
+      "address": "7849 Charleston Pike, Chillicothe, OH 45601",
+      "phone": "740-779-6761",
+      "image": "https://cdn.findpawpal.com/office/686443.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ross-county-humane-society-431183",
+      "name": "Ross County Humane Society",
+      "address": "2308 Lick Run Road, Chillicothe, OH 45601",
+      "phone": "740-775-6808",
+      "image": "https://cdn.findpawpal.com/office/431183.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cincinnati-catrs-inc-443997",
+      "name": "Cincinnati Catrs, Inc.",
+      "address": "PO Box 37912, Cincinnati, OH 45222",
+      "phone": "513-227-3533",
+      "image": "https://cdn.findpawpal.com/office/443997.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cincinnati-poodle-rescue-466504",
+      "name": "Cincinnati Poodle Rescue",
+      "address": "PO Box 53898, Cincinnati, OH 45253",
+      "phone": "513-554-2698",
+      "image": "https://cdn.findpawpal.com/office/466504.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "creekwood-critters-430874",
+      "name": "Creekwood Critters",
+      "address": "8650 Shawnee Run Road, Cincinnati, OH 45243",
+      "phone": "513-561-7877",
+      "image": "https://cdn.findpawpal.com/office/430874.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "labrador-retriever-rescue-of-cincinnati-inc-587276",
+      "name": "Labrador Retriever Rescue of Cincinnati, Inc.",
+      "address": "8327 Northport Drive, Cincinnati, OH 45255",
+      "phone": "513-543-3000",
+      "image": "https://cdn.findpawpal.com/office/587276.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "noahs-ark-animal-shelter-466514",
+      "name": "Noah's Ark Animal Shelter",
+      "address": "3898 Michael Drive, Cincinnati, OH 45255",
+      "phone": "513-276-8510",
+      "image": "https://cdn.findpawpal.com/office/466514.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "obryonville-animal-rescue-639866",
+      "name": "O'bryonville Animal Rescue",
+      "address": "PO Box 9206, Cincinnati, OH 45209",
+      "phone": "513-871-7297",
+      "image": "https://cdn.findpawpal.com/office/639866.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pawz-and-clawz-adoption-foundation-inc-444039",
+      "name": "Pawz and Clawz Adoption Foundation, Inc.",
+      "address": "PO Box 53385, Cincinnati, OH 45253",
+      "phone": "513-851-4045",
+      "image": "https://cdn.findpawpal.com/office/444039.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-adoption-and-rescue-service-444047",
+      "name": "Pet Adoption & Rescue Service",
+      "address": "4278 Poole Road, Cincinnati, OH 45251",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/444047.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "purrfect-friends-cat-rescue-587283",
+      "name": "Purrfect Friends Cat Rescue",
+      "address": "7885 Pinemeadow Lane, Cincinnati, OH 45224",
+      "phone": "513-557-2107",
+      "image": "https://cdn.findpawpal.com/office/587283.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spca-cincinnati-587272",
+      "name": "SPCA Cincinnati",
+      "address": "3949 Colerain Avenue, Cincinnati, OH 45223",
+      "phone": "513-541-6100",
+      "image": "https://cdn.findpawpal.com/office/587272.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "save-the-animals-foundation-444042",
+      "name": "Save the Animals Foundation",
+      "address": "4011 Red Bank Road, Cincinnati, OH 45227",
+      "phone": "513-561-7823",
+      "image": "https://cdn.findpawpal.com/office/444042.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "schnauzer-friends-for-rescue-and-adoption-639883",
+      "name": "Schnauzer Friends for Rescue and Adoption",
+      "address": "10558 Mill Road, Cincinnati, OH 45240",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/639883.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "scratching-post-580328",
+      "name": "Scratching Post",
+      "address": "6958 Plainfield Road, Cincinnati, OH 45236",
+      "phone": "513-984-6369",
+      "image": "https://cdn.findpawpal.com/office/580328.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "united-coalition-for-animals-587310",
+      "name": "United Coalition for Animals",
+      "address": "PO Box 42083, Cincinnati, OH 45242",
+      "phone": "513-981-7933",
+      "image": "https://cdn.findpawpal.com/office/587310.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "circle-area-humane-society-466812",
+      "name": "Circle Area Humane Society",
+      "address": "185 Island Road, Circleville, OH 43113",
+      "phone": "740-474-8690",
+      "image": "https://cdn.findpawpal.com/office/466812.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pickaway-county-animal-shelter-640629",
+      "name": "Pickaway County Animal Shelter",
+      "address": "21253 Ringgold Southern Road, Circleville, OH 43113",
+      "phone": "740-474-3741",
+      "image": "https://cdn.findpawpal.com/office/640629.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "every-k-9-counts-431119",
+      "name": "Every K-9 Counts",
+      "address": "7321 Kimmel Road, Clayton, OH 45315",
+      "phone": "937-832-8825",
+      "image": "https://cdn.findpawpal.com/office/431119.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animals-disaster-team-466301",
+      "name": "Animals' Disaster Team",
+      "address": "PO Box 09463, Cleveland, OH 44109",
+      "phone": "216-661-2292",
+      "image": "https://cdn.findpawpal.com/office/466301.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-cleveland-animal-control-444871",
+      "name": "City-Cleveland Animal Control",
+      "address": "2690 West 7th Street, Cleveland, OH 44113",
+      "phone": "216-664-3069",
+      "image": "https://cdn.findpawpal.com/office/444871.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cleveland-animal-protective-league-467310",
+      "name": "Cleveland Animal Protective League",
+      "address": "1729 Willey Avenue, Cleveland, OH 44113",
+      "phone": "216-771-4616",
+      "image": "https://cdn.findpawpal.com/office/467310.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ferrets-unlimited-ferret-shelter-588136",
+      "name": "Ferrets Unlimited Ferret Shelter",
+      "address": "4116 Bucyrus Avenue, Cleveland, OH 44109",
+      "phone": "216-749-3885",
+      "image": "https://cdn.findpawpal.com/office/588136.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "golden-years-senior-greyhounds-443774",
+      "name": "Golden Years Senior Greyhounds",
+      "address": "PO Box 24310, Cleveland, OH 44124",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/443774.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greyhound-adoption-of-ohio-444911",
+      "name": "Greyhound Adoption of Ohio",
+      "address": "3557 West Boulevard, Cleveland, OH 44111",
+      "phone": "800-269-1148",
+      "image": "https://cdn.findpawpal.com/office/444911.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lighthouse-boxer-rescue-586993",
+      "name": "Lighthouse Boxer Rescue",
+      "address": "PO Box 111111, Cleveland, OH 44111",
+      "phone": "216-749-2423",
+      "image": "https://cdn.findpawpal.com/office/586993.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "love-four-paws-rescue-inc-443769",
+      "name": "Love Four PAWS Rescue, Inc.",
+      "address": "PO Box 35365, Cleveland, OH 44135",
+      "phone": "216-673-8574",
+      "image": "https://cdn.findpawpal.com/office/443769.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "northern-ohio-ferret-association-581244",
+      "name": "Northern Ohio Ferret Association",
+      "address": "PO Box 110574, Cleveland, OH 44111",
+      "phone": "216-388-2491",
+      "image": "https://cdn.findpawpal.com/office/581244.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ohio-citizens-humane-society-431586",
+      "name": "Ohio Citizens Humane Society",
+      "address": "3517 West 32nd Street, Cleveland, OH 44109",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/431586.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "place-a-pet-foundation-422554",
+      "name": "Place A Pet Foundation",
+      "address": "PO Box 640, Cleveland, OH 44107",
+      "phone": "216-521-7387",
+      "image": "https://cdn.findpawpal.com/office/422554.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "public-animal-welfare-society-457233",
+      "name": "Public Animal Welfare Society",
+      "address": "PO Box 24651, Cleveland, OH 44124",
+      "phone": "440-442-7297",
+      "image": "https://cdn.findpawpal.com/office/457233.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rainbow-connection-animal-foundation-422549",
+      "name": "Rainbow Connection Animal Foundation",
+      "address": "PO Box 94143, Cleveland, OH 44101",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/422549.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-animal-rescue-center-466003",
+      "name": "The Animal Rescue Center",
+      "address": "PO Box 110685, Cleveland, OH 44111",
+      "phone": "216-476-0433",
+      "image": "https://cdn.findpawpal.com/office/466003.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-sanctuary-for-senior-dogs-444963",
+      "name": "The Sanctuary for Senior Dogs",
+      "address": "PO Box 609054, Cleveland, OH 44109",
+      "phone": "216-485-9233",
+      "image": "https://cdn.findpawpal.com/office/444963.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "herps-alive-foundation-444919",
+      "name": "Herps Alive Foundation",
+      "address": "1687 Lee Road, Cleveland Heights, OH 44118",
+      "phone": "216-374-1392",
+      "image": "https://cdn.findpawpal.com/office/444919.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cleves-animal-control-686672",
+      "name": "Cleves Animal Control",
+      "address": "7737 Ohio 128, Cleves, OH 45002",
+      "phone": "513-353-0555",
+      "image": "https://cdn.findpawpal.com/office/686672.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "freetoagoodhome-con-457481",
+      "name": "Freetoagoodhome.Con",
+      "address": "8258 Boxelder Court, Cleves, OH 45002",
+      "phone": "513-321-7044",
+      "image": "https://cdn.findpawpal.com/office/457481.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "coldwater-animal-control-467583",
+      "name": "Coldwater Animal Control",
+      "address": "3259 Ohio 219, Coldwater, OH 45828",
+      "phone": "419-586-2887",
+      "image": "https://cdn.findpawpal.com/office/467583.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brew-mid-west-beagle-rescue-443849",
+      "name": "Brew Mid West Beagle Rescue",
+      "address": "PO Box 340223, Columbus, OH 43234",
+      "phone": "614-340-7296",
+      "image": "https://cdn.findpawpal.com/office/443849.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "canter-ohio-467623",
+      "name": "CANTER Ohio",
+      "address": "3967 Karl Road, Columbus, OH 43224",
+      "phone": "614-266-3975",
+      "image": "https://cdn.findpawpal.com/office/467623.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cat-welfare-association-inc-423607",
+      "name": "Cat Welfare Association Inc",
+      "address": "741 Wetmore Road, Columbus, OH 43214",
+      "phone": "614-268-6096",
+      "image": "https://cdn.findpawpal.com/office/423607.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "columbus-cocker-rescue-443870",
+      "name": "Columbus Cocker Rescue",
+      "address": "PO Box 6503, Columbus, OH 43206",
+      "phone": "614-554-1300",
+      "image": "https://cdn.findpawpal.com/office/443870.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "columbus-dog-connection-457331",
+      "name": "Columbus Dog Connection",
+      "address": "2761 Johnstown Road, Columbus, OH 43219",
+      "phone": "614-471-9000",
+      "image": "https://cdn.findpawpal.com/office/457331.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "columbus-house-rabbit-society-466120",
+      "name": "Columbus House Rabbit Society",
+      "address": "PO Box 29444, Columbus, OH 43229",
+      "phone": "614-895-0004",
+      "image": "https://cdn.findpawpal.com/office/466120.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dog-sos-430765",
+      "name": "Dog Sos",
+      "address": "PO Box 14400, Columbus, OH 43214",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/430765.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "franklin-county-animal-shelter-430778",
+      "name": "Franklin County Animal Shelter",
+      "address": "1731 Alum Creek Drive, Columbus, OH 43207",
+      "phone": "614-462-4360",
+      "image": "https://cdn.findpawpal.com/office/430778.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "franklin-county-dog-shelter-432021",
+      "name": "Franklin County Dog Shelter",
+      "address": "4340 Tamarack Boulevard, Columbus, OH 43229",
+      "phone": "614-525-3647",
+      "image": "https://cdn.findpawpal.com/office/432021.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hand-me-down-dobes-inc-580226",
+      "name": "Hand Me Down Dobes, Inc.",
+      "address": "PO Box 12325, Columbus, OH 43212",
+      "phone": "614-470-2851",
+      "image": "https://cdn.findpawpal.com/office/580226.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "harris-farms-rescue-686336",
+      "name": "Harris Farms Rescue",
+      "address": "1255 Hart Road, Columbus, OH 43223",
+      "phone": "614-274-5896",
+      "image": "https://cdn.findpawpal.com/office/686336.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "heart-of-ohio-ferret-association-rescue-686326",
+      "name": "Heart of Ohio Ferret Association Rescue",
+      "address": "PO Box 15753, Columbus, OH 43215",
+      "phone": "614-885-6538",
+      "image": "https://cdn.findpawpal.com/office/686326.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ohio-pro-life-animal-rescue-inc-466414",
+      "name": "Ohio Pro-Life Animal Rescue, Inc.",
+      "address": "100 E Campus View Blvd Ste 250 PMB 8794, Columbus, OH 43235",
+      "phone": "800-875-0309",
+      "image": "https://cdn.findpawpal.com/office/466414.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ohio-pug-rescue-422650",
+      "name": "Ohio Pug Rescue",
+      "address": "1037 Acton Road, Columbus, OH 43224",
+      "phone": "614-262-2845",
+      "image": "https://cdn.findpawpal.com/office/422650.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ohio-state-animal-shelter-581779",
+      "name": "Ohio State Animal Shelter",
+      "address": "691 East Dublin Granville Road, Columbus, OH 43229",
+      "phone": "614-396-8707",
+      "image": "https://cdn.findpawpal.com/office/581779.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pawpac-686348",
+      "name": "Pawpac",
+      "address": "5108 Strawberry Farms Boulevard, Columbus, OH 43230",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/686348.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "petpromise-580195",
+      "name": "Petpromise",
+      "address": "PO Box 21091, Columbus, OH 43221",
+      "phone": "614-738-2149",
+      "image": "https://cdn.findpawpal.com/office/580195.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pets-found-by-the-internet-457373",
+      "name": "Pets Found By The Internet",
+      "address": "PO Box 163904, Columbus, OH 43216",
+      "phone": "614-459-9125",
+      "image": "https://cdn.findpawpal.com/office/457373.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pets-without-parents-466152",
+      "name": "Pets Without Parents",
+      "address": "629 Oakland Park Avenue, Columbus, OH 43214",
+      "phone": "614-267-7297",
+      "image": "https://cdn.findpawpal.com/office/466152.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "save-a-pet-686344",
+      "name": "Save A Pet",
+      "address": "4434 Westerville Road, Columbus, OH 43231",
+      "phone": "614-478-9313",
+      "image": "https://cdn.findpawpal.com/office/686344.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sk9-scottish-terrier-liberators-422667",
+      "name": "Sk9 Scottish Terrier Liberators",
+      "address": "PO Box 21304, Columbus, OH 43221",
+      "phone": "614-579-8421",
+      "image": "https://cdn.findpawpal.com/office/422667.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tri-state-collie-rescue-640405",
+      "name": "Tri-State Collie Rescue",
+      "address": "2960 East Powell Drive, Columbus, OH 43240",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/640405.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "concerned-citizens-640200",
+      "name": "Concerned Citizens",
+      "address": "389 Liberty Street, Conneaut, OH 44030",
+      "phone": "440-593-6004",
+      "image": "https://cdn.findpawpal.com/office/640200.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "eskie-rescuers-united-457889",
+      "name": "Eskie Rescuers United",
+      "address": "Copley, Copley, OH 44321",
+      "phone": "330-734-7704",
+      "image": "https://cdn.findpawpal.com/office/457889.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-animal-treatment-association-423546",
+      "name": "Humane Animal Treatment Association",
+      "address": "1672 Flint Lane, Coshocton, OH 43812",
+      "phone": "614-622-9741",
+      "image": "https://cdn.findpawpal.com/office/423546.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "whinny-horse-rescue-640034",
+      "name": "WHINNY Horse Rescue",
+      "address": "14076 Township Highway 7 Northeast, Crooksville, OH 43731",
+      "phone": "740-982-1257",
+      "image": "https://cdn.findpawpal.com/office/640034.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-guards-shelter-457885",
+      "name": "Pet Guards Shelter",
+      "address": "950 Hardy Road, Cuyahoga Falls, OH 44223",
+      "phone": "330-849-0635",
+      "image": "https://cdn.findpawpal.com/office/457885.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "almost-home-431827",
+      "name": "Almost Home",
+      "address": "447 Wyoming Street, Dayton, OH 45410",
+      "phone": "937-267-0063",
+      "image": "https://cdn.findpawpal.com/office/431827.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dayton-dog-adoption-581542",
+      "name": "Dayton Dog Adoption",
+      "address": "240 Kenwood Avenue, Dayton, OH 45405",
+      "phone": "937-274-4609",
+      "image": "https://cdn.findpawpal.com/office/581542.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greater-ohio-boxer-rescue-640024",
+      "name": "Greater Ohio Boxer Rescue",
+      "address": "PO Box 621, Dayton, OH 45405",
+      "phone": "937-277-4652",
+      "image": "https://cdn.findpawpal.com/office/640024.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-423570",
+      "name": "Humane Society",
+      "address": "1661 Nicholas Road, Dayton, OH 45417",
+      "phone": "937-268-7387",
+      "image": "https://cdn.findpawpal.com/office/423570.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kettering-animal-control-581763",
+      "name": "Kettering Animal Control",
+      "address": "3600 Shroyer Road, Dayton, OH 45429",
+      "phone": "937-296-3266",
+      "image": "https://cdn.findpawpal.com/office/581763.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "montgomery-county-animal-resource-center-457716",
+      "name": "Montgomery County: Animal Resource Center",
+      "address": "6790 Webster Street, Dayton, OH 45414",
+      "phone": "937-898-4457",
+      "image": "https://cdn.findpawpal.com/office/457716.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-shack-resort-the-467629",
+      "name": "Pet Shack Resort the",
+      "address": "354 West Social Row Road, Dayton, OH 45458",
+      "phone": "937-885-7171",
+      "image": "https://cdn.findpawpal.com/office/467629.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "puppy-pals-rescue-640268",
+      "name": "Puppy Pals Rescue",
+      "address": "4241 Country Glen Circle, Dayton, OH 45432",
+      "phone": "937-426-2643",
+      "image": "https://cdn.findpawpal.com/office/640268.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sicsa-pet-adoption-center-640027",
+      "name": "SICSA Pet Adoption Center",
+      "address": "2600 Wilmington Pike, Dayton, OH 45419",
+      "phone": "937-294-6505",
+      "image": "https://cdn.findpawpal.com/office/640027.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "defiance-county-animal-shelter-466023",
+      "name": "Defiance County Animal Shelter",
+      "address": "500 Court Street, Defiance, OH 43512",
+      "phone": "419-784-2335",
+      "image": "https://cdn.findpawpal.com/office/466023.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fort-defiance-humane-society-587055",
+      "name": "Fort Defiance Humane Society",
+      "address": "7169 Highway 15, Defiance, OH 43512",
+      "phone": "419-658-2298",
+      "image": "https://cdn.findpawpal.com/office/587055.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "delaware-county-dog-warden-467158",
+      "name": "Delaware County Dog Warden",
+      "address": "4781 County Home Road, Delaware, OH 43015",
+      "phone": "740-368-1915",
+      "image": "https://cdn.findpawpal.com/office/467158.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-delaware-county-581360",
+      "name": "Humane Society Of Delaware County",
+      "address": "37 Ohio Street, Delaware, OH 43015",
+      "phone": "740-369-7387",
+      "image": "https://cdn.findpawpal.com/office/581360.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "almost-home-dog-rescue-of-ohio-686612",
+      "name": "Almost Home Dog Rescue of Ohio",
+      "address": "4672 Aberdeen Avenue, Dublin, OH 43016",
+      "phone": "614-766-1001",
+      "image": "https://cdn.findpawpal.com/office/686612.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "angels4horses-rescue-foundation-686435",
+      "name": "Angels4horses Rescue Foundation",
+      "address": "15953 Annesley Road, East Liverpool, OH 43920",
+      "phone": "330-386-1091",
+      "image": "https://cdn.findpawpal.com/office/686435.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-center-444155",
+      "name": "Animal Rescue Center",
+      "address": "36370 Vine Street, Eastlake, OH 44095",
+      "phone": "440-942-1753",
+      "image": "https://cdn.findpawpal.com/office/444155.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "australian-cattle-dog-rescue-in-ohio-467130",
+      "name": "Australian Cattle Dog Rescue In Ohio",
+      "address": "2295 Old Camden Pike, Eaton, OH 45320",
+      "phone": "614-456-0952",
+      "image": "https://cdn.findpawpal.com/office/467130.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-preble-county-458285",
+      "name": "Humane Society of Preble County",
+      "address": "951 South Barron Street, Eaton, OH 45320",
+      "phone": "937-456-7387",
+      "image": "https://cdn.findpawpal.com/office/458285.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "miami-county-animal-shelter-640512",
+      "name": "Miami County Animal Shelter",
+      "address": "1110 County Road E, Edgerton, OH 43517",
+      "phone": "937-332-6919",
+      "image": "https://cdn.findpawpal.com/office/640512.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "angels-for-animals-rescue-league-467388",
+      "name": "Angels for Animals Rescue League",
+      "address": "211 South Greenlawn Avenue, Elida, OH 45807",
+      "phone": "419-339-9408",
+      "image": "https://cdn.findpawpal.com/office/467388.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "county-animals-rescue-evacuation-organization-581101",
+      "name": "County Animals Rescue Evacuation Organization",
+      "address": "PO Box 1496, Elyria, OH 44036",
+      "phone": "440-541-7494",
+      "image": "https://cdn.findpawpal.com/office/581101.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "erie-shores-humane-society-431050",
+      "name": "Erie Shores Humane Society",
+      "address": "PO Box 1041, Elyria, OH 44036",
+      "phone": "440-323-4231",
+      "image": "https://cdn.findpawpal.com/office/431050.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friendship-animal-protective-league-467187",
+      "name": "Friendship Animal Protective League",
+      "address": "8303 Murray Ridge Road, Elyria, OH 44035",
+      "phone": "440-322-4321",
+      "image": "https://cdn.findpawpal.com/office/467187.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "k9rezq-423235",
+      "name": "K9REZQ",
+      "address": "6333 Murray Ridge Road, Elyria, OH 44035",
+      "phone": "440-670-0101",
+      "image": "https://cdn.findpawpal.com/office/423235.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ohio-pet-placement-458252",
+      "name": "Ohio Pet Placement",
+      "address": "2555 North Ridge Road, Elyria, OH 44035",
+      "phone": "440-277-7400",
+      "image": "https://cdn.findpawpal.com/office/458252.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "petresq-inc-457636",
+      "name": "Petresq, Inc.",
+      "address": "PO Box 1992, Elyria, OH 44036",
+      "phone": "440-353-9696",
+      "image": "https://cdn.findpawpal.com/office/457636.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "euclid-animal-shelter-640317",
+      "name": "Euclid Animal Shelter",
+      "address": "25100 Lakeland Boulevard, Euclid, OH 44132",
+      "phone": "216-289-2057",
+      "image": "https://cdn.findpawpal.com/office/640317.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "save-our-strays-587019",
+      "name": "Save Our Strays",
+      "address": "PO Box 23394, Euclid, OH 44123",
+      "phone": "216-289-0496",
+      "image": "https://cdn.findpawpal.com/office/587019.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "home-at-last-431256",
+      "name": "Home at Last",
+      "address": "PO Box 13728, Fairlawn, OH 44334",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/431256.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "northeastern-ohio-rottweiler-rescue-466697",
+      "name": "Northeastern Ohio Rottweiler Rescue",
+      "address": "PO Box 13868, Fairlawn, OH 44334",
+      "phone": "330-865-5834",
+      "image": "https://cdn.findpawpal.com/office/466697.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-and-spca-of-hancock-county-467573",
+      "name": "Humane Society & SPCA of Hancock County",
+      "address": "4550 Fostoria Avenue, Findlay, OH 45840",
+      "phone": "419-423-1664",
+      "image": "https://cdn.findpawpal.com/office/467573.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "putnam-pet-rescue-423540",
+      "name": "Putnam Pet Rescue",
+      "address": "2123 Normandy Dr, Findlay, OH 45840",
+      "phone": "419-384-3785",
+      "image": "https://cdn.findpawpal.com/office/423540.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-sandusky-county-inc-466597",
+      "name": "Humane Society of Sandusky County Inc",
+      "address": "2520 Port Clinton Road, Fremont, OH 43420",
+      "phone": "419-334-4517",
+      "image": "https://cdn.findpawpal.com/office/466597.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "society-for-the-protection-of-animals-inc-580745",
+      "name": "Society for the Protection of Animals, Inc.",
+      "address": "PO Box 1047, Fremont, OH 43420",
+      "phone": "419-334-5521",
+      "image": "https://cdn.findpawpal.com/office/580745.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "gahanna-animal-control-467553",
+      "name": "Gahanna Animal Control",
+      "address": "460 Rocky Fork Boulevard, Gahanna, OH 43230",
+      "phone": "614-342-4240",
+      "image": "https://cdn.findpawpal.com/office/467553.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "gallia-county-animal-welfare-league-640462",
+      "name": "Gallia County Animal Welfare League",
+      "address": "PO Box 216, Gallipolis, OH 45631",
+      "phone": "740-446-1864",
+      "image": "https://cdn.findpawpal.com/office/640462.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tailwaggers-animal-rescue-588175",
+      "name": "Tailwagger's Animal Rescue",
+      "address": "10414 Plymouth Avenue, Garfield Heights, OH 44125",
+      "phone": "440-341-8741",
+      "image": "https://cdn.findpawpal.com/office/588175.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lake-erie-greyhound-rescue-inc-431386",
+      "name": "Lake Erie Greyhound Rescue Inc",
+      "address": "278 North Broadway, Geneva, OH 44041",
+      "phone": "440-466-1347",
+      "image": "https://cdn.findpawpal.com/office/431386.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brown-county-animal-shelter-686578",
+      "name": "Brown County Animal Shelter",
+      "address": "800 Mount Orab Pike, Georgetown, OH 45121",
+      "phone": "937-378-3457",
+      "image": "https://cdn.findpawpal.com/office/686578.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brown-county-humane-society-422469",
+      "name": "Brown County Humane Society",
+      "address": "PO Box 21228, Georgetown, OH 45121",
+      "phone": "937-378-2210",
+      "image": "https://cdn.findpawpal.com/office/422469.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "holmes-county-humane-society-686380",
+      "name": "Holmes County Humane Society",
+      "address": "15258 Township Road 15, Glenmont, OH 44628",
+      "phone": "330-377-4026",
+      "image": "https://cdn.findpawpal.com/office/686380.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "berger-county-humane-society-686507",
+      "name": "Berger County Humane Society",
+      "address": "7071 Bryant Lane, Goshen, OH 45122",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/686507.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ohio-basset-rescue-686509",
+      "name": "Ohio Basset Rescue",
+      "address": "2695 Cedarville Road, Goshen, OH 45122",
+      "phone": "513-625-2036",
+      "image": "https://cdn.findpawpal.com/office/686509.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "golden-retrievers-in-need-rescue-587491",
+      "name": "Golden Retrievers In Need Rescue",
+      "address": "PO Box 251, Grafton, OH 44044",
+      "phone": "216-556-4746",
+      "image": "https://cdn.findpawpal.com/office/587491.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "welsh-hills-animal-rescue-444216",
+      "name": "Welsh Hills Animal Rescue",
+      "address": "500 Welsh Lane, Granville, OH 43023",
+      "phone": "740-587-4042",
+      "image": "https://cdn.findpawpal.com/office/444216.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "darke-county-animal-shelter-686594",
+      "name": "Darke County Animal Shelter",
+      "address": "5115 County Home Road, Greenville, OH 45331",
+      "phone": "937-547-1645",
+      "image": "https://cdn.findpawpal.com/office/686594.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "darke-county-humane-society-686598",
+      "name": "Darke County Humane Society",
+      "address": "848 Martin Street, Greenville, OH 45331",
+      "phone": "937-548-1009",
+      "image": "https://cdn.findpawpal.com/office/686598.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "our-last-chance-inc-467243",
+      "name": "Our Last Chance, Inc.",
+      "address": "3629 South Creek Drive, Greenville, OH 45331",
+      "phone": "937-547-3939",
+      "image": "https://cdn.findpawpal.com/office/467243.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ohio-basset-hound-rescue-466074",
+      "name": "Ohio Basset Hound Rescue",
+      "address": "PO Box 816, Grove, OH 43123",
+      "phone": "614-871-4318",
+      "image": "https://cdn.findpawpal.com/office/466074.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ohio-society-for-the-prevention-of-cruelty-to-animals-587176",
+      "name": "Ohio Society for the Prevention of Cruelty to Animals",
+      "address": "PO Box 546, Grove, OH 43123",
+      "phone": "614-875-1810",
+      "image": "https://cdn.findpawpal.com/office/587176.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-adoption-foundation-581383",
+      "name": "Animal Adoption Foundation",
+      "address": "2480 Millville Ross Road, Hamilton, OH 45013",
+      "phone": "513-737-7387",
+      "image": "https://cdn.findpawpal.com/office/581383.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-friends-humane-society-581391",
+      "name": "Animal Friends Humane Society",
+      "address": "1820 Princeton Road, Hamilton, OH 45011",
+      "phone": "513-867-5727",
+      "image": "https://cdn.findpawpal.com/office/581391.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "roberson-dog-rescue-467484",
+      "name": "Roberson Dog Rescue",
+      "address": "3905 Millikin Road, Hamilton, OH 45011",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/467484.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "licking-county-animal-shelter-431036",
+      "name": "Licking County Animal Shelter",
+      "address": "544 Dog Leg Road, Heath, OH 43056",
+      "phone": "740-349-6562",
+      "image": "https://cdn.findpawpal.com/office/431036.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "licking-county-humane-society-444205",
+      "name": "Licking County Humane Society",
+      "address": "825 Thornwood Drive Southwest, Heath, OH 43056",
+      "phone": "740-323-2100",
+      "image": "https://cdn.findpawpal.com/office/444205.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "capital-area-humane-society-431797",
+      "name": "Capital Area Humane Society",
+      "address": "3015 Scioto Darby Executive Court, Hilliard, OH 43026",
+      "phone": "614-777-7387",
+      "image": "https://cdn.findpawpal.com/office/431797.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spay-neuter-incentive-project-and-sanctuary-466451",
+      "name": "Spay Neuter Incentive Project and Sanctuary",
+      "address": "4256 Darbyshire Court, Hilliard, OH 43026",
+      "phone": "419-527-7948",
+      "image": "https://cdn.findpawpal.com/office/466451.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "a-journey-home-animal-refuge-inc-430929",
+      "name": "A Journey Home Animal Refuge, Inc.",
+      "address": "5631 Riber Road, Hillsboro, OH 45133",
+      "phone": "937-840-9918",
+      "image": "https://cdn.findpawpal.com/office/430929.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "highland-county-dog-pound-580418",
+      "name": "Highland County Dog Pound",
+      "address": "9357 Highway 124, Hillsboro, OH 45133",
+      "phone": "937-393-1421",
+      "image": "https://cdn.findpawpal.com/office/580418.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "highland-county-humane-society-686374",
+      "name": "Highland County Humane Society",
+      "address": "9331 Route 124, Hillsboro, OH 45133",
+      "phone": "937-393-2110",
+      "image": "https://cdn.findpawpal.com/office/686374.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "old-mason-animal-rescue-580126",
+      "name": "Old Mason Animal Rescue",
+      "address": "PO Box 583, Huron, OH 44839",
+      "phone": "419-433-4348",
+      "image": "https://cdn.findpawpal.com/office/580126.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "independence-animal-shelter-640328",
+      "name": "Independence Animal Shelter",
+      "address": "6800 Brecksville Road, Independence, OH 44131",
+      "phone": "216-524-3033",
+      "image": "https://cdn.findpawpal.com/office/640328.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lawrence-county-humane-society-431011",
+      "name": "Lawrence County Humane Society",
+      "address": "PO Box 412, Ironton, OH 45638",
+      "phone": "740-532-6624",
+      "image": "https://cdn.findpawpal.com/office/431011.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jackson-county-dog-warden-457533",
+      "name": "Jackson County Dog Warden",
+      "address": "248 Reservoir Road, Jackson, OH 45640",
+      "phone": "740-286-7262",
+      "image": "https://cdn.findpawpal.com/office/457533.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jackson-county-humane-society-639914",
+      "name": "Jackson County Humane Society",
+      "address": "PO Box 1, Jackson, OH 45640",
+      "phone": "740-286-6435",
+      "image": "https://cdn.findpawpal.com/office/639914.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ashtabula-county-humane-society-457977",
+      "name": "Ashtabula County Humane Society",
+      "address": "PO Box 422, Jefferson, OH 44047",
+      "phone": "440-437-1425",
+      "image": "https://cdn.findpawpal.com/office/457977.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-humane-society-587455",
+      "name": "Second Chance Humane Society",
+      "address": "103 South Main Street, Johnstown, OH 43031",
+      "phone": "740-967-3700",
+      "image": "https://cdn.findpawpal.com/office/587455.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cozy-glider-686501",
+      "name": "Cozy Glider",
+      "address": "3766 Cascades Blvd, Kent, OH 44240",
+      "phone": "440-382-9494",
+      "image": "https://cdn.findpawpal.com/office/686501.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hardin-county-dog-pound-467682",
+      "name": "Hardin County Dog Pound",
+      "address": "1 Court House Square, Kenton, OH 43326",
+      "phone": "419-674-2209",
+      "image": "https://cdn.findpawpal.com/office/467682.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "in-good-hands-animal-sanctuary-466572",
+      "name": "In Good Hands Animal Sanctuary",
+      "address": "PO Box 34, Kingston, OH 45644",
+      "phone": "740-655-3060",
+      "image": "https://cdn.findpawpal.com/office/466572.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "purr-fect-companions-cat-sanctuary-431607",
+      "name": "Purr-fect Companions Cat Sanctuary",
+      "address": "PO Box 770992, Lakewood, OH 44107",
+      "phone": "216-671-6369",
+      "image": "https://cdn.findpawpal.com/office/431607.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fairfield-area-humane-society-686634",
+      "name": "Fairfield Area Humane Society",
+      "address": "1721 Granville Pike, Lancaster, OH 43130",
+      "phone": "740-687-0627",
+      "image": "https://cdn.findpawpal.com/office/686634.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fairfield-county-animal-shelter-458644",
+      "name": "Fairfield County Animal Shelter",
+      "address": "1582 East Main Street, Lancaster, OH 43130",
+      "phone": "740-654-3632",
+      "image": "https://cdn.findpawpal.com/office/458644.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "forgotten-4-paws-686320",
+      "name": "Forgotten 4-PAWS",
+      "address": "PO Box 1046, Lancaster, OH 43130",
+      "phone": "740-687-9244",
+      "image": "https://cdn.findpawpal.com/office/686320.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "whiskers-animal-welfare-and-education-inc-467423",
+      "name": "Whiskers Animal Welfare and Education, Inc.",
+      "address": "PO Box 127, Lancaster, OH 43130",
+      "phone": "740-687-0248",
+      "image": "https://cdn.findpawpal.com/office/467423.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-vocations-race-horse-adoption-program-686624",
+      "name": "New Vocations Race Horse Adoption Program",
+      "address": "3293 Wright Road, Laura, OH 45337",
+      "phone": "937-947-4020",
+      "image": "https://cdn.findpawpal.com/office/686624.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dachshund-rescue-of-ohio-467029",
+      "name": "Dachshund Rescue of Ohio",
+      "address": "3214 Oregonia Road, Lebanon, OH 45036",
+      "phone": "513-933-0585",
+      "image": "https://cdn.findpawpal.com/office/467029.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "warren-county-humane-association-423117",
+      "name": "Warren County Humane Association",
+      "address": "230 Cook Road, Lebanon, OH 45036",
+      "phone": "513-261-1176",
+      "image": "https://cdn.findpawpal.com/office/423117.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "putnam-county-humane-society-640570",
+      "name": "Putnam County Humane Society",
+      "address": "4017 Road 1, Leipsic, OH 45856",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/640570.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "allen-county-dog-control-department-640358",
+      "name": "Allen County Dog Control Department",
+      "address": "1165 Seriff, Lima, OH 45805",
+      "phone": "419-228-3700",
+      "image": "https://cdn.findpawpal.com/office/640358.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-humane-society-of-allen-county-458229",
+      "name": "The Humane Society of Allen County",
+      "address": "3606 Elida Road, Lima, OH 45807",
+      "phone": "419-991-1775",
+      "image": "https://cdn.findpawpal.com/office/458229.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "columbiana-county-dog-pound-686300",
+      "name": "Columbiana County Dog Pound",
+      "address": "131 North Jefferson Street, Lisbon, OH 44432",
+      "phone": "330-424-6663",
+      "image": "https://cdn.findpawpal.com/office/686300.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "columbiana-county-humane-society-586984",
+      "name": "Columbiana County Humane Society",
+      "address": "131 North Jefferson Street, Lisbon, OH 44432",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/586984.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "acerescue-ohio-horse-466450",
+      "name": "Acerescue Ohio Horse",
+      "address": "Rt 83, Litchfield, OH 44039",
+      "phone": "440-327-7219",
+      "image": "https://cdn.findpawpal.com/office/466450.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "a-little-patch-of-heaven-animal-rescue-444097",
+      "name": "A Little Patch of Heaven Animal Rescue",
+      "address": "501 Angle Avenue, Logan, OH 43138",
+      "phone": "740-777-1675",
+      "image": "https://cdn.findpawpal.com/office/444097.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hocking-county-humane-society-580423",
+      "name": "Hocking County Humane Society",
+      "address": "36069 Hocking Drive, Logan, OH 43138",
+      "phone": "740-380-9109",
+      "image": "https://cdn.findpawpal.com/office/580423.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-pet-orphanage-422779",
+      "name": "The Pet Orphanage",
+      "address": "34200 Keller Road, Logan, OH 43138",
+      "phone": "740-380-3002",
+      "image": "https://cdn.findpawpal.com/office/422779.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-madison-county-422921",
+      "name": "Humane Society of Madison County",
+      "address": "PO Box 777, London, OH 43140",
+      "phone": "740-852-7387",
+      "image": "https://cdn.findpawpal.com/office/422921.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spca-inc-639981",
+      "name": "Spca, Inc.",
+      "address": "PO Box 105, Lorain, OH 44052",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/639981.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "stark-county-humane-society-444486",
+      "name": "Stark County Humane Society",
+      "address": "5100 Peach Street Northeast, Louisville, OH 44641",
+      "phone": "330-453-5529",
+      "image": "https://cdn.findpawpal.com/office/444486.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lake-erie-labrador-retriever-rescue-inc-580491",
+      "name": "Lake Erie Labrador Retriever Rescue, Inc.",
+      "address": "2454 County Line Road, Madison, OH 44057",
+      "phone": "800-589-5726",
+      "image": "https://cdn.findpawpal.com/office/580491.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ladybugs-k9-rescue-445261",
+      "name": "Ladybugs K9 Rescue",
+      "address": "8240 Highway 314, Mansfield, OH 44904",
+      "phone": "419-946-5311",
+      "image": "https://cdn.findpawpal.com/office/445261.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mid-ohio-animal-welfare-league-686441",
+      "name": "Mid-Ohio Animal Welfare League",
+      "address": "PO Box 3842, Mansfield, OH 44907",
+      "phone": "419-566-3898",
+      "image": "https://cdn.findpawpal.com/office/686441.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "richland-county-dog-shelter-686517",
+      "name": "Richland County Dog Shelter",
+      "address": "810 North Home Road, Mansfield, OH 44906",
+      "phone": "419-774-5892",
+      "image": "https://cdn.findpawpal.com/office/686517.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "stop-the-overpopulation-pets-423254",
+      "name": "Stop the Overpopulation-Pets",
+      "address": "1152 Lexington Avenue, Mansfield, OH 44907",
+      "phone": "419-774-1738",
+      "image": "https://cdn.findpawpal.com/office/423254.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-the-ohio-valley-458577",
+      "name": "Humane Society of the Ohio Valley",
+      "address": "90 Mount Tom Road, Marietta, OH 45750",
+      "phone": "740-373-5959",
+      "image": "https://cdn.findpawpal.com/office/458577.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pioneer-city-friends-of-greyhounds-588608",
+      "name": "Pioneer City Friends of Greyhounds",
+      "address": "130 Rauch Drive, Marietta, OH 45750",
+      "phone": "740-374-4533",
+      "image": "https://cdn.findpawpal.com/office/588608.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "washington-county-humane-society-431949",
+      "name": "Washington County Humane Society",
+      "address": "320 4th Street, Marietta, OH 45750",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/431949.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "marion-area-humane-society-686420",
+      "name": "Marion Area Humane Society",
+      "address": "2264 Richland Road, Marion, OH 43302",
+      "phone": "740-389-6548",
+      "image": "https://cdn.findpawpal.com/office/686420.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cherished-cockers-467173",
+      "name": "Cherished Cockers",
+      "address": "14522 Hillview Road, Marysville, OH 43040",
+      "phone": "937-209-0000",
+      "image": "https://cdn.findpawpal.com/office/467173.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "marysville-animal-control-445427",
+      "name": "Marysville Animal Control",
+      "address": "1365 Oak Knoll Court, Marysville, OH 43040",
+      "phone": "937-642-8847",
+      "image": "https://cdn.findpawpal.com/office/445427.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "persian-rescue-457910",
+      "name": "Persian Rescue",
+      "address": "PO Box 623, Marysville, OH 43040",
+      "phone": "937-644-1694",
+      "image": "https://cdn.findpawpal.com/office/457910.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sunrise-sanctuary-423229",
+      "name": "Sunrise Sanctuary",
+      "address": "16730 Martin Welch Road, Marysville, OH 43040",
+      "phone": "937-578-8771",
+      "image": "https://cdn.findpawpal.com/office/423229.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "union-county-humane-society-467180",
+      "name": "Union County Humane Society",
+      "address": "16540 County Home Road, Marysville, OH 43040",
+      "phone": "937-642-6716",
+      "image": "https://cdn.findpawpal.com/office/467180.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tri-county-animal-protective-league-587704",
+      "name": "Tri-County Animal Protective League",
+      "address": "1611 Amherst Road Northeast, Massillon, OH 44646",
+      "phone": "330-833-8479",
+      "image": "https://cdn.findpawpal.com/office/587704.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "maumee-animal-control-588674",
+      "name": "Maumee Animal Control",
+      "address": "109 East Dudley Street, Maumee, OH 43537",
+      "phone": "419-897-7045",
+      "image": "https://cdn.findpawpal.com/office/588674.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "toledo-area-humane-society-587528",
+      "name": "Toledo Area Humane Society",
+      "address": "827 Illinois Avenue, Maumee, OH 43537",
+      "phone": "419-891-0705",
+      "image": "https://cdn.findpawpal.com/office/587528.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "painted-acres-animal-rescue-467224",
+      "name": "Painted Acres Animal Rescue",
+      "address": "68649 Dutch Lane, McArthur, OH 45651",
+      "phone": "740-596-4070",
+      "image": "https://cdn.findpawpal.com/office/467224.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "vinton-county-dog-kennel-686591",
+      "name": "Vinton County Dog Kennel",
+      "address": "31479 Highway 93, McArthur, OH 45651",
+      "phone": "740-596-9285",
+      "image": "https://cdn.findpawpal.com/office/686591.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "forgotten-animal-shelter-580633",
+      "name": "Forgotten Animal Shelter",
+      "address": "PO Box 46, Medina, OH 44258",
+      "phone": "330-723-9918",
+      "image": "https://cdn.findpawpal.com/office/580633.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hope-4-rabbits-431719",
+      "name": "Hope-4-Rabbits",
+      "address": "3527 Longwood Drive, Medina, OH 44256",
+      "phone": "330-239-4197",
+      "image": "https://cdn.findpawpal.com/office/431719.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kitten-krazy-inc-686588",
+      "name": "Kitten Krazy, Inc.",
+      "address": "930 Lafayette Road, Medina, OH 44256",
+      "phone": "330-421-4203",
+      "image": "https://cdn.findpawpal.com/office/686588.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "medina-animal-shelter-444317",
+      "name": "Medina Animal Shelter",
+      "address": "PO Box 183, Medina, OH 44258",
+      "phone": "330-722-1627",
+      "image": "https://cdn.findpawpal.com/office/444317.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "medina-county-animal-shelter-423477",
+      "name": "Medina County Animal Shelter",
+      "address": "6334 Deerview Lane, Medina, OH 44256",
+      "phone": "330-725-9121",
+      "image": "https://cdn.findpawpal.com/office/423477.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "medina-county-spca-587565",
+      "name": "Medina County SPCA",
+      "address": "245 South Medina Street, Medina, OH 44256",
+      "phone": "330-723-7722",
+      "image": "https://cdn.findpawpal.com/office/587565.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "newfoundland-rescue-program-467216",
+      "name": "Newfoundland Rescue Program",
+      "address": "5334 River Styx Road, Medina, OH 44256",
+      "phone": "330-725-0725",
+      "image": "https://cdn.findpawpal.com/office/467216.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-carlisle-friends-of-felines-inc-586951",
+      "name": "New Carlisle Friends of Felines, Inc.",
+      "address": "PO Box 232, Medway, OH 45341",
+      "phone": "937-845-3334",
+      "image": "https://cdn.findpawpal.com/office/586951.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "close-to-home-animal-rescue-580496",
+      "name": "Close to Home Animal Rescue",
+      "address": "PO Box 1061, Mentor, OH 44061",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/580496.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greater-ohio-dalmatian-rescue-639944",
+      "name": "Greater Ohio Dalmatian Rescue",
+      "address": "4946 Orchard Road, Mentor, OH 44060",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/639944.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lake-humane-society-639952",
+      "name": "Lake Humane Society",
+      "address": "7564 Tyler Boulevard, Mentor, OH 44060",
+      "phone": "440-951-6122",
+      "image": "https://cdn.findpawpal.com/office/639952.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "robyns-nest-inc-640396",
+      "name": "Robyn's Nest Inc",
+      "address": "130 North 1st Street, Miamisburg, OH 45342",
+      "phone": "937-247-9272",
+      "image": "https://cdn.findpawpal.com/office/640396.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "meigs-county-humane-society-466505",
+      "name": "Meigs County Humane Society",
+      "address": "305 North 2nd Avenue, Middleport, OH 45760",
+      "phone": "740-992-6064",
+      "image": "https://cdn.findpawpal.com/office/466505.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "angel-animal-rescue-431688",
+      "name": "Angel Animal Rescue",
+      "address": "5965 Todhunter Road, Middletown, OH 45044",
+      "phone": "513-539-8133",
+      "image": "https://cdn.findpawpal.com/office/431688.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "progressive-animal-welfare-society-640417",
+      "name": "Progressive Animal Welfare Society",
+      "address": "PO Box 684, Middletown, OH 45042",
+      "phone": "513-422-7297",
+      "image": "https://cdn.findpawpal.com/office/640417.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "holmes-county-dog-warden-466305",
+      "name": "Holmes County Dog Warden",
+      "address": "5387 Holmes County Trail (Fredericksburg - Millersburg), Millersburg, OH 44654",
+      "phone": "330-674-6301",
+      "image": "https://cdn.findpawpal.com/office/466305.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bonnies-animal-rescue-and-kennels-431897",
+      "name": "Bonnie's Animal Rescue and Kennels",
+      "address": "10571 Baltimore Road Southwest, Millersport, OH 43046",
+      "phone": "740-964-9651",
+      "image": "https://cdn.findpawpal.com/office/431897.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "indian-summers-border-collie-rescue-457815",
+      "name": "Indian Summers Border Collie Rescue",
+      "address": "2550 Fox Avenue Southeast, Minerva, OH 44657",
+      "phone": "330-862-0307",
+      "image": "https://cdn.findpawpal.com/office/457815.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "noahs-ark-animal-rescue-580783",
+      "name": "Noah's Ark Animal Rescue",
+      "address": "14772 Louisville Street Northeast, Minerva, OH 44657",
+      "phone": "330-823-0629",
+      "image": "https://cdn.findpawpal.com/office/580783.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mingo-junction-animal-shelter-432001",
+      "name": "Mingo Junction Animal Shelter",
+      "address": "5145 County Road 74, Mingo Junction, OH 43938",
+      "phone": "740-283-3650",
+      "image": "https://cdn.findpawpal.com/office/432001.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tri-state-shiba-inu-rescue-inc-466858",
+      "name": "Tri-State Shiba Inu Rescue, Inc.",
+      "address": "1288 Bees Run Road, Moscow, OH 45153",
+      "phone": "513-876-2864",
+      "image": "https://cdn.findpawpal.com/office/466858.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alaskan-malamute-assitance-league-588466",
+      "name": "Alaskan Malamute Assitance League",
+      "address": "PO Box 14, Mount Gilead, OH 43338",
+      "phone": "419-947-7948",
+      "image": "https://cdn.findpawpal.com/office/588466.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "morrow-county-dog-shelter-445256",
+      "name": "Morrow County Dog Shelter",
+      "address": "195 South Main Street, Mount Gilead, OH 43338",
+      "phone": "419-946-1747",
+      "image": "https://cdn.findpawpal.com/office/445256.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "morrow-county-humane-society-422962",
+      "name": "Morrow County Humane Society",
+      "address": "PO Box 235, Mount Gilead, OH 43338",
+      "phone": "419-947-5791",
+      "image": "https://cdn.findpawpal.com/office/422962.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "knox-county-dog-warden-587388",
+      "name": "Knox County Dog Warden",
+      "address": "350 Columbus Road, Mount Vernon, OH 43050",
+      "phone": "740-393-6713",
+      "image": "https://cdn.findpawpal.com/office/587388.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "knox-county-humane-society-444147",
+      "name": "Knox County Humane Society",
+      "address": "400 Columbus Road, Mount Vernon, OH 43050",
+      "phone": "740-392-2287",
+      "image": "https://cdn.findpawpal.com/office/444147.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "henry-county-humane-society-444084",
+      "name": "Henry County Humane Society",
+      "address": "1136 Independence Drive, Napoleon, OH 43545",
+      "phone": "419-592-3777",
+      "image": "https://cdn.findpawpal.com/office/444084.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "church-of-the-angels-422626",
+      "name": "Church of the Angels",
+      "address": "PO Box 510, New Albany, OH 43054",
+      "phone": "614-855-2494",
+      "image": "https://cdn.findpawpal.com/office/422626.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "last-chance-pet-rescue-443714",
+      "name": "Last Chance Pet Rescue",
+      "address": "PO Box 113, New Carlisle, OH 45344",
+      "phone": "888-929-7301",
+      "image": "https://cdn.findpawpal.com/office/443714.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "poundhounds-adoption-welfare-society-466820",
+      "name": "Poundhounds Adoption Welfare Society",
+      "address": "199 North Liberty Street, New Concord, OH 43762",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/466820.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "perry-county-dog-shelter-640530",
+      "name": "Perry County Dog Shelter",
+      "address": "1650 Commerce Drive, New Lexington, OH 43764",
+      "phone": "740-342-3795",
+      "image": "https://cdn.findpawpal.com/office/640530.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "perry-county-humane-society-686437",
+      "name": "Perry County Humane Society",
+      "address": "PO Box 105, New Lexington, OH 43764",
+      "phone": "740-347-4233",
+      "image": "https://cdn.findpawpal.com/office/686437.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "from-heaven-to-earth-rescue-inc-686640",
+      "name": "From Heaven to Earth Rescue, Inc.",
+      "address": "499 Dietrich Dr SE, New Philadelphia, OH 44663",
+      "phone": "330-465-6040",
+      "image": "https://cdn.findpawpal.com/office/686640.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "safe-harbour-doberman-rescue-467435",
+      "name": "Safe Harbour Doberman Rescue",
+      "address": "2206 Herbert Street Southeast, New Philadelphia, OH 44663",
+      "phone": "330-859-1102",
+      "image": "https://cdn.findpawpal.com/office/467435.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tuscarawas-county-dog-pound-467442",
+      "name": "Tuscarawas County Dog Pound",
+      "address": "441 University Drive Northeast, New Philadelphia, OH 44663",
+      "phone": "330-339-2616",
+      "image": "https://cdn.findpawpal.com/office/467442.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tuscarawas-county-humane-society-458546",
+      "name": "Tuscarawas County Humane Society",
+      "address": "1432 Tall Timber Road Northeast, New Philadelphia, OH 44663",
+      "phone": "330-343-6060",
+      "image": "https://cdn.findpawpal.com/office/458546.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "southwest-ohio-doberman-rescue-423221",
+      "name": "Southwest Ohio Doberman Rescue",
+      "address": "2524 Jett Hill Road, New Richmond, OH 45157",
+      "phone": "513-800-0738",
+      "image": "https://cdn.findpawpal.com/office/423221.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "newark-city-animal-control-686666",
+      "name": "Newark City Animal Control",
+      "address": "39 South 4th Street, Newark, OH 43055",
+      "phone": "740-670-7277",
+      "image": "https://cdn.findpawpal.com/office/686666.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "stop-the-suffering-466412",
+      "name": "Stop The Suffering",
+      "address": "3061 London Hollow Road Northeast, Newark, OH 43055",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/466412.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "honuchan-animal-sanctuary-inc-423411",
+      "name": "Honuchan Animal Sanctuary, Inc.",
+      "address": "131 55th Street Northwest, North Canton, OH 44720",
+      "phone": "330-494-8993",
+      "image": "https://cdn.findpawpal.com/office/423411.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-welfare-league-serving-clark-county-586944",
+      "name": "Animal Welfare League Serving Clark County",
+      "address": "PO Box 211, North Hampton, OH 45349",
+      "phone": "937-969-6351",
+      "image": "https://cdn.findpawpal.com/office/586944.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "saving-our-strays-cat-rescue-640192",
+      "name": "Saving Our Strays Cat Rescue",
+      "address": "PO Box 172, North Kingsville, OH 44068",
+      "phone": "440-224-2195",
+      "image": "https://cdn.findpawpal.com/office/640192.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "its-a-ruff-life-rescue-686534",
+      "name": "It's A Ruff Life Rescue",
+      "address": "11315 Sharrott Road, North Lima, OH 44452",
+      "phone": "234-759-4100",
+      "image": "https://cdn.findpawpal.com/office/686534.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rowdy-to-the-rescue-581256",
+      "name": "Rowdy to The Rescue",
+      "address": "7120 Josephine Drive, North Olmsted, OH 44070",
+      "phone": "440-225-2132",
+      "image": "https://cdn.findpawpal.com/office/581256.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "skunk-haven-inc-423425",
+      "name": "Skunk Haven, Inc.",
+      "address": "32072 Center Ridge Road, North Ridgeville, OH 44039",
+      "phone": "440-327-4349",
+      "image": "https://cdn.findpawpal.com/office/423425.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "north-royalton-shelter-431579",
+      "name": "North Royalton Shelter",
+      "address": "13834 Ridge Road, North Royalton, OH 44133",
+      "phone": "440-237-0665",
+      "image": "https://cdn.findpawpal.com/office/431579.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "stay-a-while-cat-shelter-458197",
+      "name": "Stay-A-While Cat Shelter",
+      "address": "8800 Akins Road, North Royalton, OH 44133",
+      "phone": "440-582-4990",
+      "image": "https://cdn.findpawpal.com/office/458197.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "forever-friends-foundation-444498",
+      "name": "Forever Friends Foundation",
+      "address": "PO Box 670903, Northfield, OH 44067",
+      "phone": "216-453-2670",
+      "image": "https://cdn.findpawpal.com/office/444498.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "huron-county-humane-society-457525",
+      "name": "Huron County Humane Society",
+      "address": "246 Woodlawn Avenue, Norwalk, OH 44857",
+      "phone": "419-663-7158",
+      "image": "https://cdn.findpawpal.com/office/457525.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "geauga-humane-society-rescue-village-423259",
+      "name": "Geauga Humane Society Rescue Village",
+      "address": "15463 Chillicothe Road, Novelty, OH 44072",
+      "phone": "440-338-4819",
+      "image": "https://cdn.findpawpal.com/office/423259.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oasis-animal-shelter-467431",
+      "name": "Oasis Animal Shelter",
+      "address": "872 Highway 511, Oberlin, OH 44074",
+      "phone": "440-775-4101",
+      "image": "https://cdn.findpawpal.com/office/467431.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "a-new-leash-on-life-rescue-581172",
+      "name": "A New Leash On Life Rescue",
+      "address": "9609 Grist Mill Run, Olmsted Falls, OH 44138",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/581172.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hope-organization-inc-686547",
+      "name": "HOPE Organization, Inc.",
+      "address": "24050 Sprague Road, Olmsted Falls, OH 44138",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/686547.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-richland-county-466564",
+      "name": "Humane Society of Richland County",
+      "address": "3025 Park Avenue West, Ontario, OH 44906",
+      "phone": "419-774-4795",
+      "image": "https://cdn.findpawpal.com/office/466564.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "purebred-adoption-league-640000",
+      "name": "Purebred Adoption League",
+      "address": "6660 Corduroy, Oregon, OH 43616",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/640000.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kitty-comfort-center-431694",
+      "name": "Kitty Comfort Center",
+      "address": "2774 North Law Road, Oxford, OH 45056",
+      "phone": "513-737-2287",
+      "image": "https://cdn.findpawpal.com/office/431694.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oxford-animal-control-640600",
+      "name": "Oxford Animal Control",
+      "address": "101 East High Street, Oxford, OH 45056",
+      "phone": "513-524-5260",
+      "image": "https://cdn.findpawpal.com/office/640600.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lake-county-dog-shelter-466657",
+      "name": "Lake County Dog Shelter",
+      "address": "2600 North Ridge Road, Painesville, OH 44077",
+      "phone": "440-350-2640",
+      "image": "https://cdn.findpawpal.com/office/466657.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mcoa-mastiff-rescue-466355",
+      "name": "Mcoa Mastiff Rescue",
+      "address": "6360 Conley Road, Painesville, OH 44077",
+      "phone": "440-639-0316",
+      "image": "https://cdn.findpawpal.com/office/466355.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "parma-animal-shelter-581252",
+      "name": "Parma Animal Shelter",
+      "address": "6260 State Road, Parma, OH 44134",
+      "phone": "440-885-8014",
+      "image": "https://cdn.findpawpal.com/office/581252.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spirits-cove-animal-rescue-co-640357",
+      "name": "Spirit's Cove Animal Rescue Co.",
+      "address": "2929 Commonwealth Drive, Parma, OH 44134",
+      "phone": "440-341-0042",
+      "image": "https://cdn.findpawpal.com/office/640357.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "buckeye-samoyed-rescue-431162",
+      "name": "Buckeye Samoyed Rescue",
+      "address": "PO Box 262, Payne, OH 45880",
+      "phone": "419-263-2613",
+      "image": "https://cdn.findpawpal.com/office/431162.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-greater-akron-580850",
+      "name": "Humane Society of Greater Akron",
+      "address": "4904 Quick Road, Peninsula, OH 44264",
+      "phone": "330-657-2010",
+      "image": "https://cdn.findpawpal.com/office/580850.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "perrysburg-animal-control-458617",
+      "name": "Perrysburg Animal Control",
+      "address": "330 Walnut Street, Perrysburg, OH 43551",
+      "phone": "419-872-8001",
+      "image": "https://cdn.findpawpal.com/office/458617.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-beginnigns-animal-shelter-inc-581626",
+      "name": "New Beginnigns Animal Shelter, Inc.",
+      "address": "PO Box 128, Pickerington, OH 43147",
+      "phone": "614-367-9328",
+      "image": "https://cdn.findpawpal.com/office/581626.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "circle-tail-inc-640151",
+      "name": "Circle Tail, Inc.",
+      "address": "8834 Carey Street, Pleasant Plain, OH 45162",
+      "phone": "513-877-3325",
+      "image": "https://cdn.findpawpal.com/office/640151.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "meigs-county-dog-pound-467266",
+      "name": "Meigs County Dog Pound",
+      "address": "41790 Fairgrounds Road, Pomeroy, OH 45769",
+      "phone": "740-992-3779",
+      "image": "https://cdn.findpawpal.com/office/467266.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-ottawa-county-640561",
+      "name": "Humane Society of Ottawa County",
+      "address": "2424 East Sand Road, Port Clinton, OH 43452",
+      "phone": "419-734-5191",
+      "image": "https://cdn.findpawpal.com/office/640561.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "safe-harbor-schnauzer-rescue-foundation-inc-458558",
+      "name": "Safe Harbor Schnauzer Rescue Foundation, Inc.",
+      "address": "1111 Fulton Street, Port Clinton, OH 43452",
+      "phone": "419-734-4502",
+      "image": "https://cdn.findpawpal.com/office/458558.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "county-dog-warden-587677",
+      "name": "County Dog Warden",
+      "address": "95 Arrowhead North Road, Portsmouth, OH 45662",
+      "phone": "740-353-8802",
+      "image": "https://cdn.findpawpal.com/office/587677.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "scioto-county-horse-rescue-431214",
+      "name": "Scioto County Horse Rescue",
+      "address": "922 Carver Ridge Road, Portsmouth, OH 45662",
+      "phone": "740-456-5953",
+      "image": "https://cdn.findpawpal.com/office/431214.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "scioto-county-humane-society-431208",
+      "name": "Scioto County Humane Society",
+      "address": "3114 Sheridan Road, Portsmouth, OH 45662",
+      "phone": "740-353-5517",
+      "image": "https://cdn.findpawpal.com/office/431208.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cozy-cat-cottage-adoption-center-467441",
+      "name": "Cozy Cat Cottage Adoption Center",
+      "address": "62 Village Pointe Drive, Powell, OH 43065",
+      "phone": "614-336-8510",
+      "image": "https://cdn.findpawpal.com/office/467441.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "happy-trails-farm-animal-sanctuary-inc-587919",
+      "name": "Happy Trails Farm Animal Sanctuary, Inc",
+      "address": "5623 New Milford Road, Ravenna, OH 44266",
+      "phone": "330-296-5914",
+      "image": "https://cdn.findpawpal.com/office/587919.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "portage-animal-protective-lg-587928",
+      "name": "Portage Animal Protective Lg",
+      "address": "8122 Infirmary Road, Ravenna, OH 44266",
+      "phone": "330-296-4022",
+      "image": "https://cdn.findpawpal.com/office/587928.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "portage-county-dog-warden-444693",
+      "name": "Portage County Dog Warden",
+      "address": "8120 Infirmary Road, Ravenna, OH 44266",
+      "phone": "330-297-6924",
+      "image": "https://cdn.findpawpal.com/office/444693.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lakewood-animal-shelter-431528",
+      "name": "Lakewood Animal Shelter",
+      "address": "1299 Cleveland Metro Park Drive, Rocky River, OH 44116",
+      "phone": "216-529-5020",
+      "image": "https://cdn.findpawpal.com/office/431528.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "roses-rescue-686439",
+      "name": "Roses Rescue",
+      "address": "PO Box 33, Rootstown, OH 44272",
+      "phone": "330-850-7042",
+      "image": "https://cdn.findpawpal.com/office/686439.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ohio-jack-russell-rescue-467041",
+      "name": "Ohio Jack Russell Rescue",
+      "address": "517 Riverside Drive, Rossford, OH 43460",
+      "phone": "419-666-9859",
+      "image": "https://cdn.findpawpal.com/office/467041.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alchemy-acres-animal-sanctuary-457208",
+      "name": "Alchemy Acres Animal Sanctuary",
+      "address": "1859 Depot Road, Salem, OH 44460",
+      "phone": "330-332-4897",
+      "image": "https://cdn.findpawpal.com/office/457208.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-columbiana-county-639707",
+      "name": "Humane Society of Columbiana County",
+      "address": "1825 South Lincoln Avenue, Salem, OH 44460",
+      "phone": "330-332-2600",
+      "image": "https://cdn.findpawpal.com/office/639707.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "erie-county-dog-shelter-443834",
+      "name": "Erie County Dog Shelter",
+      "address": "2900 Columbus Avenue, Sandusky, OH 44870",
+      "phone": "888-399-6065",
+      "image": "https://cdn.findpawpal.com/office/443834.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-erie-county-422574",
+      "name": "Humane Society of Erie County",
+      "address": "1911 Superior Street, Sandusky, OH 44870",
+      "phone": "419-626-6220",
+      "image": "https://cdn.findpawpal.com/office/422574.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sandusky-animal-control-640609",
+      "name": "Sandusky Animal Control",
+      "address": "222 Meigs Street, Sandusky, OH 44870",
+      "phone": "419-627-5887",
+      "image": "https://cdn.findpawpal.com/office/640609.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hollys-animal-haven-580527",
+      "name": "Hollys Animal Haven",
+      "address": "1379 Township Road 223, Scottown, OH 45678",
+      "phone": "740-886-9306",
+      "image": "https://cdn.findpawpal.com/office/580527.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alterpet-inc-431105",
+      "name": "Alterpet, Inc.",
+      "address": "PO Box 552, Sharon Center, OH 44274",
+      "phone": "330-321-6243",
+      "image": "https://cdn.findpawpal.com/office/431105.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "heartt-animal-refuge-457441",
+      "name": "Heartt Animal Refuge",
+      "address": "11354 Reading Road, Sharonville, OH 45241",
+      "phone": "513-368-4568",
+      "image": "https://cdn.findpawpal.com/office/457441.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-and-tails-rescue-inc-423249",
+      "name": "PAWS & Tails Rescue, Inc.",
+      "address": "4175 Route 61, Shelby, OH 44875",
+      "phone": "419-347-9296",
+      "image": "https://cdn.findpawpal.com/office/423249.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "shelby-county-humane-society-587682",
+      "name": "Shelby County Humane Society",
+      "address": "PO Box 203, Sidney, OH 45365",
+      "phone": "937-498-9462",
+      "image": "https://cdn.findpawpal.com/office/587682.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "northeast-ohio-collie-rescue-639726",
+      "name": "Northeast Ohio Collie Rescue",
+      "address": "PO Box 39281, Solon, OH 44139",
+      "phone": "330-682-7948",
+      "image": "https://cdn.findpawpal.com/office/639726.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "valley-save-a-pet-686308",
+      "name": "Valley Save a Pet",
+      "address": "PO Box 39221, Solon, OH 44139",
+      "phone": "440-232-9124",
+      "image": "https://cdn.findpawpal.com/office/686308.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cleveland-animal-control-467579",
+      "name": "Cleveland Animal Control",
+      "address": "4221 Wyncote Road, South Euclid, OH 44121",
+      "phone": "216-382-7387",
+      "image": "https://cdn.findpawpal.com/office/467579.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clark-county-animal-control-445406",
+      "name": "Clark County Animal Control",
+      "address": "6330 Willow Dale Road, Springfield, OH 45502",
+      "phone": "937-322-1121",
+      "image": "https://cdn.findpawpal.com/office/445406.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-serving-clark-county-586948",
+      "name": "Humane Society Serving Clark County",
+      "address": "5201 Urbana Road, Springfield, OH 45502",
+      "phone": "937-399-2917",
+      "image": "https://cdn.findpawpal.com/office/586948.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ohio-maltese-rescue-443709",
+      "name": "Ohio Maltese Rescue",
+      "address": "PO Box 223, Springfield, OH 45501",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/443709.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "one-more-chance-rescue-and-adoption-443720",
+      "name": "One More Chance Rescue and Adoption",
+      "address": "6810 Milton Carlisle Road, Springfield, OH 45504",
+      "phone": "937-216-3647",
+      "image": "https://cdn.findpawpal.com/office/443720.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "belmont-county-animal-rescue-league-686593",
+      "name": "Belmont County Animal Rescue League",
+      "address": "PO Box 115, St. Clairsville, OH 43950",
+      "phone": "614-695-4708",
+      "image": "https://cdn.findpawpal.com/office/686593.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "belmont-county-animal-shelter-467233",
+      "name": "Belmont County Animal Shelter",
+      "address": "45244 National Road West, St. Clairsville, OH 43950",
+      "phone": "740-695-4708",
+      "image": "https://cdn.findpawpal.com/office/467233.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sart-432083",
+      "name": "Sart",
+      "address": "PO Box 146, St. Marys, OH 45885",
+      "phone": "419-733-3650",
+      "image": "https://cdn.findpawpal.com/office/432083.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jefferson-county-animal-welfare-league-587384",
+      "name": "Jefferson County Animal Welfare League",
+      "address": "804 Longford Drive, Steubenville, OH 43952",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/587384.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "steubenville-animal-control-588641",
+      "name": "Steubenville Animal Control",
+      "address": "123 South 3rd Street, Steubenville, OH 43952",
+      "phone": "740-283-6002",
+      "image": "https://cdn.findpawpal.com/office/588641.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "german-shorthaired-pointer-care-of-ohio-rescue-457992",
+      "name": "German Shorthaired Pointer Care of Ohio Rescue",
+      "address": "9476 Seymour Drive, Streetsboro, OH 44241",
+      "phone": "330-626-4234",
+      "image": "https://cdn.findpawpal.com/office/457992.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "planned-pethood-inc-467419",
+      "name": "Planned Pethood, Inc.",
+      "address": "PO Box 178, Swanton, OH 43558",
+      "phone": "419-826-3499",
+      "image": "https://cdn.findpawpal.com/office/467419.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "team-greyhound-adoption-of-ohio-431071",
+      "name": "Team Greyhound Adoption of Ohio",
+      "address": "4413 County Road 2, Swanton, OH 43558",
+      "phone": "419-825-3476",
+      "image": "https://cdn.findpawpal.com/office/431071.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "buckeye-border-collie-rescue-inc-431794",
+      "name": "Buckeye Border Collie Rescue, Inc.",
+      "address": "3514 Township Line Road, Tiffin, OH 44883",
+      "phone": "419-447-8095",
+      "image": "https://cdn.findpawpal.com/office/431794.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "county-dog-warden-467585",
+      "name": "County Dog Warden",
+      "address": "3140 Route 100, Tiffin, OH 44883",
+      "phone": "419-448-5097",
+      "image": "https://cdn.findpawpal.com/office/467585.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "seneca-county-humane-society-588427",
+      "name": "Seneca County Humane Society",
+      "address": "2811 Route 100, Tiffin, OH 44883",
+      "phone": "419-447-5704",
+      "image": "https://cdn.findpawpal.com/office/588427.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "angel-on-call-dog-rescue-587500",
+      "name": "Angel On Call Dog Rescue",
+      "address": "PO Box 20007, Toledo, OH 43610",
+      "phone": "419-206-5486",
+      "image": "https://cdn.findpawpal.com/office/587500.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-ohio-423124",
+      "name": "Humane Ohio",
+      "address": "3131 Tremainsville Road, Toledo, OH 43613",
+      "phone": "419-266-5607",
+      "image": "https://cdn.findpawpal.com/office/423124.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lucas-county-kennel-458501",
+      "name": "Lucas County Kennel",
+      "address": "410 South Erie Street, Toledo, OH 43604",
+      "phone": "419-255-6119",
+      "image": "https://cdn.findpawpal.com/office/458501.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "maumee-valley-save-a-pet-686632",
+      "name": "Maumee Valley Save A Pet",
+      "address": "5250 Hill Avenue, Toledo, OH 43615",
+      "phone": "419-537-9663",
+      "image": "https://cdn.findpawpal.com/office/686632.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-and-whiskers-cat-shelter-423627",
+      "name": "Paws & Whiskers Cat Shelter",
+      "address": "38 Hillwyck Drive, Toledo, OH 43615",
+      "phone": "419-536-1914",
+      "image": "https://cdn.findpawpal.com/office/423627.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-shepherds-house-580599",
+      "name": "The Shepherds House",
+      "address": "1231 Albert Street, Toledo, OH 43605",
+      "phone": "419-691-8479",
+      "image": "https://cdn.findpawpal.com/office/580599.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "toledo-animal-shelter-association-431089",
+      "name": "Toledo Animal Shelter Association",
+      "address": "640 Wyman Street, Toledo, OH 43609",
+      "phone": "419-382-1130",
+      "image": "https://cdn.findpawpal.com/office/431089.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "voice-for-horses-rescue-444275",
+      "name": "Voice for Horses Rescue",
+      "address": "PO Box 566, Toledo, OH 43697",
+      "phone": "419-389-5529",
+      "image": "https://cdn.findpawpal.com/office/444275.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jefferson-county-animal-shelter-445411",
+      "name": "Jefferson County Animal Shelter",
+      "address": "200 Airport Road, Toronto, OH 43964",
+      "phone": "740-264-6888",
+      "image": "https://cdn.findpawpal.com/office/445411.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "trenton-animal-control-640599",
+      "name": "Trenton Animal Control",
+      "address": "5225 Trenton Rd, Trenton, OH 45067",
+      "phone": "513-867-5727",
+      "image": "https://cdn.findpawpal.com/office/640599.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "miami-county-humane-society-467675",
+      "name": "Miami County Humane Society",
+      "address": "1190 North Co Road 25A, Troy, OH 45373",
+      "phone": "937-335-9955",
+      "image": "https://cdn.findpawpal.com/office/467675.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ohio-papillon-pom-rescue-640520",
+      "name": "Ohio Papillon Pom Rescue",
+      "address": "1064 Dorchester Road, Troy, OH 45373",
+      "phone": "937-335-0380",
+      "image": "https://cdn.findpawpal.com/office/640520.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "freedom-greyhound-rescue-inc-587750",
+      "name": "Freedom Greyhound Rescue, Inc.",
+      "address": "PO Box 245, Twinsburg, OH 44087",
+      "phone": "877-504-7397",
+      "image": "https://cdn.findpawpal.com/office/587750.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cats-n-us-686638",
+      "name": "Cat's N Us",
+      "address": "128 North Uhrich Street, Uhrichsville, OH 44683",
+      "phone": "740-922-7575",
+      "image": "https://cdn.findpawpal.com/office/686638.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ohio-animal-control-association-580951",
+      "name": "Ohio Animal Control Association",
+      "address": "7790 Highway 199, Upper Sandusky, OH 43351",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/580951.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pot-and-fainter-savers-animal-640170",
+      "name": "Pot & Fainter Savers Animal",
+      "address": "6844 County Highway 61, Upper Sandusky, OH 43351",
+      "phone": "419-310-3322",
+      "image": "https://cdn.findpawpal.com/office/640170.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wyandot-county-humane-society-431346",
+      "name": "Wyandot County Humane Society",
+      "address": "9640 County Highway 330, Upper Sandusky, OH 43351",
+      "phone": "419-294-4477",
+      "image": "https://cdn.findpawpal.com/office/431346.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "barely-used-pets-466778",
+      "name": "Barely Used Pets",
+      "address": "2790 East US Highway 36, Urbana, OH 43078",
+      "phone": "937-869-8090",
+      "image": "https://cdn.findpawpal.com/office/466778.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "barley-used-pets-inc-423159",
+      "name": "Barley Used Pets, Inc.",
+      "address": "370 North Dugan Road, Urbana, OH 43078",
+      "phone": "937-653-8683",
+      "image": "https://cdn.findpawpal.com/office/423159.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-animal-shelter-686492",
+      "name": "Paws Animal Shelter",
+      "address": "1535 U.s. 36, Urbana, OH 43078",
+      "phone": "937-653-6233",
+      "image": "https://cdn.findpawpal.com/office/686492.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cuyahoga-county-animal-shelter-467845",
+      "name": "Cuyahoga County Animal Shelter",
+      "address": "9500 Sweet Valley Drive, Valley View, OH 44125",
+      "phone": "216-525-7877",
+      "image": "https://cdn.findpawpal.com/office/467845.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cuyahoga-county-animal-shelter-588106",
+      "name": "Cuyahoga County Animal Shelter",
+      "address": "9500 Sweet Valley Drive, Valley View, OH 44125",
+      "phone": "216-525-7877",
+      "image": "https://cdn.findpawpal.com/office/588106.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "van-wert-county-humane-society-445155",
+      "name": "Van Wert County Humane Society",
+      "address": "309 Bonnewitz Avenue, Van Wert, OH 45891",
+      "phone": "419-238-5088",
+      "image": "https://cdn.findpawpal.com/office/445155.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ohio-labrador-retriever-rescue-services-444330",
+      "name": "Ohio Labrador Retriever Rescue Services",
+      "address": "1235 Wilhelmina Drive, Vandalia, OH 45377",
+      "phone": "937-890-0325",
+      "image": "https://cdn.findpawpal.com/office/444330.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "saving-our-companions-457276",
+      "name": "Saving Our Companions",
+      "address": "1460 Hollyview Drive, Vermilion, OH 44089",
+      "phone": "440-714-2645",
+      "image": "https://cdn.findpawpal.com/office/457276.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "world-animal-foundation-639756",
+      "name": "World Animal Foundation",
+      "address": "5725 Liberty Avenue, Vermilion, OH 44089",
+      "phone": "440-963-0145",
+      "image": "https://cdn.findpawpal.com/office/639756.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sand-rescue-467533",
+      "name": "SAND Rescue",
+      "address": "6564 Medford Road, Versailles, OH 45380",
+      "phone": "419-336-1036",
+      "image": "https://cdn.findpawpal.com/office/467533.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "vienna-animal-control-458611",
+      "name": "Vienna Animal Control",
+      "address": "812 Youngstown Kingsville Road Southeast, Vienna, OH 44473",
+      "phone": "330-539-1519",
+      "image": "https://cdn.findpawpal.com/office/458611.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "auglaize-county-humane-society-588786",
+      "name": "Auglaize County Humane Society",
+      "address": "PO Box 305, Wapakoneta, OH 45895",
+      "phone": "419-738-7808",
+      "image": "https://cdn.findpawpal.com/office/588786.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-welfare-league-of-trumbull-county-431682",
+      "name": "Animal Welfare League of Trumbull County",
+      "address": "2830 Reeves Road Northeast, Warren, OH 44483",
+      "phone": "330-841-2549",
+      "image": "https://cdn.findpawpal.com/office/431682.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fayette-county-humane-society-580162",
+      "name": "Fayette County Humane Society",
+      "address": "153 South Main Street, Washington Court House, OH 43160",
+      "phone": "740-335-8126",
+      "image": "https://cdn.findpawpal.com/office/580162.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fayette-dog-warden-443840",
+      "name": "Fayette Dog Warden",
+      "address": "1550 Robinson Road Southeast, Washington Court House, OH 43160",
+      "phone": "740-335-6630",
+      "image": "https://cdn.findpawpal.com/office/443840.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "angels-haven-rescue-640464",
+      "name": "Angels Haven Rescue",
+      "address": "7587 Route 108, Wauseon, OH 43567",
+      "phone": "567-454-0767",
+      "image": "https://cdn.findpawpal.com/office/640464.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-house-rescue-430837",
+      "name": "Animal House Rescue",
+      "address": "PO Box 313, Wauseon, OH 43567",
+      "phone": "419-335-0773",
+      "image": "https://cdn.findpawpal.com/office/430837.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fulton-dog-pound-467569",
+      "name": "Fulton Dog Pound",
+      "address": "9200 County Road 14, Wauseon, OH 43567",
+      "phone": "419-337-9219",
+      "image": "https://cdn.findpawpal.com/office/467569.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pike-county-humane-society-466558",
+      "name": "Pike County Humane Society",
+      "address": "PO Box 444, Waverly, OH 45690",
+      "phone": "740-947-7775",
+      "image": "https://cdn.findpawpal.com/office/466558.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "least-of-these-dog-rescue-640378",
+      "name": "Least of These Dog Rescue",
+      "address": "51102 Betts Road, Wellington, OH 44090",
+      "phone": "440-774-5656",
+      "image": "https://cdn.findpawpal.com/office/640378.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "adams-county-humane-society-639666",
+      "name": "Adams County Humane Society",
+      "address": "711 Boyd Avenue, West Union, OH 45693",
+      "phone": "330-677-9621",
+      "image": "https://cdn.findpawpal.com/office/639666.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cat-connection-of-cincinnati-466193",
+      "name": "Cat Connection of Cincinnati",
+      "address": "PO Box 1654, Westchester, OH 45071",
+      "phone": "513-723-5161",
+      "image": "https://cdn.findpawpal.com/office/466193.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-outreach-686330",
+      "name": "Animal Outreach",
+      "address": "PO Box 892, Westerville, OH 43086",
+      "phone": "614-473-9244",
+      "image": "https://cdn.findpawpal.com/office/686330.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ohio-puppy-rescue-443930",
+      "name": "Ohio Puppy Rescue",
+      "address": "1272 Stone Ridge Court, Westerville, OH 43081",
+      "phone": "614-392-2028",
+      "image": "https://cdn.findpawpal.com/office/443930.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "willowick-animal-control-640589",
+      "name": "Willowick Animal Control",
+      "address": "36360 Vine Street, Willoughby, OH 44095",
+      "phone": "440-942-1753",
+      "image": "https://cdn.findpawpal.com/office/640589.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clinton-county-animal-shelter-430651",
+      "name": "Clinton County Animal Shelter",
+      "address": "1330 Fifth Ave, Wilmington, OH 45177",
+      "phone": "937-382-8388",
+      "image": "https://cdn.findpawpal.com/office/430651.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clinton-county-humane-society-443728",
+      "name": "Clinton County Humane Society",
+      "address": "1760 Fife Avenue, Wilmington, OH 45177",
+      "phone": "937-383-0703",
+      "image": "https://cdn.findpawpal.com/office/443728.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wilmington-area-humane-society-inc-586981",
+      "name": "Wilmington Area Humane Society, Inc.",
+      "address": "5361 U.s. 68, Wilmington, OH 45177",
+      "phone": "877-802-1633",
+      "image": "https://cdn.findpawpal.com/office/586981.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-monroe-county-466173",
+      "name": "Humane Society of Monroe County",
+      "address": "41383 Stonehouse Road, Woodsfield, OH 43793",
+      "phone": "740-934-2693",
+      "image": "https://cdn.findpawpal.com/office/466173.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "monroe-county-dog-pound-580660",
+      "name": "Monroe County Dog Pound",
+      "address": "47137 Highway 26, Woodsfield, OH 43793",
+      "phone": "740-472-0300",
+      "image": "https://cdn.findpawpal.com/office/580660.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "north-american-shar-pei-rescue-great-lakes-region-580956",
+      "name": "North American Shar-Pei Rescue Great Lakes Region",
+      "address": "2390 Cardinal Court, Wooster, OH 44691",
+      "phone": "330-202-7760",
+      "image": "https://cdn.findpawpal.com/office/580956.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wayne-county-humane-society-466769",
+      "name": "Wayne County Humane Society",
+      "address": "1161 Mechanicsburg Road, Wooster, OH 44691",
+      "phone": "330-262-0152",
+      "image": "https://cdn.findpawpal.com/office/466769.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "national-assocoation-of-pig-sanctuary-and-rescue-466166",
+      "name": "National Assocoation of Pig Sanctuary and Rescue",
+      "address": "PO Box 919, Worthington, OH 43085",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/466166.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "4-paws-for-ability-inc-458086",
+      "name": "4 PAWS for Ability, Inc.",
+      "address": "253 Dayton Avenue, Xenia, OH 45385",
+      "phone": "937-374-0385",
+      "image": "https://cdn.findpawpal.com/office/458086.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "advocates-4-animals-rescue-rehabilitation-588028",
+      "name": "Advocates 4 Animals Rescue Rehabilitation",
+      "address": "2727 East Kearney Lane, Xenia, OH 45385",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/588028.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greene-county-animal-control-640278",
+      "name": "Greene County Animal Control",
+      "address": "641 Dayton Xenia Road, Xenia, OH 45385",
+      "phone": "937-562-7400",
+      "image": "https://cdn.findpawpal.com/office/640278.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hole-in-the-wall-farms-423277",
+      "name": "Hole In The Wall Farms",
+      "address": "1550 Stone Road, Xenia, OH 45385",
+      "phone": "937-376-2700",
+      "image": "https://cdn.findpawpal.com/office/423277.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-greene-county-466179",
+      "name": "Humane Society-Greene County",
+      "address": "187 Bellbrook Avenue, Xenia, OH 45385",
+      "phone": "937-376-3001",
+      "image": "https://cdn.findpawpal.com/office/466179.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "no-place-like-home-444801",
+      "name": "No Place Like Home",
+      "address": "2727 East Kearney Lane, Xenia, OH 45385",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/444801.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cat-ladies-society-458126",
+      "name": "Cat Ladies Society",
+      "address": "2616 Mahoning Avenue, Youngstown, OH 44509",
+      "phone": "330-261-6162",
+      "image": "https://cdn.findpawpal.com/office/458126.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "falcon-animal-control-445501",
+      "name": "Falcon Animal Control",
+      "address": "6520 Mahoning Avenue, Youngstown, OH 44515",
+      "phone": "330-757-2351",
+      "image": "https://cdn.findpawpal.com/office/445501.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mahoning-county-humane-society-466964",
+      "name": "Mahoning County Humane Society",
+      "address": "PO Box 3965, Youngstown, OH 44513",
+      "phone": "330-533-5451",
+      "image": "https://cdn.findpawpal.com/office/466964.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-shelter-society-422967",
+      "name": "Animal Shelter Society",
+      "address": "1430 Newark Road, Zanesville, OH 43701",
+      "phone": "740-452-1077",
+      "image": "https://cdn.findpawpal.com/office/422967.jpg?f=webp&w=730"
+    }
+  ]
+}

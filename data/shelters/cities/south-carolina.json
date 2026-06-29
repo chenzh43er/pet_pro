@@ -1,0 +1,564 @@
+{
+  "fetchedAt": "2026-06-27T17:48:32.877783+00:00",
+  "state": {
+    "slug": "south-carolina",
+    "name": "South Carolina",
+    "offices": 140
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-carolina/",
+  "cities": [
+    {
+      "slug": "abbeville",
+      "name": "Abbeville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/abbeville/"
+    },
+    {
+      "slug": "aiken",
+      "name": "Aiken",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/aiken/"
+    },
+    {
+      "slug": "anderson",
+      "name": "Anderson",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/anderson/"
+    },
+    {
+      "slug": "barnwell",
+      "name": "Barnwell",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/barnwell/"
+    },
+    {
+      "slug": "beaufort",
+      "name": "Beaufort",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/beaufort/"
+    },
+    {
+      "slug": "belton",
+      "name": "Belton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/belton/"
+    },
+    {
+      "slug": "bennettsville",
+      "name": "Bennettsville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/bennettsville/"
+    },
+    {
+      "slug": "bethune",
+      "name": "Bethune",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/bethune/"
+    },
+    {
+      "slug": "bishopville",
+      "name": "Bishopville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/bishopville/"
+    },
+    {
+      "slug": "camden",
+      "name": "Camden",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/camden/"
+    },
+    {
+      "slug": "cayce",
+      "name": "Cayce",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/cayce/"
+    },
+    {
+      "slug": "chapin",
+      "name": "Chapin",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/chapin/"
+    },
+    {
+      "slug": "charleston",
+      "name": "Charleston",
+      "offices": 7,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/charleston/"
+    },
+    {
+      "slug": "cheraw",
+      "name": "Cheraw",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/cheraw/"
+    },
+    {
+      "slug": "chester",
+      "name": "Chester",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/chester/"
+    },
+    {
+      "slug": "chesterfield",
+      "name": "Chesterfield",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/chesterfield/"
+    },
+    {
+      "slug": "clinton",
+      "name": "Clinton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/clinton/"
+    },
+    {
+      "slug": "columbia",
+      "name": "Columbia",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/columbia/"
+    },
+    {
+      "slug": "conway",
+      "name": "Conway",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/conway/"
+    },
+    {
+      "slug": "cowpens",
+      "name": "Cowpens",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/cowpens/"
+    },
+    {
+      "slug": "dalzell",
+      "name": "Dalzell",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/dalzell/"
+    },
+    {
+      "slug": "darlington",
+      "name": "Darlington",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/darlington/"
+    },
+    {
+      "slug": "dillon",
+      "name": "Dillon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/dillon/"
+    },
+    {
+      "slug": "easley",
+      "name": "Easley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/easley/"
+    },
+    {
+      "slug": "florence",
+      "name": "Florence",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/florence/"
+    },
+    {
+      "slug": "fort-mill",
+      "name": "Fort Mill",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/fort-mill/"
+    },
+    {
+      "slug": "fountain-inn",
+      "name": "Fountain Inn",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/fountain-inn/"
+    },
+    {
+      "slug": "gaffney",
+      "name": "Gaffney",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/gaffney/"
+    },
+    {
+      "slug": "georgetown",
+      "name": "Georgetown",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/georgetown/"
+    },
+    {
+      "slug": "goose-creek",
+      "name": "Goose Creek",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/goose-creek/"
+    },
+    {
+      "slug": "greenville",
+      "name": "Greenville",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/greenville/"
+    },
+    {
+      "slug": "greenwood",
+      "name": "Greenwood",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/greenwood/"
+    },
+    {
+      "slug": "hartsville",
+      "name": "Hartsville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/hartsville/"
+    },
+    {
+      "slug": "hemingway",
+      "name": "Hemingway",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/hemingway/"
+    },
+    {
+      "slug": "hilton-head-island",
+      "name": "Hilton Head Island",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/hilton-head-island/"
+    },
+    {
+      "slug": "hopkins",
+      "name": "Hopkins",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/hopkins/"
+    },
+    {
+      "slug": "isle-of-palms",
+      "name": "Isle of Palms",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/isle-of-palms/"
+    },
+    {
+      "slug": "kingstree",
+      "name": "Kingstree",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/kingstree/"
+    },
+    {
+      "slug": "ladson",
+      "name": "Ladson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/ladson/"
+    },
+    {
+      "slug": "lancaster",
+      "name": "Lancaster",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/lancaster/"
+    },
+    {
+      "slug": "laurens",
+      "name": "Laurens",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/laurens/"
+    },
+    {
+      "slug": "lexington",
+      "name": "Lexington",
+      "offices": 6,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/lexington/"
+    },
+    {
+      "slug": "liberty",
+      "name": "Liberty",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/liberty/"
+    },
+    {
+      "slug": "manning",
+      "name": "Manning",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/manning/"
+    },
+    {
+      "slug": "marion",
+      "name": "Marion",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/marion/"
+    },
+    {
+      "slug": "mccormick",
+      "name": "McCormick",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/mccormick/"
+    },
+    {
+      "slug": "moncks-corner",
+      "name": "Moncks Corner",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/moncks-corner/"
+    },
+    {
+      "slug": "mount-pleasant",
+      "name": "Mount Pleasant",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/mount-pleasant/"
+    },
+    {
+      "slug": "mullins",
+      "name": "Mullins",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/mullins/"
+    },
+    {
+      "slug": "myrtle-beach",
+      "name": "Myrtle Beach",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/myrtle-beach/"
+    },
+    {
+      "slug": "newberry",
+      "name": "Newberry",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/newberry/"
+    },
+    {
+      "slug": "north-augusta",
+      "name": "North Augusta",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/north-augusta/"
+    },
+    {
+      "slug": "north-charleston",
+      "name": "North Charleston",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/north-charleston/"
+    },
+    {
+      "slug": "north-myrtle-beach",
+      "name": "North Myrtle Beach",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/north-myrtle-beach/"
+    },
+    {
+      "slug": "orangeburg",
+      "name": "Orangeburg",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/orangeburg/"
+    },
+    {
+      "slug": "pawleys-island",
+      "name": "Pawleys Island",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/pawleys-island/"
+    },
+    {
+      "slug": "rembert",
+      "name": "Rembert",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/rembert/"
+    },
+    {
+      "slug": "ridgeland",
+      "name": "Ridgeland",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/ridgeland/"
+    },
+    {
+      "slug": "rock-hill",
+      "name": "Rock Hill",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/rock-hill/"
+    },
+    {
+      "slug": "sandy-springs",
+      "name": "Sandy Springs",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/sandy-springs/"
+    },
+    {
+      "slug": "seneca",
+      "name": "Seneca",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/seneca/"
+    },
+    {
+      "slug": "simpsonville",
+      "name": "Simpsonville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/simpsonville/"
+    },
+    {
+      "slug": "spartanburg",
+      "name": "Spartanburg",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/spartanburg/"
+    },
+    {
+      "slug": "st-matthews",
+      "name": "St. Matthews",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/st-matthews/"
+    },
+    {
+      "slug": "summerville",
+      "name": "Summerville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/summerville/"
+    },
+    {
+      "slug": "sumter",
+      "name": "Sumter",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/sumter/"
+    },
+    {
+      "slug": "surfside-beach",
+      "name": "Surfside Beach",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/surfside-beach/"
+    },
+    {
+      "slug": "swansea",
+      "name": "Swansea",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/swansea/"
+    },
+    {
+      "slug": "tamassee",
+      "name": "Tamassee",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/tamassee/"
+    },
+    {
+      "slug": "tillman",
+      "name": "Tillman",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/tillman/"
+    },
+    {
+      "slug": "union",
+      "name": "Union",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/union/"
+    },
+    {
+      "slug": "varnville",
+      "name": "Varnville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/varnville/"
+    },
+    {
+      "slug": "walhalla",
+      "name": "Walhalla",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/walhalla/"
+    },
+    {
+      "slug": "walterboro",
+      "name": "Walterboro",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/walterboro/"
+    },
+    {
+      "slug": "ware-shoals",
+      "name": "Ware Shoals",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/ware-shoals/"
+    },
+    {
+      "slug": "west-columbia",
+      "name": "West Columbia",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/west-columbia/"
+    },
+    {
+      "slug": "winnsboro",
+      "name": "Winnsboro",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/winnsboro/"
+    },
+    {
+      "slug": "yemassee",
+      "name": "Yemassee",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/yemassee/"
+    },
+    {
+      "slug": "york",
+      "name": "York",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/york/"
+    }
+  ]
+}

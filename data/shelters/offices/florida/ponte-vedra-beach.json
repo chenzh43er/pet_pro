@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-06-27T18:16:44.894824+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "ponte-vedra-beach",
+    "name": "Ponte Vedra Beach",
+    "label": "Ponte Vedra Beach, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/ponte-vedra-beach/",
+  "offices": [
+    {
+      "slug": "bear-foundation-272178",
+      "name": "Bear Foundation",
+      "address": "100 Lamp Lighter Lane, Ponte Vedra Beach, FL 32082",
+      "phone": "904-285-4687",
+      "image": "https://cdn.findpawpal.com/office/272178.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/bear-foundation-272178/"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:44:56.657135+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "kingston",
+    "name": "Kingston",
+    "label": "Kingston, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/kingston/",
+  "offices": [
+    {
+      "officeId": 466572,
+      "slug": "in-good-hands-animal-sanctuary-466572",
+      "name": "In Good Hands Animal Sanctuary",
+      "address": "PO Box 34, Kingston, OH 45644",
+      "phone": "740-655-3060",
+      "image": "https://cdn.findpawpal.com/office/466572.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/in-good-hands-animal-sanctuary-466572/"
+    }
+  ]
+}

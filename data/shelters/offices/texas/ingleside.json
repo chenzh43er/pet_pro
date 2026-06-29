@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:05:58.886800+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "ingleside",
+    "name": "Ingleside",
+    "label": "Ingleside, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/ingleside/",
+  "offices": [
+    {
+      "officeId": 633634,
+      "slug": "ingleside-animal-control-633634",
+      "name": "Ingleside Animal Control",
+      "address": "2078 Tiner Lane, Ingleside, TX 78362",
+      "phone": "361-775-0154",
+      "image": "./img/shelter/office/633634.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ingleside-animal-control-633634/",
+      "imageUrl": "https://cdn.findpawpal.com/office/633634.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:06:05.894247+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "edgartown",
+    "name": "Edgartown",
+    "label": "Edgartown, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/edgartown/",
+  "offices": [
+    {
+      "officeId": 39922,
+      "slug": "marthas-vineyard-care-and-adoption-center-39922",
+      "name": "Martha's Vineyard Care and Adoption Center",
+      "address": "276 Edgartown-Vineyard Haven Road, Edgartown, MA 02539",
+      "phone": "508-627-8662",
+      "image": "./img/shelter/office/39922.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/marthas-vineyard-care-and-adoption-center-39922/",
+      "imageUrl": "https://cdn.findpawpal.com/office/39922.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 39930,
+      "slug": "pet-adoption-and-welfare-services-39930",
+      "name": "Pet Adoption & Welfare Services",
+      "address": "PO Box 1636, Edgartown, MA 02539",
+      "phone": "508-693-6614",
+      "image": "./img/shelter/office/39930.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-adoption-and-welfare-services-39930/",
+      "imageUrl": "https://cdn.findpawpal.com/office/39930.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 41767,
+      "slug": "edgartown-animal-control-41767",
+      "name": "Edgartown Animal Control",
+      "address": "165 Meetinghouse Way, Edgartown, MA 02539",
+      "phone": "508-627-9611",
+      "image": "./img/shelter/office/41767.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/edgartown-animal-control-41767/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41767.jpg?f=webp&w=730"
+    }
+  ]
+}

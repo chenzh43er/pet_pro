@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:21:28.770263+00:00",
+  "state": {
+    "slug": "montana",
+    "name": "Montana"
+  },
+  "city": {
+    "slug": "bigfork",
+    "name": "Bigfork",
+    "label": "Bigfork, MT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/montana/bigfork/",
+  "offices": [
+    {
+      "officeId": 470979,
+      "slug": "senior-dog-house-and-rescue-470979",
+      "name": "Senior Dog House and Rescue",
+      "address": "PO Box 2216, Bigfork, MT 59911",
+      "phone": "",
+      "image": "./img/shelter/office/470979.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/senior-dog-house-and-rescue-470979/",
+      "imageUrl": "https://cdn.findpawpal.com/office/470979.jpg?f=webp&w=730"
+    }
+  ]
+}

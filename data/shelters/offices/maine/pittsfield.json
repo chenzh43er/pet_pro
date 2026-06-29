@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:02:09.892170+00:00",
+  "state": {
+    "slug": "maine",
+    "name": "Maine"
+  },
+  "city": {
+    "slug": "pittsfield",
+    "name": "Pittsfield",
+    "label": "Pittsfield, ME"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maine/pittsfield/",
+  "offices": [
+    {
+      "officeId": 341014,
+      "slug": "pittsfield-animal-shelter-341014",
+      "name": "Pittsfield Animal Shelter",
+      "address": "PO Box 3965, Pittsfield, ME 04967",
+      "phone": "207-487-5104",
+      "image": "https://cdn.findpawpal.com/office/341014.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/pittsfield-animal-shelter-341014/"
+    }
+  ]
+}

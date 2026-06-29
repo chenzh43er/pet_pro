@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:42:33.984477+00:00",
+  "state": {
+    "slug": "north-dakota",
+    "name": "North Dakota"
+  },
+  "city": {
+    "slug": "west-fargo",
+    "name": "West Fargo",
+    "label": "West Fargo, ND"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-dakota/west-fargo/",
+  "offices": [
+    {
+      "officeId": 431527,
+      "slug": "center-for-avian-adoption-rescue-and-education-431527",
+      "name": "Center For Avian Adoption, Rescue, and Education",
+      "address": "2202 2nd Avenue East, West Fargo, ND 58078",
+      "phone": "701-293-3833",
+      "image": "./img/shelter/office/431527.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/center-for-avian-adoption-rescue-and-education-431527/",
+      "imageUrl": "https://cdn.findpawpal.com/office/431527.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 536899,
+      "slug": "west-fargo-animal-control-536899",
+      "name": "West Fargo Animal Control",
+      "address": "817 Main Avenue West, West Fargo, ND 58078",
+      "phone": "",
+      "image": "./img/shelter/office/536899.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/west-fargo-animal-control-536899/",
+      "imageUrl": "https://cdn.findpawpal.com/office/536899.jpg?f=webp&w=730"
+    }
+  ]
+}

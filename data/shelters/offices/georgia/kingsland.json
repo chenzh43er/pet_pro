@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:40:25.949978+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "kingsland",
+    "name": "Kingsland",
+    "label": "Kingsland, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/kingsland/",
+  "offices": [
+    {
+      "officeId": 133203,
+      "slug": "humane-society-of-camden-county-133203",
+      "name": "Humane Society of Camden County",
+      "address": "950 South Grove Boulevard, Kingsland, GA 31548",
+      "phone": "912-729-7141",
+      "image": "./img/shelter/office/133203.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-camden-county-133203/",
+      "imageUrl": "https://cdn.findpawpal.com/office/133203.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 160326,
+      "slug": "kingsland-animal-control-160326",
+      "name": "Kingsland Animal Control",
+      "address": "111 South Seaboard, Kingsland, GA 31548",
+      "phone": "912-729-1442",
+      "image": "./img/shelter/office/160326.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kingsland-animal-control-160326/",
+      "imageUrl": "https://cdn.findpawpal.com/office/160326.jpg?f=webp&w=730"
+    }
+  ]
+}

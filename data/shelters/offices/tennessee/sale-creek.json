@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:01:50.399968+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "sale-creek",
+    "name": "Sale Creek",
+    "label": "Sale Creek, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/sale-creek/",
+  "offices": [
+    {
+      "officeId": 685073,
+      "slug": "for-the-love-of-dogs-685073",
+      "name": "For the Love of Dogs",
+      "address": "917 Rocky Top Lane, Sale Creek, TN 37373",
+      "phone": "423-451-0589",
+      "image": "https://cdn.findpawpal.com/office/685073.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/for-the-love-of-dogs-685073/"
+    }
+  ]
+}

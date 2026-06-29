@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:54:54.677372+00:00",
+  "state": {
+    "slug": "kansas",
+    "name": "Kansas"
+  },
+  "city": {
+    "slug": "emporia",
+    "name": "Emporia",
+    "label": "Emporia, KS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kansas/emporia/",
+  "offices": [
+    {
+      "officeId": 5272,
+      "slug": "humane-society-of-lyon-county-5272",
+      "name": "Humane Society of Lyon County",
+      "address": "PO Box 845, Emporia, KS 66801",
+      "phone": "316-342-4477",
+      "image": "./img/shelter/office/5272.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-lyon-county-5272/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5272.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 5520,
+      "slug": "emporia-animal-shelter-5520",
+      "name": "Emporia Animal Shelter",
+      "address": "518 Mechanic Street, Emporia, KS 66801",
+      "phone": "316-342-5105",
+      "image": "./img/shelter/office/5520.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/emporia-animal-shelter-5520/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5520.jpg?f=webp&w=730"
+    }
+  ]
+}

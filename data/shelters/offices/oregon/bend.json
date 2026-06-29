@@ -1,0 +1,71 @@
+{
+  "fetchedAt": "2026-06-27T19:50:09.392729+00:00",
+  "state": {
+    "slug": "oregon",
+    "name": "Oregon"
+  },
+  "city": {
+    "slug": "bend",
+    "name": "Bend",
+    "label": "Bend, OR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oregon/bend/",
+  "offices": [
+    {
+      "officeId": 555329,
+      "slug": "animal-rescue-league-of-central-oregon-555329",
+      "name": "Animal Rescue League of Central Oregon",
+      "address": "63350 North Highway 97, Bend, OR 97701",
+      "phone": "541-318-5377",
+      "image": "https://cdn.findpawpal.com/office/555329.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-rescue-league-of-central-oregon-555329/"
+    },
+    {
+      "officeId": 613181,
+      "slug": "humane-society-of-central-oregon-613181",
+      "name": "Humane Society of Central Oregon",
+      "address": "61170 Southeast 27th Street, Bend, OR 97702",
+      "phone": "541-382-3537",
+      "image": "./img/shelter/office/613181.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-central-oregon-613181/",
+      "imageUrl": "https://cdn.findpawpal.com/office/613181.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 622009,
+      "slug": "chimps-incorporated-622009",
+      "name": "Chimps Incorporated",
+      "address": "PO Box 6973, Bend, OR 97708",
+      "phone": "541-330-8159",
+      "image": "https://cdn.findpawpal.com/office/622009.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/chimps-incorporated-622009/"
+    },
+    {
+      "officeId": 659611,
+      "slug": "cat-rescue-adoption-foster-team-659611",
+      "name": "Cat Rescue, Adoption Foster Team",
+      "address": "PO Box 6441, Bend, OR 97708",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/659611.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/cat-rescue-adoption-foster-team-659611/"
+    },
+    {
+      "officeId": 695491,
+      "slug": "equine-outreach-695491",
+      "name": "Equine Outreach",
+      "address": "63220 Silvis Road, Bend, OR 97701",
+      "phone": "541-419-4842",
+      "image": "./img/shelter/office/695491.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/equine-outreach-695491/",
+      "imageUrl": "https://cdn.findpawpal.com/office/695491.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 712934,
+      "slug": "bend-animal-control-712934",
+      "name": "Bend Animal Control",
+      "address": "PO Box 108, Bend, OR 97709",
+      "phone": "541-388-5550",
+      "image": "https://cdn.findpawpal.com/office/712934.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/bend-animal-control-712934/"
+    }
+  ]
+}

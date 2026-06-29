@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:58:31.481105+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "sparta",
+    "name": "Sparta",
+    "label": "Sparta, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/sparta/",
+  "offices": [
+    {
+      "officeId": 111922,
+      "slug": "gallatin-county-animal-shelter-111922",
+      "name": "Gallatin County Animal Shelter",
+      "address": "4550 KY Highway 455, Sparta, KY 41086",
+      "phone": "859-643-3647",
+      "image": "https://cdn.findpawpal.com/office/111922.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/gallatin-county-animal-shelter-111922/"
+    }
+  ]
+}

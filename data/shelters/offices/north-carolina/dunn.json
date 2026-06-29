@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:39:02.180964+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "dunn",
+    "name": "Dunn",
+    "label": "Dunn, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/dunn/",
+  "offices": [
+    {
+      "officeId": 272759,
+      "slug": "dunn-animal-control-272759",
+      "name": "Dunn Animal Control",
+      "address": "J W EDWARDS Ln, Dunn, NC 28334",
+      "phone": "910-892-3777",
+      "image": "./img/shelter/office/272759.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dunn-animal-control-272759/",
+      "imageUrl": "https://cdn.findpawpal.com/office/272759.jpg?f=webp&w=730"
+    }
+  ]
+}

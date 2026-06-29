@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:06:27.071841+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "hanover",
+    "name": "Hanover",
+    "label": "Hanover, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/hanover/",
+  "offices": [
+    {
+      "officeId": 43972,
+      "slug": "the-last-resort-43972",
+      "name": "The Last Resort",
+      "address": "1126 Broadway, Hanover, MA 02339",
+      "phone": "781-826-9560",
+      "image": "./img/shelter/office/43972.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-last-resort-43972/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43972.jpg?f=webp&w=730"
+    }
+  ]
+}

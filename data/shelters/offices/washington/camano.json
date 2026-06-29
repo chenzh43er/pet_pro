@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:17:25.143988+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "camano",
+    "name": "Camano",
+    "label": "Camano, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/camano/",
+  "offices": [
+    {
+      "officeId": 593542,
+      "slug": "camano-animal-shelter-593542",
+      "name": "Camano Animal Shelter",
+      "address": "50 Northeast Camano Drive, Camano, WA 98282",
+      "phone": "360-387-2682",
+      "image": "./img/shelter/office/593542.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/camano-animal-shelter-593542/",
+      "imageUrl": "https://cdn.findpawpal.com/office/593542.jpg?f=webp&w=730"
+    }
+  ]
+}

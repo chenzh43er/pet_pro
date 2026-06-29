@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:25:49.885227+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "east-orange",
+    "name": "East Orange",
+    "label": "East Orange, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/east-orange/",
+  "offices": [
+    {
+      "officeId": 95723,
+      "slug": "east-orange-dog-pound-95723",
+      "name": "East Orange Dog Pound",
+      "address": "133 Midland Avenue, East Orange, NJ 07017",
+      "phone": "973-266-5224",
+      "image": "./img/shelter/office/95723.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/east-orange-dog-pound-95723/",
+      "imageUrl": "https://cdn.findpawpal.com/office/95723.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 100929,
+      "slug": "east-orange-animal-control-100929",
+      "name": "East Orange Animal Control",
+      "address": "143 New Street, East Orange, NJ 07017",
+      "phone": "973-266-5109",
+      "image": "./img/shelter/office/100929.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/east-orange-animal-control-100929/",
+      "imageUrl": "https://cdn.findpawpal.com/office/100929.jpg?f=webp&w=730"
+    }
+  ]
+}

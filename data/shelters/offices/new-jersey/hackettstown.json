@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:26:16.898573+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "hackettstown",
+    "name": "Hackettstown",
+    "label": "Hackettstown, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/hackettstown/",
+  "offices": [
+    {
+      "officeId": 95338,
+      "slug": "warren-county-spca-95338",
+      "name": "Warren County SPCA",
+      "address": "PO Box 206, Hackettstown, NJ 07840",
+      "phone": "973-584-0095",
+      "image": "./img/shelter/office/95338.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/warren-county-spca-95338/",
+      "imageUrl": "https://cdn.findpawpal.com/office/95338.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 99579,
+      "slug": "new-beginnings-cat-rescue-99579",
+      "name": "New Beginnings Cat Rescue",
+      "address": "1885 Route 57, Hackettstown, NJ 07840",
+      "phone": "908-914-2371",
+      "image": "./img/shelter/office/99579.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-beginnings-cat-rescue-99579/",
+      "imageUrl": "https://cdn.findpawpal.com/office/99579.jpg?f=webp&w=730"
+    }
+  ]
+}

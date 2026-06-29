@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:11:26.168329+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "lincoln-park",
+    "name": "Lincoln Park",
+    "label": "Lincoln Park, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/lincoln-park/",
+  "offices": [
+    {
+      "officeId": 227606,
+      "slug": "lincoln-park-animal-control-227606",
+      "name": "Lincoln Park Animal Control",
+      "address": "500 Southfield Road, Lincoln Park, MI 48146",
+      "phone": "313-381-1800",
+      "image": "./img/shelter/office/227606.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lincoln-park-animal-control-227606/",
+      "imageUrl": "https://cdn.findpawpal.com/office/227606.jpg?f=webp&w=730"
+    }
+  ]
+}

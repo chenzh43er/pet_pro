@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:16:48.124558+00:00",
+  "state": {
+    "slug": "mississippi",
+    "name": "Mississippi"
+  },
+  "city": {
+    "slug": "mississippi-state",
+    "name": "Mississippi State",
+    "label": "Mississippi State, MS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/mississippi/mississippi-state/",
+  "offices": [
+    {
+      "officeId": 110369,
+      "slug": "mississippi-state-animal-control-110369",
+      "name": "Mississippi State Animal Control",
+      "address": "200 STONE Blvd, Mississippi State, MS 39762",
+      "phone": "662-325-3014",
+      "image": "https://cdn.findpawpal.com/office/110369.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/mississippi-state-animal-control-110369/"
+    }
+  ]
+}

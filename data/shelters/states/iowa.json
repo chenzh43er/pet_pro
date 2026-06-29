@@ -1,0 +1,846 @@
+{
+  "stateSlug": "iowa",
+  "count": 120,
+  "shelters": [
+    {
+      "slug": "ackley-animal-control-460505",
+      "name": "Ackley Animal Control",
+      "address": "208 State Street, Ackley, IA 50601",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/460505.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "aheinz57-pet-rescue-transport-461721",
+      "name": "Aheinz57 Pet Rescue Transport",
+      "address": "619 Greene Street, Adel, IA 50003",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/461721.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ames-animal-shelter-324074",
+      "name": "Ames Animal Shelter",
+      "address": "325 Billy Sunday Road, Ames, IA 50010",
+      "phone": "515-239-5530",
+      "image": "https://cdn.findpawpal.com/office/324074.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "iowa-alliance-for-animals-415519",
+      "name": "Iowa Alliance for Animals",
+      "address": "PO Box 1263, Ames, IA 50014",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/415519.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "iowa-state-university-humane-society-342387",
+      "name": "Iowa State University Humane Society",
+      "address": "PO Box 1102, Ames, IA 50014",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/342387.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "story-county-humane-society-461160",
+      "name": "Story County Humane Society",
+      "address": "244 Todd Circle, Ames, IA 50014",
+      "phone": "515-292-6584",
+      "image": "https://cdn.findpawpal.com/office/461160.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "anamosa-animal-control-416560",
+      "name": "Anamosa Animal Control",
+      "address": "118 South Elm Street, Anamosa, IA 52205",
+      "phone": "319-462-5683",
+      "image": "https://cdn.findpawpal.com/office/416560.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ankeny-city-animal-control-324671",
+      "name": "Ankeny City Animal Control",
+      "address": "211 Southwest Walnut Street, Ankeny, IA 50023",
+      "phone": "515-286-3376",
+      "image": "https://cdn.findpawpal.com/office/324671.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "atlantic-animal-shelter-345143",
+      "name": "Atlantic Animal Shelter",
+      "address": "309 Sunnyside Lane, Atlantic, IA 50022",
+      "phone": "712-243-2287",
+      "image": "https://cdn.findpawpal.com/office/345143.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "avoca-city-animal-shelter-326926",
+      "name": "Avoca City Animal Shelter",
+      "address": "107 Jack Frost Ave, Avoca, IA 51521",
+      "phone": "712-343-2353",
+      "image": "https://cdn.findpawpal.com/office/326926.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "boone-area-humane-society-326590",
+      "name": "Boone Area Humane Society",
+      "address": "228 West 16th Street, Boone, IA 50036",
+      "phone": "515-432-6112",
+      "image": "https://cdn.findpawpal.com/office/326590.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-protection-league-327151",
+      "name": "Animal Protection League",
+      "address": "2111 South 3rd Street, Burlington, IA 52601",
+      "phone": "319-753-0401",
+      "image": "https://cdn.findpawpal.com/office/327151.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "des-moines-county-humane-society-342060",
+      "name": "Des Moines County Humane Society",
+      "address": "2000 North Roosevelt Avenue, Burlington, IA 52601",
+      "phone": "319-753-8389",
+      "image": "https://cdn.findpawpal.com/office/342060.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-lifeline-of-iowa-inc-415644",
+      "name": "Animal Lifeline of Iowa, Inc.",
+      "address": "4989 Southeast 72nd Avenue, Carlisle, IA 50047",
+      "phone": "515-989-3473",
+      "image": "https://cdn.findpawpal.com/office/415644.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-of-carroll-327116",
+      "name": "Animal Rescue of Carroll",
+      "address": "PO Box 393, Carroll, IA 51401",
+      "phone": "712-790-9116",
+      "image": "https://cdn.findpawpal.com/office/327116.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "beloved-animals-431352",
+      "name": "Beloved Animals",
+      "address": "115 3rd Street Southeast, Cedar Rapids, IA 52401",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/431352.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cedar-rapids-animal-control-324677",
+      "name": "Cedar Rapids Animal Control",
+      "address": "900 76th Avenue Drive Southwest, Cedar Rapids, IA 52404",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/324677.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cedar-valley-humane-society-352687",
+      "name": "Cedar Valley Humane Society",
+      "address": "7411 Mount Vernon Road Southeast, Cedar Rapids, IA 52403",
+      "phone": "319-362-6288",
+      "image": "https://cdn.findpawpal.com/office/352687.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "citizens-for-animal-rights-of-eastern-323918",
+      "name": "Citizens for Animal Rights of Eastern",
+      "address": "5500 Ohio Street Southwest, Cedar Rapids, IA 52404",
+      "phone": "512-684-0320",
+      "image": "https://cdn.findpawpal.com/office/323918.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "eskie-rescuers-united-431349",
+      "name": "Eskie Rescuers United",
+      "address": "PO Box 8652, Cedar Rapids, IA 52408",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/431349.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-lucas-county-342256",
+      "name": "Humane Society of Lucas County",
+      "address": "188 Lincoln Avenue, Chariton, IA 50049",
+      "phone": "641-774-5113",
+      "image": "https://cdn.findpawpal.com/office/342256.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "charles-city-humane-society-460499",
+      "name": "Charles City Humane Society",
+      "address": "303 Shaw Avenue, Charles, IA 50616",
+      "phone": "641-257-0766",
+      "image": "https://cdn.findpawpal.com/office/460499.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clarinda-animal-control-328001",
+      "name": "Clarinda Animal Control",
+      "address": "629 West Laperla Drive, Clarinda, IA 51632",
+      "phone": "712-542-3605",
+      "image": "https://cdn.findpawpal.com/office/328001.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "southwest-iowa-humane-431445",
+      "name": "Southwest Iowa Humane",
+      "address": "Rural Route 3, Clarinda, IA 51632",
+      "phone": "712-542-2553",
+      "image": "https://cdn.findpawpal.com/office/431445.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "patriots-for-pets-342680",
+      "name": "Patriots for Pets",
+      "address": "805 North 40th Street, Clear Lake, IA 50428",
+      "phone": "641-357-8050",
+      "image": "https://cdn.findpawpal.com/office/342680.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-birth-control-328009",
+      "name": "Animal Birth Control",
+      "address": "2733 North 4th Street, Clinton, IA 52732",
+      "phone": "563-243-6276",
+      "image": "https://cdn.findpawpal.com/office/328009.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "carroll-county-animal-control-432318",
+      "name": "Carroll County Animal Control",
+      "address": "10735 MILL Rd, Clinton, IA 52732",
+      "phone": "563-244-9705",
+      "image": "https://cdn.findpawpal.com/office/432318.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-414890",
+      "name": "Humane Society",
+      "address": "1473 Main Avenue, Clinton, IA 52732",
+      "phone": "563-242-2457",
+      "image": "https://cdn.findpawpal.com/office/414890.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "adopt-a-friend-animal-sanctuary-416149",
+      "name": "Adopt-A-Friend Animal Sanctuary",
+      "address": "817 20th Avenue, Coralville, IA 52241",
+      "phone": "575-792-7387",
+      "image": "https://cdn.findpawpal.com/office/416149.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "coralville-city-animal-control-342974",
+      "name": "Coralville City Animal Control",
+      "address": "1503 5th Street, Coralville, IA 52241",
+      "phone": "319-248-1823",
+      "image": "https://cdn.findpawpal.com/office/342974.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "black-dragon-ferret-rescue-427533",
+      "name": "Black Dragon Ferret Rescue",
+      "address": "715 Cook Avenue, Council Bluffs, IA 51503",
+      "phone": "712-328-8754",
+      "image": "https://cdn.findpawpal.com/office/427533.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "council-bluffs-animal-shelter-461062",
+      "name": "Council Bluffs Animal Shelter",
+      "address": "2821 South 15th Street, Council Bluffs, IA 51501",
+      "phone": "712-328-4656",
+      "image": "https://cdn.findpawpal.com/office/461062.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pottawattamie-county-animal-control-416508",
+      "name": "Pottawattamie County Animal Control",
+      "address": "18670 Applewood Road, Council Bluffs, IA 51503",
+      "phone": "712-366-1143",
+      "image": "https://cdn.findpawpal.com/office/416508.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "creston-animal-control-352902",
+      "name": "Creston Animal Control",
+      "address": "PO Box 449, Creston, IA 50801",
+      "phone": "805-227-0205",
+      "image": "https://cdn.findpawpal.com/office/352902.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "creston-animal-rescue-effort-327621",
+      "name": "Creston Animal Rescue Effort",
+      "address": "1542 Cherry Street Road, Creston, IA 50801",
+      "phone": "641-782-2330",
+      "image": "https://cdn.findpawpal.com/office/327621.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dog-gone-rescue-327614",
+      "name": "Dog Gone Rescue",
+      "address": "205 South Sumner Avenue, Creston, IA 50801",
+      "phone": "641-202-6289",
+      "image": "https://cdn.findpawpal.com/office/327614.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "frys-country-bargains-and-pet-rescue-427926",
+      "name": "Fry's Country Bargains & Pet Rescue",
+      "address": "3351 110th Street, Creston, IA 50801",
+      "phone": "641-345-2568",
+      "image": "https://cdn.findpawpal.com/office/427926.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-scott-county-415869",
+      "name": "Humane Society of Scott County",
+      "address": "2802 West Central Park Avenue, Davenport, IA 52804",
+      "phone": "563-388-6655",
+      "image": "https://cdn.findpawpal.com/office/415869.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "iowa-weimaraner-rescue-352945",
+      "name": "Iowa Weimaraner Rescue",
+      "address": "906 West Pearl Street, Decorah, IA 52101",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/352945.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-pound-327277",
+      "name": "Animal Pound",
+      "address": "1530 6th Avenue South, Denison, IA 51442",
+      "phone": "712-263-8393",
+      "image": "https://cdn.findpawpal.com/office/327277.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-protection-society-of-iowa-342320",
+      "name": "Animal Protection Society of Iowa",
+      "address": "PO Box 57224, Des Moines, IA 50317",
+      "phone": "515-266-2005",
+      "image": "https://cdn.findpawpal.com/office/342320.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-league-of-ia-inc-432086",
+      "name": "Animal Rescue League of Ia Inc",
+      "address": "5452 Northeast 22nd Street, Des Moines, IA 50313",
+      "phone": "515-262-9503",
+      "image": "https://cdn.findpawpal.com/office/432086.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "des-moines-animal-control-416514",
+      "name": "Des Moines Animal Control",
+      "address": "3915 12th Street, Des Moines, IA 50313",
+      "phone": "515-288-8200",
+      "image": "https://cdn.findpawpal.com/office/416514.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "des-moines-animal-control-432094",
+      "name": "Des Moines Animal Control",
+      "address": "1615 Southeast 14th Street, Des Moines, IA 50320",
+      "phone": "515-284-6905",
+      "image": "https://cdn.findpawpal.com/office/432094.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-the-united-states-416206",
+      "name": "Humane Society of the United States",
+      "address": "1515 Linden Street, Des Moines, IA 50309",
+      "phone": "515-283-1393",
+      "image": "https://cdn.findpawpal.com/office/416206.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "raccoon-valley-animal-sanctuary-and-rescue-327414",
+      "name": "Raccoon Valley Animal Sanctuary & Rescue",
+      "address": "PO Box 312, Des Moines, IA 50302",
+      "phone": "515-577-1745",
+      "image": "https://cdn.findpawpal.com/office/327414.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dubuque-animal-control-416519",
+      "name": "Dubuque Animal Control",
+      "address": "1300 Main Street, Dubuque, IA 52001",
+      "phone": "563-589-4185",
+      "image": "https://cdn.findpawpal.com/office/416519.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dubuque-regional-humane-society-461823",
+      "name": "Dubuque Regional Humane Society",
+      "address": "4242 Chavenelle Road, Dubuque, IA 52002",
+      "phone": "563-582-6766",
+      "image": "https://cdn.findpawpal.com/office/461823.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-alliance-327204",
+      "name": "Animal Rescue Alliance",
+      "address": "1814 11th Ave Trlr 86, Eldora, IA 50627",
+      "phone": "641-858-4060",
+      "image": "https://cdn.findpawpal.com/office/327204.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "heart-342673",
+      "name": "HEART",
+      "address": "1502 7th Avenue, Eldora, IA 50627",
+      "phone": "641-939-2620",
+      "image": "https://cdn.findpawpal.com/office/342673.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cedar-rapids-animal-shelter-323902",
+      "name": "Cedar Rapids Animal Shelter",
+      "address": "1401 Cedar Bend Lane Southwest, Ely, IA 52227",
+      "phone": "319-848-7373",
+      "image": "https://cdn.findpawpal.com/office/323902.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "emmetsburg-animal-shelter-460959",
+      "name": "Emmetsburg Animal Shelter",
+      "address": "PO Box 417, Emmetsburg, IA 50536",
+      "phone": "712-852-2550",
+      "image": "https://cdn.findpawpal.com/office/460959.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "noahs-ark-animal-foundation-427135",
+      "name": "Noah's Ark Animal Foundation",
+      "address": "1986 West Gear Avenue, Fairfield, IA 52556",
+      "phone": "641-472-6080",
+      "image": "https://cdn.findpawpal.com/office/427135.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "almost-home-humane-society-of-north-central-iowa-431638",
+      "name": "Almost Home/Humane Society of North Central Iowa",
+      "address": "725 South 32nd Street, Fort Dodge, IA 50501",
+      "phone": "515-955-8343",
+      "image": "https://cdn.findpawpal.com/office/431638.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fort-madison-humane-society-352671",
+      "name": "Fort Madison Humane Society",
+      "address": "719 Avenue D, Fort Madison, IA 52627",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/352671.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paw-animal-shelter-415110",
+      "name": "PAW Animal Shelter",
+      "address": "2031 48th Street, Fort Madison, IA 52627",
+      "phone": "319-372-2274",
+      "image": "https://cdn.findpawpal.com/office/415110.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "glenwood-animal-shelter-327432",
+      "name": "Glenwood Animal Shelter",
+      "address": "21600 221st South, Glenwood, IA 51534",
+      "phone": "712-227-3565",
+      "image": "https://cdn.findpawpal.com/office/327432.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hooves-and-paws-rescue-inc-327372",
+      "name": "Hooves & Paws Rescue, Inc.",
+      "address": "27821 U.S. Route 34, Glenwood, IA 51534",
+      "phone": "712-527-3721",
+      "image": "https://cdn.findpawpal.com/office/327372.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "grinnell-animal-control-327438",
+      "name": "Grinnell Animal Control",
+      "address": "4167 20th Street, Grinnell, IA 50112",
+      "phone": "641-236-4288",
+      "image": "https://cdn.findpawpal.com/office/327438.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "guthrie-center-animal-control-342916",
+      "name": "Guthrie Center Animal Control",
+      "address": "700 North 3rd Street, Guthrie Center, IA 50115",
+      "phone": "641-247-9320",
+      "image": "https://cdn.findpawpal.com/office/342916.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "havelock-animal-shelter-327979",
+      "name": "Havelock Animal Shelter",
+      "address": "21940 450th Street, Havelock, IA 50546",
+      "phone": "712-776-2784",
+      "image": "https://cdn.findpawpal.com/office/327979.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humboldt-county-humane-society-327640",
+      "name": "Humboldt County Humane Society",
+      "address": "1008 11th Avenue North, Humboldt, IA 50548",
+      "phone": "515-332-3087",
+      "image": "https://cdn.findpawpal.com/office/327640.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kiya-koda-humane-society-427856",
+      "name": "Kiya Koda Humane Society",
+      "address": "1206 North Jefferson Way, Indianola, IA 50125",
+      "phone": "515-961-7080",
+      "image": "https://cdn.findpawpal.com/office/427856.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "iowa-city-animal-care-432079",
+      "name": "Iowa City Animal Care",
+      "address": "4852 Sand Road Southeast, Iowa, IA 52240",
+      "phone": "319-356-5295",
+      "image": "https://cdn.findpawpal.com/office/432079.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "johnson-county-humane-society-460654",
+      "name": "Johnson County Humane Society",
+      "address": "PO Box 2775, Iowa, IA 52244",
+      "phone": "319-338-3357",
+      "image": "https://cdn.findpawpal.com/office/460654.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greene-county-humane-society-460554",
+      "name": "Greene County Humane Society",
+      "address": "807 West Washington Street, Jefferson, IA 50129",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/460554.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-people-for-animal-welfare-society-344713",
+      "name": "PAWS, People for Animal Welfare Society",
+      "address": "605 West Russell Street, Jefferson, IA 50129",
+      "phone": "515-386-9814",
+      "image": "https://cdn.findpawpal.com/office/344713.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "keokuk-animal-shelter-327469",
+      "name": "Keokuk Animal Shelter",
+      "address": "249 Carbide Lane, Keokuk, IA 52632",
+      "phone": "319-526-5421",
+      "image": "https://cdn.findpawpal.com/office/327469.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "keokuk-humane-society-352659",
+      "name": "Keokuk Humane Society",
+      "address": "1129 Johnson Street, Keokuk, IA 52632",
+      "phone": "319-524-3816",
+      "image": "https://cdn.findpawpal.com/office/352659.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "south-east-iowa-parrot-rescue-323885",
+      "name": "South East Iowa Parrot Rescue",
+      "address": "3554 270th Avenue, Keokuk, IA 52632",
+      "phone": "319-670-0067",
+      "image": "https://cdn.findpawpal.com/office/323885.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "knoxville-animal-control-327994",
+      "name": "Knoxville Animal Control",
+      "address": "305 South 3rd Street, Knoxville, IA 50138",
+      "phone": "641-828-0554",
+      "image": "https://cdn.findpawpal.com/office/327994.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "knoxville-humane-society-323970",
+      "name": "Knoxville Humane Society",
+      "address": "1293 160th Avenue, Knoxville, IA 50138",
+      "phone": "515-828-7387",
+      "image": "https://cdn.findpawpal.com/office/323970.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "minnkota-persian-rescue-427911",
+      "name": "Minnkota Persian Rescue",
+      "address": "1765 110th Avenue, Lake Park, IA 51347",
+      "phone": "701-280-0055",
+      "image": "https://cdn.findpawpal.com/office/427911.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "iowa-parrot-rescue-415813",
+      "name": "Iowa Parrot Rescue",
+      "address": "2479 Golden Avenue, Letts, IA 52754",
+      "phone": "563-506-5479",
+      "image": "https://cdn.findpawpal.com/office/415813.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "harrison-county-humane-society-344748",
+      "name": "Harrison County Humane Society",
+      "address": "106 North 5th Avenue, Logan, IA 51546",
+      "phone": "712-644-3003",
+      "image": "https://cdn.findpawpal.com/office/344748.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jackson-county-humane-society-324297",
+      "name": "Jackson County Humane Society",
+      "address": "23354 Dark Hollow Road, Maquoketa, IA 52060",
+      "phone": "563-652-5360",
+      "image": "https://cdn.findpawpal.com/office/324297.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "companion-animal-network-323925",
+      "name": "Companion Animal Network",
+      "address": "2295 12th Avenue, Marion, IA 52302",
+      "phone": "317-578-1800",
+      "image": "https://cdn.findpawpal.com/office/323925.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-league-327360",
+      "name": "Animal Rescue League",
+      "address": "1921 Taylor Avenue, Marshalltown, IA 50158",
+      "phone": "641-753-9046",
+      "image": "https://cdn.findpawpal.com/office/327360.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-north-iowa-415987",
+      "name": "Humane Society of North Iowa",
+      "address": "2700 South Birch Drive, Mason, IA 50401",
+      "phone": "641-423-6241",
+      "image": "https://cdn.findpawpal.com/office/415987.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mason-city-animal-control-327425",
+      "name": "Mason City Animal Control",
+      "address": "78 South Georgia Avenue, Mason, IA 50401",
+      "phone": "641-421-3636",
+      "image": "https://cdn.findpawpal.com/office/327425.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "quad-cities-greyhound-adoption-461113",
+      "name": "Quad Cities Greyhound Adoption",
+      "address": "9525 New Liberty Road, Maysville, IA 52773",
+      "phone": "563-823-8900",
+      "image": "https://cdn.findpawpal.com/office/461113.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-northwest-iowa-427871",
+      "name": "Humane Society of Northwest Iowa",
+      "address": "607 28th Street, Milford, IA 51351",
+      "phone": "712-338-2738",
+      "image": "https://cdn.findpawpal.com/office/427871.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "muscatine-humane-society-431815",
+      "name": "Muscatine Humane Society",
+      "address": "920 South Houser Street, Muscatine, IA 52761",
+      "phone": "563-263-7358",
+      "image": "https://cdn.findpawpal.com/office/431815.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "appanoose-county-shelter-327242",
+      "name": "Appanoose County Shelter",
+      "address": "Rural Route 1, Mystic, IA 52574",
+      "phone": "515-568-4438",
+      "image": "https://cdn.findpawpal.com/office/327242.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "c-w-rustic-hollow-shelter-inc-414884",
+      "name": "C W Rustic Hollow Shelter, Inc",
+      "address": "PO Box 67, Nashua, IA 50658",
+      "phone": "641-435-4151",
+      "image": "https://cdn.findpawpal.com/office/414884.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "north-central-humane-services-326979",
+      "name": "North Central Humane Services",
+      "address": "217 Maple Avenue, Nevada, IA 50201",
+      "phone": "515-382-6225",
+      "image": "https://cdn.findpawpal.com/office/326979.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "story-county-animal-shelter-427644",
+      "name": "Story County Animal Shelter",
+      "address": "975 West Lincoln Highway, Nevada, IA 50201",
+      "phone": "515-382-3338",
+      "image": "https://cdn.findpawpal.com/office/427644.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jasper-co-animal-rescue-league-and-humane-society-431230",
+      "name": "Jasper Co Animal Rescue League and Humane Society",
+      "address": "5411 Liberty Avenue, Newton, IA 50208",
+      "phone": "641-792-5407",
+      "image": "https://cdn.findpawpal.com/office/431230.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clarke-county-animal-shelter-342626",
+      "name": "Clarke County Animal Shelter",
+      "address": "125 East Ayers Street, Osceola, IA 50213",
+      "phone": "641-342-1180",
+      "image": "https://cdn.findpawpal.com/office/342626.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mahaska-county-humane-society-352744",
+      "name": "Mahaska County Humane Society",
+      "address": "PO Box 404, Oskaloosa, IA 52577",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/352744.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "stephen-memorial-animal-shelter-415801",
+      "name": "Stephen Memorial Animal Shelter",
+      "address": "2299 235th Street, Oskaloosa, IA 52577",
+      "phone": "641-673-3991",
+      "image": "https://cdn.findpawpal.com/office/415801.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "heartland-humane-society-427757",
+      "name": "Heartland Humane Society",
+      "address": "314 Fox Sauk Road, Ottumwa, IA 52501",
+      "phone": "641-682-1228",
+      "image": "https://cdn.findpawpal.com/office/427757.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-welfare-foundation-of-iowa-327271",
+      "name": "Animal Welfare Foundation of Iowa",
+      "address": "2512 Davenport Avenue, Oxford Junction, IA 52323",
+      "phone": "563-826-2208",
+      "image": "https://cdn.findpawpal.com/office/327271.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pleasant-hill-city-library-432130",
+      "name": "Pleasant Hill City Library",
+      "address": "5151 Maple Drive, Pleasant Hill, IA 50327",
+      "phone": "515-266-7815",
+      "image": "https://cdn.findpawpal.com/office/432130.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pocahontas-animal-shelter-416283",
+      "name": "Pocahontas Animal Shelter",
+      "address": "209 North Main Street, Pocahontas, IA 50574",
+      "phone": "712-335-8016",
+      "image": "https://cdn.findpawpal.com/office/416283.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "montgomery-county-animal-shelter-432198",
+      "name": "Montgomery County Animal Shelter",
+      "address": "103 South Broadway Street, Red Oak, IA 51566",
+      "phone": "712-357-1159",
+      "image": "https://cdn.findpawpal.com/office/432198.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "calhoun-county-pound-326598",
+      "name": "Calhoun County Pound",
+      "address": "1228 West High Street, Rockwell, IA 50579",
+      "phone": "712-297-8323",
+      "image": "https://cdn.findpawpal.com/office/326598.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rowley-animal-control-462068",
+      "name": "Rowley Animal Control",
+      "address": "104 Ely Street, Rowley, IA 52329",
+      "phone": "319-938-2665",
+      "image": "https://cdn.findpawpal.com/office/462068.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rollin-on-race-horse-rescue-and-adoption-inc-415915",
+      "name": "Rollin' On Race Horse Rescue & Adoption, Inc.",
+      "address": "3269 Winston Avenue, Shelby, IA 51570",
+      "phone": "712-784-3615",
+      "image": "https://cdn.findpawpal.com/office/415915.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "high-steppin-farm-equine-rescue-324406",
+      "name": "High Steppin Farm Equine Rescue",
+      "address": "19948 Durango Road, Sherrill, IA 52073",
+      "phone": "563-590-9820",
+      "image": "https://cdn.findpawpal.com/office/324406.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sioux-city-animal-control-342833",
+      "name": "Sioux City Animal Control",
+      "address": "2121 18th Street, Sioux, IA 51105",
+      "phone": "712-279-6170",
+      "image": "https://cdn.findpawpal.com/office/342833.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "siouxland-humane-society-431983",
+      "name": "Siouxland Humane Society",
+      "address": "1015 Tri View Avenue, Sioux, IA 51103",
+      "phone": "712-252-2614",
+      "image": "https://cdn.findpawpal.com/office/431983.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "siouxland-paw-prints-animal-rescue-431991",
+      "name": "Siouxland Paw Prints Animal Rescue",
+      "address": "3221 Gordon Drive, Sioux, IA 51105",
+      "phone": "712-253-4099",
+      "image": "https://cdn.findpawpal.com/office/431991.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "witty-kitties-inc-428478",
+      "name": "Witty Kitties Inc",
+      "address": "3133 Roberts Ferry Road Northeast, Solon, IA 52333",
+      "phone": "319-848-3238",
+      "image": "https://cdn.findpawpal.com/office/428478.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "people-for-pets-431913",
+      "name": "People For Pets",
+      "address": "2312 Highway Boulevard, Spencer, IA 51301",
+      "phone": "712-580-2738",
+      "image": "https://cdn.findpawpal.com/office/431913.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "storm-lake-animal-control-342841",
+      "name": "Storm Lake Animal Control",
+      "address": "1710 Lake Avenue North, Storm Lake, IA 50588",
+      "phone": "712-732-2033",
+      "image": "https://cdn.findpawpal.com/office/342841.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tama-county-humane-society-431616",
+      "name": "Tama County Humane Society",
+      "address": "1406 East 5th Street, Tama, IA 52339",
+      "phone": "641-481-7001",
+      "image": "https://cdn.findpawpal.com/office/431616.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-for-the-animals-461470",
+      "name": "Friends For the Animals",
+      "address": "320 West 6th Street, Tipton, IA 52772",
+      "phone": "563-886-2361",
+      "image": "https://cdn.findpawpal.com/office/461470.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "truro-animal-control-428143",
+      "name": "Truro Animal Control",
+      "address": "120 East Center Street, Truro, IA 50257",
+      "phone": "515-765-4586",
+      "image": "https://cdn.findpawpal.com/office/428143.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pottawattamie-county-animal-control-324503",
+      "name": "Pottawattamie County Animal Control",
+      "address": "142 3rd Street, Underwood, IA 51576",
+      "phone": "712-566-3233",
+      "image": "https://cdn.findpawpal.com/office/324503.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "urbandale-animal-control-353315",
+      "name": "Urbandale Animal Control",
+      "address": "3740 Northwest 86th Street, Urbandale, IA 50322",
+      "phone": "515-222-3321",
+      "image": "https://cdn.findpawpal.com/office/353315.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-the-shelter-inc-324269",
+      "name": "Friends of the Shelter Inc",
+      "address": "5999 25th Avenue Trail, Vinton, IA 52349",
+      "phone": "319-472-4623",
+      "image": "https://cdn.findpawpal.com/office/324269.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-and-more-animal-shelter-431633",
+      "name": "Paws & More Animal Shelter",
+      "address": "1004 West Madison Street, Washington, IA 52353",
+      "phone": "319-653-6713",
+      "image": "https://cdn.findpawpal.com/office/431633.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cedar-bend-humane-society-415921",
+      "name": "Cedar Bend Humane Society",
+      "address": "1166 West Airline Highway, Waterloo, IA 50703",
+      "phone": "319-232-6887",
+      "image": "https://cdn.findpawpal.com/office/415921.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "waterloo-animal-control-416278",
+      "name": "Waterloo Animal Control",
+      "address": "1166 West Airline Highway, Waterloo, IA 50703",
+      "phone": "319-235-5335",
+      "image": "https://cdn.findpawpal.com/office/416278.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "protect-our-pets-of-iowa-342014",
+      "name": "Protect Our Pets of Iowa",
+      "address": "PO Box 704, West Branch, IA 52358",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/342014.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "4-the-dogs-rescue-326882",
+      "name": "4 the Dogs Rescue",
+      "address": "PO Box 27011, West Des Moines, IA 50265",
+      "phone": "515-681-9766",
+      "image": "https://cdn.findpawpal.com/office/326882.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "west-des-moines-animal-shelter-324025",
+      "name": "West Des Moines Animal Shelter",
+      "address": "PO Box 65320, West Des Moines, IA 50265",
+      "phone": "515-222-3364",
+      "image": "https://cdn.findpawpal.com/office/324025.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "safe-haven-of-iowa-county-460604",
+      "name": "Safe Haven of Iowa County",
+      "address": "PO Box 444, Williamsburg, IA 52361",
+      "phone": "319-325-0150",
+      "image": "https://cdn.findpawpal.com/office/460604.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "winterset-animal-control-428098",
+      "name": "Winterset Animal Control",
+      "address": "124 West Court Avenue, Winterset, IA 50273",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/428098.jpg?f=webp&w=730"
+    }
+  ]
+}

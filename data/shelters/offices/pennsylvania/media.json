@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:53:51.655843+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "media",
+    "name": "Media",
+    "label": "Media, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/media/",
+  "offices": [
+    {
+      "officeId": 688191,
+      "slug": "delaware-county-spca-688191",
+      "name": "Delaware County SPCA",
+      "address": "555 Sandy Bank Road, Media, PA 19063",
+      "phone": "610-566-1370",
+      "image": "https://cdn.findpawpal.com/office/688191.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/delaware-county-spca-688191/"
+    }
+  ]
+}

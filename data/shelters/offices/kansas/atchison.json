@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:54:38.163740+00:00",
+  "state": {
+    "slug": "kansas",
+    "name": "Kansas"
+  },
+  "city": {
+    "slug": "atchison",
+    "name": "Atchison",
+    "label": "Atchison, KS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kansas/atchison/",
+  "offices": [
+    {
+      "officeId": 5949,
+      "slug": "humane-society-of-atchison-5949",
+      "name": "Humane Society of Atchison",
+      "address": "100 North 21st Street, Atchison, KS 66002",
+      "phone": "913-367-3647",
+      "image": "./img/shelter/office/5949.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-atchison-5949/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5949.jpg?f=webp&w=730"
+    }
+  ]
+}

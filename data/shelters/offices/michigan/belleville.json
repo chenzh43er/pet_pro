@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:09:28.778676+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "belleville",
+    "name": "Belleville",
+    "label": "Belleville, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/belleville/",
+  "offices": [
+    {
+      "officeId": 207158,
+      "slug": "the-buster-foundation-207158",
+      "name": "The Buster Foundation",
+      "address": "41720 Savage Road, Belleville, MI 48111",
+      "phone": "734-697-1564",
+      "image": "./img/shelter/office/207158.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-buster-foundation-207158/",
+      "imageUrl": "https://cdn.findpawpal.com/office/207158.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 209645,
+      "slug": "michigan-state-animal-control-209645",
+      "name": "Michigan State Animal Control",
+      "address": "51299 Arkona Road, Belleville, MI 48111",
+      "phone": "734-461-9458",
+      "image": "./img/shelter/office/209645.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan-state-animal-control-209645/",
+      "imageUrl": "https://cdn.findpawpal.com/office/209645.jpg?f=webp&w=730"
+    }
+  ]
+}

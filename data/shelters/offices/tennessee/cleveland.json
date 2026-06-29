@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:59:37.387991+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "cleveland",
+    "name": "Cleveland",
+    "label": "Cleveland, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/cleveland/",
+  "offices": [
+    {
+      "officeId": 461134,
+      "slug": "cleveland-animal-control-461134",
+      "name": "Cleveland Animal Control",
+      "address": "360 Hill Street Southeast, Cleveland, TN 37311",
+      "phone": "423-479-2122",
+      "image": "./img/shelter/office/461134.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cleveland-animal-control-461134/",
+      "imageUrl": "https://cdn.findpawpal.com/office/461134.jpg?f=webp&w=730"
+    }
+  ]
+}

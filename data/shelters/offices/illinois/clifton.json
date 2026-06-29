@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:44:50.152883+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "clifton",
+    "name": "Clifton",
+    "label": "Clifton, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/clifton/",
+  "offices": [
+    {
+      "officeId": 384084,
+      "slug": "poyner-pet-rescue-384084",
+      "name": "Poyner Pet Rescue",
+      "address": "3014 North 1300 East Road, Clifton, IL 60927",
+      "phone": "815-450-1032",
+      "image": "https://cdn.findpawpal.com/office/384084.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/poyner-pet-rescue-384084/"
+    }
+  ]
+}

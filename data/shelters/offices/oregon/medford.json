@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:50:57.398742+00:00",
+  "state": {
+    "slug": "oregon",
+    "name": "Oregon"
+  },
+  "city": {
+    "slug": "medford",
+    "name": "Medford",
+    "label": "Medford, OR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oregon/medford/",
+  "offices": [
+    {
+      "officeId": 555099,
+      "slug": "southern-oregon-humane-society-555099",
+      "name": "Southern Oregon Humane Society",
+      "address": "2910 Table Rock Road, Medford, OR 97501",
+      "phone": "541-779-3215",
+      "image": "./img/shelter/office/555099.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/southern-oregon-humane-society-555099/",
+      "imageUrl": "https://cdn.findpawpal.com/office/555099.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 695423,
+      "slug": "committed-alliance-to-strays-695423",
+      "name": "Committed Alliance To Strays",
+      "address": "104 North Ross Lane, Medford, OR 97501",
+      "phone": "541-779-2916",
+      "image": "./img/shelter/office/695423.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/committed-alliance-to-strays-695423/",
+      "imageUrl": "https://cdn.findpawpal.com/office/695423.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:18:52.007154+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "grandin",
+    "name": "Grandin",
+    "label": "Grandin, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/grandin/",
+  "offices": [
+    {
+      "officeId": 238625,
+      "slug": "dobbs-animal-shelter-and-rescue-238625",
+      "name": "Dobbs Animal Shelter and Rescue",
+      "address": "PO Box 35, Grandin, MO 63943",
+      "phone": "573-593-4882",
+      "image": "https://cdn.findpawpal.com/office/238625.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/dobbs-animal-shelter-and-rescue-238625/"
+    }
+  ]
+}

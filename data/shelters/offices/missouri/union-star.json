@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:21:05.739454+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "union-star",
+    "name": "Union Star",
+    "label": "Union Star, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/union-star/",
+  "offices": [
+    {
+      "officeId": 238907,
+      "slug": "union-star-animal-control-238907",
+      "name": "Union Star Animal Control",
+      "address": "PO Box 96, Union Star, MO 64494",
+      "phone": "816-593-2533",
+      "image": "./img/shelter/office/238907.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/union-star-animal-control-238907/",
+      "imageUrl": "https://cdn.findpawpal.com/office/238907.jpg?f=webp&w=730"
+    }
+  ]
+}

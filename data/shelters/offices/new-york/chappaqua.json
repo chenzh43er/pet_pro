@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:32:27.267836+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "chappaqua",
+    "name": "Chappaqua",
+    "label": "Chappaqua, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/chappaqua/",
+  "offices": [
+    {
+      "officeId": 341561,
+      "slug": "promise-farm-341561",
+      "name": "Promise Farm",
+      "address": "12 Garey Drive, Chappaqua, NY 10514",
+      "phone": "914-948-2094",
+      "image": "./img/shelter/office/341561.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/promise-farm-341561/",
+      "imageUrl": "https://cdn.findpawpal.com/office/341561.jpg?f=webp&w=730"
+    }
+  ]
+}

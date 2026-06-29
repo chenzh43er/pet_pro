@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:21:45.227815+00:00",
+  "state": {
+    "slug": "montana",
+    "name": "Montana"
+  },
+  "city": {
+    "slug": "great-falls",
+    "name": "Great Falls",
+    "label": "Great Falls, MT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/montana/great-falls/",
+  "offices": [
+    {
+      "officeId": 424187,
+      "slug": "reptiles-snakes-shelter-and-rescue-424187",
+      "name": "Reptiles Snakes Shelter and Rescue",
+      "address": "1016 8th Avenue South, Great Falls, MT 59405",
+      "phone": "406-866-0078",
+      "image": "./img/shelter/office/424187.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/reptiles-snakes-shelter-and-rescue-424187/",
+      "imageUrl": "https://cdn.findpawpal.com/office/424187.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 438305,
+      "slug": "great-falls-animal-shelter-438305",
+      "name": "Great Falls Animal Shelter",
+      "address": "1010 25th Avenue Northeast, Great Falls, MT 59404",
+      "phone": "406-454-2276",
+      "image": "./img/shelter/office/438305.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/great-falls-animal-shelter-438305/",
+      "imageUrl": "https://cdn.findpawpal.com/office/438305.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 440263,
+      "slug": "auroras-mysticatz-and-mystimutz-440263",
+      "name": "Aurora's Mysticatz and Mystimutz",
+      "address": "911 5th Avenue Northwest, Great Falls, MT 59404",
+      "phone": "406-952-1472",
+      "image": "./img/shelter/office/440263.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/auroras-mysticatz-and-mystimutz-440263/",
+      "imageUrl": "https://cdn.findpawpal.com/office/440263.jpg?f=webp&w=730"
+    }
+  ]
+}

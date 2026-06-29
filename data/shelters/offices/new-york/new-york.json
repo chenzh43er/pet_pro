@@ -1,0 +1,285 @@
+{
+  "fetchedAt": "2026-06-27T19:35:19.443718+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "new-york",
+    "name": "New York",
+    "label": "New York, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/new-york/",
+  "offices": [
+    {
+      "officeId": 312271,
+      "slug": "neighborhood-cats-inc-312271",
+      "name": "Neighborhood Cats, Inc.",
+      "address": "2565 Broadway, New York, NY 10025",
+      "phone": "212-662-5761",
+      "image": "./img/shelter/office/312271.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/neighborhood-cats-inc-312271/",
+      "imageUrl": "https://cdn.findpawpal.com/office/312271.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 312327,
+      "slug": "heart-and-hand-society-inc-312327",
+      "name": "Heart and Hand Society, Inc.",
+      "address": "319 East 50th Street, New York, NY 10022",
+      "phone": "212-421-7920",
+      "image": "./img/shelter/office/312327.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/heart-and-hand-society-inc-312327/",
+      "imageUrl": "https://cdn.findpawpal.com/office/312327.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 315274,
+      "slug": "farm-sanctuary-315274",
+      "name": "Farm Sanctuary",
+      "address": "PO Box 845, New York, NY 10040",
+      "phone": "212-567-4556",
+      "image": "./img/shelter/office/315274.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/farm-sanctuary-315274/",
+      "imageUrl": "https://cdn.findpawpal.com/office/315274.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 315829,
+      "slug": "friends-of-animals-315829",
+      "name": "Friends of Animals",
+      "address": "1841 Broadway, New York, NY 10023",
+      "phone": "212-247-8120",
+      "image": "./img/shelter/office/315829.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-animals-315829/",
+      "imageUrl": "https://cdn.findpawpal.com/office/315829.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 329970,
+      "slug": "westside-animal-rescue-329970",
+      "name": "Westside Animal Rescue",
+      "address": "PO Box 2313, New York, NY 10108",
+      "phone": "212-757-2924",
+      "image": "./img/shelter/office/329970.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/westside-animal-rescue-329970/",
+      "imageUrl": "https://cdn.findpawpal.com/office/329970.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 329980,
+      "slug": "pet-project-alliance-329980",
+      "name": "Pet Project Alliance",
+      "address": "PO Box 1926, New York, NY 10159",
+      "phone": "",
+      "image": "./img/shelter/office/329980.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-project-alliance-329980/",
+      "imageUrl": "https://cdn.findpawpal.com/office/329980.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 329989,
+      "slug": "animal-care-and-control-of-new-york-city-329989",
+      "name": "Animal Care and Control of New York City",
+      "address": "11 Park Place, New York, NY 10007",
+      "phone": "212-788-4000",
+      "image": "./img/shelter/office/329989.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-care-and-control-of-new-york-city-329989/",
+      "imageUrl": "https://cdn.findpawpal.com/office/329989.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 331076,
+      "slug": "anjellicle-cats-rescue-331076",
+      "name": "Anjellicle Cats Rescue",
+      "address": "1280 Lexington Avenue, New York, NY 10028",
+      "phone": "646-457-2130",
+      "image": "./img/shelter/office/331076.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/anjellicle-cats-rescue-331076/",
+      "imageUrl": "https://cdn.findpawpal.com/office/331076.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 331081,
+      "slug": "beauty-without-cruelty-331081",
+      "name": "Beauty Without Cruelty",
+      "address": "175 West 12th Street, New York, NY 10011",
+      "phone": "212-989-8073",
+      "image": "./img/shelter/office/331081.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/beauty-without-cruelty-331081/",
+      "imageUrl": "https://cdn.findpawpal.com/office/331081.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 332572,
+      "slug": "sentient-creatures-inc-332572",
+      "name": "Sentient Creatures, Inc.",
+      "address": "PO Box 765, New York, NY 10025",
+      "phone": "212-865-5998",
+      "image": "./img/shelter/office/332572.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sentient-creatures-inc-332572/",
+      "imageUrl": "https://cdn.findpawpal.com/office/332572.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 332624,
+      "slug": "humane-society-of-new-york-332624",
+      "name": "Humane Society of New York",
+      "address": "306 East 59th Street, New York, NY 10022",
+      "phone": "212-752-4840",
+      "image": "./img/shelter/office/332624.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-new-york-332624/",
+      "imageUrl": "https://cdn.findpawpal.com/office/332624.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 332636,
+      "slug": "nyc-siamese-rescue-332636",
+      "name": "Nyc Siamese Rescue",
+      "address": "PO Box 1602, New York, NY 10163",
+      "phone": "646-349-3644",
+      "image": "./img/shelter/office/332636.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/nyc-siamese-rescue-332636/",
+      "imageUrl": "https://cdn.findpawpal.com/office/332636.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 332694,
+      "slug": "brooklyn-city-animal-shelter-332694",
+      "name": "Brooklyn City Animal Shelter",
+      "address": "2336 Linden Boulevard, New York, NY 11208",
+      "phone": "718-649-8600",
+      "image": "./img/shelter/office/332694.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/brooklyn-city-animal-shelter-332694/",
+      "imageUrl": "https://cdn.findpawpal.com/office/332694.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 332701,
+      "slug": "mayors-alliance-for-nycs-animals-332701",
+      "name": "Mayor's Alliance for Nyc's Animals",
+      "address": "244 5th Avenue, New York, NY 10001",
+      "phone": "212-252-2350",
+      "image": "./img/shelter/office/332701.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mayors-alliance-for-nycs-animals-332701/",
+      "imageUrl": "https://cdn.findpawpal.com/office/332701.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 334414,
+      "slug": "animal-haven-334414",
+      "name": "Animal Haven",
+      "address": "251 Centre Street, New York, NY 10013",
+      "phone": "212-274-8511",
+      "image": "./img/shelter/office/334414.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-haven-334414/",
+      "imageUrl": "https://cdn.findpawpal.com/office/334414.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 340715,
+      "slug": "new-york-cat-gang-340715",
+      "name": "New York Cat Gang",
+      "address": "353 West 47th Street, New York, NY 10036",
+      "phone": "212-664-0561",
+      "image": "./img/shelter/office/340715.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york-cat-gang-340715/",
+      "imageUrl": "https://cdn.findpawpal.com/office/340715.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 340724,
+      "slug": "tails-in-need-340724",
+      "name": "Tails In Need",
+      "address": "357 East 57th Street, New York, NY 10022",
+      "phone": "212-223-3893",
+      "image": "./img/shelter/office/340724.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tails-in-need-340724/",
+      "imageUrl": "https://cdn.findpawpal.com/office/340724.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 397384,
+      "slug": "the-caring-corps-397384",
+      "name": "The Caring Corps",
+      "address": "PO Box 319, New York, NY 10028",
+      "phone": "212-737-9358",
+      "image": "./img/shelter/office/397384.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-caring-corps-397384/",
+      "imageUrl": "https://cdn.findpawpal.com/office/397384.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 400465,
+      "slug": "kittykind-inc-400465",
+      "name": "Kittykind, Inc.",
+      "address": "860 Broadway, New York, NY 10003",
+      "phone": "212-726-2652",
+      "image": "./img/shelter/office/400465.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kittykind-inc-400465/",
+      "imageUrl": "https://cdn.findpawpal.com/office/400465.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 415248,
+      "slug": "coalition-for-new-york-city-animals-415248",
+      "name": "Coalition for New York City Animals",
+      "address": "PO Box 20247, New York, NY 10025",
+      "phone": "212-865-0561",
+      "image": "./img/shelter/office/415248.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/coalition-for-new-york-city-animals-415248/",
+      "imageUrl": "https://cdn.findpawpal.com/office/415248.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 416591,
+      "slug": "aspca-416591",
+      "name": "ASPCA",
+      "address": "424 East 92nd Street, New York, NY 10128",
+      "phone": "212-876-7700",
+      "image": "./img/shelter/office/416591.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/aspca-416591/",
+      "imageUrl": "https://cdn.findpawpal.com/office/416591.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 417964,
+      "slug": "manxalot-rescue-417964",
+      "name": "Manxalot Rescue",
+      "address": "576 Richmond Road, New York, NY 10304",
+      "phone": "",
+      "image": "./img/shelter/office/417964.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/manxalot-rescue-417964/",
+      "imageUrl": "https://cdn.findpawpal.com/office/417964.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 435782,
+      "slug": "carriage-horse-action-435782",
+      "name": "Carriage Horse Action",
+      "address": "PO Box 1280, New York, NY 10008",
+      "phone": "212-724-4414",
+      "image": "./img/shelter/office/435782.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/carriage-horse-action-435782/",
+      "imageUrl": "https://cdn.findpawpal.com/office/435782.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 435823,
+      "slug": "city-critters-inc-435823",
+      "name": "City Critters, Inc.",
+      "address": "PO Box 1345, New York, NY 10013",
+      "phone": "212-252-3183",
+      "image": "./img/shelter/office/435823.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/city-critters-inc-435823/",
+      "imageUrl": "https://cdn.findpawpal.com/office/435823.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 435892,
+      "slug": "stray-from-the-heart-inc-435892",
+      "name": "Stray From The Heart, Inc.",
+      "address": "PO Box 11, New York, NY 10024",
+      "phone": "212-726-3647",
+      "image": "./img/shelter/office/435892.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/stray-from-the-heart-inc-435892/",
+      "imageUrl": "https://cdn.findpawpal.com/office/435892.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 438136,
+      "slug": "bideawee-438136",
+      "name": "Bideawee",
+      "address": "410 East 38th Street, New York, NY 10016",
+      "phone": "866-262-8133",
+      "image": "./img/shelter/office/438136.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bideawee-438136/",
+      "imageUrl": "https://cdn.findpawpal.com/office/438136.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 438144,
+      "slug": "all-sentient-beings-inc-438144",
+      "name": "All Sentient Beings, Inc.",
+      "address": "454 West 46th Street, New York, NY 10036",
+      "phone": "212-642-8219",
+      "image": "./img/shelter/office/438144.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/all-sentient-beings-inc-438144/",
+      "imageUrl": "https://cdn.findpawpal.com/office/438144.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:30:57.076921+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "solvang",
+    "name": "Solvang",
+    "label": "Solvang, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/solvang/",
+  "offices": [
+    {
+      "officeId": 668051,
+      "slug": "lil-orphan-hammies-668051",
+      "name": "Lil Orphan Hammies",
+      "address": "PO Box 924, Solvang, CA 93464",
+      "phone": "805-693-9953",
+      "image": "https://cdn.findpawpal.com/office/668051.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/lil-orphan-hammies-668051/"
+    }
+  ]
+}

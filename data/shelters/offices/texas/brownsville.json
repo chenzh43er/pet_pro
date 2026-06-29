@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:03:25.583019+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "brownsville",
+    "name": "Brownsville",
+    "label": "Brownsville, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/brownsville/",
+  "offices": [
+    {
+      "officeId": 477824,
+      "slug": "lower-valley-humane-society-477824",
+      "name": "Lower Valley Humane Society",
+      "address": "PO Box 8278, Brownsville, TX 78526",
+      "phone": "956-544-0414",
+      "image": "./img/shelter/office/477824.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lower-valley-humane-society-477824/",
+      "imageUrl": "https://cdn.findpawpal.com/office/477824.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 702113,
+      "slug": "brownsville-animal-shelter-702113",
+      "name": "Brownsville Animal Shelter",
+      "address": "PO Box 911, Brownsville, TX 78522",
+      "phone": "",
+      "image": "./img/shelter/office/702113.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/brownsville-animal-shelter-702113/",
+      "imageUrl": "https://cdn.findpawpal.com/office/702113.jpg?f=webp&w=730"
+    }
+  ]
+}

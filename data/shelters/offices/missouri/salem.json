@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:20:26.875736+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "salem",
+    "name": "Salem",
+    "label": "Salem, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/salem/",
+  "offices": [
+    {
+      "officeId": 205170,
+      "slug": "dent-county-animal-shelter-205170",
+      "name": "Dent County Animal Shelter",
+      "address": "19 South Missouri Avenue, Salem, MO 65560",
+      "phone": "573-729-3556",
+      "image": "./img/shelter/office/205170.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dent-county-animal-shelter-205170/",
+      "imageUrl": "https://cdn.findpawpal.com/office/205170.jpg?f=webp&w=730"
+    }
+  ]
+}

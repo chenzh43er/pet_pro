@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:23:14.356185+00:00",
+  "state": {
+    "slug": "arkansas",
+    "name": "Arkansas"
+  },
+  "city": {
+    "slug": "searcy",
+    "name": "Searcy",
+    "label": "Searcy, AR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arkansas/searcy/",
+  "offices": [
+    {
+      "officeId": 251400,
+      "slug": "humane-society-searcy-251400",
+      "name": "Humane Society-Searcy",
+      "address": "112 West Johnston Road, Searcy, AR 72143",
+      "phone": "501-268-3535",
+      "image": "./img/shelter/office/251400.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-searcy-251400/",
+      "imageUrl": "https://cdn.findpawpal.com/office/251400.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 272672,
+      "slug": "wild-trax-feline-refuge-272672",
+      "name": "Wild Trax Feline Refuge",
+      "address": "PO Box 1382, Searcy, AR 72145",
+      "phone": "501-368-0399",
+      "image": "./img/shelter/office/272672.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wild-trax-feline-refuge-272672/",
+      "imageUrl": "https://cdn.findpawpal.com/office/272672.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 273102,
+      "slug": "searcy-animal-control-273102",
+      "name": "Searcy Animal Control",
+      "address": "101 North Gum Street, Searcy, AR 72143",
+      "phone": "501-279-1099",
+      "image": "./img/shelter/office/273102.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/searcy-animal-control-273102/",
+      "imageUrl": "https://cdn.findpawpal.com/office/273102.jpg?f=webp&w=730"
+    }
+  ]
+}

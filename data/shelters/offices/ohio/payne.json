@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:46:25.890210+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "payne",
+    "name": "Payne",
+    "label": "Payne, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/payne/",
+  "offices": [
+    {
+      "officeId": 431162,
+      "slug": "buckeye-samoyed-rescue-431162",
+      "name": "Buckeye Samoyed Rescue",
+      "address": "PO Box 262, Payne, OH 45880",
+      "phone": "419-263-2613",
+      "image": "https://cdn.findpawpal.com/office/431162.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/buckeye-samoyed-rescue-431162/"
+    }
+  ]
+}

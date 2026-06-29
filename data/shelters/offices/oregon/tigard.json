@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:51:34.855970+00:00",
+  "state": {
+    "slug": "oregon",
+    "name": "Oregon"
+  },
+  "city": {
+    "slug": "tigard",
+    "name": "Tigard",
+    "label": "Tigard, OR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oregon/tigard/",
+  "offices": [
+    {
+      "officeId": 555275,
+      "slug": "tigard-pets-555275",
+      "name": "Tigard PETS",
+      "address": "9035 Southwest Reiling Street, Tigard, OR 97224",
+      "phone": "503-880-2726",
+      "image": "./img/shelter/office/555275.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tigard-pets-555275/",
+      "imageUrl": "https://cdn.findpawpal.com/office/555275.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:33:03.975608+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "castle-rock",
+    "name": "Castle Rock",
+    "label": "Castle Rock, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/castle-rock/",
+  "offices": [
+    {
+      "slug": "mountain-aire-reptile-rescue-and-sanctuary-40363",
+      "name": "Mountain Aire Reptile Rescue & Sanctuary",
+      "address": "PO Box 292, Castle Rock, CO 80104",
+      "phone": "719-213-7999",
+      "image": "./img/shelter/office/40363.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mountain-aire-reptile-rescue-and-sanctuary-40363/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40363.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "douglas-county-animal-control-41233",
+      "name": "Douglas County Animal Control",
+      "address": "4556 Castleton Court, Castle Rock, CO 80109",
+      "phone": "303-660-7529",
+      "image": "./img/shelter/office/41233.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/douglas-county-animal-control-41233/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41233.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:06:09.084470+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "fairhaven",
+    "name": "Fairhaven",
+    "label": "Fairhaven, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/fairhaven/",
+  "offices": [
+    {
+      "officeId": 41795,
+      "slug": "fairhaven-animal-control-41795",
+      "name": "Fairhaven Animal Control",
+      "address": "BRIDGE St, Fairhaven, MA 02719",
+      "phone": "508-979-4028",
+      "image": "https://cdn.findpawpal.com/office/41795.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/fairhaven-animal-control-41795/"
+    }
+  ]
+}

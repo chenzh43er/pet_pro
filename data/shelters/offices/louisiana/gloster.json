@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:59:42.705940+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "gloster",
+    "name": "Gloster",
+    "label": "Gloster, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/gloster/",
+  "offices": [
+    {
+      "officeId": 239734,
+      "slug": "loving-care-wildlife-rehab-239734",
+      "name": "Loving Care Wildlife Rehab",
+      "address": "167 Everett Lane, Gloster, LA 71030",
+      "phone": "318-933-1166",
+      "image": "./img/shelter/office/239734.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/loving-care-wildlife-rehab-239734/",
+      "imageUrl": "https://cdn.findpawpal.com/office/239734.jpg?f=webp&w=730"
+    }
+  ]
+}

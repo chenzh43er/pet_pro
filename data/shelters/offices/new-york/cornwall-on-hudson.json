@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:32:46.730031+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "cornwall-on-hudson",
+    "name": "Cornwall-on-Hudson",
+    "label": "Cornwall-on-Hudson, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/cornwall-on-hudson/",
+  "offices": [
+    {
+      "officeId": 400827,
+      "slug": "occ-all-retriever-rescue-400827",
+      "name": "Occ All Retriever Rescue",
+      "address": "PO Box 184, Cornwall-on-Hudson, NY 12518",
+      "phone": "",
+      "image": "./img/shelter/office/400827.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/occ-all-retriever-rescue-400827/",
+      "imageUrl": "https://cdn.findpawpal.com/office/400827.jpg?f=webp&w=730"
+    }
+  ]
+}

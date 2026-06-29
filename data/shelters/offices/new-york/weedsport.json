@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:37:36.729644+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "weedsport",
+    "name": "Weedsport",
+    "label": "Weedsport, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/weedsport/",
+  "offices": [
+    {
+      "officeId": 339942,
+      "slug": "multiple-purrsonalities-339942",
+      "name": "Multiple Purrsonalities",
+      "address": "10203 Town Line Road, Weedsport, NY 13166",
+      "phone": "315-834-8685",
+      "image": "./img/shelter/office/339942.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/multiple-purrsonalities-339942/",
+      "imageUrl": "https://cdn.findpawpal.com/office/339942.jpg?f=webp&w=730"
+    }
+  ]
+}

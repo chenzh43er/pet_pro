@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:04:44.987118+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "euless",
+    "name": "Euless",
+    "label": "Euless, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/euless/",
+  "offices": [
+    {
+      "officeId": 525568,
+      "slug": "euless-city-animal-control-525568",
+      "name": "Euless City Animal Control",
+      "address": "1517 Westpark Way, Euless, TX 76040",
+      "phone": "817-685-1594",
+      "image": "./img/shelter/office/525568.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/euless-city-animal-control-525568/",
+      "imageUrl": "https://cdn.findpawpal.com/office/525568.jpg?f=webp&w=730"
+    }
+  ]
+}

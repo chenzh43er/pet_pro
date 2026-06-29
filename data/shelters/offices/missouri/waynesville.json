@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:21:19.891980+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "waynesville",
+    "name": "Waynesville",
+    "label": "Waynesville, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/waynesville/",
+  "offices": [
+    {
+      "officeId": 205666,
+      "slug": "waynesville-dog-pound-205666",
+      "name": "Waynesville Dog Pound",
+      "address": "201 North Street, Waynesville, MO 65583",
+      "phone": "573-774-2414",
+      "image": "./img/shelter/office/205666.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/waynesville-dog-pound-205666/",
+      "imageUrl": "https://cdn.findpawpal.com/office/205666.jpg?f=webp&w=730"
+    }
+  ]
+}

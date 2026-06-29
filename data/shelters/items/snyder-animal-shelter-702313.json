@@ -1,0 +1,21 @@
+{
+  "officeId": 702313,
+  "slug": "snyder-animal-shelter-702313",
+  "name": "Snyder Animal Shelter",
+  "address": "3706 Brick Plant Road, Snyder, TX 79549",
+  "street": "3706 Brick Plant Road",
+  "addressCity": "Snyder",
+  "stateCode": "TX",
+  "zip": "79549",
+  "phone": "325-573-3969",
+  "image": "./img/shelter/office/702313.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/snyder-animal-shelter-702313/",
+  "stateSlug": "texas",
+  "stateName": "Texas",
+  "citySlug": "snyder",
+  "cityName": "Snyder",
+  "cityLabel": "Snyder, TX",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/texas/snyder/",
+  "fetchedAt": "2026-06-27T20:09:21.204315+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/702313.jpg?f=webp&w=730"
+}

@@ -1,0 +1,42 @@
+{
+  "fetchedAt": "2026-06-27T18:23:55.465743+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "atwater",
+    "name": "Atwater",
+    "label": "Atwater, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/atwater/",
+  "offices": [
+    {
+      "slug": "mixed-pup-rescue-363599",
+      "name": "Mixed Pup Rescue",
+      "address": "5680 Rainbow Lane, Atwater, CA 95301",
+      "phone": "209-358-1368",
+      "image": "./img/shelter/office/363599.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mixed-pup-rescue-363599/",
+      "imageUrl": "https://cdn.findpawpal.com/office/363599.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "atwater-animal-control-368502",
+      "name": "Atwater Animal Control",
+      "address": "750 Bellevue Road, Atwater, CA 95301",
+      "phone": "209-357-6393",
+      "image": "./img/shelter/office/368502.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/atwater-animal-control-368502/",
+      "imageUrl": "https://cdn.findpawpal.com/office/368502.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "merced-county-animal-control-386989",
+      "name": "Merced County Animal Control",
+      "address": "2150 Shuttle Drive, Atwater, CA 95301",
+      "phone": "209-385-7436",
+      "image": "./img/shelter/office/386989.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/merced-county-animal-control-386989/",
+      "imageUrl": "https://cdn.findpawpal.com/office/386989.jpg?f=webp&w=730"
+    }
+  ]
+}

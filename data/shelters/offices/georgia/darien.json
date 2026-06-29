@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:39:28.125320+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "darien",
+    "name": "Darien",
+    "label": "Darien, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/darien/",
+  "offices": [
+    {
+      "officeId": 135498,
+      "slug": "mcintosh-county-animal-control-135498",
+      "name": "McIntosh County Animal Control",
+      "address": "1184 Animal Shelter Dr SW, Darien, GA 31305",
+      "phone": "912-437-4242",
+      "image": "https://cdn.findpawpal.com/office/135498.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/mcintosh-county-animal-control-135498/"
+    }
+  ]
+}

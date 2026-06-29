@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:15:13.291186+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "prior-lake",
+    "name": "Prior Lake",
+    "label": "Prior Lake, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/prior-lake/",
+  "offices": [
+    {
+      "officeId": 399727,
+      "slug": "rainbow-animal-rescue-399727",
+      "name": "Rainbow Animal Rescue",
+      "address": "PO Box 371, Prior Lake, MN 55372",
+      "phone": "952-440-3824",
+      "image": "https://cdn.findpawpal.com/office/399727.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/rainbow-animal-rescue-399727/"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:48:45.384394+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "west-brooklyn",
+    "name": "West Brooklyn",
+    "label": "West Brooklyn, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/west-brooklyn/",
+  "offices": [
+    {
+      "officeId": 392286,
+      "slug": "sauk-village-humane-society-392286",
+      "name": "Sauk Village Humane Society",
+      "address": "338 Slant Road, West Brooklyn, IL 61378",
+      "phone": "815-849-5266",
+      "image": "https://cdn.findpawpal.com/office/392286.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/sauk-village-humane-society-392286/"
+    }
+  ]
+}

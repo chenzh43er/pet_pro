@@ -1,0 +1,21 @@
+{
+  "officeId": 312031,
+  "slug": "muffins-pet-connection-312031",
+  "name": "Muffins Pet Connection",
+  "address": "9728 3rd Avenue, Bay Ridge, NY 11209",
+  "street": "9728 3rd Avenue",
+  "addressCity": "Bay Ridge",
+  "stateCode": "NY",
+  "zip": "11209",
+  "phone": "718-833-7988",
+  "image": "./img/shelter/office/312031.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/muffins-pet-connection-312031/",
+  "stateSlug": "new-york",
+  "stateName": "New York",
+  "citySlug": "bay-ridge",
+  "cityName": "Bay Ridge",
+  "cityLabel": "Bay Ridge, NY",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-york/bay-ridge/",
+  "fetchedAt": "2026-06-27T19:31:48.986392+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/312031.jpg?f=webp&w=730"
+}

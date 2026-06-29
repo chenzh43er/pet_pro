@@ -1,0 +1,21 @@
+{
+  "officeId": 255001,
+  "slug": "siloam-springs-animal-shelter-255001",
+  "name": "Siloam Springs Animal Shelter",
+  "address": "200 North Lincoln Street, Siloam Springs, AR 72761",
+  "street": "200 North Lincoln Street",
+  "addressCity": "Siloam Springs",
+  "stateCode": "AR",
+  "zip": "72761",
+  "phone": "479-524-6535",
+  "image": "./img/shelter/office/255001.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/siloam-springs-animal-shelter-255001/",
+  "stateSlug": "arkansas",
+  "stateName": "Arkansas",
+  "citySlug": "siloam-springs",
+  "cityName": "Siloam Springs",
+  "cityLabel": "Siloam Springs, AR",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/arkansas/siloam-springs/",
+  "fetchedAt": "2026-06-27T18:23:17.372917+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/255001.jpg?f=webp&w=730"
+}

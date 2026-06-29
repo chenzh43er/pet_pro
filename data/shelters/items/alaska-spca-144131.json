@@ -1,0 +1,21 @@
+{
+  "officeId": 144131,
+  "slug": "alaska-spca-144131",
+  "name": "Alaska SPCA",
+  "address": "7309 Arctic Boulevard, Anchorage, AK 99518",
+  "street": "7309 Arctic Boulevard",
+  "addressCity": "Anchorage",
+  "stateCode": "AK",
+  "zip": "99518",
+  "phone": "907-344-3622",
+  "image": "./img/shelter/office/144131.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/alaska-spca-144131/",
+  "stateSlug": "alaska",
+  "stateName": "Alaska",
+  "citySlug": "anchorage",
+  "cityName": "Anchorage",
+  "cityLabel": "Anchorage, AK",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/alaska/anchorage/",
+  "fetchedAt": "2026-06-27T18:19:07.806149+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/144131.jpg?f=webp&w=730"
+}

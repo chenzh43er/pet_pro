@@ -1,0 +1,21 @@
+{
+  "officeId": 392323,
+  "slug": "corona-animal-shelter-392323",
+  "name": "Corona Animal Shelter",
+  "address": "608 Harrington Street, Corona, CA 92880",
+  "street": "608 Harrington Street",
+  "addressCity": "Corona",
+  "stateCode": "CA",
+  "zip": "92880",
+  "phone": "951-736-2309",
+  "image": "./img/shelter/office/392323.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/corona-animal-shelter-392323/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "corona",
+  "cityName": "Corona",
+  "cityLabel": "Corona, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/corona/",
+  "fetchedAt": "2026-06-27T18:25:06.270765+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/392323.jpg?f=webp&w=730"
+}

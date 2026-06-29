@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:41:04.867681+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "pembroke",
+    "name": "Pembroke",
+    "label": "Pembroke, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/pembroke/",
+  "offices": [
+    {
+      "officeId": 149193,
+      "slug": "bryan-county-animal-control-149193",
+      "name": "Bryan County Animal Control",
+      "address": "116 Lanier Road, Pembroke, GA 31321",
+      "phone": "912-653-3816",
+      "image": "./img/shelter/office/149193.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bryan-county-animal-control-149193/",
+      "imageUrl": "https://cdn.findpawpal.com/office/149193.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:06:09.377063+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "junction",
+    "name": "Junction",
+    "label": "Junction, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/junction/",
+  "offices": [
+    {
+      "officeId": 479392,
+      "slug": "junction-animal-shelter-479392",
+      "name": "Junction Animal Shelter",
+      "address": "1596 E Ranch Road 2169, Junction, TX 76849",
+      "phone": "325-446-9066",
+      "image": "./img/shelter/office/479392.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/junction-animal-shelter-479392/",
+      "imageUrl": "https://cdn.findpawpal.com/office/479392.jpg?f=webp&w=730"
+    }
+  ]
+}

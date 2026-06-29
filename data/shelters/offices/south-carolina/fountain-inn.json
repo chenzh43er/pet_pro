@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:57:22.994557+00:00",
+  "state": {
+    "slug": "south-carolina",
+    "name": "South Carolina"
+  },
+  "city": {
+    "slug": "fountain-inn",
+    "name": "Fountain Inn",
+    "label": "Fountain Inn, SC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-carolina/fountain-inn/",
+  "offices": [
+    {
+      "officeId": 592616,
+      "slug": "loving-home-rescue-and-adoption-592616",
+      "name": "Loving Home Rescue and Adoption",
+      "address": "398 Parsons Road, Fountain Inn, SC 29644",
+      "phone": "864-399-2612",
+      "image": "./img/shelter/office/592616.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/loving-home-rescue-and-adoption-592616/",
+      "imageUrl": "https://cdn.findpawpal.com/office/592616.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:19:08.204096+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "spokane-valley",
+    "name": "Spokane Valley",
+    "label": "Spokane Valley, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/spokane-valley/",
+  "offices": [
+    {
+      "officeId": 664675,
+      "slug": "sammys-clubhouse-spokane-ferret-rescue-and-education-664675",
+      "name": "Sammys Clubhouse Spokane Ferret Rescue and Education",
+      "address": "423 South Bowdish Road, Spokane Valley, WA 99206",
+      "phone": "509-599-3327",
+      "image": "./img/shelter/office/664675.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sammys-clubhouse-spokane-ferret-rescue-and-education-664675/",
+      "imageUrl": "https://cdn.findpawpal.com/office/664675.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 698907,
+      "slug": "scraps-spokane-county-regional-animal-protection-service-698907",
+      "name": "SCRAPS - Spokane County Regional Animal Protection Service",
+      "address": "2521 North Flora Road, Spokane Valley, WA 99216",
+      "phone": "509-477-2532",
+      "image": "./img/shelter/office/698907.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/scraps-spokane-county-regional-animal-protection-service-698907/",
+      "imageUrl": "https://cdn.findpawpal.com/office/698907.jpg?f=webp&w=730"
+    }
+  ]
+}

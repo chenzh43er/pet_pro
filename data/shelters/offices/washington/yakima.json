@@ -1,0 +1,65 @@
+{
+  "fetchedAt": "2026-06-27T20:19:39.895577+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "yakima",
+    "name": "Yakima",
+    "label": "Yakima, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/yakima/",
+  "offices": [
+    {
+      "officeId": 610832,
+      "slug": "yakima-valley-pet-rescue-610832",
+      "name": "Yakima Valley Pet Rescue",
+      "address": "1011 Fruitvale Boulevard, Yakima, WA 98902",
+      "phone": "509-248-3113",
+      "image": "./img/shelter/office/610832.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/yakima-valley-pet-rescue-610832/",
+      "imageUrl": "https://cdn.findpawpal.com/office/610832.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 664650,
+      "slug": "yakima-humane-society-664650",
+      "name": "Yakima Humane Society",
+      "address": "2405 West Birchfield Road, Yakima, WA 98901",
+      "phone": "509-457-6854",
+      "image": "./img/shelter/office/664650.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/yakima-humane-society-664650/",
+      "imageUrl": "https://cdn.findpawpal.com/office/664650.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 698877,
+      "slug": "animal-home-find-698877",
+      "name": "Animal Home Find",
+      "address": "9003 Tieton Drive, Yakima, WA 98908",
+      "phone": "509-966-3464",
+      "image": "./img/shelter/office/698877.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-home-find-698877/",
+      "imageUrl": "https://cdn.findpawpal.com/office/698877.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 698948,
+      "slug": "yakima-animal-control-698948",
+      "name": "Yakima Animal Control",
+      "address": "129 North 2nd Street, Yakima, WA 98901",
+      "phone": "509-575-6038",
+      "image": "./img/shelter/office/698948.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/yakima-animal-control-698948/",
+      "imageUrl": "https://cdn.findpawpal.com/office/698948.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 714650,
+      "slug": "second-chance-lab-rescue-714650",
+      "name": "Second Chance Lab Rescue",
+      "address": "610 South 16th Avenue, Yakima, WA 98902",
+      "phone": "509-989-5768",
+      "image": "./img/shelter/office/714650.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/second-chance-lab-rescue-714650/",
+      "imageUrl": "https://cdn.findpawpal.com/office/714650.jpg?f=webp&w=730"
+    }
+  ]
+}

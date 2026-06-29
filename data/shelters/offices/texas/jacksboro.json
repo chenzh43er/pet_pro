@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T20:06:01.988747+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "jacksboro",
+    "name": "Jacksboro",
+    "label": "Jacksboro, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/jacksboro/",
+  "offices": [
+    {
+      "officeId": 538056,
+      "slug": "jacksboro-animal-shelter-538056",
+      "name": "Jacksboro Animal Shelter",
+      "address": "1310 U.s. 380, Jacksboro, TX 76458",
+      "phone": "940-507-2165",
+      "image": "./img/shelter/office/538056.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/jacksboro-animal-shelter-538056/",
+      "imageUrl": "https://cdn.findpawpal.com/office/538056.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 633364,
+      "slug": "animal-angels-rescue-and-rehab-633364",
+      "name": "Animal Angels Rescue and Rehab",
+      "address": "290 Knowlton Road, Jacksboro, TX 76458",
+      "phone": "940-567-3252",
+      "image": "https://cdn.findpawpal.com/office/633364.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-angels-rescue-and-rehab-633364/"
+    }
+  ]
+}

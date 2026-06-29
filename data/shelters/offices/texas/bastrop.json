@@ -1,0 +1,43 @@
+{
+  "fetchedAt": "2026-06-27T20:02:54.767155+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "bastrop",
+    "name": "Bastrop",
+    "label": "Bastrop, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/bastrop/",
+  "offices": [
+    {
+      "officeId": 540347,
+      "slug": "bastrop-county-animal-control-540347",
+      "name": "Bastrop County Animal Control",
+      "address": "589 Cool Water Drive, Bastrop, TX 78602",
+      "phone": "512-549-5160",
+      "image": "./img/shelter/office/540347.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bastrop-county-animal-control-540347/",
+      "imageUrl": "https://cdn.findpawpal.com/office/540347.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 633511,
+      "slug": "bastrop-county-humane-society-633511",
+      "name": "Bastrop County Humane Society",
+      "address": "1192 Highway 304, Bastrop, TX 78602",
+      "phone": "512-303-3924",
+      "image": "https://cdn.findpawpal.com/office/633511.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/bastrop-county-humane-society-633511/"
+    },
+    {
+      "officeId": 674457,
+      "slug": "bastrop-animal-shelter-674457",
+      "name": "Bastrop Animal Shelter",
+      "address": "804 Pecan Street, Bastrop, TX 78602",
+      "phone": "512-303-1080",
+      "image": "https://cdn.findpawpal.com/office/674457.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/bastrop-animal-shelter-674457/"
+    }
+  ]
+}

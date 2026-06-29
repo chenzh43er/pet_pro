@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:01:31.798606+00:00",
+  "state": {
+    "slug": "maine",
+    "name": "Maine"
+  },
+  "city": {
+    "slug": "fairfield",
+    "name": "Fairfield",
+    "label": "Fairfield, ME"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maine/fairfield/",
+  "offices": [
+    {
+      "officeId": 323190,
+      "slug": "save-our-strays-323190",
+      "name": "Save Our Strays",
+      "address": "PO Box 445, Fairfield, ME 04937",
+      "phone": "207-877-0060",
+      "image": "https://cdn.findpawpal.com/office/323190.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/save-our-strays-323190/"
+    }
+  ]
+}

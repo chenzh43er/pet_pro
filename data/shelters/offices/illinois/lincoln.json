@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:46:28.289120+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "lincoln",
+    "name": "Lincoln",
+    "label": "Lincoln, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/lincoln/",
+  "offices": [
+    {
+      "officeId": 581456,
+      "slug": "logan-county-animal-control-581456",
+      "name": "Logan County Animal Control",
+      "address": "1517 North Kickapoo Street, Lincoln, IL 62656",
+      "phone": "217-735-3232",
+      "image": "./img/shelter/office/581456.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/logan-county-animal-control-581456/",
+      "imageUrl": "https://cdn.findpawpal.com/office/581456.jpg?f=webp&w=730"
+    }
+  ]
+}

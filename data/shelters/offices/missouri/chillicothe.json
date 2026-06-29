@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T19:18:11.084007+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "chillicothe",
+    "name": "Chillicothe",
+    "label": "Chillicothe, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/chillicothe/",
+  "offices": [
+    {
+      "officeId": 205542,
+      "slug": "livingston-county-humane-society-205542",
+      "name": "Livingston County Humane Society",
+      "address": "1021 Walnut Street, Chillicothe, MO 64601",
+      "phone": "816-649-4244",
+      "image": "./img/shelter/office/205542.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/livingston-county-humane-society-205542/",
+      "imageUrl": "https://cdn.findpawpal.com/office/205542.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 208035,
+      "slug": "chillicothe-animal-shelter-208035",
+      "name": "Chillicothe Animal Shelter",
+      "address": "1400 South Mitchell Avenue, Chillicothe, MO 64601",
+      "phone": "660-646-1006",
+      "image": "./img/shelter/office/208035.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/chillicothe-animal-shelter-208035/",
+      "imageUrl": "https://cdn.findpawpal.com/office/208035.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 208051,
+      "slug": "safe-haven-animal-sanctuary-inc-208051",
+      "name": "Safe Haven Animal Sanctuary, Inc.",
+      "address": "13242 Liv 216, Chillicothe, MO 64601",
+      "phone": "660-646-3405",
+      "image": "https://cdn.findpawpal.com/office/208051.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/safe-haven-animal-sanctuary-inc-208051/"
+    }
+  ]
+}

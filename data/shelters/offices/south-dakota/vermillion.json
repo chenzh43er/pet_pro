@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:59:09.250606+00:00",
+  "state": {
+    "slug": "south-dakota",
+    "name": "South Dakota"
+  },
+  "city": {
+    "slug": "vermillion",
+    "name": "Vermillion",
+    "label": "Vermillion, SD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-dakota/vermillion/",
+  "offices": [
+    {
+      "officeId": 562736,
+      "slug": "vermillion-animal-control-562736",
+      "name": "Vermillion Animal Control",
+      "address": "25 Center Street, Vermillion, SD 57069",
+      "phone": "605-677-7050",
+      "image": "./img/shelter/office/562736.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/vermillion-animal-control-562736/",
+      "imageUrl": "https://cdn.findpawpal.com/office/562736.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 41003,
+  "slug": "lakeville-animal-shelter-41003",
+  "name": "Lakeville Animal Shelter",
+  "address": "8 Montgomery Street, North Lakeville, MA 02347",
+  "street": "8 Montgomery Street",
+  "addressCity": "North Lakeville",
+  "stateCode": "MA",
+  "zip": "02347",
+  "phone": "508-947-3891",
+  "image": "./img/shelter/office/41003.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/lakeville-animal-shelter-41003/",
+  "stateSlug": "massachusetts",
+  "stateName": "Massachusetts",
+  "citySlug": "north-lakeville",
+  "cityName": "North Lakeville",
+  "cityLabel": "North Lakeville, MA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/massachusetts/north-lakeville/",
+  "fetchedAt": "2026-06-27T19:07:40.831657+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/41003.jpg?f=webp&w=730"
+}

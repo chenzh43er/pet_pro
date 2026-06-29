@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:06:56.127221+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "marion",
+    "name": "Marion",
+    "label": "Marion, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/marion/",
+  "offices": [
+    {
+      "officeId": 43700,
+      "slug": "champs-mini-shelter-43700",
+      "name": "Champs Mini Shelter",
+      "address": "PO Box 332, Marion, MA 02738",
+      "phone": "508-291-0072",
+      "image": "./img/shelter/office/43700.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/champs-mini-shelter-43700/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43700.jpg?f=webp&w=730"
+    }
+  ]
+}

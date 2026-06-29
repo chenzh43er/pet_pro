@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:46:05.334566+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "hinsdale",
+    "name": "Hinsdale",
+    "label": "Hinsdale, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/hinsdale/",
+  "offices": [
+    {
+      "officeId": 514407,
+      "slug": "hinsdale-humane-society-514407",
+      "name": "Hinsdale Humane Society",
+      "address": "22 North Elm Street, Hinsdale, IL 60521",
+      "phone": "630-323-5630",
+      "image": "./img/shelter/office/514407.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hinsdale-humane-society-514407/",
+      "imageUrl": "https://cdn.findpawpal.com/office/514407.jpg?f=webp&w=730"
+    }
+  ]
+}

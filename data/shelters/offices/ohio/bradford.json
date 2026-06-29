@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:43:10.216185+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "bradford",
+    "name": "Bradford",
+    "label": "Bradford, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/bradford/",
+  "offices": [
+    {
+      "officeId": 431741,
+      "slug": "swank-haus-pinscher-rescue-doberman-german-minia-431741",
+      "name": "Swank-Haus Pinscher Rescue Doberman German Minia",
+      "address": "5090 Croft Mill Road, Bradford, OH 45308",
+      "phone": "937-473-5592",
+      "image": "https://cdn.findpawpal.com/office/431741.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/swank-haus-pinscher-rescue-doberman-german-minia-431741/"
+    }
+  ]
+}

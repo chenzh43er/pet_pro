@@ -1,0 +1,42 @@
+{
+  "fetchedAt": "2026-06-27T18:17:33.325356+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "fort-payne",
+    "name": "Fort Payne",
+    "label": "Fort Payne, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/fort-payne/",
+  "offices": [
+    {
+      "slug": "dekalb-county-spca-5809",
+      "name": "Dekalb County SPCA",
+      "address": "PO Box 653, Fort Payne, AL 35967",
+      "phone": "256-845-9463",
+      "image": "./img/shelter/office/5809.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dekalb-county-spca-5809/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5809.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dekalb-county-animal-control-7125",
+      "name": "DeKalb County Animal Control",
+      "address": "2601 Jordan Road Southwest, Fort Payne, AL 35968",
+      "phone": "256-304-0474",
+      "image": "./img/shelter/office/7125.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dekalb-county-animal-control-7125/",
+      "imageUrl": "https://cdn.findpawpal.com/office/7125.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-animal-resources-of-dekalb-7142",
+      "name": "Humane Society Animal Resources of DeKalb",
+      "address": "2062 County Road 88, Fort Payne, AL 35968",
+      "phone": "256-845-9463",
+      "image": "./img/shelter/office/7142.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-animal-resources-of-dekalb-7142/",
+      "imageUrl": "https://cdn.findpawpal.com/office/7142.jpg?f=webp&w=730"
+    }
+  ]
+}

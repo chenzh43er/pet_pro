@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:56:33.660718+00:00",
+  "state": {
+    "slug": "rhode-island",
+    "name": "Rhode Island"
+  },
+  "city": {
+    "slug": "tiverton",
+    "name": "Tiverton",
+    "label": "Tiverton, RI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/rhode-island/tiverton/",
+  "offices": [
+    {
+      "officeId": 583625,
+      "slug": "placing-paws-583625",
+      "name": "Placing PAWS",
+      "address": "1320 Main Road, Tiverton, RI 02878",
+      "phone": "401-624-9562",
+      "image": "./img/shelter/office/583625.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/placing-paws-583625/",
+      "imageUrl": "https://cdn.findpawpal.com/office/583625.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:17:45.500689+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "blue-springs",
+    "name": "Blue Springs",
+    "label": "Blue Springs, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/blue-springs/",
+  "offices": [
+    {
+      "officeId": 209601,
+      "slug": "blue-springs-animal-control-209601",
+      "name": "Blue Springs Animal Control",
+      "address": "1100 Southwest Smith Street, Blue Springs, MO 64015",
+      "phone": "816-228-0149",
+      "image": "./img/shelter/office/209601.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/blue-springs-animal-control-209601/",
+      "imageUrl": "https://cdn.findpawpal.com/office/209601.jpg?f=webp&w=730"
+    }
+  ]
+}

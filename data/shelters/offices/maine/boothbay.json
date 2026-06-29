@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:01:15.404836+00:00",
+  "state": {
+    "slug": "maine",
+    "name": "Maine"
+  },
+  "city": {
+    "slug": "boothbay",
+    "name": "Boothbay",
+    "label": "Boothbay, ME"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maine/boothbay/",
+  "offices": [
+    {
+      "officeId": 348888,
+      "slug": "new-england-rabbit-sanctuary-348888",
+      "name": "New England Rabbit Sanctuary",
+      "address": "PO Box 626, Boothbay, ME 04537",
+      "phone": "207-633-0310",
+      "image": "https://cdn.findpawpal.com/office/348888.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/new-england-rabbit-sanctuary-348888/"
+    }
+  ]
+}

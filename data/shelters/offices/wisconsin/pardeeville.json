@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:23:42.292346+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "pardeeville",
+    "name": "Pardeeville",
+    "label": "Pardeeville, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/pardeeville/",
+  "offices": [
+    {
+      "officeId": 634123,
+      "slug": "mappar-634123",
+      "name": "MAPPAR",
+      "address": "6591 County Road P, Pardeeville, WI 53954",
+      "phone": "608-215-8658",
+      "image": "./img/shelter/office/634123.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mappar-634123/",
+      "imageUrl": "https://cdn.findpawpal.com/office/634123.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 701709,
+      "slug": "midwest-animal-and-potbellied-pig-association-701709",
+      "name": "Midwest Animal & Potbellied Pig Association",
+      "address": "2804 Warner Ln, Pardeeville, WI 53717",
+      "phone": "608-429-1355",
+      "image": "./img/shelter/office/701709.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/midwest-animal-and-potbellied-pig-association-701709/",
+      "imageUrl": "https://cdn.findpawpal.com/office/701709.jpg?f=webp&w=730"
+    }
+  ]
+}

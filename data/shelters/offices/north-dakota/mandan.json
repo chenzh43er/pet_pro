@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:42:25.197630+00:00",
+  "state": {
+    "slug": "north-dakota",
+    "name": "North Dakota"
+  },
+  "city": {
+    "slug": "mandan",
+    "name": "Mandan",
+    "label": "Mandan, ND"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-dakota/mandan/",
+  "offices": [
+    {
+      "officeId": 545523,
+      "slug": "central-dakota-humane-society-545523",
+      "name": "Central Dakota Humane Society",
+      "address": "2104 37th Street, Mandan, ND 58554",
+      "phone": "701-667-2020",
+      "image": "https://cdn.findpawpal.com/office/545523.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/central-dakota-humane-society-545523/"
+    },
+    {
+      "officeId": 678623,
+      "slug": "jillians-haven-private-rescue-678623",
+      "name": "Jillian's Haven Private Rescue",
+      "address": "105 9th Avenue Northwest, Mandan, ND 58554",
+      "phone": "701-471-6756",
+      "image": "./img/shelter/office/678623.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/jillians-haven-private-rescue-678623/",
+      "imageUrl": "https://cdn.findpawpal.com/office/678623.jpg?f=webp&w=730"
+    }
+  ]
+}

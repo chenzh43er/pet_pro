@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:35:05.667514+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "mohawk",
+    "name": "Mohawk",
+    "label": "Mohawk, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/mohawk/",
+  "offices": [
+    {
+      "officeId": 417560,
+      "slug": "herkimer-county-humane-society-417560",
+      "name": "Herkimer County Humane Society",
+      "address": "514 Highway 5S, Mohawk, NY 13407",
+      "phone": "315-866-3255",
+      "image": "./img/shelter/office/417560.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/herkimer-county-humane-society-417560/",
+      "imageUrl": "https://cdn.findpawpal.com/office/417560.jpg?f=webp&w=730"
+    }
+  ]
+}

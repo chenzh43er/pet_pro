@@ -1,0 +1,64 @@
+{
+  "fetchedAt": "2026-06-27T18:36:44.756176+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "new-haven",
+    "name": "New Haven",
+    "label": "New Haven, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/new-haven/",
+  "offices": [
+    {
+      "officeId": 148289,
+      "slug": "hope-alliance-inc-148289",
+      "name": "Hope Alliance Inc",
+      "address": "88 Morse Place, New Haven, CT 06512",
+      "phone": "203-466-2185",
+      "image": "./img/shelter/office/148289.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hope-alliance-inc-148289/",
+      "imageUrl": "https://cdn.findpawpal.com/office/148289.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 156846,
+      "slug": "the-greater-new-haven-cat-project-156846",
+      "name": "The Greater New Haven Cat Project",
+      "address": "PO Box 1432, New Haven, CT 06506",
+      "phone": "203-782-2287",
+      "image": "https://cdn.findpawpal.com/office/156846.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/the-greater-new-haven-cat-project-156846/"
+    },
+    {
+      "officeId": 156923,
+      "slug": "friends-of-the-new-haven-animal-shelter-156923",
+      "name": "Friends of the New Haven Animal Shelter",
+      "address": "81 Fournier Street, New Haven, CT 06511",
+      "phone": "203-946-8110",
+      "image": "./img/shelter/office/156923.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-the-new-haven-animal-shelter-156923/",
+      "imageUrl": "https://cdn.findpawpal.com/office/156923.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 159126,
+      "slug": "new-haven-police-animal-shelter-159126",
+      "name": "New Haven Police Animal Shelter",
+      "address": "81 Fournier Street, New Haven, CT 06511",
+      "phone": "203-946-8110",
+      "image": "./img/shelter/office/159126.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-haven-police-animal-shelter-159126/",
+      "imageUrl": "https://cdn.findpawpal.com/office/159126.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 168713,
+      "slug": "the-purr-project-inc-168713",
+      "name": "The Purr Project, Inc",
+      "address": "843 State Street, New Haven, CT 06511",
+      "phone": "203-865-0878",
+      "image": "./img/shelter/office/168713.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-purr-project-inc-168713/",
+      "imageUrl": "https://cdn.findpawpal.com/office/168713.jpg?f=webp&w=730"
+    }
+  ]
+}

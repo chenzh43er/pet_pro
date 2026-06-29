@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:43:39.248594+00:00",
+  "state": {
+    "slug": "idaho",
+    "name": "Idaho"
+  },
+  "city": {
+    "slug": "rexburg",
+    "name": "Rexburg",
+    "label": "Rexburg, ID"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/idaho/rexburg/",
+  "offices": [
+    {
+      "officeId": 474746,
+      "slug": "four-paws-pet-adoptions-474746",
+      "name": "Four Paws Pet Adoptions",
+      "address": "119 South 4th West, Rexburg, ID 83440",
+      "phone": "208-356-3717",
+      "image": "./img/shelter/office/474746.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/four-paws-pet-adoptions-474746/",
+      "imageUrl": "https://cdn.findpawpal.com/office/474746.jpg?f=webp&w=730"
+    }
+  ]
+}

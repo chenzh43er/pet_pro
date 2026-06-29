@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:20:47.279211+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "keyser",
+    "name": "Keyser",
+    "label": "Keyser, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/keyser/",
+  "offices": [
+    {
+      "officeId": 465748,
+      "slug": "mineral-county-humane-society-inc-465748",
+      "name": "Mineral County Humane Society, Inc.",
+      "address": "HC 84 Box 12, Keyser, WV 26726",
+      "phone": "304-788-2386",
+      "image": "https://cdn.findpawpal.com/office/465748.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/mineral-county-humane-society-inc-465748/"
+    }
+  ]
+}

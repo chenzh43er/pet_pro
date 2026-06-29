@@ -1,0 +1,21 @@
+{
+  "officeId": 191120,
+  "slug": "ionia-county-animal-shelter-191120",
+  "name": "Ionia County Animal Shelter",
+  "address": "3256 South State Road, Ionia, MI 48846",
+  "street": "3256 South State Road",
+  "addressCity": "Ionia",
+  "stateCode": "MI",
+  "zip": "48846",
+  "phone": "616-527-9040",
+  "image": "./img/shelter/office/191120.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/ionia-county-animal-shelter-191120/",
+  "stateSlug": "michigan",
+  "stateName": "Michigan",
+  "citySlug": "ionia",
+  "cityName": "Ionia",
+  "cityLabel": "Ionia, MI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/michigan/ionia/",
+  "fetchedAt": "2026-06-27T19:11:09.465672+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/191120.jpg?f=webp&w=730"
+}

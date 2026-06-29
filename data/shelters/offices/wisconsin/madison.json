@@ -1,0 +1,82 @@
+{
+  "fetchedAt": "2026-06-27T20:23:13.886610+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "madison",
+    "name": "Madison",
+    "label": "Madison, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/madison/",
+  "offices": [
+    {
+      "officeId": 490081,
+      "slug": "wisconsin-rottweiler-rescue-490081",
+      "name": "Wisconsin Rottweiler Rescue",
+      "address": "3617 South Dutch Mill Road, Madison, WI 53718",
+      "phone": "608-224-0272",
+      "image": "./img/shelter/office/490081.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wisconsin-rottweiler-rescue-490081/",
+      "imageUrl": "https://cdn.findpawpal.com/office/490081.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 513983,
+      "slug": "dane-county-friends-of-ferals-513983",
+      "name": "Dane County Friends of Ferals",
+      "address": "627 Post Road, Madison, WI 53713",
+      "phone": "608-467-4067",
+      "image": "https://cdn.findpawpal.com/office/513983.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/dane-county-friends-of-ferals-513983/"
+    },
+    {
+      "officeId": 533651,
+      "slug": "wisconsin-siberian-husky-rescue-inc-533651",
+      "name": "Wisconsin Siberian Husky Rescue, Inc.",
+      "address": "PO Box 259870, Madison, WI 53725",
+      "phone": "608-345-9474",
+      "image": "https://cdn.findpawpal.com/office/533651.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/wisconsin-siberian-husky-rescue-inc-533651/"
+    },
+    {
+      "officeId": 534237,
+      "slug": "madison-animal-control-534237",
+      "name": "Madison Animal Control",
+      "address": "1602 Blossom Lane, Madison, WI 53716",
+      "phone": "608-284-7447",
+      "image": "./img/shelter/office/534237.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/madison-animal-control-534237/",
+      "imageUrl": "https://cdn.findpawpal.com/office/534237.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 673355,
+      "slug": "dane-county-humane-society-673355",
+      "name": "Dane County Humane Society",
+      "address": "5132 Voges Road, Madison, WI 53718",
+      "phone": "608-838-0413",
+      "image": "./img/shelter/office/673355.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dane-county-humane-society-673355/",
+      "imageUrl": "https://cdn.findpawpal.com/office/673355.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 701710,
+      "slug": "fine-feathered-friends-sanctuary-inc-701710",
+      "name": "Fine Feathered Friends Sanctuary, Inc.",
+      "address": "2410 Daniels Street, Madison, WI 53718",
+      "phone": "608-222-6420",
+      "image": "https://cdn.findpawpal.com/office/701710.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/fine-feathered-friends-sanctuary-inc-701710/"
+    },
+    {
+      "officeId": 701781,
+      "slug": "madison-animal-control-701781",
+      "name": "Madison Animal Control",
+      "address": "210 Martin Luther King Junior Boulevard, Madison, WI 53703",
+      "phone": "608-267-1989",
+      "image": "./img/shelter/office/701781.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/madison-animal-control-701781/",
+      "imageUrl": "https://cdn.findpawpal.com/office/701781.jpg?f=webp&w=730"
+    }
+  ]
+}

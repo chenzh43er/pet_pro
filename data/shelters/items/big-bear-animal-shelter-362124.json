@@ -1,0 +1,21 @@
+{
+  "officeId": 362124,
+  "slug": "big-bear-animal-shelter-362124",
+  "name": "Big Bear Animal Shelter",
+  "address": "42080 North Shore Drive, Big Bear City, CA 92314",
+  "street": "42080 North Shore Drive",
+  "addressCity": "Big Bear City",
+  "stateCode": "CA",
+  "zip": "92314",
+  "phone": "909-866-4943",
+  "image": "./img/shelter/office/362124.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/big-bear-animal-shelter-362124/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "big-bear-city",
+  "cityName": "Big Bear City",
+  "cityLabel": "Big Bear City, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/big-bear-city/",
+  "fetchedAt": "2026-06-27T18:24:16.549723+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/362124.jpg?f=webp&w=730"
+}

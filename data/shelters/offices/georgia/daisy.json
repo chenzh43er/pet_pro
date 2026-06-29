@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:39:22.123713+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "daisy",
+    "name": "Daisy",
+    "label": "Daisy, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/daisy/",
+  "offices": [
+    {
+      "officeId": 148818,
+      "slug": "humane-society-of-evans-county-ga-inc-148818",
+      "name": "Humane Society of Evans County, GA Inc",
+      "address": "PO Box 201, Daisy, GA 30423",
+      "phone": "912-739-0860",
+      "image": "./img/shelter/office/148818.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-evans-county-ga-inc-148818/",
+      "imageUrl": "https://cdn.findpawpal.com/office/148818.jpg?f=webp&w=730"
+    }
+  ]
+}

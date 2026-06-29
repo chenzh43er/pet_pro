@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:29:27.489000+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "wantage",
+    "name": "Wantage",
+    "label": "Wantage, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/wantage/",
+  "offices": [
+    {
+      "officeId": 100282,
+      "slug": "sussex-animal-shelter-100282",
+      "name": "Sussex Animal Shelter",
+      "address": "21 Clove Road, Wantage, NJ 07461",
+      "phone": "973-875-8540",
+      "image": "./img/shelter/office/100282.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sussex-animal-shelter-100282/",
+      "imageUrl": "https://cdn.findpawpal.com/office/100282.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 100364,
+      "slug": "wantage-animal-control-100364",
+      "name": "Wantage Animal Control",
+      "address": "50 Compton Road, Wantage, NJ 07461",
+      "phone": "973-721-4437",
+      "image": "./img/shelter/office/100364.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wantage-animal-control-100364/",
+      "imageUrl": "https://cdn.findpawpal.com/office/100364.jpg?f=webp&w=730"
+    }
+  ]
+}

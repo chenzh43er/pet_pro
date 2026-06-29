@@ -1,0 +1,43 @@
+{
+  "fetchedAt": "2026-06-27T20:14:47.477136+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "leesburg",
+    "name": "Leesburg",
+    "label": "Leesburg, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/leesburg/",
+  "offices": [
+    {
+      "officeId": 511401,
+      "slug": "humane-society-of-loudon-county-511401",
+      "name": "Humane Society of Loudon County",
+      "address": "PO Box 601, Leesburg, VA 20178",
+      "phone": "703-777-2912",
+      "image": "https://cdn.findpawpal.com/office/511401.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-loudon-county-511401/"
+    },
+    {
+      "officeId": 511406,
+      "slug": "doo-doo-happens-rescue-511406",
+      "name": "Doo Doo Happens Rescue",
+      "address": "704 Godfrey Court Southeast, Leesburg, VA 20175",
+      "phone": "703-213-5841",
+      "image": "./img/shelter/office/511406.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/doo-doo-happens-rescue-511406/",
+      "imageUrl": "https://cdn.findpawpal.com/office/511406.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 706717,
+      "slug": "equine-rescue-league-inc-706717",
+      "name": "Equine Rescue League, Inc.",
+      "address": "PO Box 4366, Leesburg, VA 20177",
+      "phone": "703-771-1240",
+      "image": "https://cdn.findpawpal.com/office/706717.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/equine-rescue-league-inc-706717/"
+    }
+  ]
+}

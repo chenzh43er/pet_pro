@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:28:44.063705+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "ontario",
+    "name": "Ontario",
+    "label": "Ontario, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/ontario/",
+  "offices": [
+    {
+      "officeId": 534690,
+      "slug": "west-end-shelter-for-animals-534690",
+      "name": "West End Shelter For Animals",
+      "address": "1010 East Mission Boulevard, Ontario, CA 91761",
+      "phone": "909-947-3517",
+      "image": "./img/shelter/office/534690.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/west-end-shelter-for-animals-534690/",
+      "imageUrl": "https://cdn.findpawpal.com/office/534690.jpg?f=webp&w=730"
+    }
+  ]
+}

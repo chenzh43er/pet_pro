@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:50:46.729111+00:00",
+  "state": {
+    "slug": "oregon",
+    "name": "Oregon"
+  },
+  "city": {
+    "slug": "klamath-falls",
+    "name": "Klamath Falls",
+    "label": "Klamath Falls, OR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oregon/klamath-falls/",
+  "offices": [
+    {
+      "officeId": 613272,
+      "slug": "klamath-falls-animal-shelter-613272",
+      "name": "Klamath Falls Animal Shelter",
+      "address": "4240 Washburn Way, Klamath Falls, OR 97603",
+      "phone": "541-884-7387",
+      "image": "./img/shelter/office/613272.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/klamath-falls-animal-shelter-613272/",
+      "imageUrl": "https://cdn.findpawpal.com/office/613272.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 712943,
+      "slug": "klamath-humane-society-712943",
+      "name": "Klamath Humane Society",
+      "address": "PO Box 482, Klamath Falls, OR 97601",
+      "phone": "541-882-1119",
+      "image": "./img/shelter/office/712943.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/klamath-humane-society-712943/",
+      "imageUrl": "https://cdn.findpawpal.com/office/712943.jpg?f=webp&w=730"
+    }
+  ]
+}

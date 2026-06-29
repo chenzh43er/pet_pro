@@ -1,0 +1,52 @@
+{
+  "fetchedAt": "2026-06-27T18:23:09.695635+00:00",
+  "state": {
+    "slug": "arkansas",
+    "name": "Arkansas"
+  },
+  "city": {
+    "slug": "rogers",
+    "name": "Rogers",
+    "label": "Rogers, AR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arkansas/rogers/",
+  "offices": [
+    {
+      "officeId": 251130,
+      "slug": "humane-society-for-animals-251130",
+      "name": "Humane Society for Animals",
+      "address": "1st Nursery Rd, Rogers, AR 72757",
+      "phone": "501-636-3703",
+      "image": "https://cdn.findpawpal.com/office/251130.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-for-animals-251130/"
+    },
+    {
+      "officeId": 272121,
+      "slug": "northwest-arkansas-save-our-strays-272121",
+      "name": "Northwest Arkansas Save Our Strays",
+      "address": "PO Box 2367, Rogers, AR 72757",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/272121.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/northwest-arkansas-save-our-strays-272121/"
+    },
+    {
+      "officeId": 297100,
+      "slug": "homeward-bound-k-9-rescue-297100",
+      "name": "Homeward Bound K-9 Rescue",
+      "address": "PO Box 1081, Rogers, AR 72757",
+      "phone": "479-531-1674",
+      "image": "https://cdn.findpawpal.com/office/297100.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/homeward-bound-k-9-rescue-297100/"
+    },
+    {
+      "officeId": 316780,
+      "slug": "rogers-animal-services-316780",
+      "name": "Rogers Animal Services",
+      "address": "2935 West Oak Street, Rogers, AR 72758",
+      "phone": "479-621-1197",
+      "image": "./img/shelter/office/316780.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rogers-animal-services-316780/",
+      "imageUrl": "https://cdn.findpawpal.com/office/316780.jpg?f=webp&w=730"
+    }
+  ]
+}

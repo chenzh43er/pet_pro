@@ -1,0 +1,72 @@
+{
+  "fetchedAt": "2026-06-27T20:13:15.369809+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "chesapeake",
+    "name": "Chesapeake",
+    "label": "Chesapeake, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/chesapeake/",
+  "offices": [
+    {
+      "officeId": 511102,
+      "slug": "chesapeake-city-animal-bureau-511102",
+      "name": "Chesapeake City Animal Bureau",
+      "address": "3807 Cook Blvd, Chesapeake, VA 23323",
+      "phone": "757-382-8080",
+      "image": "./img/shelter/office/511102.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/chesapeake-city-animal-bureau-511102/",
+      "imageUrl": "https://cdn.findpawpal.com/office/511102.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 554101,
+      "slug": "meower-power-feral-cat-coalition-554101",
+      "name": "Meower Power Feral Cat Coalition",
+      "address": "PO Box 9696, Chesapeake, VA 23321",
+      "phone": "757-399-0001",
+      "image": "https://cdn.findpawpal.com/office/554101.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/meower-power-feral-cat-coalition-554101/"
+    },
+    {
+      "officeId": 560920,
+      "slug": "animal-assistance-league-of-virginia-inc-560920",
+      "name": "Animal Assistance League of Virginia, Inc.",
+      "address": "1149 New Mill Dr, Chesapeake, VA 23322",
+      "phone": "757-548-0045",
+      "image": "./img/shelter/office/560920.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-assistance-league-of-virginia-inc-560920/",
+      "imageUrl": "https://cdn.findpawpal.com/office/560920.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 682883,
+      "slug": "adopt-a-spot-dalmatian-rescue-682883",
+      "name": "Adopt A Spot Dalmatian Rescue",
+      "address": "PO Box 9375, Chesapeake, VA 23321",
+      "phone": "757-484-2940",
+      "image": "https://cdn.findpawpal.com/office/682883.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/adopt-a-spot-dalmatian-rescue-682883/"
+    },
+    {
+      "officeId": 682884,
+      "slug": "chesapeake-humane-society-682884",
+      "name": "Chesapeake Humane Society",
+      "address": "PO Box 15061, Chesapeake, VA 23328",
+      "phone": "787-490-4357",
+      "image": "https://cdn.findpawpal.com/office/682884.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/chesapeake-humane-society-682884/"
+    },
+    {
+      "officeId": 706677,
+      "slug": "collie-and-sheltie-rescue-of-southeast-virginia-706677",
+      "name": "Collie and Sheltie Rescue of Southeast Virginia",
+      "address": "2808 Meadow Wood Dr W, Chesapeake, VA 23321",
+      "phone": "",
+      "image": "./img/shelter/office/706677.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/collie-and-sheltie-rescue-of-southeast-virginia-706677/",
+      "imageUrl": "https://cdn.findpawpal.com/office/706677.jpg?f=webp&w=730"
+    }
+  ]
+}

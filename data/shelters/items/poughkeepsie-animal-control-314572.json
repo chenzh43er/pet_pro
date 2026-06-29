@@ -1,0 +1,21 @@
+{
+  "officeId": 314572,
+  "slug": "poughkeepsie-animal-control-314572",
+  "name": "Poughkeepsie Animal Control",
+  "address": "1 Overocker Road, Arlington, NY 12603",
+  "street": "1 Overocker Road",
+  "addressCity": "Arlington",
+  "stateCode": "NY",
+  "zip": "12603",
+  "phone": "845-485-3626",
+  "image": "./img/shelter/office/314572.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/poughkeepsie-animal-control-314572/",
+  "stateSlug": "new-york",
+  "stateName": "New York",
+  "citySlug": "arlington",
+  "cityName": "Arlington",
+  "cityLabel": "Arlington, NY",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-york/arlington/",
+  "fetchedAt": "2026-06-27T19:31:34.800775+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/314572.jpg?f=webp&w=730"
+}

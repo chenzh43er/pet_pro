@@ -1,0 +1,63 @@
+{
+  "fetchedAt": "2026-06-27T19:59:04.721344+00:00",
+  "state": {
+    "slug": "south-dakota",
+    "name": "South Dakota"
+  },
+  "city": {
+    "slug": "sioux-falls",
+    "name": "Sioux Falls",
+    "label": "Sioux Falls, SD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-dakota/sioux-falls/",
+  "offices": [
+    {
+      "officeId": 610790,
+      "slug": "second-chance-rescue-shelter-610790",
+      "name": "Second Chance Rescue Shelter",
+      "address": "26707 466th Avenue, Sioux Falls, SD 57106",
+      "phone": "605-362-1722",
+      "image": "./img/shelter/office/610790.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/second-chance-rescue-shelter-610790/",
+      "imageUrl": "https://cdn.findpawpal.com/office/610790.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 610794,
+      "slug": "humane-society-adoption-center-610794",
+      "name": "Humane Society Adoption Center",
+      "address": "3720 East Benson Road, Sioux Falls, SD 57104",
+      "phone": "605-338-4441",
+      "image": "https://cdn.findpawpal.com/office/610794.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-adoption-center-610794/"
+    },
+    {
+      "officeId": 610830,
+      "slug": "south-dakota-state-animal-control-610830",
+      "name": "South Dakota State Animal Control",
+      "address": "1122 North Weber Avenue, Sioux Falls, SD 57103",
+      "phone": "605-367-5620",
+      "image": "./img/shelter/office/610830.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/south-dakota-state-animal-control-610830/",
+      "imageUrl": "https://cdn.findpawpal.com/office/610830.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 697624,
+      "slug": "sioux-falls-animal-control-697624",
+      "name": "Sioux Falls Animal Control",
+      "address": "320 West 4th Street, Sioux Falls, SD 57104",
+      "phone": "605-367-7000",
+      "image": "https://cdn.findpawpal.com/office/697624.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/sioux-falls-animal-control-697624/"
+    },
+    {
+      "officeId": 714027,
+      "slug": "south-dakota-animal-welfare-league-714027",
+      "name": "South Dakota Animal Welfare League",
+      "address": "PO Box 178, Sioux Falls, SD 57101",
+      "phone": "605-339-0785",
+      "image": "./img/shelter/office/714027.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/south-dakota-animal-welfare-league-714027/",
+      "imageUrl": "https://cdn.findpawpal.com/office/714027.jpg?f=webp&w=730"
+    }
+  ]
+}

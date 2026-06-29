@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:48:30.397019+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "tuscola",
+    "name": "Tuscola",
+    "label": "Tuscola, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/tuscola/",
+  "offices": [
+    {
+      "officeId": 412250,
+      "slug": "the-animal-house-71207-inc-412250",
+      "name": "The Animal House 71207 Inc",
+      "address": "701 East Buckner Street, Tuscola, IL 61953",
+      "phone": "217-294-1769",
+      "image": "./img/shelter/office/412250.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-animal-house-71207-inc-412250/",
+      "imageUrl": "https://cdn.findpawpal.com/office/412250.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 578633,
+      "slug": "crosswinds-equine-rescue-inc-578633",
+      "name": "Crosswinds Equine Rescue Inc",
+      "address": "1476 East County Road 1350 North, Tuscola, IL 61953",
+      "phone": "217-832-2010",
+      "image": "./img/shelter/office/578633.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/crosswinds-equine-rescue-inc-578633/",
+      "imageUrl": "https://cdn.findpawpal.com/office/578633.jpg?f=webp&w=730"
+    }
+  ]
+}

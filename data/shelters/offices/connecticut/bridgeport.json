@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T18:35:42.874967+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "bridgeport",
+    "name": "Bridgeport",
+    "label": "Bridgeport, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/bridgeport/",
+  "offices": [
+    {
+      "officeId": 148016,
+      "slug": "bridgeport-animal-shelter-148016",
+      "name": "Bridgeport Animal Shelter",
+      "address": "525 Asylum Street, Bridgeport, CT 06610",
+      "phone": "203-576-7727",
+      "image": "./img/shelter/office/148016.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bridgeport-animal-shelter-148016/",
+      "imageUrl": "https://cdn.findpawpal.com/office/148016.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 148020,
+      "slug": "animal-shelter-assistance-program-148020",
+      "name": "Animal Shelter Assistance Program",
+      "address": "PO Box 55476, Bridgeport, CT 06610",
+      "phone": "203-371-8289",
+      "image": "./img/shelter/office/148020.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-shelter-assistance-program-148020/",
+      "imageUrl": "https://cdn.findpawpal.com/office/148020.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 156141,
+      "slug": "friends-of-the-bridgeport-animal-shelter-inc-156141",
+      "name": "Friends of the Bridgeport Animal Shelter, Inc.",
+      "address": "256 Ruth Street, Bridgeport, CT 06606",
+      "phone": "203-414-2549",
+      "image": "./img/shelter/office/156141.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-the-bridgeport-animal-shelter-inc-156141/",
+      "imageUrl": "https://cdn.findpawpal.com/office/156141.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 179303,
+      "slug": "bridgeport-animal-control-179303",
+      "name": "Bridgeport Animal Control",
+      "address": "236 Evergreen Street, Bridgeport, CT 06606",
+      "phone": "203-576-7727",
+      "image": "./img/shelter/office/179303.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bridgeport-animal-control-179303/",
+      "imageUrl": "https://cdn.findpawpal.com/office/179303.jpg?f=webp&w=730"
+    }
+  ]
+}

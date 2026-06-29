@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:56:21.585791+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "benton",
+    "name": "Benton",
+    "label": "Benton, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/benton/",
+  "offices": [
+    {
+      "officeId": 111729,
+      "slug": "humane-society-of-marshall-county-111729",
+      "name": "Humane Society of Marshall County",
+      "address": "6301 U.s. 68, Benton, KY 42025",
+      "phone": "270-354-8738",
+      "image": "./img/shelter/office/111729.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-marshall-county-111729/",
+      "imageUrl": "https://cdn.findpawpal.com/office/111729.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 115964,
+      "slug": "marshall-county-animal-shelter-115964",
+      "name": "Marshall County Animal Shelter",
+      "address": "839 Hollytown Road, Benton, KY 42025",
+      "phone": "270-527-0954",
+      "image": "./img/shelter/office/115964.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/marshall-county-animal-shelter-115964/",
+      "imageUrl": "https://cdn.findpawpal.com/office/115964.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 116816,
+      "slug": "sandra-wilson-116816",
+      "name": "Sandra Wilson",
+      "address": "602 Maple Street, Benton, KY 42025",
+      "phone": "270-703-8817",
+      "image": "./img/shelter/office/116816.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sandra-wilson-116816/",
+      "imageUrl": "https://cdn.findpawpal.com/office/116816.jpg?f=webp&w=730"
+    }
+  ]
+}

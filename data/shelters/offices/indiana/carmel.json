@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:49:34.031032+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "carmel",
+    "name": "Carmel",
+    "label": "Carmel, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/carmel/",
+  "offices": [
+    {
+      "officeId": 223403,
+      "slug": "castaway-pit-bull-rescue-inc-223403",
+      "name": "Castaway Pit Bull Rescue, Inc.",
+      "address": "10284 Lakeshore Drive East, Carmel, IN 46033",
+      "phone": "317-363-1406",
+      "image": "./img/shelter/office/223403.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/castaway-pit-bull-rescue-inc-223403/",
+      "imageUrl": "https://cdn.findpawpal.com/office/223403.jpg?f=webp&w=730"
+    }
+  ]
+}

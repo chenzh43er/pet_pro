@@ -1,0 +1,21 @@
+{
+  "officeId": 230150,
+  "slug": "montgomery-county-humane-society-230150",
+  "name": "Montgomery County Humane Society",
+  "address": "1150 Okeewemee Road, Troy, NC 27371",
+  "street": "1150 Okeewemee Road",
+  "addressCity": "Troy",
+  "stateCode": "NC",
+  "zip": "27371",
+  "phone": "910-571-0009",
+  "image": "./img/shelter/office/230150.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/montgomery-county-humane-society-230150/",
+  "stateSlug": "north-carolina",
+  "stateName": "North Carolina",
+  "citySlug": "troy",
+  "cityName": "Troy",
+  "cityLabel": "Troy, NC",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/north-carolina/troy/",
+  "fetchedAt": "2026-06-27T19:41:43.252588+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/230150.jpg?f=webp&w=730"
+}

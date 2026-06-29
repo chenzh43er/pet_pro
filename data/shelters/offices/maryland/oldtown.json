@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T19:04:14.021661+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "oldtown",
+    "name": "Oldtown",
+    "label": "Oldtown, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/oldtown/",
+  "offices": [
+    {
+      "officeId": 490648,
+      "slug": "second-chance-k-9-sanctuary-490648",
+      "name": "Second Chance K-9 Sanctuary",
+      "address": "11400 Humbertson Lane Southeast, Oldtown, MD 21555",
+      "phone": "301-478-5957",
+      "image": "https://cdn.findpawpal.com/office/490648.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/second-chance-k-9-sanctuary-490648/"
+    },
+    {
+      "officeId": 499848,
+      "slug": "ark-of-hope-animal-rescue-inc-499848",
+      "name": "Ark of Hope Animal Rescue, Inc.",
+      "address": "13400 Arctic Ridge Lane Southeast, Oldtown, MD 21555",
+      "phone": "301-478-3300",
+      "image": "https://cdn.findpawpal.com/office/499848.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/ark-of-hope-animal-rescue-inc-499848/"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T20:05:40.875218+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "henderson",
+    "name": "Henderson",
+    "label": "Henderson, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/henderson/",
+  "offices": [
+    {
+      "officeId": 518383,
+      "slug": "henderson-animal-shelter-518383",
+      "name": "Henderson Animal Shelter",
+      "address": "1201 Highland Drive, Henderson, TX 75652",
+      "phone": "903-657-7651",
+      "image": "./img/shelter/office/518383.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/henderson-animal-shelter-518383/",
+      "imageUrl": "https://cdn.findpawpal.com/office/518383.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674541,
+      "slug": "henderson-animal-shelter-674541",
+      "name": "Henderson Animal Shelter",
+      "address": "2257 U.s. 259, Henderson, TX 75654",
+      "phone": "903-657-7651",
+      "image": "https://cdn.findpawpal.com/office/674541.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/henderson-animal-shelter-674541/"
+    }
+  ]
+}

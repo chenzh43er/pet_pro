@@ -1,0 +1,21 @@
+{
+  "officeId": 156991,
+  "slug": "robin-hood-animal-rescue-156991",
+  "name": "Robin Hood Animal Rescue",
+  "address": "3331 West Monterosa Street, Phoenix, AZ 85017",
+  "street": "3331 West Monterosa Street",
+  "addressCity": "Phoenix",
+  "stateCode": "AZ",
+  "zip": "85017",
+  "phone": "623-680-1170",
+  "image": "./img/shelter/office/156991.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/robin-hood-animal-rescue-156991/",
+  "stateSlug": "arizona",
+  "stateName": "Arizona",
+  "citySlug": "phoenix",
+  "cityName": "Phoenix",
+  "cityLabel": "Phoenix, AZ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/arizona/phoenix/",
+  "fetchedAt": "2026-06-27T18:20:41.998915+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/156991.jpg?f=webp&w=730"
+}

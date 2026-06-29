@@ -1,0 +1,21 @@
+{
+  "officeId": 180033,
+  "slug": "payson-humane-society-180033",
+  "name": "Payson Humane Society",
+  "address": "605 Wilson Street, Miami, AZ 85539",
+  "street": "605 Wilson Street",
+  "addressCity": "Miami",
+  "stateCode": "AZ",
+  "zip": "85539",
+  "phone": "520-474-5590",
+  "image": "./img/shelter/office/180033.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/payson-humane-society-180033/",
+  "stateSlug": "arizona",
+  "stateName": "Arizona",
+  "citySlug": "miami",
+  "cityName": "Miami",
+  "cityLabel": "Miami, AZ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/arizona/miami/",
+  "fetchedAt": "2026-06-27T18:20:29.454514+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/180033.jpg?f=webp&w=730"
+}

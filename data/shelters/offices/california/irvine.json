@@ -1,0 +1,53 @@
+{
+  "fetchedAt": "2026-06-27T18:26:41.416280+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "irvine",
+    "name": "Irvine",
+    "label": "Irvine, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/irvine/",
+  "offices": [
+    {
+      "officeId": 474610,
+      "slug": "orange-county-animal-rescue-coalition-474610",
+      "name": "Orange County Animal Rescue Coalition",
+      "address": "PO Box 19393, Irvine, CA 92623",
+      "phone": "949-451-3272",
+      "image": "https://cdn.findpawpal.com/office/474610.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/orange-county-animal-rescue-coalition-474610/"
+    },
+    {
+      "officeId": 484012,
+      "slug": "irvine-animal-care-center-484012",
+      "name": "Irvine Animal Care Center",
+      "address": "6443 Oak Canyon, Irvine, CA 92618",
+      "phone": "949-724-7740",
+      "image": "./img/shelter/office/484012.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/irvine-animal-care-center-484012/",
+      "imageUrl": "https://cdn.findpawpal.com/office/484012.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 667908,
+      "slug": "coastal-german-shepherd-rescue-667908",
+      "name": "Coastal German Shepherd Rescue",
+      "address": "PO Box 50726, Irvine, CA 92619",
+      "phone": "714-528-4730",
+      "image": "https://cdn.findpawpal.com/office/667908.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/coastal-german-shepherd-rescue-667908/"
+    },
+    {
+      "officeId": 723286,
+      "slug": "rabbit-and-pocket-pet-education-723286",
+      "name": "Rabbit & Pocket Pet Education",
+      "address": ", Irvine, CA 92614",
+      "phone": "818-600-1967",
+      "image": "./img/shelter/office/723286.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rabbit-and-pocket-pet-education-723286/",
+      "imageUrl": "https://cdn.findpawpal.com/office/723286.jpg?f=webp&w=730"
+    }
+  ]
+}

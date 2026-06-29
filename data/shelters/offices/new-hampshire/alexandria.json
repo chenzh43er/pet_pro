@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:23:40.217710+00:00",
+  "state": {
+    "slug": "new-hampshire",
+    "name": "New Hampshire"
+  },
+  "city": {
+    "slug": "alexandria",
+    "name": "Alexandria",
+    "label": "Alexandria, NH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-hampshire/alexandria/",
+  "offices": [
+    {
+      "officeId": 43636,
+      "slug": "mountainview-shih-tzu-rescue-43636",
+      "name": "Mountainview Shih Tzu Rescue",
+      "address": "2308 Washburn Road, Alexandria, NH 03222",
+      "phone": "603-532-0335",
+      "image": "https://cdn.findpawpal.com/office/43636.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/mountainview-shih-tzu-rescue-43636/"
+    }
+  ]
+}

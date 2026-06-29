@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:59:47.150054+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "gretna",
+    "name": "Gretna",
+    "label": "Gretna, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/gretna/",
+  "offices": [
+    {
+      "officeId": 226175,
+      "slug": "project-angel-wings-226175",
+      "name": "Project Angel Wings",
+      "address": "500 Amelia Street, Gretna, LA 70053",
+      "phone": "",
+      "image": "./img/shelter/office/226175.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/project-angel-wings-226175/",
+      "imageUrl": "https://cdn.findpawpal.com/office/226175.jpg?f=webp&w=730"
+    }
+  ]
+}

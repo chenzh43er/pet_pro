@@ -1,0 +1,21 @@
+{
+  "officeId": 210852,
+  "slug": "buffalo-animal-shelter-210852",
+  "name": "Buffalo Animal Shelter",
+  "address": "PO Box 410 380, Buffalo, MO 65622",
+  "street": "PO Box 410 380",
+  "addressCity": "Buffalo",
+  "stateCode": "MO",
+  "zip": "65622",
+  "phone": "417-345-2701",
+  "image": "./img/shelter/office/210852.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/buffalo-animal-shelter-210852/",
+  "stateSlug": "missouri",
+  "stateName": "Missouri",
+  "citySlug": "buffalo",
+  "cityName": "Buffalo",
+  "cityLabel": "Buffalo, MO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/missouri/buffalo/",
+  "fetchedAt": "2026-06-27T19:17:57.444491+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/210852.jpg?f=webp&w=730"
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:10:24.318346+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "fennville",
+    "name": "Fennville",
+    "label": "Fennville, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/fennville/",
+  "offices": [
+    {
+      "officeId": 236368,
+      "slug": "diamond-springs-boxer-rescue-236368",
+      "name": "Diamond Springs Boxer Rescue",
+      "address": "2525 Blue Star Highway, Fennville, MI 49408",
+      "phone": "616-813-8690",
+      "image": "./img/shelter/office/236368.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/diamond-springs-boxer-rescue-236368/",
+      "imageUrl": "https://cdn.findpawpal.com/office/236368.jpg?f=webp&w=730"
+    }
+  ]
+}

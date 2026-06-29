@@ -1,0 +1,21 @@
+{
+  "officeId": 44108,
+  "slug": "franklin-animal-shelter-44108",
+  "name": "Franklin Animal Shelter",
+  "address": "71 Punch Brook Rd, Franklin, NH 03235",
+  "street": "71 Punch Brook Rd",
+  "addressCity": "Franklin",
+  "stateCode": "NH",
+  "zip": "03235",
+  "phone": "603-934-4132",
+  "image": "./img/shelter/office/44108.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/franklin-animal-shelter-44108/",
+  "stateSlug": "new-hampshire",
+  "stateName": "New Hampshire",
+  "citySlug": "franklin",
+  "cityName": "Franklin",
+  "cityLabel": "Franklin, NH",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-hampshire/franklin/",
+  "fetchedAt": "2026-06-27T19:24:11.607041+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/44108.jpg?f=webp&w=730"
+}

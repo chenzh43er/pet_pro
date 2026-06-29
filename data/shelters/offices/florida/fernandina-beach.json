@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:14:16.514889+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "fernandina-beach",
+    "name": "Fernandina Beach",
+    "label": "Fernandina Beach, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/fernandina-beach/",
+  "offices": [
+    {
+      "slug": "nassau-county-animal-services-323407",
+      "name": "Nassau County Animal Services",
+      "address": "86078 License Road, Fernandina Beach, FL 32034",
+      "phone": "904-491-7440",
+      "image": "./img/shelter/office/323407.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/nassau-county-animal-services-323407/",
+      "imageUrl": "https://cdn.findpawpal.com/office/323407.jpg?f=webp&w=730"
+    }
+  ]
+}

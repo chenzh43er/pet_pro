@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:30:52.402742+00:00",
+  "state": {
+    "slug": "new-mexico",
+    "name": "New Mexico"
+  },
+  "city": {
+    "slug": "pinon",
+    "name": "Pinon",
+    "label": "Pinon, NM"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-mexico/pinon/",
+  "offices": [
+    {
+      "officeId": 337915,
+      "slug": "timber-ridge-aviary-and-rescue-337915",
+      "name": "Timber Ridge Aviary and Rescue",
+      "address": "PO Box 42, Pinon, NM 88344",
+      "phone": "575-687-4128",
+      "image": "https://cdn.findpawpal.com/office/337915.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/timber-ridge-aviary-and-rescue-337915/"
+    }
+  ]
+}

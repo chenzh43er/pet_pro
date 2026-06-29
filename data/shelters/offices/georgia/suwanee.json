@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:41:38.538691+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "suwanee",
+    "name": "Suwanee",
+    "label": "Suwanee, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/suwanee/",
+  "offices": [
+    {
+      "officeId": 139690,
+      "slug": "humane-friends-rescue-139690",
+      "name": "Humane Friends Rescue",
+      "address": "1000 Peachtree Industrial Boulevard, Suwanee, GA 30024",
+      "phone": "678-491-4140",
+      "image": "./img/shelter/office/139690.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-friends-rescue-139690/",
+      "imageUrl": "https://cdn.findpawpal.com/office/139690.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 143607,
+      "slug": "georgia-humane-society-143607",
+      "name": "Georgia Humane Society",
+      "address": "479 Rutlidge Park Lane, Suwanee, GA 30024",
+      "phone": "404-308-6404",
+      "image": "./img/shelter/office/143607.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia-humane-society-143607/",
+      "imageUrl": "https://cdn.findpawpal.com/office/143607.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 143630,
+      "slug": "southeast-pug-rescue-and-adoption-143630",
+      "name": "Southeast Pug Rescue and Adoption",
+      "address": "3245 Peachtree Parkway, Suwanee, GA 30024",
+      "phone": "770-887-9741",
+      "image": "./img/shelter/office/143630.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/southeast-pug-rescue-and-adoption-143630/",
+      "imageUrl": "https://cdn.findpawpal.com/office/143630.jpg?f=webp&w=730"
+    }
+  ]
+}

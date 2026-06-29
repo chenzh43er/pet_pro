@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:36:54.346327+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "smithtown",
+    "name": "Smithtown",
+    "label": "Smithtown, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/smithtown/",
+  "offices": [
+    {
+      "officeId": 317265,
+      "slug": "town-of-smithtown-animal-shelter-317265",
+      "name": "Town of Smithtown: Animal Shelter",
+      "address": "410 East Main Street, Smithtown, NY 11787",
+      "phone": "631-360-7575",
+      "image": "https://cdn.findpawpal.com/office/317265.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/town-of-smithtown-animal-shelter-317265/"
+    },
+    {
+      "officeId": 399366,
+      "slug": "bearded-collie-club-of-america-rescue-info-399366",
+      "name": "Bearded Collie Club of America Rescue Info",
+      "address": "10 Eden Drive, Smithtown, NY 11787",
+      "phone": "516-724-0871",
+      "image": "./img/shelter/office/399366.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bearded-collie-club-of-america-rescue-info-399366/",
+      "imageUrl": "https://cdn.findpawpal.com/office/399366.jpg?f=webp&w=730"
+    }
+  ]
+}

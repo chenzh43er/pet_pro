@@ -1,0 +1,21 @@
+{
+  "officeId": 238999,
+  "slug": "humane-society-238999",
+  "name": "Humane Society",
+  "address": "22376 Highway 6, Kirksville, MO 63501",
+  "street": "22376 Highway 6",
+  "addressCity": "Kirksville",
+  "stateCode": "MO",
+  "zip": "63501",
+  "phone": "660-665-8038",
+  "image": "./img/shelter/office/238999.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/humane-society-238999/",
+  "stateSlug": "missouri",
+  "stateName": "Missouri",
+  "citySlug": "kirksville",
+  "cityName": "Kirksville",
+  "cityLabel": "Kirksville, MO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/missouri/kirksville/",
+  "fetchedAt": "2026-06-27T19:19:26.795853+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/238999.jpg?f=webp&w=730"
+}

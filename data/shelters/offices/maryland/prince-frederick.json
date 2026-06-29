@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:04:25.883504+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "prince-frederick",
+    "name": "Prince Frederick",
+    "label": "Prince Frederick, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/prince-frederick/",
+  "offices": [
+    {
+      "officeId": 670470,
+      "slug": "calvert-animal-welfare-league-670470",
+      "name": "Calvert Animal Welfare League",
+      "address": "1040 Prince Frederick Boulevard, Prince Frederick, MD 20678",
+      "phone": "410-535-9300",
+      "image": "https://cdn.findpawpal.com/office/670470.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/calvert-animal-welfare-league-670470/"
+    }
+  ]
+}

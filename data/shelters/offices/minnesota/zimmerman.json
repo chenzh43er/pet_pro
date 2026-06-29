@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:15:47.867493+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "zimmerman",
+    "name": "Zimmerman",
+    "label": "Zimmerman, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/zimmerman/",
+  "offices": [
+    {
+      "officeId": 394017,
+      "slug": "minnesota-hooved-animal-rescue-foundation-394017",
+      "name": "Minnesota Hooved Animal Rescue Foundation",
+      "address": "PO Box 47, Zimmerman, MN 55398",
+      "phone": "763-856-3119",
+      "image": "https://cdn.findpawpal.com/office/394017.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota-hooved-animal-rescue-foundation-394017/"
+    }
+  ]
+}

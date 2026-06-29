@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:16:01.433866+00:00",
+  "state": {
+    "slug": "mississippi",
+    "name": "Mississippi"
+  },
+  "city": {
+    "slug": "brandon",
+    "name": "Brandon",
+    "label": "Brandon, MS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/mississippi/brandon/",
+  "offices": [
+    {
+      "officeId": 113659,
+      "slug": "brandon-city-animal-shelter-113659",
+      "name": "Brandon City Animal Shelter",
+      "address": "203 Town Square, Brandon, MS 39042",
+      "phone": "601-825-7225",
+      "image": "https://cdn.findpawpal.com/office/113659.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/brandon-city-animal-shelter-113659/"
+    },
+    {
+      "officeId": 116998,
+      "slug": "rankin-county-animal-control-116998",
+      "name": "Rankin County Animal Control",
+      "address": "710 Marquette Road, Brandon, MS 39042",
+      "phone": "601-824-2024",
+      "image": "./img/shelter/office/116998.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rankin-county-animal-control-116998/",
+      "imageUrl": "https://cdn.findpawpal.com/office/116998.jpg?f=webp&w=730"
+    }
+  ]
+}

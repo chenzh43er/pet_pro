@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:01:18.827182+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "mountain-city",
+    "name": "Mountain City",
+    "label": "Mountain City, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/mountain-city/",
+  "offices": [
+    {
+      "officeId": 425624,
+      "slug": "mountain-city-animal-control-425624",
+      "name": "Mountain City Animal Control",
+      "address": "100 Depot Street, Mountain City, TN 37683",
+      "phone": "615-727-6651",
+      "image": "./img/shelter/office/425624.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mountain-city-animal-control-425624/",
+      "imageUrl": "https://cdn.findpawpal.com/office/425624.jpg?f=webp&w=730"
+    }
+  ]
+}

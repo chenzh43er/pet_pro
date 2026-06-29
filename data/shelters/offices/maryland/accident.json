@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:02:42.124177+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "accident",
+    "name": "Accident",
+    "label": "Accident, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/accident/",
+  "offices": [
+    {
+      "officeId": 372234,
+      "slug": "accident-animal-control-372234",
+      "name": "Accident Animal Control",
+      "address": "1265 Bumble Bee Road, Accident, MD 21520",
+      "phone": "301-387-7729",
+      "image": "./img/shelter/office/372234.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/accident-animal-control-372234/",
+      "imageUrl": "https://cdn.findpawpal.com/office/372234.jpg?f=webp&w=730"
+    }
+  ]
+}

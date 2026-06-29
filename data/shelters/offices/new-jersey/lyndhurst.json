@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:27:11.318434+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "lyndhurst",
+    "name": "Lyndhurst",
+    "label": "Lyndhurst, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/lyndhurst/",
+  "offices": [
+    {
+      "officeId": 94331,
+      "slug": "protect-our-pets-and-homeless-animals-94331",
+      "name": "Protect Our Pets and Homeless Animals",
+      "address": "118 Rutherford Avenue, Lyndhurst, NJ 07071",
+      "phone": "",
+      "image": "./img/shelter/office/94331.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/protect-our-pets-and-homeless-animals-94331/",
+      "imageUrl": "https://cdn.findpawpal.com/office/94331.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 94400,
+      "slug": "humane-society-of-bergen-county-94400",
+      "name": "Humane Society of Bergen County",
+      "address": "221 Stuyvesant Avenue, Lyndhurst, NJ 07071",
+      "phone": "201-896-9300",
+      "image": "./img/shelter/office/94400.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-bergen-county-94400/",
+      "imageUrl": "https://cdn.findpawpal.com/office/94400.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 103126,
+      "slug": "animal-rescue-team-103126",
+      "name": "Animal Rescue Team",
+      "address": "237 Stuyvesant Avenue, Lyndhurst, NJ 07071",
+      "phone": "201-935-7076",
+      "image": "./img/shelter/office/103126.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-rescue-team-103126/",
+      "imageUrl": "https://cdn.findpawpal.com/office/103126.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "fetchedAt": "2026-06-27T20:09:37.753418+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "temple",
+    "name": "Temple",
+    "label": "Temple, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/temple/",
+  "offices": [
+    {
+      "officeId": 478864,
+      "slug": "temple-city-animal-shelter-478864",
+      "name": "Temple City Animal Shelter",
+      "address": "620 Mama Dog Creek, Temple, TX 76504",
+      "phone": "254-298-5732",
+      "image": "./img/shelter/office/478864.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/temple-city-animal-shelter-478864/",
+      "imageUrl": "https://cdn.findpawpal.com/office/478864.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 518633,
+      "slug": "association-for-a-pet-adoption-center-518633",
+      "name": "Association for A Pet Adoption Center",
+      "address": "PO Box 1358, Temple, TX 76503",
+      "phone": "254-298-2900",
+      "image": "https://cdn.findpawpal.com/office/518633.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/association-for-a-pet-adoption-center-518633/"
+    },
+    {
+      "officeId": 523345,
+      "slug": "bell-county-spca-523345",
+      "name": "Bell County SPCA",
+      "address": "PO Box 1222, Temple, TX 76503",
+      "phone": "254-985-9292",
+      "image": "https://cdn.findpawpal.com/office/523345.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/bell-county-spca-523345/"
+    },
+    {
+      "officeId": 538145,
+      "slug": "greater-temple-humane-society-538145",
+      "name": "Greater Temple Humane Society",
+      "address": "PO Box 1093, Temple, TX 76503",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/538145.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/greater-temple-humane-society-538145/"
+    }
+  ]
+}

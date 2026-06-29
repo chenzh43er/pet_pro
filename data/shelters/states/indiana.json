@@ -1,0 +1,1651 @@
+{
+  "stateSlug": "indiana",
+  "count": 235,
+  "shelters": [
+    {
+      "slug": "black-pine-animal-sanctuary-201120",
+      "name": "Black Pine Animal Sanctuary",
+      "address": "1426 West 300 North, Albion, IN 46701",
+      "phone": "260-636-7383",
+      "image": "https://cdn.findpawpal.com/office/201120.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "anderson-animal-control-253611",
+      "name": "Anderson Animal Control",
+      "address": "3210 Forest Terrace, Anderson, IN 46013",
+      "phone": "765-400-4193",
+      "image": "https://cdn.findpawpal.com/office/253611.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "anderson-animal-shelter-214555",
+      "name": "Anderson Animal Shelter",
+      "address": "613 Dewey Street, Anderson, IN 46016",
+      "phone": "765-648-6305",
+      "image": "https://cdn.findpawpal.com/office/214555.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "caring-k9s-canine-rescue-201164",
+      "name": "Caring K9's Canine Rescue",
+      "address": "914 County Road 300 East, Anderson, IN 46012",
+      "phone": "765-621-6441",
+      "image": "https://cdn.findpawpal.com/office/201164.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "countryside-animal-rescue-inc-250449",
+      "name": "Countryside Animal Rescue, Inc.",
+      "address": "PO Box 991, Anderson, IN 46015",
+      "phone": "765-649-7944",
+      "image": "https://cdn.findpawpal.com/office/250449.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "madison-county-spca-humane-252382",
+      "name": "Madison County Spca Humane",
+      "address": "2219 Crystal Street, Anderson, IN 46012",
+      "phone": "765-644-6484",
+      "image": "https://cdn.findpawpal.com/office/252382.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cats-and-kittens-rescuerdogs-and-puppies-217058",
+      "name": "Cats and Kittens Rescuerdogs and Puppies",
+      "address": "4203 West 140 South, Angola, IN 46703",
+      "phone": "260-668-3065",
+      "image": "https://cdn.findpawpal.com/office/217058.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "steuben-county-humane-society-217065",
+      "name": "Steuben County Humane Society",
+      "address": "1700 North 200 West, Angola, IN 46703",
+      "phone": "260-833-2877",
+      "image": "https://cdn.findpawpal.com/office/217065.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fountain-county-animal-shelter-219519",
+      "name": "Fountain County Animal Shelter",
+      "address": "2421 North Foster Road, Attica, IN 47918",
+      "phone": "765-295-0270",
+      "image": "https://cdn.findpawpal.com/office/219519.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fountain-warren-animal-welfare-213653",
+      "name": "Fountain-Warren Animal Welfare",
+      "address": "PO Box 164, Attica, IN 47918",
+      "phone": "765-764-4425",
+      "image": "https://cdn.findpawpal.com/office/213653.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pawsnclaws-201150",
+      "name": "Paws'n'claws",
+      "address": "103 South Market Street, Attica, IN 47918",
+      "phone": "765-762-6598",
+      "image": "https://cdn.findpawpal.com/office/201150.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dearborn-county-animal-shelter-219525",
+      "name": "Dearborn County Animal Shelter",
+      "address": "11681 County Farm Road, Aurora, IN 47001",
+      "phone": "812-926-0910",
+      "image": "https://cdn.findpawpal.com/office/219525.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dearborn-county-friends-of-animals-inc-249814",
+      "name": "Dearborn County Friends of Animals, Inc.",
+      "address": "PO Box 322, Aurora, IN 47001",
+      "phone": "812-537-0046",
+      "image": "https://cdn.findpawpal.com/office/249814.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "georgia-humane-and-pet-sanctuary-201190",
+      "name": "Georgia Humane & Pet Sanctuary",
+      "address": "12 24th St, Bedford, IN 47421",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/201190.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lawrence-county-animal-control-201858",
+      "name": "Lawrence County Animal Control",
+      "address": "1410 I Street, Bedford, IN 47421",
+      "phone": "812-275-4439",
+      "image": "https://cdn.findpawpal.com/office/201858.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "white-river-humane-241583",
+      "name": "White River Humane",
+      "address": "3511 Pumphouse Road, Bedford, IN 47421",
+      "phone": "812-279-2457",
+      "image": "https://cdn.findpawpal.com/office/241583.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bloomington-animal-shelter-215204",
+      "name": "Bloomington Animal Shelter",
+      "address": "3410 South Walnut Street, Bloomington, IN 47401",
+      "phone": "812-349-3492",
+      "image": "https://cdn.findpawpal.com/office/215204.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "monroe-county-animal-management-215212",
+      "name": "Monroe County Animal Management",
+      "address": "301 North College Avenue, Bloomington, IN 47404",
+      "phone": "812-349-2585",
+      "image": "https://cdn.findpawpal.com/office/215212.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ohio-valley-animal-league-inc-253301",
+      "name": "Ohio Valley Animal League, Inc.",
+      "address": "3750 South Garrison Chapel Road, Bloomington, IN 47403",
+      "phone": "812-825-7387",
+      "image": "https://cdn.findpawpal.com/office/253301.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bluffton-animal-shelter-201374",
+      "name": "Bluffton Animal Shelter",
+      "address": "1613 West Cherry Street, Bluffton, IN 46714",
+      "phone": "260-824-6063",
+      "image": "https://cdn.findpawpal.com/office/201374.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "indiana-petite-paws-rescue-inc-222174",
+      "name": "Indiana Petite Paws Rescue, Inc.",
+      "address": "PO Box 74, Boone Grove, IN 46302",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/222174.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "warrick-county-animal-control-223808",
+      "name": "Warrick County Animal Control",
+      "address": "599 Roth Road, Boonville, IN 47601",
+      "phone": "812-897-6107",
+      "image": "https://cdn.findpawpal.com/office/223808.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "southern-indiana-guinea-pig-rescue-200012",
+      "name": "Southern Indiana Guinea Pig Rescue",
+      "address": "17903 Highway 60, Borden, IN 47106",
+      "phone": "812-280-8052",
+      "image": "https://cdn.findpawpal.com/office/200012.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clay-county-humane-society-201468",
+      "name": "Clay County Humane Society",
+      "address": "8280 North County Road 125 West, Brazil, IN 47834",
+      "phone": "812-446-5126",
+      "image": "https://cdn.findpawpal.com/office/201468.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "legacy-small-dog-senior-sanctuary-pom-rescue-200724",
+      "name": "Legacy Small Dog Senior Sanctuary Pom Rescue",
+      "address": "10110 U.s. 6, Bremen, IN 46506",
+      "phone": "574-612-4617",
+      "image": "https://cdn.findpawpal.com/office/200724.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-elkhart-county-200650",
+      "name": "Humane Society of Elkhart County",
+      "address": "54687 County Road 19, Bristol, IN 46507",
+      "phone": "574-848-4225",
+      "image": "https://cdn.findpawpal.com/office/200650.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "franklin-county-humane-society-213661",
+      "name": "Franklin County Humane Society",
+      "address": "107 High Street, Brookville, IN 47012",
+      "phone": "765-647-1444",
+      "image": "https://cdn.findpawpal.com/office/213661.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brownsburg-animal-shelter-252273",
+      "name": "Brownsburg Animal Shelter",
+      "address": "640 East Main Street, Brownsburg, IN 46112",
+      "phone": "317-858-8022",
+      "image": "https://cdn.findpawpal.com/office/252273.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "earps-inc-200406",
+      "name": "Earps, Inc.",
+      "address": "PO Box 736, Brownsburg, IN 46112",
+      "phone": "317-809-2153",
+      "image": "https://cdn.findpawpal.com/office/200406.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brownstown-pound-201443",
+      "name": "Brownstown Pound",
+      "address": "200 West Walnut Street, Brownstown, IN 47220",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/201443.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "de-kalb-county-humane-society-249822",
+      "name": "De Kalb County Humane Society",
+      "address": "5221 U.s. 6, Butler, IN 46721",
+      "phone": "219-868-2409",
+      "image": "https://cdn.findpawpal.com/office/249822.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "perry-county-animal-shelter-201793",
+      "name": "Perry County Animal Shelter",
+      "address": "200 Herzelle Street, Cannelton, IN 47520",
+      "phone": "812-547-6381",
+      "image": "https://cdn.findpawpal.com/office/201793.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "castaway-pit-bull-rescue-inc-223403",
+      "name": "Castaway Pit Bull Rescue, Inc.",
+      "address": "10284 Lakeshore Drive East, Carmel, IN 46033",
+      "phone": "317-363-1406",
+      "image": "https://cdn.findpawpal.com/office/223403.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clay-county-animal-rescue-201297",
+      "name": "Clay County Animal Rescue",
+      "address": "735 Route 59, Center Point, IN 47840",
+      "phone": "812-603-6326",
+      "image": "https://cdn.findpawpal.com/office/201297.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "exotic-feline-rescue-center-214865",
+      "name": "Exotic Feline Rescue Center",
+      "address": "2221 East Ashboro Road, Center Point, IN 47840",
+      "phone": "812-835-1130",
+      "image": "https://cdn.findpawpal.com/office/214865.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spencer-county-animal-shelter-242456",
+      "name": "Spencer County Animal Shelter",
+      "address": "824 E County Road 800 N, Chrisney, IN 47611",
+      "phone": "812-362-8558",
+      "image": "https://cdn.findpawpal.com/office/242456.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-tipton-county-252213",
+      "name": "Humane Society of Tipton County",
+      "address": "PO Box 1085, Cicero, IN 46072",
+      "phone": "765-675-1692",
+      "image": "https://cdn.findpawpal.com/office/252213.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-whitley-county-241958",
+      "name": "Humane Society of Whitley County",
+      "address": "951 South Line Street, Columbia, IN 46725",
+      "phone": "260-244-6664",
+      "image": "https://cdn.findpawpal.com/office/241958.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bartholomew-county-humane-society-241264",
+      "name": "Bartholomew County Humane Society",
+      "address": "4110 East 200 South, Columbus, IN 47201",
+      "phone": "812-372-6063",
+      "image": "https://cdn.findpawpal.com/office/241264.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "columbus-animal-shelter-200955",
+      "name": "Columbus Animal Shelter",
+      "address": "2730 Arnold Street, Columbus, IN 47203",
+      "phone": "812-376-2505",
+      "image": "https://cdn.findpawpal.com/office/200955.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "indiana-hooved-animal-humane-241282",
+      "name": "Indiana Hooved Animal Humane",
+      "address": "6400 South 650 West, Columbus, IN 47201",
+      "phone": "812-342-3002",
+      "image": "https://cdn.findpawpal.com/office/241282.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fayette-county-animal-shelter-217967",
+      "name": "Fayette County Animal Shelter",
+      "address": "1703 Michigan Avenue, Connersville, IN 47331",
+      "phone": "765-825-8693",
+      "image": "https://cdn.findpawpal.com/office/217967.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "harrison-county-dept-of-animal-control-201204",
+      "name": "Harrison County Dept of Animal Control",
+      "address": "3132 Hope Ln NW, Corydon, IN 47112",
+      "phone": "812-738-8163",
+      "image": "https://cdn.findpawpal.com/office/201204.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "heart-humane-society-inc-250156",
+      "name": "Heart Humane Society, Inc",
+      "address": "PO Box 576, Corydon, IN 47112",
+      "phone": "812-366-3066",
+      "image": "https://cdn.findpawpal.com/office/250156.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "footes-freedom-farm-201022",
+      "name": "Foote's Freedom Farm",
+      "address": "6050 Circle Road Northeast, Crandall, IN 47114",
+      "phone": "812-366-4505",
+      "image": "https://cdn.findpawpal.com/office/201022.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-welfare-league-200995",
+      "name": "Animal Welfare League",
+      "address": "1104 Big 4 Arch Road, Crawfordsville, IN 47933",
+      "phone": "765-362-8846",
+      "image": "https://cdn.findpawpal.com/office/200995.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "county-government-offices-animal-control-center-219039",
+      "name": "County Government Offices: Animal Control Center",
+      "address": "3011 West 93rd Avenue, Crown Point, IN 46307",
+      "phone": "219-769-7016",
+      "image": "https://cdn.findpawpal.com/office/219039.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hendricks-county-animal-shelter-200340",
+      "name": "Hendricks County Animal Shelter",
+      "address": "945 East Main Street, Danville, IN 46122",
+      "phone": "317-745-9256",
+      "image": "https://cdn.findpawpal.com/office/200340.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hendricks-county-humane-society-251321",
+      "name": "Hendricks County Humane Society",
+      "address": "3033 East Main Street, Danville, IN 46122",
+      "phone": "317-745-3338",
+      "image": "https://cdn.findpawpal.com/office/251321.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jericho-society-inc-251337",
+      "name": "Jericho Society, Inc.",
+      "address": "PO Box 187, Danville, IN 46122",
+      "phone": "317-745-5174",
+      "image": "https://cdn.findpawpal.com/office/251337.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "just-scratch-my-ears-213844",
+      "name": "Just Scratch My Ears",
+      "address": "2641 U.s. 36, Danville, IN 46122",
+      "phone": "317-946-8566",
+      "image": "https://cdn.findpawpal.com/office/213844.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "inky-rottweiler-rescue-218722",
+      "name": "Inky Rottweiler Rescue",
+      "address": "9564 East Bowers Road, Darlington, IN 47940",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/218722.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "frisky-felines-foundation-217227",
+      "name": "Frisky Felines Foundation",
+      "address": "5725 Milltown Frenchtown Road Northwest, Depauw, IN 47115",
+      "phone": "812-572-2112",
+      "image": "https://cdn.findpawpal.com/office/217227.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "east-chicago-pound-201594",
+      "name": "East Chicago Pound",
+      "address": "2829 Gary Avenue, East Chicago, IN 46312",
+      "phone": "219-391-8364",
+      "image": "https://cdn.findpawpal.com/office/201594.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "seventh-heaven-rat-rescue-201221",
+      "name": "Seventh Heaven Rat Rescue",
+      "address": "9510 North State Route 7, Elizabethtown, IN 47232",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/201221.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "elkhart-county-humane-society-217661",
+      "name": "Elkhart County Humane Society",
+      "address": "PO Box 123, Elkhart, IN 46515",
+      "phone": "219-848-4225",
+      "image": "https://cdn.findpawpal.com/office/217661.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-small-dog-rescue-221408",
+      "name": "Second Chance Small Dog Rescue",
+      "address": "821 East Lusher Avenue, Elkhart, IN 46517",
+      "phone": "574-295-7184",
+      "image": "https://cdn.findpawpal.com/office/221408.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "caseys-safety-nest-201058",
+      "name": "Casey's Safety Nest",
+      "address": "PO Box 2426, Evansville, IN 47728",
+      "phone": "812-589-9870",
+      "image": "https://cdn.findpawpal.com/office/201058.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-evansville-animal-control-shelter-223369",
+      "name": "City of Evansville: Animal Control Shelter",
+      "address": "815 East Uhlhorn Street, Evansville, IN 47710",
+      "phone": "812-435-6015",
+      "image": "https://cdn.findpawpal.com/office/223369.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "proving-animals-are-worth-saving-217101",
+      "name": "Proving Animals Are Worth Saving",
+      "address": "PO Box 115, Evansville, IN 47701",
+      "phone": "812-490-1039",
+      "image": "https://cdn.findpawpal.com/office/217101.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "vanderburgh-humane-society-251851",
+      "name": "Vanderburgh Humane Society",
+      "address": "400 Millner Industrial Drive, Evansville, IN 47710",
+      "phone": "812-426-2563",
+      "image": "https://cdn.findpawpal.com/office/251851.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "midwest-glider-web-217761",
+      "name": "Midwest Glider Web",
+      "address": "323 East Madison Street, Fairmount, IN 46928",
+      "phone": "817-995-4816",
+      "image": "https://cdn.findpawpal.com/office/217761.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alliance-for-responsible-pet-ownership-240300",
+      "name": "Alliance for Responsible Pet Ownership",
+      "address": "PO Box 6385, Fishers, IN 46038",
+      "phone": "317-774-8292",
+      "image": "https://cdn.findpawpal.com/office/240300.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "piece-of-my-heart-rescue-216264",
+      "name": "Piece of My Heart Rescue",
+      "address": "PO Box 44, Floyds Knobs, IN 47119",
+      "phone": "812-903-0030",
+      "image": "https://cdn.findpawpal.com/office/216264.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "allen-county-spca-222803",
+      "name": "Allen County SPCA",
+      "address": "4914 Hanna Street, Fort Wayne, IN 46806",
+      "phone": "260-744-0454",
+      "image": "https://cdn.findpawpal.com/office/222803.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alliance-for-animals-201900",
+      "name": "Alliance for Animals",
+      "address": "5818 Maplecrest Road, Fort Wayne, IN 46835",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/201900.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "daws-paws-214730",
+      "name": "Daw's PAWS",
+      "address": "15288 Coldwater Road, Fort Wayne, IN 46845",
+      "phone": "260-425-0884",
+      "image": "https://cdn.findpawpal.com/office/214730.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fort-wayne-animal-care-and-control-241529",
+      "name": "Fort Wayne Animal Care & Control",
+      "address": "3020 Hillegas Road, Fort Wayne, IN 46808",
+      "phone": "260-427-1244",
+      "image": "https://cdn.findpawpal.com/office/241529.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fort-wayne-humane-society-241573",
+      "name": "Fort Wayne Humane Society",
+      "address": "3422 Taylor Street, Fort Wayne, IN 46802",
+      "phone": "219-423-7151",
+      "image": "https://cdn.findpawpal.com/office/241573.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "midwest-prairie-dog-shelter-inc-214724",
+      "name": "Midwest Prairie Dog Shelter, Inc.",
+      "address": "8916 Arcola Road, Fort Wayne, IN 46818",
+      "phone": "260-704-7364",
+      "image": "https://cdn.findpawpal.com/office/214724.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-protection-coalition-inc-201351",
+      "name": "Animal Protection Coalition, Inc",
+      "address": "916 South Prairie Avenue, Frankfort, IN 46041",
+      "phone": "765-601-4104",
+      "image": "https://cdn.findpawpal.com/office/201351.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-clinton-county-217681",
+      "name": "Humane Society-Clinton County",
+      "address": "825 Izaak Walton Drive, Frankfort, IN 46041",
+      "phone": "765-654-7717",
+      "image": "https://cdn.findpawpal.com/office/217681.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "indiana-horse-rescue-251723",
+      "name": "Indiana Horse Rescue",
+      "address": "916 South Prairie Avenue, Frankfort, IN 46041",
+      "phone": "765-659-5209",
+      "image": "https://cdn.findpawpal.com/office/251723.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "german-shepherd-rescue-adoption-of-central-indiana-200279",
+      "name": "German Shepherd Rescue Adoption of Central Indiana",
+      "address": "6189 East 100 North, Franklin, IN 46131",
+      "phone": "317-736-0446",
+      "image": "https://cdn.findpawpal.com/office/200279.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-johnson-county-251457",
+      "name": "Humane Society of Johnson County",
+      "address": "550 East Jefferson Street, Franklin, IN 46131",
+      "phone": "317-346-7001",
+      "image": "https://cdn.findpawpal.com/office/251457.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "johnson-county-animal-shelter-200468",
+      "name": "Johnson County Animal Shelter",
+      "address": "1061 Hospital Road, Franklin, IN 46131",
+      "phone": "317-736-3924",
+      "image": "https://cdn.findpawpal.com/office/200468.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "gary-animal-control-center-223113",
+      "name": "Gary Animal Control Center",
+      "address": "625 West 9th Place, Gary, IN 46402",
+      "phone": "219-885-7507",
+      "image": "https://cdn.findpawpal.com/office/223113.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-northwest-213981",
+      "name": "Humane Society of Northwest",
+      "address": "6100 Melton Road, Gary, IN 46403",
+      "phone": "219-938-3339",
+      "image": "https://cdn.findpawpal.com/office/213981.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-putnam-county-200644",
+      "name": "Humane Society of Putnam County",
+      "address": "4700 Highway 240, Greencastle, IN 46135",
+      "phone": "765-653-1943",
+      "image": "https://cdn.findpawpal.com/office/200644.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "a-home-away-250117",
+      "name": "A Home Away",
+      "address": "8309 East 200 South, Greenfield, IN 46140",
+      "phone": "765-565-1502",
+      "image": "https://cdn.findpawpal.com/office/250117.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greenfield-animal-control-242395",
+      "name": "Greenfield Animal Control",
+      "address": "3141 U.s. 40, Greenfield, IN 46140",
+      "phone": "317-318-9483",
+      "image": "https://cdn.findpawpal.com/office/242395.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greenfield-hancock-animal-management-216401",
+      "name": "Greenfield-Hancock Animal Management",
+      "address": "809 South State Street, Greenfield, IN 46140",
+      "phone": "317-477-4367",
+      "image": "https://cdn.findpawpal.com/office/216401.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hancock-county-humane-society-251260",
+      "name": "Hancock County Humane Society",
+      "address": "214 East Main Street, Greenfield, IN 46140",
+      "phone": "317-462-5404",
+      "image": "https://cdn.findpawpal.com/office/251260.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "national-brittany-rescue-and-adoption-network-250149",
+      "name": "National Brittany Rescue and Adoption Network",
+      "address": "1531 West 200 North, Greenfield, IN 46140",
+      "phone": "317-496-6815",
+      "image": "https://cdn.findpawpal.com/office/250149.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "decatur-county-animal-control-253276",
+      "name": "Decatur County Animal Control",
+      "address": "1635 West Park Road, Greensburg, IN 47240",
+      "phone": "812-663-9081",
+      "image": "https://cdn.findpawpal.com/office/253276.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hammond-animal-control-251622",
+      "name": "Hammond Animal Control",
+      "address": "5131 Columbia Avenue, Hammond, IN 46327",
+      "phone": "219-853-6507",
+      "image": "https://cdn.findpawpal.com/office/251622.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "noah-a-no-kill-organization-for-the-adoption-of-homeless-animals-217673",
+      "name": "Noah A No-Kill Organization for the Adoption of Homeless Animals",
+      "address": "PO Box 4363, Hammond, IN 46324",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/217673.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "blackford-county-animal-shelter-199937",
+      "name": "Blackford County Animal Shelter",
+      "address": "2500 North 200 East, Hartford, IN 47348",
+      "phone": "765-348-5284",
+      "image": "https://cdn.findpawpal.com/office/199937.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "blackford-county-spca-humane-society-199930",
+      "name": "Blackford County SPCA Humane Society",
+      "address": "PO Box 306, Hartford, IN 47348",
+      "phone": "765-348-0918",
+      "image": "https://cdn.findpawpal.com/office/199930.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "treasured-friends-200373",
+      "name": "Treasured Friends",
+      "address": "PO Box 9234, Highland, IN 46322",
+      "phone": "219-712-2820",
+      "image": "https://cdn.findpawpal.com/office/200373.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "parke-vermillion-humane-society-222488",
+      "name": "Parke-Vermillion Humane Society",
+      "address": "1884 Highway 63, Hillsdale, IN 47854",
+      "phone": "765-492-3540",
+      "image": "https://cdn.findpawpal.com/office/222488.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "american-greyhound-200552",
+      "name": "American Greyhound",
+      "address": "PO Box 598, Hobart, IN 46342",
+      "phone": "219-942-7045",
+      "image": "https://cdn.findpawpal.com/office/200552.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-hobart-201324",
+      "name": "Humane Society of Hobart",
+      "address": "2054 State Street, Hobart, IN 46342",
+      "phone": "219-942-0103",
+      "image": "https://cdn.findpawpal.com/office/201324.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-welfare-association-251485",
+      "name": "Animal Welfare Association",
+      "address": "PO Box 575, Howe, IN 46746",
+      "phone": "260-463-3406",
+      "image": "https://cdn.findpawpal.com/office/251485.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ark-animal-rescue-adoptions-inc-240555",
+      "name": "Ark Animal Rescue Adoptions, Inc",
+      "address": "PO Box 95, Howe, IN 46746",
+      "phone": "574-904-1914",
+      "image": "https://cdn.findpawpal.com/office/240555.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "a-c-t-of-dubois-county-217625",
+      "name": "A.C.T of Dubois County",
+      "address": "2017 Leland Drive, Huntingburg, IN 47542",
+      "phone": "812-630-4812",
+      "image": "https://cdn.findpawpal.com/office/217625.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mama-cindys-animal-shelter-inc-200011",
+      "name": "Mama Cindy's Animal Shelter, Inc.",
+      "address": "1016 North Jackson Street, Huntingburg, IN 47542",
+      "phone": "812-683-5209",
+      "image": "https://cdn.findpawpal.com/office/200011.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "helping-paws-pet-haven-217783",
+      "name": "Helping Paws Pet Haven",
+      "address": "2242 South Marion Road, Huntington, IN 46750",
+      "phone": "260-468-2292",
+      "image": "https://cdn.findpawpal.com/office/217783.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "huntington-county-humane-society-223356",
+      "name": "Huntington County Humane Society",
+      "address": "390 Thurman Poe Way, Huntington, IN 46750",
+      "phone": "260-356-0355",
+      "image": "https://cdn.findpawpal.com/office/223356.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "all-creatures-great-small-animal-sanctuary-inc-241416",
+      "name": "All Creatures Great Small Animal Sanctuary, Inc.",
+      "address": "PO Box 502056, Indianapolis, IN 46250",
+      "phone": "216-702-4022",
+      "image": "https://cdn.findpawpal.com/office/241416.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "beagle-buddies-218679",
+      "name": "Beagle Buddies",
+      "address": "8310 Brambleberry Drive, Indianapolis, IN 46239",
+      "phone": "317-418-1615",
+      "image": "https://cdn.findpawpal.com/office/218679.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "blaze-saddles-springer-rescue-of-indiana-inc-217287",
+      "name": "Blaze Saddles Springer Rescue of Indiana, Inc.",
+      "address": "5555 North Tacoma Avenue, Indianapolis, IN 46220",
+      "phone": "317-894-3122",
+      "image": "https://cdn.findpawpal.com/office/217287.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cats-haven-201264",
+      "name": "Cats Haven",
+      "address": "PO Box 30206, Indianapolis, IN 46230",
+      "phone": "317-638-0699",
+      "image": "https://cdn.findpawpal.com/office/201264.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "circle-city-ferret-club-200530",
+      "name": "Circle City Ferret Club",
+      "address": "PO Box 2272, Indianapolis, IN 46206",
+      "phone": "317-767-1758",
+      "image": "https://cdn.findpawpal.com/office/200530.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "exotic-parrot-rescue-and-sanctuary-200498",
+      "name": "Exotic Parrot Rescue and Sanctuary",
+      "address": "Box 4267, Indianapolis, IN 46219",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/200498.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-ferdinand-inc-214071",
+      "name": "Friends of Ferdinand Inc.",
+      "address": "PO Box 1784, Indianapolis, IN 46206",
+      "phone": "888-612-7402",
+      "image": "https://cdn.findpawpal.com/office/214071.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "house-rabbit-society-221931",
+      "name": "House Rabbit Society",
+      "address": "PO Box 533243, Indianapolis, IN 46253",
+      "phone": "317-328-1428",
+      "image": "https://cdn.findpawpal.com/office/221931.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-indianapolis-200449",
+      "name": "Humane Society of Indianapolis",
+      "address": "7929 North Michigan Road, Indianapolis, IN 46268",
+      "phone": "317-872-5650",
+      "image": "https://cdn.findpawpal.com/office/200449.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "indiana-bulldog-rescue-200705",
+      "name": "Indiana Bulldog Rescue",
+      "address": "PO Box 34770, Indianapolis, IN 46234",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/200705.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "indianapolis-animal-care-and-control-221991",
+      "name": "Indianapolis Animal Care and Control",
+      "address": "2600 Harding Street, Indianapolis, IN 46221",
+      "phone": "317-327-1397",
+      "image": "https://cdn.findpawpal.com/office/221991.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "indianapolis-animal-shelter-252178",
+      "name": "Indianapolis Animal Shelter",
+      "address": "7478 Madison Avenue, Indianapolis, IN 46227",
+      "phone": "317-710-2831",
+      "image": "https://cdn.findpawpal.com/office/252178.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "indyclaw-rescue-218136",
+      "name": "Indyclaw Rescue",
+      "address": "60 Habig Road, Indianapolis, IN 46217",
+      "phone": "317-780-2287",
+      "image": "https://cdn.findpawpal.com/office/218136.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spay-neuter-services-of-indiana-inc-200637",
+      "name": "Spay-Neuter Services of Indiana, Inc.",
+      "address": "PO Box 55917, Indianapolis, IN 46205",
+      "phone": "317-767-7771",
+      "image": "https://cdn.findpawpal.com/office/200637.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "starting-over-airedale-terrier-rescue-240770",
+      "name": "Starting Over Airedale Terrier Rescue",
+      "address": "5851 Brouse Avenue, Indianapolis, IN 46220",
+      "phone": "317-259-7701",
+      "image": "https://cdn.findpawpal.com/office/240770.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dubois-county-humane-society-200104",
+      "name": "Dubois County Humane Society",
+      "address": "426 Wernsing Road, Jasper, IN 47546",
+      "phone": "812-482-7387",
+      "image": "https://cdn.findpawpal.com/office/200104.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-aid-association-221198",
+      "name": "Animal Aid Association",
+      "address": "23 Terrace Heights, Jeffersonville, IN 47130",
+      "phone": "812-282-6217",
+      "image": "https://cdn.findpawpal.com/office/221198.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-protection-association-of-jeffersonville-250834",
+      "name": "Animal Protection Association of Jeffersonville",
+      "address": "PO Box 4276, Jeffersonville, IN 47131",
+      "phone": "812-283-6555",
+      "image": "https://cdn.findpawpal.com/office/250834.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "j-b-ogle-animal-shelter-200006",
+      "name": "J.B. Ogle Animal Shelter",
+      "address": "201 Willinger Lane, Jeffersonville, IN 47130",
+      "phone": "812-282-0071",
+      "image": "https://cdn.findpawpal.com/office/200006.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kentuckiana-animal-rescue-organization-250843",
+      "name": "Kentuckiana Animal Rescue Organization",
+      "address": "4202 Knights Court, Jeffersonville, IN 47130",
+      "phone": "812-283-6223",
+      "image": "https://cdn.findpawpal.com/office/250843.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-noble-county-241511",
+      "name": "Humane Society of Noble County",
+      "address": "1305 Sherman Street, Kendallville, IN 46755",
+      "phone": "260-347-2563",
+      "image": "https://cdn.findpawpal.com/office/241511.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kokomo-humane-society-213876",
+      "name": "Kokomo Humane Society",
+      "address": "713 North Elizabeth Street, Kokomo, IN 46901",
+      "phone": "765-452-6224",
+      "image": "https://cdn.findpawpal.com/office/213876.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "canine-angels-inc-200483",
+      "name": "Canine Angels, Inc.",
+      "address": "PO Box 495, La Porte, IN 46352",
+      "phone": "219-325-8610",
+      "image": "https://cdn.findpawpal.com/office/200483.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "laporte-county-small-animal-shelter-201646",
+      "name": "LaPorte County Small Animal Shelter",
+      "address": "2855 State Street, La Porte, IN 46350",
+      "phone": "219-326-1637",
+      "image": "https://cdn.findpawpal.com/office/201646.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mixed-up-mutts-242210",
+      "name": "Mixed Up Mutts",
+      "address": "1866 North 100 West, La Porte, IN 46350",
+      "phone": "219-326-8887",
+      "image": "https://cdn.findpawpal.com/office/242210.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "almost-home-humane-society-241751",
+      "name": "Almost Home Humane Society",
+      "address": "1705 South 2nd Street, Lafayette, IN 47905",
+      "phone": "765-474-5222",
+      "image": "https://cdn.findpawpal.com/office/241751.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kyler-lairds-animal-rescue-resources-251550",
+      "name": "Kyler Laird's Animal Rescue Resources",
+      "address": "PO Box 4742, Lafayette, IN 47903",
+      "phone": "765-494-8649",
+      "image": "https://cdn.findpawpal.com/office/251550.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lafayette-animal-shelter-201794",
+      "name": "Lafayette Animal Shelter",
+      "address": "512 Veterans Memorial Parkway East, Lafayette, IN 47905",
+      "phone": "765-447-1667",
+      "image": "https://cdn.findpawpal.com/office/201794.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "loving-heart-animal-shelter-200783",
+      "name": "Loving Heart Animal Shelter",
+      "address": "PO Box 4017, Lafayette, IN 47903",
+      "phone": "765-413-0521",
+      "image": "https://cdn.findpawpal.com/office/200783.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lagrange-county-animal-shelter-200341",
+      "name": "Lagrange County Animal Shelter",
+      "address": "114 West Michigan Street, Lagrange, IN 46761",
+      "phone": "260-463-4142",
+      "image": "https://cdn.findpawpal.com/office/200341.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lake-station-animal-control-201805",
+      "name": "Lake Station Animal Control",
+      "address": "3705 Fairview Avenue, Lake Station, IN 46405",
+      "phone": "219-963-9626",
+      "image": "https://cdn.findpawpal.com/office/201805.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "northwest-indiana-german-shepherd-rescue-217592",
+      "name": "Northwest Indiana German Shepherd Rescue",
+      "address": "96 East 800 North, Lake Village, IN 46349",
+      "phone": "219-345-5540",
+      "image": "https://cdn.findpawpal.com/office/217592.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lawrence-animal-control-219484",
+      "name": "Lawrence Animal Control",
+      "address": "4455 McCoy Street, Lawrence, IN 46226",
+      "phone": "317-549-4814",
+      "image": "https://cdn.findpawpal.com/office/219484.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dearborn-county-animal-control-223734",
+      "name": "Dearborn County Animal Control",
+      "address": "210 Charles A Liddle Drive, Lawrenceburg, IN 47025",
+      "phone": "812-537-0913",
+      "image": "https://cdn.findpawpal.com/office/223734.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greene-county-humane-society-217774",
+      "name": "Greene County Humane Society",
+      "address": "PO Box 323, Linton, IN 47441",
+      "phone": "812-847-4780",
+      "image": "https://cdn.findpawpal.com/office/217774.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cass-county-animal-shelter-217509",
+      "name": "Cass County Animal Shelter",
+      "address": "2452 Burlington Avenue, Logansport, IN 46947",
+      "phone": "219-753-3690",
+      "image": "https://cdn.findpawpal.com/office/217509.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "martin-county-humane-society-218182",
+      "name": "Martin County Humane Society",
+      "address": "507 North Oak Street, Loogootee, IN 47553",
+      "phone": "812-295-5900",
+      "image": "https://cdn.findpawpal.com/office/218182.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-shelter-251560",
+      "name": "Animal Shelter",
+      "address": "2727 Hannah Drive, Madison, IN 47250",
+      "phone": "812-273-1788",
+      "image": "https://cdn.findpawpal.com/office/251560.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dogs-deserve-better-of-indiana-251101",
+      "name": "Dogs Deserve Better of Indiana",
+      "address": "315 West 16th Street, Marion, IN 46953",
+      "phone": "765-664-5376",
+      "image": "https://cdn.findpawpal.com/office/251101.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "grant-county-cat-and-kitten-rescue-213707",
+      "name": "Grant County Cat and Kitten Rescue",
+      "address": "2233 Westwood Square, Marion, IN 46952",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/213707.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "marion-animal-control-219430",
+      "name": "Marion Animal Control",
+      "address": "1021 Indiana 18, Marion, IN 46952",
+      "phone": "765-668-3689",
+      "image": "https://cdn.findpawpal.com/office/219430.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "marion-grant-county-humane-society-200181",
+      "name": "Marion-Grant County Humane Society",
+      "address": "2768 West Avon Avenue, Marion, IN 46953",
+      "phone": "765-664-1232",
+      "image": "https://cdn.findpawpal.com/office/200181.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "morgan-county-humane-society-200632",
+      "name": "Morgan County Humane Society",
+      "address": "690 West Mitchell Avenue, Martinsville, IN 46151",
+      "phone": "765-349-9177",
+      "image": "https://cdn.findpawpal.com/office/200632.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "red-sky-rescue-218884",
+      "name": "Red Sky Rescue",
+      "address": "8750 West County Road 150 North, Medora, IN 47260",
+      "phone": "812-216-6310",
+      "image": "https://cdn.findpawpal.com/office/218884.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "holiday-cat-sanctuary-215000",
+      "name": "Holiday Cat Sanctuary",
+      "address": "2008 West Lincoln Highway, Merrillville, IN 46410",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/215000.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "frieds-cat-shelter-inc-253373",
+      "name": "Fried's Cat Shelter Inc",
+      "address": "509 Highway 212, Michigan, IN 46360",
+      "phone": "219-874-6932",
+      "image": "https://cdn.findpawpal.com/office/253373.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "michiana-humane-society-and-spca-200603",
+      "name": "Michiana Humane Society & Spca",
+      "address": "722 Highway 212, Michigan, IN 46360",
+      "phone": "219-872-4499",
+      "image": "https://cdn.findpawpal.com/office/200603.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "michigan-city-animal-control-219438",
+      "name": "Michigan City Animal Control",
+      "address": "1801 Kentucky Street, Michigan, IN 46360",
+      "phone": "219-873-1500",
+      "image": "https://cdn.findpawpal.com/office/219438.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "safe-haven-cat-shelter-215261",
+      "name": "Safe Haven Cat Shelter",
+      "address": "509 Highway 212, Michigan, IN 46360",
+      "phone": "219-879-5778",
+      "image": "https://cdn.findpawpal.com/office/215261.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "safe-haven-parrot-sanctuary-inc-200775",
+      "name": "Safe Haven Parrot Sanctuary, Inc.",
+      "address": "9 South County Road 625 East, Milan, IN 47031",
+      "phone": "812-654-2937",
+      "image": "https://cdn.findpawpal.com/office/200775.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-st-joseph-223305",
+      "name": "Humane Society of St Joseph",
+      "address": "2506 Grape Road, Mishawaka, IN 46545",
+      "phone": "574-255-4726",
+      "image": "https://cdn.findpawpal.com/office/223305.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "inspca-200838",
+      "name": "InSPCA",
+      "address": "102 Lincolnway East, Mishawaka, IN 46544",
+      "phone": "574-217-7947",
+      "image": "https://cdn.findpawpal.com/office/200838.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "adams-county-animal-shelter-252159",
+      "name": "Adams County Animal Shelter",
+      "address": "2168 South 300 East, Monroe, IN 46772",
+      "phone": "260-692-6819",
+      "image": "https://cdn.findpawpal.com/office/252159.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pak-rescue-200642",
+      "name": "Pak Rescue",
+      "address": "4038 West Briarwood Road, Monrovia, IN 46157",
+      "phone": "317-460-2747",
+      "image": "https://cdn.findpawpal.com/office/200642.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "love-me-for-life-boston-terriers-rescue-201251",
+      "name": "Love Me for Life Boston Terriers Rescue",
+      "address": "401 West Washington Street, Morocco, IN 47963",
+      "phone": "219-285-0356",
+      "image": "https://cdn.findpawpal.com/office/201251.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "newton-county-animal-control-241794",
+      "name": "Newton County Animal Control",
+      "address": "3214 West 100 North, Morocco, IN 47963",
+      "phone": "219-285-6777",
+      "image": "https://cdn.findpawpal.com/office/241794.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mount-vernon-animal-shelter-216897",
+      "name": "Mount Vernon Animal Shelter",
+      "address": "520 Main Street, Mount Vernon, IN 47620",
+      "phone": "812-838-4493",
+      "image": "https://cdn.findpawpal.com/office/216897.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pc-pound-puppies-200625",
+      "name": "Pc Pound Puppies",
+      "address": "PO Box 295, Mount Vernon, IN 47620",
+      "phone": "812-483-4341",
+      "image": "https://cdn.findpawpal.com/office/200625.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "posey-county-humane-society-200634",
+      "name": "Posey County Humane Society",
+      "address": "6500 Leonard Road North, Mount Vernon, IN 47620",
+      "phone": "812-838-3211",
+      "image": "https://cdn.findpawpal.com/office/200634.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-fund-221281",
+      "name": "Animal Rescue Fund",
+      "address": "1209 West Riggin Road, Muncie, IN 47303",
+      "phone": "765-282-2733",
+      "image": "https://cdn.findpawpal.com/office/221281.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "delaware-county-spca-and-humane-society-249836",
+      "name": "Delaware County SPCA and Humane Society",
+      "address": "PO Box 3282, Muncie, IN 47307",
+      "phone": "765-284-5606",
+      "image": "https://cdn.findpawpal.com/office/249836.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "muncie-animal-shelter-249845",
+      "name": "Muncie Animal Shelter",
+      "address": "2401 South Gharkey Street, Muncie, IN 47302",
+      "phone": "765-747-4851",
+      "image": "https://cdn.findpawpal.com/office/249845.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "muncie-humane-society-inc-199978",
+      "name": "Muncie Humane Society, Inc.",
+      "address": "4409 North Old State Road 3, Muncie, IN 47303",
+      "phone": "765-289-2585",
+      "image": "https://cdn.findpawpal.com/office/199978.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "unconditional-love-foundation-217612",
+      "name": "Unconditional Love Foundation",
+      "address": "4319 West Clara Lane, Muncie, IN 47304",
+      "phone": "765-287-9043",
+      "image": "https://cdn.findpawpal.com/office/217612.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-calumet-area-217637",
+      "name": "Humane Society Calumet Area",
+      "address": "421 45th Avenue, Munster, IN 46321",
+      "phone": "219-922-3811",
+      "image": "https://cdn.findpawpal.com/office/217637.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brown-county-animal-control-199868",
+      "name": "Brown County Animal Control",
+      "address": "128 State Road 135, Nashville, IN 47448",
+      "phone": "812-988-7362",
+      "image": "https://cdn.findpawpal.com/office/199868.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brown-county-humane-society-251799",
+      "name": "Brown County Humane Society",
+      "address": "128 State Road 135, Nashville, IN 47448",
+      "phone": "812-988-7362",
+      "image": "https://cdn.findpawpal.com/office/251799.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-shelter-214537",
+      "name": "Animal Shelter",
+      "address": "215 West Market Street, New Albany, IN 47150",
+      "phone": "812-948-5355",
+      "image": "https://cdn.findpawpal.com/office/214537.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "floyd-county-animal-rescue-league-241291",
+      "name": "Floyd County Animal Rescue League",
+      "address": "215 West Market Street, New Albany, IN 47150",
+      "phone": "812-949-9099",
+      "image": "https://cdn.findpawpal.com/office/241291.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "henry-county-humane-society-200252",
+      "name": "Henry County Humane Society",
+      "address": "11 Midway Drive, New Castle, IN 47362",
+      "phone": "765-529-8131",
+      "image": "https://cdn.findpawpal.com/office/200252.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "frenzy-animal-rescue-200344",
+      "name": "Frenzy Animal Rescue",
+      "address": "37 West Mill Street, New Palestine, IN 46163",
+      "phone": "317-414-5662",
+      "image": "https://cdn.findpawpal.com/office/200344.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "amys-k9-small-dog-and-working-dog-rescue-200944",
+      "name": "Amy's K9 Small Dog & Working Dog Rescue",
+      "address": "9055 Turkey Farm Road Northwest, New Salisbury, IN 47161",
+      "phone": "812-347-3623",
+      "image": "https://cdn.findpawpal.com/office/200944.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "warrick-humane-society-201588",
+      "name": "Warrick Humane Society",
+      "address": "5722 South Vann Road, Newburgh, IN 47630",
+      "phone": "812-858-1132",
+      "image": "https://cdn.findpawpal.com/office/201588.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hamilton-county-humane-society-223377",
+      "name": "Hamilton County Humane Society",
+      "address": "18102 Cumberland Road, Noblesville, IN 46060",
+      "phone": "317-773-4974",
+      "image": "https://cdn.findpawpal.com/office/223377.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "indiana-sheltie-rescue-242111",
+      "name": "Indiana Sheltie Rescue",
+      "address": "23163 Highway 37, Noblesville, IN 46060",
+      "phone": "317-984-5737",
+      "image": "https://cdn.findpawpal.com/office/242111.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "love-of-labs-indiana-lolin-216363",
+      "name": "Love of Labs Indiana Lolin",
+      "address": "PO Box 237, Noblesville, IN 46061",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/216363.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "starke-county-humane-society-250919",
+      "name": "Starke County Humane Society",
+      "address": "104 Highway 10, North Judson, IN 46366",
+      "phone": "574-896-5060",
+      "image": "https://cdn.findpawpal.com/office/250919.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "smaller-paws-pom-rescue-253073",
+      "name": "Smaller Paws Pom Rescue",
+      "address": "114 West Street, North Manchester, IN 46962",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/253073.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jennings-county-humane-society-218549",
+      "name": "Jennings County Humane Society",
+      "address": "279 Oakridge Drive, North Vernon, IN 47265",
+      "phone": "812-346-5595",
+      "image": "https://cdn.findpawpal.com/office/218549.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "gibson-county-humane-society-217707",
+      "name": "Gibson County Humane Society",
+      "address": "319 West Washington Street, Oakland, IN 47660",
+      "phone": "812-749-3869",
+      "image": "https://cdn.findpawpal.com/office/217707.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "southern-ripley-county-humane-sociey-214328",
+      "name": "Southern Ripley County Humane Sociey",
+      "address": "2990 East Country Road 450 North, Osgood, IN 47037",
+      "phone": "812-689-8343",
+      "image": "https://cdn.findpawpal.com/office/214328.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "orange-county-humane-society-216847",
+      "name": "Orange County Humane Society",
+      "address": "856 North Greenbriar Drive, Paoli, IN 47454",
+      "phone": "812-723-4142",
+      "image": "https://cdn.findpawpal.com/office/216847.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "home-200760",
+      "name": "Home",
+      "address": "212 North Northwood Drive, Parker City, IN 47368",
+      "phone": "765-433-3361",
+      "image": "https://cdn.findpawpal.com/office/200760.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "miami-county-animal-shelter-200613",
+      "name": "Miami County Animal Shelter",
+      "address": "2202 West Eel River Road, Peru, IN 46970",
+      "phone": "765-985-9815",
+      "image": "https://cdn.findpawpal.com/office/200613.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pike-animal-welfare-shelter-222163",
+      "name": "Pike Animal Welfare Shelter",
+      "address": "4224 North Meridian Road, Petersburg, IN 47567",
+      "phone": "812-354-9894",
+      "image": "https://cdn.findpawpal.com/office/222163.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kosciusko-county-animal-shelter-253463",
+      "name": "Kosciusko County Animal Shelter",
+      "address": "3489 East 100 South, Pierceton, IN 46562",
+      "phone": "574-267-3008",
+      "image": "https://cdn.findpawpal.com/office/253463.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sevens-heaven-wildlife-rehabilitation-and-exotic-rescue-201489",
+      "name": "Seven's Heaven Wildlife Rehabilitation and Exotic Rescue",
+      "address": "6027 South 550 East, Pierceton, IN 46562",
+      "phone": "260-839-0705",
+      "image": "https://cdn.findpawpal.com/office/201489.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "golden-retriever-rescue-and-community-education-inc-grrace-240386",
+      "name": "Golden Retriever Rescue and Community Education, Inc. - Grrace",
+      "address": "PO Box 513, Plainfield, IN 46168",
+      "phone": "317-767-4095",
+      "image": "https://cdn.findpawpal.com/office/240386.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "marshall-county-humane-society-218664",
+      "name": "Marshall County Humane Society",
+      "address": "11165 13th Road, Plymouth, IN 46563",
+      "phone": "574-936-8300",
+      "image": "https://cdn.findpawpal.com/office/218664.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greyhound-rescue-and-adoption-241004",
+      "name": "Greyhound Rescue & Adoption",
+      "address": "G Road, Poland, IN 47868",
+      "phone": "765-653-5690",
+      "image": "https://cdn.findpawpal.com/office/241004.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "portage-city-animal-control-242349",
+      "name": "Portage City Animal Control",
+      "address": "2303 Hamstrom Road, Portage, IN 46368",
+      "phone": "219-763-1825",
+      "image": "https://cdn.findpawpal.com/office/242349.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jay-county-humane-society-213885",
+      "name": "Jay County Humane Society",
+      "address": "302 North Meridian Street, Portland, IN 47371",
+      "phone": "260-726-6339",
+      "image": "https://cdn.findpawpal.com/office/213885.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "gibson-county-animal-services-249992",
+      "name": "Gibson County Animal Services",
+      "address": "County Road 175 North, Princeton, IN 47670",
+      "phone": "812-386-8079",
+      "image": "https://cdn.findpawpal.com/office/249992.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jasper-county-animal-shelter-223438",
+      "name": "Jasper County Animal Shelter",
+      "address": "2430 West Clark Street, Rensselaer, IN 47978",
+      "phone": "219-866-5756",
+      "image": "https://cdn.findpawpal.com/office/223438.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "care-coalition-for-animals-214787",
+      "name": "Care Coalition for Animals",
+      "address": "2255 Niewoehner Road, Richmond, IN 47374",
+      "phone": "765-935-6104",
+      "image": "https://cdn.findpawpal.com/office/214787.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "help-the-animals-inc-251404",
+      "name": "HELP the Animals, Inc",
+      "address": "2101 West Main Street, Richmond, IN 47374",
+      "phone": "765-962-6811",
+      "image": "https://cdn.findpawpal.com/office/251404.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "halos-haven-251856",
+      "name": "Halo's Haven",
+      "address": "14997 Oatman Hill Road, Rising Sun, IN 47040",
+      "phone": "859-474-0698",
+      "image": "https://cdn.findpawpal.com/office/251856.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ohio-county-animal-control-201747",
+      "name": "Ohio County Animal Control",
+      "address": "1414 Fairground Road, Rising Sun, IN 47040",
+      "phone": "812-438-9220",
+      "image": "https://cdn.findpawpal.com/office/201747.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fulton-county-animal-adoption-and-education-center-inc-201928",
+      "name": "Fulton County Animal Adoption And Education Center Inc",
+      "address": "1540 North Wentzel Street, Rochester, IN 46975",
+      "phone": "574-223-7387",
+      "image": "https://cdn.findpawpal.com/office/201928.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rushville-animal-shelter-215371",
+      "name": "Rushville Animal Shelter",
+      "address": "223 South Smiley Avenue, Rushville, IN 46173",
+      "phone": "765-932-4754",
+      "image": "https://cdn.findpawpal.com/office/215371.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "all-dogs-and-cats-go-to-heaven-213598",
+      "name": "All Dogs And Cats Go To Heaven",
+      "address": "2759 South Santine Road, Saint Anthony, IN 47575",
+      "phone": "812-630-1923",
+      "image": "https://cdn.findpawpal.com/office/213598.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-washington-241249",
+      "name": "Humane Society of Washington",
+      "address": "204 West Joseph Street, Salem, IN 47167",
+      "phone": "812-883-4204",
+      "image": "https://cdn.findpawpal.com/office/241249.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hearts-and-hounds-rescue-201281",
+      "name": "Hearts and Hounds Rescue",
+      "address": "930 High Ridge Drive, Schererville, IN 46375",
+      "phone": "219-718-7081",
+      "image": "https://cdn.findpawpal.com/office/201281.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-for-a-moment-pet-detective-agency-200569",
+      "name": "PAWS for A Moment Pet Detective Agency",
+      "address": "PO Box 563, Schererville, IN 46375",
+      "phone": "219-218-1322",
+      "image": "https://cdn.findpawpal.com/office/200569.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "schererville-animal-control-215322",
+      "name": "Schererville Animal Control",
+      "address": "540 Kaeser Boulevard, Schererville, IN 46375",
+      "phone": "219-865-6992",
+      "image": "https://cdn.findpawpal.com/office/215322.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-scott-county-in-inc-250840",
+      "name": "Humane Society of Scott County IN.,Inc.",
+      "address": "PO Box 711, Scottsburg, IN 47170",
+      "phone": "812-752-4380",
+      "image": "https://cdn.findpawpal.com/office/250840.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-jackson-county-201170",
+      "name": "Humane Society of Jackson County",
+      "address": "PO Box 135, Seymour, IN 47274",
+      "phone": "812-522-5200",
+      "image": "https://cdn.findpawpal.com/office/201170.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-shelter-222344",
+      "name": "Animal Shelter",
+      "address": "705 Hale Road, Shelbyville, IN 46176",
+      "phone": "317-392-5127",
+      "image": "https://cdn.findpawpal.com/office/222344.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "home-of-hope-for-homeless-animals-218399",
+      "name": "Home of Hope for Homeless Animals",
+      "address": "PO Box 224, Shelbyville, IN 46176",
+      "phone": "317-398-7921",
+      "image": "https://cdn.findpawpal.com/office/218399.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "marion-animal-care-and-control-200100",
+      "name": "Marion Animal Care and Control",
+      "address": "1021 State Street, Shelbyville, IN 46176",
+      "phone": "765-668-4492",
+      "image": "https://cdn.findpawpal.com/office/200100.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-refuge-inc-241121",
+      "name": "Pet Refuge, Inc.",
+      "address": "4626 South Burnett Drive, South Bend, IN 46614",
+      "phone": "574-231-1122",
+      "image": "https://cdn.findpawpal.com/office/241121.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "south-bend-animal-care-and-control-250863",
+      "name": "South Bend Animal Care & Control",
+      "address": "105 South Olive Street, South Bend, IN 46619",
+      "phone": "219-235-9303",
+      "image": "https://cdn.findpawpal.com/office/250863.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "south-bend-animal-care-and-control-217770",
+      "name": "South Bend Animal Care and Control",
+      "address": "521 Eclipse Place, South Bend, IN 46628",
+      "phone": "574-235-9303",
+      "image": "https://cdn.findpawpal.com/office/217770.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kentuckiana-pug-rescue-240763",
+      "name": "Kentuckiana Pug Rescue",
+      "address": "2405 Allison Avenue, Speedway, IN 46224",
+      "phone": "317-244-3849",
+      "image": "https://cdn.findpawpal.com/office/240763.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "owen-county-humane-society-242199",
+      "name": "Owen County Humane Society",
+      "address": "2014 Camp Romona Drive, Spencer, IN 47460",
+      "phone": "812-829-6247",
+      "image": "https://cdn.findpawpal.com/office/242199.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sullivan-animal-shelter-201618",
+      "name": "Sullivan Animal Shelter",
+      "address": "2425 North Section Street, Sullivan, IN 47882",
+      "phone": "812-268-4201",
+      "image": "https://cdn.findpawpal.com/office/201618.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "doberman-and-rottweiler-rescue-201408",
+      "name": "Doberman & Rottweiler Rescue",
+      "address": "5444 Eldridge Road, Terre Haute, IN 47802",
+      "phone": "812-299-5301",
+      "image": "https://cdn.findpawpal.com/office/201408.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "harmony-haven-218529",
+      "name": "Harmony Haven",
+      "address": "PO Box 3305, Terre Haute, IN 47803",
+      "phone": "812-299-2016",
+      "image": "https://cdn.findpawpal.com/office/218529.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "miami-county-humane-society-241663",
+      "name": "Miami County Humane Society",
+      "address": "570 College Avenue, Terre Haute, IN 47802",
+      "phone": "317-472-2498",
+      "image": "https://cdn.findpawpal.com/office/241663.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "terre-haute-humane-society-214822",
+      "name": "Terre Haute Humane Society",
+      "address": "1811 South Fruitridge Avenue, Terre Haute, IN 47803",
+      "phone": "812-232-0293",
+      "image": "https://cdn.findpawpal.com/office/214822.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rescue-roundup-213700",
+      "name": "Rescue Roundup",
+      "address": "PO Box 675, Upland, IN 46989",
+      "phone": "765-998-8046",
+      "image": "https://cdn.findpawpal.com/office/213700.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-pals-218279",
+      "name": "Pet Pals",
+      "address": "PO Box 1485, Valparaiso, IN 46384",
+      "phone": "317-632-0123",
+      "image": "https://cdn.findpawpal.com/office/218279.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "porter-county-animal-shelter-200609",
+      "name": "Porter County Animal Shelter",
+      "address": "2056 North 50 West, Valparaiso, IN 46385",
+      "phone": "219-465-3550",
+      "image": "https://cdn.findpawpal.com/office/200609.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "knox-county-humane-society-213919",
+      "name": "Knox County Humane Society",
+      "address": "PO Box 64, Vincennes, IN 47591",
+      "phone": "317-736-2701",
+      "image": "https://cdn.findpawpal.com/office/213919.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "vincennes-pet-port-200408",
+      "name": "Vincennes Pet Port",
+      "address": "1128 River Road, Vincennes, IN 47591",
+      "phone": "812-882-8826",
+      "image": "https://cdn.findpawpal.com/office/200408.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-shelter-wabash-251734",
+      "name": "Animal Shelter Wabash",
+      "address": "390 Smith Street, Wabash, IN 46992",
+      "phone": "219-563-3511",
+      "image": "https://cdn.findpawpal.com/office/251734.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-welfare-league-of-kosciusko-county-215073",
+      "name": "Animal Welfare League of Kosciusko County",
+      "address": "PO Box 1906, Warsaw, IN 46581",
+      "phone": "219-267-3008",
+      "image": "https://cdn.findpawpal.com/office/215073.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-control-shelter-215337",
+      "name": "Animal Control Shelter",
+      "address": "213 South 200 West, Washington, IN 47501",
+      "phone": "812-254-8226",
+      "image": "https://cdn.findpawpal.com/office/215337.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "apple-tree-animal-sanctuary-201499",
+      "name": "Apple Tree Animal Sanctuary",
+      "address": "1545 West 150 North, Washington, IN 47501",
+      "phone": "812-259-5349",
+      "image": "https://cdn.findpawpal.com/office/201499.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "home-for-friendless-animals-201004",
+      "name": "Home For Friendless Animals",
+      "address": "7649 Co Road 200 South, Waynetown, IN 47990",
+      "phone": "765-866-1760",
+      "image": "https://cdn.findpawpal.com/office/201004.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "from-the-heart-rescue-inc-250089",
+      "name": "From The Heart Rescue Inc.",
+      "address": "PO Box 659, Westfield, IN 46074",
+      "phone": "317-340-7947",
+      "image": "https://cdn.findpawpal.com/office/250089.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "little-paws-on-the-prairie-253223",
+      "name": "Little PAWS on the Prairie",
+      "address": "19123 Mule Barn Road, Westfield, IN 46074",
+      "phone": "317-918-4815",
+      "image": "https://cdn.findpawpal.com/office/253223.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "independent-cat-society-201673",
+      "name": "Independent Cat Society",
+      "address": "4061 South County Line Road, Westville, IN 46391",
+      "phone": "219-785-4936",
+      "image": "https://cdn.findpawpal.com/office/201673.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tails-a-waggin-rescue-inc-239915",
+      "name": "Tails a' Waggin' Rescue, Inc",
+      "address": "PO Box 37, Whitestown, IN 46075",
+      "phone": "317-769-2543",
+      "image": "https://cdn.findpawpal.com/office/239915.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "randolph-county-animal-shelter-252016",
+      "name": "Randolph County Animal Shelter",
+      "address": "1040 N County Rd 200, Winchester, IN 47394",
+      "phone": "765-584-1510",
+      "image": "https://cdn.findpawpal.com/office/252016.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-foundation-of-boone-county-217491",
+      "name": "Humane Foundation of Boone County",
+      "address": "PO Box 241, Zionsville, IN 46077",
+      "phone": "317-733-0470",
+      "image": "https://cdn.findpawpal.com/office/217491.jpg?f=webp&w=730"
+    }
+  ]
+}

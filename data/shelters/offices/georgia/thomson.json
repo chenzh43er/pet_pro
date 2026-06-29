@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:41:47.689396+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "thomson",
+    "name": "Thomson",
+    "label": "Thomson, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/thomson/",
+  "offices": [
+    {
+      "officeId": 146854,
+      "slug": "mc-duffie-county-animal-shelter-146854",
+      "name": "Mc Duffie County Animal Shelter",
+      "address": "802 White Oak Road, Thomson, GA 30824",
+      "phone": "706-595-0463",
+      "image": "./img/shelter/office/146854.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mc-duffie-county-animal-shelter-146854/",
+      "imageUrl": "https://cdn.findpawpal.com/office/146854.jpg?f=webp&w=730"
+    }
+  ]
+}

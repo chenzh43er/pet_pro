@@ -1,0 +1,21 @@
+{
+  "officeId": 6442,
+  "slug": "scottsboro-animal-shelter-6442",
+  "name": "Scottsboro Animal Shelter",
+  "address": "222 Howard Street, Scottsboro, AL 35768",
+  "street": "222 Howard Street",
+  "addressCity": "Scottsboro",
+  "stateCode": "AL",
+  "zip": "35768",
+  "phone": "256-259-6511",
+  "image": "./img/shelter/office/6442.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/scottsboro-animal-shelter-6442/",
+  "stateSlug": "alabama",
+  "stateName": "Alabama",
+  "citySlug": "scottsboro",
+  "cityName": "Scottsboro",
+  "cityLabel": "Scottsboro, AL",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/alabama/scottsboro/",
+  "fetchedAt": "2026-06-27T18:18:34.399056+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/6442.jpg?f=webp&w=730"
+}

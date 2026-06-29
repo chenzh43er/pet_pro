@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:29:00.022276+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "palm-springs",
+    "name": "Palm Springs",
+    "label": "Palm Springs, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/palm-springs/",
+  "offices": [
+    {
+      "slug": "palm-springs-animal-shelter-488678",
+      "name": "Palm Springs Animal Shelter",
+      "address": "4575 East Mesquite Avenue, Palm Springs, CA 92264",
+      "phone": "760-416-5719",
+      "image": "./img/shelter/office/488678.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/palm-springs-animal-shelter-488678/",
+      "imageUrl": "https://cdn.findpawpal.com/office/488678.jpg?f=webp&w=730"
+    }
+  ]
+}

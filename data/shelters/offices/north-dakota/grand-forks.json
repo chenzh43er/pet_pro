@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:42:20.840560+00:00",
+  "state": {
+    "slug": "north-dakota",
+    "name": "North Dakota"
+  },
+  "city": {
+    "slug": "grand-forks",
+    "name": "Grand Forks",
+    "label": "Grand Forks, ND"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-dakota/grand-forks/",
+  "offices": [
+    {
+      "officeId": 431715,
+      "slug": "circle-of-friends-humane-society-431715",
+      "name": "Circle of Friends Humane Society",
+      "address": "4375 North Washington Street, Grand Forks, ND 58203",
+      "phone": "701-775-3732",
+      "image": "./img/shelter/office/431715.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/circle-of-friends-humane-society-431715/",
+      "imageUrl": "https://cdn.findpawpal.com/office/431715.jpg?f=webp&w=730"
+    }
+  ]
+}

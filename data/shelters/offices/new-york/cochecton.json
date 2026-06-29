@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:32:36.133944+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "cochecton",
+    "name": "Cochecton",
+    "label": "Cochecton, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/cochecton/",
+  "offices": [
+    {
+      "officeId": 316288,
+      "slug": "lazarian-society-for-animals-of-the-cong-brothers-of-st-lazarus-inc-316288",
+      "name": "Lazarian Society for Animals of the Cong Brothers Of St Lazarus Inc",
+      "address": "89 Pine Wood Road, Cochecton, NY 12726",
+      "phone": "914-932-8285",
+      "image": "https://cdn.findpawpal.com/office/316288.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/lazarian-society-for-animals-of-the-cong-brothers-of-st-lazarus-inc-316288/"
+    }
+  ]
+}

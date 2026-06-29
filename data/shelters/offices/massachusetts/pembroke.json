@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T19:07:53.005558+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "pembroke",
+    "name": "Pembroke",
+    "label": "Pembroke, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/pembroke/",
+  "offices": [
+    {
+      "officeId": 40762,
+      "slug": "animal-rescue-league-of-boston-40762",
+      "name": "Animal Rescue League of Boston",
+      "address": "599 Washington Street, Pembroke, MA 02359",
+      "phone": "781-826-6140",
+      "image": "https://cdn.findpawpal.com/office/40762.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-rescue-league-of-boston-40762/"
+    },
+    {
+      "officeId": 41385,
+      "slug": "pembroke-animal-control-41385",
+      "name": "Pembroke Animal Control",
+      "address": "599 Washington Street, Pembroke, MA 02359",
+      "phone": "781-826-6140",
+      "image": "https://cdn.findpawpal.com/office/41385.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/pembroke-animal-control-41385/"
+    }
+  ]
+}

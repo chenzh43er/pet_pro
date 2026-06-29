@@ -1,0 +1,21 @@
+{
+  "officeId": 607240,
+  "slug": "lead-animal-shelter-607240",
+  "name": "Lead Animal Shelter",
+  "address": "722 East Main Street, Lead, SD 57754",
+  "street": "722 East Main Street",
+  "addressCity": "Lead",
+  "stateCode": "SD",
+  "zip": "57754",
+  "phone": "605-584-2480",
+  "image": "./img/shelter/office/607240.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/lead-animal-shelter-607240/",
+  "stateSlug": "south-dakota",
+  "stateName": "South Dakota",
+  "citySlug": "lead",
+  "cityName": "Lead",
+  "cityLabel": "Lead, SD",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/south-dakota/lead/",
+  "fetchedAt": "2026-06-27T19:58:55.570040+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/607240.jpg?f=webp&w=730"
+}

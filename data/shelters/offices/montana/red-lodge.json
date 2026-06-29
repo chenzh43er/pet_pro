@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:22:04.591422+00:00",
+  "state": {
+    "slug": "montana",
+    "name": "Montana"
+  },
+  "city": {
+    "slug": "red-lodge",
+    "name": "Red Lodge",
+    "label": "Red Lodge, MT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/montana/red-lodge/",
+  "offices": [
+    {
+      "officeId": 470876,
+      "slug": "beartooth-humane-alliance-470876",
+      "name": "Beartooth Humane Alliance",
+      "address": "PO Box 853, Red Lodge, MT 59068",
+      "phone": "406-672-6960",
+      "image": "./img/shelter/office/470876.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/beartooth-humane-alliance-470876/",
+      "imageUrl": "https://cdn.findpawpal.com/office/470876.jpg?f=webp&w=730"
+    }
+  ]
+}

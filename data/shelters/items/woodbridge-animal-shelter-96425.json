@@ -1,0 +1,21 @@
+{
+  "officeId": 96425,
+  "slug": "woodbridge-animal-shelter-96425",
+  "name": "Woodbridge Animal Shelter",
+  "address": "195 Woodbridge Avenue, Woodbridge, NJ 07077",
+  "street": "195 Woodbridge Avenue",
+  "addressCity": "Woodbridge",
+  "stateCode": "NJ",
+  "zip": "07077",
+  "phone": "732-726-7036",
+  "image": "./img/shelter/office/96425.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/woodbridge-animal-shelter-96425/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "woodbridge",
+  "cityName": "Woodbridge",
+  "cityLabel": "Woodbridge, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/woodbridge/",
+  "fetchedAt": "2026-06-27T19:29:48.340054+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/96425.jpg?f=webp&w=730"
+}

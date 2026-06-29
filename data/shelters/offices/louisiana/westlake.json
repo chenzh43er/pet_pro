@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:01:01.916651+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "westlake",
+    "name": "Westlake",
+    "label": "Westlake, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/westlake/",
+  "offices": [
+    {
+      "officeId": 226470,
+      "slug": "westlake-animal-control-226470",
+      "name": "Westlake Animal Control",
+      "address": "3410 Bayou D'Inde Road, Westlake, LA 70669",
+      "phone": "337-882-1365",
+      "image": "./img/shelter/office/226470.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/westlake-animal-control-226470/",
+      "imageUrl": "https://cdn.findpawpal.com/office/226470.jpg?f=webp&w=730"
+    }
+  ]
+}

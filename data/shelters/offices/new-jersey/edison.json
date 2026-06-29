@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:25:54.449840+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "edison",
+    "name": "Edison",
+    "label": "Edison, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/edison/",
+  "offices": [
+    {
+      "officeId": 95538,
+      "slug": "municipal-animal-shelter-95538",
+      "name": "Municipal Animal Shelter",
+      "address": "125 Municipal Boulevard, Edison, NJ 08817",
+      "phone": "732-248-7278",
+      "image": "./img/shelter/office/95538.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/municipal-animal-shelter-95538/",
+      "imageUrl": "https://cdn.findpawpal.com/office/95538.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 101210,
+      "slug": "helping-hands-for-helpless-paws-101210",
+      "name": "Helping Hands for Helpless Paws",
+      "address": "1996 Route 27, Edison, NJ 08817",
+      "phone": "732-572-7637",
+      "image": "./img/shelter/office/101210.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/helping-hands-for-helpless-paws-101210/",
+      "imageUrl": "https://cdn.findpawpal.com/office/101210.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 106117,
+      "slug": "edison-animal-shelter-106117",
+      "name": "Edison Animal Shelter",
+      "address": "125 Municipal Boulevard, Edison, NJ 08817",
+      "phone": "732-248-7278",
+      "image": "./img/shelter/office/106117.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/edison-animal-shelter-106117/",
+      "imageUrl": "https://cdn.findpawpal.com/office/106117.jpg?f=webp&w=730"
+    }
+  ]
+}

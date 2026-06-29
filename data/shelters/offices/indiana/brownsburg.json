@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:49:27.935262+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "brownsburg",
+    "name": "Brownsburg",
+    "label": "Brownsburg, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/brownsburg/",
+  "offices": [
+    {
+      "officeId": 200406,
+      "slug": "earps-inc-200406",
+      "name": "Earps, Inc.",
+      "address": "PO Box 736, Brownsburg, IN 46112",
+      "phone": "317-809-2153",
+      "image": "./img/shelter/office/200406.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/earps-inc-200406/",
+      "imageUrl": "https://cdn.findpawpal.com/office/200406.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 252273,
+      "slug": "brownsburg-animal-shelter-252273",
+      "name": "Brownsburg Animal Shelter",
+      "address": "640 East Main Street, Brownsburg, IN 46112",
+      "phone": "317-858-8022",
+      "image": "./img/shelter/office/252273.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/brownsburg-animal-shelter-252273/",
+      "imageUrl": "https://cdn.findpawpal.com/office/252273.jpg?f=webp&w=730"
+    }
+  ]
+}

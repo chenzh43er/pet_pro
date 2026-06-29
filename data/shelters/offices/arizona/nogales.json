@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:20:34.079083+00:00",
+  "state": {
+    "slug": "arizona",
+    "name": "Arizona"
+  },
+  "city": {
+    "slug": "nogales",
+    "name": "Nogales",
+    "label": "Nogales, AZ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arizona/nogales/",
+  "offices": [
+    {
+      "slug": "santa-cruz-humane-society-157384",
+      "name": "Santa Cruz Humane Society",
+      "address": "232 East Patagonia Highway, Nogales, AZ 85621",
+      "phone": "520-287-5654",
+      "image": "./img/shelter/office/157384.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/santa-cruz-humane-society-157384/",
+      "imageUrl": "https://cdn.findpawpal.com/office/157384.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "nogales-animal-control-181934",
+      "name": "Nogales Animal Control",
+      "address": "1368 North Hohokam Drive, Nogales, AZ 85621",
+      "phone": "520-761-7860",
+      "image": "./img/shelter/office/181934.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/nogales-animal-control-181934/",
+      "imageUrl": "https://cdn.findpawpal.com/office/181934.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:30:06.281858+00:00",
+  "state": {
+    "slug": "new-mexico",
+    "name": "New Mexico"
+  },
+  "city": {
+    "slug": "carrizozo",
+    "name": "Carrizozo",
+    "label": "Carrizozo, NM"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-mexico/carrizozo/",
+  "offices": [
+    {
+      "officeId": 262314,
+      "slug": "lincoln-county-animal-control-262314",
+      "name": "Lincoln County Animal Control",
+      "address": "PO Box 278, Carrizozo, NM 88301",
+      "phone": "505-648-2341",
+      "image": "https://cdn.findpawpal.com/office/262314.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/lincoln-county-animal-control-262314/"
+    }
+  ]
+}

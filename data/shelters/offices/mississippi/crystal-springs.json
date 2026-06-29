@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:16:16.387834+00:00",
+  "state": {
+    "slug": "mississippi",
+    "name": "Mississippi"
+  },
+  "city": {
+    "slug": "crystal-springs",
+    "name": "Crystal Springs",
+    "label": "Crystal Springs, MS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/mississippi/crystal-springs/",
+  "offices": [
+    {
+      "officeId": 112810,
+      "slug": "copiah-animal-shelter-112810",
+      "name": "Copiah Animal Shelter",
+      "address": "27084 Highway 51, Crystal Springs, MS 39059",
+      "phone": "601-954-6447",
+      "image": "./img/shelter/office/112810.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/copiah-animal-shelter-112810/",
+      "imageUrl": "https://cdn.findpawpal.com/office/112810.jpg?f=webp&w=730"
+    }
+  ]
+}

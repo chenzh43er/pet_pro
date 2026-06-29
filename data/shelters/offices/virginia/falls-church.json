@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:13:57.842264+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "falls-church",
+    "name": "Falls Church",
+    "label": "Falls Church, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/falls-church/",
+  "offices": [
+    {
+      "officeId": 511972,
+      "slug": "ferrets-r-no-1-shelter-and-rescue-511972",
+      "name": "Ferrets R No 1 Shelter & Rescue",
+      "address": "5906 Boston Drive, Falls Church, VA 22041",
+      "phone": "703-998-3151",
+      "image": "./img/shelter/office/511972.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ferrets-r-no-1-shelter-and-rescue-511972/",
+      "imageUrl": "https://cdn.findpawpal.com/office/511972.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 555057,
+      "slug": "golden-retriever-rescue-education-and-training-inc-555057",
+      "name": "Golden Retriever Rescue Education and Training, Inc.",
+      "address": "PO Box 3069, Falls Church, VA 22043",
+      "phone": "703-620-6593",
+      "image": "./img/shelter/office/555057.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/golden-retriever-rescue-education-and-training-inc-555057/",
+      "imageUrl": "https://cdn.findpawpal.com/office/555057.jpg?f=webp&w=730"
+    }
+  ]
+}

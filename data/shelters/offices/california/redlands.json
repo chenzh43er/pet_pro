@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:29:40.272450+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "redlands",
+    "name": "Redlands",
+    "label": "Redlands, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/redlands/",
+  "offices": [
+    {
+      "officeId": 360902,
+      "slug": "redlands-humane-society-360902",
+      "name": "Redlands Humane Society",
+      "address": "PO Box 1212, Redlands, CA 92373",
+      "phone": "909-792-6199",
+      "image": "./img/shelter/office/360902.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/redlands-humane-society-360902/",
+      "imageUrl": "https://cdn.findpawpal.com/office/360902.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 362154,
+      "slug": "californians-for-the-ethical-treatment-of-animals-362154",
+      "name": "Californians for the Ethical Treatment of Animals",
+      "address": "PO Box 7072, Redlands, CA 92375",
+      "phone": "909-794-9347",
+      "image": "./img/shelter/office/362154.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/californians-for-the-ethical-treatment-of-animals-362154/",
+      "imageUrl": "https://cdn.findpawpal.com/office/362154.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 476140,
+      "slug": "redlands-animal-shelter-476140",
+      "name": "Redlands Animal Shelter",
+      "address": "504 Kansas Street, Redlands, CA 92373",
+      "phone": "909-798-7644",
+      "image": "./img/shelter/office/476140.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/redlands-animal-shelter-476140/",
+      "imageUrl": "https://cdn.findpawpal.com/office/476140.jpg?f=webp&w=730"
+    }
+  ]
+}

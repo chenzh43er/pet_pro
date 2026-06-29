@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T19:46:56.481509+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "solon",
+    "name": "Solon",
+    "label": "Solon, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/solon/",
+  "offices": [
+    {
+      "officeId": 639726,
+      "slug": "northeast-ohio-collie-rescue-639726",
+      "name": "Northeast Ohio Collie Rescue",
+      "address": "PO Box 39281, Solon, OH 44139",
+      "phone": "330-682-7948",
+      "image": "https://cdn.findpawpal.com/office/639726.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/northeast-ohio-collie-rescue-639726/"
+    },
+    {
+      "officeId": 686308,
+      "slug": "valley-save-a-pet-686308",
+      "name": "Valley Save a Pet",
+      "address": "PO Box 39221, Solon, OH 44139",
+      "phone": "440-232-9124",
+      "image": "https://cdn.findpawpal.com/office/686308.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/valley-save-a-pet-686308/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:50:48.381038+00:00",
+  "state": {
+    "slug": "oregon",
+    "name": "Oregon"
+  },
+  "city": {
+    "slug": "la-grande",
+    "name": "La Grande",
+    "label": "La Grande, OR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oregon/la-grande/",
+  "offices": [
+    {
+      "officeId": 600964,
+      "slug": "blue-mountain-humane-association-600964",
+      "name": "Blue Mountain Humane Association",
+      "address": "3212 U.s. 30, La Grande, OR 97850",
+      "phone": "541-963-0807",
+      "image": "./img/shelter/office/600964.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/blue-mountain-humane-association-600964/",
+      "imageUrl": "https://cdn.findpawpal.com/office/600964.jpg?f=webp&w=730"
+    }
+  ]
+}

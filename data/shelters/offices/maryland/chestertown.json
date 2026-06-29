@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:03:10.159694+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "chestertown",
+    "name": "Chestertown",
+    "label": "Chestertown, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/chestertown/",
+  "offices": [
+    {
+      "officeId": 394177,
+      "slug": "kent-county-border-collie-rescue-394177",
+      "name": "Kent County Border Collie Rescue",
+      "address": "24420 Chestertown Road, Chestertown, MD 21620",
+      "phone": "",
+      "image": "./img/shelter/office/394177.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kent-county-border-collie-rescue-394177/",
+      "imageUrl": "https://cdn.findpawpal.com/office/394177.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 500204,
+      "slug": "the-humane-society-of-kent-county-inc-500204",
+      "name": "The Humane Society of Kent County, Inc.",
+      "address": "10720 Augustine Herman Highway, Chestertown, MD 21620",
+      "phone": "410-778-3648",
+      "image": "./img/shelter/office/500204.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-humane-society-of-kent-county-inc-500204/",
+      "imageUrl": "https://cdn.findpawpal.com/office/500204.jpg?f=webp&w=730"
+    }
+  ]
+}

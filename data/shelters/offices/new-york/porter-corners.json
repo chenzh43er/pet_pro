@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:36:15.245360+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "porter-corners",
+    "name": "Porter Corners",
+    "label": "Porter Corners, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/porter-corners/",
+  "offices": [
+    {
+      "officeId": 331874,
+      "slug": "beaks-and-noses-inc-331874",
+      "name": "Beaks and Noses, Inc.",
+      "address": "56 Depot Road, Porter Corners, NY 12859",
+      "phone": "",
+      "image": "./img/shelter/office/331874.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/beaks-and-noses-inc-331874/",
+      "imageUrl": "https://cdn.findpawpal.com/office/331874.jpg?f=webp&w=730"
+    }
+  ]
+}

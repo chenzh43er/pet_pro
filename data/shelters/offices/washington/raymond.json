@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:18:48.766612+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "raymond",
+    "name": "Raymond",
+    "label": "Raymond, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/raymond/",
+  "offices": [
+    {
+      "officeId": 628878,
+      "slug": "harbor-association-of-volunteers-for-animals-628878",
+      "name": "Harbor Association of Volunteers for Animals",
+      "address": "PO Box 403, Raymond, WA 98577",
+      "phone": "360-268-9092",
+      "image": "https://cdn.findpawpal.com/office/628878.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/harbor-association-of-volunteers-for-animals-628878/"
+    }
+  ]
+}

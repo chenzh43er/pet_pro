@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:03:36.709534+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "gaithersburg",
+    "name": "Gaithersburg",
+    "label": "Gaithersburg, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/gaithersburg/",
+  "offices": [
+    {
+      "officeId": 370083,
+      "slug": "humane-society-university-370083",
+      "name": "Humane Society University",
+      "address": "700 Professional Drive, Gaithersburg, MD 20879",
+      "phone": "301-548-7731",
+      "image": "./img/shelter/office/370083.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-university-370083/",
+      "imageUrl": "https://cdn.findpawpal.com/office/370083.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 394052,
+      "slug": "animal-welfare-league-of-montgomery-county-394052",
+      "name": "Animal Welfare League of Montgomery County",
+      "address": "18959 Bonanza Way, Gaithersburg, MD 20879",
+      "phone": "301-740-2511",
+      "image": "./img/shelter/office/394052.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-welfare-league-of-montgomery-county-394052/",
+      "imageUrl": "https://cdn.findpawpal.com/office/394052.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 500396,
+      "slug": "gaithersburg-animal-control-500396",
+      "name": "Gaithersburg Animal Control",
+      "address": "31 South Summit Avenue, Gaithersburg, MD 20877",
+      "phone": "301-258-6343",
+      "image": "./img/shelter/office/500396.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gaithersburg-animal-control-500396/",
+      "imageUrl": "https://cdn.findpawpal.com/office/500396.jpg?f=webp&w=730"
+    }
+  ]
+}

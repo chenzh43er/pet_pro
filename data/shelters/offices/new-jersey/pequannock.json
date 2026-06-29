@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:28:15.694232+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "pequannock",
+    "name": "Pequannock",
+    "label": "Pequannock, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/pequannock/",
+  "offices": [
+    {
+      "officeId": 100676,
+      "slug": "foundation-for-strays-100676",
+      "name": "Foundation for Strays",
+      "address": "502 Chatfield Drive, Pequannock, NJ 07444",
+      "phone": "973-835-2485",
+      "image": "https://cdn.findpawpal.com/office/100676.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/foundation-for-strays-100676/"
+    },
+    {
+      "officeId": 104859,
+      "slug": "pequannock-animal-shelter-104859",
+      "name": "Pequannock Animal Shelter",
+      "address": "530 Newark Pompton Turnpike, Pequannock, NJ 07444",
+      "phone": "201-835-3980",
+      "image": "./img/shelter/office/104859.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pequannock-animal-shelter-104859/",
+      "imageUrl": "https://cdn.findpawpal.com/office/104859.jpg?f=webp&w=730"
+    }
+  ]
+}

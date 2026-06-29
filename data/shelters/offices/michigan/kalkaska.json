@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:11:20.145556+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "kalkaska",
+    "name": "Kalkaska",
+    "label": "Kalkaska, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/kalkaska/",
+  "offices": [
+    {
+      "officeId": 203114,
+      "slug": "kalkaska-county-animal-control-203114",
+      "name": "Kalkaska County Animal Control",
+      "address": "605 North Birch Street, Kalkaska, MI 49646",
+      "phone": "231-258-3309",
+      "image": "./img/shelter/office/203114.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kalkaska-county-animal-control-203114/",
+      "imageUrl": "https://cdn.findpawpal.com/office/203114.jpg?f=webp&w=730"
+    }
+  ]
+}

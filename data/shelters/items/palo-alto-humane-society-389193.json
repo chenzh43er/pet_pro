@@ -1,0 +1,21 @@
+{
+  "officeId": 389193,
+  "slug": "palo-alto-humane-society-389193",
+  "name": "Palo Alto Humane Society",
+  "address": "PO Box 60715, Palo Alto, CA 94306",
+  "street": "PO Box 60715",
+  "addressCity": "Palo Alto",
+  "stateCode": "CA",
+  "zip": "94306",
+  "phone": "650-424-1901",
+  "image": "./img/shelter/office/389193.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/palo-alto-humane-society-389193/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "palo-alto",
+  "cityName": "Palo Alto",
+  "cityLabel": "Palo Alto, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/palo-alto/",
+  "fetchedAt": "2026-06-27T18:29:02.843785+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/389193.jpg?f=webp&w=730"
+}

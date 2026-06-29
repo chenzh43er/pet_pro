@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:58:02.874992+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "owensboro",
+    "name": "Owensboro",
+    "label": "Owensboro, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/owensboro/",
+  "offices": [
+    {
+      "officeId": 110118,
+      "slug": "daviess-county-animal-shelter-110118",
+      "name": "Daviess County Animal Shelter",
+      "address": "2620 Highway 81, Owensboro, KY 42301",
+      "phone": "270-685-8275",
+      "image": "./img/shelter/office/110118.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/daviess-county-animal-shelter-110118/",
+      "imageUrl": "https://cdn.findpawpal.com/office/110118.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 116435,
+      "slug": "dr-carl-henry-animal-shelter-116435",
+      "name": "Dr. Carl Henry Animal Shelter",
+      "address": "2620 Calhoun Road, Owensboro, KY 42301",
+      "phone": "",
+      "image": "./img/shelter/office/116435.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dr-carl-henry-animal-shelter-116435/",
+      "imageUrl": "https://cdn.findpawpal.com/office/116435.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 119033,
+      "slug": "daviess-county-humane-society-119033",
+      "name": "Daviess County Humane Society",
+      "address": "PO Box 1075, Owensboro, KY 42302",
+      "phone": "270-685-1737",
+      "image": "./img/shelter/office/119033.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/daviess-county-humane-society-119033/",
+      "imageUrl": "https://cdn.findpawpal.com/office/119033.jpg?f=webp&w=730"
+    }
+  ]
+}

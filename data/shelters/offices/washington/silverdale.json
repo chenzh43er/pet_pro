@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:19:03.763414+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "silverdale",
+    "name": "Silverdale",
+    "label": "Silverdale, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/silverdale/",
+  "offices": [
+    {
+      "officeId": 610892,
+      "slug": "kitsap-humane-society-610892",
+      "name": "Kitsap Humane Society",
+      "address": "9167 Dickey Road Northwest, Silverdale, WA 98383",
+      "phone": "360-692-6977",
+      "image": "./img/shelter/office/610892.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kitsap-humane-society-610892/",
+      "imageUrl": "https://cdn.findpawpal.com/office/610892.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 629041,
+      "slug": "silverdale-animal-control-629041",
+      "name": "Silverdale Animal Control",
+      "address": "9167 Dickey Road Northwest, Silverdale, WA 98383",
+      "phone": "360-698-9654",
+      "image": "./img/shelter/office/629041.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/silverdale-animal-control-629041/",
+      "imageUrl": "https://cdn.findpawpal.com/office/629041.jpg?f=webp&w=730"
+    }
+  ]
+}

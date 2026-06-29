@@ -1,0 +1,75 @@
+{
+  "fetchedAt": "2026-06-27T19:44:14.673061+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "elyria",
+    "name": "Elyria",
+    "label": "Elyria, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/elyria/",
+  "offices": [
+    {
+      "officeId": 423235,
+      "slug": "k9rezq-423235",
+      "name": "K9REZQ",
+      "address": "6333 Murray Ridge Road, Elyria, OH 44035",
+      "phone": "440-670-0101",
+      "image": "./img/shelter/office/423235.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/k9rezq-423235/",
+      "imageUrl": "https://cdn.findpawpal.com/office/423235.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 431050,
+      "slug": "erie-shores-humane-society-431050",
+      "name": "Erie Shores Humane Society",
+      "address": "PO Box 1041, Elyria, OH 44036",
+      "phone": "440-323-4231",
+      "image": "./img/shelter/office/431050.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/erie-shores-humane-society-431050/",
+      "imageUrl": "https://cdn.findpawpal.com/office/431050.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 457636,
+      "slug": "petresq-inc-457636",
+      "name": "Petresq, Inc.",
+      "address": "PO Box 1992, Elyria, OH 44036",
+      "phone": "440-353-9696",
+      "image": "./img/shelter/office/457636.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/petresq-inc-457636/",
+      "imageUrl": "https://cdn.findpawpal.com/office/457636.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 458252,
+      "slug": "ohio-pet-placement-458252",
+      "name": "Ohio Pet Placement",
+      "address": "2555 North Ridge Road, Elyria, OH 44035",
+      "phone": "440-277-7400",
+      "image": "./img/shelter/office/458252.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ohio-pet-placement-458252/",
+      "imageUrl": "https://cdn.findpawpal.com/office/458252.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 467187,
+      "slug": "friendship-animal-protective-league-467187",
+      "name": "Friendship Animal Protective League",
+      "address": "8303 Murray Ridge Road, Elyria, OH 44035",
+      "phone": "440-322-4321",
+      "image": "./img/shelter/office/467187.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friendship-animal-protective-league-467187/",
+      "imageUrl": "https://cdn.findpawpal.com/office/467187.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 581101,
+      "slug": "county-animals-rescue-evacuation-organization-581101",
+      "name": "County Animals Rescue Evacuation Organization",
+      "address": "PO Box 1496, Elyria, OH 44036",
+      "phone": "440-541-7494",
+      "image": "./img/shelter/office/581101.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/county-animals-rescue-evacuation-organization-581101/",
+      "imageUrl": "https://cdn.findpawpal.com/office/581101.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 708107,
+  "slug": "east-providence-animal-shelter-708107",
+  "name": "East Providence Animal Shelter",
+  "address": "62 Commercial Way, East Providence, RI 02914",
+  "street": "62 Commercial Way",
+  "addressCity": "East Providence",
+  "stateCode": "RI",
+  "zip": "02914",
+  "phone": "401-435-7675",
+  "image": "./img/shelter/office/708107.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/east-providence-animal-shelter-708107/",
+  "stateSlug": "rhode-island",
+  "stateName": "Rhode Island",
+  "citySlug": "east-providence",
+  "cityName": "East Providence",
+  "cityLabel": "East Providence, RI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/rhode-island/east-providence/",
+  "fetchedAt": "2026-06-27T19:56:02.269220+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/708107.jpg?f=webp&w=730"
+}

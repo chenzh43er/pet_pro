@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:52:29.833865+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "zionsville",
+    "name": "Zionsville",
+    "label": "Zionsville, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/zionsville/",
+  "offices": [
+    {
+      "officeId": 217491,
+      "slug": "humane-foundation-of-boone-county-217491",
+      "name": "Humane Foundation of Boone County",
+      "address": "PO Box 241, Zionsville, IN 46077",
+      "phone": "317-733-0470",
+      "image": "./img/shelter/office/217491.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-foundation-of-boone-county-217491/",
+      "imageUrl": "https://cdn.findpawpal.com/office/217491.jpg?f=webp&w=730"
+    }
+  ]
+}

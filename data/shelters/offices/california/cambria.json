@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:24:35.459586+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "cambria",
+    "name": "Cambria",
+    "label": "Cambria, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/cambria/",
+  "offices": [
+    {
+      "slug": "homeless-animal-rescue-team-361634",
+      "name": "Homeless Animal Rescue Team",
+      "address": "PO Box 1394, Cambria, CA 93428",
+      "phone": "805-772-4278",
+      "image": "./img/shelter/office/361634.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/homeless-animal-rescue-team-361634/",
+      "imageUrl": "https://cdn.findpawpal.com/office/361634.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cambria-animal-control-481203",
+      "name": "Cambria Animal Control",
+      "address": "1500 Main Street, Cambria, CA 93428",
+      "phone": "805-927-7377",
+      "image": "./img/shelter/office/481203.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cambria-animal-control-481203/",
+      "imageUrl": "https://cdn.findpawpal.com/office/481203.jpg?f=webp&w=730"
+    }
+  ]
+}

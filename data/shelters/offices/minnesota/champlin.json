@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:13:54.896933+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "champlin",
+    "name": "Champlin",
+    "label": "Champlin, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/champlin/",
+  "offices": [
+    {
+      "officeId": 533275,
+      "slug": "pets-for-life-533275",
+      "name": "Pets for Life",
+      "address": "524 Dayton Road, Champlin, MN 55316",
+      "phone": "763-421-2869",
+      "image": "./img/shelter/office/533275.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pets-for-life-533275/",
+      "imageUrl": "https://cdn.findpawpal.com/office/533275.jpg?f=webp&w=730"
+    }
+  ]
+}

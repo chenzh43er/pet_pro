@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:36:30.457073+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "rock-hill",
+    "name": "Rock Hill",
+    "label": "Rock Hill, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/rock-hill/",
+  "offices": [
+    {
+      "officeId": 401468,
+      "slug": "sullivan-county-spca-401468",
+      "name": "Sullivan County SPCA",
+      "address": "104 Rock Hill Drive, Rock Hill, NY 12775",
+      "phone": "845-796-3120",
+      "image": "./img/shelter/office/401468.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sullivan-county-spca-401468/",
+      "imageUrl": "https://cdn.findpawpal.com/office/401468.jpg?f=webp&w=730"
+    }
+  ]
+}

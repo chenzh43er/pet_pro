@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:38:19.218718+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "burgaw",
+    "name": "Burgaw",
+    "label": "Burgaw, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/burgaw/",
+  "offices": [
+    {
+      "officeId": 227832,
+      "slug": "pender-county-humane-society-227832",
+      "name": "Pender County Humane Society",
+      "address": "1407 Highway 53, Burgaw, NC 28425",
+      "phone": "910-259-7022",
+      "image": "./img/shelter/office/227832.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pender-county-humane-society-227832/",
+      "imageUrl": "https://cdn.findpawpal.com/office/227832.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 258988,
+      "slug": "pender-county-animal-control-258988",
+      "name": "Pender County Animal Control",
+      "address": "3088 New Savannah Road, Burgaw, NC 28425",
+      "phone": "910-259-1349",
+      "image": "./img/shelter/office/258988.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pender-county-animal-control-258988/",
+      "imageUrl": "https://cdn.findpawpal.com/office/258988.jpg?f=webp&w=730"
+    }
+  ]
+}

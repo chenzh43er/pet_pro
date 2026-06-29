@@ -1,0 +1,42 @@
+{
+  "fetchedAt": "2026-06-27T18:30:36.682096+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "santa-cruz",
+    "name": "Santa Cruz",
+    "label": "Santa Cruz, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/santa-cruz/",
+  "offices": [
+    {
+      "slug": "santa-cruz-spca-383762",
+      "name": "Santa Cruz SPCA",
+      "address": "2685 Chanticleer Avenue, Santa Cruz, CA 95065",
+      "phone": "831-465-5000",
+      "image": "./img/shelter/office/383762.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/santa-cruz-spca-383762/",
+      "imageUrl": "https://cdn.findpawpal.com/office/383762.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "project-purrs-rescued-treasures-668082",
+      "name": "Project Purr's Rescued Treasures",
+      "address": "325 Front Street, Santa Cruz, CA 95060",
+      "phone": "831-423-6369",
+      "image": "./img/shelter/office/668082.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/project-purrs-rescued-treasures-668082/",
+      "imageUrl": "https://cdn.findpawpal.com/office/668082.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "santa-cruz-animal-shelter-668792",
+      "name": "Santa Cruz Animal Shelter",
+      "address": "2200 7th Avenue, Santa Cruz, CA 95062",
+      "phone": "831-454-7303",
+      "image": "./img/shelter/office/668792.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/santa-cruz-animal-shelter-668792/",
+      "imageUrl": "https://cdn.findpawpal.com/office/668792.jpg?f=webp&w=730"
+    }
+  ]
+}

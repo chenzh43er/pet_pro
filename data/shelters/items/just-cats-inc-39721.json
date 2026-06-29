@@ -1,0 +1,21 @@
+{
+  "officeId": 39721,
+  "slug": "just-cats-inc-39721",
+  "name": "Just Cats Inc",
+  "address": "1 Mill Street, Mansfield, MA 02048",
+  "street": "1 Mill Street",
+  "addressCity": "Mansfield",
+  "stateCode": "MA",
+  "zip": "02048",
+  "phone": "508-339-6717",
+  "image": "./img/shelter/office/39721.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/just-cats-inc-39721/",
+  "stateSlug": "massachusetts",
+  "stateName": "Massachusetts",
+  "citySlug": "mansfield",
+  "cityName": "Mansfield",
+  "cityLabel": "Mansfield, MA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/massachusetts/mansfield/",
+  "fetchedAt": "2026-06-27T19:06:52.974836+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/39721.jpg?f=webp&w=730"
+}

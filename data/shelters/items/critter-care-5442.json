@@ -1,0 +1,21 @@
+{
+  "officeId": 5442,
+  "slug": "critter-care-5442",
+  "name": "Critter Care",
+  "address": "PO Box 67341, Topeka, KS 66667",
+  "street": "PO Box 67341",
+  "addressCity": "Topeka",
+  "stateCode": "KS",
+  "zip": "66667",
+  "phone": "785-478-0341",
+  "image": "./img/shelter/office/5442.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/critter-care-5442/",
+  "stateSlug": "kansas",
+  "stateName": "Kansas",
+  "citySlug": "topeka",
+  "cityName": "Topeka",
+  "cityLabel": "Topeka, KS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kansas/topeka/",
+  "fetchedAt": "2026-06-27T18:55:58.934430+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/5442.jpg?f=webp&w=730"
+}

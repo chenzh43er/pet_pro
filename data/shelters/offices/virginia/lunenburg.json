@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:14:51.911998+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "lunenburg",
+    "name": "Lunenburg",
+    "label": "Lunenburg, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/lunenburg/",
+  "offices": [
+    {
+      "officeId": 529594,
+      "slug": "lunenburg-county-animal-control-529594",
+      "name": "Lunenburg County Animal Control",
+      "address": "160 Courthouse Sq, Lunenburg, VA 23974",
+      "phone": "434-696-4452",
+      "image": "https://cdn.findpawpal.com/office/529594.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/lunenburg-county-animal-control-529594/"
+    }
+  ]
+}

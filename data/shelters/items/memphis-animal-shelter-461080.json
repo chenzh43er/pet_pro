@@ -1,0 +1,21 @@
+{
+  "officeId": 461080,
+  "slug": "memphis-animal-shelter-461080",
+  "name": "Memphis Animal Shelter",
+  "address": "4160 Park Avenue, Memphis, TN 38117",
+  "street": "4160 Park Avenue",
+  "addressCity": "Memphis",
+  "stateCode": "TN",
+  "zip": "38117",
+  "phone": "901-362-5310",
+  "image": "./img/shelter/office/461080.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/memphis-animal-shelter-461080/",
+  "stateSlug": "tennessee",
+  "stateName": "Tennessee",
+  "citySlug": "memphis",
+  "cityName": "Memphis",
+  "cityLabel": "Memphis, TN",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/tennessee/memphis/",
+  "fetchedAt": "2026-06-27T20:01:09.779207+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/461080.jpg?f=webp&w=730"
+}

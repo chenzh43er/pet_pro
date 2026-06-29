@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:52:04.732472+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "butler",
+    "name": "Butler",
+    "label": "Butler, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/butler/",
+  "offices": [
+    {
+      "officeId": 437563,
+      "slug": "cats-in-need-437563",
+      "name": "Cats In Need",
+      "address": "405 Virginia Avenue, Butler, PA 16001",
+      "phone": "412-282-0714",
+      "image": "./img/shelter/office/437563.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cats-in-need-437563/",
+      "imageUrl": "https://cdn.findpawpal.com/office/437563.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:06:22.987232+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "kingwood",
+    "name": "Kingwood",
+    "label": "Kingwood, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/kingwood/",
+  "offices": [
+    {
+      "officeId": 538473,
+      "slug": "volunteers-for-animal-protection-538473",
+      "name": "Volunteers for Animal Protection",
+      "address": "PO Box 5266, Kingwood, TX 77325",
+      "phone": "281-358-9818",
+      "image": "https://cdn.findpawpal.com/office/538473.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/volunteers-for-animal-protection-538473/"
+    }
+  ]
+}

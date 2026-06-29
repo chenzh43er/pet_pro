@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T19:28:30.611005+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "princeton",
+    "name": "Princeton",
+    "label": "Princeton, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/princeton/",
+  "offices": [
+    {
+      "officeId": 96527,
+      "slug": "friends-of-homeless-animals-96527",
+      "name": "Friends of Homeless Animals",
+      "address": "44 Nassau Street, Princeton, NJ 08542",
+      "phone": "609-921-8175",
+      "image": "./img/shelter/office/96527.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-homeless-animals-96527/",
+      "imageUrl": "https://cdn.findpawpal.com/office/96527.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 96627,
+      "slug": "princeton-small-animal-control-96627",
+      "name": "Princeton Small Animal Control",
+      "address": "369 Witherspoon Street, Princeton, NJ 08542",
+      "phone": "609-924-2728",
+      "image": "./img/shelter/office/96627.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/princeton-small-animal-control-96627/",
+      "imageUrl": "https://cdn.findpawpal.com/office/96627.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 101206,
+      "slug": "save-a-friend-to-homeless-animals-101206",
+      "name": "SAVE, A Friend to Homeless Animals",
+      "address": "900 Herrontown Road, Princeton, NJ 08540",
+      "phone": "609-921-6122",
+      "image": "./img/shelter/office/101206.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/save-a-friend-to-homeless-animals-101206/",
+      "imageUrl": "https://cdn.findpawpal.com/office/101206.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 105707,
+      "slug": "princeton-animal-control-105707",
+      "name": "Princeton Animal Control",
+      "address": "900 Herrontown Road, Princeton, NJ 08540",
+      "phone": "609-921-6122",
+      "image": "./img/shelter/office/105707.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/princeton-animal-control-105707/",
+      "imageUrl": "https://cdn.findpawpal.com/office/105707.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:23:14.765715+00:00",
+  "state": {
+    "slug": "nevada",
+    "name": "Nevada"
+  },
+  "city": {
+    "slug": "gardnerville",
+    "name": "Gardnerville",
+    "label": "Gardnerville, NV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nevada/gardnerville/",
+  "offices": [
+    {
+      "officeId": 6969,
+      "slug": "douglas-county-animal-shelter-6969",
+      "name": "Douglas County Animal Shelter",
+      "address": "921 Pinenut Road, Gardnerville, NV 89410",
+      "phone": "775-782-9061",
+      "image": "./img/shelter/office/6969.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/douglas-county-animal-shelter-6969/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6969.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 6980,
+      "slug": "gardnerville-reptile-rescue-6980",
+      "name": "Gardnerville Reptile Rescue",
+      "address": "PO Box 6058, Gardnerville, NV 89460",
+      "phone": "775-265-6689",
+      "image": "./img/shelter/office/6980.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gardnerville-reptile-rescue-6980/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6980.jpg?f=webp&w=730"
+    }
+  ]
+}

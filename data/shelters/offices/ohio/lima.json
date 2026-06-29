@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:45:05.751046+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "lima",
+    "name": "Lima",
+    "label": "Lima, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/lima/",
+  "offices": [
+    {
+      "officeId": 458229,
+      "slug": "the-humane-society-of-allen-county-458229",
+      "name": "The Humane Society of Allen County",
+      "address": "3606 Elida Road, Lima, OH 45807",
+      "phone": "419-991-1775",
+      "image": "./img/shelter/office/458229.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-humane-society-of-allen-county-458229/",
+      "imageUrl": "https://cdn.findpawpal.com/office/458229.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 640358,
+      "slug": "allen-county-dog-control-department-640358",
+      "name": "Allen County Dog Control Department",
+      "address": "1165 Seriff, Lima, OH 45805",
+      "phone": "419-228-3700",
+      "image": "./img/shelter/office/640358.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/allen-county-dog-control-department-640358/",
+      "imageUrl": "https://cdn.findpawpal.com/office/640358.jpg?f=webp&w=730"
+    }
+  ]
+}

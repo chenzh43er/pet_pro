@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:46:03.656867+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "hillsboro",
+    "name": "Hillsboro",
+    "label": "Hillsboro, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/hillsboro/",
+  "offices": [
+    {
+      "officeId": 579310,
+      "slug": "montgomery-county-animal-control-579310",
+      "name": "Montgomery County Animal Control",
+      "address": "PO Box 122, Hillsboro, IL 62049",
+      "phone": "217-532-9571",
+      "image": "https://cdn.findpawpal.com/office/579310.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/montgomery-county-animal-control-579310/"
+    }
+  ]
+}

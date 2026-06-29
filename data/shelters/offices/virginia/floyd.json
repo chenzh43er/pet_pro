@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T20:14:03.861674+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "floyd",
+    "name": "Floyd",
+    "label": "Floyd, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/floyd/",
+  "offices": [
+    {
+      "officeId": 575464,
+      "slug": "floyd-county-animal-control-575464",
+      "name": "Floyd County Animal Control",
+      "address": "110 Newtown Road Northeast, Floyd, VA 24091",
+      "phone": "540-745-9365",
+      "image": "./img/shelter/office/575464.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/floyd-county-animal-control-575464/",
+      "imageUrl": "https://cdn.findpawpal.com/office/575464.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 646559,
+      "slug": "floyd-county-humane-society-646559",
+      "name": "Floyd County Humane Society",
+      "address": "PO Box 862, Floyd, VA 24091",
+      "phone": "540-745-7207",
+      "image": "https://cdn.findpawpal.com/office/646559.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/floyd-county-humane-society-646559/"
+    }
+  ]
+}

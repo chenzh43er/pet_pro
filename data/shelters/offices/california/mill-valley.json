@@ -1,0 +1,42 @@
+{
+  "fetchedAt": "2026-06-27T18:27:54.232731+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "mill-valley",
+    "name": "Mill Valley",
+    "label": "Mill Valley, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/mill-valley/",
+  "offices": [
+    {
+      "slug": "marin-animal-association-365264",
+      "name": "Marin Animal Association",
+      "address": "157 Throckmorton Avenue, Mill Valley, CA 94941",
+      "phone": "415-388-9600",
+      "image": "./img/shelter/office/365264.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/marin-animal-association-365264/",
+      "imageUrl": "https://cdn.findpawpal.com/office/365264.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alta-animal-control-385914",
+      "name": "Alta Animal Control",
+      "address": "131 Camino Alto, Mill Valley, CA 94941",
+      "phone": "415-388-9641",
+      "image": "./img/shelter/office/385914.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/alta-animal-control-385914/",
+      "imageUrl": "https://cdn.findpawpal.com/office/385914.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "persian-and-himilyan-cat-rescue-389879",
+      "name": "Persian & Himilyan Cat Rescue",
+      "address": "305 Ross Drive, Mill Valley, CA 94941",
+      "phone": "415-388-7925",
+      "image": "./img/shelter/office/389879.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/persian-and-himilyan-cat-rescue-389879/",
+      "imageUrl": "https://cdn.findpawpal.com/office/389879.jpg?f=webp&w=730"
+    }
+  ]
+}

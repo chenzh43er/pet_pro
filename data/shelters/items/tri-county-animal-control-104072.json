@@ -1,0 +1,21 @@
+{
+  "officeId": 104072,
+  "slug": "tri-county-animal-control-104072",
+  "name": "Tri-County Animal Control",
+  "address": "6345 Lynnfield Road, Horn Lake, MS 38637",
+  "street": "6345 Lynnfield Road",
+  "addressCity": "Horn Lake",
+  "stateCode": "MS",
+  "zip": "38637",
+  "phone": "662-393-7529",
+  "image": "./img/shelter/office/104072.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/tri-county-animal-control-104072/",
+  "stateSlug": "mississippi",
+  "stateName": "Mississippi",
+  "citySlug": "horn-lake",
+  "cityName": "Horn Lake",
+  "cityLabel": "Horn Lake, MS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/mississippi/horn-lake/",
+  "fetchedAt": "2026-06-27T19:16:31.480136+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/104072.jpg?f=webp&w=730"
+}

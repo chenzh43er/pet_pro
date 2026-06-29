@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:48:52.744737+00:00",
+  "state": {
+    "slug": "oklahoma",
+    "name": "Oklahoma"
+  },
+  "city": {
+    "slug": "madill",
+    "name": "Madill",
+    "label": "Madill, OK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oklahoma/madill/",
+  "offices": [
+    {
+      "officeId": 581225,
+      "slug": "madill-animal-shelter-581225",
+      "name": "Madill Animal Shelter",
+      "address": "815 South 3rd Street, Madill, OK 73446",
+      "phone": "580-872-4660",
+      "image": "./img/shelter/office/581225.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/madill-animal-shelter-581225/",
+      "imageUrl": "https://cdn.findpawpal.com/office/581225.jpg?f=webp&w=730"
+    }
+  ]
+}

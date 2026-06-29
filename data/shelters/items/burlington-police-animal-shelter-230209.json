@@ -1,0 +1,21 @@
+{
+  "officeId": 230209,
+  "slug": "burlington-police-animal-shelter-230209",
+  "name": "Burlington Police Animal Shelter",
+  "address": "215 Stone Quarry Road, Haw River, NC 27258",
+  "street": "215 Stone Quarry Road",
+  "addressCity": "Haw River",
+  "stateCode": "NC",
+  "zip": "27258",
+  "phone": "336-578-1386",
+  "image": "./img/shelter/office/230209.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/burlington-police-animal-shelter-230209/",
+  "stateSlug": "north-carolina",
+  "stateName": "North Carolina",
+  "citySlug": "haw-river",
+  "cityName": "Haw River",
+  "cityLabel": "Haw River, NC",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/north-carolina/haw-river/",
+  "fetchedAt": "2026-06-27T19:39:32.483006+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/230209.jpg?f=webp&w=730"
+}

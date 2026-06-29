@@ -1,0 +1,21 @@
+{
+  "officeId": 40444,
+  "slug": "fort-morgan-animal-shelter-40444",
+  "name": "Fort Morgan Animal Shelter",
+  "address": "900 East Railroad Avenue, Fort Morgan, CO 80701",
+  "street": "900 East Railroad Avenue",
+  "addressCity": "Fort Morgan",
+  "stateCode": "CO",
+  "zip": "80701",
+  "phone": "970-542-3927",
+  "image": "./img/shelter/office/40444.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/fort-morgan-animal-shelter-40444/",
+  "stateSlug": "colorado",
+  "stateName": "Colorado",
+  "citySlug": "fort-morgan",
+  "cityName": "Fort Morgan",
+  "cityLabel": "Fort Morgan, CO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/colorado/fort-morgan/",
+  "fetchedAt": "2026-06-27T18:34:15.241247+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/40444.jpg?f=webp&w=730"
+}

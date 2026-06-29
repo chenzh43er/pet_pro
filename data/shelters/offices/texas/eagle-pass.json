@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:04:36.202589+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "eagle-pass",
+    "name": "Eagle Pass",
+    "label": "Eagle Pass, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/eagle-pass/",
+  "offices": [
+    {
+      "officeId": 721431,
+      "slug": "eagle-pass-animal-control-721431",
+      "name": "Eagle Pass Animal Control",
+      "address": "1100 Eidson Road, Eagle Pass, TX 78852",
+      "phone": "830-773-9408",
+      "image": "./img/shelter/office/721431.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/eagle-pass-animal-control-721431/",
+      "imageUrl": "https://cdn.findpawpal.com/office/721431.jpg?f=webp&w=730"
+    }
+  ]
+}

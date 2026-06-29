@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:58:24.605829+00:00",
+  "state": {
+    "slug": "south-carolina",
+    "name": "South Carolina"
+  },
+  "city": {
+    "slug": "swansea",
+    "name": "Swansea",
+    "label": "Swansea, SC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-carolina/swansea/",
+  "offices": [
+    {
+      "officeId": 651583,
+      "slug": "cullens-archangel-rescue-inc-651583",
+      "name": "Cullen's Archangel Rescue, Inc.",
+      "address": "PO Box 969, Swansea, SC 29160",
+      "phone": "803-622-9813",
+      "image": "https://cdn.findpawpal.com/office/651583.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/cullens-archangel-rescue-inc-651583/"
+    }
+  ]
+}

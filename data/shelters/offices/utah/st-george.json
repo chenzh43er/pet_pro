@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T20:11:35.891788+00:00",
+  "state": {
+    "slug": "utah",
+    "name": "Utah"
+  },
+  "city": {
+    "slug": "st-george",
+    "name": "St. George",
+    "label": "St. George, UT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/utah/st-george/",
+  "offices": [
+    {
+      "officeId": 478663,
+      "slug": "st-george-city-of-animal-pound-478663",
+      "name": "St George City of Animal Pound",
+      "address": "605 E Skyline Dr, St. George, UT 84770",
+      "phone": "435-634-5829",
+      "image": "./img/shelter/office/478663.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/st-george-city-of-animal-pound-478663/",
+      "imageUrl": "https://cdn.findpawpal.com/office/478663.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 723342,
+      "slug": "p-a-w-s-adoption-center-723342",
+      "name": "P.A.W.S. Adoption Center",
+      "address": "1125 West 1130 North, St. George, UT 84770",
+      "phone": "435-688-9748",
+      "image": "https://cdn.findpawpal.com/office/723342.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/p-a-w-s-adoption-center-723342/"
+    }
+  ]
+}

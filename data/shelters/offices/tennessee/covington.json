@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:59:48.015329+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "covington",
+    "name": "Covington",
+    "label": "Covington, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/covington/",
+  "offices": [
+    {
+      "officeId": 461138,
+      "slug": "covington-animal-control-461138",
+      "name": "Covington Animal Control",
+      "address": "4700 Mueller Brass Road, Covington, TN 38019",
+      "phone": "901-476-0229",
+      "image": "./img/shelter/office/461138.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/covington-animal-control-461138/",
+      "imageUrl": "https://cdn.findpawpal.com/office/461138.jpg?f=webp&w=730"
+    }
+  ]
+}

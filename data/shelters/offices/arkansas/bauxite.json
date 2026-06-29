@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:21:31.563405+00:00",
+  "state": {
+    "slug": "arkansas",
+    "name": "Arkansas"
+  },
+  "city": {
+    "slug": "bauxite",
+    "name": "Bauxite",
+    "label": "Bauxite, AR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arkansas/bauxite/",
+  "offices": [
+    {
+      "officeId": 273063,
+      "slug": "cats-in-bauxite-273063",
+      "name": "Cats In Bauxite",
+      "address": "11410 Medlin Road, Bauxite, AR 72011",
+      "phone": "501-602-2728",
+      "image": "./img/shelter/office/273063.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cats-in-bauxite-273063/",
+      "imageUrl": "https://cdn.findpawpal.com/office/273063.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 317134,
+      "slug": "humane-society-of-saline-county-317134",
+      "name": "Humane Society of Saline County",
+      "address": "7600 Bauxite Highway, Bauxite, AR 72011",
+      "phone": "501-557-5518",
+      "image": "./img/shelter/office/317134.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-saline-county-317134/",
+      "imageUrl": "https://cdn.findpawpal.com/office/317134.jpg?f=webp&w=730"
+    }
+  ]
+}

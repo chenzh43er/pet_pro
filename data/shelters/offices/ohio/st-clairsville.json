@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:47:01.043523+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "st-clairsville",
+    "name": "St. Clairsville",
+    "label": "St. Clairsville, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/st-clairsville/",
+  "offices": [
+    {
+      "officeId": 467233,
+      "slug": "belmont-county-animal-shelter-467233",
+      "name": "Belmont County Animal Shelter",
+      "address": "45244 National Road West, St. Clairsville, OH 43950",
+      "phone": "740-695-4708",
+      "image": "./img/shelter/office/467233.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/belmont-county-animal-shelter-467233/",
+      "imageUrl": "https://cdn.findpawpal.com/office/467233.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 686593,
+      "slug": "belmont-county-animal-rescue-league-686593",
+      "name": "Belmont County Animal Rescue League",
+      "address": "PO Box 115, St. Clairsville, OH 43950",
+      "phone": "614-695-4708",
+      "image": "./img/shelter/office/686593.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/belmont-county-animal-rescue-league-686593/",
+      "imageUrl": "https://cdn.findpawpal.com/office/686593.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T18:51:38.073742+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "pierceton",
+    "name": "Pierceton",
+    "label": "Pierceton, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/pierceton/",
+  "offices": [
+    {
+      "officeId": 201489,
+      "slug": "sevens-heaven-wildlife-rehabilitation-and-exotic-rescue-201489",
+      "name": "Seven's Heaven Wildlife Rehabilitation and Exotic Rescue",
+      "address": "6027 South 550 East, Pierceton, IN 46562",
+      "phone": "260-839-0705",
+      "image": "https://cdn.findpawpal.com/office/201489.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/sevens-heaven-wildlife-rehabilitation-and-exotic-rescue-201489/"
+    },
+    {
+      "officeId": 253463,
+      "slug": "kosciusko-county-animal-shelter-253463",
+      "name": "Kosciusko County Animal Shelter",
+      "address": "3489 East 100 South, Pierceton, IN 46562",
+      "phone": "574-267-3008",
+      "image": "./img/shelter/office/253463.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kosciusko-county-animal-shelter-253463/",
+      "imageUrl": "https://cdn.findpawpal.com/office/253463.jpg?f=webp&w=730"
+    }
+  ]
+}

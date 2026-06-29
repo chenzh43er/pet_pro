@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:53:37.185807+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa"
+  },
+  "city": {
+    "slug": "maquoketa",
+    "name": "Maquoketa",
+    "label": "Maquoketa, IA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/maquoketa/",
+  "offices": [
+    {
+      "officeId": 324297,
+      "slug": "jackson-county-humane-society-324297",
+      "name": "Jackson County Humane Society",
+      "address": "23354 Dark Hollow Road, Maquoketa, IA 52060",
+      "phone": "563-652-5360",
+      "image": "./img/shelter/office/324297.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/jackson-county-humane-society-324297/",
+      "imageUrl": "https://cdn.findpawpal.com/office/324297.jpg?f=webp&w=730"
+    }
+  ]
+}

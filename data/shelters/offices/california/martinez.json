@@ -1,0 +1,42 @@
+{
+  "fetchedAt": "2026-06-27T18:27:44.661411+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "martinez",
+    "name": "Martinez",
+    "label": "Martinez, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/martinez/",
+  "offices": [
+    {
+      "slug": "moraga-animal-control-363801",
+      "name": "Moraga Animal Control",
+      "address": "4800 Imhoff Place, Martinez, CA 94553",
+      "phone": "925-335-8300",
+      "image": "./img/shelter/office/363801.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/moraga-animal-control-363801/",
+      "imageUrl": "https://cdn.findpawpal.com/office/363801.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "contra-costa-county-animal-services-martinez-shelter-383096",
+      "name": "Contra Costa County Animal Services - Martinez Shelter",
+      "address": "4849 Imhoff Place, Martinez, CA 94553",
+      "phone": "925-646-2995",
+      "image": "./img/shelter/office/383096.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/contra-costa-county-animal-services-martinez-shelter-383096/",
+      "imageUrl": "https://cdn.findpawpal.com/office/383096.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "outcast-cat-help-668416",
+      "name": "Outcast Cat Help",
+      "address": "930 Bush Street, Martinez, CA 94553",
+      "phone": "925-231-0639",
+      "image": "./img/shelter/office/668416.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/outcast-cat-help-668416/",
+      "imageUrl": "https://cdn.findpawpal.com/office/668416.jpg?f=webp&w=730"
+    }
+  ]
+}

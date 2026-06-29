@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T19:44:59.813064+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "lancaster",
+    "name": "Lancaster",
+    "label": "Lancaster, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/lancaster/",
+  "offices": [
+    {
+      "officeId": 458644,
+      "slug": "fairfield-county-animal-shelter-458644",
+      "name": "Fairfield County Animal Shelter",
+      "address": "1582 East Main Street, Lancaster, OH 43130",
+      "phone": "740-654-3632",
+      "image": "./img/shelter/office/458644.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fairfield-county-animal-shelter-458644/",
+      "imageUrl": "https://cdn.findpawpal.com/office/458644.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 467423,
+      "slug": "whiskers-animal-welfare-and-education-inc-467423",
+      "name": "Whiskers Animal Welfare and Education, Inc.",
+      "address": "PO Box 127, Lancaster, OH 43130",
+      "phone": "740-687-0248",
+      "image": "./img/shelter/office/467423.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/whiskers-animal-welfare-and-education-inc-467423/",
+      "imageUrl": "https://cdn.findpawpal.com/office/467423.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 686320,
+      "slug": "forgotten-4-paws-686320",
+      "name": "Forgotten 4-PAWS",
+      "address": "PO Box 1046, Lancaster, OH 43130",
+      "phone": "740-687-9244",
+      "image": "./img/shelter/office/686320.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/forgotten-4-paws-686320/",
+      "imageUrl": "https://cdn.findpawpal.com/office/686320.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 686634,
+      "slug": "fairfield-area-humane-society-686634",
+      "name": "Fairfield Area Humane Society",
+      "address": "1721 Granville Pike, Lancaster, OH 43130",
+      "phone": "740-687-0627",
+      "image": "./img/shelter/office/686634.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fairfield-area-humane-society-686634/",
+      "imageUrl": "https://cdn.findpawpal.com/office/686634.jpg?f=webp&w=730"
+    }
+  ]
+}

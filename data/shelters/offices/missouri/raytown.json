@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:20:16.470115+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "raytown",
+    "name": "Raytown",
+    "label": "Raytown, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/raytown/",
+  "offices": [
+    {
+      "officeId": 192355,
+      "slug": "missouri-pit-bull-rescue-192355",
+      "name": "Missouri Pit Bull Rescue",
+      "address": "PO Box 18731, Raytown, MO 64133",
+      "phone": "",
+      "image": "./img/shelter/office/192355.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/missouri-pit-bull-rescue-192355/",
+      "imageUrl": "https://cdn.findpawpal.com/office/192355.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 192393,
+      "slug": "people-for-animal-welfare-society-192393",
+      "name": "People for Animal Welfare Society",
+      "address": "PO Box 16664, Raytown, MO 64133",
+      "phone": "816-252-2680",
+      "image": "./img/shelter/office/192393.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/people-for-animal-welfare-society-192393/",
+      "imageUrl": "https://cdn.findpawpal.com/office/192393.jpg?f=webp&w=730"
+    }
+  ]
+}

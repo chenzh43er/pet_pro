@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:27:18.850711+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "manchester",
+    "name": "Manchester",
+    "label": "Manchester, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/manchester/",
+  "offices": [
+    {
+      "officeId": 99289,
+      "slug": "animal-relief-foundation-99289",
+      "name": "Animal Relief Foundation",
+      "address": "4014 Quarry Road, Manchester, NJ 08759",
+      "phone": "732-657-0295",
+      "image": "https://cdn.findpawpal.com/office/99289.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-relief-foundation-99289/"
+    }
+  ]
+}

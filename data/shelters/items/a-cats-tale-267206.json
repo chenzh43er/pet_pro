@@ -1,0 +1,21 @@
+{
+  "officeId": 267206,
+  "slug": "a-cats-tale-267206",
+  "name": "A Cat's Tale",
+  "address": "6812 Davis Circle, Raleigh, NC 27613",
+  "street": "6812 Davis Circle",
+  "addressCity": "Raleigh",
+  "stateCode": "NC",
+  "zip": "27613",
+  "phone": "919-571-2646",
+  "image": "./img/shelter/office/267206.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/a-cats-tale-267206/",
+  "stateSlug": "north-carolina",
+  "stateName": "North Carolina",
+  "citySlug": "raleigh",
+  "cityName": "Raleigh",
+  "cityLabel": "Raleigh, NC",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/north-carolina/raleigh/",
+  "fetchedAt": "2026-06-27T19:40:59.937471+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/267206.jpg?f=webp&w=730"
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:41:56.801457+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "whiteville",
+    "name": "Whiteville",
+    "label": "Whiteville, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/whiteville/",
+  "offices": [
+    {
+      "officeId": 213994,
+      "slug": "columbus-county-animal-shelter-213994",
+      "name": "Columbus County Animal Shelter",
+      "address": "304 Jefferson Street, Whiteville, NC 28472",
+      "phone": "919-642-5700",
+      "image": "./img/shelter/office/213994.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/columbus-county-animal-shelter-213994/",
+      "imageUrl": "https://cdn.findpawpal.com/office/213994.jpg?f=webp&w=730"
+    }
+  ]
+}

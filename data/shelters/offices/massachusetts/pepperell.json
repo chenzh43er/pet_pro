@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:07:54.546458+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "pepperell",
+    "name": "Pepperell",
+    "label": "Pepperell, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/pepperell/",
+  "offices": [
+    {
+      "officeId": 40902,
+      "slug": "dayglyn-kennels-40902",
+      "name": "Dayglyn Kennels",
+      "address": "41 Cranberry Road, Pepperell, MA 01463",
+      "phone": "978-433-2332",
+      "image": "./img/shelter/office/40902.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dayglyn-kennels-40902/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40902.jpg?f=webp&w=730"
+    }
+  ]
+}

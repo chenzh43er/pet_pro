@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:19:46.315760+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "maryland-heights",
+    "name": "Maryland Heights",
+    "label": "Maryland Heights, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/maryland-heights/",
+  "offices": [
+    {
+      "officeId": 192657,
+      "slug": "humane-society-of-missouri-192657",
+      "name": "Humane Society of Missouri",
+      "address": "2400 Drilling Srv Road, Maryland Heights, MO 63043",
+      "phone": "314-951-1588",
+      "image": "https://cdn.findpawpal.com/office/192657.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-missouri-192657/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:30:55.403595+00:00",
+  "state": {
+    "slug": "new-mexico",
+    "name": "New Mexico"
+  },
+  "city": {
+    "slug": "ramah",
+    "name": "Ramah",
+    "label": "Ramah, NM"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-mexico/ramah/",
+  "offices": [
+    {
+      "officeId": 261815,
+      "slug": "candy-kitchen-rescue-ranch-261815",
+      "name": "Candy Kitchen Rescue Ranch",
+      "address": "PO Box 28, Ramah, NM 87321",
+      "phone": "505-775-3304",
+      "image": "./img/shelter/office/261815.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/candy-kitchen-rescue-ranch-261815/",
+      "imageUrl": "https://cdn.findpawpal.com/office/261815.jpg?f=webp&w=730"
+    }
+  ]
+}

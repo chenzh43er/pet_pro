@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:30:49.455347+00:00",
+  "state": {
+    "slug": "new-mexico",
+    "name": "New Mexico"
+  },
+  "city": {
+    "slug": "pie-town",
+    "name": "Pie Town",
+    "label": "Pie Town, NM"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-mexico/pie-town/",
+  "offices": [
+    {
+      "officeId": 718321,
+      "slug": "fur-and-feather-animal-assistance-inc-718321",
+      "name": "Fur and Feather Animal Assistance, Inc.",
+      "address": "PO Box 555, Pie Town, NM 87827",
+      "phone": "575-772-2661",
+      "image": "https://cdn.findpawpal.com/office/718321.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/fur-and-feather-animal-assistance-inc-718321/"
+    }
+  ]
+}

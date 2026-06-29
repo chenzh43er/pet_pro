@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T20:18:50.241834+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "redmond",
+    "name": "Redmond",
+    "label": "Redmond, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/redmond/",
+  "offices": [
+    {
+      "officeId": 610746,
+      "slug": "saras-sanctuary-610746",
+      "name": "Sara's Sanctuary",
+      "address": "PO Box 147, Redmond, WA 98073",
+      "phone": "425-898-9984",
+      "image": "./img/shelter/office/610746.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/saras-sanctuary-610746/",
+      "imageUrl": "https://cdn.findpawpal.com/office/610746.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 614746,
+      "slug": "seattle-beagle-rescue-614746",
+      "name": "Seattle Beagle Rescue",
+      "address": "7604 245th Way Northeast, Redmond, WA 98053",
+      "phone": "425-868-8795",
+      "image": "./img/shelter/office/614746.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/seattle-beagle-rescue-614746/",
+      "imageUrl": "https://cdn.findpawpal.com/office/614746.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 664624,
+      "slug": "seattle-purebred-dog-rescue-664624",
+      "name": "Seattle Purebred Dog Rescue",
+      "address": "PO Box 3523, Redmond, WA 98073",
+      "phone": "206-654-1117",
+      "image": "./img/shelter/office/664624.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/seattle-purebred-dog-rescue-664624/",
+      "imageUrl": "https://cdn.findpawpal.com/office/664624.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 714683,
+      "slug": "feral-cat-coalition-714683",
+      "name": "Feral Cat Coalition",
+      "address": "17134 Northeast 84th Street, Redmond, WA 98052",
+      "phone": "425-883-7629",
+      "image": "./img/shelter/office/714683.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/feral-cat-coalition-714683/",
+      "imageUrl": "https://cdn.findpawpal.com/office/714683.jpg?f=webp&w=730"
+    }
+  ]
+}

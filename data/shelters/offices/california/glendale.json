@@ -1,0 +1,65 @@
+{
+  "fetchedAt": "2026-06-27T18:26:13.018612+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "glendale",
+    "name": "Glendale",
+    "label": "Glendale, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/glendale/",
+  "offices": [
+    {
+      "officeId": 363940,
+      "slug": "glendale-animal-control-363940",
+      "name": "Glendale Animal Control",
+      "address": "313 East Broadway, Glendale, CA 91203",
+      "phone": "818-241-6282",
+      "image": "./img/shelter/office/363940.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/glendale-animal-control-363940/",
+      "imageUrl": "https://cdn.findpawpal.com/office/363940.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 366390,
+      "slug": "glendale-humane-society-366390",
+      "name": "Glendale Humane Society",
+      "address": "717 Ivy Street, Glendale, CA 91204",
+      "phone": "818-242-1128",
+      "image": "./img/shelter/office/366390.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/glendale-humane-society-366390/",
+      "imageUrl": "https://cdn.findpawpal.com/office/366390.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 366575,
+      "slug": "glendale-animal-welfare-and-rescue-366575",
+      "name": "Glendale Animal Welfare and Rescue",
+      "address": "1420 West Kenneth Road, Glendale, CA 91201",
+      "phone": "818-497-5644",
+      "image": "./img/shelter/office/366575.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/glendale-animal-welfare-and-rescue-366575/",
+      "imageUrl": "https://cdn.findpawpal.com/office/366575.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 381335,
+      "slug": "d-e-l-t-a-rescue-381335",
+      "name": "D.E.L.T.A. Rescue",
+      "address": "PO Box 9, Glendale, CA 91209",
+      "phone": "661-269-4010",
+      "image": "./img/shelter/office/381335.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/d-e-l-t-a-rescue-381335/",
+      "imageUrl": "https://cdn.findpawpal.com/office/381335.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 668520,
+      "slug": "bull-terrier-welfare-foundation-668520",
+      "name": "Bull Terrier Welfare Foundation",
+      "address": "1526 Belleau Road, Glendale, CA 91206",
+      "phone": "",
+      "image": "./img/shelter/office/668520.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bull-terrier-welfare-foundation-668520/",
+      "imageUrl": "https://cdn.findpawpal.com/office/668520.jpg?f=webp&w=730"
+    }
+  ]
+}

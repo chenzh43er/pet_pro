@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:17:05.438078+00:00",
+  "state": {
+    "slug": "mississippi",
+    "name": "Mississippi"
+  },
+  "city": {
+    "slug": "richland",
+    "name": "Richland",
+    "label": "Richland, MS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/mississippi/richland/",
+  "offices": [
+    {
+      "officeId": 110305,
+      "slug": "richland-animal-control-110305",
+      "name": "Richland Animal Control",
+      "address": "371 Scarbrough Street, Richland, MS 39218",
+      "phone": "601-932-3100",
+      "image": "./img/shelter/office/110305.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/richland-animal-control-110305/",
+      "imageUrl": "https://cdn.findpawpal.com/office/110305.jpg?f=webp&w=730"
+    }
+  ]
+}

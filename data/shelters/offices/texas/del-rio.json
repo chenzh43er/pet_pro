@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:04:24.197665+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "del-rio",
+    "name": "Del Rio",
+    "label": "Del Rio, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/del-rio/",
+  "offices": [
+    {
+      "officeId": 721863,
+      "slug": "del-rio-animal-shelter-721863",
+      "name": "Del Rio Animal Shelter",
+      "address": "203 Avenue P, Del Rio, TX 78840",
+      "phone": "830-774-8628",
+      "image": "./img/shelter/office/721863.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/del-rio-animal-shelter-721863/",
+      "imageUrl": "https://cdn.findpawpal.com/office/721863.jpg?f=webp&w=730"
+    }
+  ]
+}

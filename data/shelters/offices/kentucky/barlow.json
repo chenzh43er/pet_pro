@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:56:16.992301+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "barlow",
+    "name": "Barlow",
+    "label": "Barlow, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/barlow/",
+  "offices": [
+    {
+      "officeId": 110614,
+      "slug": "barlow-animal-control-110614",
+      "name": "Barlow Animal Control",
+      "address": "376 K C Dunn Road, Barlow, KY 42024",
+      "phone": "270-462-3440",
+      "image": "https://cdn.findpawpal.com/office/110614.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/barlow-animal-control-110614/"
+    }
+  ]
+}

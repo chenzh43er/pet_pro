@@ -1,0 +1,21 @@
+{
+  "officeId": 168009,
+  "slug": "gilbert-animal-control-168009",
+  "name": "Gilbert Animal Control",
+  "address": "928 West Palo Verde Street, Gilbert, AZ 85233",
+  "street": "928 West Palo Verde Street",
+  "addressCity": "Gilbert",
+  "stateCode": "AZ",
+  "zip": "85233",
+  "phone": "480-272-8992",
+  "image": "./img/shelter/office/168009.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/gilbert-animal-control-168009/",
+  "stateSlug": "arizona",
+  "stateName": "Arizona",
+  "citySlug": "gilbert",
+  "cityName": "Gilbert",
+  "cityLabel": "Gilbert, AZ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/arizona/gilbert/",
+  "fetchedAt": "2026-06-27T18:20:10.775181+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/168009.jpg?f=webp&w=730"
+}

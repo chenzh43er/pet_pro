@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:50:39.424689+00:00",
+  "state": {
+    "slug": "oregon",
+    "name": "Oregon"
+  },
+  "city": {
+    "slug": "hermiston",
+    "name": "Hermiston",
+    "label": "Hermiston, OR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oregon/hermiston/",
+  "offices": [
+    {
+      "officeId": 580606,
+      "slug": "hermiston-city-police-580606",
+      "name": "Hermiston City Police",
+      "address": "330 South 1st Street, Hermiston, OR 97838",
+      "phone": "541-567-5519",
+      "image": "./img/shelter/office/580606.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hermiston-city-police-580606/",
+      "imageUrl": "https://cdn.findpawpal.com/office/580606.jpg?f=webp&w=730"
+    }
+  ]
+}

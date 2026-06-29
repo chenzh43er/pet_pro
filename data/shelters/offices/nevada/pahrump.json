@@ -1,0 +1,65 @@
+{
+  "fetchedAt": "2026-06-27T19:23:26.736559+00:00",
+  "state": {
+    "slug": "nevada",
+    "name": "Nevada"
+  },
+  "city": {
+    "slug": "pahrump",
+    "name": "Pahrump",
+    "label": "Pahrump, NV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nevada/pahrump/",
+  "offices": [
+    {
+      "officeId": 7240,
+      "slug": "miracle-horse-rescue-inc-7240",
+      "name": "Miracle Horse Rescue, Inc.",
+      "address": "2220 West Simkins Road, Pahrump, NV 89060",
+      "phone": "775-751-1101",
+      "image": "./img/shelter/office/7240.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/miracle-horse-rescue-inc-7240/",
+      "imageUrl": "https://cdn.findpawpal.com/office/7240.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 7244,
+      "slug": "mariah-spca-7244",
+      "name": "Mariah SPCA",
+      "address": "4150 Manse Road, Pahrump, NV 89061",
+      "phone": "775-751-0788",
+      "image": "./img/shelter/office/7244.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mariah-spca-7244/",
+      "imageUrl": "https://cdn.findpawpal.com/office/7244.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 7252,
+      "slug": "hayburner-haven-equine-rescue-7252",
+      "name": "Hayburner Haven Equine Rescue",
+      "address": "2070 West Simkins Road, Pahrump, NV 89060",
+      "phone": "775-537-6962",
+      "image": "./img/shelter/office/7252.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hayburner-haven-equine-rescue-7252/",
+      "imageUrl": "https://cdn.findpawpal.com/office/7252.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 7290,
+      "slug": "dream-chaser-ranch-horse-rescue-7290",
+      "name": "Dream Chaser Ranch Horse Rescue",
+      "address": "3410 North Murphy Street, Pahrump, NV 89060",
+      "phone": "775-513-0945",
+      "image": "./img/shelter/office/7290.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dream-chaser-ranch-horse-rescue-7290/",
+      "imageUrl": "https://cdn.findpawpal.com/office/7290.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 7340,
+      "slug": "nye-county-animal-shelter-7340",
+      "name": "Nye County Animal Shelter",
+      "address": "1511 Siri Lane, Pahrump, NV 89060",
+      "phone": "775-751-7020",
+      "image": "./img/shelter/office/7340.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/nye-county-animal-shelter-7340/",
+      "imageUrl": "https://cdn.findpawpal.com/office/7340.jpg?f=webp&w=730"
+    }
+  ]
+}

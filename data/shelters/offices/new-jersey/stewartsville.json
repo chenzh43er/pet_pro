@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:29:08.072501+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "stewartsville",
+    "name": "Stewartsville",
+    "label": "Stewartsville, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/stewartsville/",
+  "offices": [
+    {
+      "officeId": 96456,
+      "slug": "stewartsville-animal-control-96456",
+      "name": "Stewartsville Animal Control",
+      "address": "2420 New Jersey 57, Stewartsville, NJ 08886",
+      "phone": "908-859-3060",
+      "image": "./img/shelter/office/96456.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/stewartsville-animal-control-96456/",
+      "imageUrl": "https://cdn.findpawpal.com/office/96456.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 104208,
+      "slug": "common-sense-for-animals-104208",
+      "name": "Common Sense For Animals",
+      "address": "2420 Highway 57, Stewartsville, NJ 08886",
+      "phone": "908-859-3060",
+      "image": "./img/shelter/office/104208.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/common-sense-for-animals-104208/",
+      "imageUrl": "https://cdn.findpawpal.com/office/104208.jpg?f=webp&w=730"
+    }
+  ]
+}

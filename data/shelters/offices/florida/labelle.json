@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:15:00.675511+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "labelle",
+    "name": "LaBelle",
+    "label": "LaBelle, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/labelle/",
+  "offices": [
+    {
+      "slug": "animal-rescue-inc-290033",
+      "name": "Animal Rescue Inc",
+      "address": "721 North Bridge Street, LaBelle, FL 33935",
+      "phone": "863-612-0228",
+      "image": "./img/shelter/office/290033.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-rescue-inc-290033/",
+      "imageUrl": "https://cdn.findpawpal.com/office/290033.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "caloosa-humane-society-inc-294651",
+      "name": "Caloosa Humane Society Inc",
+      "address": "1200 Pratt Boulevard, LaBelle, FL 33935",
+      "phone": "863-675-0997",
+      "image": "./img/shelter/office/294651.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/caloosa-humane-society-inc-294651/",
+      "imageUrl": "https://cdn.findpawpal.com/office/294651.jpg?f=webp&w=730"
+    }
+  ]
+}

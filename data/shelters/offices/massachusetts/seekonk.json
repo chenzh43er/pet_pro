@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:08:16.912553+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "seekonk",
+    "name": "Seekonk",
+    "label": "Seekonk, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/seekonk/",
+  "offices": [
+    {
+      "officeId": 39761,
+      "slug": "seekonk-animal-shelter-39761",
+      "name": "Seekonk Animal Shelter",
+      "address": "100 Peck Street, Seekonk, MA 02771",
+      "phone": "508-336-6663",
+      "image": "./img/shelter/office/39761.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/seekonk-animal-shelter-39761/",
+      "imageUrl": "https://cdn.findpawpal.com/office/39761.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 41064,
+      "slug": "seekonk-animal-shelter-41064",
+      "name": "Seekonk Animal Shelter",
+      "address": "100 Peck Street, Seekonk, MA 02771",
+      "phone": "508-336-6663",
+      "image": "./img/shelter/office/41064.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/seekonk-animal-shelter-41064/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41064.jpg?f=webp&w=730"
+    }
+  ]
+}

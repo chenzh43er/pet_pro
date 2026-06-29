@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:53:41.517486+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa"
+  },
+  "city": {
+    "slug": "mason",
+    "name": "Mason",
+    "label": "Mason, IA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/mason/",
+  "offices": [
+    {
+      "officeId": 327425,
+      "slug": "mason-city-animal-control-327425",
+      "name": "Mason City Animal Control",
+      "address": "78 South Georgia Avenue, Mason, IA 50401",
+      "phone": "641-421-3636",
+      "image": "./img/shelter/office/327425.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mason-city-animal-control-327425/",
+      "imageUrl": "https://cdn.findpawpal.com/office/327425.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 415987,
+      "slug": "humane-society-of-north-iowa-415987",
+      "name": "Humane Society of North Iowa",
+      "address": "2700 South Birch Drive, Mason, IA 50401",
+      "phone": "641-423-6241",
+      "image": "./img/shelter/office/415987.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-north-iowa-415987/",
+      "imageUrl": "https://cdn.findpawpal.com/office/415987.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:52:16.889514+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "colmar",
+    "name": "Colmar",
+    "label": "Colmar, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/colmar/",
+  "offices": [
+    {
+      "officeId": 428914,
+      "slug": "tails-of-the-tundra-siberian-husky-rescue-inc-428914",
+      "name": "Tails of the Tundra Siberian Husky Rescue, Inc.",
+      "address": "PO Box 612, Colmar, PA 18915",
+      "phone": "215-412-0270",
+      "image": "./img/shelter/office/428914.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tails-of-the-tundra-siberian-husky-rescue-inc-428914/",
+      "imageUrl": "https://cdn.findpawpal.com/office/428914.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 474185,
+      "slug": "stray-cat-blues-inc-474185",
+      "name": "Stray Cat Blues, Inc.",
+      "address": "PO Box 8, Colmar, PA 18915",
+      "phone": "215-631-1851",
+      "image": "./img/shelter/office/474185.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/stray-cat-blues-inc-474185/",
+      "imageUrl": "https://cdn.findpawpal.com/office/474185.jpg?f=webp&w=730"
+    }
+  ]
+}

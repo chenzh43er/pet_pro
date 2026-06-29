@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:40:16.983491+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "marble",
+    "name": "Marble",
+    "label": "Marble, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/marble/",
+  "offices": [
+    {
+      "officeId": 215612,
+      "slug": "marble-animal-shelter-215612",
+      "name": "Marble Animal Shelter",
+      "address": "7450 U.S. Highway 19, Marble, NC 28905",
+      "phone": "828-837-2304",
+      "image": "./img/shelter/office/215612.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/marble-animal-shelter-215612/",
+      "imageUrl": "https://cdn.findpawpal.com/office/215612.jpg?f=webp&w=730"
+    }
+  ]
+}

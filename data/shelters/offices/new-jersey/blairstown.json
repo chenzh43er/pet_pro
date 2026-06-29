@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:25:10.919420+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "blairstown",
+    "name": "Blairstown",
+    "label": "Blairstown, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/blairstown/",
+  "offices": [
+    {
+      "officeId": 95803,
+      "slug": "almost-home-dachshund-rescue-society-95803",
+      "name": "Almost Home Dachshund Rescue Society",
+      "address": "36 Lincoln Laurel Road, Blairstown, NJ 07825",
+      "phone": "",
+      "image": "./img/shelter/office/95803.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/almost-home-dachshund-rescue-society-95803/",
+      "imageUrl": "https://cdn.findpawpal.com/office/95803.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 100656,
+      "slug": "the-barnyard-sanctuary-100656",
+      "name": "The Barnyard Sanctuary",
+      "address": "54 Kerrs Corner Road, Blairstown, NJ 07825",
+      "phone": "973-670-4477",
+      "image": "./img/shelter/office/100656.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-barnyard-sanctuary-100656/",
+      "imageUrl": "https://cdn.findpawpal.com/office/100656.jpg?f=webp&w=730"
+    }
+  ]
+}

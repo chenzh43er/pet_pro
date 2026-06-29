@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:05:48.317382+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "hitchcock",
+    "name": "Hitchcock",
+    "label": "Hitchcock, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/hitchcock/",
+  "offices": [
+    {
+      "officeId": 537880,
+      "slug": "habitat-for-horses-537880",
+      "name": "Habitat For Horses",
+      "address": "6034 Terrebonne Road, Hitchcock, TX 77563",
+      "phone": "409-935-0277",
+      "image": "https://cdn.findpawpal.com/office/537880.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/habitat-for-horses-537880/"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 529171,
+  "slug": "brew-inc-529171",
+  "name": "BREW, Inc.",
+  "address": "5171 Waterway Drive, Dumfries, VA 22025",
+  "street": "5171 Waterway Drive",
+  "addressCity": "Dumfries",
+  "stateCode": "VA",
+  "zip": "22025",
+  "phone": "703-832-8697",
+  "image": "./img/shelter/office/529171.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/brew-inc-529171/",
+  "stateSlug": "virginia",
+  "stateName": "Virginia",
+  "citySlug": "dumfries",
+  "cityName": "Dumfries",
+  "cityLabel": "Dumfries, VA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/virginia/dumfries/",
+  "fetchedAt": "2026-06-27T20:13:42.512189+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/529171.jpg?f=webp&w=730"
+}

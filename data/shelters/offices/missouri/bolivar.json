@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:17:46.964838+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "bolivar",
+    "name": "Bolivar",
+    "label": "Bolivar, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/bolivar/",
+  "offices": [
+    {
+      "officeId": 241257,
+      "slug": "polk-county-humane-society-241257",
+      "name": "Polk County Humane Society",
+      "address": "4404 South 82nd Road, Bolivar, MO 65613",
+      "phone": "417-777-3647",
+      "image": "./img/shelter/office/241257.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/polk-county-humane-society-241257/",
+      "imageUrl": "https://cdn.findpawpal.com/office/241257.jpg?f=webp&w=730"
+    }
+  ]
+}

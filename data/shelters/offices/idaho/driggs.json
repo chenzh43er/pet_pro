@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T18:42:56.746834+00:00",
+  "state": {
+    "slug": "idaho",
+    "name": "Idaho"
+  },
+  "city": {
+    "slug": "driggs",
+    "name": "Driggs",
+    "label": "Driggs, ID"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/idaho/driggs/",
+  "offices": [
+    {
+      "officeId": 340046,
+      "slug": "driggs-animal-shelter-340046",
+      "name": "Driggs Animal Shelter",
+      "address": "15 South 1750 East, Driggs, ID 83422",
+      "phone": "208-354-3499",
+      "image": "https://cdn.findpawpal.com/office/340046.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/driggs-animal-shelter-340046/"
+    },
+    {
+      "officeId": 475104,
+      "slug": "teton-valley-humane-society-475104",
+      "name": "Teton Valley Humane Society",
+      "address": "185 East 25 North, Driggs, ID 83422",
+      "phone": "208-345-3499",
+      "image": "./img/shelter/office/475104.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/teton-valley-humane-society-475104/",
+      "imageUrl": "https://cdn.findpawpal.com/office/475104.jpg?f=webp&w=730"
+    }
+  ]
+}

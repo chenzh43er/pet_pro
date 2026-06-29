@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:30:04.285053+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "san-andreas",
+    "name": "San Andreas",
+    "label": "San Andreas, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/san-andreas/",
+  "offices": [
+    {
+      "officeId": 361804,
+      "slug": "humane-society-of-calaveras-county-361804",
+      "name": "Humane Society of Calaveras County",
+      "address": "PO Box 2065, San Andreas, CA 95249",
+      "phone": "209-795-3659",
+      "image": "./img/shelter/office/361804.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-calaveras-county-361804/",
+      "imageUrl": "https://cdn.findpawpal.com/office/361804.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 363598,
+      "slug": "calaveras-county-animal-control-363598",
+      "name": "Calaveras County Animal Control",
+      "address": "891 Mountain Ranch Road, San Andreas, CA 95249",
+      "phone": "209-754-6509",
+      "image": "./img/shelter/office/363598.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/calaveras-county-animal-control-363598/",
+      "imageUrl": "https://cdn.findpawpal.com/office/363598.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:43:13.803776+00:00",
+  "state": {
+    "slug": "idaho",
+    "name": "Idaho"
+  },
+  "city": {
+    "slug": "lewiston",
+    "name": "Lewiston",
+    "label": "Lewiston, ID"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/idaho/lewiston/",
+  "offices": [
+    {
+      "officeId": 339790,
+      "slug": "northern-idaho-animal-rescue-339790",
+      "name": "Northern Idaho Animal Rescue",
+      "address": "17259 Granite Lane, Lewiston, ID 83501",
+      "phone": "208-798-5585",
+      "image": "./img/shelter/office/339790.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/northern-idaho-animal-rescue-339790/",
+      "imageUrl": "https://cdn.findpawpal.com/office/339790.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 449488,
+      "slug": "lewis-clark-animal-shelter-449488",
+      "name": "Lewis Clark Animal Shelter",
+      "address": "6 Shelter Road, Lewiston, ID 83501",
+      "phone": "208-746-1623",
+      "image": "./img/shelter/office/449488.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lewis-clark-animal-shelter-449488/",
+      "imageUrl": "https://cdn.findpawpal.com/office/449488.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 488258,
+      "slug": "valley-spca-488258",
+      "name": "Valley SPCA",
+      "address": "925 Preston Avenue, Lewiston, ID 83501",
+      "phone": "208-743-0345",
+      "image": "./img/shelter/office/488258.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/valley-spca-488258/",
+      "imageUrl": "https://cdn.findpawpal.com/office/488258.jpg?f=webp&w=730"
+    }
+  ]
+}

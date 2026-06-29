@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:47:12.916870+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "trenton",
+    "name": "Trenton",
+    "label": "Trenton, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/trenton/",
+  "offices": [
+    {
+      "officeId": 640599,
+      "slug": "trenton-animal-control-640599",
+      "name": "Trenton Animal Control",
+      "address": "5225 Trenton Rd, Trenton, OH 45067",
+      "phone": "513-867-5727",
+      "image": "./img/shelter/office/640599.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/trenton-animal-control-640599/",
+      "imageUrl": "https://cdn.findpawpal.com/office/640599.jpg?f=webp&w=730"
+    }
+  ]
+}

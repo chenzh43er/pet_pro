@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:53:12.351062+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "hawley",
+    "name": "Hawley",
+    "label": "Hawley, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/hawley/",
+  "offices": [
+    {
+      "officeId": 688283,
+      "slug": "guardians-of-mercy-animal-688283",
+      "name": "Guardian's of Mercy Animal",
+      "address": "156 Cricket Hill Road, Hawley, PA 18428",
+      "phone": "570-226-1570",
+      "image": "https://cdn.findpawpal.com/office/688283.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/guardians-of-mercy-animal-688283/"
+    }
+  ]
+}

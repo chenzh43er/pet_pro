@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T20:20:26.389897+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "gerrardstown",
+    "name": "Gerrardstown",
+    "label": "Gerrardstown, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/gerrardstown/",
+  "offices": [
+    {
+      "officeId": 666996,
+      "slug": "life-line-fosters-midatlantic-666996",
+      "name": "Life Line Fosters Midatlantic",
+      "address": "430 Atwood Drive, Gerrardstown, WV 25420",
+      "phone": "304-229-0475",
+      "image": "https://cdn.findpawpal.com/office/666996.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/life-line-fosters-midatlantic-666996/"
+    },
+    {
+      "officeId": 666998,
+      "slug": "greyhound-rescue-inc-666998",
+      "name": "Greyhound Rescue, Inc.",
+      "address": "862 Cressen Drive, Gerrardstown, WV 25420",
+      "phone": "304-229-4944",
+      "image": "./img/shelter/office/666998.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhound-rescue-inc-666998/",
+      "imageUrl": "https://cdn.findpawpal.com/office/666998.jpg?f=webp&w=730"
+    }
+  ]
+}

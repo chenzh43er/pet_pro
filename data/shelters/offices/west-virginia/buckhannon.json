@@ -1,0 +1,43 @@
+{
+  "fetchedAt": "2026-06-27T20:19:59.521403+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "buckhannon",
+    "name": "Buckhannon",
+    "label": "Buckhannon, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/buckhannon/",
+  "offices": [
+    {
+      "officeId": 486769,
+      "slug": "upshur-county-humane-society-486769",
+      "name": "Upshur County Humane Society",
+      "address": "PO Box 2292, Buckhannon, WV 26201",
+      "phone": "304-472-8741",
+      "image": "./img/shelter/office/486769.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/upshur-county-humane-society-486769/",
+      "imageUrl": "https://cdn.findpawpal.com/office/486769.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 622592,
+      "slug": "pet-door-rescue-622592",
+      "name": "Pet Door Rescue",
+      "address": "356 South Tenney Drive, Buckhannon, WV 26201",
+      "phone": "304-439-1172",
+      "image": "https://cdn.findpawpal.com/office/622592.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-door-rescue-622592/"
+    },
+    {
+      "officeId": 622595,
+      "slug": "lewis-upshur-animal-control-facility-622595",
+      "name": "Lewis-Upshur Animal Control Facility",
+      "address": "318 Mud Lick Road, Buckhannon, WV 26201",
+      "phone": "304-472-3865",
+      "image": "https://cdn.findpawpal.com/office/622595.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/lewis-upshur-animal-control-facility-622595/"
+    }
+  ]
+}

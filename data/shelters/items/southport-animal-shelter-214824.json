@@ -1,0 +1,21 @@
+{
+  "officeId": 214824,
+  "slug": "southport-animal-shelter-214824",
+  "name": "Southport Animal Shelter",
+  "address": "201 East Moore Street, Southport, NC 28461",
+  "street": "201 East Moore Street",
+  "addressCity": "Southport",
+  "stateCode": "NC",
+  "zip": "28461",
+  "phone": "910-457-7926",
+  "image": "./img/shelter/office/214824.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/southport-animal-shelter-214824/",
+  "stateSlug": "north-carolina",
+  "stateName": "North Carolina",
+  "citySlug": "southport",
+  "cityName": "Southport",
+  "cityLabel": "Southport, NC",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/north-carolina/southport/",
+  "fetchedAt": "2026-06-27T19:41:22.490245+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/214824.jpg?f=webp&w=730"
+}

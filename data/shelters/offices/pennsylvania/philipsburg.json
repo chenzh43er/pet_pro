@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:54:20.224535+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "philipsburg",
+    "name": "Philipsburg",
+    "label": "Philipsburg, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/philipsburg/",
+  "offices": [
+    {
+      "officeId": 437383,
+      "slug": "clearfield-county-spca-437383",
+      "name": "Clearfield County SPCA",
+      "address": "541 Graham Station Road, Philipsburg, PA 16866",
+      "phone": "814-342-3810",
+      "image": "https://cdn.findpawpal.com/office/437383.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/clearfield-county-spca-437383/"
+    }
+  ]
+}

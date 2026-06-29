@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:48:20.364629+00:00",
+  "state": {
+    "slug": "oklahoma",
+    "name": "Oklahoma"
+  },
+  "city": {
+    "slug": "collinsville",
+    "name": "Collinsville",
+    "label": "Collinsville, OK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oklahoma/collinsville/",
+  "offices": [
+    {
+      "officeId": 580985,
+      "slug": "collinsville-municipal-animal-shelter-580985",
+      "name": "Collinsville Municipal Animal Shelter",
+      "address": "129th E Ave, Collinsville, OK 74021",
+      "phone": "918-371-1000",
+      "image": "./img/shelter/office/580985.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/collinsville-municipal-animal-shelter-580985/",
+      "imageUrl": "https://cdn.findpawpal.com/office/580985.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 585848,
+      "slug": "ward-wiseman-animal-haven-585848",
+      "name": "Ward-Wiseman Animal Haven",
+      "address": "15628 North 129th East Avenue, Collinsville, OK 74021",
+      "phone": "918-371-1009",
+      "image": "./img/shelter/office/585848.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ward-wiseman-animal-haven-585848/",
+      "imageUrl": "https://cdn.findpawpal.com/office/585848.jpg?f=webp&w=730"
+    }
+  ]
+}

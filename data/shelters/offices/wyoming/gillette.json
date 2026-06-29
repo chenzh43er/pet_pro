@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T20:25:04.488759+00:00",
+  "state": {
+    "slug": "wyoming",
+    "name": "Wyoming"
+  },
+  "city": {
+    "slug": "gillette",
+    "name": "Gillette",
+    "label": "Gillette, WY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wyoming/gillette/",
+  "offices": [
+    {
+      "officeId": 576730,
+      "slug": "gillette-animal-shelter-576730",
+      "name": "Gillette Animal Shelter",
+      "address": "950 West Warlow Drive, Gillette, WY 82716",
+      "phone": "307-686-5249",
+      "image": "https://cdn.findpawpal.com/office/576730.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/gillette-animal-shelter-576730/"
+    },
+    {
+      "officeId": 653529,
+      "slug": "campbell-county-humane-society-653529",
+      "name": "Campbell County Humane Society",
+      "address": "PO Box 502, Gillette, WY 82717",
+      "phone": "307-682-7465",
+      "image": "./img/shelter/office/653529.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/campbell-county-humane-society-653529/",
+      "imageUrl": "https://cdn.findpawpal.com/office/653529.jpg?f=webp&w=730"
+    }
+  ]
+}

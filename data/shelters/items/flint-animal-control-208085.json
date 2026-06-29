@@ -1,0 +1,21 @@
+{
+  "officeId": 208085,
+  "slug": "flint-animal-control-208085",
+  "name": "Flint Animal Control",
+  "address": "1621 Crescent Drive, Flint, MI 48503",
+  "street": "1621 Crescent Drive",
+  "addressCity": "Flint",
+  "stateCode": "MI",
+  "zip": "48503",
+  "phone": "810-221-1983",
+  "image": "./img/shelter/office/208085.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/flint-animal-control-208085/",
+  "stateSlug": "michigan",
+  "stateName": "Michigan",
+  "citySlug": "flint",
+  "cityName": "Flint",
+  "cityLabel": "Flint, MI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/michigan/flint/",
+  "fetchedAt": "2026-06-27T19:10:28.847542+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/208085.jpg?f=webp&w=730"
+}

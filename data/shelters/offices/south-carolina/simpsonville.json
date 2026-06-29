@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:58:15.395090+00:00",
+  "state": {
+    "slug": "south-carolina",
+    "name": "South Carolina"
+  },
+  "city": {
+    "slug": "simpsonville",
+    "name": "Simpsonville",
+    "label": "Simpsonville, SC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-carolina/simpsonville/",
+  "offices": [
+    {
+      "officeId": 592611,
+      "slug": "concerned-citizens-for-animals-592611",
+      "name": "Concerned Citizens For Animals",
+      "address": "3627 Fork Shoals Road, Simpsonville, SC 29680",
+      "phone": "864-243-4222",
+      "image": "https://cdn.findpawpal.com/office/592611.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/concerned-citizens-for-animals-592611/"
+    },
+    {
+      "officeId": 651550,
+      "slug": "fund-for-animals-rabbit-sanctuary-651550",
+      "name": "Fund for Animals Rabbit Sanctuary",
+      "address": "PO Box 80036, Simpsonville, SC 29680",
+      "phone": "864-963-4389",
+      "image": "./img/shelter/office/651550.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fund-for-animals-rabbit-sanctuary-651550/",
+      "imageUrl": "https://cdn.findpawpal.com/office/651550.jpg?f=webp&w=730"
+    }
+  ]
+}

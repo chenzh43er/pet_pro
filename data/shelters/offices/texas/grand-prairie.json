@@ -1,0 +1,43 @@
+{
+  "fetchedAt": "2026-06-27T20:05:24.542250+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "grand-prairie",
+    "name": "Grand Prairie",
+    "label": "Grand Prairie, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/grand-prairie/",
+  "offices": [
+    {
+      "officeId": 478574,
+      "slug": "texas-federation-of-humane-societies-478574",
+      "name": "Texas Federation of Humane Societies",
+      "address": "1225 Highway 161, Grand Prairie, TX 75051",
+      "phone": "972-237-8578",
+      "image": "https://cdn.findpawpal.com/office/478574.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/texas-federation-of-humane-societies-478574/"
+    },
+    {
+      "officeId": 539325,
+      "slug": "mid-cities-humane-society-539325",
+      "name": "Mid-Cities Humane Society",
+      "address": "PO Box 540493, Grand Prairie, TX 75054",
+      "phone": "214-263-4567",
+      "image": "https://cdn.findpawpal.com/office/539325.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/mid-cities-humane-society-539325/"
+    },
+    {
+      "officeId": 635331,
+      "slug": "doberman-rescue-of-north-texas-635331",
+      "name": "Doberman Rescue of North Texas",
+      "address": "2021 Rock Creek Drive, Grand Prairie, TX 75050",
+      "phone": "972-606-1510",
+      "image": "./img/shelter/office/635331.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/doberman-rescue-of-north-texas-635331/",
+      "imageUrl": "https://cdn.findpawpal.com/office/635331.jpg?f=webp&w=730"
+    }
+  ]
+}

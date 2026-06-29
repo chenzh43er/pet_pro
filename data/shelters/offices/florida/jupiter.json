@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:14:54.349380+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "jupiter",
+    "name": "Jupiter",
+    "label": "Jupiter, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/jupiter/",
+  "offices": [
+    {
+      "slug": "safe-harbor-animal-sanctuary-and-hospital-323629",
+      "name": "Safe Harbor Animal Sanctuary & Hospital",
+      "address": "401 Maplewood Drive, Jupiter, FL 33458",
+      "phone": "561-529-2783",
+      "image": "./img/shelter/office/323629.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/safe-harbor-animal-sanctuary-and-hospital-323629/",
+      "imageUrl": "https://cdn.findpawpal.com/office/323629.jpg?f=webp&w=730"
+    }
+  ]
+}

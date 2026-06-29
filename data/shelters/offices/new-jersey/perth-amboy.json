@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:28:17.163303+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "perth-amboy",
+    "name": "Perth Amboy",
+    "label": "Perth Amboy, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/perth-amboy/",
+  "offices": [
+    {
+      "officeId": 101348,
+      "slug": "perth-amboy-animal-shelter-101348",
+      "name": "Perth Amboy Animal Shelter",
+      "address": "599 Fayette Street, Perth Amboy, NJ 08861",
+      "phone": "732-324-3877",
+      "image": "./img/shelter/office/101348.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/perth-amboy-animal-shelter-101348/",
+      "imageUrl": "https://cdn.findpawpal.com/office/101348.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 106758,
+      "slug": "perth-amboy-animal-shelter-106758",
+      "name": "Perth Amboy Animal Shelter",
+      "address": "599 Fayette Street, Perth Amboy, NJ 08861",
+      "phone": "732-324-3877",
+      "image": "./img/shelter/office/106758.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/perth-amboy-animal-shelter-106758/",
+      "imageUrl": "https://cdn.findpawpal.com/office/106758.jpg?f=webp&w=730"
+    }
+  ]
+}

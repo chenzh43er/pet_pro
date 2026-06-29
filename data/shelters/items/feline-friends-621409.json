@@ -1,0 +1,21 @@
+{
+  "officeId": 621409,
+  "slug": "feline-friends-621409",
+  "name": "Feline Friends",
+  "address": "6515 Sexton Drive Northwest, Olympia, WA 98502",
+  "street": "6515 Sexton Drive Northwest",
+  "addressCity": "Olympia",
+  "stateCode": "WA",
+  "zip": "98502",
+  "phone": "360-866-0599",
+  "image": "./img/shelter/office/621409.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/feline-friends-621409/",
+  "stateSlug": "washington",
+  "stateName": "Washington",
+  "citySlug": "olympia",
+  "cityName": "Olympia",
+  "cityLabel": "Olympia, WA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/washington/olympia/",
+  "fetchedAt": "2026-06-27T20:18:27.800773+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/621409.jpg?f=webp&w=730"
+}

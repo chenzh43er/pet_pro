@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:13:57.343620+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "defuniak-springs",
+    "name": "DeFuniak Springs",
+    "label": "DeFuniak Springs, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/defuniak-springs/",
+  "offices": [
+    {
+      "slug": "walton-county-animal-control-326522",
+      "name": "Walton County Animal Control",
+      "address": "365 Triple G Rd, DeFuniak Springs, FL 32433",
+      "phone": "850-892-8682",
+      "image": "./img/shelter/office/326522.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/walton-county-animal-control-326522/",
+      "imageUrl": "https://cdn.findpawpal.com/office/326522.jpg?f=webp&w=730"
+    }
+  ]
+}

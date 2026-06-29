@@ -1,0 +1,37 @@
+{
+  "fetchedAt": "2026-06-28T00:00:00+00:00",
+  "slug": "exotic-by-nature-exotic-pet-sanctuary-6141",
+  "officeId": 6141,
+  "mapEmbedUrl": "https://www.google.com/maps/embed/v1/place?key=AIzaSyDoj3wo6gupOb-YFI3uxVZ-OHs_wpOL5Nw&q=511+1st+Street+Southwest,+Alabaster,+AL+35007",
+  "description": "Find Exotic by Nature Exotic Pet Sanctuary in Alabaster, AL 35007 to get information on adoptable pet list and adoption service. Also, check nearby rescue centers, SPCA, and humane societies.",
+  "nearbyShelters": [
+    {
+      "slug": "pelham-animal-control-6857",
+      "name": "Pelham Animal Control",
+      "address": "3162 Pelham Parkway, Pelham, AL 35124",
+      "phone": "205-620-6416",
+      "image": "https://cdn.findpawpal.com/office/6857.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alabama-animal-rescue-6123",
+      "name": "Alabama Animal Rescue",
+      "address": "45 Hunters Trce, Pelham, AL 35124",
+      "phone": "205-621-2157",
+      "image": "https://cdn.findpawpal.com/office/6123.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hoover-animal-control-6955",
+      "name": "Hoover Animal Control",
+      "address": "2020 Valleydale Road, Birmingham, AL 35244",
+      "phone": "205-444-7760",
+      "image": "https://cdn.findpawpal.com/office/6955.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alabama-state-animal-shelter-6951",
+      "name": "Alabama State Animal Shelter",
+      "address": "5220 Princeton Way, Hoover, AL 35226",
+      "phone": "205-982-6801",
+      "image": "https://cdn.findpawpal.com/office/6951.jpg?f=webp&w=730"
+    }
+  ]
+}

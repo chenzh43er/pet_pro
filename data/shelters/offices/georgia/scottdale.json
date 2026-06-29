@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:41:27.670995+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "scottdale",
+    "name": "Scottdale",
+    "label": "Scottdale, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/scottdale/",
+  "offices": [
+    {
+      "officeId": 148357,
+      "slug": "georgia-f-e-r-r-e-t-s-148357",
+      "name": "Georgia F.E.R.R.E.T.S.",
+      "address": "443 Patterson Avenue, Scottdale, GA 30079",
+      "phone": "404-343-1245",
+      "image": "./img/shelter/office/148357.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia-f-e-r-r-e-t-s-148357/",
+      "imageUrl": "https://cdn.findpawpal.com/office/148357.jpg?f=webp&w=730"
+    }
+  ]
+}

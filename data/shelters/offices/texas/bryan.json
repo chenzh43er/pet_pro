@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T20:03:28.630350+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "bryan",
+    "name": "Bryan",
+    "label": "Bryan, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/bryan/",
+  "offices": [
+    {
+      "officeId": 519548,
+      "slug": "bryan-animal-shelter-519548",
+      "name": "Bryan Animal Shelter",
+      "address": "2207 Finfeather Road, Bryan, TX 77801",
+      "phone": "979-775-5755",
+      "image": "./img/shelter/office/519548.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bryan-animal-shelter-519548/",
+      "imageUrl": "https://cdn.findpawpal.com/office/519548.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 538541,
+      "slug": "brazos-animal-shelter-inc-538541",
+      "name": "Brazos Animal Shelter Inc",
+      "address": "5359 Leonard Road, Bryan, TX 77807",
+      "phone": "979-775-5755",
+      "image": "https://cdn.findpawpal.com/office/538541.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/brazos-animal-shelter-inc-538541/"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T20:13:28.894215+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "covington",
+    "name": "Covington",
+    "label": "Covington, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/covington/",
+  "offices": [
+    {
+      "officeId": 511460,
+      "slug": "alleghany-county-animal-control-511460",
+      "name": "Alleghany County Animal Control",
+      "address": "265 West Main Street, Covington, VA 24426",
+      "phone": "540-965-1770",
+      "image": "./img/shelter/office/511460.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/alleghany-county-animal-control-511460/",
+      "imageUrl": "https://cdn.findpawpal.com/office/511460.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 562093,
+      "slug": "alleghany-humane-society-562093",
+      "name": "Alleghany Humane Society",
+      "address": "9313 Rich Patch Road, Covington, VA 24426",
+      "phone": "540-862-2436",
+      "image": "./img/shelter/office/562093.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/alleghany-humane-society-562093/",
+      "imageUrl": "https://cdn.findpawpal.com/office/562093.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 644841,
+      "slug": "covington-city-animal-control-644841",
+      "name": "Covington City Animal Control",
+      "address": "333 West Locust Street, Covington, VA 24426",
+      "phone": "540-965-6333",
+      "image": "./img/shelter/office/644841.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/covington-city-animal-control-644841/",
+      "imageUrl": "https://cdn.findpawpal.com/office/644841.jpg?f=webp&w=730"
+    }
+  ]
+}

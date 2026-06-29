@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:03:08.108063+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "blanco",
+    "name": "Blanco",
+    "label": "Blanco, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/blanco/",
+  "offices": [
+    {
+      "officeId": 702108,
+      "slug": "texas-animal-guardians-702108",
+      "name": "Texas Animal Guardians",
+      "address": "PO Box 2603, Blanco, TX 78606",
+      "phone": "512-539-0545",
+      "image": "./img/shelter/office/702108.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/texas-animal-guardians-702108/",
+      "imageUrl": "https://cdn.findpawpal.com/office/702108.jpg?f=webp&w=730"
+    }
+  ]
+}

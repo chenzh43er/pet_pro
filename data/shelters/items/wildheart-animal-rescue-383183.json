@@ -1,0 +1,21 @@
+{
+  "officeId": 383183,
+  "slug": "wildheart-animal-rescue-383183",
+  "name": "Wildheart Animal Rescue",
+  "address": "56372 Paseo Los Ninos, Yucca Valley, CA 92284",
+  "street": "56372 Paseo Los Ninos",
+  "addressCity": "Yucca Valley",
+  "stateCode": "CA",
+  "zip": "92284",
+  "phone": "760-369-2400",
+  "image": "./img/shelter/office/383183.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/wildheart-animal-rescue-383183/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "yucca-valley",
+  "cityName": "Yucca Valley",
+  "cityLabel": "Yucca Valley, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/yucca-valley/",
+  "fetchedAt": "2026-06-27T18:32:36.751053+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/383183.jpg?f=webp&w=730"
+}

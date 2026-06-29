@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T19:38:11.508029+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "boone",
+    "name": "Boone",
+    "label": "Boone, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/boone/",
+  "offices": [
+    {
+      "officeId": 231142,
+      "slug": "high-country-friends-for-life-231142",
+      "name": "High Country Friends for Life",
+      "address": "PO Box 3226, Boone, NC 28607",
+      "phone": "828-964-8828",
+      "image": "./img/shelter/office/231142.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/high-country-friends-for-life-231142/",
+      "imageUrl": "https://cdn.findpawpal.com/office/231142.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 241133,
+      "slug": "watauga-animal-control-department-241133",
+      "name": "Watauga Animal Control Department",
+      "address": "672 Landfill Road, Boone, NC 28607",
+      "phone": "828-262-1672",
+      "image": "https://cdn.findpawpal.com/office/241133.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/watauga-animal-control-department-241133/"
+    },
+    {
+      "officeId": 260689,
+      "slug": "boone-animal-shelter-260689",
+      "name": "Boone Animal Shelter",
+      "address": "200 Casey Lane, Boone, NC 28607",
+      "phone": "828-264-7865",
+      "image": "./img/shelter/office/260689.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/boone-animal-shelter-260689/",
+      "imageUrl": "https://cdn.findpawpal.com/office/260689.jpg?f=webp&w=730"
+    }
+  ]
+}

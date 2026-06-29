@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:26:48.755241+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "kenilworth",
+    "name": "Kenilworth",
+    "label": "Kenilworth, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/kenilworth/",
+  "offices": [
+    {
+      "officeId": 99793,
+      "slug": "dalmatian-rescue-of-north-jersey-99793",
+      "name": "Dalmatian Rescue of North Jersey",
+      "address": "PO Box 331, Kenilworth, NJ 07033",
+      "phone": "908-810-0639",
+      "image": "./img/shelter/office/99793.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dalmatian-rescue-of-north-jersey-99793/",
+      "imageUrl": "https://cdn.findpawpal.com/office/99793.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 104060,
+      "slug": "new-life-boxer-rescue-104060",
+      "name": "New Life Boxer Rescue",
+      "address": "PO Box 834, Kenilworth, NJ 07033",
+      "phone": "855-422-6937",
+      "image": "./img/shelter/office/104060.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-life-boxer-rescue-104060/",
+      "imageUrl": "https://cdn.findpawpal.com/office/104060.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:08:22.833082+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "south-weymouth",
+    "name": "South Weymouth",
+    "label": "South Weymouth, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/south-weymouth/",
+  "offices": [
+    {
+      "officeId": 40287,
+      "slug": "pet-parents-foundation-40287",
+      "name": "Pet Parents Foundation",
+      "address": "1132 Main Street, South Weymouth, MA 02190",
+      "phone": "781-340-1234",
+      "image": "./img/shelter/office/40287.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-parents-foundation-40287/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40287.jpg?f=webp&w=730"
+    }
+  ]
+}

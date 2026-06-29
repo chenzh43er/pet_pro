@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-06-27T18:31:43.833852+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "universal-city",
+    "name": "Universal City",
+    "label": "Universal City, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/universal-city/",
+  "offices": [
+    {
+      "slug": "ark-trust-inc-483474",
+      "name": "Ark Trust, Inc.",
+      "address": "PO Box 8191, Universal City, CA 91618",
+      "phone": "818-501-2275",
+      "image": "https://cdn.findpawpal.com/office/483474.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/ark-trust-inc-483474/"
+    }
+  ]
+}

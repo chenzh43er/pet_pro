@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:24:28.014343+00:00",
+  "state": {
+    "slug": "new-hampshire",
+    "name": "New Hampshire"
+  },
+  "city": {
+    "slug": "newfields",
+    "name": "Newfields",
+    "label": "Newfields, NH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-hampshire/newfields/",
+  "offices": [
+    {
+      "officeId": 44000,
+      "slug": "cats1st-44000",
+      "name": "Cats1st",
+      "address": "PO Box 46, Newfields, NH 03856",
+      "phone": "603-760-7877",
+      "image": "./img/shelter/office/44000.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cats1st-44000/",
+      "imageUrl": "https://cdn.findpawpal.com/office/44000.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:42:16.274837+00:00",
+  "state": {
+    "slug": "north-dakota",
+    "name": "North Dakota"
+  },
+  "city": {
+    "slug": "bowman",
+    "name": "Bowman",
+    "label": "Bowman, ND"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-dakota/bowman/",
+  "offices": [
+    {
+      "officeId": 401894,
+      "slug": "j-and-s-animal-shelter-401894",
+      "name": "J and S Animal Shelter",
+      "address": "8105 142nd Ave SW, Bowman, ND 58623",
+      "phone": "701-523-7291",
+      "image": "./img/shelter/office/401894.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/j-and-s-animal-shelter-401894/",
+      "imageUrl": "https://cdn.findpawpal.com/office/401894.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 401899,
+      "slug": "paws-401899",
+      "name": "PAWS",
+      "address": "1704 2nd Street Northwest, Bowman, ND 58623",
+      "phone": "701-523-3520",
+      "image": "https://cdn.findpawpal.com/office/401899.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/paws-401899/"
+    }
+  ]
+}

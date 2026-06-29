@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:10:10.840401+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "dowagiac",
+    "name": "Dowagiac",
+    "label": "Dowagiac, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/dowagiac/",
+  "offices": [
+    {
+      "officeId": 207488,
+      "slug": "animal-service-league-inc-207488",
+      "name": "Animal Service League, Inc.",
+      "address": "PO Box 185, Dowagiac, MI 49047",
+      "phone": "269-782-9252",
+      "image": "https://cdn.findpawpal.com/office/207488.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-service-league-inc-207488/"
+    }
+  ]
+}

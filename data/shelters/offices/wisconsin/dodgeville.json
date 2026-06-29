@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:22:25.846851+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "dodgeville",
+    "name": "Dodgeville",
+    "label": "Dodgeville, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/dodgeville/",
+  "offices": [
+    {
+      "officeId": 520106,
+      "slug": "iowa-county-humane-society-520106",
+      "name": "Iowa County Humane Society",
+      "address": "305 Co Highway Yz, Dodgeville, WI 53533",
+      "phone": "608-935-1381",
+      "image": "./img/shelter/office/520106.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa-county-humane-society-520106/",
+      "imageUrl": "https://cdn.findpawpal.com/office/520106.jpg?f=webp&w=730"
+    }
+  ]
+}

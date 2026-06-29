@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T18:26:17.142058+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "grass-valley",
+    "name": "Grass Valley",
+    "label": "Grass Valley, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/grass-valley/",
+  "offices": [
+    {
+      "officeId": 388536,
+      "slug": "animalsave-388536",
+      "name": "Animalsave",
+      "address": "137 Joerschke Drive, Grass Valley, CA 95945",
+      "phone": "530-271-7071",
+      "image": "./img/shelter/office/388536.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animalsave-388536/",
+      "imageUrl": "https://cdn.findpawpal.com/office/388536.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 474441,
+      "slug": "nevada-county-animal-control-474441",
+      "name": "Nevada County Animal Control",
+      "address": "14647 McCourtney Road, Grass Valley, CA 95949",
+      "phone": "530-273-2179",
+      "image": "./img/shelter/office/474441.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada-county-animal-control-474441/",
+      "imageUrl": "https://cdn.findpawpal.com/office/474441.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 483660,
+      "slug": "pet-adoption-league-483660",
+      "name": "Pet Adoption League",
+      "address": "PO Box 3303, Grass Valley, CA 95945",
+      "phone": "530-273-7958",
+      "image": "./img/shelter/office/483660.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-adoption-league-483660/",
+      "imageUrl": "https://cdn.findpawpal.com/office/483660.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 667892,
+      "slug": "grass-valley-animal-control-grass-valley-and-nevada-city-animal-shelter-667892",
+      "name": "Grass Valley Animal Control - Grass Valley and Nevada City Animal Shelter",
+      "address": "556 Freeman Lane, Grass Valley, CA 95949",
+      "phone": "530-477-4630",
+      "image": "./img/shelter/office/667892.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/grass-valley-animal-control-grass-valley-and-nevada-city-animal-shelter-667892/",
+      "imageUrl": "https://cdn.findpawpal.com/office/667892.jpg?f=webp&w=730"
+    }
+  ]
+}

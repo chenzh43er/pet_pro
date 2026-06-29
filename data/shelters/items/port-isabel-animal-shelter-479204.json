@@ -1,0 +1,21 @@
+{
+  "officeId": 479204,
+  "slug": "port-isabel-animal-shelter-479204",
+  "name": "Port Isabel Animal Shelter",
+  "address": "262 Woody Ln, Port Isabel, TX 78578",
+  "street": "262 Woody Ln",
+  "addressCity": "Port Isabel",
+  "stateCode": "TX",
+  "zip": "78578",
+  "phone": "956-943-3888",
+  "image": "./img/shelter/office/479204.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/port-isabel-animal-shelter-479204/",
+  "stateSlug": "texas",
+  "stateName": "Texas",
+  "citySlug": "port-isabel",
+  "cityName": "Port Isabel",
+  "cityLabel": "Port Isabel, TX",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/texas/port-isabel/",
+  "fetchedAt": "2026-06-27T20:08:31.367985+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/479204.jpg?f=webp&w=730"
+}

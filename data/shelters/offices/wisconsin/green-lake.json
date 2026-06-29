@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T20:22:48.400993+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "green-lake",
+    "name": "Green Lake",
+    "label": "Green Lake, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/green-lake/",
+  "offices": [
+    {
+      "officeId": 490132,
+      "slug": "green-lake-county-humane-society-490132",
+      "name": "Green Lake County Humane Society",
+      "address": "365 Lake Street, Green Lake, WI 54941",
+      "phone": "608-325-9600",
+      "image": "https://cdn.findpawpal.com/office/490132.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/green-lake-county-humane-society-490132/"
+    },
+    {
+      "officeId": 533713,
+      "slug": "green-lake-area-animal-shelter-533713",
+      "name": "Green Lake Area Animal Shelter",
+      "address": "PO Box 86, Green Lake, WI 54941",
+      "phone": "920-294-3042",
+      "image": "./img/shelter/office/533713.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/green-lake-area-animal-shelter-533713/",
+      "imageUrl": "https://cdn.findpawpal.com/office/533713.jpg?f=webp&w=730"
+    }
+  ]
+}

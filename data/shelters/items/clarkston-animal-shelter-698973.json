@@ -1,0 +1,21 @@
+{
+  "officeId": 698973,
+  "slug": "clarkston-animal-shelter-698973",
+  "name": "Clarkston Animal Shelter",
+  "address": "830 5th Street, Clarkston, WA 99403",
+  "street": "830 5th Street",
+  "addressCity": "Clarkston",
+  "stateCode": "WA",
+  "zip": "99403",
+  "phone": "509-758-1675",
+  "image": "./img/shelter/office/698973.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/clarkston-animal-shelter-698973/",
+  "stateSlug": "washington",
+  "stateName": "Washington",
+  "citySlug": "clarkston",
+  "cityName": "Clarkston",
+  "cityLabel": "Clarkston, WA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/washington/clarkston/",
+  "fetchedAt": "2026-06-27T20:17:31.180882+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/698973.jpg?f=webp&w=730"
+}

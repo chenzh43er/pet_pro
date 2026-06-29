@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:52:21.389573+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "coplay",
+    "name": "Coplay",
+    "label": "Coplay, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/coplay/",
+  "offices": [
+    {
+      "officeId": 452986,
+      "slug": "fresh-start-bird-rescue-452986",
+      "name": "Fresh Start Bird Rescue",
+      "address": "32 North 5th Street, Coplay, PA 18037",
+      "phone": "610-443-0114",
+      "image": "./img/shelter/office/452986.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fresh-start-bird-rescue-452986/",
+      "imageUrl": "https://cdn.findpawpal.com/office/452986.jpg?f=webp&w=730"
+    }
+  ]
+}

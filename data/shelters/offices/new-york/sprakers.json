@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:37:00.469533+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "sprakers",
+    "name": "Sprakers",
+    "label": "Sprakers, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/sprakers/",
+  "offices": [
+    {
+      "officeId": 312135,
+      "slug": "ayres-memorial-animal-shelter-312135",
+      "name": "Ayres Memorial Animal Shelter",
+      "address": "133 Hilltop Road, Sprakers, NY 12166",
+      "phone": "518-673-5670",
+      "image": "./img/shelter/office/312135.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ayres-memorial-animal-shelter-312135/",
+      "imageUrl": "https://cdn.findpawpal.com/office/312135.jpg?f=webp&w=730"
+    }
+  ]
+}

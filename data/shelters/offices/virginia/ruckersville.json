@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:15:58.369842+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "ruckersville",
+    "name": "Ruckersville",
+    "label": "Ruckersville, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/ruckersville/",
+  "offices": [
+    {
+      "officeId": 579014,
+      "slug": "madison-greene-humane-society-579014",
+      "name": "Madison-Greene Humane Society",
+      "address": "375 Mays Road, Ruckersville, VA 22968",
+      "phone": "434-985-3203",
+      "image": "https://cdn.findpawpal.com/office/579014.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/madison-greene-humane-society-579014/"
+    }
+  ]
+}

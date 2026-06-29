@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:45:53.285394+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "hanover",
+    "name": "Hanover",
+    "label": "Hanover, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/hanover/",
+  "offices": [
+    {
+      "officeId": 414478,
+      "slug": "jo-daviess-county-animal-control-414478",
+      "name": "Jo Daviess County Animal Control",
+      "address": "1 Commercial Drive, Hanover, IL 61041",
+      "phone": "815-591-2625",
+      "image": "./img/shelter/office/414478.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/jo-daviess-county-animal-control-414478/",
+      "imageUrl": "https://cdn.findpawpal.com/office/414478.jpg?f=webp&w=730"
+    }
+  ]
+}

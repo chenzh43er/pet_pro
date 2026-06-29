@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:03:59.945470+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "commerce",
+    "name": "Commerce",
+    "label": "Commerce, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/commerce/",
+  "offices": [
+    {
+      "officeId": 478111,
+      "slug": "commerce-humane-association-478111",
+      "name": "Commerce Humane Association",
+      "address": "PO Box 2, Commerce, TX 75429",
+      "phone": "",
+      "image": "./img/shelter/office/478111.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/commerce-humane-association-478111/",
+      "imageUrl": "https://cdn.findpawpal.com/office/478111.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 525500,
+      "slug": "commerce-city-animal-shelter-525500",
+      "name": "Commerce City Animal Shelter",
+      "address": "1119 Alamo Street, Commerce, TX 75428",
+      "phone": "903-886-1100",
+      "image": "./img/shelter/office/525500.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/commerce-city-animal-shelter-525500/",
+      "imageUrl": "https://cdn.findpawpal.com/office/525500.jpg?f=webp&w=730"
+    }
+  ]
+}

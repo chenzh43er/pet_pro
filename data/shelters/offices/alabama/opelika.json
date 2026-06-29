@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:18:18.631358+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "opelika",
+    "name": "Opelika",
+    "label": "Opelika, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/opelika/",
+  "offices": [
+    {
+      "slug": "lee-county-animal-control-6812",
+      "name": "Lee County Animal Control",
+      "address": "1111 Auburn Street, Opelika, AL 36801",
+      "phone": "334-737-7013",
+      "image": "./img/shelter/office/6812.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lee-county-animal-control-6812/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6812.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:14:42.833049+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "lancaster",
+    "name": "Lancaster",
+    "label": "Lancaster, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/lancaster/",
+  "offices": [
+    {
+      "officeId": 511383,
+      "slug": "lancaster-county-animal-shelter-511383",
+      "name": "Lancaster County Animal Shelter",
+      "address": "3156 Regina Road, Lancaster, VA 22503",
+      "phone": "804-462-7175",
+      "image": "./img/shelter/office/511383.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lancaster-county-animal-shelter-511383/",
+      "imageUrl": "https://cdn.findpawpal.com/office/511383.jpg?f=webp&w=730"
+    }
+  ]
+}

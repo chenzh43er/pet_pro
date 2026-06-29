@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:23:34.320295+00:00",
+  "state": {
+    "slug": "nevada",
+    "name": "Nevada"
+  },
+  "city": {
+    "slug": "tonopah",
+    "name": "Tonopah",
+    "label": "Tonopah, NV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nevada/tonopah/",
+  "offices": [
+    {
+      "officeId": 715794,
+      "slug": "tonopah-animal-shelter-715794",
+      "name": "Tonopah Animal Shelter",
+      "address": "20 Goldfinch Ln, Tonopah, NV 89049",
+      "phone": "775-482-8858",
+      "image": "./img/shelter/office/715794.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tonopah-animal-shelter-715794/",
+      "imageUrl": "https://cdn.findpawpal.com/office/715794.jpg?f=webp&w=730"
+    }
+  ]
+}

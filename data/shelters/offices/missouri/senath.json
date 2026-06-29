@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:20:31.257375+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "senath",
+    "name": "Senath",
+    "label": "Senath, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/senath/",
+  "offices": [
+    {
+      "officeId": 192293,
+      "slug": "senath-animal-control-192293",
+      "name": "Senath Animal Control",
+      "address": "PO Box 606, Senath, MO 63876",
+      "phone": "573-738-2346",
+      "image": "./img/shelter/office/192293.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/senath-animal-control-192293/",
+      "imageUrl": "https://cdn.findpawpal.com/office/192293.jpg?f=webp&w=730"
+    }
+  ]
+}

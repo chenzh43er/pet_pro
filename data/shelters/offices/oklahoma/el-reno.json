@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:48:30.679874+00:00",
+  "state": {
+    "slug": "oklahoma",
+    "name": "Oklahoma"
+  },
+  "city": {
+    "slug": "el-reno",
+    "name": "El Reno",
+    "label": "El Reno, OK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oklahoma/el-reno/",
+  "offices": [
+    {
+      "officeId": 568914,
+      "slug": "el-reno-animal-shelter-568914",
+      "name": "El Reno Animal Shelter",
+      "address": "2400 Spur Lane, El Reno, OK 73036",
+      "phone": "405-262-8883",
+      "image": "./img/shelter/office/568914.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/el-reno-animal-shelter-568914/",
+      "imageUrl": "https://cdn.findpawpal.com/office/568914.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 580834,
+      "slug": "guardian-cat-sanctuary-580834",
+      "name": "Guardian Cat Sanctuary",
+      "address": "PO Box 914, El Reno, OK 73036",
+      "phone": "405-262-3546",
+      "image": "./img/shelter/office/580834.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/guardian-cat-sanctuary-580834/",
+      "imageUrl": "https://cdn.findpawpal.com/office/580834.jpg?f=webp&w=730"
+    }
+  ]
+}

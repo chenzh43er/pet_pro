@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:59:11.600708+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "bogalusa",
+    "name": "Bogalusa",
+    "label": "Bogalusa, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/bogalusa/",
+  "offices": [
+    {
+      "officeId": 226586,
+      "slug": "bogalusa-animal-shelter-226586",
+      "name": "Bogalusa Animal Shelter",
+      "address": "214 Arkansas Avenue, Bogalusa, LA 70427",
+      "phone": "504-735-8506",
+      "image": "./img/shelter/office/226586.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bogalusa-animal-shelter-226586/",
+      "imageUrl": "https://cdn.findpawpal.com/office/226586.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 243447,
+      "slug": "washington-humane-society-243447",
+      "name": "Washington Humane Society",
+      "address": "5703 Highway 439, Bogalusa, LA 70427",
+      "phone": "985-732-2463",
+      "image": "./img/shelter/office/243447.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/washington-humane-society-243447/",
+      "imageUrl": "https://cdn.findpawpal.com/office/243447.jpg?f=webp&w=730"
+    }
+  ]
+}

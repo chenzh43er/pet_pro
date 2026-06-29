@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:37:24.185053+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "southbury",
+    "name": "Southbury",
+    "label": "Southbury, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/southbury/",
+  "offices": [
+    {
+      "officeId": 148505,
+      "slug": "southbury-animal-control-148505",
+      "name": "Southbury Animal Control",
+      "address": "60 Peter Road, Southbury, CT 06488",
+      "phone": "203-262-0613",
+      "image": "./img/shelter/office/148505.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/southbury-animal-control-148505/",
+      "imageUrl": "https://cdn.findpawpal.com/office/148505.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 243700,
+  "slug": "pet-savers-243700",
+  "name": "Pet Savers",
+  "address": "4380 Noyes Drive, Shreveport, LA 71119",
+  "street": "4380 Noyes Drive",
+  "addressCity": "Shreveport",
+  "stateCode": "LA",
+  "zip": "71119",
+  "phone": "318-636-0400",
+  "image": "./img/shelter/office/243700.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pet-savers-243700/",
+  "stateSlug": "louisiana",
+  "stateName": "Louisiana",
+  "citySlug": "shreveport",
+  "cityName": "Shreveport",
+  "cityLabel": "Shreveport, LA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/louisiana/shreveport/",
+  "fetchedAt": "2026-06-27T19:00:42.368157+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/243700.jpg?f=webp&w=730"
+}

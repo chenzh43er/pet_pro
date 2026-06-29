@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:26:33.230762+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "homewood",
+    "name": "Homewood",
+    "label": "Homewood, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/homewood/",
+  "offices": [
+    {
+      "officeId": 368010,
+      "slug": "homewood-animal-shelter-368010",
+      "name": "Homewood Animal Shelter",
+      "address": "5285 West Lake Boulevard, Homewood, CA 96141",
+      "phone": "530-546-1211",
+      "image": "./img/shelter/office/368010.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/homewood-animal-shelter-368010/",
+      "imageUrl": "https://cdn.findpawpal.com/office/368010.jpg?f=webp&w=730"
+    }
+  ]
+}

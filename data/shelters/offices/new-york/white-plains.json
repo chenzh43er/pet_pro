@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:37:44.345227+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "white-plains",
+    "name": "White Plains",
+    "label": "White Plains, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/white-plains/",
+  "offices": [
+    {
+      "officeId": 316637,
+      "slug": "westchester-county-animal-welfare-316637",
+      "name": "Westchester County Animal Welfare",
+      "address": "PO Box 276, White Plains, NY 10602",
+      "phone": "914-320-5991",
+      "image": "https://cdn.findpawpal.com/office/316637.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/westchester-county-animal-welfare-316637/"
+    },
+    {
+      "officeId": 398708,
+      "slug": "white-plains-animal-control-398708",
+      "name": "White Plains Animal Control",
+      "address": "255 Main Street, White Plains, NY 10601",
+      "phone": "914-422-1450",
+      "image": "./img/shelter/office/398708.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/white-plains-animal-control-398708/",
+      "imageUrl": "https://cdn.findpawpal.com/office/398708.jpg?f=webp&w=730"
+    }
+  ]
+}

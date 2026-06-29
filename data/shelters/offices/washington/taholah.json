@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:19:20.185758+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "taholah",
+    "name": "Taholah",
+    "label": "Taholah, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/taholah/",
+  "offices": [
+    {
+      "officeId": 593505,
+      "slug": "quinault-nation-animal-control-593505",
+      "name": "Quinault Nation Animal Control",
+      "address": "PO Box 277, Taholah, WA 98587",
+      "phone": "360-276-4423",
+      "image": "https://cdn.findpawpal.com/office/593505.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/quinault-nation-animal-control-593505/"
+    }
+  ]
+}

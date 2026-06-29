@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:04:07.393085+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "copperas-cove",
+    "name": "Copperas Cove",
+    "label": "Copperas Cove, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/copperas-cove/",
+  "offices": [
+    {
+      "officeId": 635255,
+      "slug": "copperas-cove-animal-control-635255",
+      "name": "Copperas Cove Animal Control",
+      "address": "1601 North 1st Street, Copperas Cove, TX 76522",
+      "phone": "254-547-5584",
+      "image": "https://cdn.findpawpal.com/office/635255.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/copperas-cove-animal-control-635255/"
+    }
+  ]
+}

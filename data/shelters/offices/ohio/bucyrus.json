@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:43:20.615228+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "bucyrus",
+    "name": "Bucyrus",
+    "label": "Bucyrus, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/bucyrus/",
+  "offices": [
+    {
+      "officeId": 465971,
+      "slug": "crawford-county-humane-society-465971",
+      "name": "Crawford County Humane Society",
+      "address": "3590 Highway 98, Bucyrus, OH 44820",
+      "phone": "419-562-9149",
+      "image": "./img/shelter/office/465971.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/crawford-county-humane-society-465971/",
+      "imageUrl": "https://cdn.findpawpal.com/office/465971.jpg?f=webp&w=730"
+    }
+  ]
+}

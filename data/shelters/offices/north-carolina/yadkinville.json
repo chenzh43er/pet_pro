@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:42:10.235652+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "yadkinville",
+    "name": "Yadkinville",
+    "label": "Yadkinville, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/yadkinville/",
+  "offices": [
+    {
+      "officeId": 213773,
+      "slug": "yadkin-county-humane-society-213773",
+      "name": "Yadkin County Humane Society",
+      "address": "PO Box 1652, Yadkinville, NC 27055",
+      "phone": "336-463-4990",
+      "image": "./img/shelter/office/213773.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/yadkin-county-humane-society-213773/",
+      "imageUrl": "https://cdn.findpawpal.com/office/213773.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 240100,
+      "slug": "yadkin-county-animal-shelter-240100",
+      "name": "Yadkin County Animal Shelter",
+      "address": "1027 Speaks Street, Yadkinville, NC 27055",
+      "phone": "336-677-2500",
+      "image": "./img/shelter/office/240100.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/yadkin-county-animal-shelter-240100/",
+      "imageUrl": "https://cdn.findpawpal.com/office/240100.jpg?f=webp&w=730"
+    }
+  ]
+}

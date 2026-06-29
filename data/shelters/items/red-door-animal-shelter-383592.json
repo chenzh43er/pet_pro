@@ -1,0 +1,21 @@
+{
+  "officeId": 383592,
+  "slug": "red-door-animal-shelter-383592",
+  "name": "Red Door Animal Shelter",
+  "address": "2410 West Lunt Avenue, Chicago, IL 60645",
+  "street": "2410 West Lunt Avenue",
+  "addressCity": "Chicago",
+  "stateCode": "IL",
+  "zip": "60645",
+  "phone": "773-764-2242",
+  "image": "./img/shelter/office/383592.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/red-door-animal-shelter-383592/",
+  "stateSlug": "illinois",
+  "stateName": "Illinois",
+  "citySlug": "chicago",
+  "cityName": "Chicago",
+  "cityLabel": "Chicago, IL",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/illinois/chicago/",
+  "fetchedAt": "2026-06-27T18:44:44.107001+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/383592.jpg?f=webp&w=730"
+}

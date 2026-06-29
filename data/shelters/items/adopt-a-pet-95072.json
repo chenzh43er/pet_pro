@@ -1,0 +1,21 @@
+{
+  "officeId": 95072,
+  "slug": "adopt-a-pet-95072",
+  "name": "Adopt A Pet",
+  "address": "PO Box 6384, Freehold, NJ 07728",
+  "street": "PO Box 6384",
+  "addressCity": "Freehold",
+  "stateCode": "NJ",
+  "zip": "07728",
+  "phone": "732-462-5184",
+  "image": "./img/shelter/office/95072.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/adopt-a-pet-95072/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "freehold",
+  "cityName": "Freehold",
+  "cityLabel": "Freehold, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/freehold/",
+  "fetchedAt": "2026-06-27T19:26:10.873715+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/95072.jpg?f=webp&w=730"
+}

@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:54:38.282604+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "reading",
+    "name": "Reading",
+    "label": "Reading, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/reading/",
+  "offices": [
+    {
+      "officeId": 474312,
+      "slug": "the-catworks-474312",
+      "name": "The Catworks",
+      "address": "PO Box 15171, Reading, PA 19612",
+      "phone": "610-375-0348",
+      "image": "./img/shelter/office/474312.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-catworks-474312/",
+      "imageUrl": "https://cdn.findpawpal.com/office/474312.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 474567,
+      "slug": "save-a-yorkie-rescue-inc-474567",
+      "name": "Save A Yorkie Rescue, Inc.",
+      "address": "2650 Shillington Road, Reading, PA 19608",
+      "phone": "610-670-2183",
+      "image": "./img/shelter/office/474567.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/save-a-yorkie-rescue-inc-474567/",
+      "imageUrl": "https://cdn.findpawpal.com/office/474567.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 589144,
+      "slug": "humane-society-of-berks-county-589144",
+      "name": "Humane Society of Berks County",
+      "address": "1801 North 11th Street, Reading, PA 19604",
+      "phone": "610-921-2348",
+      "image": "./img/shelter/office/589144.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-berks-county-589144/",
+      "imageUrl": "https://cdn.findpawpal.com/office/589144.jpg?f=webp&w=730"
+    }
+  ]
+}

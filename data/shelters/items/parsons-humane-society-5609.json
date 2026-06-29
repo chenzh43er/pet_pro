@@ -1,0 +1,21 @@
+{
+  "officeId": 5609,
+  "slug": "parsons-humane-society-5609",
+  "name": "Parsons Humane Society",
+  "address": "123 West 5th Street, Pittsburg, KS 66762",
+  "street": "123 West 5th Street",
+  "addressCity": "Pittsburg",
+  "stateCode": "KS",
+  "zip": "66762",
+  "phone": "316-421-0668",
+  "image": "./img/shelter/office/5609.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/parsons-humane-society-5609/",
+  "stateSlug": "kansas",
+  "stateName": "Kansas",
+  "citySlug": "pittsburg",
+  "cityName": "Pittsburg",
+  "cityLabel": "Pittsburg, KS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kansas/pittsburg/",
+  "fetchedAt": "2026-06-27T18:55:49.868121+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/5609.jpg?f=webp&w=730"
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:33:02.325847+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "cascade-chipita-park",
+    "name": "Cascade-Chipita Park",
+    "label": "Cascade-Chipita Park, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/cascade-chipita-park/",
+  "offices": [
+    {
+      "officeId": 39983,
+      "slug": "pikes-peak-siberian-husky-rescue-39983",
+      "name": "Pikes Peak Siberian Husky Rescue",
+      "address": "9975 Mountain Road, Cascade-Chipita Park, CO 80809",
+      "phone": "719-684-2264",
+      "image": "./img/shelter/office/39983.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pikes-peak-siberian-husky-rescue-39983/",
+      "imageUrl": "https://cdn.findpawpal.com/office/39983.jpg?f=webp&w=730"
+    }
+  ]
+}

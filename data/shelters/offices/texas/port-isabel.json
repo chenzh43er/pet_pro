@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:08:31.367985+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "port-isabel",
+    "name": "Port Isabel",
+    "label": "Port Isabel, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/port-isabel/",
+  "offices": [
+    {
+      "officeId": 479204,
+      "slug": "port-isabel-animal-shelter-479204",
+      "name": "Port Isabel Animal Shelter",
+      "address": "262 Woody Ln, Port Isabel, TX 78578",
+      "phone": "956-943-3888",
+      "image": "./img/shelter/office/479204.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/port-isabel-animal-shelter-479204/",
+      "imageUrl": "https://cdn.findpawpal.com/office/479204.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 494176,
+      "slug": "laguna-madre-humane-society-494176",
+      "name": "Laguna Madre Humane Society",
+      "address": "103 East Maxan Street, Port Isabel, TX 78578",
+      "phone": "956-266-3140",
+      "image": "./img/shelter/office/494176.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/laguna-madre-humane-society-494176/",
+      "imageUrl": "https://cdn.findpawpal.com/office/494176.jpg?f=webp&w=730"
+    }
+  ]
+}

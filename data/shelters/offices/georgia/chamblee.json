@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:38:58.782366+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "chamblee",
+    "name": "Chamblee",
+    "label": "Chamblee, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/chamblee/",
+  "offices": [
+    {
+      "officeId": 151193,
+      "slug": "chamblee-animal-control-151193",
+      "name": "Chamblee Animal Control",
+      "address": "3210 Cumberland Drive, Chamblee, GA 30341",
+      "phone": "770-986-5019",
+      "image": "./img/shelter/office/151193.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/chamblee-animal-control-151193/",
+      "imageUrl": "https://cdn.findpawpal.com/office/151193.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 653560,
+  "slug": "animal-adoption-center-653560",
+  "name": "Animal Adoption Center",
+  "address": "270 East Broadway, Jackson, WY 83001",
+  "street": "270 East Broadway",
+  "addressCity": "Jackson",
+  "stateCode": "WY",
+  "zip": "83001",
+  "phone": "307-739-1881",
+  "image": "./img/shelter/office/653560.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/animal-adoption-center-653560/",
+  "stateSlug": "wyoming",
+  "stateName": "Wyoming",
+  "citySlug": "jackson",
+  "cityName": "Jackson",
+  "cityLabel": "Jackson, WY",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/wyoming/jackson/",
+  "fetchedAt": "2026-06-27T20:25:13.311852+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/653560.jpg?f=webp&w=730"
+}

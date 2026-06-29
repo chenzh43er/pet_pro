@@ -1,0 +1,122 @@
+{
+  "fetchedAt": "2026-06-27T20:08:59.987828+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "san-antonio",
+    "name": "San Antonio",
+    "label": "San Antonio, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/san-antonio/",
+  "offices": [
+    {
+      "officeId": 478673,
+      "slug": "animal-resource-center-478673",
+      "name": "Animal Resource Center",
+      "address": "1615 South Laredo Street, San Antonio, TX 78207",
+      "phone": "210-351-7729",
+      "image": "./img/shelter/office/478673.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-resource-center-478673/",
+      "imageUrl": "https://cdn.findpawpal.com/office/478673.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 518389,
+      "slug": "city-veterinary-hospital-518389",
+      "name": "City Veterinary Hospital",
+      "address": "818 Austin Street, San Antonio, TX 78208",
+      "phone": "210-225-6531",
+      "image": "./img/shelter/office/518389.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/city-veterinary-hospital-518389/",
+      "imageUrl": "https://cdn.findpawpal.com/office/518389.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 525027,
+      "slug": "windcrest-animal-control-525027",
+      "name": "Windcrest Animal Control",
+      "address": "8520 Fourwinds Drive, San Antonio, TX 78239",
+      "phone": "210-448-8813",
+      "image": "https://cdn.findpawpal.com/office/525027.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/windcrest-animal-control-525027/"
+    },
+    {
+      "officeId": 525217,
+      "slug": "san-antonio-animal-control-525217",
+      "name": "San Antonio Animal Control",
+      "address": "4710 Texas 151, San Antonio, TX 78227",
+      "phone": "210-207-6650",
+      "image": "./img/shelter/office/525217.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/san-antonio-animal-control-525217/",
+      "imageUrl": "https://cdn.findpawpal.com/office/525217.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 536906,
+      "slug": "aapaw-536906",
+      "name": "AAPAW",
+      "address": "PO Box 17324, San Antonio, TX 78217",
+      "phone": "210-379-9034",
+      "image": "./img/shelter/office/536906.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/aapaw-536906/",
+      "imageUrl": "https://cdn.findpawpal.com/office/536906.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 536910,
+      "slug": "south-texas-animal-rescue-536910",
+      "name": "South Texas Animal Rescue",
+      "address": "PO Box 12651, San Antonio, TX 78212",
+      "phone": "",
+      "image": "./img/shelter/office/536910.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/south-texas-animal-rescue-536910/",
+      "imageUrl": "https://cdn.findpawpal.com/office/536910.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 538071,
+      "slug": "san-antonio-humane-society-538071",
+      "name": "San Antonio Humane Society",
+      "address": "4804 Fredericksburg Road, San Antonio, TX 78229",
+      "phone": "210-226-7461",
+      "image": "./img/shelter/office/538071.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/san-antonio-humane-society-538071/",
+      "imageUrl": "https://cdn.findpawpal.com/office/538071.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 633010,
+      "slug": "guardian-animal-rescue-633010",
+      "name": "Guardian Animal Rescue",
+      "address": "PO Box 65147, San Antonio, TX 78265",
+      "phone": "210-658-2097",
+      "image": "./img/shelter/office/633010.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/guardian-animal-rescue-633010/",
+      "imageUrl": "https://cdn.findpawpal.com/office/633010.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 633347,
+      "slug": "animal-defense-league-633347",
+      "name": "Animal Defense League",
+      "address": "11300 Nacogdoches Road, San Antonio, TX 78217",
+      "phone": "210-655-1481",
+      "image": "https://cdn.findpawpal.com/office/633347.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-defense-league-633347/"
+    },
+    {
+      "officeId": 635342,
+      "slug": "4dogsakes-635342",
+      "name": "4dogsakes",
+      "address": "203 West Sunset Road, San Antonio, TX 78209",
+      "phone": "210-822-0003",
+      "image": "./img/shelter/office/635342.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/4dogsakes-635342/",
+      "imageUrl": "https://cdn.findpawpal.com/office/635342.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674359,
+      "slug": "humane-society-of-greater-san-antonio-674359",
+      "name": "Humane Society of Greater San Antonio",
+      "address": "1402 Fredericksburg Road, San Antonio, TX 78201",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/674359.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-greater-san-antonio-674359/"
+    }
+  ]
+}

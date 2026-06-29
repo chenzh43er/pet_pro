@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:17:47.269834+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "haleyville",
+    "name": "Haleyville",
+    "label": "Haleyville, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/haleyville/",
+  "offices": [
+    {
+      "slug": "winston-marion-county-humane-society-6180",
+      "name": "Winston-Marion County Humane Society",
+      "address": "PO Box 357, Haleyville, AL 35565",
+      "phone": "205-486-2426",
+      "image": "./img/shelter/office/6180.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/winston-marion-county-humane-society-6180/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6180.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:54:08.091394+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "newtown-square",
+    "name": "Newtown Square",
+    "label": "Newtown Square, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/newtown-square/",
+  "offices": [
+    {
+      "officeId": 474412,
+      "slug": "animal-coalition-of-delaware-county-inc-474412",
+      "name": "Animal Coalition of Delaware County, Inc.",
+      "address": "3553 West Chester Pike, Newtown Square, PA 19073",
+      "phone": "610-876-1479",
+      "image": "./img/shelter/office/474412.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-coalition-of-delaware-county-inc-474412/",
+      "imageUrl": "https://cdn.findpawpal.com/office/474412.jpg?f=webp&w=730"
+    }
+  ]
+}

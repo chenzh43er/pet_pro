@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:19:55.343971+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "new-bloomfield",
+    "name": "New Bloomfield",
+    "label": "New Bloomfield, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/new-bloomfield/",
+  "offices": [
+    {
+      "officeId": 206307,
+      "slug": "callaway-hills-animal-shelter-206307",
+      "name": "Callaway Hills Animal Shelter",
+      "address": "2714 State Road Tt, New Bloomfield, MO 65063",
+      "phone": "573-896-4049",
+      "image": "https://cdn.findpawpal.com/office/206307.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/callaway-hills-animal-shelter-206307/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:27:03.802790+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "little-egg-harbor",
+    "name": "Little Egg Harbor",
+    "label": "Little Egg Harbor, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/little-egg-harbor/",
+  "offices": [
+    {
+      "officeId": 95628,
+      "slug": "focas-95628",
+      "name": "FOCA's",
+      "address": "36 Ivy Creek Drive, Little Egg Harbor, NJ 08087",
+      "phone": "",
+      "image": "./img/shelter/office/95628.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/focas-95628/",
+      "imageUrl": "https://cdn.findpawpal.com/office/95628.jpg?f=webp&w=730"
+    }
+  ]
+}

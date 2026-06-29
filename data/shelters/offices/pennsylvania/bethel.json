@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:51:58.730381+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "bethel",
+    "name": "Bethel",
+    "label": "Bethel, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/bethel/",
+  "offices": [
+    {
+      "officeId": 437827,
+      "slug": "double-d-equine-rescue-437827",
+      "name": "Double D Equine Rescue",
+      "address": "9312 Old U.S. 22, Bethel, PA 19507",
+      "phone": "717-933-4648",
+      "image": "./img/shelter/office/437827.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/double-d-equine-rescue-437827/",
+      "imageUrl": "https://cdn.findpawpal.com/office/437827.jpg?f=webp&w=730"
+    }
+  ]
+}

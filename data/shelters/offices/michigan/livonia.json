@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T19:11:27.703645+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "livonia",
+    "name": "Livonia",
+    "label": "Livonia, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/livonia/",
+  "offices": [
+    {
+      "officeId": 189854,
+      "slug": "greyheart-greyhound-rescue-and-adoption-of-michigan-189854",
+      "name": "Greyheart Greyhound Rescue and Adoption of Michigan",
+      "address": "PO Box 511342, Livonia, MI 48151",
+      "phone": "313-937-0472",
+      "image": "./img/shelter/office/189854.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greyheart-greyhound-rescue-and-adoption-of-michigan-189854/",
+      "imageUrl": "https://cdn.findpawpal.com/office/189854.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 208183,
+      "slug": "great-lakes-ferret-association-208183",
+      "name": "Great Lakes Ferret Association",
+      "address": "11309 Cranston Street, Livonia, MI 48150",
+      "phone": "734-421-0579",
+      "image": "./img/shelter/office/208183.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/great-lakes-ferret-association-208183/",
+      "imageUrl": "https://cdn.findpawpal.com/office/208183.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 235394,
+      "slug": "mid-michigan-boxer-rescue-235394",
+      "name": "Mid Michigan Boxer Rescue",
+      "address": "PO Box 51245, Livonia, MI 48151",
+      "phone": "248-253-6827",
+      "image": "./img/shelter/office/235394.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mid-michigan-boxer-rescue-235394/",
+      "imageUrl": "https://cdn.findpawpal.com/office/235394.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 236842,
+      "slug": "livonia-animal-control-236842",
+      "name": "Livonia Animal Control",
+      "address": "12973 Farmington Road, Livonia, MI 48150",
+      "phone": "734-466-2655",
+      "image": "./img/shelter/office/236842.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/livonia-animal-control-236842/",
+      "imageUrl": "https://cdn.findpawpal.com/office/236842.jpg?f=webp&w=730"
+    }
+  ]
+}

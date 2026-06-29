@@ -1,0 +1,21 @@
+{
+  "officeId": 156362,
+  "slug": "wallingford-animal-shelter-156362",
+  "name": "Wallingford Animal Shelter",
+  "address": "5 Pent Road, Wallingford, CT 06492",
+  "street": "5 Pent Road",
+  "addressCity": "Wallingford",
+  "stateCode": "CT",
+  "zip": "06492",
+  "phone": "203-294-2180",
+  "image": "./img/shelter/office/156362.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/wallingford-animal-shelter-156362/",
+  "stateSlug": "connecticut",
+  "stateName": "Connecticut",
+  "citySlug": "wallingford",
+  "cityName": "Wallingford",
+  "cityLabel": "Wallingford, CT",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/connecticut/wallingford/",
+  "fetchedAt": "2026-06-27T18:37:36.583640+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/156362.jpg?f=webp&w=730"
+}

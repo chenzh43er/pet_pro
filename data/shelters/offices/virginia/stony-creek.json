@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:16:20.777285+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "stony-creek",
+    "name": "Stony Creek",
+    "label": "Stony Creek, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/stony-creek/",
+  "offices": [
+    {
+      "officeId": 561653,
+      "slug": "sussex-co-animal-shelter-561653",
+      "name": "Sussex Co Animal Shelter",
+      "address": "14493 Robinson Road, Stony Creek, VA 23882",
+      "phone": "434-246-2167",
+      "image": "https://cdn.findpawpal.com/office/561653.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/sussex-co-animal-shelter-561653/"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:56:54.512942+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "essie",
+    "name": "Essie",
+    "label": "Essie, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/essie/",
+  "offices": [
+    {
+      "officeId": 109851,
+      "slug": "leslie-county-humane-society-109851",
+      "name": "Leslie County Humane Society",
+      "address": "PO Box 635, Essie, KY 41775",
+      "phone": "606-279-4803",
+      "image": "https://cdn.findpawpal.com/office/109851.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/leslie-county-humane-society-109851/"
+    }
+  ]
+}

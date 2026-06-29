@@ -1,0 +1,21 @@
+{
+  "officeId": 363383,
+  "slug": "east-valley-animal-shelter-363383",
+  "name": "East Valley Animal Shelter",
+  "address": "14409 Vanowen Street, Los Angeles, CA 91405",
+  "street": "14409 Vanowen Street",
+  "addressCity": "Los Angeles",
+  "stateCode": "CA",
+  "zip": "91405",
+  "phone": "888-452-7381",
+  "image": "./img/shelter/office/363383.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/east-valley-animal-shelter-363383/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "los-angeles",
+  "cityName": "Los Angeles",
+  "cityLabel": "Los Angeles, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/los-angeles/",
+  "fetchedAt": "2026-06-27T18:27:28.259888+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/363383.jpg?f=webp&w=730"
+}

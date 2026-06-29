@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:38:22.291177+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "burnsville",
+    "name": "Burnsville",
+    "label": "Burnsville, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/burnsville/",
+  "offices": [
+    {
+      "officeId": 212626,
+      "slug": "yancey-county-humane-society-212626",
+      "name": "Yancey County Humane Society",
+      "address": "PO Box 1016, Burnsville, NC 28714",
+      "phone": "828-682-9510",
+      "image": "./img/shelter/office/212626.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/yancey-county-humane-society-212626/",
+      "imageUrl": "https://cdn.findpawpal.com/office/212626.jpg?f=webp&w=730"
+    }
+  ]
+}

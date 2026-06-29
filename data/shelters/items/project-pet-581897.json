@@ -1,0 +1,21 @@
+{
+  "officeId": 581897,
+  "slug": "project-pet-581897",
+  "name": "Project Pet",
+  "address": "1275 Bower Parkway, Columbia, SC 29212",
+  "street": "1275 Bower Parkway",
+  "addressCity": "Columbia",
+  "stateCode": "SC",
+  "zip": "29212",
+  "phone": "803-407-0991",
+  "image": "./img/shelter/office/581897.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/project-pet-581897/",
+  "stateSlug": "south-carolina",
+  "stateName": "South Carolina",
+  "citySlug": "columbia",
+  "cityName": "Columbia",
+  "cityLabel": "Columbia, SC",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/south-carolina/columbia/",
+  "fetchedAt": "2026-06-27T19:57:09.621867+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/581897.jpg?f=webp&w=730"
+}

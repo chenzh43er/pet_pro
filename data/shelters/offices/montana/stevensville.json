@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T19:22:09.061144+00:00",
+  "state": {
+    "slug": "montana",
+    "name": "Montana"
+  },
+  "city": {
+    "slug": "stevensville",
+    "name": "Stevensville",
+    "label": "Stevensville, MT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/montana/stevensville/",
+  "offices": [
+    {
+      "officeId": 424003,
+      "slug": "bangtail-dog-rescue-424003",
+      "name": "Bangtail Dog Rescue",
+      "address": "2714 Bush Creek Lane, Stevensville, MT 59870",
+      "phone": "406-686-4948",
+      "image": "https://cdn.findpawpal.com/office/424003.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/bangtail-dog-rescue-424003/"
+    },
+    {
+      "officeId": 424009,
+      "slug": "west-montana-spay-424009",
+      "name": "West Montana Spay",
+      "address": "516 Blue Grouse Lane, Stevensville, MT 59870",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/424009.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/west-montana-spay-424009/"
+    }
+  ]
+}

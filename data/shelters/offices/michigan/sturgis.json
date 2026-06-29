@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:12:54.603345+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "sturgis",
+    "name": "Sturgis",
+    "label": "Sturgis, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/sturgis/",
+  "offices": [
+    {
+      "officeId": 236228,
+      "slug": "greyhound-pets-of-america-236228",
+      "name": "Greyhound Pets of America",
+      "address": "25420 Mintdale Road, Sturgis, MI 49091",
+      "phone": "269-651-7395",
+      "image": "https://cdn.findpawpal.com/office/236228.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhound-pets-of-america-236228/"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:22:21.021949+00:00",
+  "state": {
+    "slug": "nebraska",
+    "name": "Nebraska"
+  },
+  "city": {
+    "slug": "chadron",
+    "name": "Chadron",
+    "label": "Chadron, NE"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nebraska/chadron/",
+  "offices": [
+    {
+      "officeId": 720006,
+      "slug": "chadron-area-humane-society-720006",
+      "name": "Chadron Area Humane Society",
+      "address": "63 Westview Estates, Chadron, NE 69337",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/720006.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/chadron-area-humane-society-720006/"
+    }
+  ]
+}

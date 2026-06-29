@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:43:56.555867+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "coshocton",
+    "name": "Coshocton",
+    "label": "Coshocton, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/coshocton/",
+  "offices": [
+    {
+      "officeId": 423546,
+      "slug": "humane-animal-treatment-association-423546",
+      "name": "Humane Animal Treatment Association",
+      "address": "1672 Flint Lane, Coshocton, OH 43812",
+      "phone": "614-622-9741",
+      "image": "./img/shelter/office/423546.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-animal-treatment-association-423546/",
+      "imageUrl": "https://cdn.findpawpal.com/office/423546.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 101017,
+  "slug": "union-county-spca-101017",
+  "name": "Union County SPCA",
+  "address": "318 West 12th Street, Linden, NJ 07036",
+  "street": "318 West 12th Street",
+  "addressCity": "Linden",
+  "stateCode": "NJ",
+  "zip": "07036",
+  "phone": "201-382-6100",
+  "image": "./img/shelter/office/101017.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/union-county-spca-101017/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "linden",
+  "cityName": "Linden",
+  "cityLabel": "Linden, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/linden/",
+  "fetchedAt": "2026-06-27T19:27:00.755970+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/101017.jpg?f=webp&w=730"
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:03:26.438689+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "elkridge",
+    "name": "Elkridge",
+    "label": "Elkridge, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/elkridge/",
+  "offices": [
+    {
+      "officeId": 371435,
+      "slug": "cocker-spaniel-adoption-center-inc-371435",
+      "name": "Cocker Spaniel Adoption Center, Inc.",
+      "address": "PO Box 8150, Elkridge, MD 21075",
+      "phone": "410-628-6191",
+      "image": "./img/shelter/office/371435.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cocker-spaniel-adoption-center-inc-371435/",
+      "imageUrl": "https://cdn.findpawpal.com/office/371435.jpg?f=webp&w=730"
+    }
+  ]
+}

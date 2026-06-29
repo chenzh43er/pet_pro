@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T19:26:39.689474+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "hopatcong",
+    "name": "Hopatcong",
+    "label": "Hopatcong, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/hopatcong/",
+  "offices": [
+    {
+      "officeId": 95213,
+      "slug": "hopatcong-animal-haven-95213",
+      "name": "Hopatcong Animal Haven",
+      "address": "PO Box 579, Hopatcong, NJ 07843",
+      "phone": "201-398-1305",
+      "image": "https://cdn.findpawpal.com/office/95213.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/hopatcong-animal-haven-95213/"
+    },
+    {
+      "officeId": 104970,
+      "slug": "hopatcong-dog-pound-104970",
+      "name": "Hopatcong Dog Pound",
+      "address": "Durban Ave, Hopatcong, NJ 07843",
+      "phone": "973-398-0550",
+      "image": "https://cdn.findpawpal.com/office/104970.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/hopatcong-dog-pound-104970/"
+    }
+  ]
+}

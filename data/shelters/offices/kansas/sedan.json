@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:55:55.893156+00:00",
+  "state": {
+    "slug": "kansas",
+    "name": "Kansas"
+  },
+  "city": {
+    "slug": "sedan",
+    "name": "Sedan",
+    "label": "Sedan, KS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kansas/sedan/",
+  "offices": [
+    {
+      "officeId": 5034,
+      "slug": "chautauqua-county-animal-shelter-5034",
+      "name": "Chautauqua County Animal Shelter",
+      "address": "421 South Montgomery Street, Sedan, KS 67361",
+      "phone": "316-725-3561",
+      "image": "https://cdn.findpawpal.com/office/5034.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/chautauqua-county-animal-shelter-5034/"
+    }
+  ]
+}

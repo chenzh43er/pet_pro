@@ -1,0 +1,64 @@
+{
+  "fetchedAt": "2026-06-27T19:39:27.914931+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "greenville",
+    "name": "Greenville",
+    "label": "Greenville, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/greenville/",
+  "offices": [
+    {
+      "officeId": 214007,
+      "slug": "pitt-county-animal-control-214007",
+      "name": "Pitt County Animal Control",
+      "address": "201 Government Circle, Greenville, NC 27834",
+      "phone": "252-902-1725",
+      "image": "./img/shelter/office/214007.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pitt-county-animal-control-214007/",
+      "imageUrl": "https://cdn.findpawpal.com/office/214007.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 214014,
+      "slug": "pitt-county-animal-shelter-214014",
+      "name": "Pitt County Animal Shelter",
+      "address": "1825 West 5th Street, Greenville, NC 27834",
+      "phone": "252-830-4387",
+      "image": "./img/shelter/office/214014.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pitt-county-animal-shelter-214014/",
+      "imageUrl": "https://cdn.findpawpal.com/office/214014.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 231798,
+      "slug": "humane-society-of-eastern-carolina-231798",
+      "name": "Humane Society of Eastern Carolina",
+      "address": "3520 Tupper Drive, Greenville, NC 27834",
+      "phone": "252-413-7247",
+      "image": "./img/shelter/office/231798.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-eastern-carolina-231798/",
+      "imageUrl": "https://cdn.findpawpal.com/office/231798.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 239099,
+      "slug": "saving-graces-4-felines-239099",
+      "name": "Saving Graces 4 Felines",
+      "address": "PO Box 4307, Greenville, NC 27836",
+      "phone": "252-355-3404",
+      "image": "./img/shelter/office/239099.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/saving-graces-4-felines-239099/",
+      "imageUrl": "https://cdn.findpawpal.com/office/239099.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 267353,
+      "slug": "marley-fund-267353",
+      "name": "Marley Fund",
+      "address": "1510 Wimbledon Drive, Greenville, NC 27858",
+      "phone": "252-215-0925",
+      "image": "https://cdn.findpawpal.com/office/267353.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/marley-fund-267353/"
+    }
+  ]
+}

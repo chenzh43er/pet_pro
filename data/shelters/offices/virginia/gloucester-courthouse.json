@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T20:14:18.726569+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "gloucester-courthouse",
+    "name": "Gloucester Courthouse",
+    "label": "Gloucester Courthouse, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/gloucester-courthouse/",
+  "offices": [
+    {
+      "officeId": 528664,
+      "slug": "gloucester-mathews-humane-society-528664",
+      "name": "Gloucester-Mathews Humane Society",
+      "address": "6620 Jackson Lane, Gloucester Courthouse, VA 23061",
+      "phone": "804-693-5520",
+      "image": "https://cdn.findpawpal.com/office/528664.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/gloucester-mathews-humane-society-528664/"
+    },
+    {
+      "officeId": 578883,
+      "slug": "gloucester-animal-control-578883",
+      "name": "Gloucester Animal Control",
+      "address": "6504 Main Street, Gloucester Courthouse, VA 23061",
+      "phone": "804-693-5290",
+      "image": "./img/shelter/office/578883.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gloucester-animal-control-578883/",
+      "imageUrl": "https://cdn.findpawpal.com/office/578883.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 646869,
+      "slug": "gloucester-animal-control-646869",
+      "name": "Gloucester Animal Control",
+      "address": "6504 Main Street, Gloucester Courthouse, VA 23061",
+      "phone": "804-693-5290",
+      "image": "./img/shelter/office/646869.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gloucester-animal-control-646869/",
+      "imageUrl": "https://cdn.findpawpal.com/office/646869.jpg?f=webp&w=730"
+    }
+  ]
+}

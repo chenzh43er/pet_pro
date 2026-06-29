@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:04:40.972796+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "silver-spring",
+    "name": "Silver Spring",
+    "label": "Silver Spring, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/silver-spring/",
+  "offices": [
+    {
+      "officeId": 375331,
+      "slug": "metro-pets-online-375331",
+      "name": "Metro Pets Online",
+      "address": "43 Randolph Road, Silver Spring, MD 20904",
+      "phone": "301-873-0846",
+      "image": "./img/shelter/office/375331.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/metro-pets-online-375331/",
+      "imageUrl": "https://cdn.findpawpal.com/office/375331.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 398314,
+      "slug": "roxies-fund-inc-398314",
+      "name": "Roxies Fund, Inc.",
+      "address": "12208 Judson Road, Silver Spring, MD 20902",
+      "phone": "301-962-7509",
+      "image": "./img/shelter/office/398314.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/roxies-fund-inc-398314/",
+      "imageUrl": "https://cdn.findpawpal.com/office/398314.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 552049,
+      "slug": "paws-across-the-border-inc-552049",
+      "name": "Paws Across the Border, Inc.",
+      "address": "PO Box 3206, Silver Spring, MD 20918",
+      "phone": "301-681-4955",
+      "image": "./img/shelter/office/552049.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/paws-across-the-border-inc-552049/",
+      "imageUrl": "https://cdn.findpawpal.com/office/552049.jpg?f=webp&w=730"
+    }
+  ]
+}

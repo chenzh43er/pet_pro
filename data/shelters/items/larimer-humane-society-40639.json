@@ -1,0 +1,21 @@
+{
+  "officeId": 40639,
+  "slug": "larimer-humane-society-40639",
+  "name": "Larimer Humane Society",
+  "address": "6317 Kyle Avenue, Fort Collins, CO 80525",
+  "street": "6317 Kyle Avenue",
+  "addressCity": "Fort Collins",
+  "stateCode": "CO",
+  "zip": "80525",
+  "phone": "970-226-3647",
+  "image": "./img/shelter/office/40639.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/larimer-humane-society-40639/",
+  "stateSlug": "colorado",
+  "stateName": "Colorado",
+  "citySlug": "fort-collins",
+  "cityName": "Fort Collins",
+  "cityLabel": "Fort Collins, CO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/colorado/fort-collins/",
+  "fetchedAt": "2026-06-27T18:34:12.143932+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/40639.jpg?f=webp&w=730"
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:42:47.872537+00:00",
+  "state": {
+    "slug": "idaho",
+    "name": "Idaho"
+  },
+  "city": {
+    "slug": "caldwell",
+    "name": "Caldwell",
+    "label": "Caldwell, ID"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/idaho/caldwell/",
+  "offices": [
+    {
+      "officeId": 358429,
+      "slug": "canyon-county-animal-shelter-358429",
+      "name": "Canyon County Animal Shelter",
+      "address": "5801 Graye Lane, Caldwell, ID 83607",
+      "phone": "208-455-5920",
+      "image": "./img/shelter/office/358429.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/canyon-county-animal-shelter-358429/",
+      "imageUrl": "https://cdn.findpawpal.com/office/358429.jpg?f=webp&w=730"
+    }
+  ]
+}

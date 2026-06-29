@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:34:58.096664+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "menands",
+    "name": "Menands",
+    "label": "Menands, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/menands/",
+  "offices": [
+    {
+      "officeId": 341370,
+      "slug": "mohawk-hudson-humane-society-341370",
+      "name": "Mohawk Hudson Humane Society",
+      "address": "3 Oakland Avenue, Menands, NY 12204",
+      "phone": "518-434-8128",
+      "image": "./img/shelter/office/341370.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mohawk-hudson-humane-society-341370/",
+      "imageUrl": "https://cdn.findpawpal.com/office/341370.jpg?f=webp&w=730"
+    }
+  ]
+}

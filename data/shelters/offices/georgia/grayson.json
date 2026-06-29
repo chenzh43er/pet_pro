@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:39:55.616561+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "grayson",
+    "name": "Grayson",
+    "label": "Grayson, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/grayson/",
+  "offices": [
+    {
+      "officeId": 150042,
+      "slug": "auxiliary-for-dekalb-animals-150042",
+      "name": "Auxiliary for Dekalb Animals",
+      "address": "85 Leighs Grove Way, Grayson, GA 30017",
+      "phone": "770-237-8891",
+      "image": "./img/shelter/office/150042.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/auxiliary-for-dekalb-animals-150042/",
+      "imageUrl": "https://cdn.findpawpal.com/office/150042.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:13:05.696709+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "union-lake",
+    "name": "Union Lake",
+    "label": "Union Lake, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/union-lake/",
+  "offices": [
+    {
+      "officeId": 189716,
+      "slug": "elizabeth-lake-animal-rescue-189716",
+      "name": "Elizabeth Lake Animal Rescue",
+      "address": "PO Box 126, Union Lake, MI 48387",
+      "phone": "248-682-9649",
+      "image": "https://cdn.findpawpal.com/office/189716.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/elizabeth-lake-animal-rescue-189716/"
+    }
+  ]
+}

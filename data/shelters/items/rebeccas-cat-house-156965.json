@@ -1,0 +1,21 @@
+{
+  "officeId": 156965,
+  "slug": "rebeccas-cat-house-156965",
+  "name": "Rebecca's Cat House",
+  "address": "PO Box 2593, Flagstaff, AZ 86003",
+  "street": "PO Box 2593",
+  "addressCity": "Flagstaff",
+  "stateCode": "AZ",
+  "zip": "86003",
+  "phone": "928-773-1605",
+  "image": "./img/shelter/office/156965.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/rebeccas-cat-house-156965/",
+  "stateSlug": "arizona",
+  "stateName": "Arizona",
+  "citySlug": "flagstaff",
+  "cityName": "Flagstaff",
+  "cityLabel": "Flagstaff, AZ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/arizona/flagstaff/",
+  "fetchedAt": "2026-06-27T18:20:04.685246+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/156965.jpg?f=webp&w=730"
+}

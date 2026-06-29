@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:11:46.325900+00:00",
+  "state": {
+    "slug": "utah",
+    "name": "Utah"
+  },
+  "city": {
+    "slug": "west-valley",
+    "name": "West Valley",
+    "label": "West Valley, UT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/utah/west-valley/",
+  "offices": [
+    {
+      "officeId": 635294,
+      "slug": "west-valley-animal-shelter-635294",
+      "name": "West Valley Animal Shelter",
+      "address": "4522 3500 South, West Valley, UT 84120",
+      "phone": "801-965-5800",
+      "image": "https://cdn.findpawpal.com/office/635294.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/west-valley-animal-shelter-635294/"
+    }
+  ]
+}

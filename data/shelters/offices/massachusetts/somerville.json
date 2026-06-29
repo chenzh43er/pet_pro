@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:08:19.934767+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "somerville",
+    "name": "Somerville",
+    "label": "Somerville, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/somerville/",
+  "offices": [
+    {
+      "officeId": 41121,
+      "slug": "somerville-animal-shelter-41121",
+      "name": "Somerville Animal Shelter",
+      "address": "2 Bradley Street, Somerville, MA 02145",
+      "phone": "617-718-0943",
+      "image": "./img/shelter/office/41121.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/somerville-animal-shelter-41121/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41121.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 43414,
+      "slug": "grey2k-usa-43414",
+      "name": "Grey2k Usa",
+      "address": "PO Box 442117, Somerville, MA 02144",
+      "phone": "866-247-3925",
+      "image": "./img/shelter/office/43414.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/grey2k-usa-43414/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43414.jpg?f=webp&w=730"
+    }
+  ]
+}

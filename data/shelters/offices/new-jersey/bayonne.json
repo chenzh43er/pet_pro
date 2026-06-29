@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:25:00.289864+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "bayonne",
+    "name": "Bayonne",
+    "label": "Bayonne, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/bayonne/",
+  "offices": [
+    {
+      "officeId": 98455,
+      "slug": "bayonne-feral-cat-association-98455",
+      "name": "Bayonne Feral Cat Association",
+      "address": "PO Box 4111, Bayonne, NJ 07002",
+      "phone": "201-823-2363",
+      "image": "https://cdn.findpawpal.com/office/98455.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/bayonne-feral-cat-association-98455/"
+    }
+  ]
+}

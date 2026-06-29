@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:50:18.998493+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "highland",
+    "name": "Highland",
+    "label": "Highland, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/highland/",
+  "offices": [
+    {
+      "officeId": 200373,
+      "slug": "treasured-friends-200373",
+      "name": "Treasured Friends",
+      "address": "PO Box 9234, Highland, IN 46322",
+      "phone": "219-712-2820",
+      "image": "https://cdn.findpawpal.com/office/200373.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/treasured-friends-200373/"
+    }
+  ]
+}

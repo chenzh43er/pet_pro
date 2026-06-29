@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:19:12.657567+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "stevenson",
+    "name": "Stevenson",
+    "label": "Stevenson, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/stevenson/",
+  "offices": [
+    {
+      "officeId": 593657,
+      "slug": "stevenson-animal-control-593657",
+      "name": "Stevenson Animal Control",
+      "address": "200 Northwest Vancouver Avenue, Stevenson, WA 98648",
+      "phone": "509-427-9490",
+      "image": "./img/shelter/office/593657.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/stevenson-animal-control-593657/",
+      "imageUrl": "https://cdn.findpawpal.com/office/593657.jpg?f=webp&w=730"
+    }
+  ]
+}

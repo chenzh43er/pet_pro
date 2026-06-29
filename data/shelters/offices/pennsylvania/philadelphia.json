@@ -1,0 +1,131 @@
+{
+  "fetchedAt": "2026-06-27T19:54:18.728191+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "philadelphia",
+    "name": "Philadelphia",
+    "label": "Philadelphia, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/philadelphia/",
+  "offices": [
+    {
+      "officeId": 438032,
+      "slug": "pennsylvania-spca-438032",
+      "name": "Pennsylvania SPCA",
+      "address": "350 East Erie Avenue, Philadelphia, PA 19134",
+      "phone": "215-426-6300",
+      "image": "./img/shelter/office/438032.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pennsylvania-spca-438032/",
+      "imageUrl": "https://cdn.findpawpal.com/office/438032.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 438043,
+      "slug": "national-greyhound-adoption-program-438043",
+      "name": "National Greyhound Adoption Program",
+      "address": "10901 Dutton Road, Philadelphia, PA 19154",
+      "phone": "215-331-7918",
+      "image": "./img/shelter/office/438043.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/national-greyhound-adoption-program-438043/",
+      "imageUrl": "https://cdn.findpawpal.com/office/438043.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 453144,
+      "slug": "morris-animal-refuge-453144",
+      "name": "Morris Animal Refuge",
+      "address": "1242 Lombard Street, Philadelphia, PA 19147",
+      "phone": "215-735-3256",
+      "image": "./img/shelter/office/453144.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/morris-animal-refuge-453144/",
+      "imageUrl": "https://cdn.findpawpal.com/office/453144.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 453250,
+      "slug": "philadelphia-pets-are-wonderful-support-453250",
+      "name": "Philadelphia Pets Are Wonderful Support",
+      "address": "2255 15th St, Philadelphia, PA 19102",
+      "phone": "215-985-0206",
+      "image": "./img/shelter/office/453250.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/philadelphia-pets-are-wonderful-support-453250/",
+      "imageUrl": "https://cdn.findpawpal.com/office/453250.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 464927,
+      "slug": "alliance-for-philadelphias-animals-464927",
+      "name": "Alliance for Philadelphia's Animals",
+      "address": "PO Box 58295, Philadelphia, PA 19102",
+      "phone": "215-772-0212",
+      "image": "https://cdn.findpawpal.com/office/464927.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/alliance-for-philadelphias-animals-464927/"
+    },
+    {
+      "officeId": 474415,
+      "slug": "homeless-animal-shelter-search-474415",
+      "name": "Homeless Animal Shelter Search",
+      "address": "325 Hange Ln, Philadelphia, PA 19006",
+      "phone": "215-379-5465",
+      "image": "https://cdn.findpawpal.com/office/474415.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/homeless-animal-shelter-search-474415/"
+    },
+    {
+      "officeId": 589337,
+      "slug": "animal-rescue-league-of-philadelphia-589337",
+      "name": "Animal Rescue League of Philadelphia",
+      "address": "604 South Washington Square, Philadelphia, PA 19106",
+      "phone": "215-898-8862",
+      "image": "./img/shelter/office/589337.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-rescue-league-of-philadelphia-589337/",
+      "imageUrl": "https://cdn.findpawpal.com/office/589337.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 596198,
+      "slug": "animal-care-and-control-team-of-philadelphia-596198",
+      "name": "Animal Care and Control Team of Philadelphia",
+      "address": "111 West Hunting Park Avenue, Philadelphia, PA 19140",
+      "phone": "267-385-3800",
+      "image": "./img/shelter/office/596198.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-care-and-control-team-of-philadelphia-596198/",
+      "imageUrl": "https://cdn.findpawpal.com/office/596198.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 596224,
+      "slug": "blind-dog-rescue-alliance-596224",
+      "name": "Blind Dog Rescue Alliance",
+      "address": "PO Box 63401, Philadelphia, PA 19114",
+      "phone": "877-254-6301",
+      "image": "https://cdn.findpawpal.com/office/596224.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/blind-dog-rescue-alliance-596224/"
+    },
+    {
+      "officeId": 596295,
+      "slug": "northeast-animal-rescue-596295",
+      "name": "Northeast Animal Rescue",
+      "address": "PO Box 52395, Philadelphia, PA 19115",
+      "phone": "610-202-4901",
+      "image": "https://cdn.findpawpal.com/office/596295.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/northeast-animal-rescue-596295/"
+    },
+    {
+      "officeId": 596298,
+      "slug": "philadelphia-animal-welfare-society-596298",
+      "name": "Philadelphia Animal Welfare Society",
+      "address": "100 North 2nd Street, Philadelphia, PA 19106",
+      "phone": "215-238-9901",
+      "image": "./img/shelter/office/596298.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/philadelphia-animal-welfare-society-596298/",
+      "imageUrl": "https://cdn.findpawpal.com/office/596298.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 596302,
+      "slug": "prancing-paws-animal-rescue-596302",
+      "name": "Prancing PAWS Animal Rescue",
+      "address": "11820 Basile Road, Philadelphia, PA 19154",
+      "phone": "215-900-3253",
+      "image": "./img/shelter/office/596302.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/prancing-paws-animal-rescue-596302/",
+      "imageUrl": "https://cdn.findpawpal.com/office/596302.jpg?f=webp&w=730"
+    }
+  ]
+}

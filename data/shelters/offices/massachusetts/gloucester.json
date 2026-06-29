@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:06:21.128810+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "gloucester",
+    "name": "Gloucester",
+    "label": "Gloucester, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/gloucester/",
+  "offices": [
+    {
+      "officeId": 43107,
+      "slug": "cape-ann-animal-aid-association-43107",
+      "name": "Cape Ann Animal Aid Association",
+      "address": "260 Main Street, Gloucester, MA 01930",
+      "phone": "978-283-6055",
+      "image": "./img/shelter/office/43107.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cape-ann-animal-aid-association-43107/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43107.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 43124,
+      "slug": "feline-rescue-of-cape-ann-43124",
+      "name": "Feline Rescue of Cape Ann",
+      "address": "PO Box 1521, Gloucester, MA 01931",
+      "phone": "798-282-1837",
+      "image": "https://cdn.findpawpal.com/office/43124.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/feline-rescue-of-cape-ann-43124/"
+    }
+  ]
+}

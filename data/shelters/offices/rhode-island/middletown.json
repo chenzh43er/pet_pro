@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:56:14.158164+00:00",
+  "state": {
+    "slug": "rhode-island",
+    "name": "Rhode Island"
+  },
+  "city": {
+    "slug": "middletown",
+    "name": "Middletown",
+    "label": "Middletown, RI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/rhode-island/middletown/",
+  "offices": [
+    {
+      "officeId": 685682,
+      "slug": "potter-league-for-animals-685682",
+      "name": "Potter League For Animals",
+      "address": "87 Oliphant Lane, Middletown, RI 02842",
+      "phone": "401-846-8276",
+      "image": "https://cdn.findpawpal.com/office/685682.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/potter-league-for-animals-685682/"
+    }
+  ]
+}

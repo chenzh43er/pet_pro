@@ -1,0 +1,242 @@
+{
+  "fetchedAt": "2026-06-27T17:48:09.881016+00:00",
+  "state": {
+    "slug": "nebraska",
+    "name": "Nebraska",
+    "offices": 53
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nebraska/",
+  "cities": [
+    {
+      "slug": "auburn",
+      "name": "Auburn",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/auburn/"
+    },
+    {
+      "slug": "beatrice",
+      "name": "Beatrice",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/beatrice/"
+    },
+    {
+      "slug": "bellevue",
+      "name": "Bellevue",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/bellevue/"
+    },
+    {
+      "slug": "blair",
+      "name": "Blair",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/blair/"
+    },
+    {
+      "slug": "central",
+      "name": "Central",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/central/"
+    },
+    {
+      "slug": "chadron",
+      "name": "Chadron",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/chadron/"
+    },
+    {
+      "slug": "chappell",
+      "name": "Chappell",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/chappell/"
+    },
+    {
+      "slug": "columbus",
+      "name": "Columbus",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/columbus/"
+    },
+    {
+      "slug": "cortland",
+      "name": "Cortland",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/cortland/"
+    },
+    {
+      "slug": "ewing",
+      "name": "Ewing",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/ewing/"
+    },
+    {
+      "slug": "fairbury",
+      "name": "Fairbury",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/fairbury/"
+    },
+    {
+      "slug": "falls",
+      "name": "Falls",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/falls/"
+    },
+    {
+      "slug": "fremont",
+      "name": "Fremont",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/fremont/"
+    },
+    {
+      "slug": "gering",
+      "name": "Gering",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/gering/"
+    },
+    {
+      "slug": "grand-island",
+      "name": "Grand Island",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/grand-island/"
+    },
+    {
+      "slug": "hastings",
+      "name": "Hastings",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/hastings/"
+    },
+    {
+      "slug": "kearney",
+      "name": "Kearney",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/kearney/"
+    },
+    {
+      "slug": "la-vista",
+      "name": "La Vista",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/la-vista/"
+    },
+    {
+      "slug": "lincoln",
+      "name": "Lincoln",
+      "offices": 7,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/lincoln/"
+    },
+    {
+      "slug": "marquette",
+      "name": "Marquette",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/marquette/"
+    },
+    {
+      "slug": "mccook",
+      "name": "McCook",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/mccook/"
+    },
+    {
+      "slug": "mitchell",
+      "name": "Mitchell",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/mitchell/"
+    },
+    {
+      "slug": "morse-bluff",
+      "name": "Morse Bluff",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/morse-bluff/"
+    },
+    {
+      "slug": "north-platte",
+      "name": "North Platte",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/north-platte/"
+    },
+    {
+      "slug": "omaha",
+      "name": "Omaha",
+      "offices": 9,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/omaha/"
+    },
+    {
+      "slug": "oneill",
+      "name": "O'Neill",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/oneill/"
+    },
+    {
+      "slug": "plattsmouth",
+      "name": "Plattsmouth",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/plattsmouth/"
+    },
+    {
+      "slug": "scottsbluff",
+      "name": "Scottsbluff",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/scottsbluff/"
+    },
+    {
+      "slug": "south-sioux",
+      "name": "South Sioux",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/south-sioux/"
+    },
+    {
+      "slug": "valentine",
+      "name": "Valentine",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/valentine/"
+    },
+    {
+      "slug": "wahoo",
+      "name": "Wahoo",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/wahoo/"
+    },
+    {
+      "slug": "wayne",
+      "name": "Wayne",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/wayne/"
+    },
+    {
+      "slug": "york",
+      "name": "York",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/york/"
+    }
+  ]
+}

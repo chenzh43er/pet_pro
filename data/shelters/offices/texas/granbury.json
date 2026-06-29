@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:05:23.099458+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "granbury",
+    "name": "Granbury",
+    "label": "Granbury, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/granbury/",
+  "offices": [
+    {
+      "officeId": 538918,
+      "slug": "hood-county-animal-control-538918",
+      "name": "Hood County Animal Control",
+      "address": "400 Deputy Larry Miller Drive, Granbury, TX 76048",
+      "phone": "817-579-8914",
+      "image": "./img/shelter/office/538918.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hood-county-animal-control-538918/",
+      "imageUrl": "https://cdn.findpawpal.com/office/538918.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 539573,
+      "slug": "granbury-friends-for-animals-539573",
+      "name": "Granbury Friends for Animals",
+      "address": "2885 Fall Creek Highway, Granbury, TX 76049",
+      "phone": "817-326-3647",
+      "image": "./img/shelter/office/539573.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/granbury-friends-for-animals-539573/",
+      "imageUrl": "https://cdn.findpawpal.com/office/539573.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:08:06.378435+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "revere",
+    "name": "Revere",
+    "label": "Revere, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/revere/",
+  "offices": [
+    {
+      "officeId": 40556,
+      "slug": "animal-umbrella-inc-40556",
+      "name": "Animal Umbrella, Inc.",
+      "address": "320 Charger Street, Revere, MA 02151",
+      "phone": "617-731-7267",
+      "image": "./img/shelter/office/40556.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-umbrella-inc-40556/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40556.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 41508,
+      "slug": "revere-animal-control-41508",
+      "name": "Revere Animal Control",
+      "address": "400 Revere Beach Parkway, Revere, MA 02151",
+      "phone": "781-286-8345",
+      "image": "./img/shelter/office/41508.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/revere-animal-control-41508/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41508.jpg?f=webp&w=730"
+    }
+  ]
+}

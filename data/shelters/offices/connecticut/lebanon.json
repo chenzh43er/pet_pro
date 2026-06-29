@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:36:23.712403+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "lebanon",
+    "name": "Lebanon",
+    "label": "Lebanon, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/lebanon/",
+  "offices": [
+    {
+      "officeId": 148825,
+      "slug": "lebanon-animal-control-148825",
+      "name": "Lebanon Animal Control",
+      "address": "27 Goshen Hill Road, Lebanon, CT 06249",
+      "phone": "860-642-6379",
+      "image": "https://cdn.findpawpal.com/office/148825.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/lebanon-animal-control-148825/"
+    }
+  ]
+}

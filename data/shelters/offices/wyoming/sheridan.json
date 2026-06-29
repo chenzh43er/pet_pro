@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T20:25:31.234240+00:00",
+  "state": {
+    "slug": "wyoming",
+    "name": "Wyoming"
+  },
+  "city": {
+    "slug": "sheridan",
+    "name": "Sheridan",
+    "label": "Sheridan, WY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wyoming/sheridan/",
+  "offices": [
+    {
+      "officeId": 593213,
+      "slug": "second-chance-sheridan-cat-rescue-593213",
+      "name": "Second Chance Sheridan Cat Rescue",
+      "address": "PO Box 7254, Sheridan, WY 82801",
+      "phone": "307-752-5807",
+      "image": "./img/shelter/office/593213.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/second-chance-sheridan-cat-rescue-593213/",
+      "imageUrl": "https://cdn.findpawpal.com/office/593213.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 600207,
+      "slug": "herding-rescue-dogs-herd-of-wy-600207",
+      "name": "Herding Rescue Dogs Herd of Wy",
+      "address": "141 East Colorado Street, Sheridan, WY 82801",
+      "phone": "307-752-0812",
+      "image": "./img/shelter/office/600207.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/herding-rescue-dogs-herd-of-wy-600207/",
+      "imageUrl": "https://cdn.findpawpal.com/office/600207.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 651771,
+      "slug": "sheridan-city-animal-shelter-651771",
+      "name": "Sheridan City Animal Shelter",
+      "address": "84 East Ridge Road, Sheridan, WY 82801",
+      "phone": "307-674-7694",
+      "image": "./img/shelter/office/651771.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sheridan-city-animal-shelter-651771/",
+      "imageUrl": "https://cdn.findpawpal.com/office/651771.jpg?f=webp&w=730"
+    }
+  ]
+}

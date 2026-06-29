@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:53:21.527597+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "indiana",
+    "name": "Indiana",
+    "label": "Indiana, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/indiana/",
+  "offices": [
+    {
+      "officeId": 437911,
+      "slug": "indiana-county-humane-society-437911",
+      "name": "Indiana County Humane Society",
+      "address": "65 Haven Drive, Indiana, PA 15701",
+      "phone": "724-465-3977",
+      "image": "./img/shelter/office/437911.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/indiana-county-humane-society-437911/",
+      "imageUrl": "https://cdn.findpawpal.com/office/437911.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 589255,
+      "slug": "four-footed-friends-589255",
+      "name": "Four Footed Friends",
+      "address": "228 Beck Rd, Indiana, PA 15701",
+      "phone": "724-349-1144",
+      "image": "./img/shelter/office/589255.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/four-footed-friends-589255/",
+      "imageUrl": "https://cdn.findpawpal.com/office/589255.jpg?f=webp&w=730"
+    }
+  ]
+}

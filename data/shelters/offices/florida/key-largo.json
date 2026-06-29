@@ -1,0 +1,42 @@
+{
+  "fetchedAt": "2026-06-27T18:14:55.926034+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "key-largo",
+    "name": "Key Largo",
+    "label": "Key Largo, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/key-largo/",
+  "offices": [
+    {
+      "slug": "upper-keys-humane-society-inc-271696",
+      "name": "Upper Keys Humane Society Inc",
+      "address": "101617 Overseas Highway, Key Largo, FL 33037",
+      "phone": "305-451-3848",
+      "image": "./img/shelter/office/271696.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/upper-keys-humane-society-inc-271696/",
+      "imageUrl": "https://cdn.findpawpal.com/office/271696.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "marrvelous-pet-rescues-350937",
+      "name": "Marrvelous Pet Rescues",
+      "address": "99900 Overseas Highway, Key Largo, FL 33037",
+      "phone": "305-453-1315",
+      "image": "./img/shelter/office/350937.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/marrvelous-pet-rescues-350937/",
+      "imageUrl": "https://cdn.findpawpal.com/office/350937.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-animal-care-coalition-inc-355852",
+      "name": "Humane Animal Care Coalition, Inc.",
+      "address": "283 Saint Thomas Avenue, Key Largo, FL 33037",
+      "phone": "305-453-0826",
+      "image": "./img/shelter/office/355852.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-animal-care-coalition-inc-355852/",
+      "imageUrl": "https://cdn.findpawpal.com/office/355852.jpg?f=webp&w=730"
+    }
+  ]
+}

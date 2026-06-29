@@ -1,0 +1,21 @@
+{
+  "officeId": 94940,
+  "slug": "my-pets-place-94940",
+  "name": "My Pets Place",
+  "address": "4035 Route 9, Howell, NJ 07731",
+  "street": "4035 Route 9",
+  "addressCity": "Howell",
+  "stateCode": "NJ",
+  "zip": "07731",
+  "phone": "732-370-9515",
+  "image": "./img/shelter/office/94940.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/my-pets-place-94940/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "howell",
+  "cityName": "Howell",
+  "cityLabel": "Howell, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/howell/",
+  "fetchedAt": "2026-06-27T19:26:41.167437+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/94940.jpg?f=webp&w=730"
+}

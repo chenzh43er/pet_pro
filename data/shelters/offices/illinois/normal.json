@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:47:16.646394+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "normal",
+    "name": "Normal",
+    "label": "Normal, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/normal/",
+  "offices": [
+    {
+      "officeId": 386827,
+      "slug": "humane-society-of-central-illinois-386827",
+      "name": "Humane Society of Central Illinois",
+      "address": "423 North Kays Drive, Normal, IL 61761",
+      "phone": "309-451-1000",
+      "image": "./img/shelter/office/386827.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-central-illinois-386827/",
+      "imageUrl": "https://cdn.findpawpal.com/office/386827.jpg?f=webp&w=730"
+    }
+  ]
+}

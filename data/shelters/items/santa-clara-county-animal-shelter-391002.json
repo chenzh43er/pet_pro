@@ -1,0 +1,21 @@
+{
+  "officeId": 391002,
+  "slug": "santa-clara-county-animal-shelter-391002",
+  "name": "Santa Clara County Animal Shelter",
+  "address": "12370 Murphy Avenue, San Martin, CA 95046",
+  "street": "12370 Murphy Avenue",
+  "addressCity": "San Martin",
+  "stateCode": "CA",
+  "zip": "95046",
+  "phone": "408-686-3900",
+  "image": "./img/shelter/office/391002.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/santa-clara-county-animal-shelter-391002/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "san-martin",
+  "cityName": "San Martin",
+  "cityLabel": "San Martin, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/san-martin/",
+  "fetchedAt": "2026-06-27T18:30:24.459056+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/391002.jpg?f=webp&w=730"
+}

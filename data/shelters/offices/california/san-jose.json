@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:30:16.729201+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "san-jose",
+    "name": "San Jose",
+    "label": "San Jose, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/san-jose/",
+  "offices": [
+    {
+      "officeId": 361160,
+      "slug": "bay-area-boxer-rescue-361160",
+      "name": "Bay Area Boxer Rescue",
+      "address": "PO Box 32686, San Jose, CA 95152",
+      "phone": "408-787-0700",
+      "image": "./img/shelter/office/361160.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bay-area-boxer-rescue-361160/",
+      "imageUrl": "https://cdn.findpawpal.com/office/361160.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 384920,
+      "slug": "san-jose-animal-control-384920",
+      "name": "San Jose Animal Control",
+      "address": "6095 Springer Way, San Jose, CA 95123",
+      "phone": "408-227-2273",
+      "image": "./img/shelter/office/384920.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/san-jose-animal-control-384920/",
+      "imageUrl": "https://cdn.findpawpal.com/office/384920.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 389186,
+      "slug": "mickaboo-companion-bird-rescue-389186",
+      "name": "Mickaboo Companion Bird Rescue",
+      "address": "PO Box 697, San Jose, CA 95106",
+      "phone": "650-301-6521",
+      "image": "./img/shelter/office/389186.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mickaboo-companion-bird-rescue-389186/",
+      "imageUrl": "https://cdn.findpawpal.com/office/389186.jpg?f=webp&w=730"
+    }
+  ]
+}

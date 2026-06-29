@@ -1,0 +1,21 @@
+{
+  "officeId": 7123,
+  "slug": "nevada-humane-society-7123",
+  "name": "Nevada Humane Society",
+  "address": "2825 Longley Lane, Reno, NV 89502",
+  "street": "2825 Longley Lane",
+  "addressCity": "Reno",
+  "stateCode": "NV",
+  "zip": "89502",
+  "phone": "775-856-2000",
+  "image": "./img/shelter/office/7123.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/nevada-humane-society-7123/",
+  "stateSlug": "nevada",
+  "stateName": "Nevada",
+  "citySlug": "reno",
+  "cityName": "Reno",
+  "cityLabel": "Reno, NV",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/nevada/reno/",
+  "fetchedAt": "2026-06-27T19:23:28.334433+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/7123.jpg?f=webp&w=730"
+}

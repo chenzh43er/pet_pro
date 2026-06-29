@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:58:43.864404+00:00",
+  "state": {
+    "slug": "south-dakota",
+    "name": "South Dakota"
+  },
+  "city": {
+    "slug": "brookings",
+    "name": "Brookings",
+    "label": "Brookings, SD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-dakota/brookings/",
+  "offices": [
+    {
+      "officeId": 607233,
+      "slug": "brookings-regional-humane-society-inc-607233",
+      "name": "Brookings Regional Humane Society Inc",
+      "address": "1027 Main Avenue South, Brookings, SD 57006",
+      "phone": "605-697-7387",
+      "image": "./img/shelter/office/607233.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/brookings-regional-humane-society-inc-607233/",
+      "imageUrl": "https://cdn.findpawpal.com/office/607233.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 714031,
+      "slug": "brookings-animal-shelter-714031",
+      "name": "Brookings Animal Shelter",
+      "address": "PO Box 270, Brookings, SD 57006",
+      "phone": "605-697-6387",
+      "image": "./img/shelter/office/714031.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/brookings-animal-shelter-714031/",
+      "imageUrl": "https://cdn.findpawpal.com/office/714031.jpg?f=webp&w=730"
+    }
+  ]
+}

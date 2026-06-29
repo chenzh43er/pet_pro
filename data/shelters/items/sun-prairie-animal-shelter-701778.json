@@ -1,0 +1,21 @@
+{
+  "officeId": 701778,
+  "slug": "sun-prairie-animal-shelter-701778",
+  "name": "Sun Prairie Animal Shelter",
+  "address": "3120 Edmonton Drive, Sun Prairie, WI 53590",
+  "street": "3120 Edmonton Drive",
+  "addressCity": "Sun Prairie",
+  "stateCode": "WI",
+  "zip": "53590",
+  "phone": "608-834-2700",
+  "image": "./img/shelter/office/701778.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/sun-prairie-animal-shelter-701778/",
+  "stateSlug": "wisconsin",
+  "stateName": "Wisconsin",
+  "citySlug": "sun-prairie",
+  "cityName": "Sun Prairie",
+  "cityLabel": "Sun Prairie, WI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/wisconsin/sun-prairie/",
+  "fetchedAt": "2026-06-27T20:24:19.821253+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/701778.jpg?f=webp&w=730"
+}

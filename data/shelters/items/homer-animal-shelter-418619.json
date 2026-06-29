@@ -1,0 +1,21 @@
+{
+  "officeId": 418619,
+  "slug": "homer-animal-shelter-418619",
+  "name": "Homer Animal Shelter",
+  "address": "5852 West Scott Road, Homer, NY 13077",
+  "street": "5852 West Scott Road",
+  "addressCity": "Homer",
+  "stateCode": "NY",
+  "zip": "13077",
+  "phone": "607-749-2734",
+  "image": "./img/shelter/office/418619.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/homer-animal-shelter-418619/",
+  "stateSlug": "new-york",
+  "stateName": "New York",
+  "citySlug": "homer",
+  "cityName": "Homer",
+  "cityLabel": "Homer, NY",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-york/homer/",
+  "fetchedAt": "2026-06-27T19:34:00.722218+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/418619.jpg?f=webp&w=730"
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:41:13.914871+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "richmond-hill",
+    "name": "Richmond Hill",
+    "label": "Richmond Hill, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/richmond-hill/",
+  "offices": [
+    {
+      "officeId": 133370,
+      "slug": "bryan-county-animal-shelter-133370",
+      "name": "Bryan County Animal Shelter",
+      "address": "PO Box 1186, Richmond Hill, GA 31324",
+      "phone": "912-756-3803",
+      "image": "./img/shelter/office/133370.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bryan-county-animal-shelter-133370/",
+      "imageUrl": "https://cdn.findpawpal.com/office/133370.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 149805,
+      "slug": "ratbone-rescues-149805",
+      "name": "Ratbone Rescues",
+      "address": "3601 Cartertown Road, Richmond Hill, GA 31324",
+      "phone": "912-667-5253",
+      "image": "./img/shelter/office/149805.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ratbone-rescues-149805/",
+      "imageUrl": "https://cdn.findpawpal.com/office/149805.jpg?f=webp&w=730"
+    }
+  ]
+}

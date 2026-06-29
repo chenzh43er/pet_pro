@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:51:27.371556+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "north-vernon",
+    "name": "North Vernon",
+    "label": "North Vernon, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/north-vernon/",
+  "offices": [
+    {
+      "officeId": 218549,
+      "slug": "jennings-county-humane-society-218549",
+      "name": "Jennings County Humane Society",
+      "address": "279 Oakridge Drive, North Vernon, IN 47265",
+      "phone": "812-346-5595",
+      "image": "./img/shelter/office/218549.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/jennings-county-humane-society-218549/",
+      "imageUrl": "https://cdn.findpawpal.com/office/218549.jpg?f=webp&w=730"
+    }
+  ]
+}

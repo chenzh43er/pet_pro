@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T19:05:37.682464+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "cambridge",
+    "name": "Cambridge",
+    "label": "Cambridge, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/cambridge/",
+  "offices": [
+    {
+      "officeId": 39827,
+      "slug": "humane-concern-39827",
+      "name": "Humane Concern",
+      "address": "170 Gore Street, Cambridge, MA 02141",
+      "phone": "617-577-0540",
+      "image": "./img/shelter/office/39827.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-concern-39827/",
+      "imageUrl": "https://cdn.findpawpal.com/office/39827.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40175,
+      "slug": "saint-meows-40175",
+      "name": "Saint Meows",
+      "address": "PO Box 380462, Cambridge, MA 02238",
+      "phone": "617-767-6294",
+      "image": "https://cdn.findpawpal.com/office/40175.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/saint-meows-40175/"
+    },
+    {
+      "officeId": 45520,
+      "slug": "cambridge-animal-control-45520",
+      "name": "Cambridge Animal Control",
+      "address": "344 Broadway, Cambridge, MA 02139",
+      "phone": "617-349-4376",
+      "image": "./img/shelter/office/45520.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cambridge-animal-control-45520/",
+      "imageUrl": "https://cdn.findpawpal.com/office/45520.jpg?f=webp&w=730"
+    }
+  ]
+}

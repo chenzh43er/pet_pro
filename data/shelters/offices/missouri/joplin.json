@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T19:19:19.124791+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "joplin",
+    "name": "Joplin",
+    "label": "Joplin, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/joplin/",
+  "offices": [
+    {
+      "officeId": 192387,
+      "slug": "golden-paw-pet-resort-192387",
+      "name": "Golden Paw Pet Resort",
+      "address": "2301 North Main Street, Joplin, MO 64801",
+      "phone": "417-623-0842",
+      "image": "./img/shelter/office/192387.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/golden-paw-pet-resort-192387/",
+      "imageUrl": "https://cdn.findpawpal.com/office/192387.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 192395,
+      "slug": "joplin-humane-society-192395",
+      "name": "Joplin Humane Society",
+      "address": "4400 Swede Lane, Joplin, MO 64801",
+      "phone": "417-623-3642",
+      "image": "./img/shelter/office/192395.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/joplin-humane-society-192395/",
+      "imageUrl": "https://cdn.findpawpal.com/office/192395.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 209464,
+      "slug": "missouri-homeless-animals-rescue-team-209464",
+      "name": "Missouri Homeless Animals Rescue Team",
+      "address": "PO Box 4724, Joplin, MO 64803",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/209464.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/missouri-homeless-animals-rescue-team-209464/"
+    }
+  ]
+}

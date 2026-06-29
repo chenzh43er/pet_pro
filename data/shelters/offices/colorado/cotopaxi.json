@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:33:52.647609+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "cotopaxi",
+    "name": "Cotopaxi",
+    "label": "Cotopaxi, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/cotopaxi/",
+  "offices": [
+    {
+      "officeId": 40285,
+      "slug": "high-peaks-cat-shelter-40285",
+      "name": "High Peaks Cat Shelter",
+      "address": "753 High Peaks Ranch Road, Cotopaxi, CO 81223",
+      "phone": "719-942-3792",
+      "image": "https://cdn.findpawpal.com/office/40285.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/high-peaks-cat-shelter-40285/"
+    }
+  ]
+}

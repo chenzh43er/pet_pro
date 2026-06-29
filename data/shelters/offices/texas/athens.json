@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:02:45.777492+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "athens",
+    "name": "Athens",
+    "label": "Athens, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/athens/",
+  "offices": [
+    {
+      "officeId": 633457,
+      "slug": "humane-society-633457",
+      "name": "Humane Society",
+      "address": "900 West College Street, Athens, TX 75751",
+      "phone": "903-677-7387",
+      "image": "./img/shelter/office/633457.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-633457/",
+      "imageUrl": "https://cdn.findpawpal.com/office/633457.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674418,
+      "slug": "feathers-and-tails-avian-santuary-and-rescue-674418",
+      "name": "Feathers and Tails Avian Santuary & Rescue",
+      "address": "PO Box 2839, Athens, TX 75751",
+      "phone": "903-677-5803",
+      "image": "./img/shelter/office/674418.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/feathers-and-tails-avian-santuary-and-rescue-674418/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674418.jpg?f=webp&w=730"
+    }
+  ]
+}

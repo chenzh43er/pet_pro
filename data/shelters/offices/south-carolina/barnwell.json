@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:56:48.480039+00:00",
+  "state": {
+    "slug": "south-carolina",
+    "name": "South Carolina"
+  },
+  "city": {
+    "slug": "barnwell",
+    "name": "Barnwell",
+    "label": "Barnwell, SC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-carolina/barnwell/",
+  "offices": [
+    {
+      "officeId": 552100,
+      "slug": "barnwell-county-animal-shelter-552100",
+      "name": "Barnwell County Animal Shelter",
+      "address": "57 Diamond Road, Barnwell, SC 29812",
+      "phone": "803-259-1656",
+      "image": "./img/shelter/office/552100.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/barnwell-county-animal-shelter-552100/",
+      "imageUrl": "https://cdn.findpawpal.com/office/552100.jpg?f=webp&w=730"
+    }
+  ]
+}

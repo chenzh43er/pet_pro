@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:03:16.863561+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "breckenridge",
+    "name": "Breckenridge",
+    "label": "Breckenridge, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/breckenridge/",
+  "offices": [
+    {
+      "officeId": 539261,
+      "slug": "breckenridge-animal-shelter-539261",
+      "name": "Breckenridge Animal Shelter",
+      "address": "601 North Dubois Street, Breckenridge, TX 76424",
+      "phone": "254-559-1194",
+      "image": "./img/shelter/office/539261.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/breckenridge-animal-shelter-539261/",
+      "imageUrl": "https://cdn.findpawpal.com/office/539261.jpg?f=webp&w=730"
+    }
+  ]
+}

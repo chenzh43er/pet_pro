@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:43:00.021779+00:00",
+  "state": {
+    "slug": "idaho",
+    "name": "Idaho"
+  },
+  "city": {
+    "slug": "fruitland",
+    "name": "Fruitland",
+    "label": "Fruitland, ID"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/idaho/fruitland/",
+  "offices": [
+    {
+      "officeId": 340055,
+      "slug": "fruitland-animal-shelter-340055",
+      "name": "Fruitland Animal Shelter",
+      "address": "907 Northwest 16th Street, Fruitland, ID 83619",
+      "phone": "208-452-7810",
+      "image": "./img/shelter/office/340055.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fruitland-animal-shelter-340055/",
+      "imageUrl": "https://cdn.findpawpal.com/office/340055.jpg?f=webp&w=730"
+    }
+  ]
+}

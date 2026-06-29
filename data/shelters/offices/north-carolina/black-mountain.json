@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T19:38:08.578814+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "black-mountain",
+    "name": "Black Mountain",
+    "label": "Black Mountain, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/black-mountain/",
+  "offices": [
+    {
+      "officeId": 238006,
+      "slug": "north-carolina-spca-238006",
+      "name": "North Carolina SPCA",
+      "address": "PO Box 446, Black Mountain, NC 28711",
+      "phone": "828-669-2296",
+      "image": "https://cdn.findpawpal.com/office/238006.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina-spca-238006/"
+    },
+    {
+      "officeId": 238064,
+      "slug": "full-moon-farm-inc-238064",
+      "name": "Full Moon Farm., Inc.",
+      "address": "PO Box 1548, Black Mountain, NC 28711",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/238064.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/full-moon-farm-inc-238064/"
+    }
+  ]
+}

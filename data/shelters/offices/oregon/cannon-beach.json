@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:50:13.699869+00:00",
+  "state": {
+    "slug": "oregon",
+    "name": "Oregon"
+  },
+  "city": {
+    "slug": "cannon-beach",
+    "name": "Cannon Beach",
+    "label": "Cannon Beach, OR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oregon/cannon-beach/",
+  "offices": [
+    {
+      "officeId": 622006,
+      "slug": "clatsop-friends-of-animals-622006",
+      "name": "Clatsop Friends of Animals",
+      "address": "PO Box 732, Cannon Beach, OR 97110",
+      "phone": "503-436-0363",
+      "image": "https://cdn.findpawpal.com/office/622006.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/clatsop-friends-of-animals-622006/"
+    }
+  ]
+}

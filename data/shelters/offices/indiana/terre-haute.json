@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T18:52:11.809884+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "terre-haute",
+    "name": "Terre Haute",
+    "label": "Terre Haute, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/terre-haute/",
+  "offices": [
+    {
+      "officeId": 201408,
+      "slug": "doberman-and-rottweiler-rescue-201408",
+      "name": "Doberman & Rottweiler Rescue",
+      "address": "5444 Eldridge Road, Terre Haute, IN 47802",
+      "phone": "812-299-5301",
+      "image": "./img/shelter/office/201408.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/doberman-and-rottweiler-rescue-201408/",
+      "imageUrl": "https://cdn.findpawpal.com/office/201408.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 214822,
+      "slug": "terre-haute-humane-society-214822",
+      "name": "Terre Haute Humane Society",
+      "address": "1811 South Fruitridge Avenue, Terre Haute, IN 47803",
+      "phone": "812-232-0293",
+      "image": "./img/shelter/office/214822.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/terre-haute-humane-society-214822/",
+      "imageUrl": "https://cdn.findpawpal.com/office/214822.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 218529,
+      "slug": "harmony-haven-218529",
+      "name": "Harmony Haven",
+      "address": "PO Box 3305, Terre Haute, IN 47803",
+      "phone": "812-299-2016",
+      "image": "./img/shelter/office/218529.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/harmony-haven-218529/",
+      "imageUrl": "https://cdn.findpawpal.com/office/218529.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 241663,
+      "slug": "miami-county-humane-society-241663",
+      "name": "Miami County Humane Society",
+      "address": "570 College Avenue, Terre Haute, IN 47802",
+      "phone": "317-472-2498",
+      "image": "./img/shelter/office/241663.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/miami-county-humane-society-241663/",
+      "imageUrl": "https://cdn.findpawpal.com/office/241663.jpg?f=webp&w=730"
+    }
+  ]
+}

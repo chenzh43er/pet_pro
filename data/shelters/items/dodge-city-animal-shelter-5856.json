@@ -1,0 +1,21 @@
+{
+  "officeId": 5856,
+  "slug": "dodge-city-animal-shelter-5856",
+  "name": "Dodge City Animal Shelter",
+  "address": "104 North 14th Avenue, Dodge, KS 67801",
+  "street": "104 North 14th Avenue",
+  "addressCity": "Dodge",
+  "stateCode": "KS",
+  "zip": "67801",
+  "phone": "620-225-1567",
+  "image": "./img/shelter/office/5856.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/dodge-city-animal-shelter-5856/",
+  "stateSlug": "kansas",
+  "stateName": "Kansas",
+  "citySlug": "dodge",
+  "cityName": "Dodge",
+  "cityLabel": "Dodge, KS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kansas/dodge/",
+  "fetchedAt": "2026-06-27T18:54:48.622855+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/5856.jpg?f=webp&w=730"
+}

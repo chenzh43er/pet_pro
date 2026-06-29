@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:09:39.229801+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "birmingham",
+    "name": "Birmingham",
+    "label": "Birmingham, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/birmingham/",
+  "offices": [
+    {
+      "officeId": 189580,
+      "slug": "birmingham-dog-pound-189580",
+      "name": "Birmingham Dog Pound",
+      "address": "PO Box 3001, Birmingham, MI 48012",
+      "phone": "248-642-6888",
+      "image": "./img/shelter/office/189580.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/birmingham-dog-pound-189580/",
+      "imageUrl": "https://cdn.findpawpal.com/office/189580.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 207896,
+      "slug": "make-a-difference-rescue-inc-mad-207896",
+      "name": "Make A Difference Rescue Inc.Mad",
+      "address": "PO Box 890, Birmingham, MI 48012",
+      "phone": "248-703-9167",
+      "image": "./img/shelter/office/207896.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/make-a-difference-rescue-inc-mad-207896/",
+      "imageUrl": "https://cdn.findpawpal.com/office/207896.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 237433,
+      "slug": "birmingham-animal-control-237433",
+      "name": "Birmingham Animal Control",
+      "address": "851 South Eton Street, Birmingham, MI 48009",
+      "phone": "248-530-1725",
+      "image": "./img/shelter/office/237433.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/birmingham-animal-control-237433/",
+      "imageUrl": "https://cdn.findpawpal.com/office/237433.jpg?f=webp&w=730"
+    }
+  ]
+}

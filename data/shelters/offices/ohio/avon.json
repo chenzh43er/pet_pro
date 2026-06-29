@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T19:42:49.357094+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "avon",
+    "name": "Avon",
+    "label": "Avon, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/avon/",
+  "offices": [
+    {
+      "officeId": 431469,
+      "slug": "dantes-rescue-division-431469",
+      "name": "Dante's Rescue Division",
+      "address": "31671 Schwartz Road, Avon, OH 44011",
+      "phone": "440-937-5411",
+      "image": "https://cdn.findpawpal.com/office/431469.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/dantes-rescue-division-431469/"
+    },
+    {
+      "officeId": 580565,
+      "slug": "love-a-stray-580565",
+      "name": "Love-A-Stray",
+      "address": "PO Box 46, Avon, OH 44011",
+      "phone": "216-556-4993",
+      "image": "https://cdn.findpawpal.com/office/580565.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/love-a-stray-580565/"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 110208,
+  "slug": "hope-for-pets-110208",
+  "name": "Hope For Pets",
+  "address": "218 Red Cardinal Drive, Mount Washington, KY 40047",
+  "street": "218 Red Cardinal Drive",
+  "addressCity": "Mount Washington",
+  "stateCode": "KY",
+  "zip": "40047",
+  "phone": "502-955-3586",
+  "image": "./img/shelter/office/110208.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/hope-for-pets-110208/",
+  "stateSlug": "kentucky",
+  "stateName": "Kentucky",
+  "citySlug": "mount-washington",
+  "cityName": "Mount Washington",
+  "cityLabel": "Mount Washington, KY",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kentucky/mount-washington/",
+  "fetchedAt": "2026-06-27T18:57:56.844182+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/110208.jpg?f=webp&w=730"
+}

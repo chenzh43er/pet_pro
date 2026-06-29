@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T20:14:36.742035+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "hot-springs",
+    "name": "Hot Springs",
+    "label": "Hot Springs, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/hot-springs/",
+  "offices": [
+    {
+      "officeId": 579841,
+      "slug": "bath-animal-welfare-foundation-579841",
+      "name": "Bath Animal Welfare Foundation",
+      "address": "9295 Sam Snead Highway, Hot Springs, VA 24445",
+      "phone": "540-839-8666",
+      "image": "./img/shelter/office/579841.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bath-animal-welfare-foundation-579841/",
+      "imageUrl": "https://cdn.findpawpal.com/office/579841.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 706828,
+      "slug": "bath-county-animal-shelter-706828",
+      "name": "Bath County Animal Shelter",
+      "address": "1164 Virginia Avenue, Hot Springs, VA 24445",
+      "phone": "540-839-7210",
+      "image": "https://cdn.findpawpal.com/office/706828.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/bath-county-animal-shelter-706828/"
+    }
+  ]
+}

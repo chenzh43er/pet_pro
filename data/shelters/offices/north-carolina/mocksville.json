@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:40:27.787571+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "mocksville",
+    "name": "Mocksville",
+    "label": "Mocksville, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/mocksville/",
+  "offices": [
+    {
+      "officeId": 257039,
+      "slug": "davie-county-animal-control-257039",
+      "name": "Davie County Animal Control",
+      "address": "123 South Main Street, Mocksville, NC 27028",
+      "phone": "336-751-0227",
+      "image": "./img/shelter/office/257039.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/davie-county-animal-control-257039/",
+      "imageUrl": "https://cdn.findpawpal.com/office/257039.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 265725,
+      "slug": "davie-county-humane-society-265725",
+      "name": "Davie County Humane Society",
+      "address": "291 Eaton Road, Mocksville, NC 27028",
+      "phone": "336-751-5214",
+      "image": "./img/shelter/office/265725.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/davie-county-humane-society-265725/",
+      "imageUrl": "https://cdn.findpawpal.com/office/265725.jpg?f=webp&w=730"
+    }
+  ]
+}

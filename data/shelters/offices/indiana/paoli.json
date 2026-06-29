@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:51:31.948330+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "paoli",
+    "name": "Paoli",
+    "label": "Paoli, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/paoli/",
+  "offices": [
+    {
+      "officeId": 216847,
+      "slug": "orange-county-humane-society-216847",
+      "name": "Orange County Humane Society",
+      "address": "856 North Greenbriar Drive, Paoli, IN 47454",
+      "phone": "812-723-4142",
+      "image": "./img/shelter/office/216847.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/orange-county-humane-society-216847/",
+      "imageUrl": "https://cdn.findpawpal.com/office/216847.jpg?f=webp&w=730"
+    }
+  ]
+}

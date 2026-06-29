@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T18:36:56.764556+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "norwalk",
+    "name": "Norwalk",
+    "label": "Norwalk, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/norwalk/",
+  "offices": [
+    {
+      "officeId": 147420,
+      "slug": "paws-147420",
+      "name": "PAWS",
+      "address": "504 Main Avenue, Norwalk, CT 06851",
+      "phone": "203-750-9572",
+      "image": "./img/shelter/office/147420.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/paws-147420/",
+      "imageUrl": "https://cdn.findpawpal.com/office/147420.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 161618,
+      "slug": "norwalk-city-animal-control-161618",
+      "name": "Norwalk City Animal Control",
+      "address": "13 South Smith Street, Norwalk, CT 06855",
+      "phone": "203-854-3240",
+      "image": "./img/shelter/office/161618.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/norwalk-city-animal-control-161618/",
+      "imageUrl": "https://cdn.findpawpal.com/office/161618.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 167700,
+      "slug": "hop-a-long-hollow-167700",
+      "name": "Hop-A-Long Hollow",
+      "address": "1 Woodside Avenue, Norwalk, CT 06855",
+      "phone": "203-247-4661",
+      "image": "./img/shelter/office/167700.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hop-a-long-hollow-167700/",
+      "imageUrl": "https://cdn.findpawpal.com/office/167700.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 177466,
+      "slug": "love-at-first-sight-177466",
+      "name": "Love at First Sight",
+      "address": "330 Main Avenue, Norwalk, CT 06851",
+      "phone": "203-846-8146",
+      "image": "./img/shelter/office/177466.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/love-at-first-sight-177466/",
+      "imageUrl": "https://cdn.findpawpal.com/office/177466.jpg?f=webp&w=730"
+    }
+  ]
+}

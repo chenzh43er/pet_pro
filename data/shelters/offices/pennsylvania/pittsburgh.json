@@ -1,0 +1,124 @@
+{
+  "fetchedAt": "2026-06-27T19:54:24.676872+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "pittsburgh",
+    "name": "Pittsburgh",
+    "label": "Pittsburgh, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/pittsburgh/",
+  "offices": [
+    {
+      "officeId": 428871,
+      "slug": "animal-advocates-inc-428871",
+      "name": "Animal Advocates Inc",
+      "address": "35 Wabash Street, Pittsburgh, PA 15220",
+      "phone": "412-928-9777",
+      "image": "./img/shelter/office/428871.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-advocates-inc-428871/",
+      "imageUrl": "https://cdn.findpawpal.com/office/428871.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 429194,
+      "slug": "hide-e-hole-ferret-rescue-inc-429194",
+      "name": "Hide-E-Hole Ferret Rescue, Inc.",
+      "address": "145 Margaret Street, Pittsburgh, PA 15210",
+      "phone": "412-481-5927",
+      "image": "./img/shelter/office/429194.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hide-e-hole-ferret-rescue-inc-429194/",
+      "imageUrl": "https://cdn.findpawpal.com/office/429194.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 474367,
+      "slug": "animal-full-life-rescue-inc-474367",
+      "name": "Animal Full Life Rescue, Inc.",
+      "address": "908 Ramsey Street, Pittsburgh, PA 15221",
+      "phone": "412-371-7446",
+      "image": "./img/shelter/office/474367.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-full-life-rescue-inc-474367/",
+      "imageUrl": "https://cdn.findpawpal.com/office/474367.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 474671,
+      "slug": "animal-care-and-welfare-inc-474671",
+      "name": "Animal Care and Welfare, Inc.",
+      "address": "PO Box 8257, Pittsburgh, PA 15218",
+      "phone": "412-244-1372",
+      "image": "./img/shelter/office/474671.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-care-and-welfare-inc-474671/",
+      "imageUrl": "https://cdn.findpawpal.com/office/474671.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 474777,
+      "slug": "tri-county-humane-protection-inc-474777",
+      "name": "Tri-County Humane Protection, Inc.",
+      "address": "PO Box 9893, Pittsburgh, PA 15227",
+      "phone": "412-381-5003",
+      "image": "./img/shelter/office/474777.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tri-county-humane-protection-inc-474777/",
+      "imageUrl": "https://cdn.findpawpal.com/office/474777.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 588895,
+      "slug": "animal-rescue-league-of-western-pennsylvania-588895",
+      "name": "Animal Rescue League of Western Pennsylvania",
+      "address": "6620 Hamilton Avenue, Pittsburgh, PA 15206",
+      "phone": "412-345-7300",
+      "image": "./img/shelter/office/588895.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-rescue-league-of-western-pennsylvania-588895/",
+      "imageUrl": "https://cdn.findpawpal.com/office/588895.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 588903,
+      "slug": "animal-friends-inc-588903",
+      "name": "Animal Friends, Inc.",
+      "address": "562 Camp Horne Road, Pittsburgh, PA 15237",
+      "phone": "412-566-2103",
+      "image": "./img/shelter/office/588903.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-friends-inc-588903/",
+      "imageUrl": "https://cdn.findpawpal.com/office/588903.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 596371,
+      "slug": "pittsburgh-animal-control-596371",
+      "name": "Pittsburgh Animal Control",
+      "address": "3001 Railroad Street, Pittsburgh, PA 15201",
+      "phone": "412-255-2036",
+      "image": "./img/shelter/office/596371.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pittsburgh-animal-control-596371/",
+      "imageUrl": "https://cdn.findpawpal.com/office/596371.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 644768,
+      "slug": "western-pennsylvania-humane-society-644768",
+      "name": "Western Pennsylvania Humane Society",
+      "address": "1101 Western Avenue, Pittsburgh, PA 15233",
+      "phone": "412-321-4625",
+      "image": "./img/shelter/office/644768.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/western-pennsylvania-humane-society-644768/",
+      "imageUrl": "https://cdn.findpawpal.com/office/644768.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 688351,
+      "slug": "southwest-pennsylvania-retriever-rescue-organization-688351",
+      "name": "Southwest Pennsylvania Retriever Rescue Organization",
+      "address": "142 Stark Drive, Pittsburgh, PA 15239",
+      "phone": "412-795-0163",
+      "image": "https://cdn.findpawpal.com/office/688351.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/southwest-pennsylvania-retriever-rescue-organization-688351/"
+    },
+    {
+      "officeId": 688353,
+      "slug": "spencer-and-friend-animal-rescue-inc-688353",
+      "name": "Spencer and Friend Animal Rescue, Inc.",
+      "address": "515 California Avenue, Pittsburgh, PA 15202",
+      "phone": "412-734-0810",
+      "image": "./img/shelter/office/688353.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/spencer-and-friend-animal-rescue-inc-688353/",
+      "imageUrl": "https://cdn.findpawpal.com/office/688353.jpg?f=webp&w=730"
+    }
+  ]
+}

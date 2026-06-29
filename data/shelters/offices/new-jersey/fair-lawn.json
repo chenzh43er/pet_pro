@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:26:03.397519+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "fair-lawn",
+    "name": "Fair Lawn",
+    "label": "Fair Lawn, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/fair-lawn/",
+  "offices": [
+    {
+      "officeId": 103676,
+      "slug": "fair-lawn-animal-pound-103676",
+      "name": "Fair Lawn Animal Pound",
+      "address": "20-05 Saddle River Road, Fair Lawn, NJ 07410",
+      "phone": "201-794-5327",
+      "image": "./img/shelter/office/103676.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fair-lawn-animal-pound-103676/",
+      "imageUrl": "https://cdn.findpawpal.com/office/103676.jpg?f=webp&w=730"
+    }
+  ]
+}

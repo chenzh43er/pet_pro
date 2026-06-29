@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:15:29.812928+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "stacy",
+    "name": "Stacy",
+    "label": "Stacy, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/stacy/",
+  "offices": [
+    {
+      "officeId": 394302,
+      "slug": "jack-pine-guinea-pig-rescue-394302",
+      "name": "Jack Pine Guinea Pig Rescue",
+      "address": "26515 Apollo Street Northeast, Stacy, MN 55079",
+      "phone": "651-440-6270",
+      "image": "./img/shelter/office/394302.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/jack-pine-guinea-pig-rescue-394302/",
+      "imageUrl": "https://cdn.findpawpal.com/office/394302.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 44985,
+  "slug": "dudley-animal-shelter-44985",
+  "name": "Dudley Animal Shelter",
+  "address": "71 West Main Street, Dudley, MA 01571",
+  "street": "71 West Main Street",
+  "addressCity": "Dudley",
+  "stateCode": "MA",
+  "zip": "01571",
+  "phone": "508-949-8024",
+  "image": "./img/shelter/office/44985.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/dudley-animal-shelter-44985/",
+  "stateSlug": "massachusetts",
+  "stateName": "Massachusetts",
+  "citySlug": "dudley",
+  "cityName": "Dudley",
+  "cityLabel": "Dudley, MA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/massachusetts/dudley/",
+  "fetchedAt": "2026-06-27T19:05:55.577153+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/44985.jpg?f=webp&w=730"
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 148223,
+  "slug": "mansfield-animal-control-shelter-148223",
+  "name": "Mansfield Animal Control Shelter",
+  "address": "4 South Eagleville Road, Mansfield Center, CT 06268",
+  "street": "4 South Eagleville Road",
+  "addressCity": "Mansfield Center",
+  "stateCode": "CT",
+  "zip": "06268",
+  "phone": "860-487-0137",
+  "image": "./img/shelter/office/148223.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/mansfield-animal-control-shelter-148223/",
+  "stateSlug": "connecticut",
+  "stateName": "Connecticut",
+  "citySlug": "mansfield-center",
+  "cityName": "Mansfield Center",
+  "cityLabel": "Mansfield Center, CT",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/connecticut/mansfield-center/",
+  "fetchedAt": "2026-06-27T18:36:31.224034+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/148223.jpg?f=webp&w=730"
+}

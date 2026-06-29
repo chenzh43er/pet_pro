@@ -1,0 +1,21 @@
+{
+  "officeId": 205404,
+  "slug": "humane-society-205404",
+  "name": "Humane Society",
+  "address": "1750 Ahlberg Road, Traverse, MI 49696",
+  "street": "1750 Ahlberg Road",
+  "addressCity": "Traverse",
+  "stateCode": "MI",
+  "zip": "49696",
+  "phone": "231-946-5116",
+  "image": "./img/shelter/office/205404.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/humane-society-205404/",
+  "stateSlug": "michigan",
+  "stateName": "Michigan",
+  "citySlug": "traverse",
+  "cityName": "Traverse",
+  "cityLabel": "Traverse, MI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/michigan/traverse/",
+  "fetchedAt": "2026-06-27T19:13:01.949413+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/205404.jpg?f=webp&w=730"
+}

@@ -1,0 +1,233 @@
+{
+  "fetchedAt": "2026-06-27T20:05:51.316946+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "houston",
+    "name": "Houston",
+    "label": "Houston, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/houston/",
+  "offices": [
+    {
+      "officeId": 478040,
+      "slug": "mr-ks-halfway-house-for-hounds-and-kitties-too-478040",
+      "name": "Mr. K's Halfway House for Hounds & Kitties Too",
+      "address": "9203 Jackrabbit Road, Houston, TX 77095",
+      "phone": "281-463-9884",
+      "image": "./img/shelter/office/478040.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mr-ks-halfway-house-for-hounds-and-kitties-too-478040/",
+      "imageUrl": "https://cdn.findpawpal.com/office/478040.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 478820,
+      "slug": "adopt-a-cat-478820",
+      "name": "Adopt A Cat",
+      "address": "1401 Taft Street, Houston, TX 77019",
+      "phone": "713-523-0918",
+      "image": "./img/shelter/office/478820.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/adopt-a-cat-478820/",
+      "imageUrl": "https://cdn.findpawpal.com/office/478820.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 478833,
+      "slug": "greyhound-pets-of-america-478833",
+      "name": "Greyhound Pets of America",
+      "address": "5602 Royalton Street, Houston, TX 77081",
+      "phone": "713-667-3804",
+      "image": "./img/shelter/office/478833.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhound-pets-of-america-478833/",
+      "imageUrl": "https://cdn.findpawpal.com/office/478833.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 478854,
+      "slug": "houston-animal-welfare-coalition-inc-478854",
+      "name": "Houston Animal Welfare Coalition, Inc.",
+      "address": "PO Box 721463, Houston, TX 77272",
+      "phone": "713-768-1332",
+      "image": "./img/shelter/office/478854.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/houston-animal-welfare-coalition-inc-478854/",
+      "imageUrl": "https://cdn.findpawpal.com/office/478854.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 493357,
+      "slug": "twylas-friends-493357",
+      "name": "Twyla's Friends",
+      "address": "526 Kingwood Drive, Houston, TX 77339",
+      "phone": "281-319-1488",
+      "image": "./img/shelter/office/493357.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/twylas-friends-493357/",
+      "imageUrl": "https://cdn.findpawpal.com/office/493357.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 517648,
+      "slug": "the-zeke-fund-517648",
+      "name": "The Zeke Fund",
+      "address": "12121 Wickchester Lane, Houston, TX 77079",
+      "phone": "281-496-1249",
+      "image": "./img/shelter/office/517648.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-zeke-fund-517648/",
+      "imageUrl": "https://cdn.findpawpal.com/office/517648.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 519299,
+      "slug": "houston-animal-control-519299",
+      "name": "Houston Animal Control",
+      "address": "7747 Willow Mint Lane, Houston, TX 77086",
+      "phone": "832-602-5645",
+      "image": "./img/shelter/office/519299.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/houston-animal-control-519299/",
+      "imageUrl": "https://cdn.findpawpal.com/office/519299.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 523683,
+      "slug": "homeless-pet-placement-league-523683",
+      "name": "Homeless Pet Placement League",
+      "address": "PO Box 273027, Houston, TX 77277",
+      "phone": "713-862-7387",
+      "image": "./img/shelter/office/523683.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/homeless-pet-placement-league-523683/",
+      "imageUrl": "https://cdn.findpawpal.com/office/523683.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 524724,
+      "slug": "houston-animal-regulation-524724",
+      "name": "Houston Animal Regulation",
+      "address": "2700 Evella Street, Houston, TX 77026",
+      "phone": "713-238-9600",
+      "image": "https://cdn.findpawpal.com/office/524724.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/houston-animal-regulation-524724/"
+    },
+    {
+      "officeId": 537204,
+      "slug": "clear-lake-all-breed-rescue-537204",
+      "name": "Clear Lake All Breed Rescue",
+      "address": "PO Box 591270, Houston, TX 77259",
+      "phone": "",
+      "image": "./img/shelter/office/537204.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/clear-lake-all-breed-rescue-537204/",
+      "imageUrl": "https://cdn.findpawpal.com/office/537204.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 537237,
+      "slug": "saving-animals-across-borders-537237",
+      "name": "Saving Animals Across Borders",
+      "address": "PO Box 130897, Houston, TX 77219",
+      "phone": "713-527-4490",
+      "image": "./img/shelter/office/537237.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/saving-animals-across-borders-537237/",
+      "imageUrl": "https://cdn.findpawpal.com/office/537237.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 538202,
+      "slug": "veterinary-public-health-538202",
+      "name": "Veterinary Public Health",
+      "address": "612 Canino Road, Houston, TX 77076",
+      "phone": "281-999-3191",
+      "image": "./img/shelter/office/538202.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/veterinary-public-health-538202/",
+      "imageUrl": "https://cdn.findpawpal.com/office/538202.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 539444,
+      "slug": "animal-control-department-harris-county-sheriff-department-539444",
+      "name": "Animal Control Department Harris County Sheriff Department",
+      "address": "1307 Baker Street, Houston, TX 77002",
+      "phone": "713-454-7080",
+      "image": "./img/shelter/office/539444.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-control-department-harris-county-sheriff-department-539444/",
+      "imageUrl": "https://cdn.findpawpal.com/office/539444.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 539447,
+      "slug": "german-shepherd-dog-rescue-referral-of-houston-539447",
+      "name": "German Shepherd Dog Rescue Referral of Houston",
+      "address": "PO Box 8877, Houston, TX 77249",
+      "phone": "281-484-1737",
+      "image": "./img/shelter/office/539447.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/german-shepherd-dog-rescue-referral-of-houston-539447/",
+      "imageUrl": "https://cdn.findpawpal.com/office/539447.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 539471,
+      "slug": "ginas-heart-of-gold-rescue-539471",
+      "name": "Gina's Heart of Gold Rescue",
+      "address": "9245 Opelika Street, Houston, TX 77080",
+      "phone": "713-329-9304",
+      "image": "./img/shelter/office/539471.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ginas-heart-of-gold-rescue-539471/",
+      "imageUrl": "https://cdn.findpawpal.com/office/539471.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 633116,
+      "slug": "spay-neuter-assistance-program-633116",
+      "name": "Spay Neuter Assistance Program",
+      "address": "PO Box 70286, Houston, TX 77270",
+      "phone": "713-862-3863",
+      "image": "./img/shelter/office/633116.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/spay-neuter-assistance-program-633116/",
+      "imageUrl": "https://cdn.findpawpal.com/office/633116.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 635414,
+      "slug": "its-all-about-love-635414",
+      "name": "It's All About Love",
+      "address": "1301 Walton Street, Houston, TX 77009",
+      "phone": "713-784-4120",
+      "image": "./img/shelter/office/635414.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/its-all-about-love-635414/",
+      "imageUrl": "https://cdn.findpawpal.com/office/635414.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674383,
+      "slug": "barc-animal-shelter-and-adoptions-674383",
+      "name": "BARC Animal Shelter & Adoptions",
+      "address": "3200 Carr Street, Houston, TX 77026",
+      "phone": "713-229-7300",
+      "image": "./img/shelter/office/674383.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/barc-animal-shelter-and-adoptions-674383/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674383.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674391,
+      "slug": "houston-humane-society-674391",
+      "name": "Houston Humane Society",
+      "address": "14700 Almeda Road, Houston, TX 77053",
+      "phone": "713-433-6421",
+      "image": "./img/shelter/office/674391.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/houston-humane-society-674391/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674391.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 702147,
+      "slug": "pets-are-wonderful-support-702147",
+      "name": "Pets Are Wonderful Support",
+      "address": "14900 Woodham Drive, Houston, TX 77073",
+      "phone": "281-443-3360",
+      "image": "https://cdn.findpawpal.com/office/702147.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/pets-are-wonderful-support-702147/"
+    },
+    {
+      "officeId": 702268,
+      "slug": "homeless-and-orphaned-pets-endeavor-702268",
+      "name": "Homeless & Orphaned Pets Endeavor",
+      "address": "2310 South Parkview Drive, Houston, TX 77084",
+      "phone": "713-622-4673",
+      "image": "./img/shelter/office/702268.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/homeless-and-orphaned-pets-endeavor-702268/",
+      "imageUrl": "https://cdn.findpawpal.com/office/702268.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 702269,
+      "slug": "houston-spca-702269",
+      "name": "Houston SPCA",
+      "address": "900 Portway Drive, Houston, TX 77024",
+      "phone": "713-869-7722",
+      "image": "./img/shelter/office/702269.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/houston-spca-702269/",
+      "imageUrl": "https://cdn.findpawpal.com/office/702269.jpg?f=webp&w=730"
+    }
+  ]
+}

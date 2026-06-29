@@ -1,0 +1,21 @@
+{
+  "officeId": 311638,
+  "slug": "humane-society-falconer-311638",
+  "name": "Humane Society Falconer",
+  "address": "1805 East Elmwood Avenue, Falconer, NY 14733",
+  "street": "1805 East Elmwood Avenue",
+  "addressCity": "Falconer",
+  "stateCode": "NY",
+  "zip": "14733",
+  "phone": "716-665-2209",
+  "image": "./img/shelter/office/311638.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/humane-society-falconer-311638/",
+  "stateSlug": "new-york",
+  "stateName": "New York",
+  "citySlug": "falconer",
+  "cityName": "Falconer",
+  "cityLabel": "Falconer, NY",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-york/falconer/",
+  "fetchedAt": "2026-06-27T19:33:19.837475+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/311638.jpg?f=webp&w=730"
+}

@@ -1,0 +1,54 @@
+{
+  "fetchedAt": "2026-06-27T20:20:21.915298+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "follansbee",
+    "name": "Follansbee",
+    "label": "Follansbee, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/follansbee/",
+  "offices": [
+    {
+      "officeId": 453621,
+      "slug": "friends-4-life-453621",
+      "name": "Friends-4-Life",
+      "address": "1801 Eldersville Road, Follansbee, WV 26037",
+      "phone": "304-527-3987",
+      "image": "./img/shelter/office/453621.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-4-life-453621/",
+      "imageUrl": "https://cdn.findpawpal.com/office/453621.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 453781,
+      "slug": "bosney-and-densmore-animal-shelter-453781",
+      "name": "Bosney and Densmore Animal Shelter",
+      "address": "317 Delta Road 11, Follansbee, WV 26037",
+      "phone": "614-283-3650",
+      "image": "./img/shelter/office/453781.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bosney-and-densmore-animal-shelter-453781/",
+      "imageUrl": "https://cdn.findpawpal.com/office/453781.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 622538,
+      "slug": "jefferson-county-humane-society-622538",
+      "name": "Jefferson County Humane Society",
+      "address": "317 Delta Road 11, Follansbee, WV 26037",
+      "phone": "614-283-1336",
+      "image": "./img/shelter/office/622538.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/jefferson-county-humane-society-622538/",
+      "imageUrl": "https://cdn.findpawpal.com/office/622538.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 696130,
+      "slug": "puppys-purrs-rescue-696130",
+      "name": "Puppys Purrs Rescue",
+      "address": "259 May Road, Follansbee, WV 26037",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/696130.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/puppys-purrs-rescue-696130/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:02:25.638297+00:00",
+  "state": {
+    "slug": "maine",
+    "name": "Maine"
+  },
+  "city": {
+    "slug": "thomaston",
+    "name": "Thomaston",
+    "label": "Thomaston, ME"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maine/thomaston/",
+  "offices": [
+    {
+      "officeId": 338291,
+      "slug": "humane-society-of-knox-county-338291",
+      "name": "Humane Society of Knox County",
+      "address": "17 Buttermilk Lane, Thomaston, ME 04861",
+      "phone": "207-594-2200",
+      "image": "./img/shelter/office/338291.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-knox-county-338291/",
+      "imageUrl": "https://cdn.findpawpal.com/office/338291.jpg?f=webp&w=730"
+    }
+  ]
+}

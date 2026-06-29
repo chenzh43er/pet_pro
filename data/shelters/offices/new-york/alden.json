@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:31:25.780057+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "alden",
+    "name": "Alden",
+    "label": "Alden, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/alden/",
+  "offices": [
+    {
+      "officeId": 311782,
+      "slug": "buffalo-pug-and-small-breed-rescue-inc-311782",
+      "name": "Buffalo Pug and Small Breed Rescue, Inc.",
+      "address": "12405 Clinton Street, Alden, NY 14004",
+      "phone": "716-805-8314",
+      "image": "./img/shelter/office/311782.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/buffalo-pug-and-small-breed-rescue-inc-311782/",
+      "imageUrl": "https://cdn.findpawpal.com/office/311782.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 341788,
+      "slug": "adopt-a-pet-inc-341788",
+      "name": "Adopt-A-Pet, Inc.",
+      "address": "100 Sullivan Road, Alden, NY 14004",
+      "phone": "716-633-9997",
+      "image": "./img/shelter/office/341788.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/adopt-a-pet-inc-341788/",
+      "imageUrl": "https://cdn.findpawpal.com/office/341788.jpg?f=webp&w=730"
+    }
+  ]
+}

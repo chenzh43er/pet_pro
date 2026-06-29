@@ -1,0 +1,21 @@
+{
+  "officeId": 340454,
+  "slug": "pocatello-animal-shelter-340454",
+  "name": "Pocatello Animal Shelter",
+  "address": "3100 Avenue of the Chiefs, Pocatello, ID 83201",
+  "street": "3100 Avenue of the Chiefs",
+  "addressCity": "Pocatello",
+  "stateCode": "ID",
+  "zip": "83201",
+  "phone": "208-234-6156",
+  "image": "./img/shelter/office/340454.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pocatello-animal-shelter-340454/",
+  "stateSlug": "idaho",
+  "stateName": "Idaho",
+  "citySlug": "pocatello",
+  "cityName": "Pocatello",
+  "cityLabel": "Pocatello, ID",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/idaho/pocatello/",
+  "fetchedAt": "2026-06-27T18:43:30.249902+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/340454.jpg?f=webp&w=730"
+}

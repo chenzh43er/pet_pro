@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:20:43.265490+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "st-james",
+    "name": "St. James",
+    "label": "St. James, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/st-james/",
+  "offices": [
+    {
+      "officeId": 205647,
+      "slug": "tri-co-humane-society-205647",
+      "name": "Tri Co Humane Society",
+      "address": "745 East Springfield Street, St. James, MO 65559",
+      "phone": "573-265-7955",
+      "image": "./img/shelter/office/205647.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tri-co-humane-society-205647/",
+      "imageUrl": "https://cdn.findpawpal.com/office/205647.jpg?f=webp&w=730"
+    }
+  ]
+}

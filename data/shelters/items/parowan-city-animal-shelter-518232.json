@@ -1,0 +1,21 @@
+{
+  "officeId": 518232,
+  "slug": "parowan-city-animal-shelter-518232",
+  "name": "Parowan City Animal Shelter",
+  "address": "PO Box 340, Parowan, UT 84761",
+  "street": "PO Box 340",
+  "addressCity": "Parowan",
+  "stateCode": "UT",
+  "zip": "84761",
+  "phone": "801-477-3383",
+  "image": "./img/shelter/office/518232.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/parowan-city-animal-shelter-518232/",
+  "stateSlug": "utah",
+  "stateName": "Utah",
+  "citySlug": "parowan",
+  "cityName": "Parowan",
+  "cityLabel": "Parowan, UT",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/utah/parowan/",
+  "fetchedAt": "2026-06-27T20:11:10.359910+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/518232.jpg?f=webp&w=730"
+}

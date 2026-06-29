@@ -1,0 +1,21 @@
+{
+  "officeId": 271697,
+  "slug": "pals-for-paws-271697",
+  "name": "Pals For Paws",
+  "address": "5239 U.S. 17 Business, New Bern, NC 28562",
+  "street": "5239 U.S. 17 Business",
+  "addressCity": "New Bern",
+  "stateCode": "NC",
+  "zip": "28562",
+  "phone": "252-637-7387",
+  "image": "./img/shelter/office/271697.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pals-for-paws-271697/",
+  "stateSlug": "north-carolina",
+  "stateName": "North Carolina",
+  "citySlug": "new-bern",
+  "cityName": "New Bern",
+  "cityLabel": "New Bern, NC",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/north-carolina/new-bern/",
+  "fetchedAt": "2026-06-27T19:40:38.470532+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/271697.jpg?f=webp&w=730"
+}

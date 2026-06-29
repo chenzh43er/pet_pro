@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:05:42.168325+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "cheshire",
+    "name": "Cheshire",
+    "label": "Cheshire, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/cheshire/",
+  "offices": [
+    {
+      "officeId": 41743,
+      "slug": "cheshire-animal-control-41743",
+      "name": "Cheshire Animal Control",
+      "address": "93 Furnace Hill, Cheshire, MA 01225",
+      "phone": "413-743-9750",
+      "image": "https://cdn.findpawpal.com/office/41743.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/cheshire-animal-control-41743/"
+    }
+  ]
+}

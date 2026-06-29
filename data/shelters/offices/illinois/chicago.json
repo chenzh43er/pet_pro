@@ -1,0 +1,245 @@
+{
+  "fetchedAt": "2026-06-27T18:44:44.107001+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "chicago",
+    "name": "Chicago",
+    "label": "Chicago, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/chicago/",
+  "offices": [
+    {
+      "officeId": 382682,
+      "slug": "victorian-house-animal-placements-382682",
+      "name": "Victorian House Animal Placements",
+      "address": "1830 West Byron Street, Chicago, IL 60613",
+      "phone": "773-525-4317",
+      "image": "./img/shelter/office/382682.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/victorian-house-animal-placements-382682/",
+      "imageUrl": "https://cdn.findpawpal.com/office/382682.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 382734,
+      "slug": "furry-friends-foundation-382734",
+      "name": "Furry Friends Foundation",
+      "address": "1105 North State Street, Chicago, IL 60610",
+      "phone": "312-397-1001",
+      "image": "./img/shelter/office/382734.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/furry-friends-foundation-382734/",
+      "imageUrl": "https://cdn.findpawpal.com/office/382734.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 383586,
+      "slug": "midwest-akita-rescue-society-383586",
+      "name": "Midwest Akita Rescue Society",
+      "address": "6538 North Nordica Avenue, Chicago, IL 60631",
+      "phone": "773-792-1309",
+      "image": "./img/shelter/office/383586.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/midwest-akita-rescue-society-383586/",
+      "imageUrl": "https://cdn.findpawpal.com/office/383586.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 383592,
+      "slug": "red-door-animal-shelter-383592",
+      "name": "Red Door Animal Shelter",
+      "address": "2410 West Lunt Avenue, Chicago, IL 60645",
+      "phone": "773-764-2242",
+      "image": "./img/shelter/office/383592.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/red-door-animal-shelter-383592/",
+      "imageUrl": "https://cdn.findpawpal.com/office/383592.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 385962,
+      "slug": "harmony-house-for-cats-385962",
+      "name": "Harmony House for Cats",
+      "address": "PO Box 18098, Chicago, IL 60618",
+      "phone": "773-463-6667",
+      "image": "./img/shelter/office/385962.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/harmony-house-for-cats-385962/",
+      "imageUrl": "https://cdn.findpawpal.com/office/385962.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 386103,
+      "slug": "helen-v-brach-foundation-386103",
+      "name": "Helen V. Brach Foundation",
+      "address": "55 West Upper Wacker Drive, Chicago, IL 60601",
+      "phone": "312-372-4417",
+      "image": "./img/shelter/office/386103.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/helen-v-brach-foundation-386103/",
+      "imageUrl": "https://cdn.findpawpal.com/office/386103.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 411483,
+      "slug": "rescue-a-golden-services-411483",
+      "name": "Rescue A Golden Services",
+      "address": "5254 West Windsor Avenue, Chicago, IL 60630",
+      "phone": "773-777-5456",
+      "image": "./img/shelter/office/411483.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rescue-a-golden-services-411483/",
+      "imageUrl": "https://cdn.findpawpal.com/office/411483.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 411601,
+      "slug": "paws-chicago-411601",
+      "name": "Paws Chicago",
+      "address": "1110 West 35th Street, Chicago, IL 60609",
+      "phone": "773-935-7297",
+      "image": "./img/shelter/office/411601.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/paws-chicago-411601/",
+      "imageUrl": "https://cdn.findpawpal.com/office/411601.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 411681,
+      "slug": "animal-adoption-associates-411681",
+      "name": "Animal Adoption Associates",
+      "address": "PO Box 2104, Chicago, IL 60690",
+      "phone": "773-348-0042",
+      "image": "./img/shelter/office/411681.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-adoption-associates-411681/",
+      "imageUrl": "https://cdn.findpawpal.com/office/411681.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 411688,
+      "slug": "the-anti-cruelty-society-411688",
+      "name": "The Anti-Cruelty Society",
+      "address": "157 West Grand Avenue, Chicago, IL 60654",
+      "phone": "312-644-8338",
+      "image": "./img/shelter/office/411688.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-anti-cruelty-society-411688/",
+      "imageUrl": "https://cdn.findpawpal.com/office/411688.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 511994,
+      "slug": "chicago-canine-rescue-foundation-511994",
+      "name": "Chicago Canine Rescue Foundation",
+      "address": "3304 North Broadway Street, Chicago, IL 60657",
+      "phone": "773-294-9305",
+      "image": "./img/shelter/office/511994.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/chicago-canine-rescue-foundation-511994/",
+      "imageUrl": "https://cdn.findpawpal.com/office/511994.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 512290,
+      "slug": "tree-house-humane-society-512290",
+      "name": "Tree House Humane Society",
+      "address": "1212 West Carmen Avenue, Chicago, IL 60640",
+      "phone": "773-784-5488",
+      "image": "./img/shelter/office/512290.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tree-house-humane-society-512290/",
+      "imageUrl": "https://cdn.findpawpal.com/office/512290.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 513821,
+      "slug": "lake-shore-animal-shelter-513821",
+      "name": "Lake Shore Animal Shelter",
+      "address": "25 North May Street, Chicago, IL 60607",
+      "phone": "312-409-1162",
+      "image": "./img/shelter/office/513821.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lake-shore-animal-shelter-513821/",
+      "imageUrl": "https://cdn.findpawpal.com/office/513821.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 520815,
+      "slug": "illinois-humane-pac-520815",
+      "name": "Illinois Humane Pac",
+      "address": "PO Box 197, Chicago, IL 60690",
+      "phone": "217-897-6716",
+      "image": "./img/shelter/office/520815.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/illinois-humane-pac-520815/",
+      "imageUrl": "https://cdn.findpawpal.com/office/520815.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 521281,
+      "slug": "windy-city-animal-foundation-521281",
+      "name": "Windy City Animal Foundation",
+      "address": "560 West Lake Street, Chicago, IL 60661",
+      "phone": "",
+      "image": "./img/shelter/office/521281.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/windy-city-animal-foundation-521281/",
+      "imageUrl": "https://cdn.findpawpal.com/office/521281.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 522580,
+      "slug": "chicago-animal-care-and-control-522580",
+      "name": "Chicago Animal Care and Control",
+      "address": "2741 South Western Avenue, Chicago, IL 60608",
+      "phone": "312-747-1406",
+      "image": "./img/shelter/office/522580.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/chicago-animal-care-and-control-522580/",
+      "imageUrl": "https://cdn.findpawpal.com/office/522580.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 578025,
+      "slug": "chicagoland-stray-cat-coalition-578025",
+      "name": "Chicagoland Stray Cat Coalition",
+      "address": "PO Box 617693, Chicago, IL 60661",
+      "phone": "773-517-5199",
+      "image": "./img/shelter/office/578025.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/chicagoland-stray-cat-coalition-578025/",
+      "imageUrl": "https://cdn.findpawpal.com/office/578025.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 578063,
+      "slug": "kanine-animal-rescue-inc-578063",
+      "name": "Kanine Animal Rescue, Inc.",
+      "address": "PO Box 597432, Chicago, IL 60659",
+      "phone": "773-960-9666",
+      "image": "./img/shelter/office/578063.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kanine-animal-rescue-inc-578063/",
+      "imageUrl": "https://cdn.findpawpal.com/office/578063.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 578169,
+      "slug": "chicago-english-bulldog-rescue-578169",
+      "name": "Chicago English Bulldog Rescue",
+      "address": "PO Box 6470, Chicago, IL 60606",
+      "phone": "877-682-2327",
+      "image": "./img/shelter/office/578169.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/chicago-english-bulldog-rescue-578169/",
+      "imageUrl": "https://cdn.findpawpal.com/office/578169.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 578210,
+      "slug": "felines-inc-578210",
+      "name": "Felines, Inc.",
+      "address": "PO Box 60616, Chicago, IL 60660",
+      "phone": "773-465-6132",
+      "image": "./img/shelter/office/578210.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/felines-inc-578210/",
+      "imageUrl": "https://cdn.findpawpal.com/office/578210.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674328,
+      "slug": "elati-674328",
+      "name": "Elati",
+      "address": "2822 West Ainslie Street, Chicago, IL 60625",
+      "phone": "312-560-2791",
+      "image": "./img/shelter/office/674328.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/elati-674328/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674328.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674637,
+      "slug": "lake-shore-animals-foundation-674637",
+      "name": "Lake Shore Animals Foundation",
+      "address": "960 West Chicago Avenue, Chicago, IL 60642",
+      "phone": "312-733-6073",
+      "image": "./img/shelter/office/674637.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lake-shore-animals-foundation-674637/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674637.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674647,
+      "slug": "puppy-love-love-cats-pet-rescue-674647",
+      "name": "Puppy Love Love Cats Pet Rescue",
+      "address": "1150 North Lake Shore Drive, Chicago, IL 60611",
+      "phone": "312-636-1200",
+      "image": "./img/shelter/office/674647.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/puppy-love-love-cats-pet-rescue-674647/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674647.jpg?f=webp&w=730"
+    }
+  ]
+}

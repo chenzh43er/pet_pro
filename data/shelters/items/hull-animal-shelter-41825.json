@@ -1,0 +1,21 @@
+{
+  "officeId": 41825,
+  "slug": "hull-animal-shelter-41825",
+  "name": "Hull Animal Shelter",
+  "address": "50 L Street, Hull, MA 02045",
+  "street": "50 L Street",
+  "addressCity": "Hull",
+  "stateCode": "MA",
+  "zip": "02045",
+  "phone": "781-925-3121",
+  "image": "./img/shelter/office/41825.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/hull-animal-shelter-41825/",
+  "stateSlug": "massachusetts",
+  "stateName": "Massachusetts",
+  "citySlug": "hull",
+  "cityName": "Hull",
+  "cityLabel": "Hull, MA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/massachusetts/hull/",
+  "fetchedAt": "2026-06-27T19:06:37.733821+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/41825.jpg?f=webp&w=730"
+}

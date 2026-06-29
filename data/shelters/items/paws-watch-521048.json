@@ -1,0 +1,21 @@
+{
+  "officeId": 521048,
+  "slug": "paws-watch-521048",
+  "name": "PAWS Watch",
+  "address": "PO Box 3711, Newport, RI 02840",
+  "street": "PO Box 3711",
+  "addressCity": "Newport",
+  "stateCode": "RI",
+  "zip": "02840",
+  "phone": "401-848-9057",
+  "image": "./img/shelter/office/521048.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/paws-watch-521048/",
+  "stateSlug": "rhode-island",
+  "stateName": "Rhode Island",
+  "citySlug": "newport",
+  "cityName": "Newport",
+  "cityLabel": "Newport, RI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/rhode-island/newport/",
+  "fetchedAt": "2026-06-27T19:56:15.678803+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/521048.jpg?f=webp&w=730"
+}

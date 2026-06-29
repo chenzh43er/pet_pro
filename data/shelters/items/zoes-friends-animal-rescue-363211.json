@@ -1,0 +1,21 @@
+{
+  "officeId": 363211,
+  "slug": "zoes-friends-animal-rescue-363211",
+  "name": "Zoe's Friends Animal Rescue",
+  "address": "1772 East Avenida De Los Arboles, Thousand Oaks, CA 91362",
+  "street": "1772 East Avenida De Los Arboles",
+  "addressCity": "Thousand Oaks",
+  "stateCode": "CA",
+  "zip": "91362",
+  "phone": "805-907-0655",
+  "image": "./img/shelter/office/363211.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/zoes-friends-animal-rescue-363211/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "thousand-oaks",
+  "cityName": "Thousand Oaks",
+  "cityLabel": "Thousand Oaks, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/thousand-oaks/",
+  "fetchedAt": "2026-06-27T18:31:25.679665+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/363211.jpg?f=webp&w=730"
+}

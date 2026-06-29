@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:20:38.299476+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "hinton",
+    "name": "Hinton",
+    "label": "Hinton, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/hinton/",
+  "offices": [
+    {
+      "officeId": 493910,
+      "slug": "animal-control-and-welfare-project-493910",
+      "name": "Animal Control and Welfare Project",
+      "address": "PO Box 236, Hinton, WV 25951",
+      "phone": "304-466-6935",
+      "image": "./img/shelter/office/493910.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-control-and-welfare-project-493910/",
+      "imageUrl": "https://cdn.findpawpal.com/office/493910.jpg?f=webp&w=730"
+    }
+  ]
+}

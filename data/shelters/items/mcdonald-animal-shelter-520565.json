@@ -1,0 +1,21 @@
+{
+  "officeId": 520565,
+  "slug": "mcdonald-animal-shelter-520565",
+  "name": "Mcdonald Animal Shelter",
+  "address": "Chicago Ave, Viroqua, WI 54665",
+  "street": "Chicago Ave",
+  "addressCity": "Viroqua",
+  "stateCode": "WI",
+  "zip": "54665",
+  "phone": "608-637-7710",
+  "image": "./img/shelter/office/520565.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/mcdonald-animal-shelter-520565/",
+  "stateSlug": "wisconsin",
+  "stateName": "Wisconsin",
+  "citySlug": "viroqua",
+  "cityName": "Viroqua",
+  "cityLabel": "Viroqua, WI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/wisconsin/viroqua/",
+  "fetchedAt": "2026-06-27T20:24:30.094237+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/520565.jpg?f=webp&w=730"
+}

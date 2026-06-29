@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:45:09.741918+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "earlville",
+    "name": "Earlville",
+    "label": "Earlville, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/earlville/",
+  "offices": [
+    {
+      "officeId": 413179,
+      "slug": "american-brittany-rescue-413179",
+      "name": "American Brittany Rescue",
+      "address": "416 East Brown Street, Earlville, IL 60518",
+      "phone": "",
+      "image": "./img/shelter/office/413179.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/american-brittany-rescue-413179/",
+      "imageUrl": "https://cdn.findpawpal.com/office/413179.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:45:48.337858+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "napoleon",
+    "name": "Napoleon",
+    "label": "Napoleon, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/napoleon/",
+  "offices": [
+    {
+      "officeId": 444084,
+      "slug": "henry-county-humane-society-444084",
+      "name": "Henry County Humane Society",
+      "address": "1136 Independence Drive, Napoleon, OH 43545",
+      "phone": "419-592-3777",
+      "image": "./img/shelter/office/444084.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/henry-county-humane-society-444084/",
+      "imageUrl": "https://cdn.findpawpal.com/office/444084.jpg?f=webp&w=730"
+    }
+  ]
+}

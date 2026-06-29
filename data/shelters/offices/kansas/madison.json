@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:55:24.497361+00:00",
+  "state": {
+    "slug": "kansas",
+    "name": "Kansas"
+  },
+  "city": {
+    "slug": "madison",
+    "name": "Madison",
+    "label": "Madison, KS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kansas/madison/",
+  "offices": [
+    {
+      "officeId": 5783,
+      "slug": "madison-city-animal-control-5783",
+      "name": "Madison City Animal Control",
+      "address": "225 Main Street, Madison, KS 66860",
+      "phone": "620-437-2364",
+      "image": "./img/shelter/office/5783.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/madison-city-animal-control-5783/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5783.jpg?f=webp&w=730"
+    }
+  ]
+}

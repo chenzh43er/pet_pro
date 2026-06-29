@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:30:19.703749+00:00",
+  "state": {
+    "slug": "new-mexico",
+    "name": "New Mexico"
+  },
+  "city": {
+    "slug": "dixon",
+    "name": "Dixon",
+    "label": "Dixon, NM"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-mexico/dixon/",
+  "offices": [
+    {
+      "officeId": 309256,
+      "slug": "dixon-animal-protection-society-309256",
+      "name": "Dixon Animal Protection Society",
+      "address": "PO Box 96, Dixon, NM 87527",
+      "phone": "505-579-4608",
+      "image": "./img/shelter/office/309256.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dixon-animal-protection-society-309256/",
+      "imageUrl": "https://cdn.findpawpal.com/office/309256.jpg?f=webp&w=730"
+    }
+  ]
+}

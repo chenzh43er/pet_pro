@@ -1,0 +1,120 @@
+{
+  "fetchedAt": "2026-06-27T18:16:58.340590+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "birmingham",
+    "name": "Birmingham",
+    "label": "Birmingham, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/birmingham/",
+  "offices": [
+    {
+      "slug": "shelby-county-mobile-adoptions-5881",
+      "name": "Shelby County Mobile Adoptions",
+      "address": "2652 Valleydale Road, Birmingham, AL 35244",
+      "phone": "205-408-0250",
+      "image": "./img/shelter/office/5881.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/shelby-county-mobile-adoptions-5881/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5881.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "adopt-a-golden-birmingham-5883",
+      "name": "Adopt a Golden Birmingham",
+      "address": "PO Box 361753, Birmingham, AL 35236",
+      "phone": "205-290-7788",
+      "image": "https://cdn.findpawpal.com/office/5883.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/adopt-a-golden-birmingham-5883/"
+    },
+    {
+      "slug": "southern-furbaby-rescue-5895",
+      "name": "Southern Furbaby Rescue",
+      "address": "320 Hillmoor Lane, Birmingham, AL 35209",
+      "phone": "205-540-7147",
+      "image": "./img/shelter/office/5895.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/southern-furbaby-rescue-5895/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5895.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greater-birmingham-humane-society-5901",
+      "name": "Greater Birmingham Humane Society",
+      "address": "300 Snow Drive, Birmingham, AL 35209",
+      "phone": "205-942-1211",
+      "image": "./img/shelter/office/5901.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greater-birmingham-humane-society-5901/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5901.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "save-our-strays-5944",
+      "name": "Save Our Strays",
+      "address": "PO Box 43057, Birmingham, AL 35243",
+      "phone": "205-967-6711",
+      "image": "https://cdn.findpawpal.com/office/5944.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/save-our-strays-5944/"
+    },
+    {
+      "slug": "the-emergency-animal-rescue-service-5965",
+      "name": "The Emergency Animal Rescue Service",
+      "address": "225 Glasgow Road, Birmingham, AL 35224",
+      "phone": "205-744-3373",
+      "image": "https://cdn.findpawpal.com/office/5965.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/the-emergency-animal-rescue-service-5965/"
+    },
+    {
+      "slug": "weimaraner-rescue-of-the-south-5974",
+      "name": "Weimaraner Rescue of the South",
+      "address": "1420 Cresthill Road, Birmingham, AL 35213",
+      "phone": "205-531-2983",
+      "image": "./img/shelter/office/5974.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/weimaraner-rescue-of-the-south-5974/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5974.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greater-birmingham-humane-society-animal-control-6217",
+      "name": "Greater Birmingham Humane Society Animal Control",
+      "address": "6227 5th Avenue North, Birmingham, AL 35212",
+      "phone": "205-591-6522",
+      "image": "./img/shelter/office/6217.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greater-birmingham-humane-society-animal-control-6217/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6217.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cat-welfare-society-6259",
+      "name": "Cat Welfare Society",
+      "address": "4317 Fair Oaks Drive, Birmingham, AL 35213",
+      "phone": "205-879-2728",
+      "image": "./img/shelter/office/6259.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cat-welfare-society-6259/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6259.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alabama-animal-adoption-society-6304",
+      "name": "Alabama Animal Adoption Society",
+      "address": "2808 Crescent Avenue, Birmingham, AL 35209",
+      "phone": "205-871-6351",
+      "image": "./img/shelter/office/6304.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama-animal-adoption-society-6304/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6304.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-cats-and-dogs-6517",
+      "name": "Friends of Cats and Dogs",
+      "address": "3923 Montevallo Road South, Birmingham, AL 35213",
+      "phone": "205-879-4574",
+      "image": "./img/shelter/office/6517.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-cats-and-dogs-6517/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6517.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hoover-animal-control-6955",
+      "name": "Hoover Animal Control",
+      "address": "2020 Valleydale Road, Birmingham, AL 35244",
+      "phone": "205-444-7760",
+      "image": "./img/shelter/office/6955.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hoover-animal-control-6955/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6955.jpg?f=webp&w=730"
+    }
+  ]
+}

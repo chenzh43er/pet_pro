@@ -1,0 +1,1068 @@
+{
+  "fetchedAt": "2026-06-27T17:47:40.859208+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia",
+    "offices": 269
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/",
+  "cities": [
+    {
+      "slug": "acworth",
+      "name": "Acworth",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/acworth/"
+    },
+    {
+      "slug": "albany",
+      "name": "Albany",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/albany/"
+    },
+    {
+      "slug": "alpharetta",
+      "name": "Alpharetta",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/alpharetta/"
+    },
+    {
+      "slug": "americus",
+      "name": "Americus",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/americus/"
+    },
+    {
+      "slug": "appling",
+      "name": "Appling",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/appling/"
+    },
+    {
+      "slug": "ashburn",
+      "name": "Ashburn",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/ashburn/"
+    },
+    {
+      "slug": "athens",
+      "name": "Athens",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/athens/"
+    },
+    {
+      "slug": "atlanta",
+      "name": "Atlanta",
+      "offices": 15,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/atlanta/"
+    },
+    {
+      "slug": "augusta",
+      "name": "Augusta",
+      "offices": 6,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/augusta/"
+    },
+    {
+      "slug": "avondale-estates",
+      "name": "Avondale Estates",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/avondale-estates/"
+    },
+    {
+      "slug": "bainbridge",
+      "name": "Bainbridge",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/bainbridge/"
+    },
+    {
+      "slug": "barnesville",
+      "name": "Barnesville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/barnesville/"
+    },
+    {
+      "slug": "bishop",
+      "name": "Bishop",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/bishop/"
+    },
+    {
+      "slug": "blackshear",
+      "name": "Blackshear",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/blackshear/"
+    },
+    {
+      "slug": "blairsville",
+      "name": "Blairsville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/blairsville/"
+    },
+    {
+      "slug": "blakely",
+      "name": "Blakely",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/blakely/"
+    },
+    {
+      "slug": "blue-ridge",
+      "name": "Blue Ridge",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/blue-ridge/"
+    },
+    {
+      "slug": "brunswick",
+      "name": "Brunswick",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/brunswick/"
+    },
+    {
+      "slug": "buchanan",
+      "name": "Buchanan",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/buchanan/"
+    },
+    {
+      "slug": "buford",
+      "name": "Buford",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/buford/"
+    },
+    {
+      "slug": "cairo",
+      "name": "Cairo",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/cairo/"
+    },
+    {
+      "slug": "calhoun",
+      "name": "Calhoun",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/calhoun/"
+    },
+    {
+      "slug": "canton",
+      "name": "Canton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/canton/"
+    },
+    {
+      "slug": "carnesville",
+      "name": "Carnesville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/carnesville/"
+    },
+    {
+      "slug": "carrollton",
+      "name": "Carrollton",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/carrollton/"
+    },
+    {
+      "slug": "cartersville",
+      "name": "Cartersville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/cartersville/"
+    },
+    {
+      "slug": "cedartown",
+      "name": "Cedartown",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/cedartown/"
+    },
+    {
+      "slug": "chamblee",
+      "name": "Chamblee",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/chamblee/"
+    },
+    {
+      "slug": "chatsworth",
+      "name": "Chatsworth",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/chatsworth/"
+    },
+    {
+      "slug": "chickamauga",
+      "name": "Chickamauga",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/chickamauga/"
+    },
+    {
+      "slug": "clarkesville",
+      "name": "Clarkesville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/clarkesville/"
+    },
+    {
+      "slug": "cleveland",
+      "name": "Cleveland",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/cleveland/"
+    },
+    {
+      "slug": "cochran",
+      "name": "Cochran",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/cochran/"
+    },
+    {
+      "slug": "columbus",
+      "name": "Columbus",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/columbus/"
+    },
+    {
+      "slug": "commerce",
+      "name": "Commerce",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/commerce/"
+    },
+    {
+      "slug": "conyers",
+      "name": "Conyers",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/conyers/"
+    },
+    {
+      "slug": "cordele",
+      "name": "Cordele",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/cordele/"
+    },
+    {
+      "slug": "covington",
+      "name": "Covington",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/covington/"
+    },
+    {
+      "slug": "crawfordville",
+      "name": "Crawfordville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/crawfordville/"
+    },
+    {
+      "slug": "cumming",
+      "name": "Cumming",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/cumming/"
+    },
+    {
+      "slug": "dacula",
+      "name": "Dacula",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/dacula/"
+    },
+    {
+      "slug": "dahlonega",
+      "name": "Dahlonega",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/dahlonega/"
+    },
+    {
+      "slug": "daisy",
+      "name": "Daisy",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/daisy/"
+    },
+    {
+      "slug": "dallas",
+      "name": "Dallas",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/dallas/"
+    },
+    {
+      "slug": "dalton",
+      "name": "Dalton",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/dalton/"
+    },
+    {
+      "slug": "danielsville",
+      "name": "Danielsville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/danielsville/"
+    },
+    {
+      "slug": "darien",
+      "name": "Darien",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/darien/"
+    },
+    {
+      "slug": "dawsonville",
+      "name": "Dawsonville",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/dawsonville/"
+    },
+    {
+      "slug": "dearing",
+      "name": "Dearing",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/dearing/"
+    },
+    {
+      "slug": "decatur",
+      "name": "Decatur",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/decatur/"
+    },
+    {
+      "slug": "douglas",
+      "name": "Douglas",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/douglas/"
+    },
+    {
+      "slug": "douglasville",
+      "name": "Douglasville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/douglasville/"
+    },
+    {
+      "slug": "dublin",
+      "name": "Dublin",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/dublin/"
+    },
+    {
+      "slug": "eatonton",
+      "name": "Eatonton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/eatonton/"
+    },
+    {
+      "slug": "elberton",
+      "name": "Elberton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/elberton/"
+    },
+    {
+      "slug": "enigma",
+      "name": "Enigma",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/enigma/"
+    },
+    {
+      "slug": "evans",
+      "name": "Evans",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/evans/"
+    },
+    {
+      "slug": "fayetteville",
+      "name": "Fayetteville",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/fayetteville/"
+    },
+    {
+      "slug": "fitzgerald",
+      "name": "Fitzgerald",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/fitzgerald/"
+    },
+    {
+      "slug": "forsyth",
+      "name": "Forsyth",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/forsyth/"
+    },
+    {
+      "slug": "fort-valley",
+      "name": "Fort Valley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/fort-valley/"
+    },
+    {
+      "slug": "franklin",
+      "name": "Franklin",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/franklin/"
+    },
+    {
+      "slug": "gainesville",
+      "name": "Gainesville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/gainesville/"
+    },
+    {
+      "slug": "gray",
+      "name": "Gray",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/gray/"
+    },
+    {
+      "slug": "grayson",
+      "name": "Grayson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/grayson/"
+    },
+    {
+      "slug": "greensboro",
+      "name": "Greensboro",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/greensboro/"
+    },
+    {
+      "slug": "greenville",
+      "name": "Greenville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/greenville/"
+    },
+    {
+      "slug": "griffin",
+      "name": "Griffin",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/griffin/"
+    },
+    {
+      "slug": "grovetown",
+      "name": "Grovetown",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/grovetown/"
+    },
+    {
+      "slug": "guyton",
+      "name": "Guyton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/guyton/"
+    },
+    {
+      "slug": "hamilton",
+      "name": "Hamilton",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/hamilton/"
+    },
+    {
+      "slug": "harlem",
+      "name": "Harlem",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/harlem/"
+    },
+    {
+      "slug": "hartwell",
+      "name": "Hartwell",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/hartwell/"
+    },
+    {
+      "slug": "hawkinsville",
+      "name": "Hawkinsville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/hawkinsville/"
+    },
+    {
+      "slug": "hazlehurst",
+      "name": "Hazlehurst",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/hazlehurst/"
+    },
+    {
+      "slug": "hinesville",
+      "name": "Hinesville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/hinesville/"
+    },
+    {
+      "slug": "hoboken",
+      "name": "Hoboken",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/hoboken/"
+    },
+    {
+      "slug": "jackson",
+      "name": "Jackson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/jackson/"
+    },
+    {
+      "slug": "jasper",
+      "name": "Jasper",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/jasper/"
+    },
+    {
+      "slug": "jefferson",
+      "name": "Jefferson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/jefferson/"
+    },
+    {
+      "slug": "jersey",
+      "name": "Jersey",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/jersey/"
+    },
+    {
+      "slug": "jesup",
+      "name": "Jesup",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/jesup/"
+    },
+    {
+      "slug": "jonesboro",
+      "name": "Jonesboro",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/jonesboro/"
+    },
+    {
+      "slug": "kingsland",
+      "name": "Kingsland",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/kingsland/"
+    },
+    {
+      "slug": "kingston",
+      "name": "Kingston",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/kingston/"
+    },
+    {
+      "slug": "lagrange",
+      "name": "LaGrange",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/lagrange/"
+    },
+    {
+      "slug": "lavonia",
+      "name": "Lavonia",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/lavonia/"
+    },
+    {
+      "slug": "lawrenceville",
+      "name": "Lawrenceville",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/lawrenceville/"
+    },
+    {
+      "slug": "leary",
+      "name": "Leary",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/leary/"
+    },
+    {
+      "slug": "leesburg",
+      "name": "Leesburg",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/leesburg/"
+    },
+    {
+      "slug": "lexington",
+      "name": "Lexington",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/lexington/"
+    },
+    {
+      "slug": "locust-grove",
+      "name": "Locust Grove",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/locust-grove/"
+    },
+    {
+      "slug": "lyons",
+      "name": "Lyons",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/lyons/"
+    },
+    {
+      "slug": "macon",
+      "name": "Macon",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/macon/"
+    },
+    {
+      "slug": "madison",
+      "name": "Madison",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/madison/"
+    },
+    {
+      "slug": "marietta",
+      "name": "Marietta",
+      "offices": 9,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/marietta/"
+    },
+    {
+      "slug": "mcdonough",
+      "name": "McDonough",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/mcdonough/"
+    },
+    {
+      "slug": "metter",
+      "name": "Metter",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/metter/"
+    },
+    {
+      "slug": "milledgeville",
+      "name": "Milledgeville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/milledgeville/"
+    },
+    {
+      "slug": "milton",
+      "name": "Milton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/milton/"
+    },
+    {
+      "slug": "monroe",
+      "name": "Monroe",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/monroe/"
+    },
+    {
+      "slug": "monticello",
+      "name": "Monticello",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/monticello/"
+    },
+    {
+      "slug": "moultrie",
+      "name": "Moultrie",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/moultrie/"
+    },
+    {
+      "slug": "nashville",
+      "name": "Nashville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/nashville/"
+    },
+    {
+      "slug": "newnan",
+      "name": "Newnan",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/newnan/"
+    },
+    {
+      "slug": "oxford",
+      "name": "Oxford",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/oxford/"
+    },
+    {
+      "slug": "patterson",
+      "name": "Patterson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/patterson/"
+    },
+    {
+      "slug": "peachtree",
+      "name": "Peachtree",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/peachtree/"
+    },
+    {
+      "slug": "pembroke",
+      "name": "Pembroke",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/pembroke/"
+    },
+    {
+      "slug": "perry",
+      "name": "Perry",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/perry/"
+    },
+    {
+      "slug": "poulan",
+      "name": "Poulan",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/poulan/"
+    },
+    {
+      "slug": "powder-springs",
+      "name": "Powder Springs",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/powder-springs/"
+    },
+    {
+      "slug": "quitman",
+      "name": "Quitman",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/quitman/"
+    },
+    {
+      "slug": "reidsville",
+      "name": "Reidsville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/reidsville/"
+    },
+    {
+      "slug": "richmond-hill",
+      "name": "Richmond Hill",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/richmond-hill/"
+    },
+    {
+      "slug": "ringgold",
+      "name": "Ringgold",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/ringgold/"
+    },
+    {
+      "slug": "rockmart",
+      "name": "Rockmart",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/rockmart/"
+    },
+    {
+      "slug": "rome",
+      "name": "Rome",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/rome/"
+    },
+    {
+      "slug": "roswell",
+      "name": "Roswell",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/roswell/"
+    },
+    {
+      "slug": "royston",
+      "name": "Royston",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/royston/"
+    },
+    {
+      "slug": "sandersville",
+      "name": "Sandersville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/sandersville/"
+    },
+    {
+      "slug": "sautee-nacoochee",
+      "name": "Sautee-Nacoochee",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/sautee-nacoochee/"
+    },
+    {
+      "slug": "savannah",
+      "name": "Savannah",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/savannah/"
+    },
+    {
+      "slug": "scottdale",
+      "name": "Scottdale",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/scottdale/"
+    },
+    {
+      "slug": "sharpsburg",
+      "name": "Sharpsburg",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/sharpsburg/"
+    },
+    {
+      "slug": "smyrna",
+      "name": "Smyrna",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/smyrna/"
+    },
+    {
+      "slug": "springfield",
+      "name": "Springfield",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/springfield/"
+    },
+    {
+      "slug": "st-marys",
+      "name": "St. Marys",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/st-marys/"
+    },
+    {
+      "slug": "statesboro",
+      "name": "Statesboro",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/statesboro/"
+    },
+    {
+      "slug": "summerville",
+      "name": "Summerville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/summerville/"
+    },
+    {
+      "slug": "suwanee",
+      "name": "Suwanee",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/suwanee/"
+    },
+    {
+      "slug": "swainsboro",
+      "name": "Swainsboro",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/swainsboro/"
+    },
+    {
+      "slug": "sylvania",
+      "name": "Sylvania",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/sylvania/"
+    },
+    {
+      "slug": "talking-rock",
+      "name": "Talking Rock",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/talking-rock/"
+    },
+    {
+      "slug": "thomaston",
+      "name": "Thomaston",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/thomaston/"
+    },
+    {
+      "slug": "thomasville",
+      "name": "Thomasville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/thomasville/"
+    },
+    {
+      "slug": "thomson",
+      "name": "Thomson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/thomson/"
+    },
+    {
+      "slug": "tifton",
+      "name": "Tifton",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/tifton/"
+    },
+    {
+      "slug": "tiger",
+      "name": "Tiger",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/tiger/"
+    },
+    {
+      "slug": "valdosta",
+      "name": "Valdosta",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/valdosta/"
+    },
+    {
+      "slug": "vidalia",
+      "name": "Vidalia",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/vidalia/"
+    },
+    {
+      "slug": "villa-rica",
+      "name": "Villa Rica",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/villa-rica/"
+    },
+    {
+      "slug": "warner-robins",
+      "name": "Warner Robins",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/warner-robins/"
+    },
+    {
+      "slug": "washington",
+      "name": "Washington",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/washington/"
+    },
+    {
+      "slug": "waycross",
+      "name": "Waycross",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/waycross/"
+    },
+    {
+      "slug": "waynesboro",
+      "name": "Waynesboro",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/waynesboro/"
+    },
+    {
+      "slug": "winder",
+      "name": "Winder",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/winder/"
+    },
+    {
+      "slug": "winterville",
+      "name": "Winterville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/winterville/"
+    },
+    {
+      "slug": "woodbine",
+      "name": "Woodbine",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/woodbine/"
+    },
+    {
+      "slug": "woodstock",
+      "name": "Woodstock",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/woodstock/"
+    },
+    {
+      "slug": "young-harris",
+      "name": "Young Harris",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/young-harris/"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:25:22.249908+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "desert-hot-springs",
+    "name": "Desert Hot Springs",
+    "label": "Desert Hot Springs, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/desert-hot-springs/",
+  "offices": [
+    {
+      "officeId": 368236,
+      "slug": "desert-hot-springs-animal-shelter-368236",
+      "name": "Desert Hot Springs Animal Shelter",
+      "address": "65810 Hacienda Avenue, Desert Hot Springs, CA 92240",
+      "phone": "760-329-8931",
+      "image": "./img/shelter/office/368236.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/desert-hot-springs-animal-shelter-368236/",
+      "imageUrl": "https://cdn.findpawpal.com/office/368236.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 388863,
+      "slug": "save-a-pet-inc-388863",
+      "name": "Save A Pet, Inc.",
+      "address": "PO Box 602, Desert Hot Springs, CA 92240",
+      "phone": "619-329-9847",
+      "image": "./img/shelter/office/388863.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/save-a-pet-inc-388863/",
+      "imageUrl": "https://cdn.findpawpal.com/office/388863.jpg?f=webp&w=730"
+    }
+  ]
+}

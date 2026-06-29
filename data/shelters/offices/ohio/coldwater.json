@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:43:50.517965+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "coldwater",
+    "name": "Coldwater",
+    "label": "Coldwater, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/coldwater/",
+  "offices": [
+    {
+      "officeId": 467583,
+      "slug": "coldwater-animal-control-467583",
+      "name": "Coldwater Animal Control",
+      "address": "3259 Ohio 219, Coldwater, OH 45828",
+      "phone": "419-586-2887",
+      "image": "./img/shelter/office/467583.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/coldwater-animal-control-467583/",
+      "imageUrl": "https://cdn.findpawpal.com/office/467583.jpg?f=webp&w=730"
+    }
+  ]
+}

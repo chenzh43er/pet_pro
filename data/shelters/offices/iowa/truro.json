@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:54:18.605011+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa"
+  },
+  "city": {
+    "slug": "truro",
+    "name": "Truro",
+    "label": "Truro, IA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/truro/",
+  "offices": [
+    {
+      "officeId": 428143,
+      "slug": "truro-animal-control-428143",
+      "name": "Truro Animal Control",
+      "address": "120 East Center Street, Truro, IA 50257",
+      "phone": "515-765-4586",
+      "image": "./img/shelter/office/428143.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/truro-animal-control-428143/",
+      "imageUrl": "https://cdn.findpawpal.com/office/428143.jpg?f=webp&w=730"
+    }
+  ]
+}

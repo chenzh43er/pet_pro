@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T18:50:17.410931+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "hartford",
+    "name": "Hartford",
+    "label": "Hartford, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/hartford/",
+  "offices": [
+    {
+      "officeId": 199930,
+      "slug": "blackford-county-spca-humane-society-199930",
+      "name": "Blackford County SPCA Humane Society",
+      "address": "PO Box 306, Hartford, IN 47348",
+      "phone": "765-348-0918",
+      "image": "./img/shelter/office/199930.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/blackford-county-spca-humane-society-199930/",
+      "imageUrl": "https://cdn.findpawpal.com/office/199930.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 199937,
+      "slug": "blackford-county-animal-shelter-199937",
+      "name": "Blackford County Animal Shelter",
+      "address": "2500 North 200 East, Hartford, IN 47348",
+      "phone": "765-348-5284",
+      "image": "https://cdn.findpawpal.com/office/199937.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/blackford-county-animal-shelter-199937/"
+    }
+  ]
+}

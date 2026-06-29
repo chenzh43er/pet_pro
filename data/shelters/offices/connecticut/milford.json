@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:36:37.314423+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "milford",
+    "name": "Milford",
+    "label": "Milford, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/milford/",
+  "offices": [
+    {
+      "officeId": 168543,
+      "slug": "milford-animal-control-168543",
+      "name": "Milford Animal Control",
+      "address": "664 East Broadway, Milford, CT 06460",
+      "phone": "203-783-3279",
+      "image": "./img/shelter/office/168543.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/milford-animal-control-168543/",
+      "imageUrl": "https://cdn.findpawpal.com/office/168543.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 178896,
+      "slug": "milford-animal-control-178896",
+      "name": "Milford Animal Control",
+      "address": "664 E Broadway, Milford, CT 06460",
+      "phone": "203-783-3279",
+      "image": "./img/shelter/office/178896.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/milford-animal-control-178896/",
+      "imageUrl": "https://cdn.findpawpal.com/office/178896.jpg?f=webp&w=730"
+    }
+  ]
+}

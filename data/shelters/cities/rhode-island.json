@@ -1,0 +1,263 @@
+{
+  "fetchedAt": "2026-06-27T17:48:31.193105+00:00",
+  "state": {
+    "slug": "rhode-island",
+    "name": "Rhode Island",
+    "offices": 68
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/rhode-island/",
+  "cities": [
+    {
+      "slug": "barrington",
+      "name": "Barrington",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/barrington/"
+    },
+    {
+      "slug": "bristol",
+      "name": "Bristol",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/bristol/"
+    },
+    {
+      "slug": "burrillville",
+      "name": "Burrillville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/burrillville/"
+    },
+    {
+      "slug": "charlestown",
+      "name": "Charlestown",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/charlestown/"
+    },
+    {
+      "slug": "coventry",
+      "name": "Coventry",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/coventry/"
+    },
+    {
+      "slug": "cranston",
+      "name": "Cranston",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/cranston/"
+    },
+    {
+      "slug": "cumberland-hill",
+      "name": "Cumberland Hill",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/cumberland-hill/"
+    },
+    {
+      "slug": "east-greenwich",
+      "name": "East Greenwich",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/east-greenwich/"
+    },
+    {
+      "slug": "east-providence",
+      "name": "East Providence",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/east-providence/"
+    },
+    {
+      "slug": "exeter",
+      "name": "Exeter",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/exeter/"
+    },
+    {
+      "slug": "foster",
+      "name": "Foster",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/foster/"
+    },
+    {
+      "slug": "glocester",
+      "name": "Glocester",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/glocester/"
+    },
+    {
+      "slug": "hopkinton",
+      "name": "Hopkinton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/hopkinton/"
+    },
+    {
+      "slug": "jamestown",
+      "name": "Jamestown",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/jamestown/"
+    },
+    {
+      "slug": "johnston",
+      "name": "Johnston",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/johnston/"
+    },
+    {
+      "slug": "lincoln",
+      "name": "Lincoln",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/lincoln/"
+    },
+    {
+      "slug": "middletown",
+      "name": "Middletown",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/middletown/"
+    },
+    {
+      "slug": "newport",
+      "name": "Newport",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/newport/"
+    },
+    {
+      "slug": "north-kingstown",
+      "name": "North Kingstown",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/north-kingstown/"
+    },
+    {
+      "slug": "north-providence",
+      "name": "North Providence",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/north-providence/"
+    },
+    {
+      "slug": "north-scituate",
+      "name": "North Scituate",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/north-scituate/"
+    },
+    {
+      "slug": "north-smithfield",
+      "name": "North Smithfield",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/north-smithfield/"
+    },
+    {
+      "slug": "pascoag",
+      "name": "Pascoag",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/pascoag/"
+    },
+    {
+      "slug": "pawtucket",
+      "name": "Pawtucket",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/pawtucket/"
+    },
+    {
+      "slug": "portsmouth",
+      "name": "Portsmouth",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/portsmouth/"
+    },
+    {
+      "slug": "providence",
+      "name": "Providence",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/providence/"
+    },
+    {
+      "slug": "scituate",
+      "name": "Scituate",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/scituate/"
+    },
+    {
+      "slug": "smithfield",
+      "name": "Smithfield",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/smithfield/"
+    },
+    {
+      "slug": "south-kingstown",
+      "name": "South Kingstown",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/south-kingstown/"
+    },
+    {
+      "slug": "tiverton",
+      "name": "Tiverton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/tiverton/"
+    },
+    {
+      "slug": "warren",
+      "name": "Warren",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/warren/"
+    },
+    {
+      "slug": "warwick",
+      "name": "Warwick",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/warwick/"
+    },
+    {
+      "slug": "west-greenwich",
+      "name": "West Greenwich",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/west-greenwich/"
+    },
+    {
+      "slug": "west-warwick",
+      "name": "West Warwick",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/west-warwick/"
+    },
+    {
+      "slug": "westerly",
+      "name": "Westerly",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/westerly/"
+    },
+    {
+      "slug": "woonsocket",
+      "name": "Woonsocket",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/woonsocket/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:19:37.264800+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "lockwood",
+    "name": "Lockwood",
+    "label": "Lockwood, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/lockwood/",
+  "offices": [
+    {
+      "officeId": 210352,
+      "slug": "camp-merry-sunshine-210352",
+      "name": "Camp Merry Sunshine",
+      "address": "7568 Highway Nn, Lockwood, MO 65682",
+      "phone": "417-232-5360",
+      "image": "./img/shelter/office/210352.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/camp-merry-sunshine-210352/",
+      "imageUrl": "https://cdn.findpawpal.com/office/210352.jpg?f=webp&w=730"
+    }
+  ]
+}

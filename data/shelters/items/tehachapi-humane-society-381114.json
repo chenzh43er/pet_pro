@@ -1,0 +1,21 @@
+{
+  "officeId": 381114,
+  "slug": "tehachapi-humane-society-381114",
+  "name": "Tehachapi Humane Society",
+  "address": "21600 Golden Hills Boulevard, Tehachapi, CA 93561",
+  "street": "21600 Golden Hills Boulevard",
+  "addressCity": "Tehachapi",
+  "stateCode": "CA",
+  "zip": "93561",
+  "phone": "661-823-0699",
+  "image": "./img/shelter/office/381114.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/tehachapi-humane-society-381114/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "tehachapi",
+  "cityName": "Tehachapi",
+  "cityLabel": "Tehachapi, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/tehachapi/",
+  "fetchedAt": "2026-06-27T18:31:19.435946+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/381114.jpg?f=webp&w=730"
+}

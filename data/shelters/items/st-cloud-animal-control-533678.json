@@ -1,0 +1,21 @@
+{
+  "officeId": 533678,
+  "slug": "st-cloud-animal-control-533678",
+  "name": "St Cloud Animal Control",
+  "address": "400 2nd Street South, St. Cloud, MN 56301",
+  "street": "400 2nd Street South",
+  "addressCity": "St. Cloud",
+  "stateCode": "MN",
+  "zip": "56301",
+  "phone": "320-650-3164",
+  "image": "./img/shelter/office/533678.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/st-cloud-animal-control-533678/",
+  "stateSlug": "minnesota",
+  "stateName": "Minnesota",
+  "citySlug": "st-cloud",
+  "cityName": "St. Cloud",
+  "cityLabel": "St. Cloud, MN",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/minnesota/st-cloud/",
+  "fetchedAt": "2026-06-27T19:15:25.171860+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/533678.jpg?f=webp&w=730"
+}

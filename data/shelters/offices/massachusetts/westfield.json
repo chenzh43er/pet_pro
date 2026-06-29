@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:08:57.370434+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "westfield",
+    "name": "Westfield",
+    "label": "Westfield, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/westfield/",
+  "offices": [
+    {
+      "officeId": 39911,
+      "slug": "the-city-of-westfield-animal-shelter-39911",
+      "name": "The City of Westfield Animal Shelter",
+      "address": "178 Apremont Way, Westfield, MA 01085",
+      "phone": "413-564-3129",
+      "image": "./img/shelter/office/39911.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-city-of-westfield-animal-shelter-39911/",
+      "imageUrl": "https://cdn.findpawpal.com/office/39911.jpg?f=webp&w=730"
+    }
+  ]
+}

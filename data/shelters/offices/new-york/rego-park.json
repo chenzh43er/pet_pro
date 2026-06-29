@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:36:22.708178+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "rego-park",
+    "name": "Rego Park",
+    "label": "Rego Park, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/rego-park/",
+  "offices": [
+    {
+      "officeId": 318074,
+      "slug": "rego-park-animal-shelter-318074",
+      "name": "Rego Park Animal Shelter",
+      "address": "9229 Queens Boulevard, Rego Park, NY 11374",
+      "phone": "212-504-4115",
+      "image": "./img/shelter/office/318074.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rego-park-animal-shelter-318074/",
+      "imageUrl": "https://cdn.findpawpal.com/office/318074.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 404217,
+      "slug": "american-foundation-for-animal-rescue-404217",
+      "name": "American Foundation for Animal Rescue",
+      "address": "89-10 Eliot Avenue, Rego Park, NY 11374",
+      "phone": "718-205-0200",
+      "image": "./img/shelter/office/404217.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/american-foundation-for-animal-rescue-404217/",
+      "imageUrl": "https://cdn.findpawpal.com/office/404217.jpg?f=webp&w=730"
+    }
+  ]
+}

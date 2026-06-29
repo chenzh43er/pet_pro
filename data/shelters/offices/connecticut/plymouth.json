@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:37:04.368584+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "plymouth",
+    "name": "Plymouth",
+    "label": "Plymouth, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/plymouth/",
+  "offices": [
+    {
+      "officeId": 147859,
+      "slug": "animal-rescue-foundation-147859",
+      "name": "Animal Rescue Foundation",
+      "address": "366 Main Street, Plymouth, CT 06786",
+      "phone": "860-583-3089",
+      "image": "./img/shelter/office/147859.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-rescue-foundation-147859/",
+      "imageUrl": "https://cdn.findpawpal.com/office/147859.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 157128,
+      "slug": "terryville-animal-control-157128",
+      "name": "Terryville Animal Control",
+      "address": "366 Main Street, Plymouth, CT 06786",
+      "phone": "860-583-3089",
+      "image": "./img/shelter/office/157128.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/terryville-animal-control-157128/",
+      "imageUrl": "https://cdn.findpawpal.com/office/157128.jpg?f=webp&w=730"
+    }
+  ]
+}

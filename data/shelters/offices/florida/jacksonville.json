@@ -1,0 +1,95 @@
+{
+  "fetchedAt": "2026-06-27T18:14:49.629536+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "jacksonville",
+    "name": "Jacksonville",
+    "label": "Jacksonville, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/jacksonville/",
+  "offices": [
+    {
+      "slug": "dachshund-rescue-web-page-269401",
+      "name": "Dachshund Rescue Web Page",
+      "address": "2249 Luana Drive East, Jacksonville, FL 32246",
+      "phone": "904-928-0968",
+      "image": "./img/shelter/office/269401.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dachshund-rescue-web-page-269401/",
+      "imageUrl": "https://cdn.findpawpal.com/office/269401.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "feline-rescue-adoption-agency-269416",
+      "name": "Feline Rescue Adoption Agency",
+      "address": "2838 Dellwood Avenue, Jacksonville, FL 32205",
+      "phone": "904-354-4451",
+      "image": "./img/shelter/office/269416.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/feline-rescue-adoption-agency-269416/",
+      "imageUrl": "https://cdn.findpawpal.com/office/269416.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ratbone-rescues-271215",
+      "name": "Ratbone Rescues",
+      "address": "PO Box 24989, Jacksonville, FL 32241",
+      "phone": "904-443-7152",
+      "image": "https://cdn.findpawpal.com/office/271215.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/ratbone-rescues-271215/"
+    },
+    {
+      "slug": "jacksonville-humane-society-272392",
+      "name": "Jacksonville Humane Society",
+      "address": "8464 Beach Boulevard, Jacksonville, FL 32216",
+      "phone": "904-725-8766",
+      "image": "./img/shelter/office/272392.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/jacksonville-humane-society-272392/",
+      "imageUrl": "https://cdn.findpawpal.com/office/272392.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "at-animals-at-heart-273003",
+      "name": "At Animals At Heart",
+      "address": "851 North Market Street, Jacksonville, FL 32202",
+      "phone": "904-742-0826",
+      "image": "./img/shelter/office/273003.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/at-animals-at-heart-273003/",
+      "imageUrl": "https://cdn.findpawpal.com/office/273003.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kindness-and-care-pet-rescue-and-adoption-273121",
+      "name": "Kindness & Care Pet Rescue and Adoption",
+      "address": "9160 Commonwealth Avenue, Jacksonville, FL 32220",
+      "phone": "305-293-6983",
+      "image": "./img/shelter/office/273121.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kindness-and-care-pet-rescue-and-adoption-273121/",
+      "imageUrl": "https://cdn.findpawpal.com/office/273121.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "emerson-kennels-285317",
+      "name": "Emerson Kennels",
+      "address": "2364 Emerson Street, Jacksonville, FL 32207",
+      "phone": "904-398-5786",
+      "image": "./img/shelter/office/285317.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/emerson-kennels-285317/",
+      "imageUrl": "https://cdn.findpawpal.com/office/285317.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-rescue-north-inc-286022",
+      "name": "Pet Rescue North, Inc.",
+      "address": "1125 Akers Drive, Jacksonville, FL 32225",
+      "phone": "904-928-0803",
+      "image": "./img/shelter/office/286022.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-rescue-north-inc-286022/",
+      "imageUrl": "https://cdn.findpawpal.com/office/286022.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mandarin-adoption-center-286029",
+      "name": "Mandarin Adoption Center",
+      "address": "10501 San Jose Boulevard, Jacksonville, FL 32257",
+      "phone": "904-886-4375",
+      "image": "./img/shelter/office/286029.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mandarin-adoption-center-286029/",
+      "imageUrl": "https://cdn.findpawpal.com/office/286029.jpg?f=webp&w=730"
+    }
+  ]
+}

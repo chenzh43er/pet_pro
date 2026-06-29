@@ -1,0 +1,21 @@
+{
+  "officeId": 167933,
+  "slug": "storrs-animal-shelter-167933",
+  "name": "Storrs Animal Shelter",
+  "address": "230 Clover Mill Road, Mansfield, CT 06268",
+  "street": "230 Clover Mill Road",
+  "addressCity": "Mansfield",
+  "stateCode": "CT",
+  "zip": "06268",
+  "phone": "860-487-0137",
+  "image": "./img/shelter/office/167933.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/storrs-animal-shelter-167933/",
+  "stateSlug": "connecticut",
+  "stateName": "Connecticut",
+  "citySlug": "mansfield",
+  "cityName": "Mansfield",
+  "cityLabel": "Mansfield, CT",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/connecticut/mansfield/",
+  "fetchedAt": "2026-06-27T18:36:29.720037+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/167933.jpg?f=webp&w=730"
+}

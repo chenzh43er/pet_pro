@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:41:59.704402+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "williamston",
+    "name": "Williamston",
+    "label": "Williamston, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/williamston/",
+  "offices": [
+    {
+      "officeId": 231025,
+      "slug": "the-roanoke-river-humane-society-231025",
+      "name": "The Roanoke River Humane Society",
+      "address": "1720 Highway 17, Williamston, NC 27892",
+      "phone": "252-792-3000",
+      "image": "./img/shelter/office/231025.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-roanoke-river-humane-society-231025/",
+      "imageUrl": "https://cdn.findpawpal.com/office/231025.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 272338,
+      "slug": "martin-county-animal-shelter-272338",
+      "name": "Martin County Animal Shelter",
+      "address": "1411 LAND FILL Rd, Williamston, NC 27892",
+      "phone": "252-792-6910",
+      "image": "./img/shelter/office/272338.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/martin-county-animal-shelter-272338/",
+      "imageUrl": "https://cdn.findpawpal.com/office/272338.jpg?f=webp&w=730"
+    }
+  ]
+}

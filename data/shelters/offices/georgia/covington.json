@@ -1,0 +1,54 @@
+{
+  "fetchedAt": "2026-06-27T18:39:14.375135+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "covington",
+    "name": "Covington",
+    "label": "Covington, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/covington/",
+  "offices": [
+    {
+      "officeId": 134387,
+      "slug": "little-chosen-rescue-house-134387",
+      "name": "Little Chosen Rescue House",
+      "address": "90 Mountainside Lane, Covington, GA 30016",
+      "phone": "678-658-0557",
+      "image": "./img/shelter/office/134387.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/little-chosen-rescue-house-134387/",
+      "imageUrl": "https://cdn.findpawpal.com/office/134387.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 141650,
+      "slug": "rotten-russells-rescue-ranch-141650",
+      "name": "Rotten Russell's Rescue Ranch",
+      "address": "80 Salem Branch Road, Covington, GA 30016",
+      "phone": "770-633-7626",
+      "image": "https://cdn.findpawpal.com/office/141650.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/rotten-russells-rescue-ranch-141650/"
+    },
+    {
+      "officeId": 145917,
+      "slug": "black-diamond-rottweiler-rescue-145917",
+      "name": "Black Diamond Rottweiler Rescue",
+      "address": "Lower River Rd, Covington, GA 30016",
+      "phone": "770-728-0558",
+      "image": "./img/shelter/office/145917.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/black-diamond-rottweiler-rescue-145917/",
+      "imageUrl": "https://cdn.findpawpal.com/office/145917.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 158800,
+      "slug": "newton-county-animal-shelter-158800",
+      "name": "Newton County Animal Shelter",
+      "address": "210 Lower River Road, Covington, GA 30016",
+      "phone": "770-786-9514",
+      "image": "./img/shelter/office/158800.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/newton-county-animal-shelter-158800/",
+      "imageUrl": "https://cdn.findpawpal.com/office/158800.jpg?f=webp&w=730"
+    }
+  ]
+}

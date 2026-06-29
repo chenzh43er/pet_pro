@@ -1,0 +1,51 @@
+{
+  "fetchedAt": "2026-06-27T18:30:39.809248+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "santa-monica",
+    "name": "Santa Monica",
+    "label": "Santa Monica, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/santa-monica/",
+  "offices": [
+    {
+      "slug": "good-dog-animal-rescue-362767",
+      "name": "Good Dog Animal Rescue",
+      "address": "1158 26th Street, Santa Monica, CA 90403",
+      "phone": "310-403-9301",
+      "image": "./img/shelter/office/362767.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/good-dog-animal-rescue-362767/",
+      "imageUrl": "https://cdn.findpawpal.com/office/362767.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "guinea-pig-rescue-390949",
+      "name": "Guinea Pig Rescue",
+      "address": "1836 10th Street, Santa Monica, CA 90404",
+      "phone": "310-392-5588",
+      "image": "./img/shelter/office/390949.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/guinea-pig-rescue-390949/",
+      "imageUrl": "https://cdn.findpawpal.com/office/390949.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "santa-monica-animal-shelter-487176",
+      "name": "Santa Monica Animal Shelter",
+      "address": "1640 9th Street, Santa Monica, CA 90404",
+      "phone": "310-458-8594",
+      "image": "./img/shelter/office/487176.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/santa-monica-animal-shelter-487176/",
+      "imageUrl": "https://cdn.findpawpal.com/office/487176.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-orphans-fund-668474",
+      "name": "Pet Orphans Fund",
+      "address": "2118 Wilshire Boulevard, Santa Monica, CA 90403",
+      "phone": "818-901-0910",
+      "image": "./img/shelter/office/668474.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-orphans-fund-668474/",
+      "imageUrl": "https://cdn.findpawpal.com/office/668474.jpg?f=webp&w=730"
+    }
+  ]
+}

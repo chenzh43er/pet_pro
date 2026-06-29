@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:44:22.621758+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "bridgeview",
+    "name": "Bridgeview",
+    "label": "Bridgeview, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/bridgeview/",
+  "offices": [
+    {
+      "officeId": 412182,
+      "slug": "cook-county-animal-control-412182",
+      "name": "Cook County Animal Control",
+      "address": "10220 South 76th Avenue, Bridgeview, IL 60455",
+      "phone": "708-974-6140",
+      "image": "./img/shelter/office/412182.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cook-county-animal-control-412182/",
+      "imageUrl": "https://cdn.findpawpal.com/office/412182.jpg?f=webp&w=730"
+    }
+  ]
+}

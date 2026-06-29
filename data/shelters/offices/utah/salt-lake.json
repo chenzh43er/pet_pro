@@ -1,0 +1,114 @@
+{
+  "fetchedAt": "2026-06-27T20:11:23.708159+00:00",
+  "state": {
+    "slug": "utah",
+    "name": "Utah"
+  },
+  "city": {
+    "slug": "salt-lake",
+    "name": "Salt Lake",
+    "label": "Salt Lake, UT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/utah/salt-lake/",
+  "offices": [
+    {
+      "officeId": 478581,
+      "slug": "the-pet-samaritan-fund-478581",
+      "name": "The Pet Samaritan Fund",
+      "address": "3802 Sunnydale Drive, Salt Lake, UT 84109",
+      "phone": "801-277-9263",
+      "image": "./img/shelter/office/478581.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-pet-samaritan-fund-478581/",
+      "imageUrl": "https://cdn.findpawpal.com/office/478581.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 493967,
+      "slug": "utah-animal-adoption-center-493967",
+      "name": "Utah Animal Adoption Center",
+      "address": "1955 North Redwood Road, Salt Lake, UT 84116",
+      "phone": "801-355-7387",
+      "image": "./img/shelter/office/493967.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/utah-animal-adoption-center-493967/",
+      "imageUrl": "https://cdn.findpawpal.com/office/493967.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 518246,
+      "slug": "adopt-me-society-518246",
+      "name": "Adopt Me Society",
+      "address": "860 South 600 East, Salt Lake, UT 84102",
+      "phone": "801-209-6130",
+      "image": "./img/shelter/office/518246.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/adopt-me-society-518246/",
+      "imageUrl": "https://cdn.findpawpal.com/office/518246.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 518302,
+      "slug": "millers-foster-home-for-pets-518302",
+      "name": "Miller's Foster Home for Pets",
+      "address": "567 F Street, Salt Lake, UT 84103",
+      "phone": "",
+      "image": "./img/shelter/office/518302.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/millers-foster-home-for-pets-518302/",
+      "imageUrl": "https://cdn.findpawpal.com/office/518302.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 524379,
+      "slug": "salt-lake-county-animal-services-524379",
+      "name": "Salt Lake County Animal Services",
+      "address": "511 3900 South, Salt Lake, UT 84123",
+      "phone": "385-468-7387",
+      "image": "./img/shelter/office/524379.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/salt-lake-county-animal-services-524379/",
+      "imageUrl": "https://cdn.findpawpal.com/office/524379.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 633309,
+      "slug": "community-animal-welfare-society-633309",
+      "name": "Community Animal Welfare Society",
+      "address": "PO Box 17825, Salt Lake, UT 84117",
+      "phone": "801-328-4731",
+      "image": "https://cdn.findpawpal.com/office/633309.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/community-animal-welfare-society-633309/"
+    },
+    {
+      "officeId": 633325,
+      "slug": "no-more-homeless-pets-in-utah-633325",
+      "name": "No More Homeless Pets In Utah",
+      "address": "324 400 West, Salt Lake, UT 84101",
+      "phone": "801-364-0370",
+      "image": "./img/shelter/office/633325.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/no-more-homeless-pets-in-utah-633325/",
+      "imageUrl": "https://cdn.findpawpal.com/office/633325.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 635361,
+      "slug": "second-chance-for-homeless-pets-635361",
+      "name": "Second Chance for Homeless Pets",
+      "address": "200 Gordon Lane, Salt Lake, UT 84107",
+      "phone": "801-590-8999",
+      "image": "./img/shelter/office/635361.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/second-chance-for-homeless-pets-635361/",
+      "imageUrl": "https://cdn.findpawpal.com/office/635361.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674309,
+      "slug": "airedale-terrier-rescue-southwest-674309",
+      "name": "Airedale Terrier Rescue Southwest",
+      "address": "343 Edmonds Place, Salt Lake, UT 84116",
+      "phone": "801-833-3635",
+      "image": "./img/shelter/office/674309.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/airedale-terrier-rescue-southwest-674309/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674309.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 702260,
+      "slug": "salt-lake-city-animal-control-702260",
+      "name": "Salt Lake City Animal Control",
+      "address": "220 Morris Ave, Salt Lake, UT 84115",
+      "phone": "801-483-6024",
+      "image": "./img/shelter/office/702260.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/salt-lake-city-animal-control-702260/",
+      "imageUrl": "https://cdn.findpawpal.com/office/702260.jpg?f=webp&w=730"
+    }
+  ]
+}

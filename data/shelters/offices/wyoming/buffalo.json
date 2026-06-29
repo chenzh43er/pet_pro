@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:24:54.040804+00:00",
+  "state": {
+    "slug": "wyoming",
+    "name": "Wyoming"
+  },
+  "city": {
+    "slug": "buffalo",
+    "name": "Buffalo",
+    "label": "Buffalo, WY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wyoming/buffalo/",
+  "offices": [
+    {
+      "officeId": 600311,
+      "slug": "st-francis-animal-shelter-inc-600311",
+      "name": "St Francis Animal Shelter Inc",
+      "address": "109 Flatiron Drive, Buffalo, WY 82834",
+      "phone": "307-684-1738",
+      "image": "./img/shelter/office/600311.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/st-francis-animal-shelter-inc-600311/",
+      "imageUrl": "https://cdn.findpawpal.com/office/600311.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 709651,
+      "slug": "animal-control-office-dog-pound-709651",
+      "name": "Animal Control Office - Dog Pound",
+      "address": "624 West Fetterman Street, Buffalo, WY 82834",
+      "phone": "307-684-2757",
+      "image": "./img/shelter/office/709651.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-control-office-dog-pound-709651/",
+      "imageUrl": "https://cdn.findpawpal.com/office/709651.jpg?f=webp&w=730"
+    }
+  ]
+}

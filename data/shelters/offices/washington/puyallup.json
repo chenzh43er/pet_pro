@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T20:18:42.746878+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "puyallup",
+    "name": "Puyallup",
+    "label": "Puyallup, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/puyallup/",
+  "offices": [
+    {
+      "officeId": 593318,
+      "slug": "animal-rescue-593318",
+      "name": "Animal Rescue",
+      "address": "PO Box 814, Puyallup, WA 98371",
+      "phone": "206-535-0937",
+      "image": "./img/shelter/office/593318.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-rescue-593318/",
+      "imageUrl": "https://cdn.findpawpal.com/office/593318.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 628985,
+      "slug": "paws-and-claws-animal-rescue-628985",
+      "name": "PAWS & Claws Animal Rescue",
+      "address": "PO Box 732137, Puyallup, WA 98373",
+      "phone": "253-531-8349",
+      "image": "./img/shelter/office/628985.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/paws-and-claws-animal-rescue-628985/",
+      "imageUrl": "https://cdn.findpawpal.com/office/628985.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 664460,
+      "slug": "puyallup-animal-control-664460",
+      "name": "Puyallup Animal Control",
+      "address": "1200 39th Avenue Southeast, Puyallup, WA 98374",
+      "phone": "253-841-5595",
+      "image": "./img/shelter/office/664460.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/puyallup-animal-control-664460/",
+      "imageUrl": "https://cdn.findpawpal.com/office/664460.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 664686,
+      "slug": "sunny-skys-animal-rescue-664686",
+      "name": "Sunny Sky's Animal Rescue",
+      "address": "1102 East Main Avenue, Puyallup, WA 98372",
+      "phone": "253-845-8866",
+      "image": "./img/shelter/office/664686.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sunny-skys-animal-rescue-664686/",
+      "imageUrl": "https://cdn.findpawpal.com/office/664686.jpg?f=webp&w=730"
+    }
+  ]
+}

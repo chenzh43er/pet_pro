@@ -1,0 +1,676 @@
+{
+  "fetchedAt": "2026-06-27T17:48:03.515069+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota",
+    "offices": 142
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/",
+  "cities": [
+    {
+      "slug": "ada",
+      "name": "Ada",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/ada/"
+    },
+    {
+      "slug": "albert-lea",
+      "name": "Albert Lea",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/albert-lea/"
+    },
+    {
+      "slug": "alexandria",
+      "name": "Alexandria",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/alexandria/"
+    },
+    {
+      "slug": "anoka",
+      "name": "Anoka",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/anoka/"
+    },
+    {
+      "slug": "austin",
+      "name": "Austin",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/austin/"
+    },
+    {
+      "slug": "barnesville",
+      "name": "Barnesville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/barnesville/"
+    },
+    {
+      "slug": "barrett",
+      "name": "Barrett",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/barrett/"
+    },
+    {
+      "slug": "bemidji",
+      "name": "Bemidji",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/bemidji/"
+    },
+    {
+      "slug": "blaine",
+      "name": "Blaine",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/blaine/"
+    },
+    {
+      "slug": "bloomington",
+      "name": "Bloomington",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/bloomington/"
+    },
+    {
+      "slug": "braham",
+      "name": "Braham",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/braham/"
+    },
+    {
+      "slug": "brainerd",
+      "name": "Brainerd",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/brainerd/"
+    },
+    {
+      "slug": "brooklyn-park",
+      "name": "Brooklyn Park",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/brooklyn-park/"
+    },
+    {
+      "slug": "browerville",
+      "name": "Browerville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/browerville/"
+    },
+    {
+      "slug": "buffalo",
+      "name": "Buffalo",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/buffalo/"
+    },
+    {
+      "slug": "burnsville",
+      "name": "Burnsville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/burnsville/"
+    },
+    {
+      "slug": "cambridge",
+      "name": "Cambridge",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/cambridge/"
+    },
+    {
+      "slug": "canton",
+      "name": "Canton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/canton/"
+    },
+    {
+      "slug": "champlin",
+      "name": "Champlin",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/champlin/"
+    },
+    {
+      "slug": "chaska",
+      "name": "Chaska",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/chaska/"
+    },
+    {
+      "slug": "cloquet",
+      "name": "Cloquet",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/cloquet/"
+    },
+    {
+      "slug": "cohasset",
+      "name": "Cohasset",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/cohasset/"
+    },
+    {
+      "slug": "coleraine",
+      "name": "Coleraine",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/coleraine/"
+    },
+    {
+      "slug": "coon-rapids",
+      "name": "Coon Rapids",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/coon-rapids/"
+    },
+    {
+      "slug": "crookston",
+      "name": "Crookston",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/crookston/"
+    },
+    {
+      "slug": "detroit-lakes",
+      "name": "Detroit Lakes",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/detroit-lakes/"
+    },
+    {
+      "slug": "duluth",
+      "name": "Duluth",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/duluth/"
+    },
+    {
+      "slug": "elbow-lake",
+      "name": "Elbow Lake",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/elbow-lake/"
+    },
+    {
+      "slug": "elko-new-market",
+      "name": "Elko New Market",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/elko-new-market/"
+    },
+    {
+      "slug": "excelsior",
+      "name": "Excelsior",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/excelsior/"
+    },
+    {
+      "slug": "fairmont",
+      "name": "Fairmont",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/fairmont/"
+    },
+    {
+      "slug": "faribault",
+      "name": "Faribault",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/faribault/"
+    },
+    {
+      "slug": "farmington",
+      "name": "Farmington",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/farmington/"
+    },
+    {
+      "slug": "fergus-falls",
+      "name": "Fergus Falls",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/fergus-falls/"
+    },
+    {
+      "slug": "forest-lake",
+      "name": "Forest Lake",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/forest-lake/"
+    },
+    {
+      "slug": "fridley",
+      "name": "Fridley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/fridley/"
+    },
+    {
+      "slug": "gibbon",
+      "name": "Gibbon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/gibbon/"
+    },
+    {
+      "slug": "glenwood",
+      "name": "Glenwood",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/glenwood/"
+    },
+    {
+      "slug": "golden-valley",
+      "name": "Golden Valley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/golden-valley/"
+    },
+    {
+      "slug": "grand-rapids",
+      "name": "Grand Rapids",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/grand-rapids/"
+    },
+    {
+      "slug": "harris",
+      "name": "Harris",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/harris/"
+    },
+    {
+      "slug": "hastings",
+      "name": "Hastings",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/hastings/"
+    },
+    {
+      "slug": "hibbing",
+      "name": "Hibbing",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/hibbing/"
+    },
+    {
+      "slug": "hutchinson",
+      "name": "Hutchinson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/hutchinson/"
+    },
+    {
+      "slug": "international-falls",
+      "name": "International Falls",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/international-falls/"
+    },
+    {
+      "slug": "inver-grove-heights",
+      "name": "Inver Grove Heights",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/inver-grove-heights/"
+    },
+    {
+      "slug": "la-crescent",
+      "name": "La Crescent",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/la-crescent/"
+    },
+    {
+      "slug": "lake",
+      "name": "Lake",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/lake/"
+    },
+    {
+      "slug": "lakeville",
+      "name": "Lakeville",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/lakeville/"
+    },
+    {
+      "slug": "litchfield",
+      "name": "Litchfield",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/litchfield/"
+    },
+    {
+      "slug": "little-falls",
+      "name": "Little Falls",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/little-falls/"
+    },
+    {
+      "slug": "madison",
+      "name": "Madison",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/madison/"
+    },
+    {
+      "slug": "makinen",
+      "name": "Makinen",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/makinen/"
+    },
+    {
+      "slug": "mankato",
+      "name": "Mankato",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/mankato/"
+    },
+    {
+      "slug": "maple-grove",
+      "name": "Maple Grove",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/maple-grove/"
+    },
+    {
+      "slug": "maplewood",
+      "name": "Maplewood",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/maplewood/"
+    },
+    {
+      "slug": "marshall",
+      "name": "Marshall",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/marshall/"
+    },
+    {
+      "slug": "milaca",
+      "name": "Milaca",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/milaca/"
+    },
+    {
+      "slug": "minneapolis",
+      "name": "Minneapolis",
+      "offices": 12,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/minneapolis/"
+    },
+    {
+      "slug": "monticello",
+      "name": "Monticello",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/monticello/"
+    },
+    {
+      "slug": "moorhead",
+      "name": "Moorhead",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/moorhead/"
+    },
+    {
+      "slug": "mora",
+      "name": "Mora",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/mora/"
+    },
+    {
+      "slug": "new-ulm",
+      "name": "New Ulm",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/new-ulm/"
+    },
+    {
+      "slug": "newport",
+      "name": "Newport",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/newport/"
+    },
+    {
+      "slug": "orr",
+      "name": "Orr",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/orr/"
+    },
+    {
+      "slug": "owatonna",
+      "name": "Owatonna",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/owatonna/"
+    },
+    {
+      "slug": "park-rapids",
+      "name": "Park Rapids",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/park-rapids/"
+    },
+    {
+      "slug": "perham",
+      "name": "Perham",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/perham/"
+    },
+    {
+      "slug": "pine",
+      "name": "Pine",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/pine/"
+    },
+    {
+      "slug": "princeton",
+      "name": "Princeton",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/princeton/"
+    },
+    {
+      "slug": "prior-lake",
+      "name": "Prior Lake",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/prior-lake/"
+    },
+    {
+      "slug": "red-wing",
+      "name": "Red Wing",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/red-wing/"
+    },
+    {
+      "slug": "redwood-falls",
+      "name": "Redwood Falls",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/redwood-falls/"
+    },
+    {
+      "slug": "richfield",
+      "name": "Richfield",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/richfield/"
+    },
+    {
+      "slug": "rochester",
+      "name": "Rochester",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/rochester/"
+    },
+    {
+      "slug": "roseville",
+      "name": "Roseville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/roseville/"
+    },
+    {
+      "slug": "sauk-rapids",
+      "name": "Sauk Rapids",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/sauk-rapids/"
+    },
+    {
+      "slug": "shakopee",
+      "name": "Shakopee",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/shakopee/"
+    },
+    {
+      "slug": "st-cloud",
+      "name": "St. Cloud",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/st-cloud/"
+    },
+    {
+      "slug": "st-james",
+      "name": "St. James",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/st-james/"
+    },
+    {
+      "slug": "st-paul",
+      "name": "St. Paul",
+      "offices": 6,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/st-paul/"
+    },
+    {
+      "slug": "stacy",
+      "name": "Stacy",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/stacy/"
+    },
+    {
+      "slug": "stewartville",
+      "name": "Stewartville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/stewartville/"
+    },
+    {
+      "slug": "stillwater",
+      "name": "Stillwater",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/stillwater/"
+    },
+    {
+      "slug": "thief-river-falls",
+      "name": "Thief River Falls",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/thief-river-falls/"
+    },
+    {
+      "slug": "twig",
+      "name": "Twig",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/twig/"
+    },
+    {
+      "slug": "two-harbors",
+      "name": "Two Harbors",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/two-harbors/"
+    },
+    {
+      "slug": "virginia",
+      "name": "Virginia",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/virginia/"
+    },
+    {
+      "slug": "waseca",
+      "name": "Waseca",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/waseca/"
+    },
+    {
+      "slug": "white-bear-lake",
+      "name": "White Bear Lake",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/white-bear-lake/"
+    },
+    {
+      "slug": "willmar",
+      "name": "Willmar",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/willmar/"
+    },
+    {
+      "slug": "winona",
+      "name": "Winona",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/winona/"
+    },
+    {
+      "slug": "woodbury",
+      "name": "Woodbury",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/woodbury/"
+    },
+    {
+      "slug": "zimmerman",
+      "name": "Zimmerman",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/zimmerman/"
+    },
+    {
+      "slug": "zumbrota",
+      "name": "Zumbrota",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/zumbrota/"
+    }
+  ]
+}

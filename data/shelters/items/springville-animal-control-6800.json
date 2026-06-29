@@ -1,0 +1,21 @@
+{
+  "officeId": 6800,
+  "slug": "springville-animal-control-6800",
+  "name": "Springville Animal Control",
+  "address": "151 INDUSTRIAL Dr, Springville, AL 35146",
+  "street": "151 INDUSTRIAL Dr",
+  "addressCity": "Springville",
+  "stateCode": "AL",
+  "zip": "35146",
+  "phone": "205-467-2704",
+  "image": "./img/shelter/office/6800.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/springville-animal-control-6800/",
+  "stateSlug": "alabama",
+  "stateName": "Alabama",
+  "citySlug": "springville",
+  "cityName": "Springville",
+  "cityLabel": "Springville, AL",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/alabama/springville/",
+  "fetchedAt": "2026-06-27T18:18:40.827966+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/6800.jpg?f=webp&w=730"
+}

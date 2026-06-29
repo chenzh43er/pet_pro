@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:44:05.522619+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "dublin",
+    "name": "Dublin",
+    "label": "Dublin, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/dublin/",
+  "offices": [
+    {
+      "officeId": 686612,
+      "slug": "almost-home-dog-rescue-of-ohio-686612",
+      "name": "Almost Home Dog Rescue of Ohio",
+      "address": "4672 Aberdeen Avenue, Dublin, OH 43016",
+      "phone": "614-766-1001",
+      "image": "https://cdn.findpawpal.com/office/686612.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/almost-home-dog-rescue-of-ohio-686612/"
+    }
+  ]
+}

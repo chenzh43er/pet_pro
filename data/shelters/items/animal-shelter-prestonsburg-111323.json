@@ -1,0 +1,21 @@
+{
+  "officeId": 111323,
+  "slug": "animal-shelter-prestonsburg-111323",
+  "name": "Animal Shelter Prestonsburg",
+  "address": "3219 Mountain Parkway, Prestonsburg, KY 41653",
+  "street": "3219 Mountain Parkway",
+  "addressCity": "Prestonsburg",
+  "stateCode": "KY",
+  "zip": "41653",
+  "phone": "606-886-3189",
+  "image": "./img/shelter/office/111323.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/animal-shelter-prestonsburg-111323/",
+  "stateSlug": "kentucky",
+  "stateName": "Kentucky",
+  "citySlug": "prestonsburg",
+  "cityName": "Prestonsburg",
+  "cityLabel": "Prestonsburg, KY",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kentucky/prestonsburg/",
+  "fetchedAt": "2026-06-27T18:58:14.995393+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/111323.jpg?f=webp&w=730"
+}

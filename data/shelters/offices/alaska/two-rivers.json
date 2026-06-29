@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:19:33.534598+00:00",
+  "state": {
+    "slug": "alaska",
+    "name": "Alaska"
+  },
+  "city": {
+    "slug": "two-rivers",
+    "name": "Two Rivers",
+    "label": "Two Rivers, AK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alaska/two-rivers/",
+  "offices": [
+    {
+      "slug": "second-chance-league-133525",
+      "name": "Second Chance League",
+      "address": "PO Box 16272, Two Rivers, AK 99716",
+      "phone": "",
+      "image": "./img/shelter/office/133525.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/second-chance-league-133525/",
+      "imageUrl": "https://cdn.findpawpal.com/office/133525.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ruff-start-kennel-and-rescue-152711",
+      "name": "Ruff Start Kennel and Rescue",
+      "address": "PO Box 16061, Two Rivers, AK 99716",
+      "phone": "907-488-8894",
+      "image": "./img/shelter/office/152711.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ruff-start-kennel-and-rescue-152711/",
+      "imageUrl": "https://cdn.findpawpal.com/office/152711.jpg?f=webp&w=730"
+    }
+  ]
+}

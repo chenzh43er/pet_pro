@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:57:13.025428+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "harrodsburg",
+    "name": "Harrodsburg",
+    "label": "Harrodsburg, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/harrodsburg/",
+  "offices": [
+    {
+      "officeId": 116450,
+      "slug": "arrowhead-animal-refuge-116450",
+      "name": "Arrowhead Animal Refuge",
+      "address": "685 Handy Pike, Harrodsburg, KY 40330",
+      "phone": "502-226-5438",
+      "image": "./img/shelter/office/116450.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/arrowhead-animal-refuge-116450/",
+      "imageUrl": "https://cdn.findpawpal.com/office/116450.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 117174,
+      "slug": "harrods-animal-control-117174",
+      "name": "Harrods Animal Control",
+      "address": "1081 North College Street, Harrodsburg, KY 40330",
+      "phone": "859-733-1244",
+      "image": "./img/shelter/office/117174.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/harrods-animal-control-117174/",
+      "imageUrl": "https://cdn.findpawpal.com/office/117174.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 120196,
+      "slug": "mercy-county-humane-society-120196",
+      "name": "Mercy County Humane Society",
+      "address": "132 North Main Street, Harrodsburg, KY 40330",
+      "phone": "859-734-9500",
+      "image": "./img/shelter/office/120196.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mercy-county-humane-society-120196/",
+      "imageUrl": "https://cdn.findpawpal.com/office/120196.jpg?f=webp&w=730"
+    }
+  ]
+}

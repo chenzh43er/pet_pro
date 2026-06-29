@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:26:54.916198+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "la-quinta",
+    "name": "La Quinta",
+    "label": "La Quinta, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/la-quinta/",
+  "offices": [
+    {
+      "officeId": 368074,
+      "slug": "la-quinta-animal-control-368074",
+      "name": "LA Quinta Animal Control",
+      "address": "78495 Calle Tampico, La Quinta, CA 92253",
+      "phone": "760-777-7050",
+      "image": "./img/shelter/office/368074.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/la-quinta-animal-control-368074/",
+      "imageUrl": "https://cdn.findpawpal.com/office/368074.jpg?f=webp&w=730"
+    }
+  ]
+}

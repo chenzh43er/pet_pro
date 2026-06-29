@@ -1,0 +1,21 @@
+{
+  "officeId": 5847,
+  "slug": "humane-society-of-etowah-county-5847",
+  "name": "Humane Society of Etowah County",
+  "address": "1700 Chestnut Street, Gadsden, AL 35901",
+  "street": "1700 Chestnut Street",
+  "addressCity": "Gadsden",
+  "stateCode": "AL",
+  "zip": "35901",
+  "phone": "256-547-4846",
+  "image": "./img/shelter/office/5847.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-etowah-county-5847/",
+  "stateSlug": "alabama",
+  "stateName": "Alabama",
+  "citySlug": "gadsden",
+  "cityName": "Gadsden",
+  "cityLabel": "Gadsden, AL",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/alabama/gadsden/",
+  "fetchedAt": "2026-06-27T18:17:34.854197+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/5847.jpg?f=webp&w=730"
+}

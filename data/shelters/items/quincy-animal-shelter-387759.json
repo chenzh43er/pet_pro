@@ -1,0 +1,21 @@
+{
+  "officeId": 387759,
+  "slug": "quincy-animal-shelter-387759",
+  "name": "Quincy Animal Shelter",
+  "address": "3910 Wismann Lane, Quincy, IL 62305",
+  "street": "3910 Wismann Lane",
+  "addressCity": "Quincy",
+  "stateCode": "IL",
+  "zip": "62305",
+  "phone": "217-222-2133",
+  "image": "./img/shelter/office/387759.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/quincy-animal-shelter-387759/",
+  "stateSlug": "illinois",
+  "stateName": "Illinois",
+  "citySlug": "quincy",
+  "cityName": "Quincy",
+  "cityLabel": "Quincy, IL",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/illinois/quincy/",
+  "fetchedAt": "2026-06-27T18:47:44.008172+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/387759.jpg?f=webp&w=730"
+}

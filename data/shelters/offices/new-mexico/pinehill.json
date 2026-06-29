@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:30:50.965704+00:00",
+  "state": {
+    "slug": "new-mexico",
+    "name": "New Mexico"
+  },
+  "city": {
+    "slug": "pinehill",
+    "name": "Pinehill",
+    "label": "Pinehill, NM"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-mexico/pinehill/",
+  "offices": [
+    {
+      "officeId": 262075,
+      "slug": "st-francis-sanctuary-for-animals-262075",
+      "name": "St. Francis Sanctuary for Animals",
+      "address": "PO Box 336, Pinehill, NM 87357",
+      "phone": "505-775-3260",
+      "image": "./img/shelter/office/262075.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/st-francis-sanctuary-for-animals-262075/",
+      "imageUrl": "https://cdn.findpawpal.com/office/262075.jpg?f=webp&w=730"
+    }
+  ]
+}

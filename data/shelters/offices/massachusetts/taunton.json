@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:08:35.005846+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "taunton",
+    "name": "Taunton",
+    "label": "Taunton, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/taunton/",
+  "offices": [
+    {
+      "officeId": 39885,
+      "slug": "taunton-animal-shelter-inc-39885",
+      "name": "Taunton Animal Shelter, Inc.",
+      "address": "821 West Water Street, Taunton, MA 02780",
+      "phone": "508-822-1463",
+      "image": "./img/shelter/office/39885.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/taunton-animal-shelter-inc-39885/",
+      "imageUrl": "https://cdn.findpawpal.com/office/39885.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 41451,
+      "slug": "taunton-animal-control-41451",
+      "name": "Taunton Animal Control",
+      "address": "821 West Water Street, Taunton, MA 02780",
+      "phone": "508-822-2150",
+      "image": "./img/shelter/office/41451.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/taunton-animal-control-41451/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41451.jpg?f=webp&w=730"
+    }
+  ]
+}

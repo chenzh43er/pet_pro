@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:12:24.712025+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "riverview",
+    "name": "Riverview",
+    "label": "Riverview, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/riverview/",
+  "offices": [
+    {
+      "officeId": 202699,
+      "slug": "paws-of-michigan-202699",
+      "name": "PAWS of Michigan",
+      "address": "PO Box 2184, Riverview, MI 48193",
+      "phone": "",
+      "image": "./img/shelter/office/202699.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/paws-of-michigan-202699/",
+      "imageUrl": "https://cdn.findpawpal.com/office/202699.jpg?f=webp&w=730"
+    }
+  ]
+}

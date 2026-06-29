@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:23:25.273788+00:00",
+  "state": {
+    "slug": "nevada",
+    "name": "Nevada"
+  },
+  "city": {
+    "slug": "north-las-vegas",
+    "name": "North Las Vegas",
+    "label": "North Las Vegas, NV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nevada/north-las-vegas/",
+  "offices": [
+    {
+      "officeId": 6905,
+      "slug": "humane-society-of-southern-nevada-and-spca-6905",
+      "name": "Humane Society of Southern Nevada and SPCA",
+      "address": "3401 Judson Avenue, North Las Vegas, NV 89030",
+      "phone": "702-382-4799",
+      "image": "./img/shelter/office/6905.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-southern-nevada-and-spca-6905/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6905.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 6953,
+      "slug": "north-las-vegas-animal-control-6953",
+      "name": "North Las Vegas Animal Control",
+      "address": "3425 West Craig Road, North Las Vegas, NV 89032",
+      "phone": "702-633-9111",
+      "image": "./img/shelter/office/6953.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/north-las-vegas-animal-control-6953/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6953.jpg?f=webp&w=730"
+    }
+  ]
+}

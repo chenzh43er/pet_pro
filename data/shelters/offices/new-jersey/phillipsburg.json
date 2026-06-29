@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:28:18.726723+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "phillipsburg",
+    "name": "Phillipsburg",
+    "label": "Phillipsburg, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/phillipsburg/",
+  "offices": [
+    {
+      "officeId": 99562,
+      "slug": "mylestone-equine-rescue-99562",
+      "name": "Mylestone Equine Rescue",
+      "address": "227 Still Valley Road, Phillipsburg, NJ 08865",
+      "phone": "908-995-9300",
+      "image": "./img/shelter/office/99562.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mylestone-equine-rescue-99562/",
+      "imageUrl": "https://cdn.findpawpal.com/office/99562.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 99569,
+      "slug": "warren-animal-hospital-99569",
+      "name": "Warren Animal Hospital",
+      "address": "793 Uniontown Road, Phillipsburg, NJ 08865",
+      "phone": "908-859-0702",
+      "image": "./img/shelter/office/99569.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/warren-animal-hospital-99569/",
+      "imageUrl": "https://cdn.findpawpal.com/office/99569.jpg?f=webp&w=730"
+    }
+  ]
+}

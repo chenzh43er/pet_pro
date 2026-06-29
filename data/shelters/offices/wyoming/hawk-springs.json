@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:25:11.815172+00:00",
+  "state": {
+    "slug": "wyoming",
+    "name": "Wyoming"
+  },
+  "city": {
+    "slug": "hawk-springs",
+    "name": "Hawk Springs",
+    "label": "Hawk Springs, WY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wyoming/hawk-springs/",
+  "offices": [
+    {
+      "officeId": 532049,
+      "slug": "pet-pals-inc-532049",
+      "name": "Pet Pals, Inc.",
+      "address": "2881 County Hwy 2, Hawk Springs, WY 82217",
+      "phone": "307-532-3861",
+      "image": "./img/shelter/office/532049.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-pals-inc-532049/",
+      "imageUrl": "https://cdn.findpawpal.com/office/532049.jpg?f=webp&w=730"
+    }
+  ]
+}

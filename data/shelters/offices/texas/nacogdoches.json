@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T20:07:55.657422+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "nacogdoches",
+    "name": "Nacogdoches",
+    "label": "Nacogdoches, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/nacogdoches/",
+  "offices": [
+    {
+      "officeId": 537402,
+      "slug": "nacogdoches-animal-shelter-537402",
+      "name": "Nacogdoches Animal Shelter",
+      "address": "3211 Southwest Stallings Drive, Nacogdoches, TX 75964",
+      "phone": "936-560-5011",
+      "image": "./img/shelter/office/537402.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/nacogdoches-animal-shelter-537402/",
+      "imageUrl": "https://cdn.findpawpal.com/office/537402.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 635161,
+      "slug": "city-animal-shelter-635161",
+      "name": "City Animal Shelter",
+      "address": "PO Box 648, Nacogdoches, TX 75961",
+      "phone": "",
+      "image": "./img/shelter/office/635161.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/city-animal-shelter-635161/",
+      "imageUrl": "https://cdn.findpawpal.com/office/635161.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 702169,
+      "slug": "nacogdoches-county-humane-society-702169",
+      "name": "Nacogdoches County Humane Society",
+      "address": "PO Box 631244, Nacogdoches, TX 75963",
+      "phone": "409-569-7272",
+      "image": "./img/shelter/office/702169.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/nacogdoches-county-humane-society-702169/",
+      "imageUrl": "https://cdn.findpawpal.com/office/702169.jpg?f=webp&w=730"
+    }
+  ]
+}

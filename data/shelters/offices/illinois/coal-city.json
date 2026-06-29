@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:44:53.159727+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "coal-city",
+    "name": "Coal City",
+    "label": "Coal City, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/coal-city/",
+  "offices": [
+    {
+      "officeId": 512623,
+      "slug": "grundy-county-humane-society-512623",
+      "name": "Grundy County Humane Society",
+      "address": "120 West 4th Street, Coal City, IL 60416",
+      "phone": "815-634-4137",
+      "image": "https://cdn.findpawpal.com/office/512623.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/grundy-county-humane-society-512623/"
+    }
+  ]
+}

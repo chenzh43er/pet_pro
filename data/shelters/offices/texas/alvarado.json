@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:02:35.447720+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "alvarado",
+    "name": "Alvarado",
+    "label": "Alvarado, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/alvarado/",
+  "offices": [
+    {
+      "officeId": 479548,
+      "slug": "alvarado-animal-control-479548",
+      "name": "Alvarado Animal Control",
+      "address": "206 North Baugh Street, Alvarado, TX 76009",
+      "phone": "817-783-2045",
+      "image": "./img/shelter/office/479548.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/alvarado-animal-control-479548/",
+      "imageUrl": "https://cdn.findpawpal.com/office/479548.jpg?f=webp&w=730"
+    }
+  ]
+}

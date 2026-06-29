@@ -1,0 +1,21 @@
+{
+  "officeId": 334531,
+  "slug": "pets-are-wonderful-support-334531",
+  "name": "Pets Are Wonderful Support",
+  "address": "4200 Silver Avenue Southeast, Albuquerque, NM 87108",
+  "street": "4200 Silver Avenue Southeast",
+  "addressCity": "Albuquerque",
+  "stateCode": "NM",
+  "zip": "87108",
+  "phone": "505-266-0911",
+  "image": "./img/shelter/office/334531.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pets-are-wonderful-support-334531/",
+  "stateSlug": "new-mexico",
+  "stateName": "New Mexico",
+  "citySlug": "albuquerque",
+  "cityName": "Albuquerque",
+  "cityLabel": "Albuquerque, NM",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-mexico/albuquerque/",
+  "fetchedAt": "2026-06-27T19:29:51.404721+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/334531.jpg?f=webp&w=730"
+}

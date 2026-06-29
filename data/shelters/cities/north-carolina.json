@@ -1,0 +1,1222 @@
+{
+  "fetchedAt": "2026-06-27T17:48:21.068915+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina",
+    "offices": 339
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/",
+  "cities": [
+    {
+      "slug": "advance",
+      "name": "Advance",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/advance/"
+    },
+    {
+      "slug": "albemarle",
+      "name": "Albemarle",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/albemarle/"
+    },
+    {
+      "slug": "apex",
+      "name": "Apex",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/apex/"
+    },
+    {
+      "slug": "asheboro",
+      "name": "Asheboro",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/asheboro/"
+    },
+    {
+      "slug": "asheville",
+      "name": "Asheville",
+      "offices": 9,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/asheville/"
+    },
+    {
+      "slug": "autryville",
+      "name": "Autryville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/autryville/"
+    },
+    {
+      "slug": "bear-creek",
+      "name": "Bear Creek",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/bear-creek/"
+    },
+    {
+      "slug": "beech-mountain",
+      "name": "Beech Mountain",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/beech-mountain/"
+    },
+    {
+      "slug": "benson",
+      "name": "Benson",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/benson/"
+    },
+    {
+      "slug": "black-mountain",
+      "name": "Black Mountain",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/black-mountain/"
+    },
+    {
+      "slug": "blanch",
+      "name": "Blanch",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/blanch/"
+    },
+    {
+      "slug": "boone",
+      "name": "Boone",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/boone/"
+    },
+    {
+      "slug": "bostic",
+      "name": "Bostic",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/bostic/"
+    },
+    {
+      "slug": "brevard",
+      "name": "Brevard",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/brevard/"
+    },
+    {
+      "slug": "browns-summit",
+      "name": "Browns Summit",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/browns-summit/"
+    },
+    {
+      "slug": "bryson-city",
+      "name": "Bryson City",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/bryson-city/"
+    },
+    {
+      "slug": "burgaw",
+      "name": "Burgaw",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/burgaw/"
+    },
+    {
+      "slug": "burlington",
+      "name": "Burlington",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/burlington/"
+    },
+    {
+      "slug": "burnsville",
+      "name": "Burnsville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/burnsville/"
+    },
+    {
+      "slug": "butner",
+      "name": "Butner",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/butner/"
+    },
+    {
+      "slug": "candler",
+      "name": "Candler",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/candler/"
+    },
+    {
+      "slug": "carrboro",
+      "name": "Carrboro",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/carrboro/"
+    },
+    {
+      "slug": "carthage",
+      "name": "Carthage",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/carthage/"
+    },
+    {
+      "slug": "cary",
+      "name": "Cary",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/cary/"
+    },
+    {
+      "slug": "cashiers",
+      "name": "Cashiers",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/cashiers/"
+    },
+    {
+      "slug": "castle-hayne",
+      "name": "Castle Hayne",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/castle-hayne/"
+    },
+    {
+      "slug": "chapel-hill",
+      "name": "Chapel Hill",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/chapel-hill/"
+    },
+    {
+      "slug": "charlotte",
+      "name": "Charlotte",
+      "offices": 8,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/charlotte/"
+    },
+    {
+      "slug": "china-grove",
+      "name": "China Grove",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/china-grove/"
+    },
+    {
+      "slug": "clayton",
+      "name": "Clayton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/clayton/"
+    },
+    {
+      "slug": "clemmons",
+      "name": "Clemmons",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/clemmons/"
+    },
+    {
+      "slug": "clinton",
+      "name": "Clinton",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/clinton/"
+    },
+    {
+      "slug": "columbia",
+      "name": "Columbia",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/columbia/"
+    },
+    {
+      "slug": "columbus",
+      "name": "Columbus",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/columbus/"
+    },
+    {
+      "slug": "concord",
+      "name": "Concord",
+      "offices": 7,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/concord/"
+    },
+    {
+      "slug": "cornelius",
+      "name": "Cornelius",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/cornelius/"
+    },
+    {
+      "slug": "corolla",
+      "name": "Corolla",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/corolla/"
+    },
+    {
+      "slug": "cramerton",
+      "name": "Cramerton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/cramerton/"
+    },
+    {
+      "slug": "crumpler",
+      "name": "Crumpler",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/crumpler/"
+    },
+    {
+      "slug": "cullowhee",
+      "name": "Cullowhee",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/cullowhee/"
+    },
+    {
+      "slug": "dallas",
+      "name": "Dallas",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/dallas/"
+    },
+    {
+      "slug": "danbury",
+      "name": "Danbury",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/danbury/"
+    },
+    {
+      "slug": "denver",
+      "name": "Denver",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/denver/"
+    },
+    {
+      "slug": "dobson",
+      "name": "Dobson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/dobson/"
+    },
+    {
+      "slug": "dunn",
+      "name": "Dunn",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/dunn/"
+    },
+    {
+      "slug": "durham",
+      "name": "Durham",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/durham/"
+    },
+    {
+      "slug": "east-bend",
+      "name": "East Bend",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/east-bend/"
+    },
+    {
+      "slug": "eden",
+      "name": "Eden",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/eden/"
+    },
+    {
+      "slug": "edenton",
+      "name": "Edenton",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/edenton/"
+    },
+    {
+      "slug": "elizabeth",
+      "name": "Elizabeth",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/elizabeth/"
+    },
+    {
+      "slug": "elizabethtown",
+      "name": "Elizabethtown",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/elizabethtown/"
+    },
+    {
+      "slug": "fayetteville",
+      "name": "Fayetteville",
+      "offices": 8,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/fayetteville/"
+    },
+    {
+      "slug": "forest-city",
+      "name": "Forest City",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/forest-city/"
+    },
+    {
+      "slug": "franklin",
+      "name": "Franklin",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/franklin/"
+    },
+    {
+      "slug": "garner",
+      "name": "Garner",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/garner/"
+    },
+    {
+      "slug": "gastonia",
+      "name": "Gastonia",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/gastonia/"
+    },
+    {
+      "slug": "germanton",
+      "name": "Germanton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/germanton/"
+    },
+    {
+      "slug": "gold-hill",
+      "name": "Gold Hill",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/gold-hill/"
+    },
+    {
+      "slug": "goldsboro",
+      "name": "Goldsboro",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/goldsboro/"
+    },
+    {
+      "slug": "graham",
+      "name": "Graham",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/graham/"
+    },
+    {
+      "slug": "greensboro",
+      "name": "Greensboro",
+      "offices": 12,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/greensboro/"
+    },
+    {
+      "slug": "greenville",
+      "name": "Greenville",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/greenville/"
+    },
+    {
+      "slug": "halifax",
+      "name": "Halifax",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/halifax/"
+    },
+    {
+      "slug": "harrisburg",
+      "name": "Harrisburg",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/harrisburg/"
+    },
+    {
+      "slug": "haw-river",
+      "name": "Haw River",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/haw-river/"
+    },
+    {
+      "slug": "henderson",
+      "name": "Henderson",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/henderson/"
+    },
+    {
+      "slug": "hendersonville",
+      "name": "Hendersonville",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/hendersonville/"
+    },
+    {
+      "slug": "hertford",
+      "name": "Hertford",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/hertford/"
+    },
+    {
+      "slug": "high-point",
+      "name": "High Point",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/high-point/"
+    },
+    {
+      "slug": "holly-springs",
+      "name": "Holly Springs",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/holly-springs/"
+    },
+    {
+      "slug": "hudson",
+      "name": "Hudson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/hudson/"
+    },
+    {
+      "slug": "huntersville",
+      "name": "Huntersville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/huntersville/"
+    },
+    {
+      "slug": "indian-trail",
+      "name": "Indian Trail",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/indian-trail/"
+    },
+    {
+      "slug": "iron-station",
+      "name": "Iron Station",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/iron-station/"
+    },
+    {
+      "slug": "jackson",
+      "name": "Jackson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/jackson/"
+    },
+    {
+      "slug": "jackson-springs",
+      "name": "Jackson Springs",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/jackson-springs/"
+    },
+    {
+      "slug": "jacksonville",
+      "name": "Jacksonville",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/jacksonville/"
+    },
+    {
+      "slug": "jefferson",
+      "name": "Jefferson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/jefferson/"
+    },
+    {
+      "slug": "kannapolis",
+      "name": "Kannapolis",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/kannapolis/"
+    },
+    {
+      "slug": "kenansville",
+      "name": "Kenansville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/kenansville/"
+    },
+    {
+      "slug": "kernersville",
+      "name": "Kernersville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/kernersville/"
+    },
+    {
+      "slug": "kinston",
+      "name": "Kinston",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/kinston/"
+    },
+    {
+      "slug": "kitty-hawk",
+      "name": "Kitty Hawk",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/kitty-hawk/"
+    },
+    {
+      "slug": "knightdale",
+      "name": "Knightdale",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/knightdale/"
+    },
+    {
+      "slug": "laurinburg",
+      "name": "Laurinburg",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/laurinburg/"
+    },
+    {
+      "slug": "leland",
+      "name": "Leland",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/leland/"
+    },
+    {
+      "slug": "lenoir",
+      "name": "Lenoir",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/lenoir/"
+    },
+    {
+      "slug": "lexington",
+      "name": "Lexington",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/lexington/"
+    },
+    {
+      "slug": "lillington",
+      "name": "Lillington",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/lillington/"
+    },
+    {
+      "slug": "lincolnton",
+      "name": "Lincolnton",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/lincolnton/"
+    },
+    {
+      "slug": "louisburg",
+      "name": "Louisburg",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/louisburg/"
+    },
+    {
+      "slug": "lumberton",
+      "name": "Lumberton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/lumberton/"
+    },
+    {
+      "slug": "manteo",
+      "name": "Manteo",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/manteo/"
+    },
+    {
+      "slug": "maple",
+      "name": "Maple",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/maple/"
+    },
+    {
+      "slug": "marble",
+      "name": "Marble",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/marble/"
+    },
+    {
+      "slug": "marion",
+      "name": "Marion",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/marion/"
+    },
+    {
+      "slug": "marshall",
+      "name": "Marshall",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/marshall/"
+    },
+    {
+      "slug": "matthews",
+      "name": "Matthews",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/matthews/"
+    },
+    {
+      "slug": "maysville",
+      "name": "Maysville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/maysville/"
+    },
+    {
+      "slug": "mebane",
+      "name": "Mebane",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/mebane/"
+    },
+    {
+      "slug": "midland",
+      "name": "Midland",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/midland/"
+    },
+    {
+      "slug": "mocksville",
+      "name": "Mocksville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/mocksville/"
+    },
+    {
+      "slug": "monroe",
+      "name": "Monroe",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/monroe/"
+    },
+    {
+      "slug": "morehead-city",
+      "name": "Morehead City",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/morehead-city/"
+    },
+    {
+      "slug": "morganton",
+      "name": "Morganton",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/morganton/"
+    },
+    {
+      "slug": "mount-airy",
+      "name": "Mount Airy",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/mount-airy/"
+    },
+    {
+      "slug": "murphy",
+      "name": "Murphy",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/murphy/"
+    },
+    {
+      "slug": "nashville",
+      "name": "Nashville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/nashville/"
+    },
+    {
+      "slug": "new-bern",
+      "name": "New Bern",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/new-bern/"
+    },
+    {
+      "slug": "newland",
+      "name": "Newland",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/newland/"
+    },
+    {
+      "slug": "newport",
+      "name": "Newport",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/newport/"
+    },
+    {
+      "slug": "newton",
+      "name": "Newton",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/newton/"
+    },
+    {
+      "slug": "oak-island",
+      "name": "Oak Island",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/oak-island/"
+    },
+    {
+      "slug": "oak-ridge",
+      "name": "Oak Ridge",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/oak-ridge/"
+    },
+    {
+      "slug": "ocean-isle-beach",
+      "name": "Ocean Isle Beach",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/ocean-isle-beach/"
+    },
+    {
+      "slug": "oxford",
+      "name": "Oxford",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/oxford/"
+    },
+    {
+      "slug": "pfafftown",
+      "name": "Pfafftown",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/pfafftown/"
+    },
+    {
+      "slug": "pinehurst",
+      "name": "Pinehurst",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/pinehurst/"
+    },
+    {
+      "slug": "pisgah-forest",
+      "name": "Pisgah Forest",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/pisgah-forest/"
+    },
+    {
+      "slug": "pittsboro",
+      "name": "Pittsboro",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/pittsboro/"
+    },
+    {
+      "slug": "polkton",
+      "name": "Polkton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/polkton/"
+    },
+    {
+      "slug": "raeford",
+      "name": "Raeford",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/raeford/"
+    },
+    {
+      "slug": "raleigh",
+      "name": "Raleigh",
+      "offices": 12,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/raleigh/"
+    },
+    {
+      "slug": "randleman",
+      "name": "Randleman",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/randleman/"
+    },
+    {
+      "slug": "reidsville",
+      "name": "Reidsville",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/reidsville/"
+    },
+    {
+      "slug": "roanoke-rapids",
+      "name": "Roanoke Rapids",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/roanoke-rapids/"
+    },
+    {
+      "slug": "rockingham",
+      "name": "Rockingham",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/rockingham/"
+    },
+    {
+      "slug": "rocky-mount",
+      "name": "Rocky Mount",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/rocky-mount/"
+    },
+    {
+      "slug": "roxboro",
+      "name": "Roxboro",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/roxboro/"
+    },
+    {
+      "slug": "rutherfordton",
+      "name": "Rutherfordton",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/rutherfordton/"
+    },
+    {
+      "slug": "salisbury",
+      "name": "Salisbury",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/salisbury/"
+    },
+    {
+      "slug": "sanford",
+      "name": "Sanford",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/sanford/"
+    },
+    {
+      "slug": "scotland-neck",
+      "name": "Scotland Neck",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/scotland-neck/"
+    },
+    {
+      "slug": "shelby",
+      "name": "Shelby",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/shelby/"
+    },
+    {
+      "slug": "smithfield",
+      "name": "Smithfield",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/smithfield/"
+    },
+    {
+      "slug": "snow-hill",
+      "name": "Snow Hill",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/snow-hill/"
+    },
+    {
+      "slug": "southern-pines",
+      "name": "Southern Pines",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/southern-pines/"
+    },
+    {
+      "slug": "southport",
+      "name": "Southport",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/southport/"
+    },
+    {
+      "slug": "sparta",
+      "name": "Sparta",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/sparta/"
+    },
+    {
+      "slug": "spruce-pine",
+      "name": "Spruce Pine",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/spruce-pine/"
+    },
+    {
+      "slug": "st-pauls",
+      "name": "St. Pauls",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/st-pauls/"
+    },
+    {
+      "slug": "staley",
+      "name": "Staley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/staley/"
+    },
+    {
+      "slug": "statesville",
+      "name": "Statesville",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/statesville/"
+    },
+    {
+      "slug": "supply",
+      "name": "Supply",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/supply/"
+    },
+    {
+      "slug": "surf-city",
+      "name": "Surf City",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/surf-city/"
+    },
+    {
+      "slug": "sylva",
+      "name": "Sylva",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/sylva/"
+    },
+    {
+      "slug": "tarboro",
+      "name": "Tarboro",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/tarboro/"
+    },
+    {
+      "slug": "taylorsville",
+      "name": "Taylorsville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/taylorsville/"
+    },
+    {
+      "slug": "timberlake",
+      "name": "Timberlake",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/timberlake/"
+    },
+    {
+      "slug": "trenton",
+      "name": "Trenton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/trenton/"
+    },
+    {
+      "slug": "troutman",
+      "name": "Troutman",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/troutman/"
+    },
+    {
+      "slug": "troy",
+      "name": "Troy",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/troy/"
+    },
+    {
+      "slug": "tyner",
+      "name": "Tyner",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/tyner/"
+    },
+    {
+      "slug": "wadesboro",
+      "name": "Wadesboro",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/wadesboro/"
+    },
+    {
+      "slug": "wake-forest",
+      "name": "Wake Forest",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/wake-forest/"
+    },
+    {
+      "slug": "walnut-cove",
+      "name": "Walnut Cove",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/walnut-cove/"
+    },
+    {
+      "slug": "warrenton",
+      "name": "Warrenton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/warrenton/"
+    },
+    {
+      "slug": "washington",
+      "name": "Washington",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/washington/"
+    },
+    {
+      "slug": "waynesville",
+      "name": "Waynesville",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/waynesville/"
+    },
+    {
+      "slug": "webster",
+      "name": "Webster",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/webster/"
+    },
+    {
+      "slug": "whiteville",
+      "name": "Whiteville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/whiteville/"
+    },
+    {
+      "slug": "wilkesboro",
+      "name": "Wilkesboro",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/wilkesboro/"
+    },
+    {
+      "slug": "williamston",
+      "name": "Williamston",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/williamston/"
+    },
+    {
+      "slug": "wilmington",
+      "name": "Wilmington",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/wilmington/"
+    },
+    {
+      "slug": "wilson",
+      "name": "Wilson",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/wilson/"
+    },
+    {
+      "slug": "windsor",
+      "name": "Windsor",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/windsor/"
+    },
+    {
+      "slug": "winnabow",
+      "name": "Winnabow",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/winnabow/"
+    },
+    {
+      "slug": "winston-salem",
+      "name": "Winston-Salem",
+      "offices": 6,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/winston-salem/"
+    },
+    {
+      "slug": "winton",
+      "name": "Winton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/winton/"
+    },
+    {
+      "slug": "yadkinville",
+      "name": "Yadkinville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/yadkinville/"
+    },
+    {
+      "slug": "yanceyville",
+      "name": "Yanceyville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/yanceyville/"
+    },
+    {
+      "slug": "youngsville",
+      "name": "Youngsville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/youngsville/"
+    },
+    {
+      "slug": "zebulon",
+      "name": "Zebulon",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/zebulon/"
+    }
+  ]
+}

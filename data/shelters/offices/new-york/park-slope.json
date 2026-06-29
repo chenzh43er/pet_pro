@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:35:49.673658+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "park-slope",
+    "name": "Park Slope",
+    "label": "Park Slope, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/park-slope/",
+  "offices": [
+    {
+      "officeId": 315576,
+      "slug": "the-brooklyn-animal-foster-network-315576",
+      "name": "The Brooklyn Animal Foster Network",
+      "address": "11 Montgomery Place, Park Slope, NY 11215",
+      "phone": "718-789-6865",
+      "image": "./img/shelter/office/315576.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-brooklyn-animal-foster-network-315576/",
+      "imageUrl": "https://cdn.findpawpal.com/office/315576.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 397196,
+      "slug": "good-dog-foundation-397196",
+      "name": "Good Dog Foundation",
+      "address": "607 6th Street, Park Slope, NY 11215",
+      "phone": "888-859-9992",
+      "image": "./img/shelter/office/397196.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/good-dog-foundation-397196/",
+      "imageUrl": "https://cdn.findpawpal.com/office/397196.jpg?f=webp&w=730"
+    }
+  ]
+}

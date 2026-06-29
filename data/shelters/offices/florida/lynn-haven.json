@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:15:24.724654+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "lynn-haven",
+    "name": "Lynn Haven",
+    "label": "Lynn Haven, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/lynn-haven/",
+  "offices": [
+    {
+      "slug": "lynn-haven-animal-control-274326",
+      "name": "Lynn Haven Animal Control",
+      "address": "1412 Pennsylvania Avenue, Lynn Haven, FL 32444",
+      "phone": "850-265-1112",
+      "image": "./img/shelter/office/274326.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lynn-haven-animal-control-274326/",
+      "imageUrl": "https://cdn.findpawpal.com/office/274326.jpg?f=webp&w=730"
+    }
+  ]
+}

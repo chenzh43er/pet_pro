@@ -1,0 +1,78 @@
+{
+  "fetchedAt": "2026-06-27T18:20:10.775181+00:00",
+  "state": {
+    "slug": "arizona",
+    "name": "Arizona"
+  },
+  "city": {
+    "slug": "gilbert",
+    "name": "Gilbert",
+    "label": "Gilbert, AZ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arizona/gilbert/",
+  "offices": [
+    {
+      "slug": "arizona-basset-hound-rescue-167341",
+      "name": "Arizona Basset Hound Rescue",
+      "address": "PO Box 3056, Gilbert, AZ 85299",
+      "phone": "602-225-7800",
+      "image": "./img/shelter/office/167341.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/arizona-basset-hound-rescue-167341/",
+      "imageUrl": "https://cdn.findpawpal.com/office/167341.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greater-southwest-saint-bernard-rescue-167647",
+      "name": "Greater Southwest Saint Bernard Rescue",
+      "address": "2364 East Finley Street, Gilbert, AZ 85296",
+      "phone": "480-539-9068",
+      "image": "./img/shelter/office/167647.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greater-southwest-saint-bernard-rescue-167647/",
+      "imageUrl": "https://cdn.findpawpal.com/office/167647.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "gilbert-animal-control-168009",
+      "name": "Gilbert Animal Control",
+      "address": "928 West Palo Verde Street, Gilbert, AZ 85233",
+      "phone": "480-272-8992",
+      "image": "./img/shelter/office/168009.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gilbert-animal-control-168009/",
+      "imageUrl": "https://cdn.findpawpal.com/office/168009.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "were-the-cats-meow-pet-rescue-170933",
+      "name": "We're the Cat's Meow Pet Rescue",
+      "address": "835 West Warner Road, Gilbert, AZ 85233",
+      "phone": "480-278-9744",
+      "image": "./img/shelter/office/170933.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/were-the-cats-meow-pet-rescue-170933/",
+      "imageUrl": "https://cdn.findpawpal.com/office/170933.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-for-life-animal-shelter-171601",
+      "name": "Friends For Life Animal Shelter",
+      "address": "143 West Vaughn Avenue, Gilbert, AZ 85233",
+      "phone": "480-497-8296",
+      "image": "./img/shelter/office/171601.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-for-life-animal-shelter-171601/",
+      "imageUrl": "https://cdn.findpawpal.com/office/171601.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ajs-best-friends-rescue-181008",
+      "name": "AJ's Best Friends Rescue",
+      "address": "835 West Warner Road, Gilbert, AZ 85233",
+      "phone": "480-722-1642",
+      "image": "./img/shelter/office/181008.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ajs-best-friends-rescue-181008/",
+      "imageUrl": "https://cdn.findpawpal.com/office/181008.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ferret-lovers-of-gilbert-181433",
+      "name": "Ferret Lovers of Gilbert",
+      "address": "340 West Loma Vista Street, Gilbert, AZ 85233",
+      "phone": "480-248-6711",
+      "image": "./img/shelter/office/181433.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ferret-lovers-of-gilbert-181433/",
+      "imageUrl": "https://cdn.findpawpal.com/office/181433.jpg?f=webp&w=730"
+    }
+  ]
+}

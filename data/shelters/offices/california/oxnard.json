@@ -1,0 +1,42 @@
+{
+  "fetchedAt": "2026-06-27T18:28:55.933060+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "oxnard",
+    "name": "Oxnard",
+    "label": "Oxnard, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/oxnard/",
+  "offices": [
+    {
+      "slug": "channel-islands-cavy-rescue-363169",
+      "name": "Channel Islands Cavy Rescue",
+      "address": "157 Hollywood Avenue, Oxnard, CA 93035",
+      "phone": "805-985-9602",
+      "image": "./img/shelter/office/363169.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/channel-islands-cavy-rescue-363169/",
+      "imageUrl": "https://cdn.findpawpal.com/office/363169.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "no-more-homeless-animals-486814",
+      "name": "No More Homeless Animals",
+      "address": "3844 West Channel Islands Boulevard, Oxnard, CA 93035",
+      "phone": "",
+      "image": "./img/shelter/office/486814.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/no-more-homeless-animals-486814/",
+      "imageUrl": "https://cdn.findpawpal.com/office/486814.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oxnard-animal-control-488671",
+      "name": "Oxnard Animal Control",
+      "address": "251 South C Street, Oxnard, CA 93030",
+      "phone": "805-385-7786",
+      "image": "./img/shelter/office/488671.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/oxnard-animal-control-488671/",
+      "imageUrl": "https://cdn.findpawpal.com/office/488671.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 567217,
+  "slug": "purrfect-pals-567217",
+  "name": "Purrfect Pals",
+  "address": "230 McRae Road Northeast, Arlington, WA 98223",
+  "street": "230 McRae Road Northeast",
+  "addressCity": "Arlington",
+  "stateCode": "WA",
+  "zip": "98223",
+  "phone": "360-652-9611",
+  "image": "./img/shelter/office/567217.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/purrfect-pals-567217/",
+  "stateSlug": "washington",
+  "stateName": "Washington",
+  "citySlug": "arlington",
+  "cityName": "Arlington",
+  "cityLabel": "Arlington, WA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/washington/arlington/",
+  "fetchedAt": "2026-06-27T20:17:10.259878+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/567217.jpg?f=webp&w=730"
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:27:15.858860+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "manahawkin",
+    "name": "Manahawkin",
+    "label": "Manahawkin, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/manahawkin/",
+  "offices": [
+    {
+      "officeId": 100082,
+      "slug": "safe-haven-cat-rescue-100082",
+      "name": "Safe Haven Cat Rescue",
+      "address": "PO Box 142, Manahawkin, NJ 08050",
+      "phone": "609-978-4330",
+      "image": "./img/shelter/office/100082.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/safe-haven-cat-rescue-100082/",
+      "imageUrl": "https://cdn.findpawpal.com/office/100082.jpg?f=webp&w=730"
+    }
+  ]
+}

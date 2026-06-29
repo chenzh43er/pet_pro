@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:21:11.500521+00:00",
+  "state": {
+    "slug": "arizona",
+    "name": "Arizona"
+  },
+  "city": {
+    "slug": "tuba-city",
+    "name": "Tuba City",
+    "label": "Tuba City, AZ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arizona/tuba-city/",
+  "offices": [
+    {
+      "officeId": 717531,
+      "slug": "tuba-city-humane-society-717531",
+      "name": "Tuba City Humane Society",
+      "address": "PO Box 1260, Tuba City, AZ 86045",
+      "phone": "520-283-5147",
+      "image": "./img/shelter/office/717531.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tuba-city-humane-society-717531/",
+      "imageUrl": "https://cdn.findpawpal.com/office/717531.jpg?f=webp&w=730"
+    }
+  ]
+}

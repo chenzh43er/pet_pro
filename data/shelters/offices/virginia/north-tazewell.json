@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:15:32.703704+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "north-tazewell",
+    "name": "North Tazewell",
+    "label": "North Tazewell, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/north-tazewell/",
+  "offices": [
+    {
+      "officeId": 562034,
+      "slug": "tazewell-county-animal-shelter-562034",
+      "name": "Tazewell County Animal Shelter",
+      "address": "3015 Lynn Hollow Road, North Tazewell, VA 24630",
+      "phone": "276-988-5795",
+      "image": "https://cdn.findpawpal.com/office/562034.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/tazewell-county-animal-shelter-562034/"
+    }
+  ]
+}

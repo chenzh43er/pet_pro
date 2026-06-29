@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T20:23:55.829505+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "river-falls",
+    "name": "River Falls",
+    "label": "River Falls, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/river-falls/",
+  "offices": [
+    {
+      "officeId": 514436,
+      "slug": "humane-society-of-pierce-stcroix-inc-514436",
+      "name": "Humane Society of Pierce Stcroix, Inc.",
+      "address": "PO Box 387, River Falls, WI 54022",
+      "phone": "715-426-5535",
+      "image": "https://cdn.findpawpal.com/office/514436.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-pierce-stcroix-inc-514436/"
+    },
+    {
+      "officeId": 634125,
+      "slug": "hilltop-kennel-634125",
+      "name": "Hilltop Kennel",
+      "address": "N7454 910th St, River Falls, WI 54022",
+      "phone": "715-425-7180",
+      "image": "https://cdn.findpawpal.com/office/634125.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/hilltop-kennel-634125/"
+    }
+  ]
+}

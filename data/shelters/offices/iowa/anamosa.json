@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:52:35.687027+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa"
+  },
+  "city": {
+    "slug": "anamosa",
+    "name": "Anamosa",
+    "label": "Anamosa, IA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/anamosa/",
+  "offices": [
+    {
+      "officeId": 416560,
+      "slug": "anamosa-animal-control-416560",
+      "name": "Anamosa Animal Control",
+      "address": "118 South Elm Street, Anamosa, IA 52205",
+      "phone": "319-462-5683",
+      "image": "./img/shelter/office/416560.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/anamosa-animal-control-416560/",
+      "imageUrl": "https://cdn.findpawpal.com/office/416560.jpg?f=webp&w=730"
+    }
+  ]
+}

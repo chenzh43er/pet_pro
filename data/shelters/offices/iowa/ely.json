@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:53:09.711993+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa"
+  },
+  "city": {
+    "slug": "ely",
+    "name": "Ely",
+    "label": "Ely, IA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/ely/",
+  "offices": [
+    {
+      "officeId": 323902,
+      "slug": "cedar-rapids-animal-shelter-323902",
+      "name": "Cedar Rapids Animal Shelter",
+      "address": "1401 Cedar Bend Lane Southwest, Ely, IA 52227",
+      "phone": "319-848-7373",
+      "image": "https://cdn.findpawpal.com/office/323902.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/cedar-rapids-animal-shelter-323902/"
+    }
+  ]
+}

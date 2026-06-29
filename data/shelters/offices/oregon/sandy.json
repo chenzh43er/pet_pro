@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:51:22.979536+00:00",
+  "state": {
+    "slug": "oregon",
+    "name": "Oregon"
+  },
+  "city": {
+    "slug": "sandy",
+    "name": "Sandy",
+    "label": "Sandy, OR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oregon/sandy/",
+  "offices": [
+    {
+      "officeId": 612932,
+      "slug": "my-way-home-dog-rescue-612932",
+      "name": "My Way Home Dog Rescue",
+      "address": "PO Box 713, Sandy, OR 97055",
+      "phone": "503-974-4944",
+      "image": "./img/shelter/office/612932.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/my-way-home-dog-rescue-612932/",
+      "imageUrl": "https://cdn.findpawpal.com/office/612932.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "fetchedAt": "2026-06-27T19:51:48.274991+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "allentown",
+    "name": "Allentown",
+    "label": "Allentown, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/allentown/",
+  "offices": [
+    {
+      "officeId": 429088,
+      "slug": "linda-anns-greyhound-rescue-inc-429088",
+      "name": "Linda Ann's Greyhound Rescue, Inc.",
+      "address": "1491 North 40th Street, Allentown, PA 18104",
+      "phone": "610-395-7824",
+      "image": "./img/shelter/office/429088.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/linda-anns-greyhound-rescue-inc-429088/",
+      "imageUrl": "https://cdn.findpawpal.com/office/429088.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 474935,
+      "slug": "new-beginnings-avian-rescue-474935",
+      "name": "New Beginnings Avian Rescue",
+      "address": "937 North 13th Street, Allentown, PA 18102",
+      "phone": "610-434-1355",
+      "image": "./img/shelter/office/474935.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-beginnings-avian-rescue-474935/",
+      "imageUrl": "https://cdn.findpawpal.com/office/474935.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 589160,
+      "slug": "the-lehigh-county-humane-society-a-lifesaving-animal-shelter-589160",
+      "name": "The Lehigh County Humane Society \"A Lifesaving Animal Shelter\"",
+      "address": "640 Dixon Street, Allentown, PA 18103",
+      "phone": "610-797-1205",
+      "image": "./img/shelter/office/589160.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-lehigh-county-humane-society-a-lifesaving-animal-shelter-589160/",
+      "imageUrl": "https://cdn.findpawpal.com/office/589160.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 589180,
+      "slug": "good-mews-589180",
+      "name": "Good Mews",
+      "address": "2634 Broder Street Southwest, Allentown, PA 18103",
+      "phone": "610-791-0134",
+      "image": "./img/shelter/office/589180.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/good-mews-589180/",
+      "imageUrl": "https://cdn.findpawpal.com/office/589180.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 596443,
+      "slug": "allentown-animal-control-596443",
+      "name": "Allentown Animal Control",
+      "address": "1400 Martin Luther King Junior Drive, Allentown, PA 18102",
+      "phone": "610-437-7535",
+      "image": "https://cdn.findpawpal.com/office/596443.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/allentown-animal-control-596443/"
+    }
+  ]
+}

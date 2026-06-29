@@ -1,0 +1,21 @@
+{
+  "officeId": 686344,
+  "slug": "save-a-pet-686344",
+  "name": "Save A Pet",
+  "address": "4434 Westerville Road, Columbus, OH 43231",
+  "street": "4434 Westerville Road",
+  "addressCity": "Columbus",
+  "stateCode": "OH",
+  "zip": "43231",
+  "phone": "614-478-9313",
+  "image": "./img/shelter/office/686344.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/save-a-pet-686344/",
+  "stateSlug": "ohio",
+  "stateName": "Ohio",
+  "citySlug": "columbus",
+  "cityName": "Columbus",
+  "cityLabel": "Columbus, OH",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/ohio/columbus/",
+  "fetchedAt": "2026-06-27T19:43:52.101476+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/686344.jpg?f=webp&w=730"
+}

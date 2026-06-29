@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:33:53.113398+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "halfmoon",
+    "name": "Halfmoon",
+    "label": "Halfmoon, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/halfmoon/",
+  "offices": [
+    {
+      "officeId": 418571,
+      "slug": "halfmoon-town-animal-control-418571",
+      "name": "Halfmoon Town Animal Control",
+      "address": "1 Halfmoon Town Plz, Halfmoon, NY 12065",
+      "phone": "518-348-0196",
+      "image": "./img/shelter/office/418571.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/halfmoon-town-animal-control-418571/",
+      "imageUrl": "https://cdn.findpawpal.com/office/418571.jpg?f=webp&w=730"
+    }
+  ]
+}

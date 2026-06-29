@@ -1,0 +1,51 @@
+{
+  "fetchedAt": "2026-06-27T18:25:33.131921+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "el-centro",
+    "name": "El Centro",
+    "label": "El Centro, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/el-centro/",
+  "offices": [
+    {
+      "slug": "lulu-belle-animal-haven-365296",
+      "name": "Lulu Belle Animal Haven",
+      "address": "2549 Dogwood Road, El Centro, CA 92243",
+      "phone": "760-355-4125",
+      "image": "./img/shelter/office/365296.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lulu-belle-animal-haven-365296/",
+      "imageUrl": "https://cdn.findpawpal.com/office/365296.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "imperial-county-animal-control-392387",
+      "name": "Imperial County Animal Control",
+      "address": "1329 Sperber Road, El Centro, CA 92243",
+      "phone": "760-339-6291",
+      "image": "./img/shelter/office/392387.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/imperial-county-animal-control-392387/",
+      "imageUrl": "https://cdn.findpawpal.com/office/392387.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-imperial-county-668269",
+      "name": "Humane Society-Imperial County",
+      "address": "1575 West Pico Avenue, El Centro, CA 92243",
+      "phone": "760-352-1911",
+      "image": "./img/shelter/office/668269.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-imperial-county-668269/",
+      "imageUrl": "https://cdn.findpawpal.com/office/668269.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "el-centro-animal-control-668937",
+      "name": "El Centro Animal Control",
+      "address": "150 North 11th Street, El Centro, CA 92243",
+      "phone": "760-336-8981",
+      "image": "./img/shelter/office/668937.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/el-centro-animal-control-668937/",
+      "imageUrl": "https://cdn.findpawpal.com/office/668937.jpg?f=webp&w=730"
+    }
+  ]
+}

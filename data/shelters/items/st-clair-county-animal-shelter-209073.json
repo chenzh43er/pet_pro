@@ -1,0 +1,21 @@
+{
+  "officeId": 209073,
+  "slug": "st-clair-county-animal-shelter-209073",
+  "name": "St Clair County Animal Shelter",
+  "address": "3378 Griswold Road, Port Huron, MI 48060",
+  "street": "3378 Griswold Road",
+  "addressCity": "Port Huron",
+  "stateCode": "MI",
+  "zip": "48060",
+  "phone": "810-984-3155",
+  "image": "./img/shelter/office/209073.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/st-clair-county-animal-shelter-209073/",
+  "stateSlug": "michigan",
+  "stateName": "Michigan",
+  "citySlug": "port-huron",
+  "cityName": "Port Huron",
+  "cityLabel": "Port Huron, MI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/michigan/port-huron/",
+  "fetchedAt": "2026-06-27T19:12:14.096011+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/209073.jpg?f=webp&w=730"
+}

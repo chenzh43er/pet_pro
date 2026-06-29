@@ -1,0 +1,21 @@
+{
+  "officeId": 633373,
+  "slug": "pet-pals-of-texas-633373",
+  "name": "Pet Pals of Texas",
+  "address": "9834 Meadow Branch, Converse, TX 78109",
+  "street": "9834 Meadow Branch",
+  "addressCity": "Converse",
+  "stateCode": "TX",
+  "zip": "78109",
+  "phone": "210-279-1330",
+  "image": "./img/shelter/office/633373.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pet-pals-of-texas-633373/",
+  "stateSlug": "texas",
+  "stateName": "Texas",
+  "citySlug": "converse",
+  "cityName": "Converse",
+  "cityLabel": "Converse, TX",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/texas/converse/",
+  "fetchedAt": "2026-06-27T20:04:02.939338+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/633373.jpg?f=webp&w=730"
+}

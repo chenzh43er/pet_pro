@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:51:15.063065+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "new-albany",
+    "name": "New Albany",
+    "label": "New Albany, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/new-albany/",
+  "offices": [
+    {
+      "officeId": 214537,
+      "slug": "animal-shelter-214537",
+      "name": "Animal Shelter",
+      "address": "215 West Market Street, New Albany, IN 47150",
+      "phone": "812-948-5355",
+      "image": "./img/shelter/office/214537.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-shelter-214537/",
+      "imageUrl": "https://cdn.findpawpal.com/office/214537.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 241291,
+      "slug": "floyd-county-animal-rescue-league-241291",
+      "name": "Floyd County Animal Rescue League",
+      "address": "215 West Market Street, New Albany, IN 47150",
+      "phone": "812-949-9099",
+      "image": "./img/shelter/office/241291.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/floyd-county-animal-rescue-league-241291/",
+      "imageUrl": "https://cdn.findpawpal.com/office/241291.jpg?f=webp&w=730"
+    }
+  ]
+}

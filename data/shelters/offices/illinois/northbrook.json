@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:47:18.107107+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "northbrook",
+    "name": "Northbrook",
+    "label": "Northbrook, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/northbrook/",
+  "offices": [
+    {
+      "officeId": 382577,
+      "slug": "heartland-animal-shelter-382577",
+      "name": "Heartland Animal Shelter",
+      "address": "2975 Milwaukee Avenue, Northbrook, IL 60062",
+      "phone": "847-296-6400",
+      "image": "./img/shelter/office/382577.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/heartland-animal-shelter-382577/",
+      "imageUrl": "https://cdn.findpawpal.com/office/382577.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674651,
+      "slug": "refuge-for-saving-the-wildlife-inc-674651",
+      "name": "Refuge for Saving the Wildlife, Inc.",
+      "address": "3149 Dundee Road, Northbrook, IL 60062",
+      "phone": "847-509-1026",
+      "image": "./img/shelter/office/674651.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/refuge-for-saving-the-wildlife-inc-674651/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674651.jpg?f=webp&w=730"
+    }
+  ]
+}

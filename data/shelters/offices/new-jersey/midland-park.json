@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:27:32.619184+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "midland-park",
+    "name": "Midland Park",
+    "label": "Midland Park, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/midland-park/",
+  "offices": [
+    {
+      "officeId": 96854,
+      "slug": "midland-park-animal-control-96854",
+      "name": "Midland Park Animal Control",
+      "address": "140 Greenwood Avenue, Midland Park, NJ 07432",
+      "phone": "201-652-4554",
+      "image": "./img/shelter/office/96854.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/midland-park-animal-control-96854/",
+      "imageUrl": "https://cdn.findpawpal.com/office/96854.jpg?f=webp&w=730"
+    }
+  ]
+}

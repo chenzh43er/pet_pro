@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:40:09.597871+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "lincolnton",
+    "name": "Lincolnton",
+    "label": "Lincolnton, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/lincolnton/",
+  "offices": [
+    {
+      "officeId": 228330,
+      "slug": "humane-society-of-lincoln-county-228330",
+      "name": "Humane Society of Lincoln County",
+      "address": "PO Box 23, Lincolnton, NC 28093",
+      "phone": "704-732-9022",
+      "image": "https://cdn.findpawpal.com/office/228330.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-lincoln-county-228330/"
+    },
+    {
+      "officeId": 231201,
+      "slug": "lincoln-county-animal-control-231201",
+      "name": "Lincoln County Animal Control",
+      "address": "302 North Academy Street, Lincolnton, NC 28092",
+      "phone": "704-736-8517",
+      "image": "./img/shelter/office/231201.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lincoln-county-animal-control-231201/",
+      "imageUrl": "https://cdn.findpawpal.com/office/231201.jpg?f=webp&w=730"
+    }
+  ]
+}

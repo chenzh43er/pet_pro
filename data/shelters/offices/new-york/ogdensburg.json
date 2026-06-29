@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:35:35.964584+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "ogdensburg",
+    "name": "Ogdensburg",
+    "label": "Ogdensburg, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/ogdensburg/",
+  "offices": [
+    {
+      "officeId": 315678,
+      "slug": "st-lawrence-county-spca-315678",
+      "name": "St. Lawrence County SPCA",
+      "address": "6718 Highway 68, Ogdensburg, NY 13669",
+      "phone": "315-393-5191",
+      "image": "./img/shelter/office/315678.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/st-lawrence-county-spca-315678/",
+      "imageUrl": "https://cdn.findpawpal.com/office/315678.jpg?f=webp&w=730"
+    }
+  ]
+}

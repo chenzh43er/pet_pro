@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:52:10.764630+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "chambersburg",
+    "name": "Chambersburg",
+    "label": "Chambersburg, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/chambersburg/",
+  "offices": [
+    {
+      "officeId": 452822,
+      "slug": "rescue-me-yorkie-rescue-452822",
+      "name": "Rescue Me-Yorkie Rescue",
+      "address": "2936 Rocky Spring Road, Chambersburg, PA 17201",
+      "phone": "717-264-9799",
+      "image": "./img/shelter/office/452822.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rescue-me-yorkie-rescue-452822/",
+      "imageUrl": "https://cdn.findpawpal.com/office/452822.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 453413,
+      "slug": "cumberland-valley-animal-shelter-453413",
+      "name": "Cumberland Valley Animal Shelter",
+      "address": "5051 Letterkenny Road West, Chambersburg, PA 17201",
+      "phone": "717-263-0170",
+      "image": "./img/shelter/office/453413.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cumberland-valley-animal-shelter-453413/",
+      "imageUrl": "https://cdn.findpawpal.com/office/453413.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 595907,
+      "slug": "cumberland-valley-animal-shelter-595907",
+      "name": "Cumberland Valley Animal Shelter",
+      "address": "2325 Country Road, Chambersburg, PA 17202",
+      "phone": "717-263-5791",
+      "image": "./img/shelter/office/595907.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cumberland-valley-animal-shelter-595907/",
+      "imageUrl": "https://cdn.findpawpal.com/office/595907.jpg?f=webp&w=730"
+    }
+  ]
+}

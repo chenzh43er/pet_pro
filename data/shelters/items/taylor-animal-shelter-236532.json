@@ -1,0 +1,21 @@
+{
+  "officeId": 236532,
+  "slug": "taylor-animal-shelter-236532",
+  "name": "Taylor Animal Shelter",
+  "address": "25605 Northline Road, Taylor, MI 48180",
+  "street": "25605 Northline Road",
+  "addressCity": "Taylor",
+  "stateCode": "MI",
+  "zip": "48180",
+  "phone": "734-374-1354",
+  "image": "./img/shelter/office/236532.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/taylor-animal-shelter-236532/",
+  "stateSlug": "michigan",
+  "stateName": "Michigan",
+  "citySlug": "taylor",
+  "cityName": "Taylor",
+  "cityLabel": "Taylor, MI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/michigan/taylor/",
+  "fetchedAt": "2026-06-27T19:12:58.951477+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/236532.jpg?f=webp&w=730"
+}

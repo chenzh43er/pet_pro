@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:22:00.443810+00:00",
+  "state": {
+    "slug": "arkansas",
+    "name": "Arkansas"
+  },
+  "city": {
+    "slug": "el-paso",
+    "name": "El Paso",
+    "label": "El Paso, AR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arkansas/el-paso/",
+  "offices": [
+    {
+      "slug": "white-county-humane-society-272664",
+      "name": "White County Humane Society",
+      "address": "PO Box 87, El Paso, AR 72045",
+      "phone": "501-796-3275",
+      "image": "./img/shelter/office/272664.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/white-county-humane-society-272664/",
+      "imageUrl": "https://cdn.findpawpal.com/office/272664.jpg?f=webp&w=730"
+    }
+  ]
+}

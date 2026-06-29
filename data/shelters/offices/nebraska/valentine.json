@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:22:56.717254+00:00",
+  "state": {
+    "slug": "nebraska",
+    "name": "Nebraska"
+  },
+  "city": {
+    "slug": "valentine",
+    "name": "Valentine",
+    "label": "Valentine, NE"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nebraska/valentine/",
+  "offices": [
+    {
+      "officeId": 720225,
+      "slug": "borders-without-boundaries-rescue-720225",
+      "name": "Borders Without Boundaries Rescue",
+      "address": "239 North Valentine Street, Valentine, NE 69201",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/720225.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/borders-without-boundaries-rescue-720225/"
+    }
+  ]
+}

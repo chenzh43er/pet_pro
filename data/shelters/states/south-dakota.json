@@ -1,0 +1,230 @@
+{
+  "stateSlug": "south-dakota",
+  "count": 32,
+  "shelters": [
+    {
+      "slug": "aberdeen-animal-shelter-697642",
+      "name": "Aberdeen Animal Shelter",
+      "address": "38711 137th Street, Aberdeen, SD 57401",
+      "phone": "605-229-1126",
+      "image": "https://cdn.findpawpal.com/office/697642.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "aberdeen-area-humane-society-607208",
+      "name": "Aberdeen Area Humane Society",
+      "address": "13452 385th Avenue, Aberdeen, SD 57401",
+      "phone": "605-226-1200",
+      "image": "https://cdn.findpawpal.com/office/607208.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brookings-animal-shelter-714031",
+      "name": "Brookings Animal Shelter",
+      "address": "PO Box 270, Brookings, SD 57006",
+      "phone": "605-697-6387",
+      "image": "https://cdn.findpawpal.com/office/714031.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brookings-regional-humane-society-inc-607233",
+      "name": "Brookings Regional Humane Society Inc",
+      "address": "1027 Main Avenue South, Brookings, SD 57006",
+      "phone": "605-697-7387",
+      "image": "https://cdn.findpawpal.com/office/607233.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-the-custer-area-610770",
+      "name": "Humane Society of the Custer Area",
+      "address": "PO Box 281, Custer, SD 57730",
+      "phone": "605-673-5555",
+      "image": "https://cdn.findpawpal.com/office/610770.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "et-farms-animal-rescue-607182",
+      "name": "ET Farms Animal Rescue",
+      "address": "401 East Co Road 500, Delmont, SD 57330",
+      "phone": "605-481-2959",
+      "image": "https://cdn.findpawpal.com/office/607182.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chesters-place-697618",
+      "name": "Chester's Place",
+      "address": "110 Fairgrounds Place, Hermosa, SD 57744",
+      "phone": "605-255-4069",
+      "image": "https://cdn.findpawpal.com/office/697618.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "black-hills-parrot-welfare-and-education-center-662455",
+      "name": "Black Hills Parrot Welfare and Education Center",
+      "address": "11766 Prospect Road, Hill, SD 57745",
+      "phone": "605-574-4542",
+      "image": "https://cdn.findpawpal.com/office/662455.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "battle-mountain-humane-society-618902",
+      "name": "Battle Mountain Humane Society",
+      "address": "27254 Wind Cave Road, Hot Springs, SD 57747",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/618902.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "beadle-county-humane-society-714034",
+      "name": "Beadle County Humane Society",
+      "address": "5063 Dakota Avenue South, Huron, SD 57350",
+      "phone": "605-352-8955",
+      "image": "https://cdn.findpawpal.com/office/714034.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "international-society-for-the-protection-of-mustangs-and-burros-723071",
+      "name": "International Society for the Protection of Mustangs & Burros",
+      "address": "PO Box 55, Lantry, SD 57636",
+      "phone": "605-964-6866",
+      "image": "https://cdn.findpawpal.com/office/723071.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lead-animal-shelter-607240",
+      "name": "Lead Animal Shelter",
+      "address": "722 East Main Street, Lead, SD 57754",
+      "phone": "605-584-2480",
+      "image": "https://cdn.findpawpal.com/office/607240.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mitchell-animal-rescue-663390",
+      "name": "Mitchell Animal Rescue",
+      "address": "PO Box 355, Mitchell, SD 57301",
+      "phone": "605-770-2170",
+      "image": "https://cdn.findpawpal.com/office/663390.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "forgotten-angels-animal-rescue-697630",
+      "name": "Forgotten Angels Animal Rescue",
+      "address": "45288 276th Street, Parker, SD 57053",
+      "phone": "605-553-7658",
+      "image": "https://cdn.findpawpal.com/office/697630.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "heart-and-soul-kitty-santcuary-697622",
+      "name": "Heart and Soul Kitty Santcuary",
+      "address": "906 West Glynn Drive, Parkston, SD 57366",
+      "phone": "605-630-9453",
+      "image": "https://cdn.findpawpal.com/office/697622.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pierre-animal-control-722982",
+      "name": "Pierre Animal Control",
+      "address": "420 North Garfield Avenue, Pierre, SD 57501",
+      "phone": "605-224-8692",
+      "image": "https://cdn.findpawpal.com/office/722982.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-the-black-hills-animal-control-welfare-697628",
+      "name": "Humane Society of the Black Hills: Animal Control Welfare",
+      "address": "1820 Saint Patrick Street, Rapid, SD 57703",
+      "phone": "605-394-4132",
+      "image": "https://cdn.findpawpal.com/office/697628.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "natures-voice-inc-607209",
+      "name": "Nature's Voice, Inc.",
+      "address": "9100 Schroeder Road, Rapid, SD 57702",
+      "phone": "604-348-4591",
+      "image": "https://cdn.findpawpal.com/office/607209.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-adoption-center-610794",
+      "name": "Humane Society Adoption Center",
+      "address": "3720 East Benson Road, Sioux Falls, SD 57104",
+      "phone": "605-338-4441",
+      "image": "https://cdn.findpawpal.com/office/610794.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-rescue-shelter-610790",
+      "name": "Second Chance Rescue Shelter",
+      "address": "26707 466th Avenue, Sioux Falls, SD 57106",
+      "phone": "605-362-1722",
+      "image": "https://cdn.findpawpal.com/office/610790.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sioux-falls-animal-control-697624",
+      "name": "Sioux Falls Animal Control",
+      "address": "320 West 4th Street, Sioux Falls, SD 57104",
+      "phone": "605-367-7000",
+      "image": "https://cdn.findpawpal.com/office/697624.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "south-dakota-animal-welfare-league-714027",
+      "name": "South Dakota Animal Welfare League",
+      "address": "PO Box 178, Sioux Falls, SD 57101",
+      "phone": "605-339-0785",
+      "image": "https://cdn.findpawpal.com/office/714027.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "south-dakota-state-animal-control-610830",
+      "name": "South Dakota State Animal Control",
+      "address": "1122 North Weber Avenue, Sioux Falls, SD 57103",
+      "phone": "605-367-5620",
+      "image": "https://cdn.findpawpal.com/office/610830.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "western-hills-humane-society-562700",
+      "name": "Western Hills Humane Society",
+      "address": "324 Industrial Drive, Spearfish, SD 57783",
+      "phone": "605-642-1576",
+      "image": "https://cdn.findpawpal.com/office/562700.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sturgis-animal-shelter-697636",
+      "name": "Sturgis Animal Shelter",
+      "address": "1140 Otter Road, Sturgis, SD 57785",
+      "phone": "605-347-8310",
+      "image": "https://cdn.findpawpal.com/office/697636.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "vermillion-animal-control-562736",
+      "name": "Vermillion Animal Control",
+      "address": "25 Center Street, Vermillion, SD 57069",
+      "phone": "605-677-7050",
+      "image": "https://cdn.findpawpal.com/office/562736.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bjs-great-dane-retreat-breeding-rescue-adoption-714032",
+      "name": "BJ's Great Dane Retreat Breeding Rescue Adoption",
+      "address": "45089 305th Street, Volin, SD 57072",
+      "phone": "605-661-8709",
+      "image": "https://cdn.findpawpal.com/office/714032.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-animal-shelter-714033",
+      "name": "Humane Society Animal Shelter",
+      "address": "1305 6th Avenue Northwest, Watertown, SD 57201",
+      "phone": "605-882-2247",
+      "image": "https://cdn.findpawpal.com/office/714033.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sarahs-treasures-rescue-588709",
+      "name": "Sarah's Treasures Rescue",
+      "address": "711 9th Avenue Southeast, Watertown, SD 57201",
+      "phone": "605-940-6435",
+      "image": "https://cdn.findpawpal.com/office/588709.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "stars-rat-rescue-723242",
+      "name": "Star's Rat Rescue",
+      "address": "805 East 4th Street, Winner, SD 57580",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/723242.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "heartland-humane-society-588705",
+      "name": "Heartland Humane Society",
+      "address": "3400 Highway 50, Yankton, SD 57078",
+      "phone": "605-664-4244",
+      "image": "https://cdn.findpawpal.com/office/588705.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "yankton-animal-shelter-697634",
+      "name": "Yankton Animal Shelter",
+      "address": "410 Walnut Street, Yankton, SD 57078",
+      "phone": "605-668-5210",
+      "image": "https://cdn.findpawpal.com/office/697634.jpg?f=webp&w=730"
+    }
+  ]
+}

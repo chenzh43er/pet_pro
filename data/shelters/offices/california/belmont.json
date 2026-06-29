@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:24:08.810646+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "belmont",
+    "name": "Belmont",
+    "label": "Belmont, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/belmont/",
+  "offices": [
+    {
+      "slug": "belmont-animal-control-490254",
+      "name": "Belmont Animal Control",
+      "address": "2719 Sequoia Way, Belmont, CA 94002",
+      "phone": "650-394-8902",
+      "image": "./img/shelter/office/490254.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/belmont-animal-control-490254/",
+      "imageUrl": "https://cdn.findpawpal.com/office/490254.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T20:21:11.248250+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "parkersburg",
+    "name": "Parkersburg",
+    "label": "Parkersburg, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/parkersburg/",
+  "offices": [
+    {
+      "officeId": 487081,
+      "slug": "save-a-kitty-feral-cat-program-487081",
+      "name": "Save A Kitty Feral Cat Program",
+      "address": "PO Box 1442, Parkersburg, WV 26102",
+      "phone": "304-482-8987",
+      "image": "./img/shelter/office/487081.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/save-a-kitty-feral-cat-program-487081/",
+      "imageUrl": "https://cdn.findpawpal.com/office/487081.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 487086,
+      "slug": "wv-german-shepherd-rescue-co-op-487086",
+      "name": "WV German Shepherd Rescue Co-Op",
+      "address": "131 Oaktree Drive, Parkersburg, WV 26101",
+      "phone": "304-422-6548",
+      "image": "./img/shelter/office/487086.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wv-german-shepherd-rescue-co-op-487086/",
+      "imageUrl": "https://cdn.findpawpal.com/office/487086.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 622769,
+      "slug": "humane-society-shelter-parkersburg-622769",
+      "name": "Humane Society Shelter Parkersburg",
+      "address": "29th Poplar St, Parkersburg, WV 26101",
+      "phone": "304-422-5541",
+      "image": "./img/shelter/office/622769.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-shelter-parkersburg-622769/",
+      "imageUrl": "https://cdn.findpawpal.com/office/622769.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:44:19.569590+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "bradley",
+    "name": "Bradley",
+    "label": "Bradley, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/bradley/",
+  "offices": [
+    {
+      "officeId": 412486,
+      "slug": "kankakee-county-animal-foundation-412486",
+      "name": "Kankakee County Animal Foundation",
+      "address": "PO Box 304, Bradley, IL 60915",
+      "phone": "815-937-5010",
+      "image": "https://cdn.findpawpal.com/office/412486.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/kankakee-county-animal-foundation-412486/"
+    }
+  ]
+}

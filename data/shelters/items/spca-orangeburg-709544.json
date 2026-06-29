@@ -1,0 +1,21 @@
+{
+  "officeId": 709544,
+  "slug": "spca-orangeburg-709544",
+  "name": "SPCA Orangeburg",
+  "address": "2872 Saint Matthews Road Northeast, Orangeburg, SC 29115",
+  "street": "2872 Saint Matthews Road Northeast",
+  "addressCity": "Orangeburg",
+  "stateCode": "SC",
+  "zip": "29115",
+  "phone": "803-536-3918",
+  "image": "./img/shelter/office/709544.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/spca-orangeburg-709544/",
+  "stateSlug": "south-carolina",
+  "stateName": "South Carolina",
+  "citySlug": "orangeburg",
+  "cityName": "Orangeburg",
+  "cityLabel": "Orangeburg, SC",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/south-carolina/orangeburg/",
+  "fetchedAt": "2026-06-27T19:58:04.886277+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/709544.jpg?f=webp&w=730"
+}

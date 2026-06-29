@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:33:37.904541+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "glen-wild",
+    "name": "Glen Wild",
+    "label": "Glen Wild, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/glen-wild/",
+  "offices": [
+    {
+      "officeId": 401459,
+      "slug": "kaaterskill-animal-league-401459",
+      "name": "Kaaterskill Animal League",
+      "address": "PO Box 719, Glen Wild, NY 12738",
+      "phone": "914-436-8060",
+      "image": "https://cdn.findpawpal.com/office/401459.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/kaaterskill-animal-league-401459/"
+    }
+  ]
+}

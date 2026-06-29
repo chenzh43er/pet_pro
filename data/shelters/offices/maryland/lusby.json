@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:03:59.129329+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "lusby",
+    "name": "Lusby",
+    "label": "Lusby, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/lusby/",
+  "offices": [
+    {
+      "officeId": 490544,
+      "slug": "patuxent-animal-welfare-society-490544",
+      "name": "Patuxent Animal Welfare Society",
+      "address": "237 Deer Drive, Lusby, MD 20657",
+      "phone": "410-326-1616",
+      "image": "https://cdn.findpawpal.com/office/490544.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/patuxent-animal-welfare-society-490544/"
+    }
+  ]
+}

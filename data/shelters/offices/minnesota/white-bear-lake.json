@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:15:41.828074+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "white-bear-lake",
+    "name": "White Bear Lake",
+    "label": "White Bear Lake, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/white-bear-lake/",
+  "offices": [
+    {
+      "officeId": 420944,
+      "slug": "second-chance-animal-rescue-420944",
+      "name": "Second Chance Animal Rescue",
+      "address": "PO Box 10533, White Bear Lake, MN 55110",
+      "phone": "651-771-5662",
+      "image": "./img/shelter/office/420944.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/second-chance-animal-rescue-420944/",
+      "imageUrl": "https://cdn.findpawpal.com/office/420944.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 594389,
+      "slug": "animal-control-and-management-white-bear-594389",
+      "name": "Animal Control and Management White Bear",
+      "address": "1283 Hammond Road, White Bear Lake, MN 55110",
+      "phone": "651-426-4013",
+      "image": "./img/shelter/office/594389.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-control-and-management-white-bear-594389/",
+      "imageUrl": "https://cdn.findpawpal.com/office/594389.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 594419,
+      "slug": "basset-rescue-in-minnesota-594419",
+      "name": "Basset Rescue In Minnesota",
+      "address": "3241 Midland Avenue, White Bear Lake, MN 55110",
+      "phone": "651-704-9785",
+      "image": "./img/shelter/office/594419.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/basset-rescue-in-minnesota-594419/",
+      "imageUrl": "https://cdn.findpawpal.com/office/594419.jpg?f=webp&w=730"
+    }
+  ]
+}

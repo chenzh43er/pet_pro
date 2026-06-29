@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:35:04.133619+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "modena",
+    "name": "Modena",
+    "label": "Modena, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/modena/",
+  "offices": [
+    {
+      "officeId": 437006,
+      "slug": "plattekill-dog-shelter-437006",
+      "name": "Plattekill Dog Shelter",
+      "address": "1915 U.s. 44, Modena, NY 12548",
+      "phone": "845-883-6557",
+      "image": "./img/shelter/office/437006.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/plattekill-dog-shelter-437006/",
+      "imageUrl": "https://cdn.findpawpal.com/office/437006.jpg?f=webp&w=730"
+    }
+  ]
+}

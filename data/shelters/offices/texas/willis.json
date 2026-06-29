@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:10:04.530813+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "willis",
+    "name": "Willis",
+    "label": "Willis, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/willis/",
+  "offices": [
+    {
+      "officeId": 538959,
+      "slug": "animals-1st-538959",
+      "name": "Animal's 1st",
+      "address": "13247 Cedar Lane Loop, Willis, TX 77378",
+      "phone": "936-228-0434",
+      "image": "./img/shelter/office/538959.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animals-1st-538959/",
+      "imageUrl": "https://cdn.findpawpal.com/office/538959.jpg?f=webp&w=730"
+    }
+  ]
+}

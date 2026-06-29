@@ -1,0 +1,74 @@
+{
+  "fetchedAt": "2026-06-27T18:47:10.770951+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "naperville",
+    "name": "Naperville",
+    "label": "Naperville, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/naperville/",
+  "offices": [
+    {
+      "officeId": 382783,
+      "slug": "animal-heartline-humane-association-382783",
+      "name": "Animal Heartline Humane Association",
+      "address": "PO Box 4401, Naperville, IL 60567",
+      "phone": "630-341-3411",
+      "image": "https://cdn.findpawpal.com/office/382783.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-heartline-humane-association-382783/"
+    },
+    {
+      "officeId": 522837,
+      "slug": "angels-on-wheels-animal-rescue-522837",
+      "name": "Angels On Wheels Animal Rescue",
+      "address": "3611 Lawrence Drive, Naperville, IL 60564",
+      "phone": "630-863-3474",
+      "image": "./img/shelter/office/522837.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/angels-on-wheels-animal-rescue-522837/",
+      "imageUrl": "https://cdn.findpawpal.com/office/522837.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 578745,
+      "slug": "humane-society-of-the-united-states-578745",
+      "name": "Humane Society of the United States",
+      "address": "800 West 5th Avenue, Naperville, IL 60563",
+      "phone": "630-357-7015",
+      "image": "./img/shelter/office/578745.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-the-united-states-578745/",
+      "imageUrl": "https://cdn.findpawpal.com/office/578745.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 580675,
+      "slug": "naperville-area-humane-society-580675",
+      "name": "Naperville Area Humane Society",
+      "address": "1620 West Diehl Road, Naperville, IL 60563",
+      "phone": "630-420-8989",
+      "image": "./img/shelter/office/580675.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/naperville-area-humane-society-580675/",
+      "imageUrl": "https://cdn.findpawpal.com/office/580675.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674758,
+      "slug": "a-d-o-p-t-pet-shelter-674758",
+      "name": "A.D.O.P.T. Pet Shelter",
+      "address": "420 Industrial Drive, Naperville, IL 60563",
+      "phone": "630-355-2299",
+      "image": "./img/shelter/office/674758.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/a-d-o-p-t-pet-shelter-674758/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674758.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674845,
+      "slug": "naperville-animal-control-674845",
+      "name": "Naperville Animal Control",
+      "address": "1340 Aurora Avenue, Naperville, IL 60540",
+      "phone": "630-420-6178",
+      "image": "./img/shelter/office/674845.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/naperville-animal-control-674845/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674845.jpg?f=webp&w=730"
+    }
+  ]
+}

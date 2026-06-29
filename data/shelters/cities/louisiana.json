@@ -1,0 +1,613 @@
+{
+  "fetchedAt": "2026-06-27T17:47:54.112628+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana",
+    "offices": 145
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/",
+  "cities": [
+    {
+      "slug": "abbeville",
+      "name": "Abbeville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/abbeville/"
+    },
+    {
+      "slug": "abita-springs",
+      "name": "Abita Springs",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/abita-springs/"
+    },
+    {
+      "slug": "alexandria",
+      "name": "Alexandria",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/alexandria/"
+    },
+    {
+      "slug": "avondale",
+      "name": "Avondale",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/avondale/"
+    },
+    {
+      "slug": "bains",
+      "name": "Bains",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/bains/"
+    },
+    {
+      "slug": "bastrop",
+      "name": "Bastrop",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/bastrop/"
+    },
+    {
+      "slug": "baton-rouge",
+      "name": "Baton Rouge",
+      "offices": 7,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/baton-rouge/"
+    },
+    {
+      "slug": "belle-chasse",
+      "name": "Belle Chasse",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/belle-chasse/"
+    },
+    {
+      "slug": "benton",
+      "name": "Benton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/benton/"
+    },
+    {
+      "slug": "bogalusa",
+      "name": "Bogalusa",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/bogalusa/"
+    },
+    {
+      "slug": "bossier",
+      "name": "Bossier",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/bossier/"
+    },
+    {
+      "slug": "breaux-bridge",
+      "name": "Breaux Bridge",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/breaux-bridge/"
+    },
+    {
+      "slug": "bush",
+      "name": "Bush",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/bush/"
+    },
+    {
+      "slug": "carencro",
+      "name": "Carencro",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/carencro/"
+    },
+    {
+      "slug": "chalmette",
+      "name": "Chalmette",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/chalmette/"
+    },
+    {
+      "slug": "church-point",
+      "name": "Church Point",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/church-point/"
+    },
+    {
+      "slug": "cottonport",
+      "name": "Cottonport",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/cottonport/"
+    },
+    {
+      "slug": "coushatta",
+      "name": "Coushatta",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/coushatta/"
+    },
+    {
+      "slug": "covington",
+      "name": "Covington",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/covington/"
+    },
+    {
+      "slug": "crowley",
+      "name": "Crowley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/crowley/"
+    },
+    {
+      "slug": "denham-springs",
+      "name": "Denham Springs",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/denham-springs/"
+    },
+    {
+      "slug": "deridder",
+      "name": "DeRidder",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/deridder/"
+    },
+    {
+      "slug": "destrehan",
+      "name": "Destrehan",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/destrehan/"
+    },
+    {
+      "slug": "doyline",
+      "name": "Doyline",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/doyline/"
+    },
+    {
+      "slug": "egan",
+      "name": "Egan",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/egan/"
+    },
+    {
+      "slug": "elmwood",
+      "name": "Elmwood",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/elmwood/"
+    },
+    {
+      "slug": "ferriday",
+      "name": "Ferriday",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/ferriday/"
+    },
+    {
+      "slug": "folsom",
+      "name": "Folsom",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/folsom/"
+    },
+    {
+      "slug": "franklin",
+      "name": "Franklin",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/franklin/"
+    },
+    {
+      "slug": "franklinton",
+      "name": "Franklinton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/franklinton/"
+    },
+    {
+      "slug": "gloster",
+      "name": "Gloster",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/gloster/"
+    },
+    {
+      "slug": "grand-cane",
+      "name": "Grand Cane",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/grand-cane/"
+    },
+    {
+      "slug": "gray",
+      "name": "Gray",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/gray/"
+    },
+    {
+      "slug": "gretna",
+      "name": "Gretna",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/gretna/"
+    },
+    {
+      "slug": "hammond",
+      "name": "Hammond",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/hammond/"
+    },
+    {
+      "slug": "harvey",
+      "name": "Harvey",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/harvey/"
+    },
+    {
+      "slug": "homer",
+      "name": "Homer",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/homer/"
+    },
+    {
+      "slug": "houma",
+      "name": "Houma",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/houma/"
+    },
+    {
+      "slug": "jackson",
+      "name": "Jackson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/jackson/"
+    },
+    {
+      "slug": "jena",
+      "name": "Jena",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/jena/"
+    },
+    {
+      "slug": "jennings",
+      "name": "Jennings",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/jennings/"
+    },
+    {
+      "slug": "kenner",
+      "name": "Kenner",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/kenner/"
+    },
+    {
+      "slug": "kentwood",
+      "name": "Kentwood",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/kentwood/"
+    },
+    {
+      "slug": "lafayette",
+      "name": "Lafayette",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/lafayette/"
+    },
+    {
+      "slug": "lake-arthur",
+      "name": "Lake Arthur",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/lake-arthur/"
+    },
+    {
+      "slug": "lake-charles",
+      "name": "Lake Charles",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/lake-charles/"
+    },
+    {
+      "slug": "laplace",
+      "name": "Laplace",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/laplace/"
+    },
+    {
+      "slug": "leesville",
+      "name": "Leesville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/leesville/"
+    },
+    {
+      "slug": "livingston",
+      "name": "Livingston",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/livingston/"
+    },
+    {
+      "slug": "loranger",
+      "name": "Loranger",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/loranger/"
+    },
+    {
+      "slug": "many",
+      "name": "Many",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/many/"
+    },
+    {
+      "slug": "marrero",
+      "name": "Marrero",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/marrero/"
+    },
+    {
+      "slug": "meraux",
+      "name": "Meraux",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/meraux/"
+    },
+    {
+      "slug": "metairie",
+      "name": "Metairie",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/metairie/"
+    },
+    {
+      "slug": "minden",
+      "name": "Minden",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/minden/"
+    },
+    {
+      "slug": "monroe",
+      "name": "Monroe",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/monroe/"
+    },
+    {
+      "slug": "natchitoches",
+      "name": "Natchitoches",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/natchitoches/"
+    },
+    {
+      "slug": "new-iberia",
+      "name": "New Iberia",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/new-iberia/"
+    },
+    {
+      "slug": "new-orleans",
+      "name": "New Orleans",
+      "offices": 6,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/new-orleans/"
+    },
+    {
+      "slug": "new-roads",
+      "name": "New Roads",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/new-roads/"
+    },
+    {
+      "slug": "olla",
+      "name": "Olla",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/olla/"
+    },
+    {
+      "slug": "opelousas",
+      "name": "Opelousas",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/opelousas/"
+    },
+    {
+      "slug": "pearl-river",
+      "name": "Pearl River",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/pearl-river/"
+    },
+    {
+      "slug": "pineville",
+      "name": "Pineville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/pineville/"
+    },
+    {
+      "slug": "plaquemine",
+      "name": "Plaquemine",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/plaquemine/"
+    },
+    {
+      "slug": "pollock",
+      "name": "Pollock",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/pollock/"
+    },
+    {
+      "slug": "rayne",
+      "name": "Rayne",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/rayne/"
+    },
+    {
+      "slug": "rayville",
+      "name": "Rayville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/rayville/"
+    },
+    {
+      "slug": "robert",
+      "name": "Robert",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/robert/"
+    },
+    {
+      "slug": "ruston",
+      "name": "Ruston",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/ruston/"
+    },
+    {
+      "slug": "shreveport",
+      "name": "Shreveport",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/shreveport/"
+    },
+    {
+      "slug": "slidell",
+      "name": "Slidell",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/slidell/"
+    },
+    {
+      "slug": "sorrento",
+      "name": "Sorrento",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/sorrento/"
+    },
+    {
+      "slug": "st-martinville",
+      "name": "St. Martinville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/st-martinville/"
+    },
+    {
+      "slug": "sulphur",
+      "name": "Sulphur",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/sulphur/"
+    },
+    {
+      "slug": "sunset",
+      "name": "Sunset",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/sunset/"
+    },
+    {
+      "slug": "thibodaux",
+      "name": "Thibodaux",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/thibodaux/"
+    },
+    {
+      "slug": "tioga",
+      "name": "Tioga",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/tioga/"
+    },
+    {
+      "slug": "ville-platte",
+      "name": "Ville Platte",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/ville-platte/"
+    },
+    {
+      "slug": "violet",
+      "name": "Violet",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/violet/"
+    },
+    {
+      "slug": "walker",
+      "name": "Walker",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/walker/"
+    },
+    {
+      "slug": "welsh",
+      "name": "Welsh",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/welsh/"
+    },
+    {
+      "slug": "west-monroe",
+      "name": "West Monroe",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/west-monroe/"
+    },
+    {
+      "slug": "westlake",
+      "name": "Westlake",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/westlake/"
+    },
+    {
+      "slug": "winnfield",
+      "name": "Winnfield",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/winnfield/"
+    },
+    {
+      "slug": "youngsville",
+      "name": "Youngsville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/youngsville/"
+    }
+  ]
+}

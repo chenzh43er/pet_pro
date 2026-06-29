@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:27:20.337260+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "manville",
+    "name": "Manville",
+    "label": "Manville, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/manville/",
+  "offices": [
+    {
+      "officeId": 104147,
+      "slug": "hopeful-hearts-animal-rescue-104147",
+      "name": "Hopeful Hearts Animal Rescue",
+      "address": "Driscoll St, Manville, NJ 08835",
+      "phone": "",
+      "image": "./img/shelter/office/104147.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hopeful-hearts-animal-rescue-104147/",
+      "imageUrl": "https://cdn.findpawpal.com/office/104147.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 104758,
+      "slug": "loving-care-pet-rescue-104758",
+      "name": "loving care pet rescue",
+      "address": "733 Boesel Avenue, Manville, NJ 08835",
+      "phone": "908-917-3520",
+      "image": "./img/shelter/office/104758.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/loving-care-pet-rescue-104758/",
+      "imageUrl": "https://cdn.findpawpal.com/office/104758.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "fetchedAt": "2026-06-27T18:16:48.325051+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "athens",
+    "name": "Athens",
+    "label": "Athens, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/athens/",
+  "offices": [
+    {
+      "slug": "athens-limestone-humane-society-5963",
+      "name": "Athens Limestone Humane Society",
+      "address": "PO Box 725, Athens, AL 35612",
+      "phone": "256-233-4021",
+      "image": "./img/shelter/office/5963.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/athens-limestone-humane-society-5963/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5963.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "peace-love-and-animals-5973",
+      "name": "Peace Love and Animals",
+      "address": "19135 Nuclear Plant Road, Athens, AL 35611",
+      "phone": "256-233-4343",
+      "image": "./img/shelter/office/5973.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/peace-love-and-animals-5973/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5973.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "athens-animal-control-7103",
+      "name": "Athens Animal Control",
+      "address": "951 Hobbs Street East, Athens, AL 35611",
+      "phone": "256-232-7230",
+      "image": "./img/shelter/office/7103.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/athens-animal-control-7103/",
+      "imageUrl": "https://cdn.findpawpal.com/office/7103.jpg?f=webp&w=730"
+    }
+  ]
+}

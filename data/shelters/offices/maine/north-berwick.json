@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:02:00.927104+00:00",
+  "state": {
+    "slug": "maine",
+    "name": "Maine"
+  },
+  "city": {
+    "slug": "north-berwick",
+    "name": "North Berwick",
+    "label": "North Berwick, ME"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maine/north-berwick/",
+  "offices": [
+    {
+      "officeId": 320340,
+      "slug": "marlee-animal-rescue-320340",
+      "name": "Marlee Animal Rescue",
+      "address": "PO Box 552, North Berwick, ME 03906",
+      "phone": "207-676-2248",
+      "image": "./img/shelter/office/320340.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/marlee-animal-rescue-320340/",
+      "imageUrl": "https://cdn.findpawpal.com/office/320340.jpg?f=webp&w=730"
+    }
+  ]
+}

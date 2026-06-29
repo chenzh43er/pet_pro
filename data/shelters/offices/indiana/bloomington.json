@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:49:14.611861+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "bloomington",
+    "name": "Bloomington",
+    "label": "Bloomington, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/bloomington/",
+  "offices": [
+    {
+      "officeId": 215204,
+      "slug": "bloomington-animal-shelter-215204",
+      "name": "Bloomington Animal Shelter",
+      "address": "3410 South Walnut Street, Bloomington, IN 47401",
+      "phone": "812-349-3492",
+      "image": "./img/shelter/office/215204.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bloomington-animal-shelter-215204/",
+      "imageUrl": "https://cdn.findpawpal.com/office/215204.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 215212,
+      "slug": "monroe-county-animal-management-215212",
+      "name": "Monroe County Animal Management",
+      "address": "301 North College Avenue, Bloomington, IN 47404",
+      "phone": "812-349-2585",
+      "image": "./img/shelter/office/215212.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/monroe-county-animal-management-215212/",
+      "imageUrl": "https://cdn.findpawpal.com/office/215212.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 253301,
+      "slug": "ohio-valley-animal-league-inc-253301",
+      "name": "Ohio Valley Animal League, Inc.",
+      "address": "3750 South Garrison Chapel Road, Bloomington, IN 47403",
+      "phone": "812-825-7387",
+      "image": "./img/shelter/office/253301.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ohio-valley-animal-league-inc-253301/",
+      "imageUrl": "https://cdn.findpawpal.com/office/253301.jpg?f=webp&w=730"
+    }
+  ]
+}

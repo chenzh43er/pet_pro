@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:19:38.203279+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "woodland",
+    "name": "Woodland",
+    "label": "Woodland, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/woodland/",
+  "offices": [
+    {
+      "officeId": 610686,
+      "slug": "pet-aid-of-washington-610686",
+      "name": "Pet Aid of Washington",
+      "address": "PO Box 1015, Woodland, WA 98674",
+      "phone": "360-624-8953",
+      "image": "./img/shelter/office/610686.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-aid-of-washington-610686/",
+      "imageUrl": "https://cdn.findpawpal.com/office/610686.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 614598,
+      "slug": "pig-dignity-sanctuary-614598",
+      "name": "Pig Dignity Sanctuary",
+      "address": "116 South Luoma Road, Woodland, WA 98674",
+      "phone": "360-225-7294",
+      "image": "./img/shelter/office/614598.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pig-dignity-sanctuary-614598/",
+      "imageUrl": "https://cdn.findpawpal.com/office/614598.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:37:19.712528+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "simsbury",
+    "name": "Simsbury",
+    "label": "Simsbury, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/simsbury/",
+  "offices": [
+    {
+      "officeId": 161294,
+      "slug": "simsbury-animal-control-161294",
+      "name": "Simsbury Animal Control",
+      "address": "933 Hopmeadow Street, Simsbury, CT 06070",
+      "phone": "860-658-3110",
+      "image": "https://cdn.findpawpal.com/office/161294.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/simsbury-animal-control-161294/"
+    }
+  ]
+}

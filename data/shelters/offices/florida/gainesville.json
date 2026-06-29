@@ -1,0 +1,68 @@
+{
+  "fetchedAt": "2026-06-27T18:14:32.168649+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "gainesville",
+    "name": "Gainesville",
+    "label": "Gainesville, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/gainesville/",
+  "offices": [
+    {
+      "slug": "no-more-homeless-pets-270856",
+      "name": "No More Homeless Pets",
+      "address": "PO Box 358466, Gainesville, FL 32635",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/270856.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/no-more-homeless-pets-270856/"
+    },
+    {
+      "slug": "alachua-county-animal-services-department-324729",
+      "name": "Alachua County Animal Services Department",
+      "address": "3400 Northeast 53rd Avenue, Gainesville, FL 32609",
+      "phone": "352-264-6870",
+      "image": "./img/shelter/office/324729.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/alachua-county-animal-services-department-324729/",
+      "imageUrl": "https://cdn.findpawpal.com/office/324729.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alachua-county-humane-society-341613",
+      "name": "Alachua County Humane Society",
+      "address": "4205 Northwest 6th Street, Gainesville, FL 32609",
+      "phone": "352-373-5855",
+      "image": "./img/shelter/office/341613.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/alachua-county-humane-society-341613/",
+      "imageUrl": "https://cdn.findpawpal.com/office/341613.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "gainesville-pet-rescue-341619",
+      "name": "Gainesville Pet Rescue",
+      "address": "5403 Southwest Archer Road, Gainesville, FL 32608",
+      "phone": "352-692-4773",
+      "image": "./img/shelter/office/341619.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gainesville-pet-rescue-341619/",
+      "imageUrl": "https://cdn.findpawpal.com/office/341619.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "whiskers-hollow-352484",
+      "name": "Whiskers Hollow",
+      "address": "300 Northwest 18th Street, Gainesville, FL 32603",
+      "phone": "352-378-3954",
+      "image": "./img/shelter/office/352484.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/whiskers-hollow-352484/",
+      "imageUrl": "https://cdn.findpawpal.com/office/352484.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "haile-plantation-animal-clinic-357780",
+      "name": "Haile Plantation Animal Clinic",
+      "address": "5231 Southwest 91st Drive, Gainesville, FL 32608",
+      "phone": "352-377-6003",
+      "image": "./img/shelter/office/357780.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/haile-plantation-animal-clinic-357780/",
+      "imageUrl": "https://cdn.findpawpal.com/office/357780.jpg?f=webp&w=730"
+    }
+  ]
+}

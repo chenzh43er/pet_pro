@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:37:05.805736+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "portland",
+    "name": "Portland",
+    "label": "Portland, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/portland/",
+  "offices": [
+    {
+      "officeId": 148615,
+      "slug": "portland-town-animal-control-148615",
+      "name": "Portland Town Animal Control",
+      "address": "33 East Main Street, Portland, CT 06480",
+      "phone": "860-344-3294",
+      "image": "./img/shelter/office/148615.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/portland-town-animal-control-148615/",
+      "imageUrl": "https://cdn.findpawpal.com/office/148615.jpg?f=webp&w=730"
+    }
+  ]
+}

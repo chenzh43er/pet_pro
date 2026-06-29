@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:22:24.434694+00:00",
+  "state": {
+    "slug": "arkansas",
+    "name": "Arkansas"
+  },
+  "city": {
+    "slug": "hot-springs",
+    "name": "Hot Springs",
+    "label": "Hot Springs, AR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arkansas/hot-springs/",
+  "offices": [
+    {
+      "officeId": 251268,
+      "slug": "guardian-angels-cat-club-251268",
+      "name": "Guardian Angels Cat Club",
+      "address": "873 Park Avenue, Hot Springs, AR 71901",
+      "phone": "501-623-3484",
+      "image": "./img/shelter/office/251268.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/guardian-angels-cat-club-251268/",
+      "imageUrl": "https://cdn.findpawpal.com/office/251268.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 328063,
+      "slug": "hot-springs-animal-shelter-328063",
+      "name": "Hot Springs Animal Shelter",
+      "address": "907 Hobson Avenue, Hot Springs, AR 71913",
+      "phone": "501-623-3484",
+      "image": "./img/shelter/office/328063.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hot-springs-animal-shelter-328063/",
+      "imageUrl": "https://cdn.findpawpal.com/office/328063.jpg?f=webp&w=730"
+    }
+  ]
+}

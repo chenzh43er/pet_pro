@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:49:19.115202+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "boonville",
+    "name": "Boonville",
+    "label": "Boonville, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/boonville/",
+  "offices": [
+    {
+      "officeId": 223808,
+      "slug": "warrick-county-animal-control-223808",
+      "name": "Warrick County Animal Control",
+      "address": "599 Roth Road, Boonville, IN 47601",
+      "phone": "812-897-6107",
+      "image": "./img/shelter/office/223808.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/warrick-county-animal-control-223808/",
+      "imageUrl": "https://cdn.findpawpal.com/office/223808.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:29:54.351492+00:00",
+  "state": {
+    "slug": "new-mexico",
+    "name": "New Mexico"
+  },
+  "city": {
+    "slug": "arenas-valley",
+    "name": "Arenas Valley",
+    "label": "Arenas Valley, NM"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-mexico/arenas-valley/",
+  "offices": [
+    {
+      "officeId": 334968,
+      "slug": "puppy-dog-ranch-rescue-and-sanctuary-334968",
+      "name": "Puppy Dog Ranch Rescue and Sanctuary",
+      "address": "27 Twin Sister Creek Road, Arenas Valley, NM 88022",
+      "phone": "575-313-7232",
+      "image": "https://cdn.findpawpal.com/office/334968.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/puppy-dog-ranch-rescue-and-sanctuary-334968/"
+    }
+  ]
+}

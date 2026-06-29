@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:21:45.591072+00:00",
+  "state": {
+    "slug": "arkansas",
+    "name": "Arkansas"
+  },
+  "city": {
+    "slug": "centerton",
+    "name": "Centerton",
+    "label": "Centerton, AR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arkansas/centerton/",
+  "offices": [
+    {
+      "officeId": 254117,
+      "slug": "lone-pine-ranch-animal-shelter-254117",
+      "name": "Lone Pine Ranch Animal Shelter",
+      "address": "PO Box 194, Centerton, AR 72719",
+      "phone": "479-274-0451",
+      "image": "./img/shelter/office/254117.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lone-pine-ranch-animal-shelter-254117/",
+      "imageUrl": "https://cdn.findpawpal.com/office/254117.jpg?f=webp&w=730"
+    }
+  ]
+}

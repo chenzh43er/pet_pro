@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:53:18.547958+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "horsham",
+    "name": "Horsham",
+    "label": "Horsham, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/horsham/",
+  "offices": [
+    {
+      "officeId": 428887,
+      "slug": "delaware-valley-siberian-husky-rescue-inc-428887",
+      "name": "Delaware Valley Siberian Husky Rescue, Inc.",
+      "address": "PO Box 773, Horsham, PA 19044",
+      "phone": "877-876-2644",
+      "image": "./img/shelter/office/428887.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/delaware-valley-siberian-husky-rescue-inc-428887/",
+      "imageUrl": "https://cdn.findpawpal.com/office/428887.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:29:33.514037+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "west-caldwell",
+    "name": "West Caldwell",
+    "label": "West Caldwell, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/west-caldwell/",
+  "offices": [
+    {
+      "officeId": 94630,
+      "slug": "orphaned-pets-inc-94630",
+      "name": "Orphaned Pets Inc.",
+      "address": "PO Box 1945, West Caldwell, NJ 07007",
+      "phone": "973-886-1485",
+      "image": "https://cdn.findpawpal.com/office/94630.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/orphaned-pets-inc-94630/"
+    }
+  ]
+}

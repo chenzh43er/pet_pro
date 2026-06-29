@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:17:04.616414+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "chickasaw",
+    "name": "Chickasaw",
+    "label": "Chickasaw, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/chickasaw/",
+  "offices": [
+    {
+      "slug": "adopt-a-pet-save-a-life-6720",
+      "name": "Adopt-A-Pet Save A Life",
+      "address": "522 North Craft Highway, Chickasaw, AL 36611",
+      "phone": "251-457-4529",
+      "image": "./img/shelter/office/6720.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/adopt-a-pet-save-a-life-6720/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6720.jpg?f=webp&w=730"
+    }
+  ]
+}

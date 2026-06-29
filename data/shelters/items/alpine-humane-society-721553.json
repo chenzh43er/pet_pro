@@ -1,0 +1,21 @@
+{
+  "officeId": 721553,
+  "slug": "alpine-humane-society-721553",
+  "name": "Alpine Humane Society",
+  "address": "2900 Old Marathon Road, Alpine, TX 79830",
+  "street": "2900 Old Marathon Road",
+  "addressCity": "Alpine",
+  "stateCode": "TX",
+  "zip": "79830",
+  "phone": "432-837-2532",
+  "image": "./img/shelter/office/721553.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/alpine-humane-society-721553/",
+  "stateSlug": "texas",
+  "stateName": "Texas",
+  "citySlug": "alpine",
+  "cityName": "Alpine",
+  "cityLabel": "Alpine, TX",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/texas/alpine/",
+  "fetchedAt": "2026-06-27T20:02:33.952538+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/721553.jpg?f=webp&w=730"
+}

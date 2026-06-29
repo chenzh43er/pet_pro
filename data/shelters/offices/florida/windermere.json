@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:17:50.518545+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "windermere",
+    "name": "Windermere",
+    "label": "Windermere, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/windermere/",
+  "offices": [
+    {
+      "slug": "pug-rescue-of-florida-inc-268734",
+      "name": "Pug Rescue of Florida, Inc.",
+      "address": "PO Box 316, Windermere, FL 34786",
+      "phone": "321-948-8932",
+      "image": "./img/shelter/office/268734.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pug-rescue-of-florida-inc-268734/",
+      "imageUrl": "https://cdn.findpawpal.com/office/268734.jpg?f=webp&w=730"
+    }
+  ]
+}

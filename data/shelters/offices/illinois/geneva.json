@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:45:33.593688+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "geneva",
+    "name": "Geneva",
+    "label": "Geneva, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/geneva/",
+  "offices": [
+    {
+      "officeId": 412679,
+      "slug": "northern-illinois-pug-rescue-adoption-inc-412679",
+      "name": "Northern Illinois Pug Rescue Adoption, Inc.",
+      "address": "1144 East State Street, Geneva, IL 60134",
+      "phone": "",
+      "image": "./img/shelter/office/412679.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/northern-illinois-pug-rescue-adoption-inc-412679/",
+      "imageUrl": "https://cdn.findpawpal.com/office/412679.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 413653,
+      "slug": "kane-county-animal-control-413653",
+      "name": "Kane County Animal Control",
+      "address": "4060 Keslinger Road, Geneva, IL 60134",
+      "phone": "630-232-3555",
+      "image": "./img/shelter/office/413653.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kane-county-animal-control-413653/",
+      "imageUrl": "https://cdn.findpawpal.com/office/413653.jpg?f=webp&w=730"
+    }
+  ]
+}

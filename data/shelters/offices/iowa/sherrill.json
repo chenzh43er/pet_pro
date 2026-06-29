@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:54:08.281369+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa"
+  },
+  "city": {
+    "slug": "sherrill",
+    "name": "Sherrill",
+    "label": "Sherrill, IA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/sherrill/",
+  "offices": [
+    {
+      "officeId": 324406,
+      "slug": "high-steppin-farm-equine-rescue-324406",
+      "name": "High Steppin Farm Equine Rescue",
+      "address": "19948 Durango Road, Sherrill, IA 52073",
+      "phone": "563-590-9820",
+      "image": "https://cdn.findpawpal.com/office/324406.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/high-steppin-farm-equine-rescue-324406/"
+    }
+  ]
+}

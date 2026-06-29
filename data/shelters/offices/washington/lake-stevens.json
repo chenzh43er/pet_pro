@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:18:06.860974+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "lake-stevens",
+    "name": "Lake Stevens",
+    "label": "Lake Stevens, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/lake-stevens/",
+  "offices": [
+    {
+      "officeId": 629004,
+      "slug": "old-dog-haven-629004",
+      "name": "Old Dog Haven",
+      "address": "621 Highway 9, Lake Stevens, WA 98258",
+      "phone": "360-653-0311",
+      "image": "https://cdn.findpawpal.com/office/629004.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/old-dog-haven-629004/"
+    }
+  ]
+}

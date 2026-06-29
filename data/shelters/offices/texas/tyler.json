@@ -1,0 +1,54 @@
+{
+  "fetchedAt": "2026-06-27T20:09:45.279229+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "tyler",
+    "name": "Tyler",
+    "label": "Tyler, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/tyler/",
+  "offices": [
+    {
+      "officeId": 479013,
+      "slug": "the-humane-societys-pets-fur-people-479013",
+      "name": "The Humane Society's Pets Fur People",
+      "address": "1823 County Road 386, Tyler, TX 75708",
+      "phone": "903-597-2471",
+      "image": "./img/shelter/office/479013.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-humane-societys-pets-fur-people-479013/",
+      "imageUrl": "https://cdn.findpawpal.com/office/479013.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 479164,
+      "slug": "tyler-animal-control-479164",
+      "name": "Tyler Animal Control",
+      "address": "19739 County Road 113, Tyler, TX 75703",
+      "phone": "903-534-1913",
+      "image": "./img/shelter/office/479164.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tyler-animal-control-479164/",
+      "imageUrl": "https://cdn.findpawpal.com/office/479164.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 702295,
+      "slug": "tiger-creek-wildlife-refuge-702295",
+      "name": "Tiger Creek Wildlife Refuge",
+      "address": "17552 Farm to Market 14, Tyler, TX 75706",
+      "phone": "903-858-1008",
+      "image": "./img/shelter/office/702295.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tiger-creek-wildlife-refuge-702295/",
+      "imageUrl": "https://cdn.findpawpal.com/office/702295.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 723305,
+      "slug": "tonya-griffiths-animal-rescue-inc-723305",
+      "name": "Tonya Griffith's Animal Rescue, Inc.",
+      "address": ", Tyler, TX 75762",
+      "phone": "903-533-1282",
+      "image": "https://cdn.findpawpal.com/office/723305.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/tonya-griffiths-animal-rescue-inc-723305/"
+    }
+  ]
+}

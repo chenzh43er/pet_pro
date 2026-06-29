@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:18:47.561812+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "fulton",
+    "name": "Fulton",
+    "label": "Fulton, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/fulton/",
+  "offices": [
+    {
+      "officeId": 229151,
+      "slug": "callaway-county-humane-society-229151",
+      "name": "Callaway County Humane Society",
+      "address": "PO Box 795, Fulton, MO 65251",
+      "phone": "573-642-7483",
+      "image": "./img/shelter/office/229151.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/callaway-county-humane-society-229151/",
+      "imageUrl": "https://cdn.findpawpal.com/office/229151.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 229159,
+      "slug": "pit-bull-rescue-central-229159",
+      "name": "Pit Bull Rescue Central",
+      "address": "PO Box 335, Fulton, MO 65251",
+      "phone": "",
+      "image": "./img/shelter/office/229159.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pit-bull-rescue-central-229159/",
+      "imageUrl": "https://cdn.findpawpal.com/office/229159.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 230900,
+      "slug": "garrett-animal-shelter-230900",
+      "name": "Garrett Animal Shelter",
+      "address": "611 East 8th Street, Fulton, MO 65251",
+      "phone": "573-642-7443",
+      "image": "./img/shelter/office/230900.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/garrett-animal-shelter-230900/",
+      "imageUrl": "https://cdn.findpawpal.com/office/230900.jpg?f=webp&w=730"
+    }
+  ]
+}

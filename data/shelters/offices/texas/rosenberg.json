@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:08:49.381585+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "rosenberg",
+    "name": "Rosenberg",
+    "label": "Rosenberg, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/rosenberg/",
+  "offices": [
+    {
+      "officeId": 674501,
+      "slug": "fort-bend-county-animal-control-674501",
+      "name": "Fort Bend County Animal Control",
+      "address": "1210 Blume Road, Rosenberg, TX 77471",
+      "phone": "281-342-1512",
+      "image": "https://cdn.findpawpal.com/office/674501.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/fort-bend-county-animal-control-674501/"
+    }
+  ]
+}

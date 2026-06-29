@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:01:21.419402+00:00",
+  "state": {
+    "slug": "maine",
+    "name": "Maine"
+  },
+  "city": {
+    "slug": "buxton",
+    "name": "Buxton",
+    "label": "Buxton, ME"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maine/buxton/",
+  "offices": [
+    {
+      "officeId": 426458,
+      "slug": "little-paws-animal-shelter-426458",
+      "name": "Little Paws Animal Shelter",
+      "address": "27 Portland Road, Buxton, ME 04093",
+      "phone": "207-929-5505",
+      "image": "./img/shelter/office/426458.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/little-paws-animal-shelter-426458/",
+      "imageUrl": "https://cdn.findpawpal.com/office/426458.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 426860,
+      "slug": "buxton-animal-shelter-426860",
+      "name": "Buxton Animal Shelter",
+      "address": "27 Portland Road, Buxton, ME 04093",
+      "phone": "207-929-5505",
+      "image": "./img/shelter/office/426860.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/buxton-animal-shelter-426860/",
+      "imageUrl": "https://cdn.findpawpal.com/office/426860.jpg?f=webp&w=730"
+    }
+  ]
+}

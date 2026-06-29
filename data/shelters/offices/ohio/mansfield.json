@@ -1,0 +1,53 @@
+{
+  "fetchedAt": "2026-06-27T19:45:17.913467+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "mansfield",
+    "name": "Mansfield",
+    "label": "Mansfield, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/mansfield/",
+  "offices": [
+    {
+      "officeId": 423254,
+      "slug": "stop-the-overpopulation-pets-423254",
+      "name": "Stop the Overpopulation-Pets",
+      "address": "1152 Lexington Avenue, Mansfield, OH 44907",
+      "phone": "419-774-1738",
+      "image": "./img/shelter/office/423254.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/stop-the-overpopulation-pets-423254/",
+      "imageUrl": "https://cdn.findpawpal.com/office/423254.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 445261,
+      "slug": "ladybugs-k9-rescue-445261",
+      "name": "Ladybugs K9 Rescue",
+      "address": "8240 Highway 314, Mansfield, OH 44904",
+      "phone": "419-946-5311",
+      "image": "./img/shelter/office/445261.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ladybugs-k9-rescue-445261/",
+      "imageUrl": "https://cdn.findpawpal.com/office/445261.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 686441,
+      "slug": "mid-ohio-animal-welfare-league-686441",
+      "name": "Mid-Ohio Animal Welfare League",
+      "address": "PO Box 3842, Mansfield, OH 44907",
+      "phone": "419-566-3898",
+      "image": "https://cdn.findpawpal.com/office/686441.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/mid-ohio-animal-welfare-league-686441/"
+    },
+    {
+      "officeId": 686517,
+      "slug": "richland-county-dog-shelter-686517",
+      "name": "Richland County Dog Shelter",
+      "address": "810 North Home Road, Mansfield, OH 44906",
+      "phone": "419-774-5892",
+      "image": "https://cdn.findpawpal.com/office/686517.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/richland-county-dog-shelter-686517/"
+    }
+  ]
+}

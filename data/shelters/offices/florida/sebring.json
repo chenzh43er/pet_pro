@@ -1,0 +1,42 @@
+{
+  "fetchedAt": "2026-06-27T18:17:07.546570+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "sebring",
+    "name": "Sebring",
+    "label": "Sebring, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/sebring/",
+  "offices": [
+    {
+      "slug": "a-home-for-hermie-ladn-hermit-crab-rescue-educational-facility-and-advocacy-center-284271",
+      "name": "A Home for Hermie, Ladn Hermit Crab Rescue, Educational Facility and Advocacy Center",
+      "address": "3026 Spinks Road, Sebring, FL 33870",
+      "phone": "863-414-8081",
+      "image": "./img/shelter/office/284271.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/a-home-for-hermie-ladn-hermit-crab-rescue-educational-facility-and-advocacy-center-284271/",
+      "imageUrl": "https://cdn.findpawpal.com/office/284271.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "heartland-cat-rescue-adoption-society-inc-287998",
+      "name": "Heartland Cat Rescue Adoption Society, Inc.",
+      "address": "2109 Flower Terrace, Sebring, FL 33875",
+      "phone": "863-382-7138",
+      "image": "./img/shelter/office/287998.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/heartland-cat-rescue-adoption-society-inc-287998/",
+      "imageUrl": "https://cdn.findpawpal.com/office/287998.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-339825",
+      "name": "Humane Society",
+      "address": "7321 Haywood Taylor Boulevard, Sebring, FL 33876",
+      "phone": "863-655-1522",
+      "image": "./img/shelter/office/339825.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-339825/",
+      "imageUrl": "https://cdn.findpawpal.com/office/339825.jpg?f=webp&w=730"
+    }
+  ]
+}

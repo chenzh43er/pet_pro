@@ -1,0 +1,84 @@
+{
+  "fetchedAt": "2026-06-27T18:22:04.884352+00:00",
+  "state": {
+    "slug": "arkansas",
+    "name": "Arkansas"
+  },
+  "city": {
+    "slug": "fayetteville",
+    "name": "Fayetteville",
+    "label": "Fayetteville, AR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arkansas/fayetteville/",
+  "offices": [
+    {
+      "officeId": 251041,
+      "slug": "spensers-legacy-animal-rescue-251041",
+      "name": "Spenser's Legacy Animal Rescue",
+      "address": "4649 Mayes Drive, Fayetteville, AR 72704",
+      "phone": "479-601-7202",
+      "image": "./img/shelter/office/251041.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/spensers-legacy-animal-rescue-251041/",
+      "imageUrl": "https://cdn.findpawpal.com/office/251041.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 251253,
+      "slug": "animal-haven-rescue-251253",
+      "name": "Animal Haven Rescue",
+      "address": "1155 Martin Luther King Junior Boulevard, Fayetteville, AR 72701",
+      "phone": "479-267-2590",
+      "image": "./img/shelter/office/251253.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-haven-rescue-251253/",
+      "imageUrl": "https://cdn.findpawpal.com/office/251253.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 254558,
+      "slug": "humane-society-of-the-ozarks-254558",
+      "name": "Humane Society of the Ozarks",
+      "address": "413 North College Avenue, Fayetteville, AR 72701",
+      "phone": "501-444-7387",
+      "image": "./img/shelter/office/254558.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-the-ozarks-254558/",
+      "imageUrl": "https://cdn.findpawpal.com/office/254558.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 267189,
+      "slug": "border-collie-rescue-of-the-ozarks-inc-267189",
+      "name": "Border Collie Rescue of the Ozarks, Inc.",
+      "address": "PO Box 2222, Fayetteville, AR 72702",
+      "phone": "479-236-5351",
+      "image": "./img/shelter/office/267189.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/border-collie-rescue-of-the-ozarks-inc-267189/",
+      "imageUrl": "https://cdn.findpawpal.com/office/267189.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 270735,
+      "slug": "stray-central-270735",
+      "name": "Stray Central",
+      "address": "251 West Wilson Street, Fayetteville, AR 72701",
+      "phone": "",
+      "image": "./img/shelter/office/270735.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/stray-central-270735/",
+      "imageUrl": "https://cdn.findpawpal.com/office/270735.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 322312,
+      "slug": "fayetteville-animal-services-322312",
+      "name": "Fayetteville Animal Services",
+      "address": "1640 South Armstrong Avenue, Fayetteville, AR 72701",
+      "phone": "479-444-3456",
+      "image": "./img/shelter/office/322312.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fayetteville-animal-services-322312/",
+      "imageUrl": "https://cdn.findpawpal.com/office/322312.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 322449,
+      "slug": "northwest-arkansas-ferret-shelter-322449",
+      "name": "Northwest Arkansas Ferret Shelter",
+      "address": "15539 White Oak Road, Fayetteville, AR 72704",
+      "phone": "479-313-2979",
+      "image": "https://cdn.findpawpal.com/office/322449.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/northwest-arkansas-ferret-shelter-322449/"
+    }
+  ]
+}

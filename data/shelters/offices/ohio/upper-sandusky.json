@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:47:18.816735+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "upper-sandusky",
+    "name": "Upper Sandusky",
+    "label": "Upper Sandusky, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/upper-sandusky/",
+  "offices": [
+    {
+      "officeId": 431346,
+      "slug": "wyandot-county-humane-society-431346",
+      "name": "Wyandot County Humane Society",
+      "address": "9640 County Highway 330, Upper Sandusky, OH 43351",
+      "phone": "419-294-4477",
+      "image": "./img/shelter/office/431346.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wyandot-county-humane-society-431346/",
+      "imageUrl": "https://cdn.findpawpal.com/office/431346.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 580951,
+      "slug": "ohio-animal-control-association-580951",
+      "name": "Ohio Animal Control Association",
+      "address": "7790 Highway 199, Upper Sandusky, OH 43351",
+      "phone": "",
+      "image": "./img/shelter/office/580951.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ohio-animal-control-association-580951/",
+      "imageUrl": "https://cdn.findpawpal.com/office/580951.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 640170,
+      "slug": "pot-and-fainter-savers-animal-640170",
+      "name": "Pot & Fainter Savers Animal",
+      "address": "6844 County Highway 61, Upper Sandusky, OH 43351",
+      "phone": "419-310-3322",
+      "image": "./img/shelter/office/640170.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pot-and-fainter-savers-animal-640170/",
+      "imageUrl": "https://cdn.findpawpal.com/office/640170.jpg?f=webp&w=730"
+    }
+  ]
+}

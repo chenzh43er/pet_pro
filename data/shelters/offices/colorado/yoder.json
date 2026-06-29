@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:35:25.655819+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "yoder",
+    "name": "Yoder",
+    "label": "Yoder, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/yoder/",
+  "offices": [
+    {
+      "officeId": 40094,
+      "slug": "peanuts-place-bully-rescue-40094",
+      "name": "Peanut's Place Bully Rescue",
+      "address": "33815 Torrence Road, Yoder, CO 80864",
+      "phone": "719-478-3370",
+      "image": "https://cdn.findpawpal.com/office/40094.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/peanuts-place-bully-rescue-40094/"
+    }
+  ]
+}

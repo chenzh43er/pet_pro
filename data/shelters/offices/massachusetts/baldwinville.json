@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:05:17.945806+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "baldwinville",
+    "name": "Baldwinville",
+    "label": "Baldwinville, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/baldwinville/",
+  "offices": [
+    {
+      "officeId": 40141,
+      "slug": "bosler-humane-society-40141",
+      "name": "Bosler Humane Society",
+      "address": "PO Box 12, Baldwinville, MA 01436",
+      "phone": "978-939-7316",
+      "image": "https://cdn.findpawpal.com/office/40141.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/bosler-humane-society-40141/"
+    }
+  ]
+}

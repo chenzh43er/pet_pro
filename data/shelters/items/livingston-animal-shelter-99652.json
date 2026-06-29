@@ -1,0 +1,21 @@
+{
+  "officeId": 99652,
+  "slug": "livingston-animal-shelter-99652",
+  "name": "Livingston Animal Shelter",
+  "address": "84 Naylon Avenue, Livingston, NJ 07039",
+  "street": "84 Naylon Avenue",
+  "addressCity": "Livingston",
+  "stateCode": "NJ",
+  "zip": "07039",
+  "phone": "973-535-7961",
+  "image": "./img/shelter/office/99652.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/livingston-animal-shelter-99652/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "livingston",
+  "cityName": "Livingston",
+  "cityLabel": "Livingston, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/livingston/",
+  "fetchedAt": "2026-06-27T19:27:08.240545+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/99652.jpg?f=webp&w=730"
+}

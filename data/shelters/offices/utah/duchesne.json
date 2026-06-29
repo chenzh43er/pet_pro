@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:10:28.456261+00:00",
+  "state": {
+    "slug": "utah",
+    "name": "Utah"
+  },
+  "city": {
+    "slug": "duchesne",
+    "name": "Duchesne",
+    "label": "Duchesne, UT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/utah/duchesne/",
+  "offices": [
+    {
+      "officeId": 537812,
+      "slug": "duchesne-county-sheriff-537812",
+      "name": "Duchesne County Sheriff",
+      "address": "21554 West 9000 South, Duchesne, UT 84021",
+      "phone": "435-738-2015",
+      "image": "https://cdn.findpawpal.com/office/537812.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/duchesne-county-sheriff-537812/"
+    }
+  ]
+}

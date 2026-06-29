@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T20:14:59.658110+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "manassas",
+    "name": "Manassas",
+    "label": "Manassas, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/manassas/",
+  "offices": [
+    {
+      "officeId": 511572,
+      "slug": "prince-william-county-animal-control-bureau-511572",
+      "name": "Prince William County Animal Control Bureau",
+      "address": "14807 Dumfries Road, Manassas, VA 20112",
+      "phone": "703-792-6465",
+      "image": "./img/shelter/office/511572.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/prince-william-county-animal-control-bureau-511572/",
+      "imageUrl": "https://cdn.findpawpal.com/office/511572.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 562014,
+      "slug": "manassas-city-animal-control-562014",
+      "name": "Manassas City Animal Control",
+      "address": "10039 Dean Dr, Manassas, VA 20110",
+      "phone": "703-257-2420",
+      "image": "./img/shelter/office/562014.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/manassas-city-animal-control-562014/",
+      "imageUrl": "https://cdn.findpawpal.com/office/562014.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 706739,
+      "slug": "northern-virginia-animal-league-inc-706739",
+      "name": "Northern Virginia Animal League, Inc.",
+      "address": "7522 Hyde Court, Manassas, VA 20109",
+      "phone": "703-368-2460",
+      "image": "./img/shelter/office/706739.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/northern-virginia-animal-league-inc-706739/",
+      "imageUrl": "https://cdn.findpawpal.com/office/706739.jpg?f=webp&w=730"
+    }
+  ]
+}

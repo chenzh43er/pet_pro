@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:12:36.379769+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "sault-ste-marie",
+    "name": "Sault Ste. Marie",
+    "label": "Sault Ste. Marie, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/sault-ste-marie/",
+  "offices": [
+    {
+      "officeId": 208957,
+      "slug": "chippewa-county-animal-control-208957",
+      "name": "Chippewa County Animal Control",
+      "address": "3660 South Mackinac Trail, Sault Ste. Marie, MI 49783",
+      "phone": "906-632-2519",
+      "image": "./img/shelter/office/208957.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/chippewa-county-animal-control-208957/",
+      "imageUrl": "https://cdn.findpawpal.com/office/208957.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 237271,
+      "slug": "sault-sainte-animal-control-237271",
+      "name": "Sault Sainte Animal Control",
+      "address": "139 Arlington Street, Sault Ste. Marie, MI 49783",
+      "phone": "906-635-3626",
+      "image": "./img/shelter/office/237271.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sault-sainte-animal-control-237271/",
+      "imageUrl": "https://cdn.findpawpal.com/office/237271.jpg?f=webp&w=730"
+    }
+  ]
+}

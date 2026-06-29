@@ -1,0 +1,21 @@
+{
+  "officeId": 44011,
+  "slug": "somersworth-animal-control-44011",
+  "name": "Somersworth Animal Control",
+  "address": "12 Lilac Lane, Somersworth, NH 03878",
+  "street": "12 Lilac Lane",
+  "addressCity": "Somersworth",
+  "stateCode": "NH",
+  "zip": "03878",
+  "phone": "603-692-3131",
+  "image": "./img/shelter/office/44011.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/somersworth-animal-control-44011/",
+  "stateSlug": "new-hampshire",
+  "stateName": "New Hampshire",
+  "citySlug": "somersworth",
+  "cityName": "Somersworth",
+  "cityLabel": "Somersworth, NH",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-hampshire/somersworth/",
+  "fetchedAt": "2026-06-27T19:24:41.686377+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/44011.jpg?f=webp&w=730"
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:28:57.268516+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "pacific-palisades",
+    "name": "Pacific Palisades",
+    "label": "Pacific Palisades, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/pacific-palisades/",
+  "offices": [
+    {
+      "slug": "pet-pride-of-california-384449",
+      "name": "Pet Pride of California",
+      "address": "PO Box 1055, Pacific Palisades, CA 90272",
+      "phone": "310-836-5427",
+      "image": "./img/shelter/office/384449.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-pride-of-california-384449/",
+      "imageUrl": "https://cdn.findpawpal.com/office/384449.jpg?f=webp&w=730"
+    }
+  ]
+}

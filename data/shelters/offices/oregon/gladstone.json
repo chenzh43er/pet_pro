@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:50:31.995399+00:00",
+  "state": {
+    "slug": "oregon",
+    "name": "Oregon"
+  },
+  "city": {
+    "slug": "gladstone",
+    "name": "Gladstone",
+    "label": "Gladstone, OR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oregon/gladstone/",
+  "offices": [
+    {
+      "officeId": 659645,
+      "slug": "gladstone-city-animal-control-659645",
+      "name": "Gladstone City Animal Control",
+      "address": "525 Portland Avenue, Gladstone, OR 97027",
+      "phone": "503-655-8211",
+      "image": "./img/shelter/office/659645.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gladstone-city-animal-control-659645/",
+      "imageUrl": "https://cdn.findpawpal.com/office/659645.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:23:41.707563+00:00",
+  "state": {
+    "slug": "new-hampshire",
+    "name": "New Hampshire"
+  },
+  "city": {
+    "slug": "atkinson",
+    "name": "Atkinson",
+    "label": "Atkinson, NH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-hampshire/atkinson/",
+  "offices": [
+    {
+      "officeId": 44118,
+      "slug": "atkinson-animal-control-44118",
+      "name": "Atkinson Animal Control",
+      "address": "177 Main Street, Atkinson, NH 03811",
+      "phone": "603-362-4739",
+      "image": "./img/shelter/office/44118.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/atkinson-animal-control-44118/",
+      "imageUrl": "https://cdn.findpawpal.com/office/44118.jpg?f=webp&w=730"
+    }
+  ]
+}

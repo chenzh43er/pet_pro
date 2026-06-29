@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:08:06.259297+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "olmito",
+    "name": "Olmito",
+    "label": "Olmito, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/olmito/",
+  "offices": [
+    {
+      "officeId": 702319,
+      "slug": "olmito-animal-control-702319",
+      "name": "Olmito Animal Control",
+      "address": "416 Farm to Market Road 511, Olmito, TX 78575",
+      "phone": "956-544-7351",
+      "image": "./img/shelter/office/702319.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/olmito-animal-control-702319/",
+      "imageUrl": "https://cdn.findpawpal.com/office/702319.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:53:07.828884+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "greenville",
+    "name": "Greenville",
+    "label": "Greenville, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/greenville/",
+  "offices": [
+    {
+      "officeId": 437862,
+      "slug": "strayhaven-inc-437862",
+      "name": "Strayhaven Inc",
+      "address": "94 Donation Road, Greenville, PA 16125",
+      "phone": "724-588-6161",
+      "image": "./img/shelter/office/437862.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/strayhaven-inc-437862/",
+      "imageUrl": "https://cdn.findpawpal.com/office/437862.jpg?f=webp&w=730"
+    }
+  ]
+}

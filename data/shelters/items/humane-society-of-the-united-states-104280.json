@@ -1,0 +1,21 @@
+{
+  "officeId": 104280,
+  "slug": "humane-society-of-the-united-states-104280",
+  "name": "Humane Society of the United States",
+  "address": "270 U.s. 206, Mount Olive, NJ 07836",
+  "street": "270 U.s. 206",
+  "addressCity": "Mount Olive",
+  "stateCode": "NJ",
+  "zip": "07836",
+  "phone": "973-927-5611",
+  "image": "./img/shelter/office/104280.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-the-united-states-104280/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "mount-olive",
+  "cityName": "Mount Olive",
+  "cityLabel": "Mount Olive, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/mount-olive/",
+  "fetchedAt": "2026-06-27T19:27:44.609678+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/104280.jpg?f=webp&w=730"
+}

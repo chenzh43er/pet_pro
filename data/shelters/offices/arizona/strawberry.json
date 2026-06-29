@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:21:00.617722+00:00",
+  "state": {
+    "slug": "arizona",
+    "name": "Arizona"
+  },
+  "city": {
+    "slug": "strawberry",
+    "name": "Strawberry",
+    "label": "Strawberry, AZ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arizona/strawberry/",
+  "offices": [
+    {
+      "officeId": 167325,
+      "slug": "paw-paw-inc-167325",
+      "name": "Paw-Paw, Inc.",
+      "address": "PO Box 710, Strawberry, AZ 85544",
+      "phone": "480-982-2200",
+      "image": "https://cdn.findpawpal.com/office/167325.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/paw-paw-inc-167325/"
+    }
+  ]
+}

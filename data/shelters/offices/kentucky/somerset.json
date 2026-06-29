@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T18:58:30.012678+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "somerset",
+    "name": "Somerset",
+    "label": "Somerset, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/somerset/",
+  "offices": [
+    {
+      "officeId": 110173,
+      "slug": "pulaski-county-humane-society-110173",
+      "name": "Pulaski County Humane Society",
+      "address": "3610 U.s. 27, Somerset, KY 42501",
+      "phone": "606-451-2367",
+      "image": "./img/shelter/office/110173.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pulaski-county-humane-society-110173/",
+      "imageUrl": "https://cdn.findpawpal.com/office/110173.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 111667,
+      "slug": "have-a-heart-animal-rescue-inc-111667",
+      "name": "Have A Heart Animal Rescue, Inc.",
+      "address": "1550 Slate Branch Road, Somerset, KY 42503",
+      "phone": "",
+      "image": "./img/shelter/office/111667.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/have-a-heart-animal-rescue-inc-111667/",
+      "imageUrl": "https://cdn.findpawpal.com/office/111667.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 120019,
+      "slug": "pulaski-county-animal-shelter-120019",
+      "name": "Pulaski County Animal Shelter",
+      "address": "235 Adopt Me Lane, Somerset, KY 42501",
+      "phone": "606-679-6432",
+      "image": "./img/shelter/office/120019.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pulaski-county-animal-shelter-120019/",
+      "imageUrl": "https://cdn.findpawpal.com/office/120019.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 120044,
+      "slug": "animal-protection-league-of-pulaski-county-120044",
+      "name": "Animal Protection League of Pulaski County",
+      "address": "205 Grande Avenue, Somerset, KY 42501",
+      "phone": "606-678-5609",
+      "image": "./img/shelter/office/120044.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-protection-league-of-pulaski-county-120044/",
+      "imageUrl": "https://cdn.findpawpal.com/office/120044.jpg?f=webp&w=730"
+    }
+  ]
+}

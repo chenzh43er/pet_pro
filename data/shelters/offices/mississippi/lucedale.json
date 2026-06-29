@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:16:40.562448+00:00",
+  "state": {
+    "slug": "mississippi",
+    "name": "Mississippi"
+  },
+  "city": {
+    "slug": "lucedale",
+    "name": "Lucedale",
+    "label": "Lucedale, MS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/mississippi/lucedale/",
+  "offices": [
+    {
+      "officeId": 109109,
+      "slug": "dixie-adoptables-109109",
+      "name": "Dixie Adoptables",
+      "address": "2153 Highway 198, Lucedale, MS 39452",
+      "phone": "601-947-6336",
+      "image": "https://cdn.findpawpal.com/office/109109.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/dixie-adoptables-109109/"
+    },
+    {
+      "officeId": 109116,
+      "slug": "louiedale-animal-shelter-109116",
+      "name": "Louiedale Animal Shelter",
+      "address": "545 Oak Street, Lucedale, MS 39452",
+      "phone": "601-947-7506",
+      "image": "./img/shelter/office/109116.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/louiedale-animal-shelter-109116/",
+      "imageUrl": "https://cdn.findpawpal.com/office/109116.jpg?f=webp&w=730"
+    }
+  ]
+}

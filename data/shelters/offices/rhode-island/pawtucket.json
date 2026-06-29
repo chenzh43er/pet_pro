@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:56:24.686534+00:00",
+  "state": {
+    "slug": "rhode-island",
+    "name": "Rhode Island"
+  },
+  "city": {
+    "slug": "pawtucket",
+    "name": "Pawtucket",
+    "label": "Pawtucket, RI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/rhode-island/pawtucket/",
+  "offices": [
+    {
+      "officeId": 565313,
+      "slug": "pawtucket-animal-control-565313",
+      "name": "Pawtucket Animal Control",
+      "address": "NEWPORT Ave, Pawtucket, RI 02861",
+      "phone": "401-722-4243",
+      "image": "./img/shelter/office/565313.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pawtucket-animal-control-565313/",
+      "imageUrl": "https://cdn.findpawpal.com/office/565313.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 583627,
+      "slug": "pawtucket-animal-shelter-volunteers-583627",
+      "name": "Pawtucket Animal Shelter Volunteers",
+      "address": "PO Box 2567, Pawtucket, RI 02861",
+      "phone": "401-722-4243",
+      "image": "https://cdn.findpawpal.com/office/583627.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/pawtucket-animal-shelter-volunteers-583627/"
+    }
+  ]
+}

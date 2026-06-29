@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:50:52.896207+00:00",
+  "state": {
+    "slug": "oregon",
+    "name": "Oregon"
+  },
+  "city": {
+    "slug": "madras",
+    "name": "Madras",
+    "label": "Madras, OR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oregon/madras/",
+  "offices": [
+    {
+      "officeId": 600847,
+      "slug": "high-desrt-humane-society-600847",
+      "name": "High Desrt Humane Society",
+      "address": "PO Box 274, Madras, OR 97741",
+      "phone": "541-475-6639",
+      "image": "./img/shelter/office/600847.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/high-desrt-humane-society-600847/",
+      "imageUrl": "https://cdn.findpawpal.com/office/600847.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 601065,
+      "slug": "jefferson-county-dog-control-601065",
+      "name": "Jefferson County Dog Control",
+      "address": "1694 Southeast McTaggart Road, Madras, OR 97741",
+      "phone": "541-475-6889",
+      "image": "./img/shelter/office/601065.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/jefferson-county-dog-control-601065/",
+      "imageUrl": "https://cdn.findpawpal.com/office/601065.jpg?f=webp&w=730"
+    }
+  ]
+}

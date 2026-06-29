@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:48:45.355561+00:00",
+  "state": {
+    "slug": "oklahoma",
+    "name": "Oklahoma"
+  },
+  "city": {
+    "slug": "jones",
+    "name": "Jones",
+    "label": "Jones, OK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oklahoma/jones/",
+  "offices": [
+    {
+      "officeId": 581083,
+      "slug": "blazes-tribute-equine-rescue-581083",
+      "name": "Blaze's Tribute Equine Rescue",
+      "address": "17667 Markita Drive, Jones, OK 73049",
+      "phone": "405-615-5267",
+      "image": "https://cdn.findpawpal.com/office/581083.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/blazes-tribute-equine-rescue-581083/"
+    }
+  ]
+}

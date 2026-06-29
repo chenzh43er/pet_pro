@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:11:26.785939+00:00",
+  "state": {
+    "slug": "utah",
+    "name": "Utah"
+  },
+  "city": {
+    "slug": "santa-clara",
+    "name": "Santa Clara",
+    "label": "Santa Clara, UT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/utah/santa-clara/",
+  "offices": [
+    {
+      "officeId": 539246,
+      "slug": "santa-clara-animal-control-539246",
+      "name": "Santa Clara Animal Control",
+      "address": "2721 Santa Clara Drive, Santa Clara, UT 84765",
+      "phone": "435-656-4690",
+      "image": "./img/shelter/office/539246.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/santa-clara-animal-control-539246/",
+      "imageUrl": "https://cdn.findpawpal.com/office/539246.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:59:02.799398+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "avondale",
+    "name": "Avondale",
+    "label": "Avondale, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/avondale/",
+  "offices": [
+    {
+      "officeId": 226167,
+      "slug": "nola-chinchilla-rescue-226167",
+      "name": "Nola Chinchilla Rescue",
+      "address": "520 Phyllis Drive, Avondale, LA 70094",
+      "phone": "504-912-9143",
+      "image": "./img/shelter/office/226167.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/nola-chinchilla-rescue-226167/",
+      "imageUrl": "https://cdn.findpawpal.com/office/226167.jpg?f=webp&w=730"
+    }
+  ]
+}

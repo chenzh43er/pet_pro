@@ -1,0 +1,21 @@
+{
+  "officeId": 309986,
+  "slug": "noahs-ark-animal-shelter-309986",
+  "name": "Noah's Ark Animal Shelter",
+  "address": "5217 Buena Vista Drive, Carlsbad, NM 88220",
+  "street": "5217 Buena Vista Drive",
+  "addressCity": "Carlsbad",
+  "stateCode": "NM",
+  "zip": "88220",
+  "phone": "575-885-5769",
+  "image": "./img/shelter/office/309986.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/noahs-ark-animal-shelter-309986/",
+  "stateSlug": "new-mexico",
+  "stateName": "New Mexico",
+  "citySlug": "carlsbad",
+  "cityName": "Carlsbad",
+  "cityLabel": "Carlsbad, NM",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-mexico/carlsbad/",
+  "fetchedAt": "2026-06-27T19:30:04.774200+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/309986.jpg?f=webp&w=730"
+}

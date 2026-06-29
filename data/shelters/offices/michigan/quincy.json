@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:12:17.040629+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "quincy",
+    "name": "Quincy",
+    "label": "Quincy, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/quincy/",
+  "offices": [
+    {
+      "officeId": 237438,
+      "slug": "branch-county-animal-control-237438",
+      "name": "Branch County Animal Control",
+      "address": "168 South Ray Quincy Road, Quincy, MI 49082",
+      "phone": "517-639-3210",
+      "image": "https://cdn.findpawpal.com/office/237438.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/branch-county-animal-control-237438/"
+    }
+  ]
+}

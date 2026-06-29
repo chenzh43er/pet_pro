@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:32:44.125904+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "bailey",
+    "name": "Bailey",
+    "label": "Bailey, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/bailey/",
+  "offices": [
+    {
+      "officeId": 40200,
+      "slug": "friends-of-park-county-animals-40200",
+      "name": "Friends of Park County Animals",
+      "address": "PO Box 711, Bailey, CO 80421",
+      "phone": "303-816-1095",
+      "image": "./img/shelter/office/40200.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-park-county-animals-40200/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40200.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,2792 @@
+{
+  "stateSlug": "new-york",
+  "count": 398,
+  "shelters": [
+    {
+      "slug": "dianas-cat-shelter-441405",
+      "name": "Dianas Cat Shelter",
+      "address": "14 Airport Road, Accord, NY 12404",
+      "phone": "845-626-0221",
+      "image": "https://cdn.findpawpal.com/office/441405.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rondout-valley-animals-for-adoption-312859",
+      "name": "Rondout Valley Animals for Adoption",
+      "address": "4628 U.s. 209, Accord, NY 12404",
+      "phone": "845-687-4406",
+      "image": "https://cdn.findpawpal.com/office/312859.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tuffys-place-feline-sanctuary-inc-331974",
+      "name": "Tuffy's Place Feline Sanctuary, Inc.",
+      "address": "PO Box 32, Afton, NY 13730",
+      "phone": "607-639-2340",
+      "image": "https://cdn.findpawpal.com/office/331974.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "albany-animal-control-418730",
+      "name": "Albany Animal Control",
+      "address": "526 Central Avenue, Albany, NY 12206",
+      "phone": "518-434-5091",
+      "image": "https://cdn.findpawpal.com/office/418730.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animalovers-441616",
+      "name": "Animalovers",
+      "address": "PO Box 6426, Albany, NY 12206",
+      "phone": "518-448-5468",
+      "image": "https://cdn.findpawpal.com/office/441616.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "companion-animal-placement-program-333347",
+      "name": "Companion Animal Placement Program",
+      "address": "PO Box 7144, Albany, NY 12224",
+      "phone": "518-292-0555",
+      "image": "https://cdn.findpawpal.com/office/333347.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "noahs-kingdom-humane-society-312999",
+      "name": "Noah's Kingdom Humane Society",
+      "address": "161 Washington Avenue Extension, Albany, NY 12205",
+      "phone": "518-782-7861",
+      "image": "https://cdn.findpawpal.com/office/312999.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "peppertree-rescue-inc-312623",
+      "name": "Peppertree Rescue, Inc.",
+      "address": "PO Box 2396, Albany, NY 12220",
+      "phone": "518-435-7425",
+      "image": "https://cdn.findpawpal.com/office/312623.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "whiskers-animal-benevolent-league-312988",
+      "name": "Whiskers Animal Benevolent League",
+      "address": "310 State Street, Albany, NY 12210",
+      "phone": "518-458-2287",
+      "image": "https://cdn.findpawpal.com/office/312988.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "albion-animal-control-441457",
+      "name": "Albion Animal Control",
+      "address": "13925 Highway 31, Albion, NY 14411",
+      "phone": "585-589-5527",
+      "image": "https://cdn.findpawpal.com/office/441457.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "orleans-county-animal-shelter-415548",
+      "name": "Orleans County Animal Shelter",
+      "address": "4125 Oak Orchard Road, Albion, NY 14411",
+      "phone": "585-260-7665",
+      "image": "https://cdn.findpawpal.com/office/415548.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "people-for-animal-welfare-society-315603",
+      "name": "People for Animal Welfare Society",
+      "address": "PO Box 244, Albion, NY 14411",
+      "phone": "716-589-6397",
+      "image": "https://cdn.findpawpal.com/office/315603.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "adopt-a-pet-inc-341788",
+      "name": "Adopt-A-Pet, Inc.",
+      "address": "100 Sullivan Road, Alden, NY 14004",
+      "phone": "716-633-9997",
+      "image": "https://cdn.findpawpal.com/office/341788.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "buffalo-pug-and-small-breed-rescue-inc-311782",
+      "name": "Buffalo Pug and Small Breed Rescue, Inc.",
+      "address": "12405 Clinton Street, Alden, NY 14004",
+      "phone": "716-805-8314",
+      "image": "https://cdn.findpawpal.com/office/311782.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "poodle-rescue-331916",
+      "name": "Poodle Rescue",
+      "address": "24193 Swan Hollow Road, Alexandria Bay, NY 13607",
+      "phone": "315-482-3053",
+      "image": "https://cdn.findpawpal.com/office/331916.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "guilderland-town-animal-shelter-333352",
+      "name": "Guilderland Town Animal Shelter",
+      "address": "6363 Frenchs Mill Road, Altamont, NY 12009",
+      "phone": "518-861-6855",
+      "image": "https://cdn.findpawpal.com/office/333352.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animals-require-kindness-438699",
+      "name": "Animals Require Kindness",
+      "address": "PO Box 112, Amityville, NY 11701",
+      "phone": "516-541-8284",
+      "image": "https://cdn.findpawpal.com/office/438699.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "montgomery-county-spca-332494",
+      "name": "Montgomery County SPCA",
+      "address": "1007 New York 5S, Amsterdam, NY 12010",
+      "phone": "518-842-8050",
+      "image": "https://cdn.findpawpal.com/office/332494.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spca-satellite-shelter-396813",
+      "name": "SPCA Satellite Shelter",
+      "address": "1439 Pontiac Road, Angola, NY 14006",
+      "phone": "716-549-5300",
+      "image": "https://cdn.findpawpal.com/office/396813.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hudson-valley-animal-control-440913",
+      "name": "Hudson Valley Animal Control",
+      "address": "9 Barnes Drive, Arlington, NY 12603",
+      "phone": "845-454-5144",
+      "image": "https://cdn.findpawpal.com/office/440913.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "poughkeepsie-animal-control-314572",
+      "name": "Poughkeepsie Animal Control",
+      "address": "1 Overocker Road, Arlington, NY 12603",
+      "phone": "845-485-3626",
+      "image": "https://cdn.findpawpal.com/office/314572.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "adopt-a-dog-inc-416264",
+      "name": "Adopt-A-Dog, Inc.",
+      "address": "23 Cox Avenue, Armonk, NY 10504",
+      "phone": "914-273-1492",
+      "image": "https://cdn.findpawpal.com/office/416264.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "all-creatures-org-329645",
+      "name": "All Creatures.Org",
+      "address": "PO Box 1012, Athens, NY 12015",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/329645.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greene-animal-welfare-alliance-311983",
+      "name": "Greene Animal Welfare Alliance",
+      "address": "PO Box 209, Athens, NY 12015",
+      "phone": "518-945-3218",
+      "image": "https://cdn.findpawpal.com/office/311983.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wyoming-county-spca-312908",
+      "name": "Wyoming County SPCA",
+      "address": "808 Creek Road, Attica, NY 14011",
+      "phone": "585-591-3114",
+      "image": "https://cdn.findpawpal.com/office/312908.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "finger-lakes-spca-of-cny-329214",
+      "name": "Finger Lakes SPCA of Cny",
+      "address": "41 York Street, Auburn, NY 13021",
+      "phone": "315-253-5841",
+      "image": "https://cdn.findpawpal.com/office/329214.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-livingston-county-312127",
+      "name": "Humane Society of Livingston County",
+      "address": "PO Box 233, Avon, NY 14414",
+      "phone": "585-234-2828",
+      "image": "https://cdn.findpawpal.com/office/312127.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ny-greyhound-adoptions-342811",
+      "name": "Ny Greyhound Adoptions",
+      "address": "10 Birchtree Lane, Ballston Spa, NY 12020",
+      "phone": "518-885-4960",
+      "image": "https://cdn.findpawpal.com/office/342811.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "saratoga-county-animal-shelter-440303",
+      "name": "Saratoga County Animal Shelter",
+      "address": "6010 County Farm Road, Ballston Spa, NY 12020",
+      "phone": "518-885-4113",
+      "image": "https://cdn.findpawpal.com/office/440303.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "saratoga-county-sheriff-440310",
+      "name": "Saratoga County Sheriff",
+      "address": "6010 County Farm Road, Ballston Spa, NY 12020",
+      "phone": "518-885-6761",
+      "image": "https://cdn.findpawpal.com/office/440310.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "genesee-county-animal-shelter-329634",
+      "name": "Genesee County Animal Shelter",
+      "address": "3841 West Main Street Road, Batavia, NY 14020",
+      "phone": "585-343-6410",
+      "image": "https://cdn.findpawpal.com/office/329634.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-batavia-315475",
+      "name": "Humane Society of Batavia",
+      "address": "9 Vernon Avenue, Batavia, NY 14020",
+      "phone": "716-343-7722",
+      "image": "https://cdn.findpawpal.com/office/315475.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "finger-lakes-spca-316418",
+      "name": "Finger Lakes SPCA",
+      "address": "7315 Highway 54, Bath, NY 14810",
+      "phone": "607-776-3039",
+      "image": "https://cdn.findpawpal.com/office/316418.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "muffins-pet-connection-312031",
+      "name": "Muffins Pet Connection",
+      "address": "9728 3rd Avenue, Bay Ridge, NY 11209",
+      "phone": "718-833-7988",
+      "image": "https://cdn.findpawpal.com/office/312031.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "islip-animal-shelter-313668",
+      "name": "Islip Animal Shelter",
+      "address": "210 South Denver Avenue, Bay Shore, NY 11706",
+      "phone": "516-224-5660",
+      "image": "https://cdn.findpawpal.com/office/313668.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "english-springer-spaniel-rescue-342100",
+      "name": "English Springer Spaniel Rescue",
+      "address": "163 Academy Street, Bayport, NY 11705",
+      "phone": "207-892-0404",
+      "image": "https://cdn.findpawpal.com/office/342100.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-foundation-332005",
+      "name": "Animal Rescue Foundation",
+      "address": "54 Simmons Lane, Beacon, NY 12508",
+      "phone": "845-831-5161",
+      "image": "https://cdn.findpawpal.com/office/332005.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "beacon-animal-control-332022",
+      "name": "Beacon Animal Control",
+      "address": "1 Municipal Plaza, Beacon, NY 12508",
+      "phone": "914-831-1765",
+      "image": "https://cdn.findpawpal.com/office/332022.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mid-hudson-animal-aid-434662",
+      "name": "Mid Hudson Animal Aid",
+      "address": "54 Simmons Lane, Beacon, NY 12508",
+      "phone": "845-831-4321",
+      "image": "https://cdn.findpawpal.com/office/434662.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animals-in-distress-of-nassau-400170",
+      "name": "Animals In Distress of Nassau",
+      "address": "PO Box 172, Bellmore, NY 11710",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/400170.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-animal-welfare-society-334668",
+      "name": "Paws Animal Welfare Society",
+      "address": "217 Oak Street, Bellmore, NY 11710",
+      "phone": "516-364-7297",
+      "image": "https://cdn.findpawpal.com/office/334668.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "amity-animal-shelter-317035",
+      "name": "Amity Animal Shelter",
+      "address": "1 Schuyler Street, Belmont, NY 14813",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/317035.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tri-state-animal-rescue-services-435376",
+      "name": "Tri-State Animal Rescue Services",
+      "address": "1744 Bay Ridge Avenue, Bensonhurst, NY 11204",
+      "phone": "718-621-0660",
+      "image": "https://cdn.findpawpal.com/office/435376.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "broome-county-shelter-317835",
+      "name": "Broome County Shelter",
+      "address": "110 Cutler Pond Road, Binghamton, NY 13905",
+      "phone": "607-778-2493",
+      "image": "https://cdn.findpawpal.com/office/317835.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "project-paw-inc-332246",
+      "name": "Project Paw Inc",
+      "address": "127 Bevier Street, Binghamton, NY 13904",
+      "phone": "607-724-2241",
+      "image": "https://cdn.findpawpal.com/office/332246.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "speak-animal-hospital-maresca-mindy-dvm-334862",
+      "name": "Speak Animal Hospital: Maresca Mindy DVM",
+      "address": "351 Flint Road, Binghamton, NY 13905",
+      "phone": "607-729-7368",
+      "image": "https://cdn.findpawpal.com/office/334862.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-humane-society-342875",
+      "name": "The humane society",
+      "address": "2 Jackson Street, Binghamton, NY 13903",
+      "phone": "607-724-3709",
+      "image": "https://cdn.findpawpal.com/office/342875.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "focus-on-ferals-inc-399563",
+      "name": "Focus On Ferals, Inc.",
+      "address": "PO Box 274, Brainardsville, NY 12915",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/399563.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "horse-sanctuary-panorama-416028",
+      "name": "Horse Sanctuary Panorama",
+      "address": "2848 Lynn Road, Branchport, NY 14418",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/416028.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spca-of-westchester-county-416256",
+      "name": "SPCA of Westchester County",
+      "address": "590 North State Road, Briarcliff Manor, NY 10510",
+      "phone": "914-941-2894",
+      "image": "https://cdn.findpawpal.com/office/416256.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jewish-humane-society-of-usa-329725",
+      "name": "Jewish Humane Society of Usa",
+      "address": "2955 Brighton 7th Street, Brighton Beach, NY 11235",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/329725.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fulton-county-spca-399567",
+      "name": "Fulton County SPCA",
+      "address": "486 Stevers Mills Road, Broadalbin, NY 12025",
+      "phone": "518-883-4009",
+      "image": "https://cdn.findpawpal.com/office/399567.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "project-whoopee-humane-society-329207",
+      "name": "Project Whoopee Humane Society",
+      "address": "PO Box 881, Bronx, NY 10458",
+      "phone": "718-562-3121",
+      "image": "https://cdn.findpawpal.com/office/329207.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mighty-mutts-315531",
+      "name": "Mighty Mutts",
+      "address": "PO Box 140139, Brooklyn, NY 11214",
+      "phone": "718-946-1074",
+      "image": "https://cdn.findpawpal.com/office/315531.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "services-for-the-underserved-315545",
+      "name": "Services For the Underserved",
+      "address": "394 Bristol Street, Brownsville, NY 11212",
+      "phone": "347-274-0586",
+      "image": "https://cdn.findpawpal.com/office/315545.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "angel-paws-rescue-333798",
+      "name": "Angel PAWS Rescue",
+      "address": "21 Schuster Avenue, Buffalo, NY 14225",
+      "phone": "716-683-7546",
+      "image": "https://cdn.findpawpal.com/office/333798.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "buffalo-animal-control-314866",
+      "name": "Buffalo Animal Control",
+      "address": "1835 Sheridan Drive, Buffalo, NY 14223",
+      "phone": "716-879-6656",
+      "image": "https://cdn.findpawpal.com/office/314866.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "buffalo-humane-340116",
+      "name": "Buffalo Humane",
+      "address": "90 Thatcher Avenue, Buffalo, NY 14215",
+      "phone": "716-862-9183",
+      "image": "https://cdn.findpawpal.com/office/340116.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "citizens-for-humane-animal-treatment-434837",
+      "name": "Citizens for Humane Animal Treatment",
+      "address": "455 Ellicott Street, Buffalo, NY 14203",
+      "phone": "716-847-0181",
+      "image": "https://cdn.findpawpal.com/office/434837.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-buffalo-animal-shelter-434842",
+      "name": "City of Buffalo Animal Shelter",
+      "address": "380 Oak Street, Buffalo, NY 14203",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/434842.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "r-a-r-e-reptile-adoption-rehab-and-education-inc-434997",
+      "name": "R.A.R.E. Reptile Adoption, Rehab & Education, Inc.",
+      "address": "60 Bright Street, Buffalo, NY 14206",
+      "phone": "716-895-0285",
+      "image": "https://cdn.findpawpal.com/office/434997.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "unfurrgetable-small-animal-rescue-and-adoption-414605",
+      "name": "Unfurrgetable Small Animal Rescue and Adoption",
+      "address": "PO Box 157, Buffalo, NY 14224",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/414605.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kent-animal-shelter-316668",
+      "name": "Kent Animal Shelter",
+      "address": "2259 River Road, Calverton, NY 11933",
+      "phone": "631-727-5731",
+      "image": "https://cdn.findpawpal.com/office/316668.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greyhound-friends-west-inc-329286",
+      "name": "Greyhound Friends West, Inc.",
+      "address": "PO Box 483, Canaan, NY 12029",
+      "phone": "518-781-0464",
+      "image": "https://cdn.findpawpal.com/office/329286.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ontario-humane-society-312459",
+      "name": "Ontario Humane Society",
+      "address": "2976 County House Road, Canandaigua, NY 14424",
+      "phone": "585-396-4590",
+      "image": "https://cdn.findpawpal.com/office/312459.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wanderers-rest-humane-association-inc-331930",
+      "name": "Wanderers Rest Humane Association Inc",
+      "address": "7138 Sutherland Drive, Canastota, NY 13032",
+      "phone": "315-697-2796",
+      "image": "https://cdn.findpawpal.com/office/331930.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "putnam-county-humane-soc-317628",
+      "name": "Putnam County Humane Soc",
+      "address": "68 Old Route 6, Carmel, NY 10512",
+      "phone": "845-225-7777",
+      "image": "https://cdn.findpawpal.com/office/317628.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "stockton-town-animal-control-317884",
+      "name": "Stockton Town Animal Control",
+      "address": "223 Dale Drive, Cassadaga, NY 14718",
+      "phone": "716-595-3192",
+      "image": "https://cdn.findpawpal.com/office/317884.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "castleton-on-hudson-animal-control-343381",
+      "name": "Castleton On Hudson Animal Control",
+      "address": "1930 U.s. 9, Castleton-on-Hudson, NY 12033",
+      "phone": "518-477-4837",
+      "image": "https://cdn.findpawpal.com/office/343381.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "katies-critters-342117",
+      "name": "Katie's Critters",
+      "address": "348 South Service Road, Center Moriches, NY 11934",
+      "phone": "631-553-0218",
+      "image": "https://cdn.findpawpal.com/office/342117.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "promise-farm-341561",
+      "name": "Promise Farm",
+      "address": "12 Garey Drive, Chappaqua, NY 10514",
+      "phone": "914-948-2094",
+      "image": "https://cdn.findpawpal.com/office/341561.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-savers-adoption-center-417970",
+      "name": "Pet Savers Adoption Center",
+      "address": "45 Page Avenue, Charleston, NY 10309",
+      "phone": "516-883-7575",
+      "image": "https://cdn.findpawpal.com/office/417970.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "staten-island-animal-control-332287",
+      "name": "Staten Island Animal Control",
+      "address": "3139 Veterans Road West, Charleston, NY 10309",
+      "phone": "212-788-4000",
+      "image": "https://cdn.findpawpal.com/office/332287.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "equine-advocates-340012",
+      "name": "Equine Advocates",
+      "address": "PO Box 354, Chatham, NY 12037",
+      "phone": "845-278-3095",
+      "image": "https://cdn.findpawpal.com/office/340012.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "buffalo-greyhound-adoption-inc-314923",
+      "name": "Buffalo Greyhound Adoption, Inc.",
+      "address": "PO Box 1096, Cheektowaga, NY 14227",
+      "phone": "716-873-1165",
+      "image": "https://cdn.findpawpal.com/office/314923.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "reptile-adoption-rehabilitation-education-inc-396890",
+      "name": "Reptile Adoption, Rehabilitation Education, Inc.",
+      "address": "739 Borden Road, Cheektowaga, NY 14227",
+      "phone": "716-656-7273",
+      "image": "https://cdn.findpawpal.com/office/396890.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clay-animal-control-406157",
+      "name": "Clay Animal Control",
+      "address": "4483 Route 31, Clay, NY 13041",
+      "phone": "315-652-3848",
+      "image": "https://cdn.findpawpal.com/office/406157.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "driftwood-humane-society-415299",
+      "name": "Driftwood Humane Society",
+      "address": "98 Brookside Drive, Clinton, NY 13323",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/415299.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spring-farm-cares-436091",
+      "name": "Spring Farm Cares",
+      "address": "3364 Route 12, Clinton, NY 13323",
+      "phone": "315-737-9339",
+      "image": "https://cdn.findpawpal.com/office/436091.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lazarian-society-for-animals-of-the-cong-brothers-of-st-lazarus-inc-316288",
+      "name": "Lazarian Society for Animals of the Cong Brothers Of St Lazarus Inc",
+      "address": "89 Pine Wood Road, Cochecton, NY 12726",
+      "phone": "914-932-8285",
+      "image": "https://cdn.findpawpal.com/office/316288.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cold-spring-animal-control-401019",
+      "name": "Cold Spring Animal Control",
+      "address": "61 Torchia Road, Cold Spring, NY 10516",
+      "phone": "845-661-3638",
+      "image": "https://cdn.findpawpal.com/office/401019.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hearth-side-cats-340488",
+      "name": "Hearth Side Cats",
+      "address": "5577 West Lake Road, Conesus, NY 14435",
+      "phone": "716-243-0873",
+      "image": "https://cdn.findpawpal.com/office/340488.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tusk-and-bristle-sanctuary-416886",
+      "name": "Tusk and Bristle Sanctuary",
+      "address": "432 Dutcherville Road, Constantia, NY 13044",
+      "phone": "315-623-9613",
+      "image": "https://cdn.findpawpal.com/office/416886.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "susquehanna-animal-shelter-and-better-exchange-thrift-shop-417553",
+      "name": "Susquehanna Animal Shelter and Better Exchange Thrift Shop",
+      "address": "4841 Highway 28, Cooperstown, NY 13326",
+      "phone": "607-547-8111",
+      "image": "https://cdn.findpawpal.com/office/417553.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "adirondack-save-a-stray-314070",
+      "name": "Adirondack Save A Stray",
+      "address": "4880 Highway 9N, Corinth, NY 12822",
+      "phone": "518-654-6220",
+      "image": "https://cdn.findpawpal.com/office/314070.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "blue-jay-kennels-316411",
+      "name": "Blue Jay Kennels",
+      "address": "1477 Brown Hollow Road, Corning, NY 14830",
+      "phone": "607-524-6603",
+      "image": "https://cdn.findpawpal.com/office/316411.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "corning-humane-society-330365",
+      "name": "Corning Humane Society",
+      "address": "PO Box 453, Corning, NY 14830",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/330365.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "occ-all-retriever-rescue-400827",
+      "name": "Occ All Retriever Rescue",
+      "address": "PO Box 184, Cornwall-on-Hudson, NY 12518",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/400827.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-aid-of-cortland-402749",
+      "name": "Animal Aid of Cortland",
+      "address": "2 Forrest Avenue, Cortland, NY 13045",
+      "phone": "607-753-1319",
+      "image": "https://cdn.findpawpal.com/office/402749.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cortland-county-spca-333726",
+      "name": "Cortland County SPCA",
+      "address": "879 McLean Road, Cortland, NY 13045",
+      "phone": "607-753-9386",
+      "image": "https://cdn.findpawpal.com/office/333726.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "joyful-rescues-317017",
+      "name": "Joyful Rescues",
+      "address": "1319 Turock Drive, Cuba, NY 14727",
+      "phone": "716-372-3661",
+      "image": "https://cdn.findpawpal.com/office/317017.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mcm-rottweiler-rescue-403738",
+      "name": "Mcm Rottweiler Rescue",
+      "address": "5 Thelma Place, Deer Park, NY 11729",
+      "phone": "631-242-7158",
+      "image": "https://cdn.findpawpal.com/office/403738.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-york-state-retriever-rescue-417194",
+      "name": "New York State Retriever Rescue",
+      "address": "PO Box 125, Deer Park, NY 11729",
+      "phone": "516-828-1177",
+      "image": "https://cdn.findpawpal.com/office/417194.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "heart-catskills-humane-society-437496",
+      "name": "Heart-Catskills Humane Society",
+      "address": "46610 Highway 10, Delhi, NY 13753",
+      "phone": "607-746-3080",
+      "image": "https://cdn.findpawpal.com/office/437496.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greyhounds-as-companions-inc-341350",
+      "name": "Greyhounds As Companions Inc",
+      "address": "1770 Delaware Turnpike, Delmar, NY 12054",
+      "phone": "518-768-2579",
+      "image": "https://cdn.findpawpal.com/office/341350.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lakeshore-humane-society-339949",
+      "name": "Lakeshore Humane Society",
+      "address": "431 East Chestnut Street, Dunkirk, NY 14048",
+      "phone": "716-672-1991",
+      "image": "https://cdn.findpawpal.com/office/339949.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "akita-rescue-of-wny-inc-396712",
+      "name": "Akita Rescue of Wny, Inc.",
+      "address": "PO Box 428, East Amherst, NY 14051",
+      "phone": "914-747-4252",
+      "image": "https://cdn.findpawpal.com/office/396712.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "aurora-dog-control-416661",
+      "name": "Aurora Dog Control",
+      "address": "5 South Grove Street, East Aurora, NY 14052",
+      "phone": "716-652-7944",
+      "image": "https://cdn.findpawpal.com/office/416661.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "east-aurora-animal-shelter-343289",
+      "name": "East Aurora Animal Shelter",
+      "address": "1714 Emery Road, East Aurora, NY 14052",
+      "phone": "716-208-7747",
+      "image": "https://cdn.findpawpal.com/office/343289.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-connection-414547",
+      "name": "Pet Connection",
+      "address": "12935 Williston Road, East Aurora, NY 14052",
+      "phone": "716-652-0192",
+      "image": "https://cdn.findpawpal.com/office/414547.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "creatures-great-and-small-330719",
+      "name": "Creatures Great and Small",
+      "address": "3115 Carcass Brook Road, East Branch, NY 13756",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/330719.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chipper-chirpers-434831",
+      "name": "Chipper Chirpers",
+      "address": "PO Box 95, East Concord, NY 14055",
+      "phone": "716-592-9254",
+      "image": "https://cdn.findpawpal.com/office/434831.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-fund-of-the-hamptons-403436",
+      "name": "Animal Rescue Fund of the Hamptons",
+      "address": "90 Daniels Hole Road, East Hampton, NY 11937",
+      "phone": "631-537-0400",
+      "image": "https://cdn.findpawpal.com/office/403436.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "elsas-ark-inc-315723",
+      "name": "Elsa's Ark, Inc.",
+      "address": "PO Box 2900, East Hampton, NY 11937",
+      "phone": "631-329-2900",
+      "image": "https://cdn.findpawpal.com/office/315723.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "canine-animal-rescue-effort-of-america-inc-334079",
+      "name": "Canine Animal Rescue Effort of America, Inc.",
+      "address": "PO Box 413, East Islip, NY 11730",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/334079.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "long-island-grey-hound-transfer-317725",
+      "name": "Long Island Grey Hound Transfer",
+      "address": "89 Pengon Circle, East Meadow, NY 11554",
+      "phone": "516-735-6073",
+      "image": "https://cdn.findpawpal.com/office/317725.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "last-hope-inc-334124",
+      "name": "Last Hope, Inc.",
+      "address": "202 Vernon Valley Road, East Northport, NY 11731",
+      "phone": "516-754-3474",
+      "image": "https://cdn.findpawpal.com/office/334124.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "league-for-animal-protection-342145",
+      "name": "League For Animal Protection",
+      "address": "104 Deposit Road, East Northport, NY 11731",
+      "phone": "631-757-4517",
+      "image": "https://cdn.findpawpal.com/office/342145.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "town-of-huntington-animal-shelter-331573",
+      "name": "Town of Huntington Animal Shelter",
+      "address": "106 Deposit Road, East Northport, NY 11731",
+      "phone": "516-754-2030",
+      "image": "https://cdn.findpawpal.com/office/331573.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "every-cat-counts-a-national-heritage-foundation-402694",
+      "name": "Every Cat Counts, A National Heritage Foundation",
+      "address": "12 Dogwood Lane, Elizaville, NY 12523",
+      "phone": "845-756-3907",
+      "image": "https://cdn.findpawpal.com/office/402694.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chemung-county-humane-society-and-spca-331581",
+      "name": "Chemung County Humane Society & SPCA",
+      "address": "2435 Highway 352, Elmira, NY 14903",
+      "phone": "607-732-1827",
+      "image": "https://cdn.findpawpal.com/office/331581.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "elmira-animal-shelter-316833",
+      "name": "Elmira Animal Shelter",
+      "address": "842 Linden Place, Elmira, NY 14901",
+      "phone": "607-737-5767",
+      "image": "https://cdn.findpawpal.com/office/316833.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "central-westchester-humane-society-316126",
+      "name": "Central Westchester Humane Society",
+      "address": "PO Box 131, Elmsford, NY 10523",
+      "phone": "914-592-7334",
+      "image": "https://cdn.findpawpal.com/office/316126.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "elmsford-animal-shelter-343299",
+      "name": "Elmsford Animal Shelter",
+      "address": "100 Warehouse Lane, Elmsford, NY 10523",
+      "phone": "914-592-7362",
+      "image": "https://cdn.findpawpal.com/office/343299.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "for-the-love-of-animals-inc-313069",
+      "name": "For the Love of Animals, Inc.",
+      "address": "PO Box 74, Elmsford, NY 10523",
+      "phone": "914-591-7594",
+      "image": "https://cdn.findpawpal.com/office/313069.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-care-council-317423",
+      "name": "Animal Care Council",
+      "address": "131 Washington Avenue, Endicott, NY 13760",
+      "phone": "607-786-7729",
+      "image": "https://cdn.findpawpal.com/office/317423.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "union-animal-control-317395",
+      "name": "Union Animal Control",
+      "address": "3111 East Main Street, Endicott, NY 13760",
+      "phone": "607-754-2102",
+      "image": "https://cdn.findpawpal.com/office/317395.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "central-southern-tier-reptile-and-bully-breed-rescue-317405",
+      "name": "Central Southern Tier Reptile and Bully Breed Rescue",
+      "address": "1 South Avenue B, Endwell, NY 13760",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/317405.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cst-reptile-bully-breed-rescue-317414",
+      "name": "Cst Reptile Bully Breed Rescue",
+      "address": "1 South Avenue B, Endwell, NY 13760",
+      "phone": "607-785-7225",
+      "image": "https://cdn.findpawpal.com/office/317414.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-foster-dog-chronicles-317608",
+      "name": "The Foster Dog Chronicles",
+      "address": "25650 Keyser Road, Evans Mills, NY 13637",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/317608.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brightstar-german-shepherd-rescue-333620",
+      "name": "Brightstar German Shepherd Rescue",
+      "address": "30 Wheatstone Circle, Fairport, NY 14450",
+      "phone": "585-293-0549",
+      "image": "https://cdn.findpawpal.com/office/333620.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-at-lollypop-farm-334314",
+      "name": "Humane Society at Lollypop Farm",
+      "address": "99 Victor Road, Fairport, NY 14450",
+      "phone": "716-223-1330",
+      "image": "https://cdn.findpawpal.com/office/334314.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-falconer-311638",
+      "name": "Humane Society Falconer",
+      "address": "1805 East Elmwood Avenue, Falconer, NY 14733",
+      "phone": "716-665-2209",
+      "image": "https://cdn.findpawpal.com/office/311638.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "canine-companions-for-independence-333869",
+      "name": "Canine Companions for Independence",
+      "address": "PO Box 205, Farmingdale, NY 11735",
+      "phone": "800-572-2275",
+      "image": "https://cdn.findpawpal.com/office/333869.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brookhaven-animal-shelter-441507",
+      "name": "Brookhaven Animal Shelter",
+      "address": "300 Horseblock Road, Farmingville, NY 11738",
+      "phone": "631-286-4940",
+      "image": "https://cdn.findpawpal.com/office/441507.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brookhaven-animal-shelter-and-adoption-center-399371",
+      "name": "Brookhaven Animal Shelter & Adoption Center",
+      "address": "300 Horseblock Road, Farmingville, NY 11738",
+      "phone": "631-286-4940",
+      "image": "https://cdn.findpawpal.com/office/399371.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "harleys-pet-transport-329355",
+      "name": "Harley's Pet Transport",
+      "address": "Creekside Ln, Fishkill, NY 12524",
+      "phone": "845-505-8322",
+      "image": "https://cdn.findpawpal.com/office/329355.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rainbows-bridge-399100",
+      "name": "Rainbows Bridge",
+      "address": "1167 Route 52, Fishkill, NY 12524",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/399100.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kings-highway-cat-rescue-diabella-loves-cats-315026",
+      "name": "Kings Highway Cat Rescue Diabella Loves Cats",
+      "address": "5005 Avenue M, Flatlands, NY 11234",
+      "phone": "718-444-4575",
+      "image": "https://cdn.findpawpal.com/office/315026.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "citizens-committee-for-animal-rights-334386",
+      "name": "Citizens Committee for Animal Rights",
+      "address": "PO Box 720483, Flushing, NY 11372",
+      "phone": "718-426-1896",
+      "image": "https://cdn.findpawpal.com/office/334386.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "flushing-animal-control-335307",
+      "name": "Flushing Animal Control",
+      "address": "3522 Prince Street, Flushing, NY 11354",
+      "phone": "718-886-3683",
+      "image": "https://cdn.findpawpal.com/office/335307.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "loving-touch-inc-316116",
+      "name": "Loving Touch, Inc.",
+      "address": "PO Box 650404, Flushing, NY 11365",
+      "phone": "718-224-8629",
+      "image": "https://cdn.findpawpal.com/office/316116.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "companion-animal-network-404211",
+      "name": "Companion Animal Network",
+      "address": "PO Box 750214, Forest Hills, NY 11375",
+      "phone": "718-544-7387",
+      "image": "https://cdn.findpawpal.com/office/404211.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "franklin-animal-control-401071",
+      "name": "Franklin Animal Control",
+      "address": "1046 County Road 44, Franklin, NY 13775",
+      "phone": "607-369-3498",
+      "image": "https://cdn.findpawpal.com/office/401071.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "long-island-humane-society-342703",
+      "name": "Long Island Humane Society",
+      "address": "2 Rider Place, Freeport, NY 11520",
+      "phone": "516-378-4340",
+      "image": "https://cdn.findpawpal.com/office/342703.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "gainesville-animal-control-317706",
+      "name": "Gainesville Animal Control",
+      "address": "5370 Lamont Road, Gainesville, NY 14066",
+      "phone": "585-493-2309",
+      "image": "https://cdn.findpawpal.com/office/317706.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "geneva-animal-control-317889",
+      "name": "Geneva Animal Control",
+      "address": "47 Castle Street, Geneva, NY 14456",
+      "phone": "315-789-2603",
+      "image": "https://cdn.findpawpal.com/office/317889.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "glen-cove-animal-lovers-league-416781",
+      "name": "Glen Cove Animal Lovers League",
+      "address": "40 Shore Road, Glen Cove, NY 11542",
+      "phone": "516-676-5913",
+      "image": "https://cdn.findpawpal.com/office/416781.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kaaterskill-animal-league-401459",
+      "name": "Kaaterskill Animal League",
+      "address": "PO Box 719, Glen Wild, NY 12738",
+      "phone": "914-436-8060",
+      "image": "https://cdn.findpawpal.com/office/401459.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lewis-county-humane-society-399927",
+      "name": "Lewis County Humane Society",
+      "address": "6388 Pine Grove Road, Glenfield, NY 13343",
+      "phone": "315-376-8349",
+      "image": "https://cdn.findpawpal.com/office/399927.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brennan-humane-society-414675",
+      "name": "Brennan Humane Society",
+      "address": "437 9 Mile Tree Road, Gloversville, NY 12078",
+      "phone": "518-725-0115",
+      "image": "https://cdn.findpawpal.com/office/414675.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "regional-animal-shelter-314985",
+      "name": "Regional Animal Shelter",
+      "address": "117 West Fulton Street, Gloversville, NY 12078",
+      "phone": "518-725-5956",
+      "image": "https://cdn.findpawpal.com/office/314985.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "goshen-humane-society-inc-400811",
+      "name": "Goshen Humane Society Inc",
+      "address": "44 Police Highway, Goshen, NY 10924",
+      "phone": "845-294-3984",
+      "image": "https://cdn.findpawpal.com/office/400811.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "peaceable-kingdom-animal-rescue-ltd-317391",
+      "name": "Peaceable Kingdom Animal Rescue Ltd.",
+      "address": "7491 Highway 22, Granville, NY 12832",
+      "phone": "518-642-3168",
+      "image": "https://cdn.findpawpal.com/office/317391.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "great-neck-animal-control-400953",
+      "name": "Great Neck Animal Control",
+      "address": "60 Cuttermill Road, Great Neck, NY 11021",
+      "phone": "516-441-0061",
+      "image": "https://cdn.findpawpal.com/office/400953.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "estherville-animal-shelter-342550",
+      "name": "Estherville Animal Shelter",
+      "address": "100 Russell Road, Greenfield Center, NY 12833",
+      "phone": "518-893-7451",
+      "image": "https://cdn.findpawpal.com/office/342550.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-york-all-breed-referral-330399",
+      "name": "New York All-Breed Referral",
+      "address": "PO Box 218, Greenlawn, NY 11740",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/330399.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-shelter-connection-312189",
+      "name": "The Shelter Connection",
+      "address": "PO Box 226, Greenvale, NY 11548",
+      "phone": "516-626-8948",
+      "image": "https://cdn.findpawpal.com/office/312189.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "quaintance-house-animal-protectors-league-313911",
+      "name": "Quaintance House Animal Protectors League",
+      "address": "1707 Route 40, Greenwich, NY 12834",
+      "phone": "518-692-9848",
+      "image": "https://cdn.findpawpal.com/office/313911.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "halfmoon-town-animal-control-418571",
+      "name": "Halfmoon Town Animal Control",
+      "address": "1 Halfmoon Town Plz, Halfmoon, NY 12065",
+      "phone": "518-348-0196",
+      "image": "https://cdn.findpawpal.com/office/418571.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hamburg-eden-animal-rescue-414501",
+      "name": "Hamburg Eden Animal Rescue",
+      "address": "48 Buffalo Street, Hamburg, NY 14075",
+      "phone": "716-821-1915",
+      "image": "https://cdn.findpawpal.com/office/414501.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "precious-paws-rescue-group-414552",
+      "name": "Precious PAWS Rescue Group",
+      "address": "39 Long Avenue, Hamburg, NY 14075",
+      "phone": "716-512-5521",
+      "image": "https://cdn.findpawpal.com/office/414552.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "southampton-animal-shelter-313779",
+      "name": "Southampton Animal Shelter",
+      "address": "102 Old Riverhead Road, Hampton Bays, NY 11946",
+      "phone": "631-728-7387",
+      "image": "https://cdn.findpawpal.com/office/313779.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "westchester-shore-humane-society-402393",
+      "name": "Westchester Shore Humane Society",
+      "address": "7 Harrison Avenue, Harrison, NY 10528",
+      "phone": "914-835-3332",
+      "image": "https://cdn.findpawpal.com/office/402393.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hilton-animal-control-418613",
+      "name": "Hilton Animal Control",
+      "address": "62 Gorton Avenue, Hilton, NY 14468",
+      "phone": "585-392-0995",
+      "image": "https://cdn.findpawpal.com/office/418613.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "homer-animal-shelter-418619",
+      "name": "Homer Animal Shelter",
+      "address": "5852 West Scott Road, Homer, NY 13077",
+      "phone": "607-749-2734",
+      "image": "https://cdn.findpawpal.com/office/418619.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-animal-shelter-313400",
+      "name": "Humane Society Animal Shelter",
+      "address": "7649 Industrial Park Road, Hornell, NY 14843",
+      "phone": "607-324-1270",
+      "image": "https://cdn.findpawpal.com/office/313400.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "horseheads-animal-shelter-331610",
+      "name": "Horseheads Animal Shelter",
+      "address": "150 Wygant Road, Horseheads, NY 14845",
+      "phone": "607-739-3945",
+      "image": "https://cdn.findpawpal.com/office/331610.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-shelter-schoharie-valley-401171",
+      "name": "Animal Shelter-Schoharie Valley",
+      "address": "304 Howe Cave Road, Howes Cave, NY 12092",
+      "phone": "518-296-8390",
+      "image": "https://cdn.findpawpal.com/office/401171.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animalkind-inc-400414",
+      "name": "Animalkind Inc",
+      "address": "721 Warren Street, Hudson, NY 12534",
+      "phone": "518-822-8643",
+      "image": "https://cdn.findpawpal.com/office/400414.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "columbia-greene-humane-society-398893",
+      "name": "Columbia-Greene Humane Society",
+      "address": "125 Humane Society Road, Hudson, NY 12534",
+      "phone": "518-828-6044",
+      "image": "https://cdn.findpawpal.com/office/398893.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "last-hope-animal-rescue-inc-334116",
+      "name": "Last Hope Animal Rescue, Inc.",
+      "address": "597 West Jericho Turnpike, Huntington, NY 11743",
+      "phone": "631-425-1884",
+      "image": "https://cdn.findpawpal.com/office/334116.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "little-shelter-animal-rescue-and-adoption-center-317199",
+      "name": "Little Shelter Animal Rescue & Adoption Center",
+      "address": "33 Warner Road, Huntington, NY 11743",
+      "phone": "631-368-8770",
+      "image": "https://cdn.findpawpal.com/office/317199.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dutchess-county-spca-434617",
+      "name": "Dutchess County SPCA",
+      "address": "636 Violet Avenue, Hyde Park, NY 12538",
+      "phone": "845-452-7722",
+      "image": "https://cdn.findpawpal.com/office/434617.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cat-foster-home-403044",
+      "name": "Cat Foster Home",
+      "address": "Marina Rd, Island Park, NY 11558",
+      "phone": "516-782-3274",
+      "image": "https://cdn.findpawpal.com/office/403044.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spca-of-tompkins-county-334827",
+      "name": "SPCA of Tompkins County",
+      "address": "1640 Hanshaw Road, Ithaca, NY 14850",
+      "phone": "607-257-1822",
+      "image": "https://cdn.findpawpal.com/office/334827.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tribe-of-heart-341199",
+      "name": "Tribe of Heart",
+      "address": "PO Box 149, Ithaca, NY 14851",
+      "phone": "607-275-0806",
+      "image": "https://cdn.findpawpal.com/office/341199.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kittykaretakers-of-queens-316099",
+      "name": "Kittykaretakers of Queens",
+      "address": "PO Box 310626, Jamaica, NY 11431",
+      "phone": "718-670-7221",
+      "image": "https://cdn.findpawpal.com/office/316099.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chautauqua-county-humane-society-398802",
+      "name": "Chautauqua County Humane Society",
+      "address": "2825 Strunk Road, Jamestown, NY 14701",
+      "phone": "716-664-2209",
+      "image": "https://cdn.findpawpal.com/office/398802.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jamestown-animal-control-401010",
+      "name": "Jamestown Animal Control",
+      "address": "200 East 3rd Street, Jamestown, NY 14701",
+      "phone": "716-483-7532",
+      "image": "https://cdn.findpawpal.com/office/401010.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "katskill-mountain-critters-401463",
+      "name": "Katskill Mountain Critters",
+      "address": "PO Box 804, Kauneonga Lake, NY 12749",
+      "phone": "845-866-1975",
+      "image": "https://cdn.findpawpal.com/office/401463.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dalmation-rescue-referral-in-western-new-york-315414",
+      "name": "Dalmation Rescue Referral In Western New York",
+      "address": "283 McKinley Avenue, Kenmore, NY 14217",
+      "phone": "716-877-7692",
+      "image": "https://cdn.findpawpal.com/office/315414.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kensington-kitties-332410",
+      "name": "Kensington Kitties",
+      "address": "178 Ocean Parkway, Kensington, NY 11218",
+      "phone": "347-414-5066",
+      "image": "https://cdn.findpawpal.com/office/332410.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "parrot-rescue-inc-330426",
+      "name": "Parrot Rescue, Inc.",
+      "address": "PO Box 158, Kings Park, NY 11754",
+      "phone": "631-543-2017",
+      "image": "https://cdn.findpawpal.com/office/330426.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-shelter-animals-331003",
+      "name": "Friends of Shelter Animals",
+      "address": "143 Upland Road, Kingston, NY 12401",
+      "phone": "845-334-8600",
+      "image": "https://cdn.findpawpal.com/office/331003.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-york-state-humane-association-inc-398890",
+      "name": "New York State Humane Association, Inc.",
+      "address": "PO Box 3068, Kingston, NY 12402",
+      "phone": "914-336-4514",
+      "image": "https://cdn.findpawpal.com/office/398890.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-unlimited-312839",
+      "name": "Paws Unlimited",
+      "address": "637 Murray Road, Kingston, NY 12401",
+      "phone": "845-336-7297",
+      "image": "https://cdn.findpawpal.com/office/312839.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ulster-county-spca-312847",
+      "name": "Ulster County SPCA",
+      "address": "20 Wiedy Road, Kingston, NY 12401",
+      "phone": "845-331-5377",
+      "image": "https://cdn.findpawpal.com/office/312847.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "purrs-paws-kitten-cat-shelter-405217",
+      "name": "Purrs PAWS Kitten Cat Shelter",
+      "address": "3857 Route 9L, Lake George, NY 12845",
+      "phone": "518-798-0718",
+      "image": "https://cdn.findpawpal.com/office/405217.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lancaster-dog-pound-434945",
+      "name": "Lancaster Dog Pound",
+      "address": "3789 Walden Avenue, Lancaster, NY 14086",
+      "phone": "716-683-5129",
+      "image": "https://cdn.findpawpal.com/office/434945.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "colonie-animal-control-330698",
+      "name": "Colonie Animal Control",
+      "address": "312 Wolf Road, Latham, NY 12110",
+      "phone": "518-783-2711",
+      "image": "https://cdn.findpawpal.com/office/330698.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mohawk-and-hudson-humane-society-333398",
+      "name": "Mohawk and Hudson Humane Society",
+      "address": "557 Columbia Street Extension, Latham, NY 12110",
+      "phone": "518-573-7445",
+      "image": "https://cdn.findpawpal.com/office/333398.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "grateful-greyhounds-314217",
+      "name": "Grateful Greyhounds",
+      "address": "20 Penny Lane, Levittown, NY 11756",
+      "phone": "516-735-5070",
+      "image": "https://cdn.findpawpal.com/office/314217.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "liberty-spca-330499",
+      "name": "Liberty SPCA",
+      "address": "98 Dwyer Avenue, Liberty, NY 12754",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/330499.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "league-for-animal-protection-417147",
+      "name": "League for Animal Protection",
+      "address": "200 Montauk Highway, Lindenhurst, NY 11757",
+      "phone": "516-225-5131",
+      "image": "https://cdn.findpawpal.com/office/417147.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lisle-animal-shelter-317386",
+      "name": "Lisle Animal Shelter",
+      "address": "1040 Burlington, Lisle, NY 13797",
+      "phone": "630-271-4200",
+      "image": "https://cdn.findpawpal.com/office/317386.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humanecny-315432",
+      "name": "HumaneCNY",
+      "address": "4915 West Taft Road, Liverpool, NY 13088",
+      "phone": "315-457-8762",
+      "image": "https://cdn.findpawpal.com/office/315432.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kitty-corner-of-cny-inc-315924",
+      "name": "Kitty Corner of Cny, Inc.",
+      "address": "PO Box 182, Liverpool, NY 13088",
+      "phone": "315-457-4420",
+      "image": "https://cdn.findpawpal.com/office/315924.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "diamonds-in-the-ruff-animal-rescue-inc-334611",
+      "name": "Diamonds In The Ruff Animal Rescue, Inc.",
+      "address": "PO Box 332, Lockport, NY 14095",
+      "phone": "716-799-5719",
+      "image": "https://cdn.findpawpal.com/office/334611.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lockport-animal-control-441018",
+      "name": "Lockport Animal Control",
+      "address": "5180 Feigle Road, Lockport, NY 14094",
+      "phone": "716-574-0359",
+      "image": "https://cdn.findpawpal.com/office/441018.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-long-beach-animal-shelter-333885",
+      "name": "City of Long Beach Animal Shelter",
+      "address": "770 Park Place, Long Beach, NY 11561",
+      "phone": "516-431-5699",
+      "image": "https://cdn.findpawpal.com/office/333885.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "long-beach-humane-society-400108",
+      "name": "Long Beach Humane Society",
+      "address": "PO Box 356, Long Beach, NY 11561",
+      "phone": "516-889-7387",
+      "image": "https://cdn.findpawpal.com/office/400108.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "north-country-animal-shelter-332267",
+      "name": "North Country Animal Shelter",
+      "address": "194 Bare Hill Road, Malone, NY 12953",
+      "phone": "518-483-8079",
+      "image": "https://cdn.findpawpal.com/office/332267.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mamaroneck-animal-control-441026",
+      "name": "Mamaroneck Animal Control",
+      "address": "141 Halstead Avenue, Mamaroneck, NY 10543",
+      "phone": "914-381-6177",
+      "image": "https://cdn.findpawpal.com/office/441026.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-york-horse-rescue-401294",
+      "name": "New York Horse Rescue",
+      "address": "PO Box 435, Manorville, NY 11949",
+      "phone": "631-874-9420",
+      "image": "https://cdn.findpawpal.com/office/401294.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "riverhead-shelter-volunteer-program-403798",
+      "name": "Riverhead Shelter Volunteer Program",
+      "address": "Old River Rd, Manorville, NY 11949",
+      "phone": "516-369-1544",
+      "image": "https://cdn.findpawpal.com/office/403798.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "feathered-friends-parrot-adoption-services-inc-404267",
+      "name": "Feathered Friends Parrot Adoption Services, Inc.",
+      "address": "PO Box 780344, Maspeth, NY 11378",
+      "phone": "917-865-5042",
+      "image": "https://cdn.findpawpal.com/office/404267.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "massapequa-park-animal-control-400851",
+      "name": "Massapequa Park Animal Control",
+      "address": "4940 Merrick Road, Massapequa Park, NY 11762",
+      "phone": "516-324-4150",
+      "image": "https://cdn.findpawpal.com/office/400851.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "massena-humane-society-inc-330362",
+      "name": "Massena Humane Society Inc",
+      "address": "177 Massena South Racquette River Road, Massena, NY 13662",
+      "phone": "315-764-1330",
+      "image": "https://cdn.findpawpal.com/office/330362.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "manorville-humane-society-331495",
+      "name": "Manorville Humane Society",
+      "address": "159 Woodland Drive, Mastic Beach, NY 11951",
+      "phone": "631-878-2919",
+      "image": "https://cdn.findpawpal.com/office/331495.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "maybrook-animal-control-441075",
+      "name": "Maybrook Animal Control",
+      "address": "CONKLIN Ln, Maybrook, NY 12543",
+      "phone": "845-427-5806",
+      "image": "https://cdn.findpawpal.com/office/441075.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mc-donough-town-animal-control-317669",
+      "name": "Mc Donough Town Animal Control",
+      "address": "1289 New York 220, McDonough, NY 13801",
+      "phone": "607-647-5571",
+      "image": "https://cdn.findpawpal.com/office/317669.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "capital-district-humane-association-438651",
+      "name": "Capital District Humane Association",
+      "address": "89 West Street, Mechanicville, NY 12118",
+      "phone": "518-664-3450",
+      "image": "https://cdn.findpawpal.com/office/438651.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-n-claws-animal-rescue-of-wny-330266",
+      "name": "PAWS N Claws Animal Rescue of Wny",
+      "address": "PO Box 405, Medina, NY 14103",
+      "phone": "585-234-1608",
+      "image": "https://cdn.findpawpal.com/office/330266.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jack-reef-kennels-shelter-436199",
+      "name": "Jack Reef Kennels Shelter",
+      "address": "7061 Plainville Road, Memphis, NY 13112",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/436199.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mohawk-hudson-humane-society-341370",
+      "name": "Mohawk Hudson Humane Society",
+      "address": "3 Oakland Avenue, Menands, NY 12204",
+      "phone": "518-434-8128",
+      "image": "https://cdn.findpawpal.com/office/341370.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "long-lived-reptiles-turtle-homes-334643",
+      "name": "Long Lived Reptiles Turtle Homes",
+      "address": "PO Box 297, Merrick, NY 11566",
+      "phone": "516-623-3079",
+      "image": "https://cdn.findpawpal.com/office/334643.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "liverpool-animal-protection-society-438431",
+      "name": "Liverpool Animal Protection Society",
+      "address": "PO Box 64, Mexico, NY 13114",
+      "phone": "315-963-4146",
+      "image": "https://cdn.findpawpal.com/office/438431.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-across-oswego-county-416855",
+      "name": "PAWS Across Oswego County",
+      "address": "329 Highway 104B, Mexico, NY 13114",
+      "phone": "315-963-7251",
+      "image": "https://cdn.findpawpal.com/office/416855.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-middletown-404511",
+      "name": "Humane Society of Middletown",
+      "address": "142 Bloomingburg Road, Middletown, NY 10940",
+      "phone": "845-361-1861",
+      "image": "https://cdn.findpawpal.com/office/404511.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "middletown-animal-control-332496",
+      "name": "Middletown Animal Control",
+      "address": "600 New York 211, Middletown, NY 10941",
+      "phone": "845-692-7838",
+      "image": "https://cdn.findpawpal.com/office/332496.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pets-alive-inc-400888",
+      "name": "Pets Alive Inc",
+      "address": "363 Derby Road, Middletown, NY 10940",
+      "phone": "845-386-9738",
+      "image": "https://cdn.findpawpal.com/office/400888.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "plattekill-dog-shelter-437006",
+      "name": "Plattekill Dog Shelter",
+      "address": "1915 U.s. 44, Modena, NY 12548",
+      "phone": "845-883-6557",
+      "image": "https://cdn.findpawpal.com/office/437006.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "herkimer-county-humane-society-417560",
+      "name": "Herkimer County Humane Society",
+      "address": "514 Highway 5S, Mohawk, NY 13407",
+      "phone": "315-866-3255",
+      "image": "https://cdn.findpawpal.com/office/417560.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "monroe-animal-shelter-418514",
+      "name": "Monroe Animal Shelter",
+      "address": "103 Mine Road, Monroe, NY 10950",
+      "phone": "845-782-0302",
+      "image": "https://cdn.findpawpal.com/office/418514.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "monroe-humane-society-397794",
+      "name": "Monroe Humane Society",
+      "address": "PO Box 675, Monroe, NY 10949",
+      "phone": "914-783-3734",
+      "image": "https://cdn.findpawpal.com/office/397794.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-walden-400820",
+      "name": "Humane Society of Walden",
+      "address": "2489 Albany Post Road, Montgomery, NY 12549",
+      "phone": "845-778-5115",
+      "image": "https://cdn.findpawpal.com/office/400820.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "schuyler-humane-society-415653",
+      "name": "Schuyler Humane Society",
+      "address": "PO Box 427, Montour Falls, NY 14865",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/415653.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mt-vernon-animal-shelter-398596",
+      "name": "Mt Vernon Animal Shelter",
+      "address": "600 Garden Avenue, Mount Vernon, NY 10550",
+      "phone": "914-665-2444",
+      "image": "https://cdn.findpawpal.com/office/398596.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lakeroad-ferret-farm-rescue-315947",
+      "name": "Lakeroad Ferret Farm Rescue",
+      "address": "7835 Route 21 South, Naples, NY 14512",
+      "phone": "716-374-8393",
+      "image": "https://cdn.findpawpal.com/office/315947.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "nassau-town-animal-control-400906",
+      "name": "Nassau Town Animal Control",
+      "address": "1 Albany Avenue, Nassau, NY 12123",
+      "phone": "518-766-2944",
+      "image": "https://cdn.findpawpal.com/office/400906.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "house-rabbit-society-414958",
+      "name": "House Rabbit Society",
+      "address": "PO Box 683, New Hartford, NY 13413",
+      "phone": "315-797-9835",
+      "image": "https://cdn.findpawpal.com/office/414958.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-rochelle-humane-society-398640",
+      "name": "New Rochelle Humane Society",
+      "address": "70 Portman Road, New Rochelle, NY 10801",
+      "phone": "914-632-2925",
+      "image": "https://cdn.findpawpal.com/office/398640.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "aspca-416591",
+      "name": "ASPCA",
+      "address": "424 East 92nd Street, New York, NY 10128",
+      "phone": "212-876-7700",
+      "image": "https://cdn.findpawpal.com/office/416591.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "all-sentient-beings-inc-438144",
+      "name": "All Sentient Beings, Inc.",
+      "address": "454 West 46th Street, New York, NY 10036",
+      "phone": "212-642-8219",
+      "image": "https://cdn.findpawpal.com/office/438144.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-care-and-control-of-new-york-city-329989",
+      "name": "Animal Care and Control of New York City",
+      "address": "11 Park Place, New York, NY 10007",
+      "phone": "212-788-4000",
+      "image": "https://cdn.findpawpal.com/office/329989.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-haven-334414",
+      "name": "Animal Haven",
+      "address": "251 Centre Street, New York, NY 10013",
+      "phone": "212-274-8511",
+      "image": "https://cdn.findpawpal.com/office/334414.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "anjellicle-cats-rescue-331076",
+      "name": "Anjellicle Cats Rescue",
+      "address": "1280 Lexington Avenue, New York, NY 10028",
+      "phone": "646-457-2130",
+      "image": "https://cdn.findpawpal.com/office/331076.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "beauty-without-cruelty-331081",
+      "name": "Beauty Without Cruelty",
+      "address": "175 West 12th Street, New York, NY 10011",
+      "phone": "212-989-8073",
+      "image": "https://cdn.findpawpal.com/office/331081.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bideawee-438136",
+      "name": "Bideawee",
+      "address": "410 East 38th Street, New York, NY 10016",
+      "phone": "866-262-8133",
+      "image": "https://cdn.findpawpal.com/office/438136.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brooklyn-city-animal-shelter-332694",
+      "name": "Brooklyn City Animal Shelter",
+      "address": "2336 Linden Boulevard, New York, NY 11208",
+      "phone": "718-649-8600",
+      "image": "https://cdn.findpawpal.com/office/332694.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "carriage-horse-action-435782",
+      "name": "Carriage Horse Action",
+      "address": "PO Box 1280, New York, NY 10008",
+      "phone": "212-724-4414",
+      "image": "https://cdn.findpawpal.com/office/435782.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-critters-inc-435823",
+      "name": "City Critters, Inc.",
+      "address": "PO Box 1345, New York, NY 10013",
+      "phone": "212-252-3183",
+      "image": "https://cdn.findpawpal.com/office/435823.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "coalition-for-new-york-city-animals-415248",
+      "name": "Coalition for New York City Animals",
+      "address": "PO Box 20247, New York, NY 10025",
+      "phone": "212-865-0561",
+      "image": "https://cdn.findpawpal.com/office/415248.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "farm-sanctuary-315274",
+      "name": "Farm Sanctuary",
+      "address": "PO Box 845, New York, NY 10040",
+      "phone": "212-567-4556",
+      "image": "https://cdn.findpawpal.com/office/315274.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-animals-315829",
+      "name": "Friends of Animals",
+      "address": "1841 Broadway, New York, NY 10023",
+      "phone": "212-247-8120",
+      "image": "https://cdn.findpawpal.com/office/315829.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "heart-and-hand-society-inc-312327",
+      "name": "Heart and Hand Society, Inc.",
+      "address": "319 East 50th Street, New York, NY 10022",
+      "phone": "212-421-7920",
+      "image": "https://cdn.findpawpal.com/office/312327.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-new-york-332624",
+      "name": "Humane Society of New York",
+      "address": "306 East 59th Street, New York, NY 10022",
+      "phone": "212-752-4840",
+      "image": "https://cdn.findpawpal.com/office/332624.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kittykind-inc-400465",
+      "name": "Kittykind, Inc.",
+      "address": "860 Broadway, New York, NY 10003",
+      "phone": "212-726-2652",
+      "image": "https://cdn.findpawpal.com/office/400465.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "manxalot-rescue-417964",
+      "name": "Manxalot Rescue",
+      "address": "576 Richmond Road, New York, NY 10304",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/417964.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mayors-alliance-for-nycs-animals-332701",
+      "name": "Mayor's Alliance for Nyc's Animals",
+      "address": "244 5th Avenue, New York, NY 10001",
+      "phone": "212-252-2350",
+      "image": "https://cdn.findpawpal.com/office/332701.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "neighborhood-cats-inc-312271",
+      "name": "Neighborhood Cats, Inc.",
+      "address": "2565 Broadway, New York, NY 10025",
+      "phone": "212-662-5761",
+      "image": "https://cdn.findpawpal.com/office/312271.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-york-cat-gang-340715",
+      "name": "New York Cat Gang",
+      "address": "353 West 47th Street, New York, NY 10036",
+      "phone": "212-664-0561",
+      "image": "https://cdn.findpawpal.com/office/340715.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "nyc-siamese-rescue-332636",
+      "name": "Nyc Siamese Rescue",
+      "address": "PO Box 1602, New York, NY 10163",
+      "phone": "646-349-3644",
+      "image": "https://cdn.findpawpal.com/office/332636.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-project-alliance-329980",
+      "name": "Pet Project Alliance",
+      "address": "PO Box 1926, New York, NY 10159",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/329980.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sentient-creatures-inc-332572",
+      "name": "Sentient Creatures, Inc.",
+      "address": "PO Box 765, New York, NY 10025",
+      "phone": "212-865-5998",
+      "image": "https://cdn.findpawpal.com/office/332572.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "stray-from-the-heart-inc-435892",
+      "name": "Stray From The Heart, Inc.",
+      "address": "PO Box 11, New York, NY 10024",
+      "phone": "212-726-3647",
+      "image": "https://cdn.findpawpal.com/office/435892.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tails-in-need-340724",
+      "name": "Tails In Need",
+      "address": "357 East 57th Street, New York, NY 10022",
+      "phone": "212-223-3893",
+      "image": "https://cdn.findpawpal.com/office/340724.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-caring-corps-397384",
+      "name": "The Caring Corps",
+      "address": "PO Box 319, New York, NY 10028",
+      "phone": "212-737-9358",
+      "image": "https://cdn.findpawpal.com/office/397384.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "westside-animal-rescue-329970",
+      "name": "Westside Animal Rescue",
+      "address": "PO Box 2313, New York, NY 10108",
+      "phone": "212-757-2924",
+      "image": "https://cdn.findpawpal.com/office/329970.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "horse-education-and-rescue-alliance-of-the-united-states-341842",
+      "name": "Horse Education and Rescue Alliance of the United States",
+      "address": "PO Box 395, Newark Valley, NY 13811",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/341842.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dwight-memorial-animal-shelter-317550",
+      "name": "Dwight Memorial Animal Shelter",
+      "address": "564 Little Britain Road, Newburgh, NY 12550",
+      "phone": "914-564-6810",
+      "image": "https://cdn.findpawpal.com/office/317550.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "newburgh-scats-inc-312555",
+      "name": "Newburgh Scats, Inc.",
+      "address": "PO Box 7403, Newburgh, NY 12550",
+      "phone": "845-236-4574",
+      "image": "https://cdn.findpawpal.com/office/312555.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "town-of-newburgh-animal-control-dept-and-dog-shelter-400998",
+      "name": "Town of Newburgh Animal Control Dept and Dog Shelter",
+      "address": "569 Gidney Avenue, Newburgh, NY 12550",
+      "phone": "845-581-3344",
+      "image": "https://cdn.findpawpal.com/office/400998.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "save-a-pet-of-niagara-county-inc-334626",
+      "name": "Save A Pet of Niagara County, Inc.",
+      "address": "PO Box 114, Newfane, NY 14108",
+      "phone": "716-625-9420",
+      "image": "https://cdn.findpawpal.com/office/334626.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "niagara-county-spca-400141",
+      "name": "Niagara County SPCA",
+      "address": "2100 Lockport Road, Niagara Falls, NY 14304",
+      "phone": "800-536-7722",
+      "image": "https://cdn.findpawpal.com/office/400141.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hope-for-cats-inc-414505",
+      "name": "Hope for Cats, Inc.",
+      "address": "PO Box 243, North Boston, NY 14110",
+      "phone": "716-997-8106",
+      "image": "https://cdn.findpawpal.com/office/414505.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ten-lives-club-396897",
+      "name": "Ten Lives Club",
+      "address": "PO Box 253, North Boston, NY 14110",
+      "phone": "716-646-5577",
+      "image": "https://cdn.findpawpal.com/office/396897.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "citizens-outraged-at-animal-torture-and-suffering-401408",
+      "name": "Citizens Outraged at Animal Torture and Suffering",
+      "address": "130 Dyker Road, North Branch, NY 12766",
+      "phone": "914-582-5161",
+      "image": "https://cdn.findpawpal.com/office/401408.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "all-bassets-cherished-basset-hound-rescue-316853",
+      "name": "All Bassets Cherished Basset Hound Rescue",
+      "address": "PO Box 463, North Collins, NY 14111",
+      "phone": "585-392-0193",
+      "image": "https://cdn.findpawpal.com/office/316853.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "north-syracuse-animal-control-418550",
+      "name": "North Syracuse Animal Control",
+      "address": "600 South Bay Road, North Syracuse, NY 13212",
+      "phone": "315-458-5749",
+      "image": "https://cdn.findpawpal.com/office/418550.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "angels-gate-hospice-and-rehabilitation-center-for-animals-399351",
+      "name": "Angel's Gate Hospice & Rehabilitation Center for Animals",
+      "address": "18 Josephine Lane, Northport, NY 11768",
+      "phone": "631-269-7641",
+      "image": "https://cdn.findpawpal.com/office/399351.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chenango-spca-331964",
+      "name": "Chenango SPCA",
+      "address": "6160 County Road 32, Norwich, NY 13815",
+      "phone": "607-334-9724",
+      "image": "https://cdn.findpawpal.com/office/331964.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "st-lawrence-county-spca-315678",
+      "name": "St. Lawrence County SPCA",
+      "address": "6718 Highway 68, Ogdensburg, NY 13669",
+      "phone": "315-393-5191",
+      "image": "https://cdn.findpawpal.com/office/315678.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "save-the-horse-inc-317731",
+      "name": "Save The Horse, Inc.",
+      "address": "499 Winding Road, Old Bethpage, NY 11804",
+      "phone": "516-531-8007",
+      "image": "https://cdn.findpawpal.com/office/317731.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spca-314618",
+      "name": "Spca",
+      "address": "2944 Route 16, Olean, NY 14760",
+      "phone": "716-372-8492",
+      "image": "https://cdn.findpawpal.com/office/314618.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oneonta-animal-control-335010",
+      "name": "Oneonta Animal Control",
+      "address": "55 Silas Lane, Oneonta, NY 13820",
+      "phone": "607-432-6365",
+      "image": "https://cdn.findpawpal.com/office/335010.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-link-org-westchester-and-putnam-counties-330913",
+      "name": "Animal-Link.Org Westchester and Putnam Counties",
+      "address": "7 Lincoln Place, Ossining, NY 10562",
+      "phone": "914-941-8594",
+      "image": "https://cdn.findpawpal.com/office/330913.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-york-state-animal-control-association-316504",
+      "name": "New York State Animal Control Association",
+      "address": "PO Box 885, Oswego, NY 13126",
+      "phone": "315-342-7027",
+      "image": "https://cdn.findpawpal.com/office/316504.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oswego-city-animal-shelter-416799",
+      "name": "Oswego City Animal Shelter",
+      "address": "621 East Seneca Street, Oswego, NY 13126",
+      "phone": "315-343-1803",
+      "image": "https://cdn.findpawpal.com/office/416799.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oswego-county-animal-welfare-league-333940",
+      "name": "Oswego County Animal Welfare League",
+      "address": "PO Box 4, Oswego, NY 13126",
+      "phone": "315-625-4895",
+      "image": "https://cdn.findpawpal.com/office/333940.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oswego-county-humane-society-403212",
+      "name": "Oswego County Humane Society",
+      "address": "157 East 1st Street, Oswego, NY 13126",
+      "phone": "315-207-1070",
+      "image": "https://cdn.findpawpal.com/office/403212.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "make-peace-with-animals-334733",
+      "name": "Make Peace With Animals",
+      "address": "529 Centre Island Road, Oyster Bay, NY 11771",
+      "phone": "516-922-1852",
+      "image": "https://cdn.findpawpal.com/office/334733.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "longshot-fund-340985",
+      "name": "Longshot Fund",
+      "address": "PO Box 170129, Ozone Park, NY 11417",
+      "phone": "718-845-0779",
+      "image": "https://cdn.findpawpal.com/office/340985.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ozone-park-animal-control-405578",
+      "name": "Ozone Park Animal Control",
+      "address": "9714 Liberty Avenue, Ozone Park, NY 11417",
+      "phone": "347-722-5939",
+      "image": "https://cdn.findpawpal.com/office/405578.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "palmyra-town-animal-control-405620",
+      "name": "Palmyra Town Animal Control",
+      "address": "201 East Main Street, Palmyra, NY 14522",
+      "phone": "315-597-1127",
+      "image": "https://cdn.findpawpal.com/office/405620.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "good-dog-foundation-397196",
+      "name": "Good Dog Foundation",
+      "address": "607 6th Street, Park Slope, NY 11215",
+      "phone": "888-859-9992",
+      "image": "https://cdn.findpawpal.com/office/397196.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-brooklyn-animal-foster-network-315576",
+      "name": "The Brooklyn Animal Foster Network",
+      "address": "11 Montgomery Place, Park Slope, NY 11215",
+      "phone": "718-789-6865",
+      "image": "https://cdn.findpawpal.com/office/315576.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "noahs-animal-rescue-corps-330419",
+      "name": "Noah's Animal Rescue Corps",
+      "address": "PO Box 2125, Patchogue, NY 11772",
+      "phone": "516-286-2703",
+      "image": "https://cdn.findpawpal.com/office/330419.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pawsafe-animal-control-418318",
+      "name": "Pawsafe Animal Control",
+      "address": "1253 New York 311, Patterson, NY 12563",
+      "phone": "434-460-2558",
+      "image": "https://cdn.findpawpal.com/office/418318.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "peconic-animal-control-400713",
+      "name": "Peconic Animal Control",
+      "address": "165 Peconic Lane, Peconic, NY 11958",
+      "phone": "631-765-1811",
+      "image": "https://cdn.findpawpal.com/office/400713.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "little-orphan-animals-415963",
+      "name": "Little Orphan Animals",
+      "address": "PO Box 268, Peekskill, NY 10566",
+      "phone": "914-734-2989",
+      "image": "https://cdn.findpawpal.com/office/415963.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "peekskill-animal-control-316691",
+      "name": "Peekskill Animal Control",
+      "address": "2 Nelson Avenue, Peekskill, NY 10566",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/316691.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-humane-society-of-yates-county-312912",
+      "name": "The Humane Society of Yates County",
+      "address": "1216 Route 14A, Penn Yan, NY 14527",
+      "phone": "315-536-0800",
+      "image": "https://cdn.findpawpal.com/office/312912.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "yates-county-humane-society-401867",
+      "name": "Yates County Humane Society",
+      "address": "173 South Avenue, Penn Yan, NY 14527",
+      "phone": "315-595-2201",
+      "image": "https://cdn.findpawpal.com/office/401867.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "yates-county-sheriffs-office-312919",
+      "name": "Yates County Sheriff's Office",
+      "address": "227 Main Street, Penn Yan, NY 14527",
+      "phone": "315-536-4438",
+      "image": "https://cdn.findpawpal.com/office/312919.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "going-to-the-dogs-rescue-315910",
+      "name": "Going to The Dogs Rescue",
+      "address": "PO Box 267, Perry, NY 14530",
+      "phone": "585-300-6897",
+      "image": "https://cdn.findpawpal.com/office/315910.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "elmore-spca-inc-329283",
+      "name": "Elmore SPCA Inc",
+      "address": "556 Telegraph Road, Peru, NY 12972",
+      "phone": "518-643-2451",
+      "image": "https://cdn.findpawpal.com/office/329283.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "berkshire-bird-paradise-438657",
+      "name": "Berkshire Bird Paradise",
+      "address": "43 Red Pond Road, Petersburg, NY 12138",
+      "phone": "518-279-3801",
+      "image": "https://cdn.findpawpal.com/office/438657.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "equine-rescue-resource-inc-316326",
+      "name": "Equine Rescue Resource, Inc.",
+      "address": "PO Box 17, Pine Bush, NY 12566",
+      "phone": "845-744-1728",
+      "image": "https://cdn.findpawpal.com/office/316326.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pittsford-animal-control-314559",
+      "name": "Pittsford Animal Control",
+      "address": "11 South Main Street, Pittsford, NY 14534",
+      "phone": "585-248-6240",
+      "image": "https://cdn.findpawpal.com/office/314559.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "long-island-golden-retriever-rescue-inc-404867",
+      "name": "Long Island Golden Retriever Rescue, Inc.",
+      "address": "PO Box 566, Plainview, NY 11803",
+      "phone": "516-578-3803",
+      "image": "https://cdn.findpawpal.com/office/404867.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "adirondack-humane-society-inc-314678",
+      "name": "Adirondack Humane Society Inc",
+      "address": "134 Idaho Avenue, Plattsburgh, NY 12903",
+      "phone": "518-561-7876",
+      "image": "https://cdn.findpawpal.com/office/314678.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hudson-valley-humane-society-416899",
+      "name": "Hudson Valley Humane Society",
+      "address": "200 Quaker Road, Pomona, NY 10970",
+      "phone": "845-354-3124",
+      "image": "https://cdn.findpawpal.com/office/416899.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rockland-county-animal-shelter-416893",
+      "name": "Rockland County Animal Shelter",
+      "address": "65 Firemens Memorial Drive, Pomona, NY 10970",
+      "phone": "845-354-7900",
+      "image": "https://cdn.findpawpal.com/office/416893.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "save-a-pet-342208",
+      "name": "Save-A-Pet",
+      "address": "608 Patchogue Road, Port Jefferson Station, NY 11776",
+      "phone": "631-473-6333",
+      "image": "https://cdn.findpawpal.com/office/342208.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-deerpark-415432",
+      "name": "Humane Society Deerpark",
+      "address": "202 U.s. 209, Port Jervis, NY 12771",
+      "phone": "845-856-3677",
+      "image": "https://cdn.findpawpal.com/office/415432.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-savers-foundation-334699",
+      "name": "Pet Savers Foundation",
+      "address": "59 South Bayles Avenue, Port Washington, NY 11050",
+      "phone": "516-944-5025",
+      "image": "https://cdn.findpawpal.com/office/334699.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "port-washington-animal-control-318037",
+      "name": "Port Washington Animal Control",
+      "address": "25 Davis Avenue, Port Washington, NY 11050",
+      "phone": "516-883-7575",
+      "image": "https://cdn.findpawpal.com/office/318037.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "town-of-north-hempstead-animal-shelter-342663",
+      "name": "Town of North Hempstead Animal Shelter",
+      "address": "75 Marino Avenue, Port Washington, NY 11050",
+      "phone": "516-767-4615",
+      "image": "https://cdn.findpawpal.com/office/342663.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "beaks-and-noses-inc-331874",
+      "name": "Beaks and Noses, Inc.",
+      "address": "56 Depot Road, Porter Corners, NY 12859",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/331874.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "potsdam-animal-shelter-415659",
+      "name": "Potsdam Animal Shelter",
+      "address": "17 Madrid Avenue, Potsdam, NY 13676",
+      "phone": "315-265-3199",
+      "image": "https://cdn.findpawpal.com/office/415659.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "poughkeepsie-animal-control-434669",
+      "name": "Poughkeepsie Animal Control",
+      "address": "PO Box 863, Poughkeepsie, NY 12602",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/434669.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-rsq-inc-414376",
+      "name": "Pet RSQ, Inc.",
+      "address": "13 Hillside Road, Poughquag, NY 12570",
+      "phone": "914-724-3011",
+      "image": "https://cdn.findpawpal.com/office/414376.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spca-of-upstate-new-york-400430",
+      "name": "SPCA of Upstate New York",
+      "address": "588 Queensbury Avenue, Queensbury, NY 12804",
+      "phone": "518-798-3500",
+      "image": "https://cdn.findpawpal.com/office/400430.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "american-foundation-for-animal-rescue-404217",
+      "name": "American Foundation for Animal Rescue",
+      "address": "89-10 Eliot Avenue, Rego Park, NY 11374",
+      "phone": "718-205-0200",
+      "image": "https://cdn.findpawpal.com/office/404217.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rego-park-animal-shelter-318074",
+      "name": "Rego Park Animal Shelter",
+      "address": "9229 Queens Boulevard, Rego Park, NY 11374",
+      "phone": "212-504-4115",
+      "image": "https://cdn.findpawpal.com/office/318074.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "united-friends-of-homeless-316497",
+      "name": "United Friends of Homeless",
+      "address": "432 Centerville Road, Richland, NY 13144",
+      "phone": "315-298-4733",
+      "image": "https://cdn.findpawpal.com/office/316497.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "priceless-parrot-preserve-inc-312728",
+      "name": "Priceless Parrot Preserve, Inc.",
+      "address": "PO Box 691, Ridge, NY 11961",
+      "phone": "631-924-8725",
+      "image": "https://cdn.findpawpal.com/office/312728.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bobbi-and-the-strays-404157",
+      "name": "Bobbi & the Strays",
+      "address": "71-3 80th Street, Ridgewood, NY 11385",
+      "phone": "718-326-6070",
+      "image": "https://cdn.findpawpal.com/office/404157.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-team-inc-313209",
+      "name": "Animal Rescue Team, Inc.",
+      "address": "82 Bloomfield Place, Rochester, NY 14620",
+      "phone": "716-254-4459",
+      "image": "https://cdn.findpawpal.com/office/313209.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-service-league-333636",
+      "name": "Animal Service League",
+      "address": "10 Dubelbeiss Lane, Rochester, NY 14622",
+      "phone": "585-342-6099",
+      "image": "https://cdn.findpawpal.com/office/333636.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brighton-animal-control-division-330931",
+      "name": "Brighton Animal Control Division",
+      "address": "2300 Elmwood Avenue, Rochester, NY 14618",
+      "phone": "585-784-5120",
+      "image": "https://cdn.findpawpal.com/office/330931.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "genesee-valley-canine-welfare-333630",
+      "name": "Genesee Valley Canine Welfare",
+      "address": "53 Oakcrest Drive, Rochester, NY 14617",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/333630.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greece-residents-assisting-stray-pets-399716",
+      "name": "Greece Residents Assisting Stray Pets",
+      "address": "PO Box 26741, Rochester, NY 14626",
+      "phone": "585-234-1953",
+      "image": "https://cdn.findpawpal.com/office/399716.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greece-town-animal-control-332421",
+      "name": "Greece Town Animal Control",
+      "address": "500 Maiden Lane, Rochester, NY 14616",
+      "phone": "585-581-4025",
+      "image": "https://cdn.findpawpal.com/office/332421.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-adoption-network-316897",
+      "name": "Pet Adoption Network",
+      "address": "4261 Culver Road, Rochester, NY 14622",
+      "phone": "585-338-9175",
+      "image": "https://cdn.findpawpal.com/office/316897.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rescued-treasures-pet-adoptions-342319",
+      "name": "Rescued Treasures Pet Adoptions",
+      "address": "3177 Latta Road, Rochester, NY 14612",
+      "phone": "585-210-2509",
+      "image": "https://cdn.findpawpal.com/office/342319.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rochester-animal-control-318091",
+      "name": "Rochester Animal Control",
+      "address": "1280 Titus Avenue, Rochester, NY 14617",
+      "phone": "585-467-8840",
+      "image": "https://cdn.findpawpal.com/office/318091.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rochester-animal-services-331683",
+      "name": "Rochester Animal Services",
+      "address": "184 Verona Street, Rochester, NY 14608",
+      "phone": "585-428-7274",
+      "image": "https://cdn.findpawpal.com/office/331683.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sullivan-county-spca-401468",
+      "name": "Sullivan County SPCA",
+      "address": "104 Rock Hill Drive, Rock Hill, NY 12775",
+      "phone": "845-796-3120",
+      "image": "https://cdn.findpawpal.com/office/401468.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rockville-center-animal-control-332566",
+      "name": "Rockville Center Animal Control",
+      "address": "PO Box 950, Rockville Centre, NY 11571",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/332566.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-rome-inc-315384",
+      "name": "Humane Society of Rome Inc",
+      "address": "6247 Lamphear Road, Rome, NY 13440",
+      "phone": "315-336-7070",
+      "image": "https://cdn.findpawpal.com/office/315384.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rome-animal-control-318099",
+      "name": "Rome Animal Control",
+      "address": "112 West Liberty Street, Rome, NY 13440",
+      "phone": "315-337-6260",
+      "image": "https://cdn.findpawpal.com/office/318099.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "nassau-county-spca-315176",
+      "name": "Nassau County SPCA",
+      "address": "PO Box 453, Roslyn Heights, NY 11577",
+      "phone": "516-781-2052",
+      "image": "https://cdn.findpawpal.com/office/315176.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-nation-inc-437172",
+      "name": "Animal Nation, Inc.",
+      "address": "PO Box 905, Rye, NY 10580",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/437172.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "saranac-lake-animal-shelter-399516",
+      "name": "Saranac Lake Animal Shelter",
+      "address": "PO Box 1111, Saranac Lake, NY 12983",
+      "phone": "518-891-0017",
+      "image": "https://cdn.findpawpal.com/office/399516.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "saratoga-county-animal-welfare-league-334813",
+      "name": "Saratoga County Animal Welfare League",
+      "address": "PO Box 142, Saratoga Springs, NY 12866",
+      "phone": "518-587-8530",
+      "image": "https://cdn.findpawpal.com/office/334813.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "catskill-animal-sanctuary-316268",
+      "name": "Catskill Animal Sanctuary",
+      "address": "316 Old Stage Road, Saugerties, NY 12477",
+      "phone": "845-336-8447",
+      "image": "https://cdn.findpawpal.com/office/316268.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "saugerties-animal-shelter-332436",
+      "name": "Saugerties Animal Shelter",
+      "address": "216 Main Street, Saugerties, NY 12477",
+      "phone": "631-287-7383",
+      "image": "https://cdn.findpawpal.com/office/332436.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greater-sayville-animal-rescue-paws-401404",
+      "name": "Greater Sayville Animal Rescue PAWS",
+      "address": "PO Box 894, Sayville, NY 11782",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/401404.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-protective-foundation-342434",
+      "name": "Animal Protective Foundation",
+      "address": "53 Maple Avenue, Schenectady, NY 12302",
+      "phone": "518-374-3944",
+      "image": "https://cdn.findpawpal.com/office/342434.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "emerald-acres-404336",
+      "name": "Emerald Acres",
+      "address": "1197 Mariaville Road, Schenectady, NY 12306",
+      "phone": "518-355-1749",
+      "image": "https://cdn.findpawpal.com/office/404336.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "gppd-shepherd-k9-rescue-404343",
+      "name": "Gppd Shepherd K9 Rescue",
+      "address": "3313 Mariaville Road, Schenectady, NY 12306",
+      "phone": "518-393-0755",
+      "image": "https://cdn.findpawpal.com/office/404343.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "waggin-tails-pet-rescue-334441",
+      "name": "Waggin' Tails Pet Rescue",
+      "address": "1920 Dodge Street, Schenectady, NY 12306",
+      "phone": "518-356-1100",
+      "image": "https://cdn.findpawpal.com/office/334441.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "scottsville-veterinary-hospital-313872",
+      "name": "Scottsville Veterinary Hospital",
+      "address": "3750 Scottsville Road, Scottsville, NY 14546",
+      "phone": "585-889-8340",
+      "image": "https://cdn.findpawpal.com/office/313872.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "christians-helping-animal-and-people-342067",
+      "name": "Christians Helping Animal and People",
+      "address": "PO Box 272, Selden, NY 11784",
+      "phone": "516-732-3138",
+      "image": "https://cdn.findpawpal.com/office/342067.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "seneca-humane-society-341478",
+      "name": "Seneca Humane Society",
+      "address": "26 Center Street, Seneca Falls, NY 13148",
+      "phone": "315-568-1861",
+      "image": "https://cdn.findpawpal.com/office/341478.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "shelter-island-animal-control-317448",
+      "name": "Shelter Island Animal Control",
+      "address": "53 North Ferry Road, Shelter Island, NY 11964",
+      "phone": "631-749-2506",
+      "image": "https://cdn.findpawpal.com/office/317448.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "delaware-valley-humane-society-313015",
+      "name": "Delaware Valley Humane Society",
+      "address": "101 Main Street, Sidney, NY 13838",
+      "phone": "607-563-7780",
+      "image": "https://cdn.findpawpal.com/office/313015.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "slingerlands-animal-control-317453",
+      "name": "Slingerlands Animal Control",
+      "address": "2029 New Scotland Road, Slingerlands, NY 12159",
+      "phone": "518-475-0385",
+      "image": "https://cdn.findpawpal.com/office/317453.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bearded-collie-club-of-america-rescue-info-399366",
+      "name": "Bearded Collie Club of America Rescue Info",
+      "address": "10 Eden Drive, Smithtown, NY 11787",
+      "phone": "516-724-0871",
+      "image": "https://cdn.findpawpal.com/office/399366.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "town-of-smithtown-animal-shelter-317265",
+      "name": "Town of Smithtown: Animal Shelter",
+      "address": "410 East Main Street, Smithtown, NY 11787",
+      "phone": "631-360-7575",
+      "image": "https://cdn.findpawpal.com/office/317265.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "southampton-animal-shelter-440637",
+      "name": "Southampton Animal Shelter",
+      "address": "30 Jagger Lane, Southampton, NY 11968",
+      "phone": "631-287-7387",
+      "image": "https://cdn.findpawpal.com/office/440637.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "welcome-home-sanctuary-inc-331577",
+      "name": "Welcome Home Sanctuary, Inc.",
+      "address": "1569 Noyack Road, Southampton, NY 11968",
+      "phone": "631-287-5428",
+      "image": "https://cdn.findpawpal.com/office/331577.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "north-fork-animal-welfare-league-316757",
+      "name": "North Fork Animal Welfare League",
+      "address": "PO Box 297, Southold, NY 11971",
+      "phone": "631-765-1811",
+      "image": "https://cdn.findpawpal.com/office/316757.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "misty-valley-farm-sanctuary-341859",
+      "name": "Misty Valley Farm Sanctuary",
+      "address": "2650 Spencer Road, Spencer, NY 14883",
+      "phone": "607-564-9073",
+      "image": "https://cdn.findpawpal.com/office/341859.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "project-formerly-feral-312794",
+      "name": "Project Formerly Feral",
+      "address": "PO Box 415, Spencer, NY 14883",
+      "phone": "607-589-7593",
+      "image": "https://cdn.findpawpal.com/office/312794.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ayres-memorial-animal-shelter-312135",
+      "name": "Ayres Memorial Animal Shelter",
+      "address": "133 Hilltop Road, Sprakers, NY 12166",
+      "phone": "518-673-5670",
+      "image": "https://cdn.findpawpal.com/office/312135.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "anarchy-animal-rescue-440197",
+      "name": "Anarchy Animal Rescue",
+      "address": "PO Box 120186, Staten Island, NY 10312",
+      "phone": "347-581-2807",
+      "image": "https://cdn.findpawpal.com/office/440197.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-lovers-united-together-as-one-317273",
+      "name": "Pet Lovers United Together as One",
+      "address": "PO Box 140889, Staten Island, NY 10314",
+      "phone": "718-227-0553",
+      "image": "https://cdn.findpawpal.com/office/317273.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "richmond-cat-association-341005",
+      "name": "Richmond Cat Association",
+      "address": "PO Box 120139, Staten Island, NY 10312",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/341005.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "stephentown-dog-control-416956",
+      "name": "Stephentown Dog Control",
+      "address": "90 Garfield Nassau Road, Stephentown, NY 12169",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/416956.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "noahs-ark-330541",
+      "name": "Noah's Ark",
+      "address": "PO Box 275, Stone Ridge, NY 12484",
+      "phone": "914-657-8178",
+      "image": "https://cdn.findpawpal.com/office/330541.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-pet-society-331294",
+      "name": "Second Chance Pet Society",
+      "address": "198 Spook Rock Road, Suffern, NY 10901",
+      "phone": "914-357-4814",
+      "image": "https://cdn.findpawpal.com/office/331294.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "last-hope-animal-rescue-435617",
+      "name": "Last Hope Animal Rescue",
+      "address": "PO Box 61, Syosset, NY 11791",
+      "phone": "516-425-1884",
+      "image": "https://cdn.findpawpal.com/office/435617.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oyster-bay-animal-shelter-342671",
+      "name": "Oyster Bay Animal Shelter",
+      "address": "150 Miller Place, Syosset, NY 11791",
+      "phone": "516-677-5784",
+      "image": "https://cdn.findpawpal.com/office/342671.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-control-center-syracuse-330076",
+      "name": "Animal Control Center Syracuse",
+      "address": "412 Spencer Street, Syracuse, NY 13204",
+      "phone": "315-454-8672",
+      "image": "https://cdn.findpawpal.com/office/330076.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cny-spca-438261",
+      "name": "Cny Spca",
+      "address": "5878 East Molloy Road, Syracuse, NY 13211",
+      "phone": "315-454-4479",
+      "image": "https://cdn.findpawpal.com/office/438261.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pug-rescue-of-central-new-york-inc-312424",
+      "name": "Pug Rescue of Central New York, Inc.",
+      "address": "105 Center Street, Syracuse, NY 13209",
+      "phone": "315-485-2500",
+      "image": "https://cdn.findpawpal.com/office/312424.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spca-serving-erie-county-434888",
+      "name": "SPCA Serving Erie County",
+      "address": "205 Ensminger Road, Tonawanda, NY 14150",
+      "phone": "716-875-7360",
+      "image": "https://cdn.findpawpal.com/office/434888.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tonawanda-animal-control-317958",
+      "name": "Tonawanda Animal Control",
+      "address": "205 Ensminger Road, Tonawanda, NY 14150",
+      "phone": "716-875-7360",
+      "image": "https://cdn.findpawpal.com/office/317958.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "amherst-animal-control-317826",
+      "name": "Amherst Animal Control",
+      "address": "500 John James Audubon Parkway, University at Buffalo, NY 14228",
+      "phone": "716-689-1311",
+      "image": "https://cdn.findpawpal.com/office/317826.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "stevens-swan-humane-society-of-oneida-county-inc-315888",
+      "name": "Stevens-Swan Humane Society of Oneida County, Inc.",
+      "address": "5664 Horatio Street, Utica, NY 13502",
+      "phone": "315-738-4357",
+      "image": "https://cdn.findpawpal.com/office/315888.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "precious-paws-inc-397807",
+      "name": "Precious PAWS, Inc.",
+      "address": "PO Box 454, Vails Gate, NY 12584",
+      "phone": "845-534-9630",
+      "image": "https://cdn.findpawpal.com/office/397807.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "valley-stream-cat-rescue-340565",
+      "name": "Valley Stream Cat Rescue",
+      "address": "PO Box 1333, Valley Stream, NY 11582",
+      "phone": "516-639-3394",
+      "image": "https://cdn.findpawpal.com/office/340565.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-pride-of-new-york-inc-317363",
+      "name": "Pet Pride of New York Inc",
+      "address": "7731 Victor Mendon Road, Victor, NY 14564",
+      "phone": "585-742-1630",
+      "image": "https://cdn.findpawpal.com/office/317363.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "equine-rescue-inc-436254",
+      "name": "Equine Rescue, Inc.",
+      "address": "PO Box 392, Walden, NY 12586",
+      "phone": "845-733-6085",
+      "image": "https://cdn.findpawpal.com/office/436254.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "peace-plantation-animal-333424",
+      "name": "Peace Plantation Animal",
+      "address": "12752 Highway 206, Walton, NY 13856",
+      "phone": "607-865-5759",
+      "image": "https://cdn.findpawpal.com/office/333424.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hempstead-town-animal-shelter-313231",
+      "name": "Hempstead Town Animal Shelter",
+      "address": "3320 Beltagh Avenue, Wantagh, NY 11793",
+      "phone": "516-785-5220",
+      "image": "https://cdn.findpawpal.com/office/313231.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lost-pets-of-hudson-valley-414322",
+      "name": "Lost Pets of Hudson Valley",
+      "address": "7 Fox Hill Road, Wappingers Falls, NY 12590",
+      "phone": "845-590-4253",
+      "image": "https://cdn.findpawpal.com/office/414322.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wappinger-animal-shelter-440699",
+      "name": "Wappinger Animal Shelter",
+      "address": "20 Middlebush Road, Wappingers Falls, NY 12590",
+      "phone": "845-297-1030",
+      "image": "https://cdn.findpawpal.com/office/440699.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sunnyskies-bird-animal-sanctuary-inc-312548",
+      "name": "Sunnyskies Bird Animal Sanctuary, Inc.",
+      "address": "PO Box 164, Warwick, NY 10990",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/312548.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "warwick-valley-humane-society-inc-400937",
+      "name": "Warwick Valley Humane Society, Inc.",
+      "address": "PO Box 61, Warwick, NY 10990",
+      "phone": "914-986-2473",
+      "image": "https://cdn.findpawpal.com/office/400937.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-blooming-grove-404463",
+      "name": "Humane Society-Blooming Grove",
+      "address": "2741 Route 94, Washingtonville, NY 10992",
+      "phone": "845-496-6199",
+      "image": "https://cdn.findpawpal.com/office/404463.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "beverly-animal-shelter-402152",
+      "name": "Beverly Animal Shelter",
+      "address": "50 East River Street, Waterloo, NY 13165",
+      "phone": "315-539-9355",
+      "image": "https://cdn.findpawpal.com/office/402152.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "people-against-cruelty-to-animals-314109",
+      "name": "People Against Cruelty to Animals",
+      "address": "1125 State Street, Watertown, NY 13601",
+      "phone": "315-786-8746",
+      "image": "https://cdn.findpawpal.com/office/314109.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spca-jefferson-county-314096",
+      "name": "SPCA Jefferson County",
+      "address": "25056 Water Street, Watertown, NY 13601",
+      "phone": "315-782-3260",
+      "image": "https://cdn.findpawpal.com/office/314096.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "schuyler-county-animal-shelter-317977",
+      "name": "Schuyler County Animal Shelter",
+      "address": "2958 Vanzandt Hollow Road, Watkins Glen, NY 14891",
+      "phone": "607-535-9960",
+      "image": "https://cdn.findpawpal.com/office/317977.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "stray-haven-humane-society-402985",
+      "name": "Stray Haven Humane Society",
+      "address": "194 Shepard Road, Waverly, NY 14892",
+      "phone": "607-565-2859",
+      "image": "https://cdn.findpawpal.com/office/402985.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "webster-animal-control-342994",
+      "name": "Webster Animal Control",
+      "address": "1000 Ridge Road, Webster, NY 14580",
+      "phone": "585-872-7009",
+      "image": "https://cdn.findpawpal.com/office/342994.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "multiple-purrsonalities-339942",
+      "name": "Multiple Purrsonalities",
+      "address": "10203 Town Line Road, Weedsport, NY 13166",
+      "phone": "315-834-8685",
+      "image": "https://cdn.findpawpal.com/office/339942.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spca-serving-allegany-county-417604",
+      "name": "SPCA Serving Allegany County",
+      "address": "1374 New York State Bicycle Route 19 A, Wellsville, NY 14895",
+      "phone": "585-593-2200",
+      "image": "https://cdn.findpawpal.com/office/417604.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wellsville-dog-control-441620",
+      "name": "Wellsville Dog Control",
+      "address": "PO Box 65, Wellsville, NY 14895",
+      "phone": "585-593-1003",
+      "image": "https://cdn.findpawpal.com/office/441620.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "town-of-babylon-animal-shelter-439141",
+      "name": "Town of Babylon Animal Shelter",
+      "address": "51 Lamar Street, West Babylon, NY 11704",
+      "phone": "516-643-9270",
+      "image": "https://cdn.findpawpal.com/office/439141.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-welfare-adoption-network-316273",
+      "name": "Animal Welfare Adoption Network",
+      "address": "PO Box 53, West Hurley, NY 12491",
+      "phone": "845-679-0227",
+      "image": "https://cdn.findpawpal.com/office/316273.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "north-country-spca-315422",
+      "name": "North Country SPCA",
+      "address": "23 Lakeshore Road, Westport, NY 12993",
+      "phone": "518-962-8604",
+      "image": "https://cdn.findpawpal.com/office/315422.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "westchester-county-animal-welfare-316637",
+      "name": "Westchester County Animal Welfare",
+      "address": "PO Box 276, White Plains, NY 10602",
+      "phone": "914-320-5991",
+      "image": "https://cdn.findpawpal.com/office/316637.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "white-plains-animal-control-398708",
+      "name": "White Plains Animal Control",
+      "address": "255 Main Street, White Plains, NY 10601",
+      "phone": "914-422-1450",
+      "image": "https://cdn.findpawpal.com/office/398708.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bqe-pet-food-exchange-315509",
+      "name": "BQE Pet Food Exchange",
+      "address": "253 Wythe Avenue, Williamsburg, NY 11249",
+      "phone": "718-486-7489",
+      "image": "https://cdn.findpawpal.com/office/315509.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "homes-for-orphaned-pets-exist-333013",
+      "name": "Homes for Orphaned Pets Exist",
+      "address": "PO Box 2497, Wilton, NY 12831",
+      "phone": "518-428-2994",
+      "image": "https://cdn.findpawpal.com/office/333013.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "woodhull-animal-control-317442",
+      "name": "Woodhull Animal Control",
+      "address": "598 Kent Hill Road, Woodhull, NY 14898",
+      "phone": "607-458-5785",
+      "image": "https://cdn.findpawpal.com/office/317442.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "woodstock-farm-animal-sanctuary-341258",
+      "name": "Woodstock Farm Animal Sanctuary",
+      "address": "PO Box 1329, Woodstock, NY 12498",
+      "phone": "845-679-5955",
+      "image": "https://cdn.findpawpal.com/office/341258.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "a-cause-for-paws-313134",
+      "name": "A Cause for PAWS",
+      "address": "96 Halstead Avenue, Yonkers, NY 10704",
+      "phone": "917-658-7912",
+      "image": "https://cdn.findpawpal.com/office/313134.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-the-yonkers-animal-shelter-333529",
+      "name": "Friends of the Yonkers Animal Shelter",
+      "address": "PO Box 1038, Yonkers, NY 10704",
+      "phone": "914-924-0708",
+      "image": "https://cdn.findpawpal.com/office/333529.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "just-strays-inc-330576",
+      "name": "Just Strays, Inc.",
+      "address": "PO Box 334, Yonkers, NY 10710",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/330576.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "yonkers-animal-shelter-333584",
+      "name": "Yonkers Animal Shelter",
+      "address": "120 Fullerton Avenue, Yonkers, NY 10704",
+      "phone": "914-377-6730",
+      "image": "https://cdn.findpawpal.com/office/333584.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "horse-rescue-and-sanctuary-inc-332462",
+      "name": "HORSE Rescue and Sanctuary, Inc.",
+      "address": "PO Box 432, York, NY 14592",
+      "phone": "585-584-8210",
+      "image": "https://cdn.findpawpal.com/office/332462.jpg?f=webp&w=730"
+    }
+  ]
+}

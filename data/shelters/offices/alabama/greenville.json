@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:17:42.672331+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "greenville",
+    "name": "Greenville",
+    "label": "Greenville, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/greenville/",
+  "offices": [
+    {
+      "slug": "butler-county-humane-society-5659",
+      "name": "Butler County Humane Society",
+      "address": "PO Box 264, Greenville, AL 36037",
+      "phone": "334-210-7600",
+      "image": "./img/shelter/office/5659.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/butler-county-humane-society-5659/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5659.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greenville-animal-shelter-6922",
+      "name": "Greenville Animal Shelter",
+      "address": "1310 East Commerce Street, Greenville, AL 36037",
+      "phone": "334-382-7806",
+      "image": "./img/shelter/office/6922.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greenville-animal-shelter-6922/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6922.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 664443,
+  "slug": "meow-cat-rescue-664443",
+  "name": "Meow Cat Rescue",
+  "address": "10600 Northeast 68th Street, Kirkland, WA 98033",
+  "street": "10600 Northeast 68th Street",
+  "addressCity": "Kirkland",
+  "stateCode": "WA",
+  "zip": "98033",
+  "phone": "425-822-6369",
+  "image": "./img/shelter/office/664443.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/meow-cat-rescue-664443/",
+  "stateSlug": "washington",
+  "stateName": "Washington",
+  "citySlug": "kirkland",
+  "cityName": "Kirkland",
+  "cityLabel": "Kirkland, WA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/washington/kirkland/",
+  "fetchedAt": "2026-06-27T20:18:05.318418+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/664443.jpg?f=webp&w=730"
+}

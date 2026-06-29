@@ -1,0 +1,21 @@
+{
+  "officeId": 172240,
+  "slug": "eloy-animal-shelter-172240",
+  "name": "Eloy Animal Shelter",
+  "address": "3010 West Houser Road, Eloy, AZ 85131",
+  "street": "3010 West Houser Road",
+  "addressCity": "Eloy",
+  "stateCode": "AZ",
+  "zip": "85131",
+  "phone": "520-466-4152",
+  "image": "./img/shelter/office/172240.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/eloy-animal-shelter-172240/",
+  "stateSlug": "arizona",
+  "stateName": "Arizona",
+  "citySlug": "eloy",
+  "cityName": "Eloy",
+  "cityLabel": "Eloy, AZ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/arizona/eloy/",
+  "fetchedAt": "2026-06-27T18:20:02.924008+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/172240.jpg?f=webp&w=730"
+}

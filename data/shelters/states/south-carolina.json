@@ -1,0 +1,986 @@
+{
+  "stateSlug": "south-carolina",
+  "count": 140,
+  "shelters": [
+    {
+      "slug": "abbeville-city-county-animal-shelter-599108",
+      "name": "Abbeville City County Animal Shelter",
+      "address": "102 South Main Street, Abbeville, SC 29620",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/599108.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "aiken-county-animal-control-688595",
+      "name": "Aiken County Animal Control",
+      "address": "411 Wire Road, Aiken, SC 29801",
+      "phone": "803-642-1537",
+      "image": "https://cdn.findpawpal.com/office/688595.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "anderson-county-animal-shelter-599362",
+      "name": "Anderson County Animal Shelter",
+      "address": "615 State Highway 28 Truck, Anderson, SC 29624",
+      "phone": "864-260-4151",
+      "image": "https://cdn.findpawpal.com/office/599362.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "anderson-county-humane-society-653335",
+      "name": "Anderson County Humane Society",
+      "address": "407 Pearman Dairy Road, Anderson, SC 29625",
+      "phone": "864-225-9855",
+      "image": "https://cdn.findpawpal.com/office/653335.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "freedom-train-animal-rescue-transports-653337",
+      "name": "Freedom Train Animal Rescue Transports",
+      "address": "212 Jeb Stuart Avenue, Anderson, SC 29625",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/653337.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "barnwell-county-animal-shelter-552100",
+      "name": "Barnwell County Animal Shelter",
+      "address": "57 Diamond Road, Barnwell, SC 29812",
+      "phone": "803-259-1656",
+      "image": "https://cdn.findpawpal.com/office/552100.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "beaufort-county-animal-shelter-653409",
+      "name": "Beaufort County Animal Shelter",
+      "address": "23 Shelter Church Rd, Beaufort, SC 29906",
+      "phone": "843-846-3904",
+      "image": "https://cdn.findpawpal.com/office/653409.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "beaufort-humane-association-651622",
+      "name": "Beaufort Humane Association",
+      "address": "PO Box 4326, Beaufort, SC 29903",
+      "phone": "843-525-1211",
+      "image": "https://cdn.findpawpal.com/office/651622.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "true-ethics-for-animals-rescue-sanctuary-582250",
+      "name": "True Ethics for Animals Rescue Sanctuary",
+      "address": "PO Box 531, Beaufort, SC 29901",
+      "phone": "843-643-1889",
+      "image": "https://cdn.findpawpal.com/office/582250.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "american-dog-rescue-582032",
+      "name": "American Dog Rescue",
+      "address": "13006 Highway 20, Belton, SC 29627",
+      "phone": "886-202-8794",
+      "image": "https://cdn.findpawpal.com/office/582032.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-marlboro-county-651501",
+      "name": "Humane Society of Marlboro County",
+      "address": "3162 J Brigman Road, Bennettsville, SC 29512",
+      "phone": "866-479-1709",
+      "image": "https://cdn.findpawpal.com/office/651501.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "save-the-strays-animal-rescue-688548",
+      "name": "Save The Strays Animal Rescue",
+      "address": "PO Box 722, Bethune, SC 29009",
+      "phone": "843-334-8459",
+      "image": "https://cdn.findpawpal.com/office/688548.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lee-county-animal-shelter-552062",
+      "name": "Lee County Animal Shelter",
+      "address": "101 Animal Shelter Lane, Bishopville, SC 29010",
+      "phone": "803-428-2077",
+      "image": "https://cdn.findpawpal.com/office/552062.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kershaw-county-humane-society-592452",
+      "name": "Kershaw County Humane Society",
+      "address": "128 Black River Road, Camden, SC 29020",
+      "phone": "803-425-6016",
+      "image": "https://cdn.findpawpal.com/office/592452.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "walter-crowe-animal-shelter-531174",
+      "name": "Walter Crowe Animal Shelter",
+      "address": "460 Fair Street, Camden, SC 29020",
+      "phone": "803-425-6016",
+      "image": "https://cdn.findpawpal.com/office/531174.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cayce-animal-control-709568",
+      "name": "Cayce Animal Control",
+      "address": "1800 12th Street, Cayce, SC 29033",
+      "phone": "803-794-0456",
+      "image": "https://cdn.findpawpal.com/office/709568.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chapin-animal-shelter-531570",
+      "name": "Chapin Animal Shelter",
+      "address": "1128 Richard Franklin Road, Chapin, SC 29036",
+      "phone": "803-781-4790",
+      "image": "https://cdn.findpawpal.com/office/531570.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "carolina-basset-hound-rescue-653358",
+      "name": "Carolina Basset Hound Rescue",
+      "address": "PO Box 80082, Charleston, SC 29416",
+      "phone": "843-766-8838",
+      "image": "https://cdn.findpawpal.com/office/653358.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cat-rescue-inc-599463",
+      "name": "Cat Rescue, Inc.",
+      "address": "1156 Shoreham Road, Charleston, SC 29412",
+      "phone": "843-762-0711",
+      "image": "https://cdn.findpawpal.com/office/599463.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "charleston-animal-control-709569",
+      "name": "Charleston Animal Control",
+      "address": "180 Lockwood Drive, Charleston, SC 29403",
+      "phone": "843-720-3915",
+      "image": "https://cdn.findpawpal.com/office/709569.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "low-country-golden-retriever-rescue-576124",
+      "name": "Low Country Golden Retriever Rescue",
+      "address": "PO Box 31256, Charleston, SC 29417",
+      "phone": "843-571-7177",
+      "image": "https://cdn.findpawpal.com/office/576124.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lowcountry-pit-bull-rescue-653359",
+      "name": "Lowcountry Pit Bull Rescue",
+      "address": "PO Box 31364, Charleston, SC 29417",
+      "phone": "843-834-4312",
+      "image": "https://cdn.findpawpal.com/office/653359.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-helpers-adoption-center-and-spay-neuter-clinic-582113",
+      "name": "Pet Helpers Adoption Center and Spay/Neuter Clinic",
+      "address": "1447 Folly Road, Charleston, SC 29412",
+      "phone": "843-795-1110",
+      "image": "https://cdn.findpawpal.com/office/582113.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wild-heirlabrador-rescue-651475",
+      "name": "Wild Heirlabrador Rescue",
+      "address": "PO Box 81052, Charleston, SC 29416",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/651475.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cheraw-animal-control-582215",
+      "name": "Cheraw Animal Control",
+      "address": "200 Market Street, Cheraw, SC 29520",
+      "phone": "843-537-8431",
+      "image": "https://cdn.findpawpal.com/office/582215.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chester-county-animal-shelter-575849",
+      "name": "Chester County Animal Shelter",
+      "address": "2714 Dawson Drive, Chester, SC 29706",
+      "phone": "803-385-6341",
+      "image": "https://cdn.findpawpal.com/office/575849.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chesterfield-county-animal-shelter-531476",
+      "name": "Chesterfield County Animal Shelter",
+      "address": "467 Goodale Road, Chesterfield, SC 29709",
+      "phone": "843-623-3585",
+      "image": "https://cdn.findpawpal.com/office/531476.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-cat-sanctuary-581890",
+      "name": "The Cat Sanctuary",
+      "address": "PO Box 186, Clinton, SC 29325",
+      "phone": "864-981-0115",
+      "image": "https://cdn.findpawpal.com/office/581890.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "basset-rescue-crew-of-the-southeast-575951",
+      "name": "Basset Rescue Crew of the Southeast",
+      "address": "PO Box 2273, Columbia, SC 29202",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/575951.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dachshund-rescue-of-north-america-inc-581934",
+      "name": "Dachshund Rescue of North America, Inc.",
+      "address": "3208 Montcrest Road, Columbia, SC 29210",
+      "phone": "803-354-9109",
+      "image": "https://cdn.findpawpal.com/office/581934.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-spca-653304",
+      "name": "Humane Society SPCA",
+      "address": "121 Humane Lane, Columbia, SC 29209",
+      "phone": "803-783-1276",
+      "image": "https://cdn.findpawpal.com/office/653304.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "project-pet-581897",
+      "name": "Project Pet",
+      "address": "1275 Bower Parkway, Columbia, SC 29212",
+      "phone": "803-407-0991",
+      "image": "https://cdn.findpawpal.com/office/581897.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "horry-county-animal-care-center-576006",
+      "name": "Horry County Animal Care Center",
+      "address": "1923 Industrial Park Road, Conway, SC 29526",
+      "phone": "843-915-5172",
+      "image": "https://cdn.findpawpal.com/office/576006.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "waccamaw-animal-rescue-mission-592568",
+      "name": "Waccamaw Animal Rescue Mission",
+      "address": "PO Box 1764, Conway, SC 29528",
+      "phone": "843-347-6583",
+      "image": "https://cdn.findpawpal.com/office/592568.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "purr-fect-kitty-rescue-592534",
+      "name": "Purr-Fect Kitty Rescue",
+      "address": "820 Sunny Slope Drive, Cowpens, SC 29330",
+      "phone": "864-494-5928",
+      "image": "https://cdn.findpawpal.com/office/592534.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "gods-creatures-deserve-to-live-inc-599328",
+      "name": "Gods Creatures Deserve To Live Inc.",
+      "address": "3221 Camden Highway, Dalzell, SC 29040",
+      "phone": "803-316-1526",
+      "image": "https://cdn.findpawpal.com/office/599328.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "darlington-county-animal-shelter-709507",
+      "name": "Darlington County Animal Shelter",
+      "address": "1701 Animal Control Boulevard, Darlington, SC 29532",
+      "phone": "843-398-4402",
+      "image": "https://cdn.findpawpal.com/office/709507.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dillon-county-animal-shelter-709533",
+      "name": "Dillon County Animal Shelter",
+      "address": "1020 Old Latta Highway, Dillon, SC 29536",
+      "phone": "843-841-8884",
+      "image": "https://cdn.findpawpal.com/office/709533.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "golden-s-rescue-inc-599293",
+      "name": "Golden S Rescue, Inc.",
+      "address": "818 Hamlin Road, Easley, SC 29642",
+      "phone": "919-413-0364",
+      "image": "https://cdn.findpawpal.com/office/599293.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "florence-animal-control-688657",
+      "name": "Florence Animal Control",
+      "address": "180 North Irby Street, Florence, SC 29501",
+      "phone": "843-665-3175",
+      "image": "https://cdn.findpawpal.com/office/688657.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "florence-area-humane-society-599553",
+      "name": "Florence Area Humane Society",
+      "address": "1434 South McCurdy Road, Florence, SC 29506",
+      "phone": "843-669-2921",
+      "image": "https://cdn.findpawpal.com/office/599553.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "home-away-from-home-rescue-709558",
+      "name": "Home Away From Home Rescue",
+      "address": "2405 Lakeview Drive, Florence, SC 29505",
+      "phone": "843-665-1615",
+      "image": "https://cdn.findpawpal.com/office/709558.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "airedale-rescue-group-599498",
+      "name": "Airedale Rescue Group",
+      "address": "10581 Harrisburg Road, Fort Mill, SC 29707",
+      "phone": "803-547-2829",
+      "image": "https://cdn.findpawpal.com/office/599498.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "blue-kangaroo-petting-zoo-and-rescue-599495",
+      "name": "Blue Kangaroo Petting Zoo and Rescue",
+      "address": "184 Fort Mill Highway, Fort Mill, SC 29707",
+      "phone": "803-228-4150",
+      "image": "https://cdn.findpawpal.com/office/599495.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "york-county-humane-society-651568",
+      "name": "York County Humane Society",
+      "address": "2036 Carolina Place Drive, Fort Mill, SC 29708",
+      "phone": "803-322-6495",
+      "image": "https://cdn.findpawpal.com/office/651568.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "loving-home-rescue-and-adoption-592616",
+      "name": "Loving Home Rescue and Adoption",
+      "address": "398 Parsons Road, Fountain Inn, SC 29644",
+      "phone": "864-399-2612",
+      "image": "https://cdn.findpawpal.com/office/592616.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cherokee-county-animal-shelter-653396",
+      "name": "Cherokee County Animal Shelter",
+      "address": "300 Yale Street, Gaffney, SC 29341",
+      "phone": "864-487-8529",
+      "image": "https://cdn.findpawpal.com/office/653396.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-cherokee-county-531486",
+      "name": "Humane Society of Cherokee County",
+      "address": "PO Box 2223, Gaffney, SC 29342",
+      "phone": "864-487-4757",
+      "image": "https://cdn.findpawpal.com/office/531486.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "st-frances-animal-center-599125",
+      "name": "St Frances Animal Center",
+      "address": "125 Ridge Street, Georgetown, SC 29440",
+      "phone": "843-546-0780",
+      "image": "https://cdn.findpawpal.com/office/599125.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "berkeley-county-paws-551863",
+      "name": "Berkeley County PAWS",
+      "address": "PO Box 903, Goose Creek, SC 29445",
+      "phone": "893-688-4414",
+      "image": "https://cdn.findpawpal.com/office/551863.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "berkeley-county-spca-653345",
+      "name": "Berkeley County SPCA",
+      "address": "107 Saint James Avenue, Goose Creek, SC 29445",
+      "phone": "843-572-2144",
+      "image": "https://cdn.findpawpal.com/office/653345.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "doc-williams-spca-599418",
+      "name": "Doc Williams SPCA",
+      "address": "107 Saint James Avenue, Goose Creek, SC 29445",
+      "phone": "843-761-5266",
+      "image": "https://cdn.findpawpal.com/office/599418.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "feral-friends-551566",
+      "name": "Feral Friends",
+      "address": "PO Box 1434, Goose Creek, SC 29445",
+      "phone": "843-863-1192",
+      "image": "https://cdn.findpawpal.com/office/551566.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greenville-animal-control-599590",
+      "name": "Greenville Animal Control",
+      "address": "301 University Ridge, Greenville, SC 29601",
+      "phone": "864-467-7595",
+      "image": "https://cdn.findpawpal.com/office/599590.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greenville-humane-society-582041",
+      "name": "Greenville Humane Society",
+      "address": "328 Furman Hall Road, Greenville, SC 29609",
+      "phone": "864-242-3626",
+      "image": "https://cdn.findpawpal.com/office/582041.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-haven-of-south-carolina-688603",
+      "name": "Pet Haven of South Carolina",
+      "address": "28 Scarlett Street, Greenville, SC 29607",
+      "phone": "864-350-3735",
+      "image": "https://cdn.findpawpal.com/office/688603.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "simpsonville-animal-control-688645",
+      "name": "Simpsonville Animal Control",
+      "address": "1324 Miller Road, Greenville, SC 29607",
+      "phone": "864-288-3438",
+      "image": "https://cdn.findpawpal.com/office/688645.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greenwood-citizens-for-animals-551758",
+      "name": "Greenwood Citizens for Animals",
+      "address": "115 Possum Hollow Road, Greenwood, SC 29646",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/551758.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greenwood-county-animal-shelter-592759",
+      "name": "Greenwood County Animal Shelter",
+      "address": "1616 Highway 72 West, Greenwood, SC 29649",
+      "phone": "864-942-8558",
+      "image": "https://cdn.findpawpal.com/office/592759.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-greenwood-531273",
+      "name": "Humane Society of Greenwood",
+      "address": "PO Box 242, Greenwood, SC 29648",
+      "phone": "864-942-8558",
+      "image": "https://cdn.findpawpal.com/office/531273.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hartsville-animal-control-599594",
+      "name": "Hartsville Animal Control",
+      "address": "500 Poole Street, Hartsville, SC 29550",
+      "phone": "843-383-3019",
+      "image": "https://cdn.findpawpal.com/office/599594.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ivy-plantation-farms-599456",
+      "name": "Ivy Plantation Farms",
+      "address": "242 Stephanie Loop, Hemingway, SC 29554",
+      "phone": "843-933-0402",
+      "image": "https://cdn.findpawpal.com/office/599456.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hilton-head-humane-association-576276",
+      "name": "Hilton Head Humane Association",
+      "address": "10 Humane Way, Hilton Head Island, SC 29926",
+      "phone": "843-681-8686",
+      "image": "https://cdn.findpawpal.com/office/576276.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-protection-league-651514",
+      "name": "Animal Protection League",
+      "address": "6080 Old Leesburg Road, Hopkins, SC 29061",
+      "phone": "803-783-2119",
+      "image": "https://cdn.findpawpal.com/office/651514.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "isle-of-palms-animal-control-592772",
+      "name": "Isle Of Palms Animal Control",
+      "address": "30 J C Long Boulevard, Isle of Palms, SC 29451",
+      "phone": "843-886-6522",
+      "image": "https://cdn.findpawpal.com/office/592772.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "williamsburg-county-animal-control-599598",
+      "name": "Williamsburg County Animal Control",
+      "address": "200 County Camp Road, Kingstree, SC 29556",
+      "phone": "843-382-2107",
+      "image": "https://cdn.findpawpal.com/office/599598.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "noble-ones-bully-breed-rescue-653364",
+      "name": "Noble Ones Bully Breed Rescue",
+      "address": "131 Surlington Drive, Ladson, SC 29456",
+      "phone": "843-771-3997",
+      "image": "https://cdn.findpawpal.com/office/653364.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humame-society-of-lancaster-sc-531461",
+      "name": "Humame Society of Lancaster, Sc",
+      "address": "126 South Main Street, Lancaster, SC 29720",
+      "phone": "803-285-5683",
+      "image": "https://cdn.findpawpal.com/office/531461.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lancaster-county-animal-control-531455",
+      "name": "Lancaster County Animal Control",
+      "address": "118 Kennel Lane, Lancaster, SC 29720",
+      "phone": "803-286-8103",
+      "image": "https://cdn.findpawpal.com/office/531455.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "laurens-county-humane-society-599290",
+      "name": "Laurens County Humane Society",
+      "address": "233 Brown Road, Laurens, SC 29360",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/599290.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cat-rescuers-599519",
+      "name": "Cat Rescuers",
+      "address": "208 Lockwood Drive, Lexington, SC 29072",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/599519.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greyhound-lifesavers-709555",
+      "name": "Greyhound Lifesavers",
+      "address": "213 Meetze Avenue, Lexington, SC 29072",
+      "phone": "803-957-3866",
+      "image": "https://cdn.findpawpal.com/office/709555.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greyhound-pets-of-america-592461",
+      "name": "Greyhound Pets of America",
+      "address": "206 Chowning Place, Lexington, SC 29072",
+      "phone": "803-749-3174",
+      "image": "https://cdn.findpawpal.com/office/592461.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lexington-county-animal-control-653293",
+      "name": "Lexington County Animal Control",
+      "address": "321 Ball Park Road, Lexington, SC 29072",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/653293.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "save-our-strays-575918",
+      "name": "Save Our Strays",
+      "address": "PO Box 715, Lexington, SC 29071",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/575918.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "south-carolina-awareness-and-rescue-of-equines-688553",
+      "name": "South Carolina Awareness & Rescue of Equines",
+      "address": "PO Box 84914, Lexington, SC 29073",
+      "phone": "888-866-8744",
+      "image": "https://cdn.findpawpal.com/office/688553.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "foothills-humane-society-foothills-humane-society-709529",
+      "name": "Foothills Humane Society. Foothills Humane Society",
+      "address": "500 5 Forks Road, Liberty, SC 29657",
+      "phone": "864-843-9693",
+      "image": "https://cdn.findpawpal.com/office/709529.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-shelter-of-clarendon-651478",
+      "name": "Animal Shelter of Clarendon",
+      "address": "5079 Alex Harvin Highway, Manning, SC 29102",
+      "phone": "803-473-7075",
+      "image": "https://cdn.findpawpal.com/office/651478.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "marion-county-animal-shelter-688649",
+      "name": "Marion County Animal Shelter",
+      "address": "Highway 76, Marion, SC 29571",
+      "phone": "843-423-8204",
+      "image": "https://cdn.findpawpal.com/office/688649.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-mccormick-county-inc-582010",
+      "name": "Humane Society of Mccormick County, Inc.",
+      "address": "PO Box 900, McCormick, SC 29835",
+      "phone": "864-391-5414",
+      "image": "https://cdn.findpawpal.com/office/582010.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oreba-rescue-network-group-651473",
+      "name": "Oreba Rescue Network Group",
+      "address": "PO Box 1086, Moncks Corner, SC 29461",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/651473.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "feline-refuge-inc-688607",
+      "name": "Feline Refuge, Inc.",
+      "address": "PO Box 404, Mount Pleasant, SC 29465",
+      "phone": "803-884-1874",
+      "image": "https://cdn.findpawpal.com/office/688607.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "grateful-goldens-rescue-of-the-low-country-551922",
+      "name": "Grateful Goldens Rescue of the Low Country",
+      "address": "1406 Waterlily Drive, Mount Pleasant, SC 29464",
+      "phone": "843-810-0146",
+      "image": "https://cdn.findpawpal.com/office/551922.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "marion-county-animal-shelter-582185",
+      "name": "Marion County Animal Shelter",
+      "address": "123 Cat and Dog Rd, Mullins, SC 29574",
+      "phone": "843-423-8370",
+      "image": "https://cdn.findpawpal.com/office/582185.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "marion-county-spca-551663",
+      "name": "Marion County SPCA",
+      "address": "PO Box 15, Mullins, SC 29574",
+      "phone": "843-464-2454",
+      "image": "https://cdn.findpawpal.com/office/551663.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sacred-vision-animal-sanctuary-592572",
+      "name": "Sacred Vision Animal Sanctuary",
+      "address": "5023 Dick Pond Road, Myrtle Beach, SC 29588",
+      "phone": "843-215-7729",
+      "image": "https://cdn.findpawpal.com/office/592572.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-grand-strand-humane-society-531312",
+      "name": "The Grand Strand Humane Society",
+      "address": "3241 10th Avenue North, Myrtle Beach, SC 29577",
+      "phone": "843-918-4910",
+      "image": "https://cdn.findpawpal.com/office/531312.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "newberry-county-animal-control-723311",
+      "name": "Newberry County Animal Control",
+      "address": ", Newberry, SC 29108",
+      "phone": "803-321-2185",
+      "image": "https://cdn.findpawpal.com/office/723311.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mollys-militia-inc-599634",
+      "name": "Molly's Militia, Inc.",
+      "address": "PO Box 6816, North Augusta, SC 29861",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/599634.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "north-augusta-animal-control-592757",
+      "name": "North Augusta Animal Control",
+      "address": "100 Georgia Avenue, North Augusta, SC 29841",
+      "phone": "803-441-4227",
+      "image": "https://cdn.findpawpal.com/office/592757.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-charlestown-animal-control-531524",
+      "name": "New Charlestown Animal Control",
+      "address": "3861 Leeds Avenue, North Charleston, SC 29405",
+      "phone": "843-202-1700",
+      "image": "https://cdn.findpawpal.com/office/531524.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spca-animal-shelter-651575",
+      "name": "SPCA Animal Shelter",
+      "address": "2455 Remount Road, North Charleston, SC 29406",
+      "phone": "843-747-4849",
+      "image": "https://cdn.findpawpal.com/office/651575.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "netpets-531140",
+      "name": "Netpets",
+      "address": "PO Box 563, North Myrtle Beach, SC 29597",
+      "phone": "843-249-5262",
+      "image": "https://cdn.findpawpal.com/office/531140.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-humane-society-of-north-myrtle-beach-653323",
+      "name": "The Humane Society of North Myrtle Beach",
+      "address": "409 Bay Street, North Myrtle Beach, SC 29582",
+      "phone": "843-249-4948",
+      "image": "https://cdn.findpawpal.com/office/653323.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "orangeburg-county-animal-control-576103",
+      "name": "Orangeburg County Animal Control",
+      "address": "1596 Ellis Avenue, Orangeburg, SC 29118",
+      "phone": "803-534-0045",
+      "image": "https://cdn.findpawpal.com/office/576103.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spca-orangeburg-709544",
+      "name": "SPCA Orangeburg",
+      "address": "2872 Saint Matthews Road Northeast, Orangeburg, SC 29115",
+      "phone": "803-536-3918",
+      "image": "https://cdn.findpawpal.com/office/709544.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pawleys-island-animal-control-576221",
+      "name": "Pawleys Island Animal Control",
+      "address": "708 Petigru Drive, Pawleys Island, SC 29585",
+      "phone": "843-237-7297",
+      "image": "https://cdn.findpawpal.com/office/576221.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "heavens-gait-horse-rescue-576037",
+      "name": "Heavens Gait Horse Rescue",
+      "address": "2126 Boykin Road, Rembert, SC 29128",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/576037.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jasper-animal-rescue-mission-592429",
+      "name": "Jasper Animal Rescue Mission",
+      "address": "1352 Carters Mill Road, Ridgeland, SC 29936",
+      "phone": "843-726-7799",
+      "image": "https://cdn.findpawpal.com/office/592429.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "morningstar-animal-rescue-and-referral-592433",
+      "name": "Morningstar Animal Rescue & Referral",
+      "address": "1626 Bees Creek Road, Ridgeland, SC 29936",
+      "phone": "843-717-3444",
+      "image": "https://cdn.findpawpal.com/office/592433.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "noahs-ark-animal-sanctuary-and-people-against-cruelty-581867",
+      "name": "Noahs Ark Animal Sanctuary & People Against Cruelty",
+      "address": "805 3rd Avenue, Ridgeland, SC 29936",
+      "phone": "843-726-7997",
+      "image": "https://cdn.findpawpal.com/office/581867.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "palmetto-animal-league-653284",
+      "name": "Palmetto Animal League",
+      "address": "56 Riverwalk Boulevard, Ridgeland, SC 29936",
+      "phone": "843-645-1725",
+      "image": "https://cdn.findpawpal.com/office/653284.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-adoption-league-688564",
+      "name": "Animal Adoption League",
+      "address": "PO Box 2453, Rock Hill, SC 29732",
+      "phone": "803-325-8282",
+      "image": "https://cdn.findpawpal.com/office/688564.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-outreach-575947",
+      "name": "Animal Outreach",
+      "address": "PO Box 11251, Rock Hill, SC 29731",
+      "phone": "803-385-4873",
+      "image": "https://cdn.findpawpal.com/office/575947.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pug-lover-rescue-688566",
+      "name": "Pug Lover Rescue",
+      "address": "PO Box 37343, Rock Hill, SC 29732",
+      "phone": "803-980-7729",
+      "image": "https://cdn.findpawpal.com/office/688566.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "recycled-pets-551904",
+      "name": "Recycled Pets",
+      "address": "3081 Cedarvale Circle, Rock Hill, SC 29732",
+      "phone": "803-981-5087",
+      "image": "https://cdn.findpawpal.com/office/551904.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "palmetto-equine-awareness-and-rescue-league-651543",
+      "name": "Palmetto Equine Awareness & Rescue League",
+      "address": "PO Box 362, Sandy Springs, SC 29677",
+      "phone": "864-269-2281",
+      "image": "https://cdn.findpawpal.com/office/651543.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "south-carolina-awareness-rescue-and-education-for-equines-653402",
+      "name": "South Carolina Awareness, Rescue and Education for Equines",
+      "address": "PO Box 362, Sandy Springs, SC 29677",
+      "phone": "864-287-9939",
+      "image": "https://cdn.findpawpal.com/office/653402.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "diamond-in-the-ruff-rescue-rehab-inc-592717",
+      "name": "Diamond In The Ruff Rescue Rehab, Inc.",
+      "address": "PO Box 8328, Seneca, SC 29678",
+      "phone": "864-885-1494",
+      "image": "https://cdn.findpawpal.com/office/592717.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oconee-county-animal-control-599557",
+      "name": "Oconee County Animal Control",
+      "address": "1925 Sandifer Boulevard, Seneca, SC 29678",
+      "phone": "864-888-0221",
+      "image": "https://cdn.findpawpal.com/office/599557.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "concerned-citizens-for-animals-592611",
+      "name": "Concerned Citizens For Animals",
+      "address": "3627 Fork Shoals Road, Simpsonville, SC 29680",
+      "phone": "864-243-4222",
+      "image": "https://cdn.findpawpal.com/office/592611.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fund-for-animals-rabbit-sanctuary-651550",
+      "name": "Fund for Animals Rabbit Sanctuary",
+      "address": "PO Box 80036, Simpsonville, SC 29680",
+      "phone": "864-963-4389",
+      "image": "https://cdn.findpawpal.com/office/651550.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-allies-clinic-592529",
+      "name": "Animal Allies Clinic",
+      "address": "1097 Asheville Highway, Spartanburg, SC 29303",
+      "phone": "864-576-6971",
+      "image": "https://cdn.findpawpal.com/office/592529.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "critter-connection-599259",
+      "name": "Critter Connection",
+      "address": "1480 Boiling Springs Road, Spartanburg, SC 29303",
+      "phone": "864-578-9226",
+      "image": "https://cdn.findpawpal.com/office/599259.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spartanburg-animal-control-582179",
+      "name": "Spartanburg Animal Control",
+      "address": "298 Broadcast Drive, Spartanburg, SC 29303",
+      "phone": "864-596-3582",
+      "image": "https://cdn.findpawpal.com/office/582179.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spartanburg-humane-society-688575",
+      "name": "Spartanburg Humane Society",
+      "address": "150 Dexter Road, Spartanburg, SC 29303",
+      "phone": "864-583-4805",
+      "image": "https://cdn.findpawpal.com/office/688575.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "calhoun-county-animal-shelter-688610",
+      "name": "Calhoun County Animal Shelter",
+      "address": "140 Purple Martin Drive, St. Matthews, SC 29135",
+      "phone": "803-874-2914",
+      "image": "https://cdn.findpawpal.com/office/688610.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tri-county-humane-society-592412",
+      "name": "Tri-County Humane Society",
+      "address": "PO Box 108, St. Matthews, SC 29135",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/592412.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "frances-r-willis-spca-592645",
+      "name": "Frances R. Willis SPCA",
+      "address": "136 4 Paws Lane, Summerville, SC 29483",
+      "phone": "843-871-3820",
+      "image": "https://cdn.findpawpal.com/office/592645.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "our-lady-of-mercys-catnip-cottage-653351",
+      "name": "Our Lady of Mercy's Catnip Cottage",
+      "address": "105 Coney Court, Summerville, SC 29483",
+      "phone": "843-729-3967",
+      "image": "https://cdn.findpawpal.com/office/653351.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spca-humane-organization-592580",
+      "name": "SPCA Humane Organization",
+      "address": "1140 South Guignard Drive, Sumter, SC 29150",
+      "phone": "803-773-9292",
+      "image": "https://cdn.findpawpal.com/office/592580.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sumter-animal-control-653384",
+      "name": "Sumter Animal Control",
+      "address": "1240 Winkles Road, Sumter, SC 29153",
+      "phone": "803-436-2755",
+      "image": "https://cdn.findpawpal.com/office/653384.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "south-carolina-greyhound-adoption-program-551777",
+      "name": "South Carolina Greyhound Adoption Program",
+      "address": "414 3rd Avenue South, Surfside Beach, SC 29575",
+      "phone": "843-828-4357",
+      "image": "https://cdn.findpawpal.com/office/551777.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cullens-archangel-rescue-inc-651583",
+      "name": "Cullen's Archangel Rescue, Inc.",
+      "address": "PO Box 969, Swansea, SC 29160",
+      "phone": "803-622-9813",
+      "image": "https://cdn.findpawpal.com/office/651583.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sundance-mountain-stables-animal-rescue-599527",
+      "name": "Sundance Mountain Stables Animal Rescue",
+      "address": "170 C H 7, Tamassee, SC 29686",
+      "phone": "864-903-3351",
+      "image": "https://cdn.findpawpal.com/office/599527.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "miracle-animal-rescue-spay-and-neuter-clinic-531159",
+      "name": "Miracle Animal Rescue Spay & Neuter Clinic",
+      "address": "PO Box 102, Tillman, SC 29943",
+      "phone": "843-227-2537",
+      "image": "https://cdn.findpawpal.com/office/531159.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "every-cat-counts-651503",
+      "name": "Every Cat Counts",
+      "address": "PO Box 339, Union, SC 29379",
+      "phone": "864-426-3908",
+      "image": "https://cdn.findpawpal.com/office/651503.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "union-county-animal-shelter-599215",
+      "name": "Union County Animal Shelter",
+      "address": "1657 Jonesville Highway, Union, SC 29379",
+      "phone": "864-429-2808",
+      "image": "https://cdn.findpawpal.com/office/599215.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "union-county-humane-society-651506",
+      "name": "Union County Humane Society",
+      "address": "218 North Pinckney Street, Union, SC 29379",
+      "phone": "864-427-6423",
+      "image": "https://cdn.findpawpal.com/office/651506.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hampton-county-animal-shelter-709508",
+      "name": "Hampton County Animal Shelter",
+      "address": "460 Cemetery Road, Varnville, SC 29944",
+      "phone": "803-943-7567",
+      "image": "https://cdn.findpawpal.com/office/709508.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oconee-county-humane-society-651591",
+      "name": "Oconee County Humane Society",
+      "address": "321 Camp Rd, Walhalla, SC 29691",
+      "phone": "864-638-8798",
+      "image": "https://cdn.findpawpal.com/office/651591.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "colleton-county-animal-control-709524",
+      "name": "Colleton County Animal Control",
+      "address": "33 Poor Farm Road, Walterboro, SC 29488",
+      "phone": "843-893-2651",
+      "image": "https://cdn.findpawpal.com/office/709524.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "colleton-county-spca-551717",
+      "name": "Colleton County SPCA",
+      "address": "PO Box 2204, Walterboro, SC 29488",
+      "phone": "843-538-2273",
+      "image": "https://cdn.findpawpal.com/office/551717.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "angel-paws-rescue-709528",
+      "name": "Angel PAWS Rescue",
+      "address": "239 State Road S-30-80, Ware Shoals, SC 29692",
+      "phone": "864-861-2283",
+      "image": "https://cdn.findpawpal.com/office/709528.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pets-inc-688555",
+      "name": "Pets Inc.",
+      "address": "300 Orchard Drive, West Columbia, SC 29170",
+      "phone": "803-739-9333",
+      "image": "https://cdn.findpawpal.com/office/688555.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fairfield-county-animal-control-651594",
+      "name": "Fairfield County Animal Control",
+      "address": "2065 U.S. 321 Bypass, Winnsboro, SC 29180",
+      "phone": "803-635-9944",
+      "image": "https://cdn.findpawpal.com/office/651594.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "recycled-k-9-animal-rescue-653407",
+      "name": "Recycled K-9 Animal Rescue",
+      "address": "785 Etheridge Road, Yemassee, SC 29945",
+      "phone": "843-726-4631",
+      "image": "https://cdn.findpawpal.com/office/653407.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "adopt-a-pet-of-york-county-551675",
+      "name": "Adopt-A-Pet of York County",
+      "address": "PO Box 1253, York, SC 29745",
+      "phone": "803-684-5353",
+      "image": "https://cdn.findpawpal.com/office/551675.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "richardson-rescue-651566",
+      "name": "Richardson Rescue",
+      "address": "1968 State Road S-46-168, York, SC 29745",
+      "phone": "803-628-5084",
+      "image": "https://cdn.findpawpal.com/office/651566.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "york-county-animal-control-551908",
+      "name": "York County Animal Control",
+      "address": "713 Justice Boulevard, York, SC 29745",
+      "phone": "803-628-3190",
+      "image": "https://cdn.findpawpal.com/office/551908.jpg?f=webp&w=730"
+    }
+  ]
+}

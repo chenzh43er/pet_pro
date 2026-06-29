@@ -1,0 +1,60 @@
+{
+  "fetchedAt": "2026-06-27T18:32:42.633649+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "aurora",
+    "name": "Aurora",
+    "label": "Aurora, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/aurora/",
+  "offices": [
+    {
+      "slug": "aurora-animal-shelter-41014",
+      "name": "Aurora Animal Shelter",
+      "address": "15750 East 32nd Avenue, Aurora, CO 80011",
+      "phone": "303-326-8280",
+      "image": "./img/shelter/office/41014.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/aurora-animal-shelter-41014/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41014.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wispering-pines-animal-rescue-41151",
+      "name": "Wispering Pines Animal Rescue",
+      "address": "21550 East 6th Avenue, Aurora, CO 80018",
+      "phone": "",
+      "image": "./img/shelter/office/41151.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wispering-pines-animal-rescue-41151/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41151.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "westie-rescue-network-41160",
+      "name": "Westie Rescue Network",
+      "address": "2884 South Ursula Court, Aurora, CO 80014",
+      "phone": "303-338-0878",
+      "image": "./img/shelter/office/41160.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/westie-rescue-network-41160/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41160.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "colorado-puppy-rescue-41370",
+      "name": "Colorado Puppy Rescue",
+      "address": "16780 East Iliff Avenue, Aurora, CO 80013",
+      "phone": "303-400-3514",
+      "image": "./img/shelter/office/41370.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado-puppy-rescue-41370/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41370.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cavy-care-inc-43668",
+      "name": "Cavy Care Inc",
+      "address": "4343 South Jasper Street, Aurora, CO 80015",
+      "phone": "303-593-2195",
+      "image": "./img/shelter/office/43668.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cavy-care-inc-43668/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43668.jpg?f=webp&w=730"
+    }
+  ]
+}

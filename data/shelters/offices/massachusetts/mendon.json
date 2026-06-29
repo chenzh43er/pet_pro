@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:07:09.729142+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "mendon",
+    "name": "Mendon",
+    "label": "Mendon, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/mendon/",
+  "offices": [
+    {
+      "officeId": 40957,
+      "slug": "greyhound-rescue-of-ne-inc-40957",
+      "name": "Greyhound Rescue of NE Inc",
+      "address": "200 Providence Street, Mendon, MA 01756",
+      "phone": "508-478-1617",
+      "image": "./img/shelter/office/40957.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhound-rescue-of-ne-inc-40957/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40957.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:54:21.705392+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "phoenixville",
+    "name": "Phoenixville",
+    "label": "Phoenixville, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/phoenixville/",
+  "offices": [
+    {
+      "officeId": 453312,
+      "slug": "phoenixville-animal-control-453312",
+      "name": "Phoenixville Animal Control",
+      "address": "1149 Pike Springs Road, Phoenixville, PA 19460",
+      "phone": "610-933-0606",
+      "image": "./img/shelter/office/453312.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/phoenixville-animal-control-453312/",
+      "imageUrl": "https://cdn.findpawpal.com/office/453312.jpg?f=webp&w=730"
+    }
+  ]
+}

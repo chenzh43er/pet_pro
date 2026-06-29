@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:48:36.457945+00:00",
+  "state": {
+    "slug": "oklahoma",
+    "name": "Oklahoma"
+  },
+  "city": {
+    "slug": "grove",
+    "name": "Grove",
+    "label": "Grove, OK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oklahoma/grove/",
+  "offices": [
+    {
+      "officeId": 585996,
+      "slug": "grove-oklahoma-humane-society-585996",
+      "name": "Grove Oklahoma Humane Society",
+      "address": "10 Highway 10, Grove, OK 74344",
+      "phone": "",
+      "image": "./img/shelter/office/585996.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/grove-oklahoma-humane-society-585996/",
+      "imageUrl": "https://cdn.findpawpal.com/office/585996.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 649035,
+      "slug": "humane-society-grove-and-grand-649035",
+      "name": "Humane Society Grove & Grand",
+      "address": "64301 East 290 Road, Grove, OK 74344",
+      "phone": "918-786-7630",
+      "image": "./img/shelter/office/649035.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-grove-and-grand-649035/",
+      "imageUrl": "https://cdn.findpawpal.com/office/649035.jpg?f=webp&w=730"
+    }
+  ]
+}

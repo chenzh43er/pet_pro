@@ -1,0 +1,21 @@
+{
+  "officeId": 242210,
+  "slug": "mixed-up-mutts-242210",
+  "name": "Mixed Up Mutts",
+  "address": "1866 North 100 West, La Porte, IN 46350",
+  "street": "1866 North 100 West",
+  "addressCity": "La Porte",
+  "stateCode": "IN",
+  "zip": "46350",
+  "phone": "219-326-8887",
+  "image": "./img/shelter/office/242210.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/mixed-up-mutts-242210/",
+  "stateSlug": "indiana",
+  "stateName": "Indiana",
+  "citySlug": "la-porte",
+  "cityName": "La Porte",
+  "cityLabel": "La Porte, IN",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/indiana/la-porte/",
+  "fetchedAt": "2026-06-27T18:50:35.753012+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/242210.jpg?f=webp&w=730"
+}

@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-06-27T18:32:47.189921+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "bayfield",
+    "name": "Bayfield",
+    "label": "Bayfield, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/bayfield/",
+  "offices": [
+    {
+      "slug": "heidis-rescue-43037",
+      "name": "Heidi's Rescue",
+      "address": "PO Box 763, Bayfield, CO 81122",
+      "phone": "970-375-6241",
+      "image": "https://cdn.findpawpal.com/office/43037.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/heidis-rescue-43037/"
+    }
+  ]
+}

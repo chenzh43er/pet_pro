@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:08:53.840346+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "royse",
+    "name": "Royse",
+    "label": "Royse, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/royse/",
+  "offices": [
+    {
+      "officeId": 635560,
+      "slug": "royse-city-animal-control-635560",
+      "name": "Royse City Animal Control",
+      "address": "1101 North Josephine Street, Royse, TX 75189",
+      "phone": "972-635-6609",
+      "image": "./img/shelter/office/635560.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/royse-city-animal-control-635560/",
+      "imageUrl": "https://cdn.findpawpal.com/office/635560.jpg?f=webp&w=730"
+    }
+  ]
+}

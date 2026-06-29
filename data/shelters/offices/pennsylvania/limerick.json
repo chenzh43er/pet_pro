@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:53:41.219719+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "limerick",
+    "name": "Limerick",
+    "label": "Limerick, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/limerick/",
+  "offices": [
+    {
+      "officeId": 474692,
+      "slug": "pennsylvania-ferret-club-and-shelter-474692",
+      "name": "Pennsylvania Ferret Club & Shelter",
+      "address": "PO Box 5074, Limerick, PA 19468",
+      "phone": "610-495-1509",
+      "image": "./img/shelter/office/474692.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pennsylvania-ferret-club-and-shelter-474692/",
+      "imageUrl": "https://cdn.findpawpal.com/office/474692.jpg?f=webp&w=730"
+    }
+  ]
+}

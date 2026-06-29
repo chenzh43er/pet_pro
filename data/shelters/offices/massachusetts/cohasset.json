@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:05:45.177777+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "cohasset",
+    "name": "Cohasset",
+    "label": "Cohasset, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/cohasset/",
+  "offices": [
+    {
+      "officeId": 40137,
+      "slug": "commonwealth-cares-humane-society-40137",
+      "name": "Commonwealth Cares Humane Society",
+      "address": "PO Box 902, Cohasset, MA 02025",
+      "phone": "781-749-8668",
+      "image": "./img/shelter/office/40137.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/commonwealth-cares-humane-society-40137/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40137.jpg?f=webp&w=730"
+    }
+  ]
+}

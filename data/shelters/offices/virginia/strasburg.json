@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:16:22.233124+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "strasburg",
+    "name": "Strasburg",
+    "label": "Strasburg, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/strasburg/",
+  "offices": [
+    {
+      "officeId": 511923,
+      "slug": "northern-virginia-sheltie-rescue-511923",
+      "name": "Northern Virginia Sheltie Rescue",
+      "address": "60 Penny Lane, Strasburg, VA 22657",
+      "phone": "540-465-5936",
+      "image": "https://cdn.findpawpal.com/office/511923.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/northern-virginia-sheltie-rescue-511923/"
+    }
+  ]
+}

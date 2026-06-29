@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:14:15.697647+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "glade-spring",
+    "name": "Glade Spring",
+    "label": "Glade Spring, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/glade-spring/",
+  "offices": [
+    {
+      "officeId": 529114,
+      "slug": "saving-furry-friends-529114",
+      "name": "Saving Furry Friends",
+      "address": "PO Box 741, Glade Spring, VA 24340",
+      "phone": "276-706-6477",
+      "image": "./img/shelter/office/529114.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/saving-furry-friends-529114/",
+      "imageUrl": "https://cdn.findpawpal.com/office/529114.jpg?f=webp&w=730"
+    }
+  ]
+}

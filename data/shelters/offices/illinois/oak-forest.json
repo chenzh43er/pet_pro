@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:47:19.574681+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "oak-forest",
+    "name": "Oak Forest",
+    "label": "Oak Forest, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/oak-forest/",
+  "offices": [
+    {
+      "officeId": 393354,
+      "slug": "oak-forest-animal-control-393354",
+      "name": "Oak Forest Animal Control",
+      "address": "15700 Lorel Avenue, Oak Forest, IL 60452",
+      "phone": "708-687-0565",
+      "image": "./img/shelter/office/393354.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/oak-forest-animal-control-393354/",
+      "imageUrl": "https://cdn.findpawpal.com/office/393354.jpg?f=webp&w=730"
+    }
+  ]
+}

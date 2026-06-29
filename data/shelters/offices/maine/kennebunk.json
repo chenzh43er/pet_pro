@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:01:42.835045+00:00",
+  "state": {
+    "slug": "maine",
+    "name": "Maine"
+  },
+  "city": {
+    "slug": "kennebunk",
+    "name": "Kennebunk",
+    "label": "Kennebunk, ME"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maine/kennebunk/",
+  "offices": [
+    {
+      "officeId": 419169,
+      "slug": "animal-welfare-society-419169",
+      "name": "Animal Welfare Society",
+      "address": "46 Holland Road, Kennebunk, ME 04043",
+      "phone": "207-985-3244",
+      "image": "./img/shelter/office/419169.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-welfare-society-419169/",
+      "imageUrl": "https://cdn.findpawpal.com/office/419169.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 426676,
+      "slug": "west-kennebunk-animal-control-426676",
+      "name": "West Kennebunk Animal Control",
+      "address": "46 Holland Road, Kennebunk, ME 04043",
+      "phone": "207-985-3244",
+      "image": "./img/shelter/office/426676.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/west-kennebunk-animal-control-426676/",
+      "imageUrl": "https://cdn.findpawpal.com/office/426676.jpg?f=webp&w=730"
+    }
+  ]
+}

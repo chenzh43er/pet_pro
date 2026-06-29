@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:54:27.786609+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "port-royal",
+    "name": "Port Royal",
+    "label": "Port Royal, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/port-royal/",
+  "offices": [
+    {
+      "officeId": 474573,
+      "slug": "adopt-a-cow-474573",
+      "name": "Adopt A Cow",
+      "address": "534 Gita Nagari Road, Port Royal, PA 17082",
+      "phone": "717-527-2476",
+      "image": "https://cdn.findpawpal.com/office/474573.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/adopt-a-cow-474573/"
+    }
+  ]
+}

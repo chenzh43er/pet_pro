@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:10:25.808388+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "fenton",
+    "name": "Fenton",
+    "label": "Fenton, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/fenton/",
+  "offices": [
+    {
+      "officeId": 190455,
+      "slug": "adopt-a-pet-inc-190455",
+      "name": "Adopt-A-Pet, Inc.",
+      "address": "300 East Ellen Street, Fenton, MI 48430",
+      "phone": "810-629-0723",
+      "image": "./img/shelter/office/190455.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/adopt-a-pet-inc-190455/",
+      "imageUrl": "https://cdn.findpawpal.com/office/190455.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 208808,
+      "slug": "a-friend-for-life-animal-rescue-and-behavior-center-208808",
+      "name": "A Friend for Life Animal Rescue and Behavior Center",
+      "address": "9480 Longmeadow Drive, Fenton, MI 48430",
+      "phone": "810-623-8217",
+      "image": "./img/shelter/office/208808.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/a-friend-for-life-animal-rescue-and-behavior-center-208808/",
+      "imageUrl": "https://cdn.findpawpal.com/office/208808.jpg?f=webp&w=730"
+    }
+  ]
+}

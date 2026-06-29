@@ -1,0 +1,459 @@
+{
+  "fetchedAt": "2026-06-27T17:47:50.723944+00:00",
+  "state": {
+    "slug": "kansas",
+    "name": "Kansas",
+    "offices": 99
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kansas/",
+  "cities": [
+    {
+      "slug": "anthony",
+      "name": "Anthony",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/anthony/"
+    },
+    {
+      "slug": "arkansas",
+      "name": "Arkansas",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/arkansas/"
+    },
+    {
+      "slug": "arma",
+      "name": "Arma",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/arma/"
+    },
+    {
+      "slug": "atchison",
+      "name": "Atchison",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/atchison/"
+    },
+    {
+      "slug": "auburn",
+      "name": "Auburn",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/auburn/"
+    },
+    {
+      "slug": "augusta",
+      "name": "Augusta",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/augusta/"
+    },
+    {
+      "slug": "burlington",
+      "name": "Burlington",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/burlington/"
+    },
+    {
+      "slug": "chanute",
+      "name": "Chanute",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/chanute/"
+    },
+    {
+      "slug": "cheney",
+      "name": "Cheney",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/cheney/"
+    },
+    {
+      "slug": "coffeyville",
+      "name": "Coffeyville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/coffeyville/"
+    },
+    {
+      "slug": "dodge",
+      "name": "Dodge",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/dodge/"
+    },
+    {
+      "slug": "el-dorado",
+      "name": "El Dorado",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/el-dorado/"
+    },
+    {
+      "slug": "elkhart",
+      "name": "Elkhart",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/elkhart/"
+    },
+    {
+      "slug": "ellis",
+      "name": "Ellis",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/ellis/"
+    },
+    {
+      "slug": "emporia",
+      "name": "Emporia",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/emporia/"
+    },
+    {
+      "slug": "garden",
+      "name": "Garden",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/garden/"
+    },
+    {
+      "slug": "goodland",
+      "name": "Goodland",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/goodland/"
+    },
+    {
+      "slug": "great-bend",
+      "name": "Great Bend",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/great-bend/"
+    },
+    {
+      "slug": "hays",
+      "name": "Hays",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/hays/"
+    },
+    {
+      "slug": "hoisington",
+      "name": "Hoisington",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/hoisington/"
+    },
+    {
+      "slug": "holton",
+      "name": "Holton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/holton/"
+    },
+    {
+      "slug": "hutchinson",
+      "name": "Hutchinson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/hutchinson/"
+    },
+    {
+      "slug": "independence",
+      "name": "Independence",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/independence/"
+    },
+    {
+      "slug": "kansas",
+      "name": "Kansas",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/kansas/"
+    },
+    {
+      "slug": "kinsley",
+      "name": "Kinsley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/kinsley/"
+    },
+    {
+      "slug": "la-harpe",
+      "name": "La Harpe",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/la-harpe/"
+    },
+    {
+      "slug": "lansing",
+      "name": "Lansing",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/lansing/"
+    },
+    {
+      "slug": "lawrence",
+      "name": "Lawrence",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/lawrence/"
+    },
+    {
+      "slug": "leavenworth",
+      "name": "Leavenworth",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/leavenworth/"
+    },
+    {
+      "slug": "lenexa",
+      "name": "Lenexa",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/lenexa/"
+    },
+    {
+      "slug": "leoti",
+      "name": "Leoti",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/leoti/"
+    },
+    {
+      "slug": "liberal",
+      "name": "Liberal",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/liberal/"
+    },
+    {
+      "slug": "lincoln",
+      "name": "Lincoln",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/lincoln/"
+    },
+    {
+      "slug": "louisburg",
+      "name": "Louisburg",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/louisburg/"
+    },
+    {
+      "slug": "madison",
+      "name": "Madison",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/madison/"
+    },
+    {
+      "slug": "manhattan",
+      "name": "Manhattan",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/manhattan/"
+    },
+    {
+      "slug": "marysville",
+      "name": "Marysville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/marysville/"
+    },
+    {
+      "slug": "mcpherson",
+      "name": "McPherson",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/mcpherson/"
+    },
+    {
+      "slug": "medicine-lodge",
+      "name": "Medicine Lodge",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/medicine-lodge/"
+    },
+    {
+      "slug": "merriam",
+      "name": "Merriam",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/merriam/"
+    },
+    {
+      "slug": "minneapolis",
+      "name": "Minneapolis",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/minneapolis/"
+    },
+    {
+      "slug": "mission",
+      "name": "Mission",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/mission/"
+    },
+    {
+      "slug": "muscotah",
+      "name": "Muscotah",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/muscotah/"
+    },
+    {
+      "slug": "newton",
+      "name": "Newton",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/newton/"
+    },
+    {
+      "slug": "nickerson",
+      "name": "Nickerson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/nickerson/"
+    },
+    {
+      "slug": "norton",
+      "name": "Norton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/norton/"
+    },
+    {
+      "slug": "olathe",
+      "name": "Olathe",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/olathe/"
+    },
+    {
+      "slug": "ottawa",
+      "name": "Ottawa",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/ottawa/"
+    },
+    {
+      "slug": "overland-park",
+      "name": "Overland Park",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/overland-park/"
+    },
+    {
+      "slug": "paola",
+      "name": "Paola",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/paola/"
+    },
+    {
+      "slug": "parsons",
+      "name": "Parsons",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/parsons/"
+    },
+    {
+      "slug": "pittsburg",
+      "name": "Pittsburg",
+      "offices": 6,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/pittsburg/"
+    },
+    {
+      "slug": "pratt",
+      "name": "Pratt",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/pratt/"
+    },
+    {
+      "slug": "riley",
+      "name": "Riley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/riley/"
+    },
+    {
+      "slug": "salina",
+      "name": "Salina",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/salina/"
+    },
+    {
+      "slug": "sedan",
+      "name": "Sedan",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/sedan/"
+    },
+    {
+      "slug": "syracuse",
+      "name": "Syracuse",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/syracuse/"
+    },
+    {
+      "slug": "topeka",
+      "name": "Topeka",
+      "offices": 6,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/topeka/"
+    },
+    {
+      "slug": "ulysses",
+      "name": "Ulysses",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/ulysses/"
+    },
+    {
+      "slug": "valley-center",
+      "name": "Valley Center",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/valley-center/"
+    },
+    {
+      "slug": "valley-falls",
+      "name": "Valley Falls",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/valley-falls/"
+    },
+    {
+      "slug": "westmoreland",
+      "name": "Westmoreland",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/westmoreland/"
+    },
+    {
+      "slug": "wichita",
+      "name": "Wichita",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/wichita/"
+    },
+    {
+      "slug": "winfield",
+      "name": "Winfield",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/winfield/"
+    }
+  ]
+}

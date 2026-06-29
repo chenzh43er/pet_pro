@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:50:41.850390+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "lake-village",
+    "name": "Lake Village",
+    "label": "Lake Village, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/lake-village/",
+  "offices": [
+    {
+      "officeId": 217592,
+      "slug": "northwest-indiana-german-shepherd-rescue-217592",
+      "name": "Northwest Indiana German Shepherd Rescue",
+      "address": "96 East 800 North, Lake Village, IN 46349",
+      "phone": "219-345-5540",
+      "image": "./img/shelter/office/217592.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/northwest-indiana-german-shepherd-rescue-217592/",
+      "imageUrl": "https://cdn.findpawpal.com/office/217592.jpg?f=webp&w=730"
+    }
+  ]
+}

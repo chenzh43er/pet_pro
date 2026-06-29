@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T20:17:16.169639+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "bellevue",
+    "name": "Bellevue",
+    "label": "Bellevue, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/bellevue/",
+  "offices": [
+    {
+      "officeId": 593606,
+      "slug": "king-county-of-eastside-593606",
+      "name": "King County of Eastside",
+      "address": "821 164th Avenue Northeast, Bellevue, WA 98008",
+      "phone": "206-296-3940",
+      "image": "./img/shelter/office/593606.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/king-county-of-eastside-593606/",
+      "imageUrl": "https://cdn.findpawpal.com/office/593606.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 611009,
+      "slug": "seattle-humane-611009",
+      "name": "Seattle Humane",
+      "address": "13212 Southeast Eastgate Way, Bellevue, WA 98005",
+      "phone": "425-641-0080",
+      "image": "./img/shelter/office/611009.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/seattle-humane-611009/",
+      "imageUrl": "https://cdn.findpawpal.com/office/611009.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 628853,
+      "slug": "people-for-abandoned-pets-628853",
+      "name": "People for Abandoned Pets",
+      "address": "PO Box 70025, Bellevue, WA 98007",
+      "phone": "425-453-9222",
+      "image": "./img/shelter/office/628853.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/people-for-abandoned-pets-628853/",
+      "imageUrl": "https://cdn.findpawpal.com/office/628853.jpg?f=webp&w=730"
+    }
+  ]
+}

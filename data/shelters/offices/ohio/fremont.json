@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:44:20.675017+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "fremont",
+    "name": "Fremont",
+    "label": "Fremont, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/fremont/",
+  "offices": [
+    {
+      "officeId": 466597,
+      "slug": "humane-society-of-sandusky-county-inc-466597",
+      "name": "Humane Society of Sandusky County Inc",
+      "address": "2520 Port Clinton Road, Fremont, OH 43420",
+      "phone": "419-334-4517",
+      "image": "./img/shelter/office/466597.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-sandusky-county-inc-466597/",
+      "imageUrl": "https://cdn.findpawpal.com/office/466597.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 580745,
+      "slug": "society-for-the-protection-of-animals-inc-580745",
+      "name": "Society for the Protection of Animals, Inc.",
+      "address": "PO Box 1047, Fremont, OH 43420",
+      "phone": "419-334-5521",
+      "image": "./img/shelter/office/580745.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/society-for-the-protection-of-animals-inc-580745/",
+      "imageUrl": "https://cdn.findpawpal.com/office/580745.jpg?f=webp&w=730"
+    }
+  ]
+}

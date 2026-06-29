@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:58:46.744062+00:00",
+  "state": {
+    "slug": "south-dakota",
+    "name": "South Dakota"
+  },
+  "city": {
+    "slug": "delmont",
+    "name": "Delmont",
+    "label": "Delmont, SD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-dakota/delmont/",
+  "offices": [
+    {
+      "officeId": 607182,
+      "slug": "et-farms-animal-rescue-607182",
+      "name": "ET Farms Animal Rescue",
+      "address": "401 East Co Road 500, Delmont, SD 57330",
+      "phone": "605-481-2959",
+      "image": "./img/shelter/office/607182.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/et-farms-animal-rescue-607182/",
+      "imageUrl": "https://cdn.findpawpal.com/office/607182.jpg?f=webp&w=730"
+    }
+  ]
+}

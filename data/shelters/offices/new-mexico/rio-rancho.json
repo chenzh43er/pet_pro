@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:31:00.177102+00:00",
+  "state": {
+    "slug": "new-mexico",
+    "name": "New Mexico"
+  },
+  "city": {
+    "slug": "rio-rancho",
+    "name": "Rio Rancho",
+    "label": "Rio Rancho, NM"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-mexico/rio-rancho/",
+  "offices": [
+    {
+      "officeId": 262552,
+      "slug": "watermelon-mountain-ranch-262552",
+      "name": "Watermelon Mountain Ranch",
+      "address": "4320 Ridgecrest Drive Southeast, Rio Rancho, NM 87124",
+      "phone": "505-771-0140",
+      "image": "./img/shelter/office/262552.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/watermelon-mountain-ranch-262552/",
+      "imageUrl": "https://cdn.findpawpal.com/office/262552.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 326863,
+      "slug": "rio-rancho-animal-control-326863",
+      "name": "Rio Rancho Animal Control",
+      "address": "3441 Northern Boulevard Northeast, Rio Rancho, NM 87124",
+      "phone": "505-891-7237",
+      "image": "./img/shelter/office/326863.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rio-rancho-animal-control-326863/",
+      "imageUrl": "https://cdn.findpawpal.com/office/326863.jpg?f=webp&w=730"
+    }
+  ]
+}

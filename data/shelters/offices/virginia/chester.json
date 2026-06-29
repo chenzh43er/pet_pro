@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:13:16.819850+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "chester",
+    "name": "Chester",
+    "label": "Chester, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/chester/",
+  "offices": [
+    {
+      "officeId": 554113,
+      "slug": "saving-animals-from-euthanasia-554113",
+      "name": "Saving Animals From Euthanasia",
+      "address": "PO Box 2483, Chester, VA 23831",
+      "phone": "804-751-4501",
+      "image": "./img/shelter/office/554113.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/saving-animals-from-euthanasia-554113/",
+      "imageUrl": "https://cdn.findpawpal.com/office/554113.jpg?f=webp&w=730"
+    }
+  ]
+}

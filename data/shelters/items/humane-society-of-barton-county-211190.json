@@ -1,0 +1,21 @@
+{
+  "officeId": 211190,
+  "slug": "humane-society-of-barton-county-211190",
+  "name": "Humane Society of Barton County",
+  "address": "102 West 1st Terrace, Lamar, MO 64759",
+  "street": "102 West 1st Terrace",
+  "addressCity": "Lamar",
+  "stateCode": "MO",
+  "zip": "64759",
+  "phone": "417-682-2436",
+  "image": "./img/shelter/office/211190.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-barton-county-211190/",
+  "stateSlug": "missouri",
+  "stateName": "Missouri",
+  "citySlug": "lamar",
+  "cityName": "Lamar",
+  "cityLabel": "Lamar, MO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/missouri/lamar/",
+  "fetchedAt": "2026-06-27T19:19:28.240763+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/211190.jpg?f=webp&w=730"
+}

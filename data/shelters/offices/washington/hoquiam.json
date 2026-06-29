@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:17:59.468330+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "hoquiam",
+    "name": "Hoquiam",
+    "label": "Hoquiam, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/hoquiam/",
+  "offices": [
+    {
+      "officeId": 714666,
+      "slug": "hoquiam-city-animal-control-714666",
+      "name": "Hoquiam City Animal Control",
+      "address": "215 10th Street, Hoquiam, WA 98550",
+      "phone": "360-532-0892",
+      "image": "./img/shelter/office/714666.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hoquiam-city-animal-control-714666/",
+      "imageUrl": "https://cdn.findpawpal.com/office/714666.jpg?f=webp&w=730"
+    }
+  ]
+}

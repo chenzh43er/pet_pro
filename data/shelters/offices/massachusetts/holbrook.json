@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:06:33.216748+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "holbrook",
+    "name": "Holbrook",
+    "label": "Holbrook, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/holbrook/",
+  "offices": [
+    {
+      "officeId": 41815,
+      "slug": "holbrook-town-animal-control-41815",
+      "name": "Holbrook Town Animal Control",
+      "address": "1 Maple Avenue, Holbrook, MA 02343",
+      "phone": "781-767-5259",
+      "image": "./img/shelter/office/41815.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/holbrook-town-animal-control-41815/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41815.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:18:49.610709+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "troy",
+    "name": "Troy",
+    "label": "Troy, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/troy/",
+  "offices": [
+    {
+      "slug": "the-pike-animal-shelter-6633",
+      "name": "The Pike Animal Shelter",
+      "address": "1305 South Brundidge Street, Troy, AL 36081",
+      "phone": "334-808-8898",
+      "image": "./img/shelter/office/6633.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-pike-animal-shelter-6633/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6633.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-pike-county-6681",
+      "name": "Humane Society of Pike County",
+      "address": "100 Dogwood Spring Road, Troy, AL 36081",
+      "phone": "334-807-0002",
+      "image": "./img/shelter/office/6681.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-pike-county-6681/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6681.jpg?f=webp&w=730"
+    }
+  ]
+}

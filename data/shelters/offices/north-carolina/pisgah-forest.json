@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:40:53.956052+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "pisgah-forest",
+    "name": "Pisgah Forest",
+    "label": "Pisgah Forest, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/pisgah-forest/",
+  "offices": [
+    {
+      "officeId": 213849,
+      "slug": "transylvania-county-humane-society-213849",
+      "name": "Transylvania County Humane Society",
+      "address": "PO Box 1288, Pisgah Forest, NC 28768",
+      "phone": "828-884-6577",
+      "image": "./img/shelter/office/213849.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/transylvania-county-humane-society-213849/",
+      "imageUrl": "https://cdn.findpawpal.com/office/213849.jpg?f=webp&w=730"
+    }
+  ]
+}

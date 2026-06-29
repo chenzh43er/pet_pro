@@ -1,0 +1,21 @@
+{
+  "officeId": 148221,
+  "slug": "warner-robins-animal-shelter-148221",
+  "name": "Warner Robins Animal Shelter",
+  "address": "206 Bay Street, Warner Robins, GA 31088",
+  "street": "206 Bay Street",
+  "addressCity": "Warner Robins",
+  "stateCode": "GA",
+  "zip": "31088",
+  "phone": "478-929-7280",
+  "image": "./img/shelter/office/148221.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/warner-robins-animal-shelter-148221/",
+  "stateSlug": "georgia",
+  "stateName": "Georgia",
+  "citySlug": "warner-robins",
+  "cityName": "Warner Robins",
+  "cityLabel": "Warner Robins, GA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/georgia/warner-robins/",
+  "fetchedAt": "2026-06-27T18:41:57.162540+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/148221.jpg?f=webp&w=730"
+}

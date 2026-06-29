@@ -1,0 +1,203 @@
+{
+  "fetchedAt": "2026-06-27T20:04:19.637787+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "dallas",
+    "name": "Dallas",
+    "label": "Dallas, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/dallas/",
+  "offices": [
+    {
+      "officeId": 478553,
+      "slug": "sheltie-haven-478553",
+      "name": "Sheltie Haven",
+      "address": "2637 San Marcus Avenue, Dallas, TX 75228",
+      "phone": "214-327-1102",
+      "image": "./img/shelter/office/478553.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sheltie-haven-478553/",
+      "imageUrl": "https://cdn.findpawpal.com/office/478553.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 478657,
+      "slug": "treasured-friends-478657",
+      "name": "Treasured Friends",
+      "address": "3556 Ridgebriar Drive, Dallas, TX 75234",
+      "phone": "972-247-3455",
+      "image": "./img/shelter/office/478657.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/treasured-friends-478657/",
+      "imageUrl": "https://cdn.findpawpal.com/office/478657.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 493138,
+      "slug": "help-for-helpless-animals-493138",
+      "name": "Help for Helpless Animals",
+      "address": "PO Box 797972, Dallas, TX 75379",
+      "phone": "972-424-4860",
+      "image": "./img/shelter/office/493138.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/help-for-helpless-animals-493138/",
+      "imageUrl": "https://cdn.findpawpal.com/office/493138.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 518342,
+      "slug": "greyhounds-rescue-society-of-texas-inc-518342",
+      "name": "Greyhounds Rescue Society of Texas, Inc.",
+      "address": "PO Box 703967, Dallas, TX 75370",
+      "phone": "972-503-4739",
+      "image": "./img/shelter/office/518342.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhounds-rescue-society-of-texas-inc-518342/",
+      "imageUrl": "https://cdn.findpawpal.com/office/518342.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 524337,
+      "slug": "summerlee-foundation-524337",
+      "name": "Summerlee Foundation",
+      "address": "5956 Sherry Lane, Dallas, TX 75225",
+      "phone": "214-363-9000",
+      "image": "./img/shelter/office/524337.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/summerlee-foundation-524337/",
+      "imageUrl": "https://cdn.findpawpal.com/office/524337.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 524438,
+      "slug": "german-shepherd-rescue-of-north-texas-inc-524438",
+      "name": "German Shepherd Rescue of North Texas, Inc.",
+      "address": "4114 Live Oak Street, Dallas, TX 75204",
+      "phone": "214-368-1120",
+      "image": "./img/shelter/office/524438.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/german-shepherd-rescue-of-north-texas-inc-524438/",
+      "imageUrl": "https://cdn.findpawpal.com/office/524438.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 538237,
+      "slug": "texas-cares-538237",
+      "name": "Texas Cares",
+      "address": "18484 Preston Road, Dallas, TX 75252",
+      "phone": "972-633-2287",
+      "image": "./img/shelter/office/538237.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/texas-cares-538237/",
+      "imageUrl": "https://cdn.findpawpal.com/office/538237.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 633345,
+      "slug": "paws-in-the-city-633345",
+      "name": "PAWS In The City",
+      "address": "3506 Cedar Springs Road, Dallas, TX 75219",
+      "phone": "",
+      "image": "./img/shelter/office/633345.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/paws-in-the-city-633345/",
+      "imageUrl": "https://cdn.findpawpal.com/office/633345.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 633444,
+      "slug": "carrollton-humane-society-633444",
+      "name": "Carrollton Humane Society",
+      "address": "2536 Sunscape Lane, Dallas, TX 75287",
+      "phone": "972-447-1180",
+      "image": "./img/shelter/office/633444.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/carrollton-humane-society-633444/",
+      "imageUrl": "https://cdn.findpawpal.com/office/633444.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 635043,
+      "slug": "scottie-kingdom-rescue-inc-635043",
+      "name": "Scottie Kingdom Rescue, Inc.",
+      "address": "PO Box 551265, Dallas, TX 75355",
+      "phone": "972-285-2402",
+      "image": "./img/shelter/office/635043.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/scottie-kingdom-rescue-inc-635043/",
+      "imageUrl": "https://cdn.findpawpal.com/office/635043.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 635323,
+      "slug": "feral-friends-animal-rescue-and-assistance-635323",
+      "name": "Feral Friends Animal Rescue & Assistance",
+      "address": "13410 Preston Road, Dallas, TX 75240",
+      "phone": "972-671-0427",
+      "image": "./img/shelter/office/635323.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/feral-friends-animal-rescue-and-assistance-635323/",
+      "imageUrl": "https://cdn.findpawpal.com/office/635323.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674311,
+      "slug": "texas-pawprints-674311",
+      "name": "Texas Pawprints",
+      "address": "5815 Ross Avenue, Dallas, TX 75206",
+      "phone": "214-356-9126",
+      "image": "./img/shelter/office/674311.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/texas-pawprints-674311/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674311.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674313,
+      "slug": "weimaraner-rescue-of-north-texas-inc-674313",
+      "name": "Weimaraner Rescue of North Texas, Inc.",
+      "address": "4347 West Northwest Highway, Dallas, TX 75220",
+      "phone": "972-994-3572",
+      "image": "https://cdn.findpawpal.com/office/674313.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/weimaraner-rescue-of-north-texas-inc-674313/"
+    },
+    {
+      "officeId": 674319,
+      "slug": "east-lake-veterinary-hospital-674319",
+      "name": "East Lake Veterinary Hospital",
+      "address": "10101 East Northwest Highway, Dallas, TX 75238",
+      "phone": "214-342-3100",
+      "image": "./img/shelter/office/674319.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/east-lake-veterinary-hospital-674319/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674319.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674324,
+      "slug": "golden-retriever-rescue-of-north-texas-674324",
+      "name": "Golden Retriever Rescue of North Texas",
+      "address": "PO Box 670031, Dallas, TX 75367",
+      "phone": "214-750-4477",
+      "image": "./img/shelter/office/674324.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/golden-retriever-rescue-of-north-texas-674324/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674324.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674327,
+      "slug": "city-of-dallas-animal-control-674327",
+      "name": "City of Dallas Animal Control",
+      "address": "525 Shelter Place, Dallas, TX 75203",
+      "phone": "214-670-7430",
+      "image": "https://cdn.findpawpal.com/office/674327.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/city-of-dallas-animal-control-674327/"
+    },
+    {
+      "officeId": 674331,
+      "slug": "ivor-oconnor-morgan-home-for-lost-and-strayed-dogs-674331",
+      "name": "Ivor O'connor Morgan Home for Lost and Strayed Dogs",
+      "address": "8414 Forney Road, Dallas, TX 75227",
+      "phone": "214-388-0568",
+      "image": "./img/shelter/office/674331.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ivor-oconnor-morgan-home-for-lost-and-strayed-dogs-674331/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674331.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674335,
+      "slug": "spca-of-texas-674335",
+      "name": "SPCA of Texas",
+      "address": "4830 Village Fair Drive, Dallas, TX 75224",
+      "phone": "214-742-7722",
+      "image": "./img/shelter/office/674335.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/spca-of-texas-674335/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674335.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 702230,
+      "slug": "humane-society-of-dallas-county-dog-and-kitty-city-702230",
+      "name": "Humane Society of Dallas County/Dog and Kitty City",
+      "address": "2719 Manor Way, Dallas, TX 75235",
+      "phone": "214-350-7387",
+      "image": "./img/shelter/office/702230.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-dallas-county-dog-and-kitty-city-702230/",
+      "imageUrl": "https://cdn.findpawpal.com/office/702230.jpg?f=webp&w=730"
+    }
+  ]
+}

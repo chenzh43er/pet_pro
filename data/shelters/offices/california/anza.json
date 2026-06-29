@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:23:47.710960+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "anza",
+    "name": "Anza",
+    "label": "Anza, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/anza/",
+  "offices": [
+    {
+      "officeId": 667985,
+      "slug": "soul-of-the-wolf-sanctuary-667985",
+      "name": "Soul of the Wolf Sanctuary",
+      "address": "PO Box 390440, Anza, CA 92539",
+      "phone": "909-763-0536",
+      "image": "https://cdn.findpawpal.com/office/667985.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/soul-of-the-wolf-sanctuary-667985/"
+    }
+  ]
+}

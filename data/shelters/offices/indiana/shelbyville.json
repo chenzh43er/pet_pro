@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:52:03.696004+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "shelbyville",
+    "name": "Shelbyville",
+    "label": "Shelbyville, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/shelbyville/",
+  "offices": [
+    {
+      "officeId": 200100,
+      "slug": "marion-animal-care-and-control-200100",
+      "name": "Marion Animal Care and Control",
+      "address": "1021 State Street, Shelbyville, IN 46176",
+      "phone": "765-668-4492",
+      "image": "./img/shelter/office/200100.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/marion-animal-care-and-control-200100/",
+      "imageUrl": "https://cdn.findpawpal.com/office/200100.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 218399,
+      "slug": "home-of-hope-for-homeless-animals-218399",
+      "name": "Home of Hope for Homeless Animals",
+      "address": "PO Box 224, Shelbyville, IN 46176",
+      "phone": "317-398-7921",
+      "image": "./img/shelter/office/218399.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/home-of-hope-for-homeless-animals-218399/",
+      "imageUrl": "https://cdn.findpawpal.com/office/218399.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 222344,
+      "slug": "animal-shelter-222344",
+      "name": "Animal Shelter",
+      "address": "705 Hale Road, Shelbyville, IN 46176",
+      "phone": "317-392-5127",
+      "image": "./img/shelter/office/222344.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-shelter-222344/",
+      "imageUrl": "https://cdn.findpawpal.com/office/222344.jpg?f=webp&w=730"
+    }
+  ]
+}

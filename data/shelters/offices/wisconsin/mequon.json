@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:23:24.343925+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "mequon",
+    "name": "Mequon",
+    "label": "Mequon, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/mequon/",
+  "offices": [
+    {
+      "officeId": 634177,
+      "slug": "mequon-animal-control-634177",
+      "name": "Mequon Animal Control",
+      "address": "3369 West Mequon Road, Mequon, WI 53092",
+      "phone": "262-242-9232",
+      "image": "./img/shelter/office/634177.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mequon-animal-control-634177/",
+      "imageUrl": "https://cdn.findpawpal.com/office/634177.jpg?f=webp&w=730"
+    }
+  ]
+}

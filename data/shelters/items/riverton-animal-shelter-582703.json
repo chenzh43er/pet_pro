@@ -1,0 +1,21 @@
+{
+  "officeId": 582703,
+  "slug": "riverton-animal-shelter-582703",
+  "name": "Riverton Animal Shelter",
+  "address": "816 North Federal Boulevard, Riverton, WY 82501",
+  "street": "816 North Federal Boulevard",
+  "addressCity": "Riverton",
+  "stateCode": "WY",
+  "zip": "82501",
+  "phone": "307-857-6002",
+  "image": "./img/shelter/office/582703.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/riverton-animal-shelter-582703/",
+  "stateSlug": "wyoming",
+  "stateName": "Wyoming",
+  "citySlug": "riverton",
+  "cityName": "Riverton",
+  "cityLabel": "Riverton, WY",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/wyoming/riverton/",
+  "fetchedAt": "2026-06-27T20:25:25.216122+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/582703.jpg?f=webp&w=730"
+}

@@ -1,0 +1,64 @@
+{
+  "fetchedAt": "2026-06-27T19:21:54.205167+00:00",
+  "state": {
+    "slug": "montana",
+    "name": "Montana"
+  },
+  "city": {
+    "slug": "kalispell",
+    "name": "Kalispell",
+    "label": "Kalispell, MT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/montana/kalispell/",
+  "offices": [
+    {
+      "officeId": 332424,
+      "slug": "kittymoms-animal-rescue-332424",
+      "name": "Kittymom's Animal Rescue",
+      "address": "265 Aspen Loop, Kalispell, MT 59901",
+      "phone": "406-752-4460",
+      "image": "./img/shelter/office/332424.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kittymoms-animal-rescue-332424/",
+      "imageUrl": "https://cdn.findpawpal.com/office/332424.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 424347,
+      "slug": "humane-society-of-northwest-montana-424347",
+      "name": "Humane Society of Northwest Montana",
+      "address": "100 Adopt A Pet Way, Kalispell, MT 59901",
+      "phone": "406-752-7297",
+      "image": "./img/shelter/office/424347.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-northwest-montana-424347/",
+      "imageUrl": "https://cdn.findpawpal.com/office/424347.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 438332,
+      "slug": "flathead-county-animal-shelter-438332",
+      "name": "Flathead County Animal Shelter",
+      "address": "225 Cemetery Road, Kalispell, MT 59901",
+      "phone": "406-752-1310",
+      "image": "./img/shelter/office/438332.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/flathead-county-animal-shelter-438332/",
+      "imageUrl": "https://cdn.findpawpal.com/office/438332.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 438422,
+      "slug": "angels-among-us-equine-rescue-and-sanctuary-inc-438422",
+      "name": "Angels Among Us Equine Rescue & Sanctuary, Inc.",
+      "address": "415 Anderson Lane, Kalispell, MT 59901",
+      "phone": "406-885-4504",
+      "image": "./img/shelter/office/438422.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/angels-among-us-equine-rescue-and-sanctuary-inc-438422/",
+      "imageUrl": "https://cdn.findpawpal.com/office/438422.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 470914,
+      "slug": "friends-of-buddy-470914",
+      "name": "Friends of Buddy",
+      "address": "PO Box 7263, Kalispell, MT 59904",
+      "phone": "406-881-4080",
+      "image": "https://cdn.findpawpal.com/office/470914.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-buddy-470914/"
+    }
+  ]
+}

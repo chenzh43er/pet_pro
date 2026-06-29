@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:51:21.273749+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "newburgh",
+    "name": "Newburgh",
+    "label": "Newburgh, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/newburgh/",
+  "offices": [
+    {
+      "officeId": 201588,
+      "slug": "warrick-humane-society-201588",
+      "name": "Warrick Humane Society",
+      "address": "5722 South Vann Road, Newburgh, IN 47630",
+      "phone": "812-858-1132",
+      "image": "./img/shelter/office/201588.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/warrick-humane-society-201588/",
+      "imageUrl": "https://cdn.findpawpal.com/office/201588.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:15:46.949589+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "middleburg",
+    "name": "Middleburg",
+    "label": "Middleburg, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/middleburg/",
+  "offices": [
+    {
+      "slug": "animal-rescue-movement-268155",
+      "name": "Animal Rescue Movement",
+      "address": "5744 Maverick Road, Middleburg, FL 32068",
+      "phone": "904-282-7888",
+      "image": "./img/shelter/office/268155.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-rescue-movement-268155/",
+      "imageUrl": "https://cdn.findpawpal.com/office/268155.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "safe-animal-shelter-292097",
+      "name": "Safe Animal Shelter",
+      "address": "2913 County Road 220, Middleburg, FL 32068",
+      "phone": "904-276-7233",
+      "image": "./img/shelter/office/292097.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/safe-animal-shelter-292097/",
+      "imageUrl": "https://cdn.findpawpal.com/office/292097.jpg?f=webp&w=730"
+    }
+  ]
+}

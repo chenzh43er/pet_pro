@@ -1,0 +1,21 @@
+{
+  "officeId": 192689,
+  "slug": "st-louis-animal-center-192689",
+  "name": "St. Louis Animal Center",
+  "address": "2120 Gasconade Street, St. Louis, MO 63118",
+  "street": "2120 Gasconade Street",
+  "addressCity": "St. Louis",
+  "stateCode": "MO",
+  "zip": "63118",
+  "phone": "314-353-5838",
+  "image": "./img/shelter/office/192689.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/st-louis-animal-center-192689/",
+  "stateSlug": "missouri",
+  "stateName": "Missouri",
+  "citySlug": "st-louis",
+  "cityName": "St. Louis",
+  "cityLabel": "St. Louis, MO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/missouri/st-louis/",
+  "fetchedAt": "2026-06-27T19:20:46.295628+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/192689.jpg?f=webp&w=730"
+}

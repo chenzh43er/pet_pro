@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:23:27.333837+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "milltown",
+    "name": "Milltown",
+    "label": "Milltown, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/milltown/",
+  "offices": [
+    {
+      "officeId": 634046,
+      "slug": "citizens-humane-society-634046",
+      "name": "Citizens Humane Society",
+      "address": "PO Box 335, Milltown, WI 54858",
+      "phone": "715-825-3680",
+      "image": "./img/shelter/office/634046.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/citizens-humane-society-634046/",
+      "imageUrl": "https://cdn.findpawpal.com/office/634046.jpg?f=webp&w=730"
+    }
+  ]
+}

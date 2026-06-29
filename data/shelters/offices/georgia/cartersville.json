@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:38:55.743360+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "cartersville",
+    "name": "Cartersville",
+    "label": "Cartersville, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/cartersville/",
+  "offices": [
+    {
+      "officeId": 134083,
+      "slug": "bartow-county-humane-society-134083",
+      "name": "Bartow County Humane Society",
+      "address": "50 Ladds Mountain Rd SW, Cartersville, GA 30120",
+      "phone": "770-383-3338",
+      "image": "./img/shelter/office/134083.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bartow-county-humane-society-134083/",
+      "imageUrl": "https://cdn.findpawpal.com/office/134083.jpg?f=webp&w=730"
+    }
+  ]
+}

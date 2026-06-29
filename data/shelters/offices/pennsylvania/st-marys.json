@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T19:55:03.691482+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "st-marys",
+    "name": "St. Marys",
+    "label": "St. Marys, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/st-marys/",
+  "offices": [
+    {
+      "officeId": 429145,
+      "slug": "aniumal-friends-of-elk-and-cameron-counties-429145",
+      "name": "Aniumal Friends of Elk and Cameron Counties",
+      "address": "PO Box 1041, St. Marys, PA 15857",
+      "phone": "",
+      "image": "./img/shelter/office/429145.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/aniumal-friends-of-elk-and-cameron-counties-429145/",
+      "imageUrl": "https://cdn.findpawpal.com/office/429145.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 475010,
+      "slug": "animal-friends-of-elk-and-cameron-counties-475010",
+      "name": "Animal Friends of Elk and Cameron Counties",
+      "address": "930 South Saint Marys Street, St. Marys, PA 15857",
+      "phone": "",
+      "image": "./img/shelter/office/475010.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-friends-of-elk-and-cameron-counties-475010/",
+      "imageUrl": "https://cdn.findpawpal.com/office/475010.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 589046,
+      "slug": "elk-county-humane-society-589046",
+      "name": "Elk County Humane Society",
+      "address": "1023 East Eschbach Road, St. Marys, PA 15857",
+      "phone": "814-834-3247",
+      "image": "https://cdn.findpawpal.com/office/589046.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/elk-county-humane-society-589046/"
+    }
+  ]
+}

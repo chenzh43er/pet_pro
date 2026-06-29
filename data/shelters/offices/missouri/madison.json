@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:19:40.277469+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "madison",
+    "name": "Madison",
+    "label": "Madison, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/madison/",
+  "offices": [
+    {
+      "officeId": 239901,
+      "slug": "madison-animal-control-239901",
+      "name": "Madison Animal Control",
+      "address": "PO Box 141, Madison, MO 65263",
+      "phone": "816-291-5253",
+      "image": "https://cdn.findpawpal.com/office/239901.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/madison-animal-control-239901/"
+    }
+  ]
+}

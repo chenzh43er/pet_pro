@@ -1,0 +1,21 @@
+{
+  "officeId": 39872,
+  "slug": "mountain-pet-rescue-39872",
+  "name": "Mountain Pet Rescue",
+  "address": "PO Box 1841, Winter Park, CO 80482",
+  "street": "PO Box 1841",
+  "addressCity": "Winter Park",
+  "stateCode": "CO",
+  "zip": "80482",
+  "phone": "970-281-7381",
+  "image": "./img/shelter/office/39872.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/mountain-pet-rescue-39872/",
+  "stateSlug": "colorado",
+  "stateName": "Colorado",
+  "citySlug": "winter-park",
+  "cityName": "Winter Park",
+  "cityLabel": "Winter Park, CO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/colorado/winter-park/",
+  "fetchedAt": "2026-06-27T18:35:22.533115+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/39872.jpg?f=webp&w=730"
+}

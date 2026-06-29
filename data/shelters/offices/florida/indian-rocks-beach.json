@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:14:46.472255+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "indian-rocks-beach",
+    "name": "Indian Rocks Beach",
+    "label": "Indian Rocks Beach, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/indian-rocks-beach/",
+  "offices": [
+    {
+      "slug": "stray-pets-in-need-293052",
+      "name": "Stray Pets In Need",
+      "address": "816 Gulf Boulevard, Indian Rocks Beach, FL 33785",
+      "phone": "",
+      "image": "./img/shelter/office/293052.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/stray-pets-in-need-293052/",
+      "imageUrl": "https://cdn.findpawpal.com/office/293052.jpg?f=webp&w=730"
+    }
+  ]
+}

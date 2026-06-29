@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:58:18.343455+00:00",
+  "state": {
+    "slug": "south-carolina",
+    "name": "South Carolina"
+  },
+  "city": {
+    "slug": "st-matthews",
+    "name": "St. Matthews",
+    "label": "St. Matthews, SC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-carolina/st-matthews/",
+  "offices": [
+    {
+      "officeId": 592412,
+      "slug": "tri-county-humane-society-592412",
+      "name": "Tri-County Humane Society",
+      "address": "PO Box 108, St. Matthews, SC 29135",
+      "phone": "",
+      "image": "./img/shelter/office/592412.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tri-county-humane-society-592412/",
+      "imageUrl": "https://cdn.findpawpal.com/office/592412.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 688610,
+      "slug": "calhoun-county-animal-shelter-688610",
+      "name": "Calhoun County Animal Shelter",
+      "address": "140 Purple Martin Drive, St. Matthews, SC 29135",
+      "phone": "803-874-2914",
+      "image": "./img/shelter/office/688610.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/calhoun-county-animal-shelter-688610/",
+      "imageUrl": "https://cdn.findpawpal.com/office/688610.jpg?f=webp&w=730"
+    }
+  ]
+}

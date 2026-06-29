@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:11:44.092356+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "midland",
+    "name": "Midland",
+    "label": "Midland, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/midland/",
+  "offices": [
+    {
+      "officeId": 189761,
+      "slug": "humane-society-of-midland-county-189761",
+      "name": "Humane Society of Midland County",
+      "address": "PO Box 1034, Midland, MI 48641",
+      "phone": "989-948-8804",
+      "image": "./img/shelter/office/189761.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-midland-county-189761/",
+      "imageUrl": "https://cdn.findpawpal.com/office/189761.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 203781,
+      "slug": "midland-county-animal-control-203781",
+      "name": "Midland County Animal Control",
+      "address": "2727 Rodd Street, Midland, MI 48640",
+      "phone": "989-832-6856",
+      "image": "./img/shelter/office/203781.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/midland-county-animal-control-203781/",
+      "imageUrl": "https://cdn.findpawpal.com/office/203781.jpg?f=webp&w=730"
+    }
+  ]
+}

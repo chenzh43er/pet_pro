@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:45:39.250147+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "millersport",
+    "name": "Millersport",
+    "label": "Millersport, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/millersport/",
+  "offices": [
+    {
+      "officeId": 431897,
+      "slug": "bonnies-animal-rescue-and-kennels-431897",
+      "name": "Bonnie's Animal Rescue and Kennels",
+      "address": "10571 Baltimore Road Southwest, Millersport, OH 43046",
+      "phone": "740-964-9651",
+      "image": "https://cdn.findpawpal.com/office/431897.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/bonnies-animal-rescue-and-kennels-431897/"
+    }
+  ]
+}

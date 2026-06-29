@@ -1,0 +1,65 @@
+{
+  "fetchedAt": "2026-06-27T18:42:17.010405+00:00",
+  "state": {
+    "slug": "hawaii",
+    "name": "Hawaii"
+  },
+  "city": {
+    "slug": "honolulu",
+    "name": "Honolulu",
+    "label": "Honolulu, HI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/hawaii/honolulu/",
+  "offices": [
+    {
+      "officeId": 317621,
+      "slug": "hawaiian-humane-society-317621",
+      "name": "Hawaiian Humane Society",
+      "address": "2700 Waialae Avenue, Honolulu, HI 96826",
+      "phone": "808-946-2187",
+      "image": "./img/shelter/office/317621.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hawaiian-humane-society-317621/",
+      "imageUrl": "https://cdn.findpawpal.com/office/317621.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 332367,
+      "slug": "hawaii-dog-foundation-332367",
+      "name": "Hawaii Dog Foundation",
+      "address": "PO Box 30171, Honolulu, HI 96820",
+      "phone": "808-220-8165",
+      "image": "./img/shelter/office/332367.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hawaii-dog-foundation-332367/",
+      "imageUrl": "https://cdn.findpawpal.com/office/332367.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 400838,
+      "slug": "animal-care-foundation-400838",
+      "name": "Animal CARE Foundation",
+      "address": "591 Pepeekeo Place, Honolulu, HI 96825",
+      "phone": "808-396-3333",
+      "image": "./img/shelter/office/400838.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-care-foundation-400838/",
+      "imageUrl": "https://cdn.findpawpal.com/office/400838.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 418331,
+      "slug": "hawaii-animal-sanctuary-418331",
+      "name": "Hawaii Animal Sanctuary",
+      "address": "PO Box 25574, Honolulu, HI 96825",
+      "phone": "808-226-4561",
+      "image": "./img/shelter/office/418331.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hawaii-animal-sanctuary-418331/",
+      "imageUrl": "https://cdn.findpawpal.com/office/418331.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 440967,
+      "slug": "hawaii-cat-foundation-440967",
+      "name": "Hawaii Cat Foundation",
+      "address": "PO Box 10696, Honolulu, HI 96816",
+      "phone": "808-739-2287",
+      "image": "./img/shelter/office/440967.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hawaii-cat-foundation-440967/",
+      "imageUrl": "https://cdn.findpawpal.com/office/440967.jpg?f=webp&w=730"
+    }
+  ]
+}

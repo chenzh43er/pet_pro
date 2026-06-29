@@ -1,0 +1,21 @@
+{
+  "officeId": 172232,
+  "slug": "el-mirage-city-animal-control-172232",
+  "name": "El Mirage City Animal Control",
+  "address": "14406 North Primrose Street, El Mirage, AZ 85335",
+  "street": "14406 North Primrose Street",
+  "addressCity": "El Mirage",
+  "stateCode": "AZ",
+  "zip": "85335",
+  "phone": "623-933-1341",
+  "image": "./img/shelter/office/172232.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/el-mirage-city-animal-control-172232/",
+  "stateSlug": "arizona",
+  "stateName": "Arizona",
+  "citySlug": "el-mirage",
+  "cityName": "El Mirage",
+  "cityLabel": "El Mirage, AZ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/arizona/el-mirage/",
+  "fetchedAt": "2026-06-27T18:20:01.404465+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/172232.jpg?f=webp&w=730"
+}

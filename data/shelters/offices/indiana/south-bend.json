@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:52:05.218371+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "south-bend",
+    "name": "South Bend",
+    "label": "South Bend, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/south-bend/",
+  "offices": [
+    {
+      "officeId": 217770,
+      "slug": "south-bend-animal-care-and-control-217770",
+      "name": "South Bend Animal Care and Control",
+      "address": "521 Eclipse Place, South Bend, IN 46628",
+      "phone": "574-235-9303",
+      "image": "./img/shelter/office/217770.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/south-bend-animal-care-and-control-217770/",
+      "imageUrl": "https://cdn.findpawpal.com/office/217770.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 241121,
+      "slug": "pet-refuge-inc-241121",
+      "name": "Pet Refuge, Inc.",
+      "address": "4626 South Burnett Drive, South Bend, IN 46614",
+      "phone": "574-231-1122",
+      "image": "./img/shelter/office/241121.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-refuge-inc-241121/",
+      "imageUrl": "https://cdn.findpawpal.com/office/241121.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 250863,
+      "slug": "south-bend-animal-care-and-control-250863",
+      "name": "South Bend Animal Care & Control",
+      "address": "105 South Olive Street, South Bend, IN 46619",
+      "phone": "219-235-9303",
+      "image": "./img/shelter/office/250863.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/south-bend-animal-care-and-control-250863/",
+      "imageUrl": "https://cdn.findpawpal.com/office/250863.jpg?f=webp&w=730"
+    }
+  ]
+}

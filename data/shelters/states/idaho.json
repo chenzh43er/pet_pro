@@ -1,0 +1,524 @@
+{
+  "stateSlug": "idaho",
+  "count": 74,
+  "shelters": [
+    {
+      "slug": "bingham-county-humane-society-366132",
+      "name": "Bingham County Humane Society",
+      "address": "PO Box 385, Blackfoot, ID 83221",
+      "phone": "208-680-3881",
+      "image": "https://cdn.findpawpal.com/office/366132.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "blackfoot-animal-shelter-358845",
+      "name": "Blackfoot Animal Shelter",
+      "address": "199 Interstate 15 Frontage Road, Blackfoot, ID 83221",
+      "phone": "208-785-6897",
+      "image": "https://cdn.findpawpal.com/office/358845.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "voice-of-the-animals-inc-449261",
+      "name": "Voice of the Animals, Inc.",
+      "address": "1031 Stone Road, Blanchard, ID 83804",
+      "phone": "208-437-1017",
+      "image": "https://cdn.findpawpal.com/office/449261.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animals-in-distress-association-476670",
+      "name": "Animals in Distress Association",
+      "address": "4650 36th Street, Boise, ID 83703",
+      "phone": "208-338-0897",
+      "image": "https://cdn.findpawpal.com/office/476670.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "boise-animal-control-338275",
+      "name": "Boise Animal Control",
+      "address": "4401 West Kootenai Street, Boise, ID 83705",
+      "phone": "208-429-6600",
+      "image": "https://cdn.findpawpal.com/office/338275.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fuzzy-pawz-rescue-340036",
+      "name": "Fuzzy Pawz Rescue",
+      "address": "PO Box 51234, Boise, ID 83705",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/340036.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greyhound-rescue-of-idaho-449704",
+      "name": "Greyhound Rescue of Idaho",
+      "address": "7154 West State Street, Boise, ID 83714",
+      "phone": "208-888-1364",
+      "image": "https://cdn.findpawpal.com/office/449704.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "idaho-humane-society-340383",
+      "name": "Idaho Humane Society",
+      "address": "4775 West Dorman Street, Boise, ID 83705",
+      "phone": "208-342-3508",
+      "image": "https://cdn.findpawpal.com/office/340383.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "northwest-animal-companions-340597",
+      "name": "Northwest Animal Companions",
+      "address": "PO Box 6376, Boise, ID 83707",
+      "phone": "208-463-4905",
+      "image": "https://cdn.findpawpal.com/office/340597.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-for-life-473310",
+      "name": "PAWS for Life",
+      "address": "PO Box 44595, Boise, ID 83711",
+      "phone": "208-375-9883",
+      "image": "https://cdn.findpawpal.com/office/473310.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "simply-cats-366496",
+      "name": "Simply Cats",
+      "address": "2833 South Victory View Way, Boise, ID 83709",
+      "phone": "208-343-7177",
+      "image": "https://cdn.findpawpal.com/office/366496.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "southwest-idaho-corgi-rescue-366526",
+      "name": "Southwest Idaho Corgi Rescue",
+      "address": "194 South Corgi Lane, Boise, ID 83716",
+      "phone": "208-344-3938",
+      "image": "https://cdn.findpawpal.com/office/366526.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "taras-exotic-rescue-356130",
+      "name": "Tara's Exotic Rescue",
+      "address": "2725 N Five Mile Rd Trlr 47, Boise, ID 83713",
+      "phone": "208-713-1259",
+      "image": "https://cdn.findpawpal.com/office/356130.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bonners-ferry-animal-shelter-366689",
+      "name": "Bonners Ferry Animal Shelter",
+      "address": "6651 Lincoln, Bonners Ferry, ID 83805",
+      "phone": "208-267-7504",
+      "image": "https://cdn.findpawpal.com/office/366689.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-animal-adoption-inc-366234",
+      "name": "Second Chance Animal Adoption, Inc.",
+      "address": "PO Box 1925, Bonners Ferry, ID 83805",
+      "phone": "208-267-2023",
+      "image": "https://cdn.findpawpal.com/office/366234.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "buhl-animal-shelter-356308",
+      "name": "Buhl Animal Shelter",
+      "address": "201 11th Avenue North, Buhl, ID 83316",
+      "phone": "208-543-4326",
+      "image": "https://cdn.findpawpal.com/office/356308.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "burley-animal-shelter-339679",
+      "name": "Burley Animal Shelter",
+      "address": "PO Box 1090, Burley, ID 83318",
+      "phone": "208-678-2256",
+      "image": "https://cdn.findpawpal.com/office/339679.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "canyon-county-animal-shelter-358429",
+      "name": "Canyon County Animal Shelter",
+      "address": "5801 Graye Lane, Caldwell, ID 83607",
+      "phone": "208-455-5920",
+      "image": "https://cdn.findpawpal.com/office/358429.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "life-time-friends-animal-sanctuary-366169",
+      "name": "Life Time Friends Animal Sanctuary",
+      "address": "PO Box 54, Careywood, ID 83809",
+      "phone": "208-755-6298",
+      "image": "https://cdn.findpawpal.com/office/366169.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "challis-city-animal-control-719456",
+      "name": "Challis City Animal Control",
+      "address": "721 E Main Ave, Challis, ID 83226",
+      "phone": "208-879-2386",
+      "image": "https://cdn.findpawpal.com/office/719456.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chubbuck-animal-shelter-356336",
+      "name": "Chubbuck Animal Shelter",
+      "address": "PO Box 5604, Chubbuck, ID 83202",
+      "phone": "208-237-7172",
+      "image": "https://cdn.findpawpal.com/office/356336.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wolf-people-339624",
+      "name": "Wolf People",
+      "address": "PO Box 246, Cocolalla, ID 83813",
+      "phone": "208-263-1100",
+      "image": "https://cdn.findpawpal.com/office/339624.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "coeur-dalene-animal-control-358800",
+      "name": "Coeur D'Alene Animal Control",
+      "address": "3818 North Schreiber Way, Coeur d'Alene, ID 83815",
+      "phone": "208-769-2320",
+      "image": "https://cdn.findpawpal.com/office/358800.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greyhound-pets-inc-449658",
+      "name": "Greyhound Pets, Inc.",
+      "address": "6225 North Old Atlas Road, Coeur d'Alene, ID 83814",
+      "phone": "208-765-3115",
+      "image": "https://cdn.findpawpal.com/office/449658.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "driggs-animal-shelter-340046",
+      "name": "Driggs Animal Shelter",
+      "address": "15 South 1750 East, Driggs, ID 83422",
+      "phone": "208-354-3499",
+      "image": "https://cdn.findpawpal.com/office/340046.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "teton-valley-humane-society-475104",
+      "name": "Teton Valley Humane Society",
+      "address": "185 East 25 North, Driggs, ID 83422",
+      "phone": "208-345-3499",
+      "image": "https://cdn.findpawpal.com/office/475104.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "emmett-ferret-shelter-488507",
+      "name": "Emmett Ferret Shelter",
+      "address": "6034 Hillview Road, Emmett, ID 83617",
+      "phone": "208-459-0716",
+      "image": "https://cdn.findpawpal.com/office/488507.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pound-animal-league-366323",
+      "name": "Pound Animal League",
+      "address": "PO Box 414, Emmett, ID 83617",
+      "phone": "208-365-4678",
+      "image": "https://cdn.findpawpal.com/office/366323.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fruitland-animal-shelter-340055",
+      "name": "Fruitland Animal Shelter",
+      "address": "907 Northwest 16th Street, Fruitland, ID 83619",
+      "phone": "208-452-7810",
+      "image": "https://cdn.findpawpal.com/office/340055.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "gooding-animal-control-358786",
+      "name": "Gooding Animal Control",
+      "address": "1945 Airport Road, Gooding, ID 83330",
+      "phone": "208-934-4354",
+      "image": "https://cdn.findpawpal.com/office/358786.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-shelter-of-the-wood-river-valley-337711",
+      "name": "Animal Shelter Of The Wood River Valley",
+      "address": "100 Croy Creek Road, Hailey, ID 83333",
+      "phone": "208-788-4351",
+      "image": "https://cdn.findpawpal.com/office/337711.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kootenai-humane-society-366299",
+      "name": "Kootenai Humane Society",
+      "address": "11650 North Ramsey Road, Hayden, ID 83835",
+      "phone": "208-772-4019",
+      "image": "https://cdn.findpawpal.com/office/366299.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-pet-rescue-366307",
+      "name": "Second Chance Pet Rescue",
+      "address": "PO Box 687, Hayden, ID 83835",
+      "phone": "208-687-8475",
+      "image": "https://cdn.findpawpal.com/office/366307.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bonneville-humane-society-355805",
+      "name": "Bonneville Humane Society",
+      "address": "444 North Eastern Avenue, Idaho Falls, ID 83402",
+      "phone": "208-529-9725",
+      "image": "https://cdn.findpawpal.com/office/355805.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-the-upper-valley-366221",
+      "name": "Humane Society of the Upper Valley",
+      "address": "PO Box 51021, Idaho Falls, ID 83405",
+      "phone": "208-523-8888",
+      "image": "https://cdn.findpawpal.com/office/366221.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "idaho-falls-animal-shelter-339631",
+      "name": "Idaho Falls Animal Shelter",
+      "address": "2450 Hemmert Avenue, Idaho Falls, ID 83401",
+      "phone": "208-612-8670",
+      "image": "https://cdn.findpawpal.com/office/339631.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "phoenix-equine-rescue-355821",
+      "name": "Phoenix Equine Rescue",
+      "address": "7055 West 33rd South, Idaho Falls, ID 83402",
+      "phone": "208-757-3683",
+      "image": "https://cdn.findpawpal.com/office/355821.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jerome-animal-shelter-358448",
+      "name": "Jerome Animal Shelter",
+      "address": "124 South Lincoln Avenue, Jerome, ID 83338",
+      "phone": "208-324-4328",
+      "image": "https://cdn.findpawpal.com/office/358448.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-ark-355931",
+      "name": "Animal Ark",
+      "address": "PO Box 108, Kamiah, ID 83536",
+      "phone": "208-926-4204",
+      "image": "https://cdn.findpawpal.com/office/355931.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-kellogg-animal-shelter-449603",
+      "name": "City of Kellogg Animal Shelter",
+      "address": "323 Main Street, Kellogg, ID 83837",
+      "phone": "208-784-1131",
+      "image": "https://cdn.findpawpal.com/office/449603.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "shoshone-humane-society-438504",
+      "name": "Shoshone Humane Society",
+      "address": "PO Box 1005, Kellogg, ID 83837",
+      "phone": "208-786-1911",
+      "image": "https://cdn.findpawpal.com/office/438504.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ketchum-animal-control-340502",
+      "name": "Ketchum Animal Control",
+      "address": "480 E Ave N, Ketchum, ID 83340",
+      "phone": "208-726-7818",
+      "image": "https://cdn.findpawpal.com/office/340502.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lewis-clark-animal-shelter-449488",
+      "name": "Lewis Clark Animal Shelter",
+      "address": "6 Shelter Road, Lewiston, ID 83501",
+      "phone": "208-746-1623",
+      "image": "https://cdn.findpawpal.com/office/449488.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "northern-idaho-animal-rescue-339790",
+      "name": "Northern Idaho Animal Rescue",
+      "address": "17259 Granite Lane, Lewiston, ID 83501",
+      "phone": "208-798-5585",
+      "image": "https://cdn.findpawpal.com/office/339790.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "valley-spca-488258",
+      "name": "Valley SPCA",
+      "address": "925 Preston Avenue, Lewiston, ID 83501",
+      "phone": "208-743-0345",
+      "image": "https://cdn.findpawpal.com/office/488258.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mcpaws-719386",
+      "name": "MCPAWS",
+      "address": "831 South 3rd Street, McCall, ID 83638",
+      "phone": "208-634-3647",
+      "image": "https://cdn.findpawpal.com/office/719386.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "meridian-city-animal-shelter-366611",
+      "name": "Meridian City Animal Shelter",
+      "address": "3401 North Ten Mile Road, Meridian, ID 83646",
+      "phone": "208-794-0944",
+      "image": "https://cdn.findpawpal.com/office/366611.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dachshund-idaho-rescue-358424",
+      "name": "Dachshund Idaho Rescue",
+      "address": "PO Box 341, Middleton, ID 83644",
+      "phone": "208-585-3412",
+      "image": "https://cdn.findpawpal.com/office/358424.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-the-palouse-358639",
+      "name": "Humane Society of the Palouse",
+      "address": "2019 White Avenue, Moscow, ID 83843",
+      "phone": "208-883-1166",
+      "image": "https://cdn.findpawpal.com/office/358639.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mountain-home-animal-shelter-366278",
+      "name": "Mountain Home Animal Shelter",
+      "address": "1190 South 10th East Street, Mountain Home, ID 83647",
+      "phone": "208-587-2111",
+      "image": "https://cdn.findpawpal.com/office/366278.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-haven-humane-society-488025",
+      "name": "Pet Haven Humane Society",
+      "address": "333 West Orchard Avenue, Nampa, ID 83651",
+      "phone": "208-466-1298",
+      "image": "https://cdn.findpawpal.com/office/488025.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "payette-partners-rescue-ranch-358568",
+      "name": "Payette Partners Rescue Ranch",
+      "address": "5138 Blaine Road, New Plymouth, ID 83655",
+      "phone": "208-697-6584",
+      "image": "https://cdn.findpawpal.com/office/358568.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clearwater-humane-society-ltd-337843",
+      "name": "Clearwater Humane Society, Ltd",
+      "address": "PO Box 2063, Orofino, ID 83544",
+      "phone": "208-476-5908",
+      "image": "https://cdn.findpawpal.com/office/337843.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "minidoka-county-animal-control-340446",
+      "name": "Minidoka County Animal Control",
+      "address": "616 W 75TH Ln S, Paul, ID 83347",
+      "phone": "208-438-2200",
+      "image": "https://cdn.findpawpal.com/office/340446.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "2nd-chance-animal-shelter-inc-355976",
+      "name": "2nd Chance Animal Shelter, Inc.",
+      "address": "PO Box 642, Payette, ID 83661",
+      "phone": "208-741-4334",
+      "image": "https://cdn.findpawpal.com/office/355976.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bannock-humane-society-366726",
+      "name": "Bannock Humane Society",
+      "address": "850 Barton Road, Pocatello, ID 83204",
+      "phone": "208-232-0371",
+      "image": "https://cdn.findpawpal.com/office/366726.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "federal-humane-society-438615",
+      "name": "Federal Humane Society",
+      "address": "922 Broadway Street, Pocatello, ID 83204",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/438615.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pocatello-animal-shelter-340454",
+      "name": "Pocatello Animal Shelter",
+      "address": "3100 Avenue of the Chiefs, Pocatello, ID 83201",
+      "phone": "208-234-6156",
+      "image": "https://cdn.findpawpal.com/office/340454.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "panhandle-animal-shelter-473564",
+      "name": "Panhandle Animal Shelter",
+      "address": "870 Kootenai Cutoff Road, Ponderay, ID 83852",
+      "phone": "208-265-7297",
+      "image": "https://cdn.findpawpal.com/office/473564.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "post-falls-animal-control-488667",
+      "name": "Post Falls Animal Control",
+      "address": "1717 East Polston Avenue, Post Falls, ID 83854",
+      "phone": "208-773-3517",
+      "image": "https://cdn.findpawpal.com/office/488667.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "priest-river-animal-rescue-340085",
+      "name": "Priest River Animal Rescue",
+      "address": "5538 U.s. 2, Priest River, ID 83856",
+      "phone": "208-448-0699",
+      "image": "https://cdn.findpawpal.com/office/340085.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dachshund-rescue-of-north-america-inc-438604",
+      "name": "Dachshund Rescue of North America, Inc.",
+      "address": "1091 Reynolds Road, Princeton, ID 83857",
+      "phone": "208-875-0435",
+      "image": "https://cdn.findpawpal.com/office/438604.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "horse-haven-rescue-474388",
+      "name": "Horse Haven Rescue",
+      "address": "PO Box 1305, Rathdrum, ID 83858",
+      "phone": "208-699-3059",
+      "image": "https://cdn.findpawpal.com/office/474388.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "four-paws-pet-adoptions-474746",
+      "name": "Four Paws Pet Adoptions",
+      "address": "119 South 4th West, Rexburg, ID 83440",
+      "phone": "208-356-3717",
+      "image": "https://cdn.findpawpal.com/office/474746.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rupert-city-animal-control-438818",
+      "name": "Rupert City Animal Control",
+      "address": "616 W 75TH Ln S, Rupert, ID 83350",
+      "phone": "208-438-2200",
+      "image": "https://cdn.findpawpal.com/office/438818.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lemhi-county-humane-society-449446",
+      "name": "Lemhi County Humane Society",
+      "address": "PO Box 1918, Salmon, ID 83467",
+      "phone": "208-756-2625",
+      "image": "https://cdn.findpawpal.com/office/449446.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "salmon-animal-shelter-476274",
+      "name": "Salmon Animal Shelter",
+      "address": "958 Vfw Dr, Salmon, ID 83467",
+      "phone": "208-756-4100",
+      "image": "https://cdn.findpawpal.com/office/476274.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bonner-county-humane-society-and-clinic-487859",
+      "name": "Bonner County Humane Society & Clinic",
+      "address": "PO Box 1534, Sandpoint, ID 83864",
+      "phone": "208-263-9282",
+      "image": "https://cdn.findpawpal.com/office/487859.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "shelley-animal-control-356146",
+      "name": "Shelley Animal Control",
+      "address": "115 South Emerson Avenue, Shelley, ID 83274",
+      "phone": "208-357-3446",
+      "image": "https://cdn.findpawpal.com/office/356146.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "benewah-county-humane-society-339845",
+      "name": "Benewah County Humane Society",
+      "address": "53 Robinson Lane, St. Maries, ID 83861",
+      "phone": "208-245-7387",
+      "image": "https://cdn.findpawpal.com/office/339845.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hopes-haven-animal-shelter-356038",
+      "name": "Hopes Haven Animal Shelter",
+      "address": "53 Robinson Lane, St. Maries, ID 83861",
+      "phone": "208-245-7387",
+      "image": "https://cdn.findpawpal.com/office/356038.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "idaho-animal-advocates-340049",
+      "name": "Idaho Animal Advocates",
+      "address": "PO Box 2196, Sun Valley, ID 83353",
+      "phone": "208-726-1188",
+      "image": "https://cdn.findpawpal.com/office/340049.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "all-keepers-animal-rescue-338135",
+      "name": "All Keepers Animal Rescue",
+      "address": "464 Walnut Street, Twin Falls, ID 83301",
+      "phone": "208-316-6727",
+      "image": "https://cdn.findpawpal.com/office/338135.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "twin-falls-humane-society-475158",
+      "name": "Twin Falls Humane Society",
+      "address": "420 Victory Avenue, Twin Falls, ID 83301",
+      "phone": "208-736-2299",
+      "image": "https://cdn.findpawpal.com/office/475158.jpg?f=webp&w=730"
+    }
+  ]
+}

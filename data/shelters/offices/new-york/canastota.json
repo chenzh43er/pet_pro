@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:32:19.767889+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "canastota",
+    "name": "Canastota",
+    "label": "Canastota, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/canastota/",
+  "offices": [
+    {
+      "officeId": 331930,
+      "slug": "wanderers-rest-humane-association-inc-331930",
+      "name": "Wanderers Rest Humane Association Inc",
+      "address": "7138 Sutherland Drive, Canastota, NY 13032",
+      "phone": "315-697-2796",
+      "image": "./img/shelter/office/331930.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wanderers-rest-humane-association-inc-331930/",
+      "imageUrl": "https://cdn.findpawpal.com/office/331930.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 525126,
+  "slug": "panhandle-animal-shelter-525126",
+  "name": "Panhandle Animal Shelter",
+  "address": "119 Euclid Avenue, Panhandle, TX 79068",
+  "street": "119 Euclid Avenue",
+  "addressCity": "Panhandle",
+  "stateCode": "TX",
+  "zip": "79068",
+  "phone": "806-537-5393",
+  "image": "./img/shelter/office/525126.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/panhandle-animal-shelter-525126/",
+  "stateSlug": "texas",
+  "stateName": "Texas",
+  "citySlug": "panhandle",
+  "cityName": "Panhandle",
+  "cityLabel": "Panhandle, TX",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/texas/panhandle/",
+  "fetchedAt": "2026-06-27T20:08:10.634792+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/525126.jpg?f=webp&w=730"
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:25:40.562567+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "elverta",
+    "name": "Elverta",
+    "label": "Elverta, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/elverta/",
+  "offices": [
+    {
+      "slug": "homeward-bound-golden-retriever-rescue-and-sanctuary-487664",
+      "name": "Homeward Bound Golden Retriever Rescue & Sanctuary",
+      "address": "7495 Natomas Road, Elverta, CA 95626",
+      "phone": "916-655-1410",
+      "image": "./img/shelter/office/487664.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/homeward-bound-golden-retriever-rescue-and-sanctuary-487664/",
+      "imageUrl": "https://cdn.findpawpal.com/office/487664.jpg?f=webp&w=730"
+    }
+  ]
+}

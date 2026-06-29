@@ -1,0 +1,95 @@
+{
+  "fetchedAt": "2026-06-27T20:04:27.136783+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "denton",
+    "name": "Denton",
+    "label": "Denton, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/denton/",
+  "offices": [
+    {
+      "officeId": 477948,
+      "slug": "texas-coalition-for-animal-protection-477948",
+      "name": "Texas Coalition for Animal Protection",
+      "address": "PO Box 504, Denton, TX 76202",
+      "phone": "972-463-7000",
+      "image": "./img/shelter/office/477948.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/texas-coalition-for-animal-protection-477948/",
+      "imageUrl": "https://cdn.findpawpal.com/office/477948.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 517460,
+      "slug": "denton-humane-society-517460",
+      "name": "Denton Humane Society",
+      "address": "PO Box 1972, Denton, TX 76202",
+      "phone": "940-382-7387",
+      "image": "./img/shelter/office/517460.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/denton-humane-society-517460/",
+      "imageUrl": "https://cdn.findpawpal.com/office/517460.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 539634,
+      "slug": "denton-county-animal-rescue-league-539634",
+      "name": "Denton County Animal Rescue League",
+      "address": "3409 Fairview Drive, Denton, TX 76210",
+      "phone": "",
+      "image": "./img/shelter/office/539634.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/denton-county-animal-rescue-league-539634/",
+      "imageUrl": "https://cdn.findpawpal.com/office/539634.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 633070,
+      "slug": "studio-d-633070",
+      "name": "Studio D",
+      "address": "1305 Bridges Street, Denton, TX 76208",
+      "phone": "443-371-5296",
+      "image": "./img/shelter/office/633070.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/studio-d-633070/",
+      "imageUrl": "https://cdn.findpawpal.com/office/633070.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 633667,
+      "slug": "denton-city-animal-control-633667",
+      "name": "Denton City Animal Control",
+      "address": "300 South Woodrow Lane, Denton, TX 76205",
+      "phone": "940-349-7594",
+      "image": "./img/shelter/office/633667.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/denton-city-animal-control-633667/",
+      "imageUrl": "https://cdn.findpawpal.com/office/633667.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 635456,
+      "slug": "denton-animal-shelter-635456",
+      "name": "Denton Animal Shelter",
+      "address": "3717 North Elm Street, Denton, TX 76207",
+      "phone": "940-349-7594",
+      "image": "./img/shelter/office/635456.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/denton-animal-shelter-635456/",
+      "imageUrl": "https://cdn.findpawpal.com/office/635456.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674138,
+      "slug": "young-animal-humane-society-674138",
+      "name": "Young Animal Humane Society",
+      "address": "1617 Egan Street, Denton, TX 76201",
+      "phone": "214-434-4501",
+      "image": "./img/shelter/office/674138.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/young-animal-humane-society-674138/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674138.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 702129,
+      "slug": "rainbow-cat-rescue-702129",
+      "name": "Rainbow Cat Rescue",
+      "address": "6601 Grissom Road, Denton, TX 76208",
+      "phone": "940-243-4876",
+      "image": "./img/shelter/office/702129.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rainbow-cat-rescue-702129/",
+      "imageUrl": "https://cdn.findpawpal.com/office/702129.jpg?f=webp&w=730"
+    }
+  ]
+}

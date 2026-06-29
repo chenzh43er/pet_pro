@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:44:38.700514+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "hamilton",
+    "name": "Hamilton",
+    "label": "Hamilton, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/hamilton/",
+  "offices": [
+    {
+      "officeId": 467484,
+      "slug": "roberson-dog-rescue-467484",
+      "name": "Roberson Dog Rescue",
+      "address": "3905 Millikin Road, Hamilton, OH 45011",
+      "phone": "",
+      "image": "./img/shelter/office/467484.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/roberson-dog-rescue-467484/",
+      "imageUrl": "https://cdn.findpawpal.com/office/467484.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 581383,
+      "slug": "animal-adoption-foundation-581383",
+      "name": "Animal Adoption Foundation",
+      "address": "2480 Millville Ross Road, Hamilton, OH 45013",
+      "phone": "513-737-7387",
+      "image": "./img/shelter/office/581383.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-adoption-foundation-581383/",
+      "imageUrl": "https://cdn.findpawpal.com/office/581383.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 581391,
+      "slug": "animal-friends-humane-society-581391",
+      "name": "Animal Friends Humane Society",
+      "address": "1820 Princeton Road, Hamilton, OH 45011",
+      "phone": "513-867-5727",
+      "image": "./img/shelter/office/581391.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-friends-humane-society-581391/",
+      "imageUrl": "https://cdn.findpawpal.com/office/581391.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:53:25.097142+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa"
+  },
+  "city": {
+    "slug": "indianola",
+    "name": "Indianola",
+    "label": "Indianola, IA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/indianola/",
+  "offices": [
+    {
+      "officeId": 427856,
+      "slug": "kiya-koda-humane-society-427856",
+      "name": "Kiya Koda Humane Society",
+      "address": "1206 North Jefferson Way, Indianola, IA 50125",
+      "phone": "515-961-7080",
+      "image": "./img/shelter/office/427856.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kiya-koda-humane-society-427856/",
+      "imageUrl": "https://cdn.findpawpal.com/office/427856.jpg?f=webp&w=730"
+    }
+  ]
+}

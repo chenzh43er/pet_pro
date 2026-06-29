@@ -1,0 +1,21 @@
+{
+  "officeId": 5542,
+  "slug": "cat-association-of-topeka-5542",
+  "name": "Cat Association of Topeka",
+  "address": "1719 Southwest Gage Boulevard, Topeka, KS 66604",
+  "street": "1719 Southwest Gage Boulevard",
+  "addressCity": "Topeka",
+  "stateCode": "KS",
+  "zip": "66604",
+  "phone": "785-272-4735",
+  "image": "./img/shelter/office/5542.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/cat-association-of-topeka-5542/",
+  "stateSlug": "kansas",
+  "stateName": "Kansas",
+  "citySlug": "topeka",
+  "cityName": "Topeka",
+  "cityLabel": "Topeka, KS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kansas/topeka/",
+  "fetchedAt": "2026-06-27T18:55:58.934430+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/5542.jpg?f=webp&w=730"
+}

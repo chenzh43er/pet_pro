@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:32:15.643508+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "windsor",
+    "name": "Windsor",
+    "label": "Windsor, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/windsor/",
+  "offices": [
+    {
+      "slug": "windsor-animal-control-364111",
+      "name": "Windsor Animal Control",
+      "address": "63 Cockrobin Avenue, Windsor, CA 95492",
+      "phone": "707-837-3451",
+      "image": "./img/shelter/office/364111.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/windsor-animal-control-364111/",
+      "imageUrl": "https://cdn.findpawpal.com/office/364111.jpg?f=webp&w=730"
+    }
+  ]
+}

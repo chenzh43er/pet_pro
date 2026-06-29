@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-06-27T18:28:05.901036+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "moraga",
+    "name": "Moraga",
+    "label": "Moraga, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/moraga/",
+  "offices": [
+    {
+      "slug": "american-german-shepherd-rescue-association-inc-363091",
+      "name": "American German Shepherd Rescue Association, Inc.",
+      "address": "1350 Bollinger Canyon Road, Moraga, CA 94556",
+      "phone": "408-247-1272",
+      "image": "https://cdn.findpawpal.com/office/363091.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/american-german-shepherd-rescue-association-inc-363091/"
+    }
+  ]
+}

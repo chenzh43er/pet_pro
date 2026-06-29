@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:24:52.461577+00:00",
+  "state": {
+    "slug": "wyoming",
+    "name": "Wyoming"
+  },
+  "city": {
+    "slug": "afton",
+    "name": "Afton",
+    "label": "Afton, WY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wyoming/afton/",
+  "offices": [
+    {
+      "officeId": 722000,
+      "slug": "afton-animal-shelter-722000",
+      "name": "Afton Animal Shelter",
+      "address": "1136 Dry Creek Road, Afton, WY 83110",
+      "phone": "307-886-0433",
+      "image": "https://cdn.findpawpal.com/office/722000.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/afton-animal-shelter-722000/"
+    }
+  ]
+}

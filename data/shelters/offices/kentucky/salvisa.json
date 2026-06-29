@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:58:23.909097+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "salvisa",
+    "name": "Salvisa",
+    "label": "Salvisa, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/salvisa/",
+  "offices": [
+    {
+      "officeId": 119525,
+      "slug": "home-at-last-animal-sanctuary-119525",
+      "name": "Home At Last Animal Sanctuary",
+      "address": "PO Box 144, Salvisa, KY 40372",
+      "phone": "502-839-1974",
+      "image": "./img/shelter/office/119525.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/home-at-last-animal-sanctuary-119525/",
+      "imageUrl": "https://cdn.findpawpal.com/office/119525.jpg?f=webp&w=730"
+    }
+  ]
+}

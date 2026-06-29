@@ -1,0 +1,21 @@
+{
+  "officeId": 116309,
+  "slug": "pike-county-animal-shelter-116309",
+  "name": "Pike County Animal Shelter",
+  "address": "527 Lykins Creek, Pikeville, KY 41501",
+  "street": "527 Lykins Creek",
+  "addressCity": "Pikeville",
+  "stateCode": "KY",
+  "zip": "41501",
+  "phone": "606-432-6293",
+  "image": "./img/shelter/office/116309.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pike-county-animal-shelter-116309/",
+  "stateSlug": "kentucky",
+  "stateName": "Kentucky",
+  "citySlug": "pikeville",
+  "cityName": "Pikeville",
+  "cityLabel": "Pikeville, KY",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kentucky/pikeville/",
+  "fetchedAt": "2026-06-27T18:58:10.551040+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/116309.jpg?f=webp&w=730"
+}

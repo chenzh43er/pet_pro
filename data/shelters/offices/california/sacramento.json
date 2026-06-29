@@ -1,0 +1,60 @@
+{
+  "fetchedAt": "2026-06-27T18:30:01.274185+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "sacramento",
+    "name": "Sacramento",
+    "label": "Sacramento, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/sacramento/",
+  "offices": [
+    {
+      "slug": "happy-tails-pet-sanctuary-384945",
+      "name": "Happy Tails Pet Sanctuary",
+      "address": "6001 Folsom Boulevard, Sacramento, CA 95819",
+      "phone": "916-556-1155",
+      "image": "./img/shelter/office/384945.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/happy-tails-pet-sanctuary-384945/",
+      "imageUrl": "https://cdn.findpawpal.com/office/384945.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-for-life-484223",
+      "name": "Friends for Life",
+      "address": "PO Box 60082, Sacramento, CA 95860",
+      "phone": "916-551-3881",
+      "image": "./img/shelter/office/484223.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-for-life-484223/",
+      "imageUrl": "https://cdn.findpawpal.com/office/484223.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rescuing-animals-in-need-inc-537524",
+      "name": "Rescuing Animals in Need, Inc.",
+      "address": "PO Box 189394, Sacramento, CA 95818",
+      "phone": "916-492-7977",
+      "image": "./img/shelter/office/537524.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rescuing-animals-in-need-inc-537524/",
+      "imageUrl": "https://cdn.findpawpal.com/office/537524.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-sacramento-animal-care-services-668265",
+      "name": "City of Sacramento Animal Care Services",
+      "address": "2127 Front Street, Sacramento, CA 95818",
+      "phone": "916-808-7387",
+      "image": "./img/shelter/office/668265.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/city-of-sacramento-animal-care-services-668265/",
+      "imageUrl": "https://cdn.findpawpal.com/office/668265.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "never-cry-wolf-rescue-and-adoptions-668573",
+      "name": "Never Cry Wolf Rescue & Adoptions",
+      "address": "7501 Pixcroft Court, Sacramento, CA 95842",
+      "phone": "916-334-9653",
+      "image": "./img/shelter/office/668573.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/never-cry-wolf-rescue-and-adoptions-668573/",
+      "imageUrl": "https://cdn.findpawpal.com/office/668573.jpg?f=webp&w=730"
+    }
+  ]
+}

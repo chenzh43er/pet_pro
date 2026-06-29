@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:25:05.920934+00:00",
+  "state": {
+    "slug": "wyoming",
+    "name": "Wyoming"
+  },
+  "city": {
+    "slug": "glendo",
+    "name": "Glendo",
+    "label": "Glendo, WY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wyoming/glendo/",
+  "offices": [
+    {
+      "officeId": 709653,
+      "slug": "glendo-animal-control-709653",
+      "name": "Glendo Animal Control",
+      "address": "1625 Wyoming 270, Glendo, WY 82213",
+      "phone": "307-735-4177",
+      "image": "./img/shelter/office/709653.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/glendo-animal-control-709653/",
+      "imageUrl": "https://cdn.findpawpal.com/office/709653.jpg?f=webp&w=730"
+    }
+  ]
+}

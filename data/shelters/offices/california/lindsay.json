@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:27:14.514973+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "lindsay",
+    "name": "Lindsay",
+    "label": "Lindsay, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/lindsay/",
+  "offices": [
+    {
+      "slug": "lindsay-animal-control-shelter-367683",
+      "name": "Lindsay Animal Control Shelter",
+      "address": "23611 Road 196, Lindsay, CA 93247",
+      "phone": "559-562-6577",
+      "image": "./img/shelter/office/367683.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lindsay-animal-control-shelter-367683/",
+      "imageUrl": "https://cdn.findpawpal.com/office/367683.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T19:45:31.568981+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "mentor",
+    "name": "Mentor",
+    "label": "Mentor, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/mentor/",
+  "offices": [
+    {
+      "officeId": 580496,
+      "slug": "close-to-home-animal-rescue-580496",
+      "name": "Close to Home Animal Rescue",
+      "address": "PO Box 1061, Mentor, OH 44061",
+      "phone": "",
+      "image": "./img/shelter/office/580496.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/close-to-home-animal-rescue-580496/",
+      "imageUrl": "https://cdn.findpawpal.com/office/580496.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 639944,
+      "slug": "greater-ohio-dalmatian-rescue-639944",
+      "name": "Greater Ohio Dalmatian Rescue",
+      "address": "4946 Orchard Road, Mentor, OH 44060",
+      "phone": "",
+      "image": "./img/shelter/office/639944.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greater-ohio-dalmatian-rescue-639944/",
+      "imageUrl": "https://cdn.findpawpal.com/office/639944.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 639952,
+      "slug": "lake-humane-society-639952",
+      "name": "Lake Humane Society",
+      "address": "7564 Tyler Boulevard, Mentor, OH 44060",
+      "phone": "440-951-6122",
+      "image": "https://cdn.findpawpal.com/office/639952.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/lake-humane-society-639952/"
+    }
+  ]
+}

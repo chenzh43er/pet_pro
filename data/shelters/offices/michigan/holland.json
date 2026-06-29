@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:11:05.008799+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "holland",
+    "name": "Holland",
+    "label": "Holland, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/holland/",
+  "offices": [
+    {
+      "officeId": 208460,
+      "slug": "a-new-start-on-life-208460",
+      "name": "A New Start On Life",
+      "address": "2478 Ashbourne Drive, Holland, MI 49424",
+      "phone": "616-399-7869",
+      "image": "./img/shelter/office/208460.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/a-new-start-on-life-208460/",
+      "imageUrl": "https://cdn.findpawpal.com/office/208460.jpg?f=webp&w=730"
+    }
+  ]
+}

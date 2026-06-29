@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:26:08.537743+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "garberville",
+    "name": "Garberville",
+    "label": "Garberville, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/garberville/",
+  "offices": [
+    {
+      "officeId": 360133,
+      "slug": "humane-society-of-the-redwoods-360133",
+      "name": "Humane Society of the Redwoods",
+      "address": "909 Redwood Drive, Garberville, CA 95542",
+      "phone": "707-923-4300",
+      "image": "./img/shelter/office/360133.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-the-redwoods-360133/",
+      "imageUrl": "https://cdn.findpawpal.com/office/360133.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "fetchedAt": "2026-06-27T19:26:45.628324+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "jersey",
+    "name": "Jersey",
+    "label": "Jersey, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/jersey/",
+  "offices": [
+    {
+      "officeId": 97121,
+      "slug": "hudson-county-animal-control-97121",
+      "name": "Hudson County Animal Control",
+      "address": "1A Montgomery Ct, Jersey, NJ 07302",
+      "phone": "201-200-1008",
+      "image": "./img/shelter/office/97121.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hudson-county-animal-control-97121/",
+      "imageUrl": "https://cdn.findpawpal.com/office/97121.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 97130,
+      "slug": "jersey-city-animal-control-97130",
+      "name": "Jersey City Animal Control",
+      "address": "1 Journal Square Plaza, Jersey, NJ 07306",
+      "phone": "201-547-4888",
+      "image": "./img/shelter/office/97130.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/jersey-city-animal-control-97130/",
+      "imageUrl": "https://cdn.findpawpal.com/office/97130.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 99509,
+      "slug": "hudson-county-animal-league-99509",
+      "name": "Hudson County Animal League",
+      "address": "PO Box 3589, Jersey, NJ 07303",
+      "phone": "201-200-1008",
+      "image": "./img/shelter/office/99509.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hudson-county-animal-league-99509/",
+      "imageUrl": "https://cdn.findpawpal.com/office/99509.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 100010,
+      "slug": "rescuethecats-com-100010",
+      "name": "Rescuethecats.Com",
+      "address": "69 Montgomery Street, Jersey, NJ 07302",
+      "phone": "201-376-4474",
+      "image": "./img/shelter/office/100010.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rescuethecats-com-100010/",
+      "imageUrl": "https://cdn.findpawpal.com/office/100010.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 103146,
+      "slug": "humane-campaign-inc-103146",
+      "name": "Humane Campaign, Inc.",
+      "address": "PO Box 13001, Jersey, NJ 07303",
+      "phone": "201-333-4415",
+      "image": "./img/shelter/office/103146.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-campaign-inc-103146/",
+      "imageUrl": "https://cdn.findpawpal.com/office/103146.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 105128,
+      "slug": "hudson-county-spca-assisi-center-105128",
+      "name": "Hudson County SPCA Assisi Center",
+      "address": "480 Johnston Avenue, Jersey, NJ 07304",
+      "phone": "201-435-3557",
+      "image": "./img/shelter/office/105128.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hudson-county-spca-assisi-center-105128/",
+      "imageUrl": "https://cdn.findpawpal.com/office/105128.jpg?f=webp&w=730"
+    }
+  ]
+}

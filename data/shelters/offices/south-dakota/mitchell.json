@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:58:57.090824+00:00",
+  "state": {
+    "slug": "south-dakota",
+    "name": "South Dakota"
+  },
+  "city": {
+    "slug": "mitchell",
+    "name": "Mitchell",
+    "label": "Mitchell, SD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-dakota/mitchell/",
+  "offices": [
+    {
+      "officeId": 663390,
+      "slug": "mitchell-animal-rescue-663390",
+      "name": "Mitchell Animal Rescue",
+      "address": "PO Box 355, Mitchell, SD 57301",
+      "phone": "605-770-2170",
+      "image": "./img/shelter/office/663390.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mitchell-animal-rescue-663390/",
+      "imageUrl": "https://cdn.findpawpal.com/office/663390.jpg?f=webp&w=730"
+    }
+  ]
+}

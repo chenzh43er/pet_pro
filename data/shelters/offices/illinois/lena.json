@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:46:26.799896+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "lena",
+    "name": "Lena",
+    "label": "Lena, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/lena/",
+  "offices": [
+    {
+      "officeId": 514933,
+      "slug": "lena-animal-control-514933",
+      "name": "Lena Animal Control",
+      "address": "8709 West Dameier Road, Lena, IL 61048",
+      "phone": "815-369-2959",
+      "image": "./img/shelter/office/514933.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lena-animal-control-514933/",
+      "imageUrl": "https://cdn.findpawpal.com/office/514933.jpg?f=webp&w=730"
+    }
+  ]
+}

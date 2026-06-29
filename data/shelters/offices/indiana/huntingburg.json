@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:50:25.161902+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "huntingburg",
+    "name": "Huntingburg",
+    "label": "Huntingburg, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/huntingburg/",
+  "offices": [
+    {
+      "officeId": 200011,
+      "slug": "mama-cindys-animal-shelter-inc-200011",
+      "name": "Mama Cindy's Animal Shelter, Inc.",
+      "address": "1016 North Jackson Street, Huntingburg, IN 47542",
+      "phone": "812-683-5209",
+      "image": "./img/shelter/office/200011.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mama-cindys-animal-shelter-inc-200011/",
+      "imageUrl": "https://cdn.findpawpal.com/office/200011.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 217625,
+      "slug": "a-c-t-of-dubois-county-217625",
+      "name": "A.C.T of Dubois County",
+      "address": "2017 Leland Drive, Huntingburg, IN 47542",
+      "phone": "812-630-4812",
+      "image": "./img/shelter/office/217625.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/a-c-t-of-dubois-county-217625/",
+      "imageUrl": "https://cdn.findpawpal.com/office/217625.jpg?f=webp&w=730"
+    }
+  ]
+}

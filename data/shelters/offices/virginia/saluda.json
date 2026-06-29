@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:16:04.361723+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "saluda",
+    "name": "Saluda",
+    "label": "Saluda, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/saluda/",
+  "offices": [
+    {
+      "officeId": 646859,
+      "slug": "middlesex-county-animal-shelter-646859",
+      "name": "Middlesex County Animal Shelter",
+      "address": "2840 General Puller Highway, Saluda, VA 23149",
+      "phone": "804-758-5293",
+      "image": "https://cdn.findpawpal.com/office/646859.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/middlesex-county-animal-shelter-646859/"
+    }
+  ]
+}

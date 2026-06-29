@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:22:52.286562+00:00",
+  "state": {
+    "slug": "nebraska",
+    "name": "Nebraska"
+  },
+  "city": {
+    "slug": "plattsmouth",
+    "name": "Plattsmouth",
+    "label": "Plattsmouth, NE"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nebraska/plattsmouth/",
+  "offices": [
+    {
+      "officeId": 367530,
+      "slug": "plattsmouth-animal-shelter-367530",
+      "name": "Plattsmouth Animal Shelter",
+      "address": "444 13th Avenue, Plattsmouth, NE 68048",
+      "phone": "402-296-2155",
+      "image": "https://cdn.findpawpal.com/office/367530.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/plattsmouth-animal-shelter-367530/"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 98817,
+  "slug": "jefferson-pet-tracks-98817",
+  "name": "Jefferson Pet Tracks",
+  "address": "PO Box 371, Lake Hopatcong, NJ 07849",
+  "street": "PO Box 371",
+  "addressCity": "Lake Hopatcong",
+  "stateCode": "NJ",
+  "zip": "07849",
+  "phone": "",
+  "image": "./img/shelter/office/98817.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/jefferson-pet-tracks-98817/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "lake-hopatcong",
+  "cityName": "Lake Hopatcong",
+  "cityLabel": "Lake Hopatcong, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/lake-hopatcong/",
+  "fetchedAt": "2026-06-27T19:26:56.292523+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/98817.jpg?f=webp&w=730"
+}

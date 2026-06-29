@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:14:59.030418+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "kissimmee",
+    "name": "Kissimmee",
+    "label": "Kissimmee, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/kissimmee/",
+  "offices": [
+    {
+      "slug": "reptile-clan-rescue-of-central-florida-353072",
+      "name": "Reptile Clan Rescue of Central Florida",
+      "address": "103 Nicholas Court, Kissimmee, FL 34758",
+      "phone": "407-374-8010",
+      "image": "./img/shelter/office/353072.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/reptile-clan-rescue-of-central-florida-353072/",
+      "imageUrl": "https://cdn.findpawpal.com/office/353072.jpg?f=webp&w=730"
+    }
+  ]
+}

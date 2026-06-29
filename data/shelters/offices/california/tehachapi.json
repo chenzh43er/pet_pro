@@ -1,0 +1,32 @@
+{
+  "fetchedAt": "2026-06-27T18:31:19.435946+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "tehachapi",
+    "name": "Tehachapi",
+    "label": "Tehachapi, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/tehachapi/",
+  "offices": [
+    {
+      "slug": "tehachapi-humane-society-381114",
+      "name": "Tehachapi Humane Society",
+      "address": "21600 Golden Hills Boulevard, Tehachapi, CA 93561",
+      "phone": "661-823-0699",
+      "image": "./img/shelter/office/381114.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tehachapi-humane-society-381114/",
+      "imageUrl": "https://cdn.findpawpal.com/office/381114.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "old-english-sheepdog-rescue-388152",
+      "name": "Old English Sheepdog Rescue",
+      "address": "24521 Deertrail Drive, Tehachapi, CA 93561",
+      "phone": "661-821-5004",
+      "image": "https://cdn.findpawpal.com/office/388152.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/old-english-sheepdog-rescue-388152/"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "fetchedAt": "2026-06-27T19:45:10.224989+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "logan",
+    "name": "Logan",
+    "label": "Logan, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/logan/",
+  "offices": [
+    {
+      "officeId": 422779,
+      "slug": "the-pet-orphanage-422779",
+      "name": "The Pet Orphanage",
+      "address": "34200 Keller Road, Logan, OH 43138",
+      "phone": "740-380-3002",
+      "image": "https://cdn.findpawpal.com/office/422779.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/the-pet-orphanage-422779/"
+    },
+    {
+      "officeId": 444097,
+      "slug": "a-little-patch-of-heaven-animal-rescue-444097",
+      "name": "A Little Patch of Heaven Animal Rescue",
+      "address": "501 Angle Avenue, Logan, OH 43138",
+      "phone": "740-777-1675",
+      "image": "https://cdn.findpawpal.com/office/444097.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/a-little-patch-of-heaven-animal-rescue-444097/"
+    },
+    {
+      "officeId": 580423,
+      "slug": "hocking-county-humane-society-580423",
+      "name": "Hocking County Humane Society",
+      "address": "36069 Hocking Drive, Logan, OH 43138",
+      "phone": "740-380-9109",
+      "image": "https://cdn.findpawpal.com/office/580423.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/hocking-county-humane-society-580423/"
+    }
+  ]
+}

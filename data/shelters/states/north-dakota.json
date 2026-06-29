@@ -1,0 +1,188 @@
+{
+  "stateSlug": "north-dakota",
+  "count": 26,
+  "shelters": [
+    {
+      "slug": "j-and-s-animal-shelter-401894",
+      "name": "J and S Animal Shelter",
+      "address": "8105 142nd Ave SW, Bowman, ND 58623",
+      "phone": "701-523-7291",
+      "image": "https://cdn.findpawpal.com/office/401894.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-401899",
+      "name": "PAWS",
+      "address": "1704 2nd Street Northwest, Bowman, ND 58623",
+      "phone": "701-523-3520",
+      "image": "https://cdn.findpawpal.com/office/401899.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "badlands-animal-league-678634",
+      "name": "Badlands Animal League",
+      "address": "4661 105th Avenue Southwest, Dickinson, ND 58601",
+      "phone": "701-225-6007",
+      "image": "https://cdn.findpawpal.com/office/678634.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oreos-animal-rescue-536796",
+      "name": "Oreo's Animal Rescue",
+      "address": "93 21st Street East, Dickinson, ND 58601",
+      "phone": "701-483-0240",
+      "image": "https://cdn.findpawpal.com/office/536796.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-project-inc-610920",
+      "name": "Pet Project, Inc.",
+      "address": "PO Box 370, Dickinson, ND 58602",
+      "phone": "701-483-1720",
+      "image": "https://cdn.findpawpal.com/office/610920.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "4-luv-of-dog-rescue-427160",
+      "name": "4 Luv of Dog Rescue",
+      "address": "3037 13th Avenue South, Fargo, ND 58103",
+      "phone": "701-205-0190",
+      "image": "https://cdn.findpawpal.com/office/427160.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fargo-animal-shelter-431593",
+      "name": "Fargo Animal Shelter",
+      "address": "9 9th Street South, Fargo, ND 58103",
+      "phone": "701-356-7877",
+      "image": "https://cdn.findpawpal.com/office/431593.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "homeward-animal-shelter-431817",
+      "name": "Homeward Animal Shelter",
+      "address": "1201 28th Avenue North, Fargo, ND 58102",
+      "phone": "701-239-0077",
+      "image": "https://cdn.findpawpal.com/office/431817.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-rescue-program-431532",
+      "name": "Pet Rescue Program",
+      "address": "1345 University Drive, Fargo, ND 58103",
+      "phone": "701-239-0110",
+      "image": "https://cdn.findpawpal.com/office/431532.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "circle-of-friends-humane-society-431715",
+      "name": "Circle of Friends Humane Society",
+      "address": "4375 North Washington Street, Grand Forks, ND 58203",
+      "phone": "701-775-3732",
+      "image": "https://cdn.findpawpal.com/office/431715.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sleipnir-horse-sanctuary-inc-610778",
+      "name": "Sleipnir Horse Sanctuary, Inc.",
+      "address": "6433 15th Avenue Southeast, Hazelton, ND 58544",
+      "phone": "701-782-4217",
+      "image": "https://cdn.findpawpal.com/office/610778.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "james-river-humane-society-427107",
+      "name": "James River Humane Society",
+      "address": "8700 36th Street Southeast, Jamestown, ND 58401",
+      "phone": "701-252-0747",
+      "image": "https://cdn.findpawpal.com/office/427107.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "prairie-paws-rescue-431467",
+      "name": "Prairie PAWS Rescue",
+      "address": "PO Box 1114, Jamestown, ND 58402",
+      "phone": "701-320-4553",
+      "image": "https://cdn.findpawpal.com/office/431467.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "central-dakota-humane-society-545523",
+      "name": "Central Dakota Humane Society",
+      "address": "2104 37th Street, Mandan, ND 58554",
+      "phone": "701-667-2020",
+      "image": "https://cdn.findpawpal.com/office/545523.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jillians-haven-private-rescue-678623",
+      "name": "Jillian's Haven Private Rescue",
+      "address": "105 9th Avenue Northwest, Mandan, ND 58554",
+      "phone": "701-471-6756",
+      "image": "https://cdn.findpawpal.com/office/678623.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cherry-rose-gorgonia-545667",
+      "name": "Cherry Rose Gorgonia",
+      "address": "1600 27th Street Northwest, Minot, ND 58703",
+      "phone": "701-578-4183",
+      "image": "https://cdn.findpawpal.com/office/545667.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "minot-dog-pound-and-licensing-678646",
+      "name": "Minot Dog Pound & Licensing",
+      "address": "3010 East Burdick Expressway, Minot, ND 58701",
+      "phone": "701-852-6802",
+      "image": "https://cdn.findpawpal.com/office/678646.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "souris-valley-humane-society-611003",
+      "name": "Souris Valley Humane Society",
+      "address": "1935 20th Avenue Southeast, Minot, ND 58701",
+      "phone": "701-852-6133",
+      "image": "https://cdn.findpawpal.com/office/611003.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-town-animal-control-720627",
+      "name": "New Town Animal Control",
+      "address": "325 Main Street, New Town, ND 58763",
+      "phone": "701-627-2654",
+      "image": "https://cdn.findpawpal.com/office/720627.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "estevan-humane-society-720451",
+      "name": "Estevan Humane Society",
+      "address": "PO Box 304, Noonan, ND 58765",
+      "phone": "701-634-3755",
+      "image": "https://cdn.findpawpal.com/office/720451.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bentleys-buds-great-dane-rescue-720582",
+      "name": "Bentley's Buds Great Dane Rescue",
+      "address": "8888 111th Avenue Southeast, Oakes, ND 58474",
+      "phone": "701-320-6995",
+      "image": "https://cdn.findpawpal.com/office/720582.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sheyenne-valley-friends-of-animals-536788",
+      "name": "Sheyenne Valley Friends of Animals",
+      "address": "PO Box 432, Valley, ND 58072",
+      "phone": "701-840-5047",
+      "image": "https://cdn.findpawpal.com/office/536788.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "center-for-avian-adoption-rescue-and-education-431527",
+      "name": "Center For Avian Adoption, Rescue, and Education",
+      "address": "2202 2nd Avenue East, West Fargo, ND 58078",
+      "phone": "701-293-3833",
+      "image": "https://cdn.findpawpal.com/office/431527.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "west-fargo-animal-control-536899",
+      "name": "West Fargo Animal Control",
+      "address": "817 Main Avenue West, West Fargo, ND 58078",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/536899.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mondak-humane-society-431471",
+      "name": "Mondak Humane Society",
+      "address": "PO Box 1572, Williston, ND 58802",
+      "phone": "701-577-7387",
+      "image": "https://cdn.findpawpal.com/office/431471.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "williston-animal-control-431877",
+      "name": "Williston Animal Control",
+      "address": "5547 U.s. 85, Williston, ND 58801",
+      "phone": "701-572-9100",
+      "image": "https://cdn.findpawpal.com/office/431877.jpg?f=webp&w=730"
+    }
+  ]
+}

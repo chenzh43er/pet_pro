@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:17:55.875211+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "brookfield",
+    "name": "Brookfield",
+    "label": "Brookfield, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/brookfield/",
+  "offices": [
+    {
+      "officeId": 229898,
+      "slug": "linn-county-humane-society-229898",
+      "name": "Linn County Humane Society",
+      "address": "29205 Highway 11, Brookfield, MO 64628",
+      "phone": "660-258-3322",
+      "image": "./img/shelter/office/229898.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/linn-county-humane-society-229898/",
+      "imageUrl": "https://cdn.findpawpal.com/office/229898.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 229906,
+      "slug": "brookfield-animal-control-229906",
+      "name": "Brookfield Animal Control",
+      "address": "116 West Brooks Street, Brookfield, MO 64628",
+      "phone": "660-258-3385",
+      "image": "./img/shelter/office/229906.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/brookfield-animal-control-229906/",
+      "imageUrl": "https://cdn.findpawpal.com/office/229906.jpg?f=webp&w=730"
+    }
+  ]
+}

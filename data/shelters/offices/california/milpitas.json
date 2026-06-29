@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:27:55.627770+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "milpitas",
+    "name": "Milpitas",
+    "label": "Milpitas, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/milpitas/",
+  "offices": [
+    {
+      "slug": "humane-society-silicon-valley-365861",
+      "name": "Humane Society Silicon Valley",
+      "address": "901 Ames Avenue, Milpitas, CA 95035",
+      "phone": "408-262-2133",
+      "image": "./img/shelter/office/365861.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-silicon-valley-365861/",
+      "imageUrl": "https://cdn.findpawpal.com/office/365861.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "nor-cal-boxer-rescue-366637",
+      "name": "Nor Cal Boxer Rescue",
+      "address": "9 Pond Court, Milpitas, CA 95035",
+      "phone": "408-231-8036",
+      "image": "./img/shelter/office/366637.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/nor-cal-boxer-rescue-366637/",
+      "imageUrl": "https://cdn.findpawpal.com/office/366637.jpg?f=webp&w=730"
+    }
+  ]
+}

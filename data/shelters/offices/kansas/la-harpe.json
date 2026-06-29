@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:55:10.978899+00:00",
+  "state": {
+    "slug": "kansas",
+    "name": "Kansas"
+  },
+  "city": {
+    "slug": "la-harpe",
+    "name": "La Harpe",
+    "label": "La Harpe, KS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kansas/la-harpe/",
+  "offices": [
+    {
+      "officeId": 5916,
+      "slug": "allen-county-animal-rescue-facility-5916",
+      "name": "Allen County Animal Rescue Facility",
+      "address": "305 U.s. 54, La Harpe, KS 66751",
+      "phone": "620-496-7711",
+      "image": "./img/shelter/office/5916.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/allen-county-animal-rescue-facility-5916/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5916.jpg?f=webp&w=730"
+    }
+  ]
+}

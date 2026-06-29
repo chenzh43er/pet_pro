@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:39:59.172974+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "kitty-hawk",
+    "name": "Kitty Hawk",
+    "label": "Kitty Hawk, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/kitty-hawk/",
+  "offices": [
+    {
+      "officeId": 229246,
+      "slug": "coastal-humane-society-229246",
+      "name": "Coastal Humane Society",
+      "address": "4026 Welch Street, Kitty Hawk, NC 27949",
+      "phone": "252-261-7417",
+      "image": "./img/shelter/office/229246.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/coastal-humane-society-229246/",
+      "imageUrl": "https://cdn.findpawpal.com/office/229246.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 268781,
+      "slug": "feline-hope-animal-shelter-268781",
+      "name": "Feline Hope Animal Shelter",
+      "address": "843 Herbert Perry Road, Kitty Hawk, NC 27949",
+      "phone": "252-255-3365",
+      "image": "./img/shelter/office/268781.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/feline-hope-animal-shelter-268781/",
+      "imageUrl": "https://cdn.findpawpal.com/office/268781.jpg?f=webp&w=730"
+    }
+  ]
+}

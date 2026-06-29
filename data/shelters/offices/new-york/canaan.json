@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:32:16.724466+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "canaan",
+    "name": "Canaan",
+    "label": "Canaan, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/canaan/",
+  "offices": [
+    {
+      "officeId": 329286,
+      "slug": "greyhound-friends-west-inc-329286",
+      "name": "Greyhound Friends West, Inc.",
+      "address": "PO Box 483, Canaan, NY 12029",
+      "phone": "518-781-0464",
+      "image": "./img/shelter/office/329286.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhound-friends-west-inc-329286/",
+      "imageUrl": "https://cdn.findpawpal.com/office/329286.jpg?f=webp&w=730"
+    }
+  ]
+}

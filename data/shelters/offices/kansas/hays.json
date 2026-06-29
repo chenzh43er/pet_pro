@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:55:00.598667+00:00",
+  "state": {
+    "slug": "kansas",
+    "name": "Kansas"
+  },
+  "city": {
+    "slug": "hays",
+    "name": "Hays",
+    "label": "Hays, KS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kansas/hays/",
+  "offices": [
+    {
+      "officeId": 5102,
+      "slug": "humane-society-high-plains-5102",
+      "name": "Humane Society-High Plains",
+      "address": "2050 Old Highway 40, Hays, KS 67601",
+      "phone": "785-625-5252",
+      "image": "./img/shelter/office/5102.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-high-plains-5102/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5102.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 5118,
+      "slug": "animal-health-center-of-hays-llc-braun-jessica-dvm-5118",
+      "name": "Animal Health Center of Hays LLC: Braun Jessica DVM",
+      "address": "3340 East 27th Street, Hays, KS 67601",
+      "phone": "785-628-8603",
+      "image": "./img/shelter/office/5118.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-health-center-of-hays-llc-braun-jessica-dvm-5118/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5118.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 5868,
+      "slug": "hays-animal-control-5868",
+      "name": "Hays Animal Control",
+      "address": "105 West 12th Street, Hays, KS 67601",
+      "phone": "785-625-1011",
+      "image": "./img/shelter/office/5868.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hays-animal-control-5868/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5868.jpg?f=webp&w=730"
+    }
+  ]
+}

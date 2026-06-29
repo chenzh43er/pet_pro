@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:16:53.799613+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "williamsburg",
+    "name": "Williamsburg",
+    "label": "Williamsburg, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/williamsburg/",
+  "offices": [
+    {
+      "officeId": 511681,
+      "slug": "james-city-county-animal-control-shelter-511681",
+      "name": "James City County Animal Control Shelter",
+      "address": "PO Box 8784, Williamsburg, VA 23187",
+      "phone": "757-253-1800",
+      "image": "./img/shelter/office/511681.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/james-city-county-animal-control-shelter-511681/",
+      "imageUrl": "https://cdn.findpawpal.com/office/511681.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 561569,
+      "slug": "heritage-humane-society-561569",
+      "name": "Heritage Humane Society",
+      "address": "430 Waller Mill Road, Williamsburg, VA 23185",
+      "phone": "757-221-0150",
+      "image": "./img/shelter/office/561569.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/heritage-humane-society-561569/",
+      "imageUrl": "https://cdn.findpawpal.com/office/561569.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:07:42.569644+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "mission",
+    "name": "Mission",
+    "label": "Mission, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/mission/",
+  "offices": [
+    {
+      "officeId": 494202,
+      "slug": "south-texas-animal-sanctuary-494202",
+      "name": "South Texas Animal Sanctuary",
+      "address": "1505 North Conway Avenue, Mission, TX 78572",
+      "phone": "956-969-5989",
+      "image": "./img/shelter/office/494202.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/south-texas-animal-sanctuary-494202/",
+      "imageUrl": "https://cdn.findpawpal.com/office/494202.jpg?f=webp&w=730"
+    }
+  ]
+}

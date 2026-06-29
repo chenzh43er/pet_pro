@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:16:07.565584+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "north-miami",
+    "name": "North Miami",
+    "label": "North Miami, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/north-miami/",
+  "offices": [
+    {
+      "slug": "north-miami-animal-control-359992",
+      "name": "North Miami Animal Control",
+      "address": "1855 Northeast 142nd Street, North Miami, FL 33181",
+      "phone": "305-895-9876",
+      "image": "./img/shelter/office/359992.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/north-miami-animal-control-359992/",
+      "imageUrl": "https://cdn.findpawpal.com/office/359992.jpg?f=webp&w=730"
+    }
+  ]
+}

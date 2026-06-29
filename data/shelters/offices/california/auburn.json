@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T18:23:57.117219+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "auburn",
+    "name": "Auburn",
+    "label": "Auburn, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/auburn/",
+  "offices": [
+    {
+      "officeId": 361359,
+      "slug": "auburn-area-animal-rescue-foundation-361359",
+      "name": "Auburn Area Animal Rescue Foundation",
+      "address": "11940 Masters Court, Auburn, CA 95603",
+      "phone": "530-887-5577",
+      "image": "./img/shelter/office/361359.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/auburn-area-animal-rescue-foundation-361359/",
+      "imageUrl": "https://cdn.findpawpal.com/office/361359.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 381963,
+      "slug": "auburn-cat-house-381963",
+      "name": "Auburn Cat House",
+      "address": "11556 D Avenue, Auburn, CA 95603",
+      "phone": "530-823-6828",
+      "image": "./img/shelter/office/381963.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/auburn-cat-house-381963/",
+      "imageUrl": "https://cdn.findpawpal.com/office/381963.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 381987,
+      "slug": "norcal-aussie-rescue-inc-381987",
+      "name": "Norcal Aussie Rescue, Inc.",
+      "address": "10556 Combie Road, Auburn, CA 95602",
+      "phone": "530-268-1600",
+      "image": "./img/shelter/office/381987.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/norcal-aussie-rescue-inc-381987/",
+      "imageUrl": "https://cdn.findpawpal.com/office/381987.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 668991,
+      "slug": "placer-county-animal-control-668991",
+      "name": "Placer County Animal Control",
+      "address": "11251 B Avenue, Auburn, CA 95603",
+      "phone": "530-886-5500",
+      "image": "./img/shelter/office/668991.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/placer-county-animal-control-668991/",
+      "imageUrl": "https://cdn.findpawpal.com/office/668991.jpg?f=webp&w=730"
+    }
+  ]
+}

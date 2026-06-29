@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:25:35.707252+00:00",
+  "state": {
+    "slug": "wyoming",
+    "name": "Wyoming"
+  },
+  "city": {
+    "slug": "worland",
+    "name": "Worland",
+    "label": "Worland, WY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wyoming/worland/",
+  "offices": [
+    {
+      "officeId": 722348,
+      "slug": "new-hope-shelter-722348",
+      "name": "New Hope Shelter",
+      "address": "PO Box 260, Worland, WY 82401",
+      "phone": "307-347-6365",
+      "image": "https://cdn.findpawpal.com/office/722348.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hope-shelter-722348/"
+    }
+  ]
+}

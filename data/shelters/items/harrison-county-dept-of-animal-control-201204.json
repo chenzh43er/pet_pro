@@ -1,0 +1,21 @@
+{
+  "officeId": 201204,
+  "slug": "harrison-county-dept-of-animal-control-201204",
+  "name": "Harrison County Dept of Animal Control",
+  "address": "3132 Hope Ln NW, Corydon, IN 47112",
+  "street": "3132 Hope Ln NW",
+  "addressCity": "Corydon",
+  "stateCode": "IN",
+  "zip": "47112",
+  "phone": "812-738-8163",
+  "image": "./img/shelter/office/201204.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/harrison-county-dept-of-animal-control-201204/",
+  "stateSlug": "indiana",
+  "stateName": "Indiana",
+  "citySlug": "corydon",
+  "cityName": "Corydon",
+  "cityLabel": "Corydon, IN",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/indiana/corydon/",
+  "fetchedAt": "2026-06-27T18:49:44.452783+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/201204.jpg?f=webp&w=730"
+}

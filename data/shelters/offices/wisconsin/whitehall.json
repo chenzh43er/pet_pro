@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:24:48.064537+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "whitehall",
+    "name": "Whitehall",
+    "label": "Whitehall, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/whitehall/",
+  "offices": [
+    {
+      "officeId": 475302,
+      "slug": "southern-pride-farms-inc-475302",
+      "name": "Southern Pride Farms, Inc.",
+      "address": "N36011 Ed Johnson Rd, Whitehall, WI 54773",
+      "phone": "715-538-1999",
+      "image": "https://cdn.findpawpal.com/office/475302.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/southern-pride-farms-inc-475302/"
+    }
+  ]
+}

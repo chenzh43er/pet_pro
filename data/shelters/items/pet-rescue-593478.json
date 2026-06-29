@@ -1,0 +1,21 @@
+{
+  "officeId": 593478,
+  "slug": "pet-rescue-593478",
+  "name": "Pet Rescue",
+  "address": "22105 East Wellesley Avenue, Otis Orchards-East Farms, WA 99027",
+  "street": "22105 East Wellesley Avenue",
+  "addressCity": "Otis Orchards-East Farms",
+  "stateCode": "WA",
+  "zip": "99027",
+  "phone": "509-921-0178",
+  "image": "./img/shelter/office/593478.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pet-rescue-593478/",
+  "stateSlug": "washington",
+  "stateName": "Washington",
+  "citySlug": "otis-orchards-east-farms",
+  "cityName": "Otis Orchards-East Farms",
+  "cityLabel": "Otis Orchards-East Farms, WA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/washington/otis-orchards-east-farms/",
+  "fetchedAt": "2026-06-27T20:18:35.315129+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/593478.jpg?f=webp&w=730"
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:17:33.400806+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "ashland",
+    "name": "Ashland",
+    "label": "Ashland, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/ashland/",
+  "offices": [
+    {
+      "officeId": 206720,
+      "slug": "miller-roth-foundation-206720",
+      "name": "Miller Roth Foundation",
+      "address": "13300 South Clinkenbeard Road, Ashland, MO 65010",
+      "phone": "573-657-9633",
+      "image": "https://cdn.findpawpal.com/office/206720.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/miller-roth-foundation-206720/"
+    }
+  ]
+}

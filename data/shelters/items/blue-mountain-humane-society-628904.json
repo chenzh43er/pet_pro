@@ -1,0 +1,21 @@
+{
+  "officeId": 628904,
+  "slug": "blue-mountain-humane-society-628904",
+  "name": "Blue Mountain Humane Society",
+  "address": "7 George Street, Walla Walla, WA 99362",
+  "street": "7 George Street",
+  "addressCity": "Walla Walla",
+  "stateCode": "WA",
+  "zip": "99362",
+  "phone": "509-525-2452",
+  "image": "./img/shelter/office/628904.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/blue-mountain-humane-society-628904/",
+  "stateSlug": "washington",
+  "stateName": "Washington",
+  "citySlug": "walla-walla",
+  "cityName": "Walla Walla",
+  "cityLabel": "Walla Walla, WA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/washington/walla-walla/",
+  "fetchedAt": "2026-06-27T20:19:30.832258+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/628904.jpg?f=webp&w=730"
+}

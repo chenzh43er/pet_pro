@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:23:58.843706+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "rosholt",
+    "name": "Rosholt",
+    "label": "Rosholt, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/rosholt/",
+  "offices": [
+    {
+      "officeId": 673397,
+      "slug": "st-francis-horse-rescue-673397",
+      "name": "St Francis Horse Rescue",
+      "address": "7548 Boulder Lane, Rosholt, WI 54473",
+      "phone": "715-592-6622",
+      "image": "https://cdn.findpawpal.com/office/673397.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/st-francis-horse-rescue-673397/"
+    }
+  ]
+}

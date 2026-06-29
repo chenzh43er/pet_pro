@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:28:02.300318+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "paramus",
+    "name": "Paramus",
+    "label": "Paramus, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/paramus/",
+  "offices": [
+    {
+      "officeId": 94475,
+      "slug": "paramus-animal-control-94475",
+      "name": "Paramus Animal Control",
+      "address": "1 West Jockish Square, Paramus, NJ 07652",
+      "phone": "201-265-2100",
+      "image": "./img/shelter/office/94475.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/paramus-animal-control-94475/",
+      "imageUrl": "https://cdn.findpawpal.com/office/94475.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 103188,
+      "slug": "lucky-hollow-animal-welfare-103188",
+      "name": "Lucky Hollow Animal Welfare",
+      "address": "511 Spring Valley Road, Paramus, NJ 07652",
+      "phone": "",
+      "image": "./img/shelter/office/103188.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lucky-hollow-animal-welfare-103188/",
+      "imageUrl": "https://cdn.findpawpal.com/office/103188.jpg?f=webp&w=730"
+    }
+  ]
+}

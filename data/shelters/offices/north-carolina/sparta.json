@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:41:23.991390+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "sparta",
+    "name": "Sparta",
+    "label": "Sparta, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/sparta/",
+  "offices": [
+    {
+      "officeId": 229068,
+      "slug": "alleghany-county-animal-control-229068",
+      "name": "Alleghany County Animal Control",
+      "address": "PO Box 366, Sparta, NC 28675",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/229068.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/alleghany-county-animal-control-229068/"
+    }
+  ]
+}

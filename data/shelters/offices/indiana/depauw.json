@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:49:53.555490+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "depauw",
+    "name": "Depauw",
+    "label": "Depauw, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/depauw/",
+  "offices": [
+    {
+      "officeId": 217227,
+      "slug": "frisky-felines-foundation-217227",
+      "name": "Frisky Felines Foundation",
+      "address": "5725 Milltown Frenchtown Road Northwest, Depauw, IN 47115",
+      "phone": "812-572-2112",
+      "image": "https://cdn.findpawpal.com/office/217227.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/frisky-felines-foundation-217227/"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:24:04.364554+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "banning",
+    "name": "Banning",
+    "label": "Banning, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/banning/",
+  "offices": [
+    {
+      "officeId": 477290,
+      "slug": "inland-empire-spca-477290",
+      "name": "Inland Empire SPCA",
+      "address": "2242 Charles Street, Banning, CA 92220",
+      "phone": "909-922-3301",
+      "image": "https://cdn.findpawpal.com/office/477290.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/inland-empire-spca-477290/"
+    }
+  ]
+}

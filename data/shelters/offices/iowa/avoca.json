@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:52:40.160421+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa"
+  },
+  "city": {
+    "slug": "avoca",
+    "name": "Avoca",
+    "label": "Avoca, IA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/avoca/",
+  "offices": [
+    {
+      "officeId": 326926,
+      "slug": "avoca-city-animal-shelter-326926",
+      "name": "Avoca City Animal Shelter",
+      "address": "107 Jack Frost Ave, Avoca, IA 51521",
+      "phone": "712-343-2353",
+      "image": "./img/shelter/office/326926.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/avoca-city-animal-shelter-326926/",
+      "imageUrl": "https://cdn.findpawpal.com/office/326926.jpg?f=webp&w=730"
+    }
+  ]
+}

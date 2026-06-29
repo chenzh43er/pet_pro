@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:21:08.623287+00:00",
+  "state": {
+    "slug": "arizona",
+    "name": "Arizona"
+  },
+  "city": {
+    "slug": "tombstone",
+    "name": "Tombstone",
+    "label": "Tombstone, AZ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arizona/tombstone/",
+  "offices": [
+    {
+      "slug": "tombstone-animal-shelter-168387",
+      "name": "Tombstone Animal Shelter",
+      "address": "PO Box 1085, Tombstone, AZ 85638",
+      "phone": "520-457-2558",
+      "image": "./img/shelter/office/168387.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tombstone-animal-shelter-168387/",
+      "imageUrl": "https://cdn.findpawpal.com/office/168387.jpg?f=webp&w=730"
+    }
+  ]
+}

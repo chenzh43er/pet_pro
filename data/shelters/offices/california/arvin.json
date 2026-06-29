@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:23:52.488135+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "arvin",
+    "name": "Arvin",
+    "label": "Arvin, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/arvin/",
+  "offices": [
+    {
+      "slug": "arvin-animal-control-540621",
+      "name": "Arvin Animal Control",
+      "address": "200 Campus Drive, Arvin, CA 93203",
+      "phone": "661-854-5583",
+      "image": "./img/shelter/office/540621.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/arvin-animal-control-540621/",
+      "imageUrl": "https://cdn.findpawpal.com/office/540621.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:03:35.201357+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "friendsville",
+    "name": "Friendsville",
+    "label": "Friendsville, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/friendsville/",
+  "offices": [
+    {
+      "officeId": 499884,
+      "slug": "garrett-county-humane-society-499884",
+      "name": "Garrett County Humane Society",
+      "address": "10334 Fdsv Rd, Friendsville, MD 21531",
+      "phone": "301-746-5725",
+      "image": "https://cdn.findpawpal.com/office/499884.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/garrett-county-humane-society-499884/"
+    }
+  ]
+}

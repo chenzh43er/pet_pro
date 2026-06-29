@@ -1,0 +1,21 @@
+{
+  "officeId": 714676,
+  "slug": "paws-714676",
+  "name": "PAWS",
+  "address": "15305 44th Avenue West, Lynnwood, WA 98087",
+  "street": "15305 44th Avenue West",
+  "addressCity": "Lynnwood",
+  "stateCode": "WA",
+  "zip": "98087",
+  "phone": "425-787-2500",
+  "image": "./img/shelter/office/714676.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/paws-714676/",
+  "stateSlug": "washington",
+  "stateName": "Washington",
+  "citySlug": "lynnwood",
+  "cityName": "Lynnwood",
+  "cityLabel": "Lynnwood, WA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/washington/lynnwood/",
+  "fetchedAt": "2026-06-27T20:18:14.383328+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/714676.jpg?f=webp&w=730"
+}

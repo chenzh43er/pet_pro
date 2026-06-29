@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:48:13.016048+00:00",
+  "state": {
+    "slug": "oklahoma",
+    "name": "Oklahoma"
+  },
+  "city": {
+    "slug": "carnegie",
+    "name": "Carnegie",
+    "label": "Carnegie, OK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oklahoma/carnegie/",
+  "offices": [
+    {
+      "officeId": 517859,
+      "slug": "rainbow-bridge-can-wait-517859",
+      "name": "Rainbow Bridge Can Wait",
+      "address": "PO Box 86, Carnegie, OK 73015",
+      "phone": "",
+      "image": "./img/shelter/office/517859.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rainbow-bridge-can-wait-517859/",
+      "imageUrl": "https://cdn.findpawpal.com/office/517859.jpg?f=webp&w=730"
+    }
+  ]
+}

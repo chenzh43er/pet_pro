@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:12:31.927493+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "royal-oak",
+    "name": "Royal Oak",
+    "label": "Royal Oak, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/royal-oak/",
+  "offices": [
+    {
+      "officeId": 209158,
+      "slug": "royal-oak-animal-shelter-209158",
+      "name": "Royal Oak Animal Shelter",
+      "address": "1515 North Edgeworth Avenue, Royal Oak, MI 48067",
+      "phone": "248-246-3364",
+      "image": "./img/shelter/office/209158.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/royal-oak-animal-shelter-209158/",
+      "imageUrl": "https://cdn.findpawpal.com/office/209158.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 226662,
+      "slug": "boxer-haven-rescue-226662",
+      "name": "Boxer Haven Rescue",
+      "address": "1314 North Altadena Avenue, Royal Oak, MI 48067",
+      "phone": "248-229-4696",
+      "image": "./img/shelter/office/226662.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/boxer-haven-rescue-226662/",
+      "imageUrl": "https://cdn.findpawpal.com/office/226662.jpg?f=webp&w=730"
+    }
+  ]
+}

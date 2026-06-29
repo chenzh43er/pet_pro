@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:12:04.997017+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "osseo",
+    "name": "Osseo",
+    "label": "Osseo, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/osseo/",
+  "offices": [
+    {
+      "officeId": 190021,
+      "slug": "greater-hillsdale-humane-soc-190021",
+      "name": "Greater Hillsdale Humane Soc",
+      "address": "3881 Tripp Road, Osseo, MI 49266",
+      "phone": "517-523-2308",
+      "image": "./img/shelter/office/190021.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greater-hillsdale-humane-soc-190021/",
+      "imageUrl": "https://cdn.findpawpal.com/office/190021.jpg?f=webp&w=730"
+    }
+  ]
+}

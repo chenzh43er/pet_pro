@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:45:02.771769+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "lebanon",
+    "name": "Lebanon",
+    "label": "Lebanon, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/lebanon/",
+  "offices": [
+    {
+      "officeId": 423117,
+      "slug": "warren-county-humane-association-423117",
+      "name": "Warren County Humane Association",
+      "address": "230 Cook Road, Lebanon, OH 45036",
+      "phone": "513-261-1176",
+      "image": "./img/shelter/office/423117.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/warren-county-humane-association-423117/",
+      "imageUrl": "https://cdn.findpawpal.com/office/423117.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 467029,
+      "slug": "dachshund-rescue-of-ohio-467029",
+      "name": "Dachshund Rescue of Ohio",
+      "address": "3214 Oregonia Road, Lebanon, OH 45036",
+      "phone": "513-933-0585",
+      "image": "https://cdn.findpawpal.com/office/467029.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/dachshund-rescue-of-ohio-467029/"
+    }
+  ]
+}

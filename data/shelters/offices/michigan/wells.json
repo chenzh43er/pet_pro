@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:13:14.560652+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "wells",
+    "name": "Wells",
+    "label": "Wells, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/wells/",
+  "offices": [
+    {
+      "officeId": 225719,
+      "slug": "delta-area-animal-society-225719",
+      "name": "Delta Area Animal Society",
+      "address": "PO Box 158, Wells, MI 49894",
+      "phone": "906-786-3633",
+      "image": "./img/shelter/office/225719.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/delta-area-animal-society-225719/",
+      "imageUrl": "https://cdn.findpawpal.com/office/225719.jpg?f=webp&w=730"
+    }
+  ]
+}

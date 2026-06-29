@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:07:37.941910+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "millsap",
+    "name": "Millsap",
+    "label": "Millsap, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/millsap/",
+  "offices": [
+    {
+      "officeId": 633501,
+      "slug": "texas-burro-rescue-633501",
+      "name": "Texas Burro Rescue",
+      "address": "200 Ww Lane, Millsap, TX 76066",
+      "phone": "817-903-5336",
+      "image": "https://cdn.findpawpal.com/office/633501.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/texas-burro-rescue-633501/"
+    }
+  ]
+}

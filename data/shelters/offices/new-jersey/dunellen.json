@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:25:45.189460+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "dunellen",
+    "name": "Dunellen",
+    "label": "Dunellen, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/dunellen/",
+  "offices": [
+    {
+      "officeId": 95254,
+      "slug": "miracles-with-paws-95254",
+      "name": "Miracles With PAWS",
+      "address": "PO Box 146, Dunellen, NJ 08812",
+      "phone": "908-510-5803",
+      "image": "https://cdn.findpawpal.com/office/95254.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/miracles-with-paws-95254/"
+    }
+  ]
+}

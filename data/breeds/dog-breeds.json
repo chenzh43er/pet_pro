@@ -1,0 +1,2718 @@
+[
+  {
+    "slug": "affenpinscher",
+    "name": "Affenpinscher",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/affenpinscher/",
+    "path": "/dog-breed/affenpinscher/",
+    "features": [
+      "Toy",
+      "XSmall"
+    ],
+    "alt": "Affenpinscher",
+    "listImage": "./img/breed/affenpinscher.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/affenpinscher.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "afghan-hound",
+    "name": "Afghan Hound",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/afghan-hound/",
+    "path": "/dog-breed/afghan-hound/",
+    "features": [
+      "Hound",
+      "Large"
+    ],
+    "alt": "Afghan Hound",
+    "listImage": "./img/breed/afghan-hound.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/afghan-hound.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "airedale-terrier",
+    "name": "Airedale Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/airedale-terrier/",
+    "path": "/dog-breed/airedale-terrier/",
+    "features": [
+      "Terrier",
+      "Medium"
+    ],
+    "alt": "Airedale Terrier",
+    "listImage": "./img/breed/airedale-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/airedale-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "akita",
+    "name": "Akita",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/akita/",
+    "path": "/dog-breed/akita/",
+    "features": [
+      "Working",
+      "XLarge"
+    ],
+    "alt": "Akita",
+    "listImage": "./img/breed/akita.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/akita.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "alaskan-malamute",
+    "name": "Alaskan Malamute",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/alaskan-malamute/",
+    "path": "/dog-breed/alaskan-malamute/",
+    "features": [
+      "Working",
+      "Large"
+    ],
+    "alt": "Alaskan Malamute",
+    "listImage": "./img/breed/alaskan-malamute.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/alaskan-malamute.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "american-bulldog",
+    "name": "American Bulldog",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/american-bulldog/",
+    "path": "/dog-breed/american-bulldog/",
+    "features": [
+      "Sporting",
+      "Large"
+    ],
+    "alt": "American Bulldog",
+    "listImage": "./img/breed/american-bulldog.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/american-bulldog.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "american-english-coonhound",
+    "name": "American English Coonhound",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/american-english-coonhound/",
+    "path": "/dog-breed/american-english-coonhound/",
+    "features": [
+      "Hound",
+      "Medium"
+    ],
+    "alt": "American English Coonhound",
+    "listImage": "./img/breed/american-english-coonhound.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/american-english-coonhound.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "american-eskimo-dog",
+    "name": "American Eskimo Dog",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/american-eskimo-dog/",
+    "path": "/dog-breed/american-eskimo-dog/",
+    "features": [
+      "Non-Sporting",
+      "Small"
+    ],
+    "alt": "American Eskimo Dog",
+    "listImage": "./img/breed/american-eskimo-dog.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/american-eskimo-dog.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "american-foxhound",
+    "name": "American Foxhound",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/american-foxhound/",
+    "path": "/dog-breed/american-foxhound/",
+    "features": [
+      "Hound",
+      "Medium"
+    ],
+    "alt": "American Foxhound",
+    "listImage": "./img/breed/american-foxhound.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/american-foxhound.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "american-hairless-terrier",
+    "name": "American Hairless Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/american-hairless-terrier/",
+    "path": "/dog-breed/american-hairless-terrier/",
+    "features": [
+      "Terrier",
+      "Small"
+    ],
+    "alt": "American Hairless Terrier",
+    "listImage": "./img/breed/american-hairless-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/american-hairless-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "american-staffordshire-terrier",
+    "name": "American Staffordshire Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/american-staffordshire-terrier/",
+    "path": "/dog-breed/american-staffordshire-terrier/",
+    "features": [
+      "Terrier",
+      "Medium"
+    ],
+    "alt": "American Staffordshire Terrier",
+    "listImage": "./img/breed/american-staffordshire-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/american-staffordshire-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "american-water-spaniel",
+    "name": "American Water Spaniel",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/american-water-spaniel/",
+    "path": "/dog-breed/american-water-spaniel/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "American Water Spaniel",
+    "listImage": "./img/breed/american-water-spaniel.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/american-water-spaniel.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "anatolian-shepherd-dog",
+    "name": "Anatolian Shepherd Dog",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/anatolian-shepherd-dog/",
+    "path": "/dog-breed/anatolian-shepherd-dog/",
+    "features": [
+      "Working",
+      "XLarge"
+    ],
+    "alt": "Anatolian Shepherd Dog",
+    "listImage": "./img/breed/anatolian-shepherd-dog.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/anatolian-shepherd-dog.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "australian-cattle-dog",
+    "name": "Australian Cattle Dog",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/australian-cattle-dog/",
+    "path": "/dog-breed/australian-cattle-dog/",
+    "features": [
+      "Herding",
+      "Medium"
+    ],
+    "alt": "Australian Cattle Dog",
+    "listImage": "./img/breed/australian-cattle-dog.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/australian-cattle-dog.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "australian-shepherd",
+    "name": "Australian Shepherd",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/australian-shepherd/",
+    "path": "/dog-breed/australian-shepherd/",
+    "features": [
+      "Herding",
+      "Medium"
+    ],
+    "alt": "Australian Shepherd",
+    "listImage": "./img/breed/australian-shepherd.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/australian-shepherd.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "australian-terrier",
+    "name": "Australian Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/australian-terrier/",
+    "path": "/dog-breed/australian-terrier/",
+    "features": [
+      "Terrier",
+      "Small"
+    ],
+    "alt": "Australian Terrier",
+    "listImage": "./img/breed/australian-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/australian-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "azawakh",
+    "name": "Azawakh",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/azawakh/",
+    "path": "/dog-breed/azawakh/",
+    "features": [
+      "Hound",
+      "Large"
+    ],
+    "alt": "Azawakh",
+    "listImage": "./img/breed/azawakh.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/azawakh.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "basenji",
+    "name": "Basenji",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/basenji/",
+    "path": "/dog-breed/basenji/",
+    "features": [
+      "Hound",
+      "Small"
+    ],
+    "alt": "Basenji",
+    "listImage": "./img/breed/basenji.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/basenji.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "basset-hound",
+    "name": "Basset Hound",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/basset-hound/",
+    "path": "/dog-breed/basset-hound/",
+    "features": [
+      "Hound",
+      "Medium"
+    ],
+    "alt": "Basset Hound",
+    "listImage": "./img/breed/basset-hound.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/basset-hound.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "beagle",
+    "name": "Beagle",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/beagle/",
+    "path": "/dog-breed/beagle/",
+    "features": [
+      "Sporting",
+      "Small"
+    ],
+    "alt": "Beagle",
+    "listImage": "./img/breed/beagle.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/beagle.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "bearded-collie",
+    "name": "Bearded Collie",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/bearded-collie/",
+    "path": "/dog-breed/bearded-collie/",
+    "features": [
+      "Herding",
+      "Medium"
+    ],
+    "alt": "Bearded Collie",
+    "listImage": "./img/breed/bearded-collie.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/bearded-collie.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "beauceron",
+    "name": "Beauceron",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/beauceron/",
+    "path": "/dog-breed/beauceron/",
+    "features": [
+      "Herding",
+      "Large"
+    ],
+    "alt": "Beauceron",
+    "listImage": "./img/breed/beauceron.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/beauceron.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "bedlington-terrier",
+    "name": "Bedlington Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/bedlington-terrier/",
+    "path": "/dog-breed/bedlington-terrier/",
+    "features": [
+      "Terrier",
+      "Small"
+    ],
+    "alt": "Bedlington Terrier",
+    "listImage": "./img/breed/bedlington-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/bedlington-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "belgian-malinois",
+    "name": "Belgian Malinois",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/belgian-malinois/",
+    "path": "/dog-breed/belgian-malinois/",
+    "features": [
+      "Working",
+      "Large"
+    ],
+    "alt": "Belgian Malinois",
+    "listImage": "./img/breed/belgian-malinois.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/belgian-malinois.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "belgian-sheepdog",
+    "name": "Belgian Sheepdog",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/belgian-sheepdog/",
+    "path": "/dog-breed/belgian-sheepdog/",
+    "features": [
+      "Herding",
+      "Large"
+    ],
+    "alt": "Belgian Sheepdog",
+    "listImage": "./img/breed/belgian-sheepdog.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/belgian-sheepdog.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "belgian-tervuren",
+    "name": "Belgian Tervuren",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/belgian-tervuren/",
+    "path": "/dog-breed/belgian-tervuren/",
+    "features": [
+      "Herding",
+      "Large"
+    ],
+    "alt": "Belgian Tervuren",
+    "listImage": "./img/breed/belgian-tervuren.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/belgian-tervuren.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "bergamasco-sheepdog",
+    "name": "Bergamasco Sheepdog",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/bergamasco-sheepdog/",
+    "path": "/dog-breed/bergamasco-sheepdog/",
+    "features": [
+      "Herding",
+      "Medium"
+    ],
+    "alt": "Bergamasco Sheepdog",
+    "listImage": "./img/breed/bergamasco-sheepdog.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/bergamasco-sheepdog.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "berger-picard",
+    "name": "Berger Picard",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/berger-picard/",
+    "path": "/dog-breed/berger-picard/",
+    "features": [
+      "Herding",
+      "Large"
+    ],
+    "alt": "Berger Picard",
+    "listImage": "./img/breed/berger-picard.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/berger-picard.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "bernese-mountain-dog",
+    "name": "Bernese Mountain Dog",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/bernese-mountain-dog/",
+    "path": "/dog-breed/bernese-mountain-dog/",
+    "features": [
+      "Working",
+      "XLarge"
+    ],
+    "alt": "Bernese Mountain Dog",
+    "listImage": "./img/breed/bernese-mountain-dog.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/bernese-mountain-dog.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "bichon-frise",
+    "name": "Bichon Frise",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/bichon-frise/",
+    "path": "/dog-breed/bichon-frise/",
+    "features": [
+      "Sporting",
+      "Small"
+    ],
+    "alt": "Bichon Frise",
+    "listImage": "./img/breed/bichon-frise.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/bichon-frise.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "black-and-tan-coonhound",
+    "name": "Black and Tan Coonhound",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/black-and-tan-coonhound/",
+    "path": "/dog-breed/black-and-tan-coonhound/",
+    "features": [
+      "Hound",
+      "Large"
+    ],
+    "alt": "Black and Tan Coonhound",
+    "listImage": "./img/breed/black-and-tan-coonhound.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/black-and-tan-coonhound.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "black-russian-terrier",
+    "name": "Black Russian Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/black-russian-terrier/",
+    "path": "/dog-breed/black-russian-terrier/",
+    "features": [
+      "Working",
+      "Large"
+    ],
+    "alt": "Black Russian Terrier",
+    "listImage": "./img/breed/black-russian-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/black-russian-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "bloodhound",
+    "name": "Bloodhound",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/bloodhound/",
+    "path": "/dog-breed/bloodhound/",
+    "features": [
+      "Hound",
+      "Large"
+    ],
+    "alt": "Bloodhound",
+    "listImage": "./img/breed/bloodhound.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/bloodhound.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "bluetick-coonhound",
+    "name": "Bluetick Coonhound",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/bluetick-coonhound/",
+    "path": "/dog-breed/bluetick-coonhound/",
+    "features": [
+      "Hound",
+      "Medium"
+    ],
+    "alt": "Bluetick Coonhound",
+    "listImage": "./img/breed/bluetick-coonhound.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/bluetick-coonhound.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "boerboel",
+    "name": "Boerboel",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/boerboel/",
+    "path": "/dog-breed/boerboel/",
+    "features": [
+      "Working",
+      "XLarge"
+    ],
+    "alt": "Boerboel",
+    "listImage": "./img/breed/boerboel.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/boerboel.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "border-collie",
+    "name": "Border Collie",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/border-collie/",
+    "path": "/dog-breed/border-collie/",
+    "features": [
+      "Herding",
+      "Medium"
+    ],
+    "alt": "Border Collie",
+    "listImage": "./img/breed/border-collie.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/border-collie.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "border-terrier",
+    "name": "Border Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/border-terrier/",
+    "path": "/dog-breed/border-terrier/",
+    "features": [
+      "Terrier",
+      "Medium"
+    ],
+    "alt": "Border Terrier",
+    "listImage": "./img/breed/border-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/border-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "borzoi",
+    "name": "Borzoi",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/borzoi/",
+    "path": "/dog-breed/borzoi/",
+    "features": [
+      "Hound",
+      "Large"
+    ],
+    "alt": "Borzoi",
+    "listImage": "./img/breed/borzoi.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/borzoi.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "boston-terrier",
+    "name": "Boston Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/boston-terrier/",
+    "path": "/dog-breed/boston-terrier/",
+    "features": [
+      "Sporting",
+      "Small"
+    ],
+    "alt": "Boston Terrier",
+    "listImage": "./img/breed/boston-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/boston-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "bouvier-des-flandres",
+    "name": "Bouvier des Flandres",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/bouvier-des-flandres/",
+    "path": "/dog-breed/bouvier-des-flandres/",
+    "features": [
+      "Herding",
+      "Large"
+    ],
+    "alt": "Bouvier des Flandres",
+    "listImage": "./img/breed/bouvier-des-flandres.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/bouvier-des-flandres.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "boxer",
+    "name": "Boxer",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/boxer/",
+    "path": "/dog-breed/boxer/",
+    "features": [
+      "Working",
+      "Large"
+    ],
+    "alt": "Boxer",
+    "listImage": "./img/breed/boxer.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/boxer.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "boykin-spaniel",
+    "name": "Boykin Spaniel",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/boykin-spaniel/",
+    "path": "/dog-breed/boykin-spaniel/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "Boykin Spaniel",
+    "listImage": "./img/breed/boykin-spaniel.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/boykin-spaniel.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "briard",
+    "name": "Briard",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/briard/",
+    "path": "/dog-breed/briard/",
+    "features": [
+      "Herding",
+      "Large"
+    ],
+    "alt": "Briard",
+    "listImage": "./img/breed/briard.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/briard.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "brittany",
+    "name": "Brittany",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/brittany/",
+    "path": "/dog-breed/brittany/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "Brittany",
+    "listImage": "./img/breed/brittany.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/brittany.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "brussels-griffon",
+    "name": "Brussels Griffon",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/brussels-griffon/",
+    "path": "/dog-breed/brussels-griffon/",
+    "features": [
+      "Toy",
+      "Small"
+    ],
+    "alt": "Brussels Griffon",
+    "listImage": "./img/breed/brussels-griffon.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/brussels-griffon.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "bull-terrier",
+    "name": "Bull Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/bull-terrier/",
+    "path": "/dog-breed/bull-terrier/",
+    "features": [
+      "Terrier",
+      "Medium"
+    ],
+    "alt": "Bull Terrier",
+    "listImage": "./img/breed/bull-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/bull-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "bulldog",
+    "name": "Bulldog",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/bulldog/",
+    "path": "/dog-breed/bulldog/",
+    "features": [
+      "Non-Sporting",
+      "Medium"
+    ],
+    "alt": "Bulldog",
+    "listImage": "./img/breed/bulldog.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/bulldog.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "bullmastiff",
+    "name": "Bullmastiff",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/bullmastiff/",
+    "path": "/dog-breed/bullmastiff/",
+    "features": [
+      "Working",
+      "Large"
+    ],
+    "alt": "Bullmastiff",
+    "listImage": "./img/breed/bullmastiff.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/bullmastiff.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "cairn-terrier",
+    "name": "Cairn Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/cairn-terrier/",
+    "path": "/dog-breed/cairn-terrier/",
+    "features": [
+      "Terrier",
+      "Medium"
+    ],
+    "alt": "Cairn Terrier",
+    "listImage": "./img/breed/cairn-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/cairn-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "canaan-dog",
+    "name": "Canaan Dog",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/canaan-dog/",
+    "path": "/dog-breed/canaan-dog/",
+    "features": [
+      "Herding",
+      "Medium"
+    ],
+    "alt": "Canaan Dog",
+    "listImage": "./img/breed/canaan-dog.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/canaan-dog.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "cane-corso",
+    "name": "Cane Corso",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/cane-corso/",
+    "path": "/dog-breed/cane-corso/",
+    "features": [
+      "Working",
+      "Large"
+    ],
+    "alt": "Cane Corso",
+    "listImage": "./img/breed/cane-corso.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/cane-corso.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "cardigan-welsh-corgi",
+    "name": "Cardigan Welsh Corgi",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/cardigan-welsh-corgi/",
+    "path": "/dog-breed/cardigan-welsh-corgi/",
+    "features": [
+      "Herding",
+      "Small"
+    ],
+    "alt": "Cardigan Welsh Corgi",
+    "listImage": "./img/breed/cardigan-welsh-corgi.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/cardigan-welsh-corgi.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "cavalier-king-charles-spaniel",
+    "name": "Cavalier King Charles Spaniel",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/cavalier-king-charles-spaniel/",
+    "path": "/dog-breed/cavalier-king-charles-spaniel/",
+    "features": [
+      "Toy",
+      "Small"
+    ],
+    "alt": "Cavalier King Charles Spaniel",
+    "listImage": "./img/breed/cavalier-king-charles-spaniel.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/cavalier-king-charles-spaniel.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "cesky-terrier",
+    "name": "Cesky Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/cesky-terrier/",
+    "path": "/dog-breed/cesky-terrier/",
+    "features": [
+      "Terrier",
+      "Small"
+    ],
+    "alt": "Cesky Terrier",
+    "listImage": "./img/breed/cesky-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/cesky-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "chesapeake-bay-retriever",
+    "name": "Chesapeake Bay Retriever",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/chesapeake-bay-retriever/",
+    "path": "/dog-breed/chesapeake-bay-retriever/",
+    "features": [
+      "Sporting",
+      "Large"
+    ],
+    "alt": "Chesapeake Bay Retriever",
+    "listImage": "./img/breed/chesapeake-bay-retriever.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/chesapeake-bay-retriever.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "chihuahua",
+    "name": "Chihuahua",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/chihuahua/",
+    "path": "/dog-breed/chihuahua/",
+    "features": [
+      "Toy",
+      "Small"
+    ],
+    "alt": "Chihuahua",
+    "listImage": "./img/breed/chihuahua.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/chihuahua.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "chinese-crested",
+    "name": "Chinese Crested",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/chinese-crested/",
+    "path": "/dog-breed/chinese-crested/",
+    "features": [
+      "Toy",
+      "Medium"
+    ],
+    "alt": "Chinese Crested",
+    "listImage": "./img/breed/chinese-crested.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/chinese-crested.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "chinese-shar-pei",
+    "name": "Chinese Shar-Pei",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/chinese-shar-pei/",
+    "path": "/dog-breed/chinese-shar-pei/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "Chinese Shar-Pei",
+    "listImage": "./img/breed/chinese-shar-pei.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/chinese-shar-pei.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "chinook",
+    "name": "Chinook",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/chinook/",
+    "path": "/dog-breed/chinook/",
+    "features": [
+      "Working",
+      "Large"
+    ],
+    "alt": "Chinook",
+    "listImage": "./img/breed/chinook.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/chinook.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "chow-chow",
+    "name": "Chow Chow",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/chow-chow/",
+    "path": "/dog-breed/chow-chow/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "Chow Chow",
+    "listImage": "./img/breed/chow-chow.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/chow-chow.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "cirneco-delletna",
+    "name": "Cirneco dell’Etna",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/cirneco-delletna/",
+    "path": "/dog-breed/cirneco-delletna/",
+    "features": [
+      "Hound",
+      "Medium"
+    ],
+    "alt": "Cirneco dell’Etna",
+    "listImage": "./img/breed/cirneco-delletna.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/cirneco-delletna.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "clumber-spaniel",
+    "name": "Clumber Spaniel",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/clumber-spaniel/",
+    "path": "/dog-breed/clumber-spaniel/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "Clumber Spaniel",
+    "listImage": "./img/breed/clumber-spaniel.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/clumber-spaniel.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "cocker-spaniel",
+    "name": "Cocker Spaniel",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/cocker-spaniel/",
+    "path": "/dog-breed/cocker-spaniel/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "Cocker Spaniel",
+    "listImage": "./img/breed/cocker-spaniel.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/cocker-spaniel.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "collie",
+    "name": "Collie",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/collie/",
+    "path": "/dog-breed/collie/",
+    "features": [
+      "Herding",
+      "Medium"
+    ],
+    "alt": "Collie",
+    "listImage": "./img/breed/collie.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/collie.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "coton-de-tulear",
+    "name": "Coton de Tulear",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/coton-de-tulear/",
+    "path": "/dog-breed/coton-de-tulear/",
+    "features": [
+      "Non-Sporting",
+      "Small"
+    ],
+    "alt": "Coton de Tulear",
+    "listImage": "./img/breed/coton-de-tulear.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/coton-de-tulear.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "curly-coated-retriever",
+    "name": "Curly-Coated Retriever",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/curly-coated-retriever/",
+    "path": "/dog-breed/curly-coated-retriever/",
+    "features": [
+      "Sporting",
+      "Large"
+    ],
+    "alt": "Curly-Coated Retriever",
+    "listImage": "./img/breed/curly-coated-retriever.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/curly-coated-retriever.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "dachshund",
+    "name": "Dachshund",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/dachshund/",
+    "path": "/dog-breed/dachshund/",
+    "features": [
+      "Hound",
+      "Small"
+    ],
+    "alt": "Dachshund",
+    "listImage": "./img/breed/dachshund.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/dachshund.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "dalmatian",
+    "name": "Dalmatian",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/dalmatian/",
+    "path": "/dog-breed/dalmatian/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "Dalmatian",
+    "listImage": "./img/breed/dalmatian.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/dalmatian.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "dandie-dinmont-terrier",
+    "name": "Dandie Dinmont Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/dandie-dinmont-terrier/",
+    "path": "/dog-breed/dandie-dinmont-terrier/",
+    "features": [
+      "Terrier",
+      "Small"
+    ],
+    "alt": "Dandie Dinmont Terrier",
+    "listImage": "./img/breed/dandie-dinmont-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/dandie-dinmont-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "doberman-pinscher",
+    "name": "Doberman Pinscher",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/doberman-pinscher/",
+    "path": "/dog-breed/doberman-pinscher/",
+    "features": [
+      "Working",
+      "Large"
+    ],
+    "alt": "Doberman Pinscher",
+    "listImage": "./img/breed/doberman-pinscher.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/doberman-pinscher.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "dogue-de-bordeaux",
+    "name": "Dogue de Bordeaux",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/dogue-de-bordeaux/",
+    "path": "/dog-breed/dogue-de-bordeaux/",
+    "features": [
+      "Working",
+      "XLarge"
+    ],
+    "alt": "Dogue de Bordeaux",
+    "listImage": "./img/breed/dogue-de-bordeaux.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/dogue-de-bordeaux.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "english-cocker-spaniel",
+    "name": "English Cocker Spaniel",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/english-cocker-spaniel/",
+    "path": "/dog-breed/english-cocker-spaniel/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "English Cocker Spaniel",
+    "listImage": "./img/breed/english-cocker-spaniel.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/english-cocker-spaniel.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "english-foxhound",
+    "name": "English Foxhound",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/english-foxhound/",
+    "path": "/dog-breed/english-foxhound/",
+    "features": [
+      "Hound",
+      "Medium"
+    ],
+    "alt": "English Foxhound",
+    "listImage": "./img/breed/english-foxhound.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/english-foxhound.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "english-setter",
+    "name": "English Setter",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/english-setter/",
+    "path": "/dog-breed/english-setter/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "English Setter",
+    "listImage": "./img/breed/english-setter.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/english-setter.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "english-springer-spaniel",
+    "name": "English Springer Spaniel",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/english-springer-spaniel/",
+    "path": "/dog-breed/english-springer-spaniel/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "English Springer Spaniel",
+    "listImage": "./img/breed/english-springer-spaniel.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/english-springer-spaniel.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "english-toy-spaniel",
+    "name": "English Toy Spaniel",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/english-toy-spaniel/",
+    "path": "/dog-breed/english-toy-spaniel/",
+    "features": [
+      "Toy",
+      "XSmall"
+    ],
+    "alt": "English Toy Spaniel",
+    "listImage": "./img/breed/english-toy-spaniel.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/english-toy-spaniel.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "entlebucher-mountain-dog",
+    "name": "Entlebucher Mountain Dog",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/entlebucher-mountain-dog/",
+    "path": "/dog-breed/entlebucher-mountain-dog/",
+    "features": [
+      "Herding",
+      "Medium"
+    ],
+    "alt": "Entlebucher Mountain Dog",
+    "listImage": "./img/breed/entlebucher-mountain-dog.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/entlebucher-mountain-dog.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "field-spaniel",
+    "name": "Field Spaniel",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/field-spaniel/",
+    "path": "/dog-breed/field-spaniel/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "Field Spaniel",
+    "listImage": "./img/breed/field-spaniel.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/field-spaniel.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "finnish-lapphund",
+    "name": "Finnish Lapphund",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/finnish-lapphund/",
+    "path": "/dog-breed/finnish-lapphund/",
+    "features": [
+      "Herding",
+      "Medium"
+    ],
+    "alt": "Finnish Lapphund",
+    "listImage": "./img/breed/finnish-lapphund.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/finnish-lapphund.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "finnish-spitz",
+    "name": "Finnish Spitz",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/finnish-spitz/",
+    "path": "/dog-breed/finnish-spitz/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "Finnish Spitz",
+    "listImage": "./img/breed/finnish-spitz.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/finnish-spitz.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "flat-coated-retriever",
+    "name": "Flat-Coated Retriever",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/flat-coated-retriever/",
+    "path": "/dog-breed/flat-coated-retriever/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "Flat-Coated Retriever",
+    "listImage": "./img/breed/flat-coated-retriever.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/flat-coated-retriever.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "french-bulldog",
+    "name": "French Bulldog",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/french-bulldog/",
+    "path": "/dog-breed/french-bulldog/",
+    "features": [
+      "Non-Sporting",
+      "Small"
+    ],
+    "alt": "French Bulldog",
+    "listImage": "./img/breed/french-bulldog.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/french-bulldog.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "german-pinscher",
+    "name": "German Pinscher",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/german-pinscher/",
+    "path": "/dog-breed/german-pinscher/",
+    "features": [
+      "Working",
+      "Medium"
+    ],
+    "alt": "German Pinscher",
+    "listImage": "./img/breed/german-pinscher.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/german-pinscher.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "german-shepherd-dog",
+    "name": "German Shepherd Dog",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/german-shepherd-dog/",
+    "path": "/dog-breed/german-shepherd-dog/",
+    "features": [
+      "Herding",
+      "Large"
+    ],
+    "alt": "German Shepherd Dog",
+    "listImage": "./img/breed/german-shepherd-dog.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/german-shepherd-dog.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "german-shorthaired-pointer",
+    "name": "German Shorthaired Pointer",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/german-shorthaired-pointer/",
+    "path": "/dog-breed/german-shorthaired-pointer/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "German Shorthaired Pointer",
+    "listImage": "./img/breed/german-shorthaired-pointer.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/german-shorthaired-pointer.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "german-wirehaired-pointer",
+    "name": "German Wirehaired Pointer",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/german-wirehaired-pointer/",
+    "path": "/dog-breed/german-wirehaired-pointer/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "German Wirehaired Pointer",
+    "listImage": "./img/breed/german-wirehaired-pointer.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/german-wirehaired-pointer.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "giant-schnauzer",
+    "name": "Giant Schnauzer",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/giant-schnauzer/",
+    "path": "/dog-breed/giant-schnauzer/",
+    "features": [
+      "Working",
+      "Large"
+    ],
+    "alt": "Giant Schnauzer",
+    "listImage": "./img/breed/giant-schnauzer.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/giant-schnauzer.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "glen-of-imaal-terrier",
+    "name": "Glen of Imaal Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/glen-of-imaal-terrier/",
+    "path": "/dog-breed/glen-of-imaal-terrier/",
+    "features": [
+      "Terrier",
+      "Medium"
+    ],
+    "alt": "Glen of Imaal Terrier",
+    "listImage": "./img/breed/glen-of-imaal-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/glen-of-imaal-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "golden-retriever",
+    "name": "Golden Retriever",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/golden-retriever/",
+    "path": "/dog-breed/golden-retriever/",
+    "features": [
+      "Sporting",
+      "Large"
+    ],
+    "alt": "Golden Retriever",
+    "listImage": "./img/breed/golden-retriever.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/golden-retriever.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "gordon-setter",
+    "name": "Gordon Setter",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/gordon-setter/",
+    "path": "/dog-breed/gordon-setter/",
+    "features": [
+      "Sporting",
+      "Large"
+    ],
+    "alt": "Gordon Setter",
+    "listImage": "./img/breed/gordon-setter.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/gordon-setter.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "grand-basset-griffon-vendeen",
+    "name": "Grand Basset Griffon Vendéen",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/grand-basset-griffon-vendeen/",
+    "path": "/dog-breed/grand-basset-griffon-vendeen/",
+    "features": [
+      "Hound",
+      "Medium"
+    ],
+    "alt": "Grand Basset Griffon Vendéen",
+    "listImage": "./img/breed/grand-basset-griffon-vendeen.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/grand-basset-griffon-vendeen.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "great-dane",
+    "name": "Great Dane",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/great-dane/",
+    "path": "/dog-breed/great-dane/",
+    "features": [
+      "Working",
+      "XLarge"
+    ],
+    "alt": "Great Dane",
+    "listImage": "./img/breed/great-dane.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/great-dane.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "great-pyrenees",
+    "name": "Great Pyrenees",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/great-pyrenees/",
+    "path": "/dog-breed/great-pyrenees/",
+    "features": [
+      "Working",
+      "XLarge"
+    ],
+    "alt": "Great Pyrenees",
+    "listImage": "./img/breed/great-pyrenees.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/great-pyrenees.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "greater-swiss-mountain-dog",
+    "name": "Greater Swiss Mountain Dog",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/greater-swiss-mountain-dog/",
+    "path": "/dog-breed/greater-swiss-mountain-dog/",
+    "features": [
+      "Working",
+      "XLarge"
+    ],
+    "alt": "Greater Swiss Mountain Dog",
+    "listImage": "./img/breed/greater-swiss-mountain-dog.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/greater-swiss-mountain-dog.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "greyhound",
+    "name": "Greyhound",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/greyhound/",
+    "path": "/dog-breed/greyhound/",
+    "features": [
+      "Hound",
+      "Large"
+    ],
+    "alt": "Greyhound",
+    "listImage": "./img/breed/greyhound.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/greyhound.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "harrier",
+    "name": "Harrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/harrier/",
+    "path": "/dog-breed/harrier/",
+    "features": [
+      "Hound",
+      "Medium"
+    ],
+    "alt": "Harrier",
+    "listImage": "./img/breed/harrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/harrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "havanese",
+    "name": "Havanese",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/havanese/",
+    "path": "/dog-breed/havanese/",
+    "features": [
+      "Toy",
+      "Small"
+    ],
+    "alt": "Havanese",
+    "listImage": "./img/breed/havanese.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/havanese.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "ibizan-hound",
+    "name": "Ibizan Hound",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/ibizan-hound/",
+    "path": "/dog-breed/ibizan-hound/",
+    "features": [
+      "Hound",
+      "Large"
+    ],
+    "alt": "Ibizan Hound",
+    "listImage": "./img/breed/ibizan-hound.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/ibizan-hound.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "icelandic-sheepdog",
+    "name": "Icelandic Sheepdog",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/icelandic-sheepdog/",
+    "path": "/dog-breed/icelandic-sheepdog/",
+    "features": [
+      "Herding",
+      "Medium"
+    ],
+    "alt": "Icelandic Sheepdog",
+    "listImage": "./img/breed/icelandic-sheepdog.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/icelandic-sheepdog.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "irish-red-and-white-setter",
+    "name": "Irish Red and White Setter",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/irish-red-and-white-setter/",
+    "path": "/dog-breed/irish-red-and-white-setter/",
+    "features": [
+      "Sporting",
+      "Large"
+    ],
+    "alt": "Irish Red and White Setter",
+    "listImage": "./img/breed/irish-red-and-white-setter.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/irish-red-and-white-setter.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "irish-setter",
+    "name": "Irish Setter",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/irish-setter/",
+    "path": "/dog-breed/irish-setter/",
+    "features": [
+      "Sporting",
+      "Large"
+    ],
+    "alt": "Irish Setter",
+    "listImage": "./img/breed/irish-setter.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/irish-setter.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "irish-terrier",
+    "name": "Irish Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/irish-terrier/",
+    "path": "/dog-breed/irish-terrier/",
+    "features": [
+      "Terrier",
+      "Medium"
+    ],
+    "alt": "Irish Terrier",
+    "listImage": "./img/breed/irish-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/irish-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "irish-water-spaniel",
+    "name": "Irish Water Spaniel",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/irish-water-spaniel/",
+    "path": "/dog-breed/irish-water-spaniel/",
+    "features": [
+      "Sporting",
+      "Large"
+    ],
+    "alt": "Irish Water Spaniel",
+    "listImage": "./img/breed/irish-water-spaniel.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/irish-water-spaniel.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "irish-wolfhound",
+    "name": "Irish Wolfhound",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/irish-wolfhound/",
+    "path": "/dog-breed/irish-wolfhound/",
+    "features": [
+      "Hound",
+      "XLarge"
+    ],
+    "alt": "Irish Wolfhound",
+    "listImage": "./img/breed/irish-wolfhound.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/irish-wolfhound.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "italian-greyhound",
+    "name": "Italian Greyhound",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/italian-greyhound/",
+    "path": "/dog-breed/italian-greyhound/",
+    "features": [
+      "Toy",
+      "Small"
+    ],
+    "alt": "Italian Greyhound",
+    "listImage": "./img/breed/italian-greyhound.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/italian-greyhound.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "japanese-chin",
+    "name": "Japanese Chin",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/japanese-chin/",
+    "path": "/dog-breed/japanese-chin/",
+    "features": [
+      "Toy",
+      "Small"
+    ],
+    "alt": "Japanese Chin",
+    "listImage": "./img/breed/japanese-chin.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/japanese-chin.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "keeshond",
+    "name": "Keeshond",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/keeshond/",
+    "path": "/dog-breed/keeshond/",
+    "features": [
+      "Non-Sporting",
+      "Medium"
+    ],
+    "alt": "Keeshond",
+    "listImage": "./img/breed/keeshond.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/keeshond.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "kerry-blue-terrier",
+    "name": "Kerry Blue Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/kerry-blue-terrier/",
+    "path": "/dog-breed/kerry-blue-terrier/",
+    "features": [
+      "Terrier",
+      "Medium"
+    ],
+    "alt": "Kerry Blue Terrier",
+    "listImage": "./img/breed/kerry-blue-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/kerry-blue-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "komondor",
+    "name": "Komondor",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/komondor/",
+    "path": "/dog-breed/komondor/",
+    "features": [
+      "Working",
+      "Large"
+    ],
+    "alt": "Komondor",
+    "listImage": "./img/breed/komondor.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/komondor.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "kuvasz",
+    "name": "Kuvasz",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/kuvasz/",
+    "path": "/dog-breed/kuvasz/",
+    "features": [
+      "Working",
+      "Large"
+    ],
+    "alt": "Kuvasz",
+    "listImage": "./img/breed/kuvasz.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/kuvasz.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "labrador-retriever",
+    "name": "Labrador Retriever",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/labrador-retriever/",
+    "path": "/dog-breed/labrador-retriever/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "Labrador Retriever",
+    "listImage": "./img/breed/labrador-retriever.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/labrador-retriever.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "lagotti-romagnoli",
+    "name": "Lagotti Romagnoli",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/lagotti-romagnoli/",
+    "path": "/dog-breed/lagotti-romagnoli/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "Lagotti Romagnoli",
+    "listImage": "./img/breed/lagotti-romagnoli.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/lagotti-romagnoli.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "lakeland-terrier",
+    "name": "Lakeland Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/lakeland-terrier/",
+    "path": "/dog-breed/lakeland-terrier/",
+    "features": [
+      "Terrier",
+      "Medium"
+    ],
+    "alt": "Lakeland Terrier",
+    "listImage": "./img/breed/lakeland-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/lakeland-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "leonberger",
+    "name": "Leonberger",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/leonberger/",
+    "path": "/dog-breed/leonberger/",
+    "features": [
+      "Working",
+      "XLarge"
+    ],
+    "alt": "Leonberger",
+    "listImage": "./img/breed/leonberger.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/leonberger.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "lhasa-apso",
+    "name": "Lhasa Apso",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/lhasa-apso/",
+    "path": "/dog-breed/lhasa-apso/",
+    "features": [
+      "Sporting",
+      "Small"
+    ],
+    "alt": "Lhasa Apso",
+    "listImage": "./img/breed/lhasa-apso.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/lhasa-apso.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "lowchen",
+    "name": "Löwchen",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/lowchen/",
+    "path": "/dog-breed/lowchen/",
+    "features": [
+      "Sporting",
+      "Small"
+    ],
+    "alt": "Löwchen",
+    "listImage": "./img/breed/lowchen.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/lowchen.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "maltese",
+    "name": "Maltese",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/maltese/",
+    "path": "/dog-breed/maltese/",
+    "features": [
+      "Toy",
+      "Medium"
+    ],
+    "alt": "Maltese",
+    "listImage": "./img/breed/maltese.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/maltese.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "manchester-terrier",
+    "name": "Manchester Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/manchester-terrier/",
+    "path": "/dog-breed/manchester-terrier/",
+    "features": [
+      "Terrier",
+      "Small"
+    ],
+    "alt": "Manchester Terrier",
+    "listImage": "./img/breed/manchester-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/manchester-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "mastiff",
+    "name": "Mastiff",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/mastiff/",
+    "path": "/dog-breed/mastiff/",
+    "features": [
+      "Working",
+      "XLarge"
+    ],
+    "alt": "Mastiff",
+    "listImage": "./img/breed/mastiff.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/mastiff.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "miniature-american-shepherd",
+    "name": "Miniature American Shepherd",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/miniature-american-shepherd/",
+    "path": "/dog-breed/miniature-american-shepherd/",
+    "features": [
+      "Herding",
+      "Medium"
+    ],
+    "alt": "Miniature American Shepherd",
+    "listImage": "./img/breed/miniature-american-shepherd.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/miniature-american-shepherd.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "miniature-bull-terrier",
+    "name": "Miniature Bull Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/miniature-bull-terrier/",
+    "path": "/dog-breed/miniature-bull-terrier/",
+    "features": [
+      "Terrier",
+      "Small"
+    ],
+    "alt": "Miniature Bull Terrier",
+    "listImage": "./img/breed/miniature-bull-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/miniature-bull-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "miniature-pinscher",
+    "name": "Miniature Pinscher",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/miniature-pinscher/",
+    "path": "/dog-breed/miniature-pinscher/",
+    "features": [
+      "Toy",
+      "Small"
+    ],
+    "alt": "Miniature Pinscher",
+    "listImage": "./img/breed/miniature-pinscher.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/miniature-pinscher.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "miniature-schnauzer",
+    "name": "Miniature Schnauzer",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/miniature-schnauzer/",
+    "path": "/dog-breed/miniature-schnauzer/",
+    "features": [
+      "Terrier",
+      "Small"
+    ],
+    "alt": "Miniature Schnauzer",
+    "listImage": "./img/breed/miniature-schnauzer.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/miniature-schnauzer.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "neapolitan-mastiff",
+    "name": "Neapolitan Mastiff",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/neapolitan-mastiff/",
+    "path": "/dog-breed/neapolitan-mastiff/",
+    "features": [
+      "Working",
+      "XLarge"
+    ],
+    "alt": "Neapolitan Mastiff",
+    "listImage": "./img/breed/neapolitan-mastiff.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/neapolitan-mastiff.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "nederlandse-kooikerhondje",
+    "name": "Nederlandse Kooikerhondje",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/nederlandse-kooikerhondje/",
+    "path": "/dog-breed/nederlandse-kooikerhondje/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "Nederlandse Kooikerhondje",
+    "listImage": "./img/breed/nederlandse-kooikerhondje.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/nederlandse-kooikerhondje.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "newfoundland",
+    "name": "Newfoundland",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/newfoundland/",
+    "path": "/dog-breed/newfoundland/",
+    "features": [
+      "Working",
+      "XLarge"
+    ],
+    "alt": "Newfoundland",
+    "listImage": "./img/breed/newfoundland.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/newfoundland.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "norfolk-terrier",
+    "name": "Norfolk Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/norfolk-terrier/",
+    "path": "/dog-breed/norfolk-terrier/",
+    "features": [
+      "Terrier",
+      "Small"
+    ],
+    "alt": "Norfolk Terrier",
+    "listImage": "./img/breed/norfolk-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/norfolk-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "norwegian-buhund",
+    "name": "Norwegian Buhund",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/norwegian-buhund/",
+    "path": "/dog-breed/norwegian-buhund/",
+    "features": [
+      "Herding",
+      "Medium"
+    ],
+    "alt": "Norwegian Buhund",
+    "listImage": "./img/breed/norwegian-buhund.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/norwegian-buhund.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "norwegian-elkhound",
+    "name": "Norwegian Elkhound",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/norwegian-elkhound/",
+    "path": "/dog-breed/norwegian-elkhound/",
+    "features": [
+      "Hound",
+      "Medium"
+    ],
+    "alt": "Norwegian Elkhound",
+    "listImage": "./img/breed/norwegian-elkhound.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/norwegian-elkhound.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "norwegian-lundehund",
+    "name": "Norwegian Lundehund",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/norwegian-lundehund/",
+    "path": "/dog-breed/norwegian-lundehund/",
+    "features": [
+      "Non-Sporting",
+      "Small"
+    ],
+    "alt": "Norwegian Lundehund",
+    "listImage": "./img/breed/norwegian-lundehund.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/norwegian-lundehund.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "norwich-terrier",
+    "name": "Norwich Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/norwich-terrier/",
+    "path": "/dog-breed/norwich-terrier/",
+    "features": [
+      "Terrier",
+      "Small"
+    ],
+    "alt": "Norwich Terrier",
+    "listImage": "./img/breed/norwich-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/norwich-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "nova-scotia-duck-tolling-retriever",
+    "name": "Nova Scotia Duck Tolling Retriever",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/nova-scotia-duck-tolling-retriever/",
+    "path": "/dog-breed/nova-scotia-duck-tolling-retriever/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "Nova Scotia Duck Tolling Retriever",
+    "listImage": "./img/breed/nova-scotia-duck-tolling-retriever.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/nova-scotia-duck-tolling-retriever.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "old-english-sheepdog",
+    "name": "Old English Sheepdog",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/old-english-sheepdog/",
+    "path": "/dog-breed/old-english-sheepdog/",
+    "features": [
+      "Herding",
+      "Large"
+    ],
+    "alt": "Old English Sheepdog",
+    "listImage": "./img/breed/old-english-sheepdog.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/old-english-sheepdog.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "otterhound",
+    "name": "Otterhound",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/otterhound/",
+    "path": "/dog-breed/otterhound/",
+    "features": [
+      "Hound",
+      "Large"
+    ],
+    "alt": "Otterhound",
+    "listImage": "./img/breed/otterhound.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/otterhound.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "papillon",
+    "name": "Papillon",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/papillon/",
+    "path": "/dog-breed/papillon/",
+    "features": [
+      "Toy",
+      "Medium"
+    ],
+    "alt": "Papillon",
+    "listImage": "./img/breed/papillon.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/papillon.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "parson-russell-terrier",
+    "name": "Parson Russell Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/parson-russell-terrier/",
+    "path": "/dog-breed/parson-russell-terrier/",
+    "features": [
+      "Terrier",
+      "Small"
+    ],
+    "alt": "Parson Russell Terrier",
+    "listImage": "./img/breed/parson-russell-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/parson-russell-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "pekingese",
+    "name": "Pekingese",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/pekingese/",
+    "path": "/dog-breed/pekingese/",
+    "features": [
+      "Toy",
+      "Small"
+    ],
+    "alt": "Pekingese",
+    "listImage": "./img/breed/pekingese.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/pekingese.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "pembroke-welsh-corgi",
+    "name": "Pembroke Welsh Corgi",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/pembroke-welsh-corgi/",
+    "path": "/dog-breed/pembroke-welsh-corgi/",
+    "features": [
+      "Herding",
+      "Small"
+    ],
+    "alt": "Pembroke Welsh Corgi",
+    "listImage": "./img/breed/pembroke-welsh-corgi.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/pembroke-welsh-corgi.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "petit-basset-griffon-vendeen",
+    "name": "Petit Basset Griffon Vendéen",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/petit-basset-griffon-vendeen/",
+    "path": "/dog-breed/petit-basset-griffon-vendeen/",
+    "features": [
+      "Hound",
+      "Medium"
+    ],
+    "alt": "Petit Basset Griffon Vendéen",
+    "listImage": "./img/breed/petit-basset-griffon-vendeen.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/petit-basset-griffon-vendeen.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "pharaoh-hound",
+    "name": "Pharaoh Hound",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/pharaoh-hound/",
+    "path": "/dog-breed/pharaoh-hound/",
+    "features": [
+      "Hound",
+      "Medium"
+    ],
+    "alt": "Pharaoh Hound",
+    "listImage": "./img/breed/pharaoh-hound.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/pharaoh-hound.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "plott-hound",
+    "name": "Plott Hound",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/plott-hound/",
+    "path": "/dog-breed/plott-hound/",
+    "features": [
+      "Hound",
+      "Medium"
+    ],
+    "alt": "Plott Hound",
+    "listImage": "./img/breed/plott-hound.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/plott-hound.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "pointer",
+    "name": "Pointer",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/pointer/",
+    "path": "/dog-breed/pointer/",
+    "features": [
+      "Sporting",
+      "Large"
+    ],
+    "alt": "Pointer",
+    "listImage": "./img/breed/pointer.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/pointer.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "polish-lowland-sheepdog",
+    "name": "Polish Lowland Sheepdog",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/polish-lowland-sheepdog/",
+    "path": "/dog-breed/polish-lowland-sheepdog/",
+    "features": [
+      "Herding",
+      "Medium"
+    ],
+    "alt": "Polish Lowland Sheepdog",
+    "listImage": "./img/breed/polish-lowland-sheepdog.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/polish-lowland-sheepdog.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "pomeranian",
+    "name": "Pomeranian",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/pomeranian/",
+    "path": "/dog-breed/pomeranian/",
+    "features": [
+      "Toy",
+      "XSmall"
+    ],
+    "alt": "Pomeranian",
+    "listImage": "./img/breed/pomeranian.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/pomeranian.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "poodle-standard",
+    "name": "Poodle (Standard)",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/poodle-standard/",
+    "path": "/dog-breed/poodle-standard/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "Poodle (Standard)",
+    "listImage": "./img/breed/poodle-standard.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/poodle-standard.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "portuguese-podengo-pequeno",
+    "name": "Portuguese Podengo Pequeno",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/portuguese-podengo-pequeno/",
+    "path": "/dog-breed/portuguese-podengo-pequeno/",
+    "features": [
+      "Hound",
+      "Medium"
+    ],
+    "alt": "Portuguese Podengo Pequeno",
+    "listImage": "./img/breed/portuguese-podengo-pequeno.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/portuguese-podengo-pequeno.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "portuguese-water-dog",
+    "name": "Portuguese Water Dog",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/portuguese-water-dog/",
+    "path": "/dog-breed/portuguese-water-dog/",
+    "features": [
+      "Working",
+      "Medium"
+    ],
+    "alt": "Portuguese Water Dog",
+    "listImage": "./img/breed/portuguese-water-dog.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/portuguese-water-dog.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "pug",
+    "name": "Pug",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/pug/",
+    "path": "/dog-breed/pug/",
+    "features": [
+      "Toy",
+      "Small"
+    ],
+    "alt": "Pug",
+    "listImage": "./img/breed/pug.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/pug.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "puli",
+    "name": "Puli",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/puli/",
+    "path": "/dog-breed/puli/",
+    "features": [
+      "Herding",
+      "Medium"
+    ],
+    "alt": "Puli",
+    "listImage": "./img/breed/puli.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/puli.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "pumi",
+    "name": "Pumi",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/pumi/",
+    "path": "/dog-breed/pumi/",
+    "features": [
+      "Herding",
+      "Medium"
+    ],
+    "alt": "Pumi",
+    "listImage": "./img/breed/pumi.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/pumi.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "pyrenean-shepherd",
+    "name": "Pyrenean Shepherd",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/pyrenean-shepherd/",
+    "path": "/dog-breed/pyrenean-shepherd/",
+    "features": [
+      "Herding",
+      "Medium"
+    ],
+    "alt": "Pyrenean Shepherd",
+    "listImage": "./img/breed/pyrenean-shepherd.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/pyrenean-shepherd.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "rat-terrier",
+    "name": "Rat Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/rat-terrier/",
+    "path": "/dog-breed/rat-terrier/",
+    "features": [
+      "Terrier",
+      "Small"
+    ],
+    "alt": "Rat Terrier",
+    "listImage": "./img/breed/rat-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/rat-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "redbone-coonhound",
+    "name": "Redbone Coonhound",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/redbone-coonhound/",
+    "path": "/dog-breed/redbone-coonhound/",
+    "features": [
+      "Hound",
+      "Large"
+    ],
+    "alt": "Redbone Coonhound",
+    "listImage": "./img/breed/redbone-coonhound.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/redbone-coonhound.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "rhodesian-ridgeback",
+    "name": "Rhodesian Ridgeback",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/rhodesian-ridgeback/",
+    "path": "/dog-breed/rhodesian-ridgeback/",
+    "features": [
+      "Hound",
+      "Large"
+    ],
+    "alt": "Rhodesian Ridgeback",
+    "listImage": "./img/breed/rhodesian-ridgeback.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/rhodesian-ridgeback.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "rottweiler",
+    "name": "Rottweiler",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/rottweiler/",
+    "path": "/dog-breed/rottweiler/",
+    "features": [
+      "Working",
+      "Large"
+    ],
+    "alt": "Rottweiler",
+    "listImage": "./img/breed/rottweiler.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/rottweiler.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "russell-terrier",
+    "name": "Russell Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/russell-terrier/",
+    "path": "/dog-breed/russell-terrier/",
+    "features": [
+      "Terrier",
+      "Small"
+    ],
+    "alt": "Russell Terrier",
+    "listImage": "./img/breed/russell-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/russell-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "saint-bernard",
+    "name": "Saint Bernard",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/saint-bernard/",
+    "path": "/dog-breed/saint-bernard/",
+    "features": [
+      "Working",
+      "XLarge"
+    ],
+    "alt": "Saint Bernard",
+    "listImage": "./img/breed/saint-bernard.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/saint-bernard.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "saluki",
+    "name": "Saluki",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/saluki/",
+    "path": "/dog-breed/saluki/",
+    "features": [
+      "Hound",
+      "Large"
+    ],
+    "alt": "Saluki",
+    "listImage": "./img/breed/saluki.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/saluki.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "samoyed",
+    "name": "Samoyed",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/samoyed/",
+    "path": "/dog-breed/samoyed/",
+    "features": [
+      "Working",
+      "Medium"
+    ],
+    "alt": "Samoyed",
+    "listImage": "./img/breed/samoyed.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/samoyed.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "schipperke",
+    "name": "Schipperke",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/schipperke/",
+    "path": "/dog-breed/schipperke/",
+    "features": [
+      "Non-Sporting",
+      "Medium"
+    ],
+    "alt": "Schipperke",
+    "listImage": "./img/breed/schipperke.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/schipperke.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "scottish-deerhound",
+    "name": "Scottish Deerhound",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/scottish-deerhound/",
+    "path": "/dog-breed/scottish-deerhound/",
+    "features": [
+      "Hound",
+      "XLarge"
+    ],
+    "alt": "Scottish Deerhound",
+    "listImage": "./img/breed/scottish-deerhound.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/scottish-deerhound.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "scottish-terrier",
+    "name": "Scottish Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/scottish-terrier/",
+    "path": "/dog-breed/scottish-terrier/",
+    "features": [
+      "Terrier",
+      "Medium"
+    ],
+    "alt": "Scottish Terrier",
+    "listImage": "./img/breed/scottish-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/scottish-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "sealyham-terrier",
+    "name": "Sealyham Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/sealyham-terrier/",
+    "path": "/dog-breed/sealyham-terrier/",
+    "features": [
+      "Terrier",
+      "Small"
+    ],
+    "alt": "Sealyham Terrier",
+    "listImage": "./img/breed/sealyham-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/sealyham-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "shetland-sheepdog",
+    "name": "Shetland Sheepdog",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/shetland-sheepdog/",
+    "path": "/dog-breed/shetland-sheepdog/",
+    "features": [
+      "Herding",
+      "Small"
+    ],
+    "alt": "Shetland Sheepdog",
+    "listImage": "./img/breed/shetland-sheepdog.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/shetland-sheepdog.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "shiba-inu",
+    "name": "Shiba Inu",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/shiba-inu/",
+    "path": "/dog-breed/shiba-inu/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "Shiba Inu",
+    "listImage": "./img/breed/shiba-inu.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/shiba-inu.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "shih-tzu",
+    "name": "Shih Tzu",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/shih-tzu/",
+    "path": "/dog-breed/shih-tzu/",
+    "features": [
+      "Toy",
+      "Small"
+    ],
+    "alt": "Shih Tzu",
+    "listImage": "./img/breed/shih-tzu.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/shih-tzu.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "siberian-husky",
+    "name": "Siberian Husky",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/siberian-husky/",
+    "path": "/dog-breed/siberian-husky/",
+    "features": [
+      "Working",
+      "Large"
+    ],
+    "alt": "Siberian Husky",
+    "listImage": "./img/breed/siberian-husky.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/siberian-husky.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "silky-terrier",
+    "name": "Silky Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/silky-terrier/",
+    "path": "/dog-breed/silky-terrier/",
+    "features": [
+      "Terrier",
+      "XSmall"
+    ],
+    "alt": "Silky Terrier",
+    "listImage": "./img/breed/silky-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/silky-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "skye-terrier",
+    "name": "Skye Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/skye-terrier/",
+    "path": "/dog-breed/skye-terrier/",
+    "features": [
+      "Terrier",
+      "Medium"
+    ],
+    "alt": "Skye Terrier",
+    "listImage": "./img/breed/skye-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/skye-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "sloughi",
+    "name": "Sloughi",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/sloughi/",
+    "path": "/dog-breed/sloughi/",
+    "features": [
+      "Hound",
+      "Large"
+    ],
+    "alt": "Sloughi",
+    "listImage": "./img/breed/sloughi.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/sloughi.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "smooth-fox-terrier",
+    "name": "Smooth Fox Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/smooth-fox-terrier/",
+    "path": "/dog-breed/smooth-fox-terrier/",
+    "features": [
+      "Terrier",
+      "Small"
+    ],
+    "alt": "Smooth Fox Terrier",
+    "listImage": "./img/breed/smooth-fox-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/smooth-fox-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "soft-coated-wheaten-terrier",
+    "name": "Soft Coated Wheaten Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/soft-coated-wheaten-terrier/",
+    "path": "/dog-breed/soft-coated-wheaten-terrier/",
+    "features": [
+      "Terrier",
+      "Medium"
+    ],
+    "alt": "Soft Coated Wheaten Terrier",
+    "listImage": "./img/breed/soft-coated-wheaten-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/soft-coated-wheaten-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "spanish-water-dog",
+    "name": "Spanish Water Dog",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/spanish-water-dog/",
+    "path": "/dog-breed/spanish-water-dog/",
+    "features": [
+      "Herding",
+      "Medium"
+    ],
+    "alt": "Spanish Water Dog",
+    "listImage": "./img/breed/spanish-water-dog.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/spanish-water-dog.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "spinone-italiano",
+    "name": "Spinone Italiano",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/spinone-italiano/",
+    "path": "/dog-breed/spinone-italiano/",
+    "features": [
+      "Sporting",
+      "Large"
+    ],
+    "alt": "Spinone Italiano",
+    "listImage": "./img/breed/spinone-italiano.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/spinone-italiano.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "staffordshire-bull-terrier",
+    "name": "Staffordshire Bull Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/staffordshire-bull-terrier/",
+    "path": "/dog-breed/staffordshire-bull-terrier/",
+    "features": [
+      "Terrier",
+      "Medium"
+    ],
+    "alt": "Staffordshire Bull Terrier",
+    "listImage": "./img/breed/staffordshire-bull-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/staffordshire-bull-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "standard-schnauzer",
+    "name": "Standard Schnauzer",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/standard-schnauzer/",
+    "path": "/dog-breed/standard-schnauzer/",
+    "features": [
+      "Working",
+      "Medium"
+    ],
+    "alt": "Standard Schnauzer",
+    "listImage": "./img/breed/standard-schnauzer.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/standard-schnauzer.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "sussex-spaniel",
+    "name": "Sussex Spaniel",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/sussex-spaniel/",
+    "path": "/dog-breed/sussex-spaniel/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "Sussex Spaniel",
+    "listImage": "./img/breed/sussex-spaniel.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/sussex-spaniel.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "swedish-vallhund",
+    "name": "Swedish Vallhund",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/swedish-vallhund/",
+    "path": "/dog-breed/swedish-vallhund/",
+    "features": [
+      "Herding",
+      "Medium"
+    ],
+    "alt": "Swedish Vallhund",
+    "listImage": "./img/breed/swedish-vallhund.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/swedish-vallhund.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "tibetan-mastiff",
+    "name": "Tibetan Mastiff",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/tibetan-mastiff/",
+    "path": "/dog-breed/tibetan-mastiff/",
+    "features": [
+      "Working",
+      "XLarge"
+    ],
+    "alt": "Tibetan Mastiff",
+    "listImage": "./img/breed/tibetan-mastiff.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/tibetan-mastiff.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "tibetan-spaniel",
+    "name": "Tibetan Spaniel",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/tibetan-spaniel/",
+    "path": "/dog-breed/tibetan-spaniel/",
+    "features": [
+      "Non-Sporting",
+      "Small"
+    ],
+    "alt": "Tibetan Spaniel",
+    "listImage": "./img/breed/tibetan-spaniel.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/tibetan-spaniel.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "tibetan-terrier",
+    "name": "Tibetan Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/tibetan-terrier/",
+    "path": "/dog-breed/tibetan-terrier/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "Tibetan Terrier",
+    "listImage": "./img/breed/tibetan-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/tibetan-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "toy-fox-terrier",
+    "name": "Toy Fox Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/toy-fox-terrier/",
+    "path": "/dog-breed/toy-fox-terrier/",
+    "features": [
+      "Terrier",
+      "Medium"
+    ],
+    "alt": "Toy Fox Terrier",
+    "listImage": "./img/breed/toy-fox-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/toy-fox-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "treeing-walker-coonhound",
+    "name": "Treeing Walker Coonhound",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/treeing-walker-coonhound/",
+    "path": "/dog-breed/treeing-walker-coonhound/",
+    "features": [
+      "Hound",
+      "Large"
+    ],
+    "alt": "Treeing Walker Coonhound",
+    "listImage": "./img/breed/treeing-walker-coonhound.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/treeing-walker-coonhound.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "vizsla",
+    "name": "Vizsla",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/vizsla/",
+    "path": "/dog-breed/vizsla/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "Vizsla",
+    "listImage": "./img/breed/vizsla.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/vizsla.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "weimaraner",
+    "name": "Weimaraner",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/weimaraner/",
+    "path": "/dog-breed/weimaraner/",
+    "features": [
+      "Sporting",
+      "Large"
+    ],
+    "alt": "Weimaraner",
+    "listImage": "./img/breed/weimaraner.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/weimaraner.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "welsh-springer-spaniel",
+    "name": "Welsh Springer Spaniel",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/welsh-springer-spaniel/",
+    "path": "/dog-breed/welsh-springer-spaniel/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "Welsh Springer Spaniel",
+    "listImage": "./img/breed/welsh-springer-spaniel.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/welsh-springer-spaniel.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "welsh-terrier",
+    "name": "Welsh Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/welsh-terrier/",
+    "path": "/dog-breed/welsh-terrier/",
+    "features": [
+      "Terrier",
+      "Small"
+    ],
+    "alt": "Welsh Terrier",
+    "listImage": "./img/breed/welsh-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/welsh-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "west-highland-white-terrier",
+    "name": "West Highland White Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/west-highland-white-terrier/",
+    "path": "/dog-breed/west-highland-white-terrier/",
+    "features": [
+      "Terrier",
+      "Medium"
+    ],
+    "alt": "West Highland White Terrier",
+    "listImage": "./img/breed/west-highland-white-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/west-highland-white-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "whippet",
+    "name": "Whippet",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/whippet/",
+    "path": "/dog-breed/whippet/",
+    "features": [
+      "Hound",
+      "Medium"
+    ],
+    "alt": "Whippet",
+    "listImage": "./img/breed/whippet.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/whippet.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "wire-fox-terrier",
+    "name": "Wire Fox Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/wire-fox-terrier/",
+    "path": "/dog-breed/wire-fox-terrier/",
+    "features": [
+      "Terrier",
+      "Small"
+    ],
+    "alt": "Wire Fox Terrier",
+    "listImage": "./img/breed/wire-fox-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/wire-fox-terrier.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "wirehaired-pointing-griffon",
+    "name": "Wirehaired Pointing Griffon",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/wirehaired-pointing-griffon/",
+    "path": "/dog-breed/wirehaired-pointing-griffon/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "Wirehaired Pointing Griffon",
+    "listImage": "./img/breed/wirehaired-pointing-griffon.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/wirehaired-pointing-griffon.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "wirehaired-vizsla",
+    "name": "Wirehaired Vizsla",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/wirehaired-vizsla/",
+    "path": "/dog-breed/wirehaired-vizsla/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "Wirehaired Vizsla",
+    "listImage": "./img/breed/wirehaired-vizsla.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/wirehaired-vizsla.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "xoloitzcuintli",
+    "name": "Xoloitzcuintli",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/xoloitzcuintli/",
+    "path": "/dog-breed/xoloitzcuintli/",
+    "features": [
+      "Sporting",
+      "Medium"
+    ],
+    "alt": "Xoloitzcuintli",
+    "listImage": "./img/breed/xoloitzcuintli.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/xoloitzcuintli.jpg?f=webp&w=320"
+  },
+  {
+    "slug": "yorkshire-terrier",
+    "name": "Yorkshire Terrier",
+    "type": "dog",
+    "url": "https://www.findpawpal.com/dog-breed/yorkshire-terrier/",
+    "path": "/dog-breed/yorkshire-terrier/",
+    "features": [
+      "Terrier",
+      "XSmall"
+    ],
+    "alt": "Yorkshire Terrier",
+    "listImage": "./img/breed/yorkshire-terrier.webp",
+    "listImageUrl": "https://cdn.findpawpal.com/breed/yorkshire-terrier.jpg?f=webp&w=320"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:04:05.063714+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "millersville",
+    "name": "Millersville",
+    "label": "Millersville, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/millersville/",
+  "offices": [
+    {
+      "officeId": 491081,
+      "slug": "animal-control-491081",
+      "name": "Animal Control",
+      "address": "411 Maxwell Frye Road, Millersville, MD 21108",
+      "phone": "410-222-8900",
+      "image": "./img/shelter/office/491081.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-control-491081/",
+      "imageUrl": "https://cdn.findpawpal.com/office/491081.jpg?f=webp&w=730"
+    }
+  ]
+}

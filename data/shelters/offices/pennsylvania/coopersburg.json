@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:52:19.940982+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "coopersburg",
+    "name": "Coopersburg",
+    "label": "Coopersburg, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/coopersburg/",
+  "offices": [
+    {
+      "officeId": 437846,
+      "slug": "animals-in-distress-437846",
+      "name": "Animals In Distress",
+      "address": "5075 Limeport Pike, Coopersburg, PA 18036",
+      "phone": "610-966-9383",
+      "image": "./img/shelter/office/437846.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animals-in-distress-437846/",
+      "imageUrl": "https://cdn.findpawpal.com/office/437846.jpg?f=webp&w=730"
+    }
+  ]
+}

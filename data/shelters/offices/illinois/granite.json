@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T18:45:44.379521+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "granite",
+    "name": "Granite",
+    "label": "Granite, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/granite/",
+  "offices": [
+    {
+      "officeId": 392894,
+      "slug": "association-for-the-protection-392894",
+      "name": "Association For the Protection",
+      "address": "5000 Old Alton Road, Granite, IL 62040",
+      "phone": "618-931-7030",
+      "image": "./img/shelter/office/392894.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/association-for-the-protection-392894/",
+      "imageUrl": "https://cdn.findpawpal.com/office/392894.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 412612,
+      "slug": "granite-city-humane-society-412612",
+      "name": "Granite City Humane Society",
+      "address": "2000 Edison Avenue, Granite, IL 62040",
+      "phone": "618-452-6233",
+      "image": "./img/shelter/office/412612.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/granite-city-humane-society-412612/",
+      "imageUrl": "https://cdn.findpawpal.com/office/412612.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 579084,
+      "slug": "st-louis-animal-page-579084",
+      "name": "St. Louis Animal Page",
+      "address": "PO Box 1618, Granite, IL 62040",
+      "phone": "618-452-2887",
+      "image": "https://cdn.findpawpal.com/office/579084.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/st-louis-animal-page-579084/"
+    }
+  ]
+}

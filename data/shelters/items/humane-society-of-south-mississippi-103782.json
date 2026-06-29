@@ -1,0 +1,21 @@
+{
+  "officeId": 103782,
+  "slug": "humane-society-of-south-mississippi-103782",
+  "name": "Humane Society of South Mississippi",
+  "address": "2615 25th Avenue, Gulfport, MS 39501",
+  "street": "2615 25th Avenue",
+  "addressCity": "Gulfport",
+  "stateCode": "MS",
+  "zip": "39501",
+  "phone": "228-863-3354",
+  "image": "./img/shelter/office/103782.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-south-mississippi-103782/",
+  "stateSlug": "mississippi",
+  "stateName": "Mississippi",
+  "citySlug": "gulfport",
+  "cityName": "Gulfport",
+  "cityLabel": "Gulfport, MS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/mississippi/gulfport/",
+  "fetchedAt": "2026-06-27T19:16:26.981086+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/103782.jpg?f=webp&w=730"
+}

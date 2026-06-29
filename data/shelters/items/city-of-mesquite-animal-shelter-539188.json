@@ -1,0 +1,21 @@
+{
+  "officeId": 539188,
+  "slug": "city-of-mesquite-animal-shelter-539188",
+  "name": "City of Mesquite Animal Shelter",
+  "address": "1515 North Galloway Avenue, Mesquite, TX 75149",
+  "street": "1515 North Galloway Avenue",
+  "addressCity": "Mesquite",
+  "stateCode": "TX",
+  "zip": "75149",
+  "phone": "972-216-6283",
+  "image": "./img/shelter/office/539188.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/city-of-mesquite-animal-shelter-539188/",
+  "stateSlug": "texas",
+  "stateName": "Texas",
+  "citySlug": "mesquite",
+  "cityName": "Mesquite",
+  "cityLabel": "Mesquite, TX",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/texas/mesquite/",
+  "fetchedAt": "2026-06-27T20:07:30.453591+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/539188.jpg?f=webp&w=730"
+}

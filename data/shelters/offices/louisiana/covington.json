@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:59:25.114014+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "covington",
+    "name": "Covington",
+    "label": "Covington, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/covington/",
+  "offices": [
+    {
+      "officeId": 225926,
+      "slug": "greyhound-pets-of-america-225926",
+      "name": "Greyhound Pets of America",
+      "address": "106 Pine Oak Drive, Covington, LA 70433",
+      "phone": "504-893-0966",
+      "image": "./img/shelter/office/225926.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhound-pets-of-america-225926/",
+      "imageUrl": "https://cdn.findpawpal.com/office/225926.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 287897,
+      "slug": "st-tammany-humane-society-287897",
+      "name": "St. Tammany Humane Society",
+      "address": "20384 Harrison Avenue, Covington, LA 70433",
+      "phone": "985-892-7387",
+      "image": "./img/shelter/office/287897.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/st-tammany-humane-society-287897/",
+      "imageUrl": "https://cdn.findpawpal.com/office/287897.jpg?f=webp&w=730"
+    }
+  ]
+}

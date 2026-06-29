@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:42:49.340097+00:00",
+  "state": {
+    "slug": "idaho",
+    "name": "Idaho"
+  },
+  "city": {
+    "slug": "careywood",
+    "name": "Careywood",
+    "label": "Careywood, ID"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/idaho/careywood/",
+  "offices": [
+    {
+      "officeId": 366169,
+      "slug": "life-time-friends-animal-sanctuary-366169",
+      "name": "Life Time Friends Animal Sanctuary",
+      "address": "PO Box 54, Careywood, ID 83809",
+      "phone": "208-755-6298",
+      "image": "https://cdn.findpawpal.com/office/366169.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/life-time-friends-animal-sanctuary-366169/"
+    }
+  ]
+}

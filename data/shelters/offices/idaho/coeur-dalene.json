@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:42:55.263180+00:00",
+  "state": {
+    "slug": "idaho",
+    "name": "Idaho"
+  },
+  "city": {
+    "slug": "coeur-dalene",
+    "name": "Coeur d'Alene",
+    "label": "Coeur d'Alene, ID"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/idaho/coeur-dalene/",
+  "offices": [
+    {
+      "officeId": 358800,
+      "slug": "coeur-dalene-animal-control-358800",
+      "name": "Coeur D'Alene Animal Control",
+      "address": "3818 North Schreiber Way, Coeur d'Alene, ID 83815",
+      "phone": "208-769-2320",
+      "image": "./img/shelter/office/358800.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/coeur-dalene-animal-control-358800/",
+      "imageUrl": "https://cdn.findpawpal.com/office/358800.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 449658,
+      "slug": "greyhound-pets-inc-449658",
+      "name": "Greyhound Pets, Inc.",
+      "address": "6225 North Old Atlas Road, Coeur d'Alene, ID 83814",
+      "phone": "208-765-3115",
+      "image": "./img/shelter/office/449658.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhound-pets-inc-449658/",
+      "imageUrl": "https://cdn.findpawpal.com/office/449658.jpg?f=webp&w=730"
+    }
+  ]
+}

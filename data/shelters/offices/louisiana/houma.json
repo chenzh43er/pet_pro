@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:59:53.185431+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "houma",
+    "name": "Houma",
+    "label": "Houma, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/houma/",
+  "offices": [
+    {
+      "officeId": 242906,
+      "slug": "animal-shelter-242906",
+      "name": "Animal Shelter",
+      "address": "131 Plant Road, Houma, LA 70363",
+      "phone": "985-873-6709",
+      "image": "./img/shelter/office/242906.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-shelter-242906/",
+      "imageUrl": "https://cdn.findpawpal.com/office/242906.jpg?f=webp&w=730"
+    }
+  ]
+}

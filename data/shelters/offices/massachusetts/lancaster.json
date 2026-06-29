@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:06:43.692380+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "lancaster",
+    "name": "Lancaster",
+    "label": "Lancaster, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/lancaster/",
+  "offices": [
+    {
+      "officeId": 40681,
+      "slug": "volunteer-humane-society-inc-40681",
+      "name": "Volunteer Humane Society Inc",
+      "address": "505 Center Bridge Road, Lancaster, MA 01523",
+      "phone": "978-365-9470",
+      "image": "./img/shelter/office/40681.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/volunteer-humane-society-inc-40681/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40681.jpg?f=webp&w=730"
+    }
+  ]
+}

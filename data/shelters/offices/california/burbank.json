@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T18:24:29.123694+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "burbank",
+    "name": "Burbank",
+    "label": "Burbank, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/burbank/",
+  "offices": [
+    {
+      "officeId": 360340,
+      "slug": "chatham-meier-foundation-360340",
+      "name": "Chatham-Meier Foundation",
+      "address": "PO Box 6381, Burbank, CA 91510",
+      "phone": "818-901-0947",
+      "image": "./img/shelter/office/360340.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/chatham-meier-foundation-360340/",
+      "imageUrl": "https://cdn.findpawpal.com/office/360340.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 360402,
+      "slug": "pet-rescue-association-360402",
+      "name": "Pet Rescue Association",
+      "address": "PO Box 1836, Burbank, CA 91507",
+      "phone": "818-767-4400",
+      "image": "./img/shelter/office/360402.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-rescue-association-360402/",
+      "imageUrl": "https://cdn.findpawpal.com/office/360402.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 474286,
+      "slug": "the-animal-farm-for-pows-474286",
+      "name": "The Animal Farm For Pow's",
+      "address": "PO Box 3189, Burbank, CA 91508",
+      "phone": "818-623-7379",
+      "image": "./img/shelter/office/474286.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-animal-farm-for-pows-474286/",
+      "imageUrl": "https://cdn.findpawpal.com/office/474286.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 478095,
+      "slug": "burbank-animal-shelter-478095",
+      "name": "Burbank Animal Shelter",
+      "address": "1150 North Victory Place, Burbank, CA 91502",
+      "phone": "818-238-3340",
+      "image": "./img/shelter/office/478095.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/burbank-animal-shelter-478095/",
+      "imageUrl": "https://cdn.findpawpal.com/office/478095.jpg?f=webp&w=730"
+    }
+  ]
+}

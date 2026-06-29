@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:52:12.251161+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "chester-springs",
+    "name": "Chester Springs",
+    "label": "Chester Springs, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/chester-springs/",
+  "offices": [
+    {
+      "officeId": 596407,
+      "slug": "chester-springs-animal-control-596407",
+      "name": "Chester Springs Animal Control",
+      "address": "931 Pottstown Pike, Chester Springs, PA 19425",
+      "phone": "",
+      "image": "./img/shelter/office/596407.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/chester-springs-animal-control-596407/",
+      "imageUrl": "https://cdn.findpawpal.com/office/596407.jpg?f=webp&w=730"
+    }
+  ]
+}

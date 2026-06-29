@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:26:07.858720+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "frankford",
+    "name": "Frankford",
+    "label": "Frankford, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/frankford/",
+  "offices": [
+    {
+      "officeId": 101034,
+      "slug": "augusta-animal-shelter-101034",
+      "name": "Augusta Animal Shelter",
+      "address": "28 Pelletown Road, Frankford, NJ 07822",
+      "phone": "973-875-8540",
+      "image": "./img/shelter/office/101034.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/augusta-animal-shelter-101034/",
+      "imageUrl": "https://cdn.findpawpal.com/office/101034.jpg?f=webp&w=730"
+    }
+  ]
+}

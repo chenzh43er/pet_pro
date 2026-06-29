@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:59:01.319007+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "alexandria",
+    "name": "Alexandria",
+    "label": "Alexandria, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/alexandria/",
+  "offices": [
+    {
+      "officeId": 223668,
+      "slug": "cenla-alliance-for-animals-223668",
+      "name": "Cenla Alliance for Animals",
+      "address": "PO Box 8641, Alexandria, LA 71306",
+      "phone": "318-443-0010",
+      "image": "./img/shelter/office/223668.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cenla-alliance-for-animals-223668/",
+      "imageUrl": "https://cdn.findpawpal.com/office/223668.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 257660,
+      "slug": "alexandria-animal-shelter-257660",
+      "name": "Alexandria Animal Shelter",
+      "address": "200 Animal Shelter Road, Alexandria, LA 71301",
+      "phone": "318-473-1229",
+      "image": "./img/shelter/office/257660.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/alexandria-animal-shelter-257660/",
+      "imageUrl": "https://cdn.findpawpal.com/office/257660.jpg?f=webp&w=730"
+    }
+  ]
+}

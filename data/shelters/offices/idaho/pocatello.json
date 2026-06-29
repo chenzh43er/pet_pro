@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:43:30.249902+00:00",
+  "state": {
+    "slug": "idaho",
+    "name": "Idaho"
+  },
+  "city": {
+    "slug": "pocatello",
+    "name": "Pocatello",
+    "label": "Pocatello, ID"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/idaho/pocatello/",
+  "offices": [
+    {
+      "officeId": 340454,
+      "slug": "pocatello-animal-shelter-340454",
+      "name": "Pocatello Animal Shelter",
+      "address": "3100 Avenue of the Chiefs, Pocatello, ID 83201",
+      "phone": "208-234-6156",
+      "image": "./img/shelter/office/340454.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pocatello-animal-shelter-340454/",
+      "imageUrl": "https://cdn.findpawpal.com/office/340454.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 366726,
+      "slug": "bannock-humane-society-366726",
+      "name": "Bannock Humane Society",
+      "address": "850 Barton Road, Pocatello, ID 83204",
+      "phone": "208-232-0371",
+      "image": "./img/shelter/office/366726.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bannock-humane-society-366726/",
+      "imageUrl": "https://cdn.findpawpal.com/office/366726.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 438615,
+      "slug": "federal-humane-society-438615",
+      "name": "Federal Humane Society",
+      "address": "922 Broadway Street, Pocatello, ID 83204",
+      "phone": "",
+      "image": "./img/shelter/office/438615.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/federal-humane-society-438615/",
+      "imageUrl": "https://cdn.findpawpal.com/office/438615.jpg?f=webp&w=730"
+    }
+  ]
+}

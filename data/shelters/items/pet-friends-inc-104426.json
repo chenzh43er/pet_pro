@@ -1,0 +1,21 @@
+{
+  "officeId": 104426,
+  "slug": "pet-friends-inc-104426",
+  "name": "Pet Friends, Inc.",
+  "address": "315 Egg Harbor Road, Washington, NJ 08080",
+  "street": "315 Egg Harbor Road",
+  "addressCity": "Washington",
+  "stateCode": "NJ",
+  "zip": "08080",
+  "phone": "856-589-0797",
+  "image": "./img/shelter/office/104426.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pet-friends-inc-104426/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "washington",
+  "cityName": "Washington",
+  "cityLabel": "Washington, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/washington/",
+  "fetchedAt": "2026-06-27T19:29:28.984989+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/104426.jpg?f=webp&w=730"
+}

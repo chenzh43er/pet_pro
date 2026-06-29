@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:05:37.869321+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "hearne",
+    "name": "Hearne",
+    "label": "Hearne, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/hearne/",
+  "offices": [
+    {
+      "officeId": 519256,
+      "slug": "hearne-animal-control-519256",
+      "name": "Hearne Animal Control",
+      "address": "402 East 3rd Street, Hearne, TX 77859",
+      "phone": "979-279-3744",
+      "image": "./img/shelter/office/519256.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hearne-animal-control-519256/",
+      "imageUrl": "https://cdn.findpawpal.com/office/519256.jpg?f=webp&w=730"
+    }
+  ]
+}

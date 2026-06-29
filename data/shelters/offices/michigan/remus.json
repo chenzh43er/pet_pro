@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:12:21.675044+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "remus",
+    "name": "Remus",
+    "label": "Remus, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/remus/",
+  "offices": [
+    {
+      "officeId": 189631,
+      "slug": "aucado-australian-cattle-dog-rescue-189631",
+      "name": "Aucado Australian Cattle Dog Rescue",
+      "address": "3861 12 Mile Road, Remus, MI 49340",
+      "phone": "989-330-5147",
+      "image": "https://cdn.findpawpal.com/office/189631.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/aucado-australian-cattle-dog-rescue-189631/"
+    }
+  ]
+}

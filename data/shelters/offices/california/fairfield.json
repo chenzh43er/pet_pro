@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:25:49.903027+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "fairfield",
+    "name": "Fairfield",
+    "label": "Fairfield, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/fairfield/",
+  "offices": [
+    {
+      "slug": "solano-county-animal-shelter-383909",
+      "name": "Solano County Animal Shelter",
+      "address": "2510 Clay Bank Road, Fairfield, CA 94533",
+      "phone": "707-784-1356",
+      "image": "./img/shelter/office/383909.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/solano-county-animal-shelter-383909/",
+      "imageUrl": "https://cdn.findpawpal.com/office/383909.jpg?f=webp&w=730"
+    }
+  ]
+}

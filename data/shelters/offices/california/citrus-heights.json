@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:24:55.064897+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "citrus-heights",
+    "name": "Citrus Heights",
+    "label": "Citrus Heights, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/citrus-heights/",
+  "offices": [
+    {
+      "officeId": 489711,
+      "slug": "citrus-heights-animal-control-489711",
+      "name": "Citrus Heights Animal Control",
+      "address": "6237 Fountain Square Drive, Citrus Heights, CA 95621",
+      "phone": "916-725-7387",
+      "image": "./img/shelter/office/489711.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/citrus-heights-animal-control-489711/",
+      "imageUrl": "https://cdn.findpawpal.com/office/489711.jpg?f=webp&w=730"
+    }
+  ]
+}

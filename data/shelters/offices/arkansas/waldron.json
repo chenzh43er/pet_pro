@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:23:24.965305+00:00",
+  "state": {
+    "slug": "arkansas",
+    "name": "Arkansas"
+  },
+  "city": {
+    "slug": "waldron",
+    "name": "Waldron",
+    "label": "Waldron, AR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arkansas/waldron/",
+  "offices": [
+    {
+      "slug": "city-of-waldron-animal-shelter-272984",
+      "name": "City of Waldron Animal Shelter",
+      "address": "310 Featherston Street, Waldron, AR 72958",
+      "phone": "479-207-3117",
+      "image": "./img/shelter/office/272984.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/city-of-waldron-animal-shelter-272984/",
+      "imageUrl": "https://cdn.findpawpal.com/office/272984.jpg?f=webp&w=730"
+    }
+  ]
+}

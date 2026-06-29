@@ -1,0 +1,75 @@
+{
+  "fetchedAt": "2026-06-27T20:16:59.875935+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "woodbridge",
+    "name": "Woodbridge",
+    "label": "Woodbridge, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/woodbridge/",
+  "offices": [
+    {
+      "officeId": 528993,
+      "slug": "liberty-golden-retriever-rescue-528993",
+      "name": "Liberty Golden Retriever Rescue",
+      "address": "PO Box 5365, Woodbridge, VA 22194",
+      "phone": "",
+      "image": "./img/shelter/office/528993.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/liberty-golden-retriever-rescue-528993/",
+      "imageUrl": "https://cdn.findpawpal.com/office/528993.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 561614,
+      "slug": "dachshund-rescue-of-north-america-561614",
+      "name": "Dachshund Rescue of North America",
+      "address": "12497 Lolly Post Lane, Woodbridge, VA 22192",
+      "phone": "703-491-3894",
+      "image": "./img/shelter/office/561614.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dachshund-rescue-of-north-america-561614/",
+      "imageUrl": "https://cdn.findpawpal.com/office/561614.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 575031,
+      "slug": "spca-of-prince-william-county-575031",
+      "name": "SPCA of Prince William County",
+      "address": "PO Box 6631, Woodbridge, VA 22195",
+      "phone": "571-222-0033",
+      "image": "./img/shelter/office/575031.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/spca-of-prince-william-county-575031/",
+      "imageUrl": "https://cdn.findpawpal.com/office/575031.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 575185,
+      "slug": "greyhound-pets-of-america-northern-virginia-575185",
+      "name": "Greyhound Pets of America - Northern Virginia",
+      "address": "PO Box 6037, Woodbridge, VA 22195",
+      "phone": "800-366-1472",
+      "image": "./img/shelter/office/575185.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhound-pets-of-america-northern-virginia-575185/",
+      "imageUrl": "https://cdn.findpawpal.com/office/575185.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 644626,
+      "slug": "potomac-animal-allies-644626",
+      "name": "Potomac Animal Allies",
+      "address": "PO Box 207, Woodbridge, VA 22194",
+      "phone": "703-791-2900",
+      "image": "./img/shelter/office/644626.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/potomac-animal-allies-644626/",
+      "imageUrl": "https://cdn.findpawpal.com/office/644626.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 683053,
+      "slug": "noahs-ark-foundation-683053",
+      "name": "Noah's Ark Foundation",
+      "address": "PO Box 7862, Woodbridge, VA 22195",
+      "phone": "703-831-4153",
+      "image": "./img/shelter/office/683053.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/noahs-ark-foundation-683053/",
+      "imageUrl": "https://cdn.findpawpal.com/office/683053.jpg?f=webp&w=730"
+    }
+  ]
+}

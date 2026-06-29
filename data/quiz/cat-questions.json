@@ -1,0 +1,52 @@
+{
+  "category": "cat",
+  "pageCount": 5,
+  "intro": "Find the perfect name for your furry friend with our Name Generator! Answer a few questions to discover a unique name that reflects your pet's spirit. Say goodbye to naming struggles and hello to a name that fits like a glove. Start generating now!",
+  "questions": [
+    {
+      "page": 1,
+      "title": "1. Choose a gender for your cat.",
+      "options": [
+        { "label": "Boy", "image": "img/quiz/cat/6_1.webp" },
+        { "label": "Girl", "image": "img/quiz/cat/6_2.webp" },
+        { "label": "No preference", "image": "img/quiz/cat/6_3.webp" }
+      ]
+    },
+    {
+      "page": 2,
+      "title": "2. Is this name for a cat or a kitten?",
+      "options": [
+        { "label": "Cat", "image": "img/quiz/cat/7_1.webp" },
+        { "label": "Kitten", "image": "img/quiz/cat/7_2.webp" },
+        { "label": "Any", "image": "img/quiz/cat/7_3.webp" }
+      ]
+    },
+    {
+      "page": 3,
+      "title": "3. What is your cat's favorite activity？",
+      "options": [
+        { "label": "Chasing laser pointers", "image": "img/quiz/cat/8_1.webp" },
+        { "label": "Watching birds", "image": "img/quiz/cat/8_2.webp" },
+        { "label": "Napping in blankets", "image": "img/quiz/cat/8_3.webp" }
+      ]
+    },
+    {
+      "page": 4,
+      "title": "4. What is your cat's least favorite thing?",
+      "options": [
+        { "label": "Dogs", "image": "img/quiz/cat/9_1.webp" },
+        { "label": "Water", "image": "img/quiz/cat/9_2.webp" },
+        { "label": "Noise", "image": "img/quiz/cat/9_3.webp" }
+      ]
+    },
+    {
+      "page": 5,
+      "title": "5. What is your cat's favorite food?",
+      "options": [
+        { "label": "Fish", "image": "img/quiz/cat/10_1.webp" },
+        { "label": "Eggs", "image": "img/quiz/cat/10_2.webp" },
+        { "label": "Catnip", "image": "img/quiz/cat/10_3.webp" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:17:55.013304+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "friday-harbor",
+    "name": "Friday Harbor",
+    "label": "Friday Harbor, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/friday-harbor/",
+  "offices": [
+    {
+      "officeId": 593322,
+      "slug": "animal-protection-society-of-san-juan-island-593322",
+      "name": "Animal Protection Society of San Juan Island",
+      "address": "PO Box 2478, Friday Harbor, WA 98250",
+      "phone": "360-378-2158",
+      "image": "./img/shelter/office/593322.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-protection-society-of-san-juan-island-593322/",
+      "imageUrl": "https://cdn.findpawpal.com/office/593322.jpg?f=webp&w=730"
+    }
+  ]
+}

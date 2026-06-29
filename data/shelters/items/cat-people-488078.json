@@ -1,0 +1,21 @@
+{
+  "officeId": 488078,
+  "slug": "cat-people-488078",
+  "name": "Cat People",
+  "address": "1412 17th Street, Bakersfield, CA 93301",
+  "street": "1412 17th Street",
+  "addressCity": "Bakersfield",
+  "stateCode": "CA",
+  "zip": "93301",
+  "phone": "661-327-7297",
+  "image": "./img/shelter/office/488078.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/cat-people-488078/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "bakersfield",
+  "cityName": "Bakersfield",
+  "cityLabel": "Bakersfield, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/bakersfield/",
+  "fetchedAt": "2026-06-27T18:24:01.342898+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/488078.jpg?f=webp&w=730"
+}

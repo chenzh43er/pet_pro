@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:08:13.527758+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "pasadena",
+    "name": "Pasadena",
+    "label": "Pasadena, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/pasadena/",
+  "offices": [
+    {
+      "officeId": 633550,
+      "slug": "pasadena-animal-shelter-633550",
+      "name": "Pasadena Animal Shelter",
+      "address": "5150 Burke Road, Pasadena, TX 77504",
+      "phone": "281-991-0602",
+      "image": "./img/shelter/office/633550.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pasadena-animal-shelter-633550/",
+      "imageUrl": "https://cdn.findpawpal.com/office/633550.jpg?f=webp&w=730"
+    }
+  ]
+}

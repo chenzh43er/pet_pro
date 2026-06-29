@@ -1,0 +1,21 @@
+{
+  "officeId": 106632,
+  "slug": "west-long-beach-animal-shelter-106632",
+  "name": "West Long Beach Animal Shelter",
+  "address": "265 New Jersey 36, West Long Branch, NJ 07764",
+  "street": "265 New Jersey 36",
+  "addressCity": "West Long Branch",
+  "stateCode": "NJ",
+  "zip": "07764",
+  "phone": "732-542-2030",
+  "image": "./img/shelter/office/106632.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/west-long-beach-animal-shelter-106632/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "west-long-branch",
+  "cityName": "West Long Branch",
+  "cityLabel": "West Long Branch, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/west-long-branch/",
+  "fetchedAt": "2026-06-27T19:29:35.014899+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/106632.jpg?f=webp&w=730"
+}

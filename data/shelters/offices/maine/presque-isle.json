@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:02:15.008640+00:00",
+  "state": {
+    "slug": "maine",
+    "name": "Maine"
+  },
+  "city": {
+    "slug": "presque-isle",
+    "name": "Presque Isle",
+    "label": "Presque Isle, ME"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maine/presque-isle/",
+  "offices": [
+    {
+      "officeId": 420139,
+      "slug": "central-aroostook-humane-socty-420139",
+      "name": "Central Aroostook Humane Socty",
+      "address": "24 Cross Street, Presque Isle, ME 04769",
+      "phone": "207-764-3441",
+      "image": "./img/shelter/office/420139.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/central-aroostook-humane-socty-420139/",
+      "imageUrl": "https://cdn.findpawpal.com/office/420139.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 453838,
+      "slug": "presque-isle-animal-shelter-453838",
+      "name": "Presque Isle Animal Shelter",
+      "address": "24 Cross Street, Presque Isle, ME 04769",
+      "phone": "207-764-3441",
+      "image": "./img/shelter/office/453838.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/presque-isle-animal-shelter-453838/",
+      "imageUrl": "https://cdn.findpawpal.com/office/453838.jpg?f=webp&w=730"
+    }
+  ]
+}

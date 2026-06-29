@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:30:45.018696+00:00",
+  "state": {
+    "slug": "new-mexico",
+    "name": "New Mexico"
+  },
+  "city": {
+    "slug": "mosquero",
+    "name": "Mosquero",
+    "label": "Mosquero, NM"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-mexico/mosquero/",
+  "offices": [
+    {
+      "officeId": 309079,
+      "slug": "harding-county-animal-control-309079",
+      "name": "Harding County Animal Control",
+      "address": "PO Box 1002, Mosquero, NM 87733",
+      "phone": "505-673-2231",
+      "image": "./img/shelter/office/309079.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/harding-county-animal-control-309079/",
+      "imageUrl": "https://cdn.findpawpal.com/office/309079.jpg?f=webp&w=730"
+    }
+  ]
+}

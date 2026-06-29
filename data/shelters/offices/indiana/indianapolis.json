@@ -1,0 +1,157 @@
+{
+  "fetchedAt": "2026-06-27T18:50:28.219009+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "indianapolis",
+    "name": "Indianapolis",
+    "label": "Indianapolis, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/indianapolis/",
+  "offices": [
+    {
+      "officeId": 200449,
+      "slug": "humane-society-of-indianapolis-200449",
+      "name": "Humane Society of Indianapolis",
+      "address": "7929 North Michigan Road, Indianapolis, IN 46268",
+      "phone": "317-872-5650",
+      "image": "./img/shelter/office/200449.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-indianapolis-200449/",
+      "imageUrl": "https://cdn.findpawpal.com/office/200449.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 200498,
+      "slug": "exotic-parrot-rescue-and-sanctuary-200498",
+      "name": "Exotic Parrot Rescue and Sanctuary",
+      "address": "Box 4267, Indianapolis, IN 46219",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/200498.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/exotic-parrot-rescue-and-sanctuary-200498/"
+    },
+    {
+      "officeId": 200530,
+      "slug": "circle-city-ferret-club-200530",
+      "name": "Circle City Ferret Club",
+      "address": "PO Box 2272, Indianapolis, IN 46206",
+      "phone": "317-767-1758",
+      "image": "https://cdn.findpawpal.com/office/200530.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/circle-city-ferret-club-200530/"
+    },
+    {
+      "officeId": 200637,
+      "slug": "spay-neuter-services-of-indiana-inc-200637",
+      "name": "Spay-Neuter Services of Indiana, Inc.",
+      "address": "PO Box 55917, Indianapolis, IN 46205",
+      "phone": "317-767-7771",
+      "image": "https://cdn.findpawpal.com/office/200637.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/spay-neuter-services-of-indiana-inc-200637/"
+    },
+    {
+      "officeId": 200705,
+      "slug": "indiana-bulldog-rescue-200705",
+      "name": "Indiana Bulldog Rescue",
+      "address": "PO Box 34770, Indianapolis, IN 46234",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/200705.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/indiana-bulldog-rescue-200705/"
+    },
+    {
+      "officeId": 201264,
+      "slug": "cats-haven-201264",
+      "name": "Cats Haven",
+      "address": "PO Box 30206, Indianapolis, IN 46230",
+      "phone": "317-638-0699",
+      "image": "https://cdn.findpawpal.com/office/201264.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/cats-haven-201264/"
+    },
+    {
+      "officeId": 214071,
+      "slug": "friends-of-ferdinand-inc-214071",
+      "name": "Friends of Ferdinand Inc.",
+      "address": "PO Box 1784, Indianapolis, IN 46206",
+      "phone": "888-612-7402",
+      "image": "https://cdn.findpawpal.com/office/214071.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-ferdinand-inc-214071/"
+    },
+    {
+      "officeId": 217287,
+      "slug": "blaze-saddles-springer-rescue-of-indiana-inc-217287",
+      "name": "Blaze Saddles Springer Rescue of Indiana, Inc.",
+      "address": "5555 North Tacoma Avenue, Indianapolis, IN 46220",
+      "phone": "317-894-3122",
+      "image": "./img/shelter/office/217287.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/blaze-saddles-springer-rescue-of-indiana-inc-217287/",
+      "imageUrl": "https://cdn.findpawpal.com/office/217287.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 218136,
+      "slug": "indyclaw-rescue-218136",
+      "name": "Indyclaw Rescue",
+      "address": "60 Habig Road, Indianapolis, IN 46217",
+      "phone": "317-780-2287",
+      "image": "./img/shelter/office/218136.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/indyclaw-rescue-218136/",
+      "imageUrl": "https://cdn.findpawpal.com/office/218136.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 218679,
+      "slug": "beagle-buddies-218679",
+      "name": "Beagle Buddies",
+      "address": "8310 Brambleberry Drive, Indianapolis, IN 46239",
+      "phone": "317-418-1615",
+      "image": "./img/shelter/office/218679.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/beagle-buddies-218679/",
+      "imageUrl": "https://cdn.findpawpal.com/office/218679.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 221931,
+      "slug": "house-rabbit-society-221931",
+      "name": "House Rabbit Society",
+      "address": "PO Box 533243, Indianapolis, IN 46253",
+      "phone": "317-328-1428",
+      "image": "https://cdn.findpawpal.com/office/221931.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/house-rabbit-society-221931/"
+    },
+    {
+      "officeId": 221991,
+      "slug": "indianapolis-animal-care-and-control-221991",
+      "name": "Indianapolis Animal Care and Control",
+      "address": "2600 Harding Street, Indianapolis, IN 46221",
+      "phone": "317-327-1397",
+      "image": "./img/shelter/office/221991.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/indianapolis-animal-care-and-control-221991/",
+      "imageUrl": "https://cdn.findpawpal.com/office/221991.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 240770,
+      "slug": "starting-over-airedale-terrier-rescue-240770",
+      "name": "Starting Over Airedale Terrier Rescue",
+      "address": "5851 Brouse Avenue, Indianapolis, IN 46220",
+      "phone": "317-259-7701",
+      "image": "./img/shelter/office/240770.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/starting-over-airedale-terrier-rescue-240770/",
+      "imageUrl": "https://cdn.findpawpal.com/office/240770.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 241416,
+      "slug": "all-creatures-great-small-animal-sanctuary-inc-241416",
+      "name": "All Creatures Great Small Animal Sanctuary, Inc.",
+      "address": "PO Box 502056, Indianapolis, IN 46250",
+      "phone": "216-702-4022",
+      "image": "https://cdn.findpawpal.com/office/241416.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/all-creatures-great-small-animal-sanctuary-inc-241416/"
+    },
+    {
+      "officeId": 252178,
+      "slug": "indianapolis-animal-shelter-252178",
+      "name": "Indianapolis Animal Shelter",
+      "address": "7478 Madison Avenue, Indianapolis, IN 46227",
+      "phone": "317-710-2831",
+      "image": "./img/shelter/office/252178.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/indianapolis-animal-shelter-252178/",
+      "imageUrl": "https://cdn.findpawpal.com/office/252178.jpg?f=webp&w=730"
+    }
+  ]
+}

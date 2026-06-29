@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:17:26.785350+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "thonotosassa",
+    "name": "Thonotosassa",
+    "label": "Thonotosassa, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/thonotosassa/",
+  "offices": [
+    {
+      "slug": "pure-angels-animal-rescue-268404",
+      "name": "Pure Angels Animal Rescue",
+      "address": "13701 U.s. 301, Thonotosassa, FL 33592",
+      "phone": "813-610-3860",
+      "image": "./img/shelter/office/268404.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pure-angels-animal-rescue-268404/",
+      "imageUrl": "https://cdn.findpawpal.com/office/268404.jpg?f=webp&w=730"
+    }
+  ]
+}

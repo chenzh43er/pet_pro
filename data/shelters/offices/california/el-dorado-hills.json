@@ -1,0 +1,31 @@
+{
+  "fetchedAt": "2026-06-27T18:25:36.031074+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "el-dorado-hills",
+    "name": "El Dorado Hills",
+    "label": "El Dorado Hills, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/el-dorado-hills/",
+  "offices": [
+    {
+      "slug": "grace-foundation-northern-california-383789",
+      "name": "Grace Foundation-Northern California",
+      "address": "5800 Latigo Lane, El Dorado Hills, CA 95762",
+      "phone": "916-941-0800",
+      "image": "https://cdn.findpawpal.com/office/383789.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/grace-foundation-northern-california-383789/"
+    },
+    {
+      "slug": "noahs-wish-668342",
+      "name": "Noah's Wish",
+      "address": "4962 Robert J Mathews Parkway, El Dorado Hills, CA 95762",
+      "phone": "916-939-9474",
+      "image": "https://cdn.findpawpal.com/office/668342.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/noahs-wish-668342/"
+    }
+  ]
+}

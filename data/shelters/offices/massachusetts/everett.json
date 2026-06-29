@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:06:07.422914+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "everett",
+    "name": "Everett",
+    "label": "Everett, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/everett/",
+  "offices": [
+    {
+      "officeId": 41736,
+      "slug": "everett-animal-control-41736",
+      "name": "Everett Animal Control",
+      "address": "210 Ferry Street, Everett, MA 02149",
+      "phone": "781-391-6019",
+      "image": "./img/shelter/office/41736.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/everett-animal-control-41736/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41736.jpg?f=webp&w=730"
+    }
+  ]
+}

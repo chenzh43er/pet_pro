@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T18:56:29.012712+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "burlington",
+    "name": "Burlington",
+    "label": "Burlington, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/burlington/",
+  "offices": [
+    {
+      "officeId": 114269,
+      "slug": "yorkie-friends-rescue-114269",
+      "name": "Yorkie Friends Rescue",
+      "address": "2006 Bluestem Drive, Burlington, KY 41005",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/114269.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/yorkie-friends-rescue-114269/"
+    },
+    {
+      "officeId": 124433,
+      "slug": "boone-county-animal-care-and-control-124433",
+      "name": "Boone County Animal Care & Control",
+      "address": "5643 Idlewild Road, Burlington, KY 41005",
+      "phone": "859-586-5285",
+      "image": "./img/shelter/office/124433.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/boone-county-animal-care-and-control-124433/",
+      "imageUrl": "https://cdn.findpawpal.com/office/124433.jpg?f=webp&w=730"
+    }
+  ]
+}

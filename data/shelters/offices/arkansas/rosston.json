@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:23:11.287794+00:00",
+  "state": {
+    "slug": "arkansas",
+    "name": "Arkansas"
+  },
+  "city": {
+    "slug": "rosston",
+    "name": "Rosston",
+    "label": "Rosston, AR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arkansas/rosston/",
+  "offices": [
+    {
+      "slug": "nevada-county-humane-society-317073",
+      "name": "Nevada County Humane Society",
+      "address": "2811 Highway 53, Rosston, AR 71858",
+      "phone": "870-899-2304",
+      "image": "./img/shelter/office/317073.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada-county-humane-society-317073/",
+      "imageUrl": "https://cdn.findpawpal.com/office/317073.jpg?f=webp&w=730"
+    }
+  ]
+}

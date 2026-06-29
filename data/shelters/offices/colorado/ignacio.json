@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:34:31.733824+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "ignacio",
+    "name": "Ignacio",
+    "label": "Ignacio, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/ignacio/",
+  "offices": [
+    {
+      "officeId": 41058,
+      "slug": "ignacio-animal-control-41058",
+      "name": "Ignacio Animal Control",
+      "address": "16464 Colorado 172, Ignacio, CO 81137",
+      "phone": "970-563-4382",
+      "image": "./img/shelter/office/41058.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ignacio-animal-control-41058/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41058.jpg?f=webp&w=730"
+    }
+  ]
+}

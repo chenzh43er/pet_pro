@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T19:40:38.470532+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "new-bern",
+    "name": "New Bern",
+    "label": "New Bern, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/new-bern/",
+  "offices": [
+    {
+      "officeId": 241020,
+      "slug": "craven-pamlico-animal-services-center-241020",
+      "name": "Craven Pamlico Animal Services Center",
+      "address": "1639 Old Airport Road, New Bern, NC 28562",
+      "phone": "252-637-4606",
+      "image": "./img/shelter/office/241020.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/craven-pamlico-animal-services-center-241020/",
+      "imageUrl": "https://cdn.findpawpal.com/office/241020.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 259520,
+      "slug": "colonial-capital-humane-society-259520",
+      "name": "Colonial Capital Humane Society",
+      "address": "PO Box 326, New Bern, NC 28563",
+      "phone": "252-633-0146",
+      "image": "./img/shelter/office/259520.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/colonial-capital-humane-society-259520/",
+      "imageUrl": "https://cdn.findpawpal.com/office/259520.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 271697,
+      "slug": "pals-for-paws-271697",
+      "name": "Pals For Paws",
+      "address": "5239 U.S. 17 Business, New Bern, NC 28562",
+      "phone": "252-637-7387",
+      "image": "./img/shelter/office/271697.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pals-for-paws-271697/",
+      "imageUrl": "https://cdn.findpawpal.com/office/271697.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 272605,
+      "slug": "new-bern-animal-control-272605",
+      "name": "New Bern Animal Control",
+      "address": "1312 Old Cherry Point Road, New Bern, NC 28560",
+      "phone": "252-638-4646",
+      "image": "./img/shelter/office/272605.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-bern-animal-control-272605/",
+      "imageUrl": "https://cdn.findpawpal.com/office/272605.jpg?f=webp&w=730"
+    }
+  ]
+}

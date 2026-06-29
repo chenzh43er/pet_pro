@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:16:53.590886+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "bay-minette",
+    "name": "Bay Minette",
+    "label": "Bay Minette, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/bay-minette/",
+  "offices": [
+    {
+      "slug": "bay-minette-city-animal-control-7151",
+      "name": "Bay Minette City Animal Control",
+      "address": "300 North Hoyle Avenue, Bay Minette, AL 36507",
+      "phone": "251-580-1625",
+      "image": "./img/shelter/office/7151.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bay-minette-city-animal-control-7151/",
+      "imageUrl": "https://cdn.findpawpal.com/office/7151.jpg?f=webp&w=730"
+    }
+  ]
+}

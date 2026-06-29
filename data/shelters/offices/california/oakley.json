@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-06-27T18:28:39.520992+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "oakley",
+    "name": "Oakley",
+    "label": "Oakley, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/oakley/",
+  "offices": [
+    {
+      "slug": "throw-me-a-bone-dog-rescue-362389",
+      "name": "Throw Me A Bone Dog Rescue",
+      "address": "2063 Main St PMB 113, Oakley, CA 94561",
+      "phone": "925-308-6221",
+      "image": "https://cdn.findpawpal.com/office/362389.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/throw-me-a-bone-dog-rescue-362389/"
+    }
+  ]
+}

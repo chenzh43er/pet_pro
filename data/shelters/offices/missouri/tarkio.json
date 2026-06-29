@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:20:59.864952+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "tarkio",
+    "name": "Tarkio",
+    "label": "Tarkio, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/tarkio/",
+  "offices": [
+    {
+      "officeId": 193946,
+      "slug": "tarko-animal-control-193946",
+      "name": "Tarko Animal Control",
+      "address": "602 Main Street, Tarkio, MO 64491",
+      "phone": "816-736-4821",
+      "image": "./img/shelter/office/193946.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tarko-animal-control-193946/",
+      "imageUrl": "https://cdn.findpawpal.com/office/193946.jpg?f=webp&w=730"
+    }
+  ]
+}

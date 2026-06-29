@@ -1,0 +1,21 @@
+{
+  "officeId": 685049,
+  "slug": "oak-ridge-animal-shelter-685049",
+  "name": "Oak Ridge Animal Shelter",
+  "address": "395 Belgrade Road, Oak Ridge, TN 37830",
+  "street": "395 Belgrade Road",
+  "addressCity": "Oak Ridge",
+  "stateCode": "TN",
+  "zip": "37830",
+  "phone": "865-425-3423",
+  "image": "./img/shelter/office/685049.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/oak-ridge-animal-shelter-685049/",
+  "stateSlug": "tennessee",
+  "stateName": "Tennessee",
+  "citySlug": "oak-ridge",
+  "cityName": "Oak Ridge",
+  "cityLabel": "Oak Ridge, TN",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/tennessee/oak-ridge/",
+  "fetchedAt": "2026-06-27T20:01:29.290175+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/685049.jpg?f=webp&w=730"
+}

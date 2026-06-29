@@ -1,0 +1,21 @@
+{
+  "officeId": 567121,
+  "slug": "pampered-parrots-avian-rescue-567121",
+  "name": "Pampered Parrots Avian Rescue",
+  "address": "PO Box 1644, Airway Heights, WA 99001",
+  "street": "PO Box 1644",
+  "addressCity": "Airway Heights",
+  "stateCode": "WA",
+  "zip": "99001",
+  "phone": "509-218-3438",
+  "image": "./img/shelter/office/567121.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pampered-parrots-avian-rescue-567121/",
+  "stateSlug": "washington",
+  "stateName": "Washington",
+  "citySlug": "airway-heights",
+  "cityName": "Airway Heights",
+  "cityLabel": "Airway Heights, WA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/washington/airway-heights/",
+  "fetchedAt": "2026-06-27T20:17:07.345620+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/567121.jpg?f=webp&w=730"
+}

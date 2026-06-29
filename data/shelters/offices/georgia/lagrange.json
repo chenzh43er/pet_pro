@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:40:29.143918+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "lagrange",
+    "name": "LaGrange",
+    "label": "LaGrange, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/lagrange/",
+  "offices": [
+    {
+      "officeId": 133931,
+      "slug": "lagrange-troup-county-humane-society-133931",
+      "name": "LaGrange - Troup County Humane Society",
+      "address": "1390 Orchard Hill Road, LaGrange, GA 30240",
+      "phone": "706-298-3608",
+      "image": "./img/shelter/office/133931.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lagrange-troup-county-humane-society-133931/",
+      "imageUrl": "https://cdn.findpawpal.com/office/133931.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:35:22.459398+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "newburgh",
+    "name": "Newburgh",
+    "label": "Newburgh, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/newburgh/",
+  "offices": [
+    {
+      "officeId": 312555,
+      "slug": "newburgh-scats-inc-312555",
+      "name": "Newburgh Scats, Inc.",
+      "address": "PO Box 7403, Newburgh, NY 12550",
+      "phone": "845-236-4574",
+      "image": "./img/shelter/office/312555.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/newburgh-scats-inc-312555/",
+      "imageUrl": "https://cdn.findpawpal.com/office/312555.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 317550,
+      "slug": "dwight-memorial-animal-shelter-317550",
+      "name": "Dwight Memorial Animal Shelter",
+      "address": "564 Little Britain Road, Newburgh, NY 12550",
+      "phone": "914-564-6810",
+      "image": "./img/shelter/office/317550.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dwight-memorial-animal-shelter-317550/",
+      "imageUrl": "https://cdn.findpawpal.com/office/317550.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 400998,
+      "slug": "town-of-newburgh-animal-control-dept-and-dog-shelter-400998",
+      "name": "Town of Newburgh Animal Control Dept and Dog Shelter",
+      "address": "569 Gidney Avenue, Newburgh, NY 12550",
+      "phone": "845-581-3344",
+      "image": "./img/shelter/office/400998.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/town-of-newburgh-animal-control-dept-and-dog-shelter-400998/",
+      "imageUrl": "https://cdn.findpawpal.com/office/400998.jpg?f=webp&w=730"
+    }
+  ]
+}

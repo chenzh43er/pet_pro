@@ -1,0 +1,21 @@
+{
+  "officeId": 698967,
+  "slug": "forks-animal-shelter-698967",
+  "name": "Forks Animal Shelter",
+  "address": "1510 South Forks Avenue, Forks, WA 98331",
+  "street": "1510 South Forks Avenue",
+  "addressCity": "Forks",
+  "stateCode": "WA",
+  "zip": "98331",
+  "phone": "360-374-5001",
+  "image": "./img/shelter/office/698967.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/forks-animal-shelter-698967/",
+  "stateSlug": "washington",
+  "stateName": "Washington",
+  "citySlug": "forks",
+  "cityName": "Forks",
+  "cityLabel": "Forks, WA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/washington/forks/",
+  "fetchedAt": "2026-06-27T20:17:53.573047+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/698967.jpg?f=webp&w=730"
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:24:15.372839+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "spooner",
+    "name": "Spooner",
+    "label": "Spooner, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/spooner/",
+  "offices": [
+    {
+      "officeId": 475309,
+      "slug": "washburn-county-humane-society-475309",
+      "name": "Washburn County Humane Society",
+      "address": "1400 Cottonwood Ave, Spooner, WI 54801",
+      "phone": "715-635-4720",
+      "image": "https://cdn.findpawpal.com/office/475309.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/washburn-county-humane-society-475309/"
+    }
+  ]
+}

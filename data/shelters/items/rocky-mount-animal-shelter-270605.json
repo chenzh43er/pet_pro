@@ -1,0 +1,21 @@
+{
+  "officeId": 270605,
+  "slug": "rocky-mount-animal-shelter-270605",
+  "name": "Rocky Mount Animal Shelter",
+  "address": "1101 North Church Street, Rocky Mount, NC 27804",
+  "street": "1101 North Church Street",
+  "addressCity": "Rocky Mount",
+  "stateCode": "NC",
+  "zip": "27804",
+  "phone": "252-972-1390",
+  "image": "./img/shelter/office/270605.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/rocky-mount-animal-shelter-270605/",
+  "stateSlug": "north-carolina",
+  "stateName": "North Carolina",
+  "citySlug": "rocky-mount",
+  "cityName": "Rocky Mount",
+  "cityLabel": "Rocky Mount, NC",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/north-carolina/rocky-mount/",
+  "fetchedAt": "2026-06-27T19:41:07.465581+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/270605.jpg?f=webp&w=730"
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 100720,
+  "slug": "wayne-animal-shelter-100720",
+  "name": "Wayne Animal Shelter",
+  "address": "201 Pompton Plains Xrd, Wayne, NJ 07470",
+  "street": "201 Pompton Plains Xrd",
+  "addressCity": "Wayne",
+  "stateCode": "NJ",
+  "zip": "07470",
+  "phone": "973-492-5151",
+  "image": "./img/shelter/office/100720.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/wayne-animal-shelter-100720/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "wayne",
+  "cityName": "Wayne",
+  "cityLabel": "Wayne, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/wayne/",
+  "fetchedAt": "2026-06-27T19:29:31.991436+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/100720.jpg?f=webp&w=730"
+}

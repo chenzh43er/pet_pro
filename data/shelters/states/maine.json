@@ -1,0 +1,622 @@
+{
+  "stateSlug": "maine",
+  "count": 88,
+  "shelters": [
+    {
+      "slug": "husky-n-lab-rescue-453592",
+      "name": "Husky N Lab Rescue",
+      "address": "2946 Bennoch Road, Alton, ME 04468",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/453592.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "appleton-animal-control-320187",
+      "name": "Appleton Animal Control",
+      "address": "174 Mitchell Lane, Appleton, ME 04862",
+      "phone": "207-845-2888",
+      "image": "https://cdn.findpawpal.com/office/320187.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kennebec-valley-humane-society-341167",
+      "name": "Kennebec Valley Humane Society",
+      "address": "10 Pethaven Lane, Augusta, ME 04330",
+      "phone": "207-626-3491",
+      "image": "https://cdn.findpawpal.com/office/341167.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bangor-animal-control-320645",
+      "name": "Bangor Animal Control",
+      "address": "240 Main Street, Bangor, ME 04401",
+      "phone": "207-947-7384",
+      "image": "https://cdn.findpawpal.com/office/320645.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bangor-animal-shelter-453586",
+      "name": "Bangor Animal Shelter",
+      "address": "541 Maine Avenue, Bangor, ME 04401",
+      "phone": "207-947-3205",
+      "image": "https://cdn.findpawpal.com/office/453586.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bangor-humane-society-453546",
+      "name": "Bangor Humane Society",
+      "address": "693 Mount Hope Avenue, Bangor, ME 04401",
+      "phone": "207-942-8902",
+      "image": "https://cdn.findpawpal.com/office/453546.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "belfast-animal-shelter-338791",
+      "name": "Belfast Animal Shelter",
+      "address": "46 Baker Road, Belfast, ME 04915",
+      "phone": "207-338-1403",
+      "image": "https://cdn.findpawpal.com/office/338791.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "town-line-animal-shelter-408862",
+      "name": "Town Line Animal Shelter",
+      "address": "46 Baker Road, Belfast, ME 04915",
+      "phone": "207-338-1403",
+      "image": "https://cdn.findpawpal.com/office/408862.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "biddeford-animal-control-338800",
+      "name": "Biddeford Animal Control",
+      "address": "189 Alfred Street, Biddeford, ME 04005",
+      "phone": "207-286-8029",
+      "image": "https://cdn.findpawpal.com/office/338800.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-england-rabbit-sanctuary-348888",
+      "name": "New England Rabbit Sanctuary",
+      "address": "PO Box 626, Boothbay, ME 04537",
+      "phone": "207-633-0310",
+      "image": "https://cdn.findpawpal.com/office/348888.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "american-chesapeake-club-rescue-network-418771",
+      "name": "American Chesapeake Club Rescue Network",
+      "address": "113 Waldoboro Road, Bremen, ME 04551",
+      "phone": "207-529-4511",
+      "image": "https://cdn.findpawpal.com/office/418771.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "maine-greyhound-placement-service-418478",
+      "name": "Maine Greyhound Placement Service",
+      "address": "PO Box 682, Bridgton, ME 04009",
+      "phone": "207-647-8944",
+      "image": "https://cdn.findpawpal.com/office/418478.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brunswick-animal-shelter-454048",
+      "name": "Brunswick Animal Shelter",
+      "address": "30 Range Road, Brunswick, ME 04011",
+      "phone": "207-725-5051",
+      "image": "https://cdn.findpawpal.com/office/454048.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "coastal-humane-society-320111",
+      "name": "Coastal Humane Society",
+      "address": "30 Range Road, Brunswick, ME 04011",
+      "phone": "207-725-5051",
+      "image": "https://cdn.findpawpal.com/office/320111.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "buxton-animal-shelter-426860",
+      "name": "Buxton Animal Shelter",
+      "address": "27 Portland Road, Buxton, ME 04093",
+      "phone": "207-929-5505",
+      "image": "https://cdn.findpawpal.com/office/426860.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "little-paws-animal-shelter-426458",
+      "name": "Little Paws Animal Shelter",
+      "address": "27 Portland Road, Buxton, ME 04093",
+      "phone": "207-929-5505",
+      "image": "https://cdn.findpawpal.com/office/426458.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-calais-animal-shelter-408939",
+      "name": "City of Calais Animal Shelter",
+      "address": "PO Box 413, Calais, ME 04619",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/408939.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-humane-society-338423",
+      "name": "Paws Humane Society",
+      "address": "84 South Street, Calais, ME 04619",
+      "phone": "207-454-7662",
+      "image": "https://cdn.findpawpal.com/office/338423.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "camden-animal-control-324141",
+      "name": "Camden Animal Control",
+      "address": "123 John Street, Camden, ME 04843",
+      "phone": "207-230-8285",
+      "image": "https://cdn.findpawpal.com/office/324141.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "halfway-home-pet-rescue-454161",
+      "name": "Halfway Home Pet Rescue",
+      "address": "PO Box 488, Caribou, ME 04736",
+      "phone": "207-492-1722",
+      "image": "https://cdn.findpawpal.com/office/454161.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cherryfield-animal-shelter-323564",
+      "name": "Cherryfield Animal Shelter",
+      "address": "60 Barber Ln, Cherryfield, ME 04622",
+      "phone": "207-546-3484",
+      "image": "https://cdn.findpawpal.com/office/323564.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-society-animal-shelter-338431",
+      "name": "Pet Society Animal Shelter",
+      "address": "PO Box 313, Cherryfield, ME 04622",
+      "phone": "207-546-3310",
+      "image": "https://cdn.findpawpal.com/office/338431.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-ark-animal-shelter-323236",
+      "name": "The Ark Animal Shelter",
+      "address": "PO Box 276, Cherryfield, ME 04622",
+      "phone": "207-546-3484",
+      "image": "https://cdn.findpawpal.com/office/323236.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "homeless-animal-rescue-team-418472",
+      "name": "Homeless Animal Rescue Team",
+      "address": "302 Range Road, Cumberland Center, ME 04021",
+      "phone": "207-829-4116",
+      "image": "https://cdn.findpawpal.com/office/418472.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lincoln-county-animal-shelter-338748",
+      "name": "Lincoln County Animal Shelter",
+      "address": "27 Atlantic Highway, Edgecomb, ME 04556",
+      "phone": "207-882-9677",
+      "image": "https://cdn.findpawpal.com/office/338748.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lincoln-county-animal-shelter-408764",
+      "name": "Lincoln County Animal Shelter",
+      "address": "27 Atlantic Highway, Edgecomb, ME 04556",
+      "phone": "207-882-9677",
+      "image": "https://cdn.findpawpal.com/office/408764.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "save-our-strays-323190",
+      "name": "Save Our Strays",
+      "address": "PO Box 445, Fairfield, ME 04937",
+      "phone": "207-877-0060",
+      "image": "https://cdn.findpawpal.com/office/323190.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "franklin-county-animal-shelter-338767",
+      "name": "Franklin County Animal Shelter",
+      "address": "550 Industry Road, Farmington, ME 04938",
+      "phone": "207-778-2638",
+      "image": "https://cdn.findpawpal.com/office/338767.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "franklin-county-animal-shelter-452937",
+      "name": "Franklin County Animal Shelter",
+      "address": "550 Industry Road, Farmington, ME 04938",
+      "phone": "207-778-2638",
+      "image": "https://cdn.findpawpal.com/office/452937.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fryeburg-animal-shelter-320639",
+      "name": "Fryeburg Animal Shelter",
+      "address": "1389 Bridgton Road, Fryeburg, ME 04037",
+      "phone": "207-935-4358",
+      "image": "https://cdn.findpawpal.com/office/320639.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "harvest-hills-animal-shelter-320226",
+      "name": "Harvest Hills Animal Shelter",
+      "address": "1389 Bridgton Road, Fryeburg, ME 04037",
+      "phone": "207-935-4358",
+      "image": "https://cdn.findpawpal.com/office/320226.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "maine-coonhound-rescue-320273",
+      "name": "Maine Coonhound Rescue",
+      "address": "1019 U.s. 1, Gouldsboro, ME 04607",
+      "phone": "207-546-2436",
+      "image": "https://cdn.findpawpal.com/office/320273.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hollywood-pet-salon-349437",
+      "name": "Hollywood Pet Salon",
+      "address": "70 Main Street, Houlton, ME 04730",
+      "phone": "207-532-7387",
+      "image": "https://cdn.findpawpal.com/office/349437.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "houlton-animal-control-338736",
+      "name": "Houlton Animal Control",
+      "address": "101 Old Woodstock Road, Houlton, ME 04730",
+      "phone": "207-532-5600",
+      "image": "https://cdn.findpawpal.com/office/338736.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "houlton-humane-society-338883",
+      "name": "Houlton Humane Society",
+      "address": "263 Callaghan Road, Houlton, ME 04730",
+      "phone": "207-532-2862",
+      "image": "https://cdn.findpawpal.com/office/338883.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "little-wanderers-animal-adoption-323934",
+      "name": "Little Wanderers Animal Adoption",
+      "address": "383 Corinth Road, Hudson, ME 04449",
+      "phone": "207-327-1422",
+      "image": "https://cdn.findpawpal.com/office/323934.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-welfare-society-419169",
+      "name": "Animal Welfare Society",
+      "address": "46 Holland Road, Kennebunk, ME 04043",
+      "phone": "207-985-3244",
+      "image": "https://cdn.findpawpal.com/office/419169.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "west-kennebunk-animal-control-426676",
+      "name": "West Kennebunk Animal Control",
+      "address": "46 Holland Road, Kennebunk, ME 04043",
+      "phone": "207-985-3244",
+      "image": "https://cdn.findpawpal.com/office/426676.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "creature-comforts-animal-419176",
+      "name": "Creature Comforts Animal",
+      "address": "195 State Road, Kittery, ME 03904",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/419176.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hemlock-hill-farm-sanctuary-349045",
+      "name": "Hemlock Hill Farm Sanctuary",
+      "address": "PO Box 474, Lebanon, ME 04027",
+      "phone": "207-457-1371",
+      "image": "https://cdn.findpawpal.com/office/349045.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "4r-animal-shelter-338594",
+      "name": "4r Animal Shelter",
+      "address": "202 Thomas Hill Road, Lee, ME 04455",
+      "phone": "207-738-2248",
+      "image": "https://cdn.findpawpal.com/office/338594.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greater-androscoggin-humane-society-320691",
+      "name": "Greater Androscoggin Humane Society",
+      "address": "55 Strawberry Avenue, Lewiston, ME 04240",
+      "phone": "207-783-2311",
+      "image": "https://cdn.findpawpal.com/office/320691.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lewiston-animal-control-453852",
+      "name": "Lewiston Animal Control",
+      "address": "171 Park Street, Lewiston, ME 04240",
+      "phone": "207-513-3111",
+      "image": "https://cdn.findpawpal.com/office/453852.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "peaceable-kingdom-426973",
+      "name": "Peaceable Kingdom",
+      "address": "PO Box 13, Limestone, ME 04750",
+      "phone": "207-722-4043",
+      "image": "https://cdn.findpawpal.com/office/426973.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "penobscot-valley-humane-society-323428",
+      "name": "Penobscot Valley Humane Society",
+      "address": "1 Park Avenue, Lincoln, ME 04457",
+      "phone": "207-794-3457",
+      "image": "https://cdn.findpawpal.com/office/323428.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "aroostook-animal-rescue-foundation-419984",
+      "name": "Aroostook Animal Rescue Foundation",
+      "address": "PO Box 676, Madawaska, ME 04756",
+      "phone": "207-728-6821",
+      "image": "https://cdn.findpawpal.com/office/419984.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "monmouth-animal-control-338731",
+      "name": "Monmouth Animal Control",
+      "address": "767 Main Street, Monmouth, ME 04259",
+      "phone": "207-933-9089",
+      "image": "https://cdn.findpawpal.com/office/338731.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cat-coalition-of-western-maine-338215",
+      "name": "Cat Coalition of Western Maine",
+      "address": "206 River Road, Naples, ME 04055",
+      "phone": "207-310-3011",
+      "image": "https://cdn.findpawpal.com/office/338215.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "loyal-heart-puppy-rescue-452894",
+      "name": "Loyal Heart Puppy Rescue",
+      "address": "68 Shepherd Lane, New Gloucester, ME 04260",
+      "phone": "603-205-5900",
+      "image": "https://cdn.findpawpal.com/office/452894.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "answered-prayer-acre-animal-rescue-426462",
+      "name": "Answered Prayer Acre Animal Rescue",
+      "address": "Barron Road, North Anson, ME 04958",
+      "phone": "207-635-2377",
+      "image": "https://cdn.findpawpal.com/office/426462.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "marlee-animal-rescue-320340",
+      "name": "Marlee Animal Rescue",
+      "address": "PO Box 552, North Berwick, ME 03906",
+      "phone": "207-676-2248",
+      "image": "https://cdn.findpawpal.com/office/320340.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "maine-state-spca-338190",
+      "name": "Maine State SPCA",
+      "address": "PO Box 10, North Windham, ME 04062",
+      "phone": "800-482-7447",
+      "image": "https://cdn.findpawpal.com/office/338190.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "maine-state-society-for-the-protection-of-animals-408587",
+      "name": "Maine State Society for the Protection of Animals",
+      "address": "279 River Road, North Windham, ME 04062",
+      "phone": "207-892-8007",
+      "image": "https://cdn.findpawpal.com/office/408587.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "responsible-pet-care-338327",
+      "name": "Responsible Pet Care",
+      "address": "32 Waterford Road, Norway, ME 04268",
+      "phone": "207-743-8679",
+      "image": "https://cdn.findpawpal.com/office/338327.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-orphanage-426578",
+      "name": "Animal Orphanage",
+      "address": "71 Airport Rd, Old Town, ME 04468",
+      "phone": "207-827-8777",
+      "image": "https://cdn.findpawpal.com/office/426578.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "old-town-animal-control-419632",
+      "name": "Old Town Animal Control",
+      "address": "AIRPORT Rd, Old Town, ME 04468",
+      "phone": "207-827-8777",
+      "image": "https://cdn.findpawpal.com/office/419632.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "allen-hill-animal-shelter-408795",
+      "name": "Allen Hill Animal Shelter",
+      "address": "PO Box 492, Oxford, ME 04270",
+      "phone": "207-743-7217",
+      "image": "https://cdn.findpawpal.com/office/408795.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oxford-animal-shelter-409289",
+      "name": "Oxford Animal Shelter",
+      "address": "455 Allen Hill Road, Oxford, ME 04270",
+      "phone": "207-743-7217",
+      "image": "https://cdn.findpawpal.com/office/409289.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "responsible-pet-care-animal-shelter-338335",
+      "name": "Responsible Pet Care Animal Shelter",
+      "address": "PO Box 286, Oxford, ME 04270",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/338335.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "first-light-farm-equine-shelter-323242",
+      "name": "First Light Farm Equine Shelter",
+      "address": "PO Box 42, Perry, ME 04667",
+      "phone": "207-853-9453",
+      "image": "https://cdn.findpawpal.com/office/323242.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pittsfield-animal-shelter-341014",
+      "name": "Pittsfield Animal Shelter",
+      "address": "PO Box 3965, Pittsfield, ME 04967",
+      "phone": "207-487-5104",
+      "image": "https://cdn.findpawpal.com/office/341014.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "southern-maine-husky-rescue-320708",
+      "name": "Southern Maine Husky Rescue",
+      "address": "PO Box 126, Poland, ME 04274",
+      "phone": "207-240-3301",
+      "image": "https://cdn.findpawpal.com/office/320708.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dogs-deserve-better-323087",
+      "name": "Dogs Deserve Better",
+      "address": "PO Box 6103, Portland, ME 04105",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/323087.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-feral-felines-340869",
+      "name": "Friends of Feral Felines",
+      "address": "PO Box 8137, Portland, ME 04104",
+      "phone": "207-797-3014",
+      "image": "https://cdn.findpawpal.com/office/340869.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-green-ark-323080",
+      "name": "The Green Ark",
+      "address": "38 Vermont Avenue, Portland, ME 04103",
+      "phone": "207-807-1362",
+      "image": "https://cdn.findpawpal.com/office/323080.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "central-aroostook-humane-socty-420139",
+      "name": "Central Aroostook Humane Socty",
+      "address": "24 Cross Street, Presque Isle, ME 04769",
+      "phone": "207-764-3441",
+      "image": "https://cdn.findpawpal.com/office/420139.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "presque-isle-animal-shelter-453838",
+      "name": "Presque Isle Animal Shelter",
+      "address": "24 Cross Street, Presque Isle, ME 04769",
+      "phone": "207-764-3441",
+      "image": "https://cdn.findpawpal.com/office/453838.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mature-animals-for-mature-adults-323111",
+      "name": "Mature Animals for Mature Adults",
+      "address": "PO Box 94, Prospect Harbor, ME 04669",
+      "phone": "207-422-2358",
+      "image": "https://cdn.findpawpal.com/office/323111.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "camden-rockport-animal-rescue-323119",
+      "name": "Camden Rockport Animal Rescue",
+      "address": "146 Camden Street, Rockport, ME 04856",
+      "phone": "207-236-8702",
+      "image": "https://cdn.findpawpal.com/office/323119.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rockport-animal-control-323533",
+      "name": "Rockport Animal Control",
+      "address": "146 Camden St, Rockport, ME 04856",
+      "phone": "207-236-8702",
+      "image": "https://cdn.findpawpal.com/office/323533.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "skowhegan-animal-shelter-323446",
+      "name": "Skowhegan Animal Shelter",
+      "address": "123 Middle Road, Skowhegan, ME 04976",
+      "phone": "207-474-6493",
+      "image": "https://cdn.findpawpal.com/office/323446.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "somerset-animal-shelter-349100",
+      "name": "Somerset Animal Shelter",
+      "address": "123 Middle Road, Skowhegan, ME 04976",
+      "phone": "207-474-6493",
+      "image": "https://cdn.findpawpal.com/office/349100.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "southwest-harbor-animal-shelter-426627",
+      "name": "Southwest Harbor Animal Shelter",
+      "address": "15 Wood Street, Southwest Harbor, ME 04679",
+      "phone": "207-244-3749",
+      "image": "https://cdn.findpawpal.com/office/426627.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "southwest-harbor-animal-wlfr-341208",
+      "name": "Southwest Harbor Animal Wlfr",
+      "address": "15 Wood Street, Southwest Harbor, ME 04679",
+      "phone": "207-244-3749",
+      "image": "https://cdn.findpawpal.com/office/341208.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sanford-municipal-shelter-320353",
+      "name": "Sanford Municipal Shelter",
+      "address": "PO Box 35, Springvale, ME 04083",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/320353.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "standish-animal-control-453702",
+      "name": "Standish Animal Control",
+      "address": "175 Northeast Road, Standish, ME 04084",
+      "phone": "207-642-4343",
+      "image": "https://cdn.findpawpal.com/office/453702.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-knox-county-338291",
+      "name": "Humane Society of Knox County",
+      "address": "17 Buttermilk Lane, Thomaston, ME 04861",
+      "phone": "207-594-2200",
+      "image": "https://cdn.findpawpal.com/office/338291.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spca-of-hancock-county-349127",
+      "name": "SPCA of Hancock County",
+      "address": "141 Bar Harbor Road, Trenton, ME 04605",
+      "phone": "207-667-8088",
+      "image": "https://cdn.findpawpal.com/office/349127.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "precious-paws-rescue-and-adoption-inc-341558",
+      "name": "Precious Paws Rescue & Adoption, Inc.",
+      "address": "15 Main Street, Van Buren, ME 04785",
+      "phone": "207-868-2828",
+      "image": "https://cdn.findpawpal.com/office/341558.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-waterville-area-341183",
+      "name": "Humane Society Waterville Area",
+      "address": "100 Webb Road, Waterville, ME 04901",
+      "phone": "207-873-2430",
+      "image": "https://cdn.findpawpal.com/office/341183.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wells-animal-control-323973",
+      "name": "Wells Animal Control",
+      "address": "1563 Post Road, Wells, ME 04090",
+      "phone": "207-646-9354",
+      "image": "https://cdn.findpawpal.com/office/323973.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kitty-cat-lane-rescue-323783",
+      "name": "Kitty Cat Lane Rescue",
+      "address": "PO Box 167, West Newfield, ME 04095",
+      "phone": "207-793-2992",
+      "image": "https://cdn.findpawpal.com/office/323783.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "west-paris-animal-shelter-723312",
+      "name": "West Paris Animal Shelter",
+      "address": ", West Paris, ME 04289",
+      "phone": "207-674-2592",
+      "image": "https://cdn.findpawpal.com/office/723312.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-refuge-league-338198",
+      "name": "Animal Refuge League",
+      "address": "449 Stroudwater Street, Westbrook, ME 04092",
+      "phone": "207-854-9771",
+      "image": "https://cdn.findpawpal.com/office/338198.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "westbrook-animal-control-419625",
+      "name": "Westbrook Animal Control",
+      "address": "690 Stroudwater Street, Westbrook, ME 04092",
+      "phone": "207-887-7215",
+      "image": "https://cdn.findpawpal.com/office/419625.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spirit-of-hope-farm-338386",
+      "name": "Spirit of Hope Farm",
+      "address": "853 Lebanon Road, Winterport, ME 04496",
+      "phone": "207-433-0831",
+      "image": "https://cdn.findpawpal.com/office/338386.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pals-animal-shelter-419287",
+      "name": "Pals Animal Shelter",
+      "address": "188 Case Road, Winthrop, ME 04364",
+      "phone": "207-395-4274",
+      "image": "https://cdn.findpawpal.com/office/419287.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-boxer-rescue-inc-349426",
+      "name": "Second Chance Boxer Rescue, Inc.",
+      "address": "PO Box 525, Woolwich, ME 04579",
+      "phone": "877-281-3146",
+      "image": "https://cdn.findpawpal.com/office/349426.jpg?f=webp&w=730"
+    }
+  ]
+}

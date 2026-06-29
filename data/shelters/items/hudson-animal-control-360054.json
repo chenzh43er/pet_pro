@@ -1,0 +1,21 @@
+{
+  "officeId": 360054,
+  "slug": "hudson-animal-control-360054",
+  "name": "Hudson Animal Control",
+  "address": "13152 Rose Terrace, Hudson, FL 34669",
+  "street": "13152 Rose Terrace",
+  "addressCity": "Hudson",
+  "stateCode": "FL",
+  "zip": "34669",
+  "phone": "727-856-6762",
+  "image": "./img/shelter/office/360054.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/hudson-animal-control-360054/",
+  "stateSlug": "florida",
+  "stateName": "Florida",
+  "citySlug": "hudson",
+  "cityName": "Hudson",
+  "cityLabel": "Hudson, FL",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/florida/hudson/",
+  "fetchedAt": "2026-06-27T18:14:43.249382+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/360054.jpg?f=webp&w=730"
+}

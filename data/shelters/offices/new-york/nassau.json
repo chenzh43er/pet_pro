@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:35:14.747686+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "nassau",
+    "name": "Nassau",
+    "label": "Nassau, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/nassau/",
+  "offices": [
+    {
+      "officeId": 400906,
+      "slug": "nassau-town-animal-control-400906",
+      "name": "Nassau Town Animal Control",
+      "address": "1 Albany Avenue, Nassau, NY 12123",
+      "phone": "518-766-2944",
+      "image": "./img/shelter/office/400906.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/nassau-town-animal-control-400906/",
+      "imageUrl": "https://cdn.findpawpal.com/office/400906.jpg?f=webp&w=730"
+    }
+  ]
+}

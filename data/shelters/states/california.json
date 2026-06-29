@@ -1,0 +1,4395 @@
+{
+  "stateSlug": "california",
+  "count": 627,
+  "shelters": [
+    {
+      "slug": "farm-sanctuarys-animal-acres-366385",
+      "name": "Farm Sanctuary's Animal Acres",
+      "address": "5200 Escondido Canyon Road, Acton, CA 93510",
+      "phone": "661-269-5404",
+      "image": "https://cdn.findpawpal.com/office/366385.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "adelanto-animal-control-480947",
+      "name": "Adelanto Animal Control",
+      "address": "11600 Air Expressway, Adelanto, CA 92301",
+      "phone": "760-246-1050",
+      "image": "https://cdn.findpawpal.com/office/480947.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "agoura-hills-animal-shelter-361789",
+      "name": "Agoura Hills Animal Shelter",
+      "address": "29525 Agoura Road, Agoura Hills, CA 91301",
+      "phone": "818-991-0071",
+      "image": "https://cdn.findpawpal.com/office/361789.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "l-i-f-e-animal-rescue-360396",
+      "name": "L.I.F.E. Animal Rescue",
+      "address": "PO Box 1431, Agoura Hills, CA 91376",
+      "phone": "818-707-2007",
+      "image": "https://cdn.findpawpal.com/office/360396.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "2nd-chance-dog-rescue-inc-535068",
+      "name": "2nd Chance Dog Rescue, Inc.",
+      "address": "33324 Agua Dulce Canyon Road, Agua Dulce, CA 91390",
+      "phone": "661-269-1041",
+      "image": "https://cdn.findpawpal.com/office/535068.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "golden-hills-ranch-equine-rescue-and-rehabilitation-inc-384004",
+      "name": "Golden Hills Ranch Equine Rescue and Rehabilitation Inc.",
+      "address": "43945 Golden Hills Drive, Aguanga, CA 92536",
+      "phone": "951-767-9331",
+      "image": "https://cdn.findpawpal.com/office/384004.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alameda-animal-shelter-385900",
+      "name": "Alameda Animal Shelter",
+      "address": "1590 Fortmann Way, Alameda, CA 94501",
+      "phone": "510-337-8565",
+      "image": "https://cdn.findpawpal.com/office/385900.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "golden-state-german-shepherd-rescue-481252",
+      "name": "Golden State German Shepherd Rescue",
+      "address": "PO Box 2956, Alameda, CA 94501",
+      "phone": "877-447-4717",
+      "image": "https://cdn.findpawpal.com/office/481252.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "island-cat-resources-and-adoption-364499",
+      "name": "Island Cat Resources and Adoption",
+      "address": "PO Box 1093, Alameda, CA 94501",
+      "phone": "510-869-2584",
+      "image": "https://cdn.findpawpal.com/office/364499.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alhambra-animal-control-385907",
+      "name": "Alhambra Animal Control",
+      "address": "111 South 1st Street, Alhambra, CA 91801",
+      "phone": "626-281-4857",
+      "image": "https://cdn.findpawpal.com/office/385907.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alturas-animal-control-720070",
+      "name": "Alturas Animal Control",
+      "address": "200 West North Street, Alturas, CA 96101",
+      "phone": "530-233-2011",
+      "image": "https://cdn.findpawpal.com/office/720070.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "haven-humane-society-475587",
+      "name": "Haven Humane Society",
+      "address": "7449 Eastside Road, Anderson, CA 96007",
+      "phone": "530-241-1653",
+      "image": "https://cdn.findpawpal.com/office/475587.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "antioch-city-animal-services-390400",
+      "name": "Antioch City Animal Services",
+      "address": "300 L Street, Antioch, CA 94509",
+      "phone": "925-779-6989",
+      "image": "https://cdn.findpawpal.com/office/390400.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-animal-services-473641",
+      "name": "Friends of Animal Services",
+      "address": "PO Box 1242, Antioch, CA 94509",
+      "phone": "925-431-8318",
+      "image": "https://cdn.findpawpal.com/office/473641.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "soul-of-the-wolf-sanctuary-667985",
+      "name": "Soul of the Wolf Sanctuary",
+      "address": "PO Box 390440, Anza, CA 92539",
+      "phone": "909-763-0536",
+      "image": "https://cdn.findpawpal.com/office/667985.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "apple-valley-animal-shelter-476287",
+      "name": "Apple Valley Animal Shelter",
+      "address": "22131 Powhatan Road, Apple Valley, CA 92308",
+      "phone": "760-240-7000",
+      "image": "https://cdn.findpawpal.com/office/476287.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "apple-valley-town-animal-shelter-534640",
+      "name": "Apple Valley Town Animal Shelter",
+      "address": "21779 Zuni Road, Apple Valley, CA 92307",
+      "phone": "760-247-2102",
+      "image": "https://cdn.findpawpal.com/office/534640.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pal-humane-society-668180",
+      "name": "Pal Humane Society",
+      "address": "22221 Highway 18, Apple Valley, CA 92307",
+      "phone": "760-247-5120",
+      "image": "https://cdn.findpawpal.com/office/668180.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wee-bar-none-ranch-533220",
+      "name": "Wee Bar None Ranch",
+      "address": "PO Box 2908, Apple Valley, CA 92307",
+      "phone": "760-961-1859",
+      "image": "https://cdn.findpawpal.com/office/533220.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-coalition-478443",
+      "name": "Animal Rescue Coalition",
+      "address": "1037 East Grand Avenue, Arroyo Grande, CA 93420",
+      "phone": "805-489-5016",
+      "image": "https://cdn.findpawpal.com/office/478443.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "arvin-animal-control-540621",
+      "name": "Arvin Animal Control",
+      "address": "200 Campus Drive, Arvin, CA 93203",
+      "phone": "661-854-5583",
+      "image": "https://cdn.findpawpal.com/office/540621.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "north-county-humane-society-382309",
+      "name": "North County Humane Society",
+      "address": "2300 Ramona Road, Atascadero, CA 93422",
+      "phone": "805-466-5403",
+      "image": "https://cdn.findpawpal.com/office/382309.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "atwater-animal-control-368502",
+      "name": "Atwater Animal Control",
+      "address": "750 Bellevue Road, Atwater, CA 95301",
+      "phone": "209-357-6393",
+      "image": "https://cdn.findpawpal.com/office/368502.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "merced-county-animal-control-386989",
+      "name": "Merced County Animal Control",
+      "address": "2150 Shuttle Drive, Atwater, CA 95301",
+      "phone": "209-385-7436",
+      "image": "https://cdn.findpawpal.com/office/386989.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mixed-pup-rescue-363599",
+      "name": "Mixed Pup Rescue",
+      "address": "5680 Rainbow Lane, Atwater, CA 95301",
+      "phone": "209-358-1368",
+      "image": "https://cdn.findpawpal.com/office/363599.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "auburn-area-animal-rescue-foundation-361359",
+      "name": "Auburn Area Animal Rescue Foundation",
+      "address": "11940 Masters Court, Auburn, CA 95603",
+      "phone": "530-887-5577",
+      "image": "https://cdn.findpawpal.com/office/361359.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "auburn-cat-house-381963",
+      "name": "Auburn Cat House",
+      "address": "11556 D Avenue, Auburn, CA 95603",
+      "phone": "530-823-6828",
+      "image": "https://cdn.findpawpal.com/office/381963.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "norcal-aussie-rescue-inc-381987",
+      "name": "Norcal Aussie Rescue, Inc.",
+      "address": "10556 Combie Road, Auburn, CA 95602",
+      "phone": "530-268-1600",
+      "image": "https://cdn.findpawpal.com/office/381987.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "placer-county-animal-control-668991",
+      "name": "Placer County Animal Control",
+      "address": "11251 B Avenue, Auburn, CA 95603",
+      "phone": "530-886-5500",
+      "image": "https://cdn.findpawpal.com/office/668991.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "avalon-humane-society-667792",
+      "name": "Avalon Humane Society",
+      "address": "PO Box 1584, Avalon, CA 90704",
+      "phone": "562-510-2135",
+      "image": "https://cdn.findpawpal.com/office/667792.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "avenal-animal-control-481091",
+      "name": "Avenal Animal Control",
+      "address": "919 Skyline Boulevard, Avenal, CA 93204",
+      "phone": "559-386-5766",
+      "image": "https://cdn.findpawpal.com/office/481091.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alpha-canine-sanctuary-380399",
+      "name": "Alpha Canine Sanctuary",
+      "address": "PO Box 5517, Bakersfield, CA 93388",
+      "phone": "661-391-8212",
+      "image": "https://cdn.findpawpal.com/office/380399.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bakersfield-animal-control-481095",
+      "name": "Bakersfield Animal Control",
+      "address": "1601 Truxtun Avenue, Bakersfield, CA 93301",
+      "phone": "661-326-3436",
+      "image": "https://cdn.findpawpal.com/office/481095.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bakersfield-spca-366906",
+      "name": "Bakersfield SPCA",
+      "address": "3000 Gibson Street, Bakersfield, CA 93308",
+      "phone": "661-323-8356",
+      "image": "https://cdn.findpawpal.com/office/366906.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cat-people-488078",
+      "name": "Cat People",
+      "address": "1412 17th Street, Bakersfield, CA 93301",
+      "phone": "661-327-7297",
+      "image": "https://cdn.findpawpal.com/office/488078.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kern-county-animal-services-667722",
+      "name": "Kern County Animal Services",
+      "address": "3951 Fruitvale Avenue, Bakersfield, CA 93308",
+      "phone": "661-868-7100",
+      "image": "https://cdn.findpawpal.com/office/667722.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kern-county-animal-shelter-366911",
+      "name": "Kern County Animal Shelter",
+      "address": "201 South Mount Vernon Avenue, Bakersfield, CA 93307",
+      "phone": "661-321-3000",
+      "image": "https://cdn.findpawpal.com/office/366911.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kern-humane-society-388132",
+      "name": "Kern Humane Society",
+      "address": "900 21st Street, Bakersfield, CA 93301",
+      "phone": "661-325-2589",
+      "image": "https://cdn.findpawpal.com/office/388132.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "county-of-los-angeles-animal-care-centers-383252",
+      "name": "County of Los Angeles Animal Care Centers",
+      "address": "4275 Elton Street, Baldwin Park, CA 91706",
+      "phone": "626-962-3577",
+      "image": "https://cdn.findpawpal.com/office/383252.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "inland-empire-spca-477290",
+      "name": "Inland Empire SPCA",
+      "address": "2242 Charles Street, Banning, CA 92220",
+      "phone": "909-922-3301",
+      "image": "https://cdn.findpawpal.com/office/477290.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "barstow-animal-control-481100",
+      "name": "Barstow Animal Control",
+      "address": "24704 Agate Road, Barstow, CA 92311",
+      "phone": "760-253-4408",
+      "image": "https://cdn.findpawpal.com/office/481100.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "barstow-humane-society-389482",
+      "name": "Barstow Humane Society",
+      "address": "2480 East Main Street, Barstow, CA 92311",
+      "phone": "760-252-4800",
+      "image": "https://cdn.findpawpal.com/office/389482.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-match-rescue-team-inc-483463",
+      "name": "Animal Match Rescue Team, Inc.",
+      "address": "PO Box 2281, Bassett, CA 91746",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/483463.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "belmont-animal-control-490254",
+      "name": "Belmont Animal Control",
+      "address": "2719 Sequoia Way, Belmont, CA 94002",
+      "phone": "650-394-8902",
+      "image": "https://cdn.findpawpal.com/office/490254.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "life-line-cat-rescue-668080",
+      "name": "Life Line Cat Rescue",
+      "address": "PO Box 368, Ben Lomond, CA 95005",
+      "phone": "831-338-6563",
+      "image": "https://cdn.findpawpal.com/office/668080.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "benicia-animal-control-669002",
+      "name": "Benicia Animal Control",
+      "address": "200 East L Street, Benicia, CA 94510",
+      "phone": "707-745-3412",
+      "image": "https://cdn.findpawpal.com/office/669002.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "solano-county-friends-of-animals-484779",
+      "name": "Solano County Friends of Animals",
+      "address": "PO Box 235, Benicia, CA 94510",
+      "phone": "707-552-3323",
+      "image": "https://cdn.findpawpal.com/office/484779.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "berkeley-east-bay-humane-society-382773",
+      "name": "Berkeley East Bay Humane Society",
+      "address": "2700 9th Street, Berkeley, CA 94710",
+      "phone": "510-845-3633",
+      "image": "https://cdn.findpawpal.com/office/382773.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-berkeley-animal-care-services-383783",
+      "name": "City of Berkeley: Animal Care Services",
+      "address": "1 Bolivar Drive, Berkeley, CA 94710",
+      "phone": "510-981-6600",
+      "image": "https://cdn.findpawpal.com/office/383783.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "small-breed-rescue-368707",
+      "name": "Small Breed Rescue",
+      "address": "2335 5th Street, Berkeley, CA 94710",
+      "phone": "510-843-1569",
+      "image": "https://cdn.findpawpal.com/office/368707.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ace-of-hearts-380585",
+      "name": "Ace of Hearts",
+      "address": "PO Box 2357, Beverly Hills, CA 90213",
+      "phone": "310-358-3344",
+      "image": "https://cdn.findpawpal.com/office/380585.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "amanda-foundation-383366",
+      "name": "Amanda Foundation",
+      "address": "351 Foothill Road, Beverly Hills, CA 90210",
+      "phone": "310-278-2935",
+      "image": "https://cdn.findpawpal.com/office/383366.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "american-equine-rescue-organization-384011",
+      "name": "American Equine Rescue Organization",
+      "address": "PO Box 7159, Beverly Hills, CA 90212",
+      "phone": "310-285-8955",
+      "image": "https://cdn.findpawpal.com/office/384011.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bear-mountain-dog-rescue-360906",
+      "name": "Bear Mountain Dog Rescue",
+      "address": "PO Box 735, Big Bear City, CA 92314",
+      "phone": "909-866-1824",
+      "image": "https://cdn.findpawpal.com/office/360906.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "big-bear-animal-shelter-362124",
+      "name": "Big Bear Animal Shelter",
+      "address": "42080 North Shore Drive, Big Bear City, CA 92314",
+      "phone": "909-866-4943",
+      "image": "https://cdn.findpawpal.com/office/362124.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "big-bear-valley-humane-society-364831",
+      "name": "Big Bear Valley Humane Society",
+      "address": "PO Box 1724, Big Bear Lake, CA 92315",
+      "phone": "909-866-5555",
+      "image": "https://cdn.findpawpal.com/office/364831.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "inyo-county-animal-control-669004",
+      "name": "Inyo County Animal Control",
+      "address": "207 West South Street, Bishop, CA 93514",
+      "phone": "760-873-7852",
+      "image": "https://cdn.findpawpal.com/office/669004.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "inyo-county-animal-resources-and-education-363150",
+      "name": "Inyo County Animal Resources and Education",
+      "address": "PO Box 76, Bishop, CA 93515",
+      "phone": "760-872-3802",
+      "image": "https://cdn.findpawpal.com/office/363150.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mountain-humane-society-484270",
+      "name": "Mountain Humane Society",
+      "address": "PO Box 1013, Blue Jay, CA 92317",
+      "phone": "714-336-3334",
+      "image": "https://cdn.findpawpal.com/office/484270.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "blue-lake-animal-control-669005",
+      "name": "Blue Lake Animal Control",
+      "address": "410 South Railroad Avenue, Blue Lake, CA 95525",
+      "phone": "707-668-1800",
+      "image": "https://cdn.findpawpal.com/office/669005.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "blyth-animal-control-490306",
+      "name": "Blyth Animal Control",
+      "address": "240 North Spring Street, Blythe, CA 92225",
+      "phone": "760-922-6111",
+      "image": "https://cdn.findpawpal.com/office/490306.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "riverside-county-animal-control-392674",
+      "name": "Riverside County Animal Control",
+      "address": "245 South Carlton Avenue, Blythe, CA 92225",
+      "phone": "760-921-7857",
+      "image": "https://cdn.findpawpal.com/office/392674.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-county-of-san-diego-department-of-animal-services-385178",
+      "name": "The County of San Diego Department of Animal Services",
+      "address": "5821 Sweetwater Road, Bonita, CA 91902",
+      "phone": "619-767-2675",
+      "image": "https://cdn.findpawpal.com/office/385178.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "santa-ynez-valley-humane-society-533684",
+      "name": "Santa Ynez Valley Humane Society",
+      "address": "111 Commerce Drive, Buellton, CA 93427",
+      "phone": "805-688-8224",
+      "image": "https://cdn.findpawpal.com/office/533684.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "burbank-animal-shelter-478095",
+      "name": "Burbank Animal Shelter",
+      "address": "1150 North Victory Place, Burbank, CA 91502",
+      "phone": "818-238-3340",
+      "image": "https://cdn.findpawpal.com/office/478095.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chatham-meier-foundation-360340",
+      "name": "Chatham-Meier Foundation",
+      "address": "PO Box 6381, Burbank, CA 91510",
+      "phone": "818-901-0947",
+      "image": "https://cdn.findpawpal.com/office/360340.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-rescue-association-360402",
+      "name": "Pet Rescue Association",
+      "address": "PO Box 1836, Burbank, CA 91507",
+      "phone": "818-767-4400",
+      "image": "https://cdn.findpawpal.com/office/360402.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-animal-farm-for-pows-474286",
+      "name": "The Animal Farm For Pow's",
+      "address": "PO Box 3189, Burbank, CA 91508",
+      "phone": "818-623-7379",
+      "image": "https://cdn.findpawpal.com/office/474286.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "riverside-dachshund-rescue-667980",
+      "name": "Riverside Dachshund Rescue",
+      "address": "PO Box 779, Cabazon, CA 92230",
+      "phone": "951-922-4941",
+      "image": "https://cdn.findpawpal.com/office/667980.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "california-city-animal-control-368619",
+      "name": "California City Animal Control",
+      "address": "21130 Hacienda Boulevard, California, CA 93505",
+      "phone": "760-373-8606",
+      "image": "https://cdn.findpawpal.com/office/368619.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ventura-county-animal-services-362415",
+      "name": "Ventura County Animal Services",
+      "address": "600 Aviation Drive, Camarillo, CA 93010",
+      "phone": "805-388-4341",
+      "image": "https://cdn.findpawpal.com/office/362415.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cambria-animal-control-481203",
+      "name": "Cambria Animal Control",
+      "address": "1500 Main Street, Cambria, CA 93428",
+      "phone": "805-927-7377",
+      "image": "https://cdn.findpawpal.com/office/481203.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "homeless-animal-rescue-team-361634",
+      "name": "Homeless Animal Rescue Team",
+      "address": "PO Box 1394, Cambria, CA 93428",
+      "phone": "805-772-4278",
+      "image": "https://cdn.findpawpal.com/office/361634.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "companion-animal-rescue-effort-668395",
+      "name": "Companion Animal Rescue Effort",
+      "address": "PO Box 111474, Campbell, CA 95011",
+      "phone": "408-929-2287",
+      "image": "https://cdn.findpawpal.com/office/668395.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cat-crossing-483266",
+      "name": "Cat Crossing",
+      "address": "PO Box 3696, Canoga Park, CA 91396",
+      "phone": "818-759-6554",
+      "image": "https://cdn.findpawpal.com/office/483266.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "boones-farm-667795",
+      "name": "Boone's Farm",
+      "address": "PO Box 2178, Canyon Country, CA 91386",
+      "phone": "661-251-5695",
+      "image": "https://cdn.findpawpal.com/office/667795.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jin-sohl-jindo-dog-rescue-360900",
+      "name": "Jin-Sohl Jindo Dog Rescue",
+      "address": "PO Box 1364, Canyon Country, CA 91386",
+      "phone": "858-837-1828",
+      "image": "https://cdn.findpawpal.com/office/360900.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-capitola-animal-shelter-390143",
+      "name": "City of Capitola Animal Shelter",
+      "address": "420 Capitola Avenue, Capitola, CA 95010",
+      "phone": "831-462-5678",
+      "image": "https://cdn.findpawpal.com/office/390143.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "county-of-san-diego-animal-services-363070",
+      "name": "County of San Diego Animal Services",
+      "address": "2481 Palomar Airport Road, Carlsbad, CA 92011",
+      "phone": "619-767-2675",
+      "image": "https://cdn.findpawpal.com/office/363070.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "san-diego-small-dog-rescue-385240",
+      "name": "San Diego Small Dog Rescue",
+      "address": "6836 Urubu Street, Carlsbad, CA 92009",
+      "phone": "760-672-2258",
+      "image": "https://cdn.findpawpal.com/office/385240.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "carmel-valley-animal-control-669015",
+      "name": "Carmel Valley Animal Control",
+      "address": "MEADOW Pl, Carmel Valley, CA 93924",
+      "phone": "831-659-3238",
+      "image": "https://cdn.findpawpal.com/office/669015.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "los-angeles-county-animal-care-363328",
+      "name": "Los Angeles County Animal Care",
+      "address": "31044 Charlie Canyon Road, Castaic, CA 91384",
+      "phone": "818-367-8065",
+      "image": "https://cdn.findpawpal.com/office/363328.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "california-siamese-recue-481241",
+      "name": "California Siamese Recue",
+      "address": "PO Box 20086, Castro Valley, CA 94546",
+      "phone": "510-538-2280",
+      "image": "https://cdn.findpawpal.com/office/481241.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lend-a-paw-shelter-484161",
+      "name": "Lend-A-Paw Shelter",
+      "address": "PO Box 132, Cathedral, CA 92235",
+      "phone": "760-327-4458",
+      "image": "https://cdn.findpawpal.com/office/484161.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-chico-animal-shelter-380920",
+      "name": "City of Chico Animal Shelter",
+      "address": "2579 Fair Street, Chico, CA 95928",
+      "phone": "530-894-5630",
+      "image": "https://cdn.findpawpal.com/office/380920.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cats-in-need-of-human-care-383046",
+      "name": "Cats in Need of Human Care",
+      "address": "6374 Syracuse Street, Chino, CA 91710",
+      "phone": "909-622-0121",
+      "image": "https://cdn.findpawpal.com/office/383046.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chula-vista-animal-care-facility-383916",
+      "name": "Chula Vista Animal Care Facility",
+      "address": "130 Beyer Way, Chula Vista, CA 91911",
+      "phone": "619-691-5123",
+      "image": "https://cdn.findpawpal.com/office/383916.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rags-2-riches-dog-adoption-385126",
+      "name": "Rags 2 Riches Dog Adoption",
+      "address": "501 Anita Street, Chula Vista, CA 91911",
+      "phone": "619-961-3997",
+      "image": "https://cdn.findpawpal.com/office/385126.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "citrus-heights-animal-control-489711",
+      "name": "Citrus Heights Animal Control",
+      "address": "6237 Fountain Square Drive, Citrus Heights, CA 95621",
+      "phone": "916-725-7387",
+      "image": "https://cdn.findpawpal.com/office/489711.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "st-roch-dog-rescue-claremont-390758",
+      "name": "St. Roch Dog Rescue Claremont",
+      "address": "915 West Foothill Boulevard, Claremont, CA 91711",
+      "phone": "909-620-7650",
+      "image": "https://cdn.findpawpal.com/office/390758.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "central-valley-animal-control-668909",
+      "name": "Central Valley Animal Control",
+      "address": "619 Woodworth Avenue, Clovis, CA 93612",
+      "phone": "559-297-9245",
+      "image": "https://cdn.findpawpal.com/office/668909.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-hunters-international-360590",
+      "name": "Pet Hunters International",
+      "address": "PO Box 476, Clovis, CA 93613",
+      "phone": "559-292-4334",
+      "image": "https://cdn.findpawpal.com/office/360590.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-coalinga-claremont-custody-center-362284",
+      "name": "City of Coalinga Claremont Custody Center",
+      "address": "185 West Gale Avenue, Coalinga, CA 93210",
+      "phone": "559-935-1525",
+      "image": "https://cdn.findpawpal.com/office/362284.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "colusa-county-animal-control-668911",
+      "name": "Colusa County Animal Control",
+      "address": "929 Bridge Street, Colusa, CA 95932",
+      "phone": "530-458-0229",
+      "image": "https://cdn.findpawpal.com/office/668911.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "avian-rescue-corporation-383089",
+      "name": "Avian Rescue Corporation",
+      "address": "1212 Saint Elizabeth Court, Concord, CA 94518",
+      "phone": "925-686-2350",
+      "image": "https://cdn.findpawpal.com/office/383089.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "concord-animal-control-480588",
+      "name": "Concord Animal Control",
+      "address": "1950 Market Street, Concord, CA 94520",
+      "phone": "925-685-0908",
+      "image": "https://cdn.findpawpal.com/office/480588.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "contra-costa-county-spca-362351",
+      "name": "Contra Costa County SPCA",
+      "address": "1865 Adobe Street, Concord, CA 94520",
+      "phone": "925-356-5669",
+      "image": "https://cdn.findpawpal.com/office/362351.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "corning-city-animal-control-385598",
+      "name": "Corning City Animal Control",
+      "address": "774 3rd Street, Corning, CA 96021",
+      "phone": "530-824-7000",
+      "image": "https://cdn.findpawpal.com/office/385598.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-pet-rescue-389365",
+      "name": "Second Chance Pet Rescue",
+      "address": "4312 Rawson Road, Corning, CA 96021",
+      "phone": "530-824-1985",
+      "image": "https://cdn.findpawpal.com/office/389365.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-norco-animal-shelter-668356",
+      "name": "City of Norco Animal Shelter",
+      "address": "266 East 6th Street, Corona, CA 92879",
+      "phone": "909-737-8972",
+      "image": "https://cdn.findpawpal.com/office/668356.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "corona-animal-shelter-392323",
+      "name": "Corona Animal Shelter",
+      "address": "608 Harrington Street, Corona, CA 92880",
+      "phone": "951-736-2309",
+      "image": "https://cdn.findpawpal.com/office/392323.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "coronado-animal-control-363856",
+      "name": "Coronado Animal Control",
+      "address": "1015 6th Street, Coronado, CA 92118",
+      "phone": "619-920-7297",
+      "image": "https://cdn.findpawpal.com/office/363856.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-of-coronado-385131",
+      "name": "PAWS of Coronado",
+      "address": "1395 1st Street, Coronado, CA 92118",
+      "phone": "619-435-8247",
+      "image": "https://cdn.findpawpal.com/office/385131.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "costa-mesa-animal-control-385611",
+      "name": "Costa Mesa Animal Control",
+      "address": "99 Fair Drive, Costa Mesa, CA 92626",
+      "phone": "714-754-5311",
+      "image": "https://cdn.findpawpal.com/office/385611.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wolfdog-rescue-resources-inc-381086",
+      "name": "Wolfdog Rescue Resources, Inc.",
+      "address": "1710 Labrador Drive, Costa Mesa, CA 92626",
+      "phone": "714-673-3729",
+      "image": "https://cdn.findpawpal.com/office/381086.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-control-385615",
+      "name": "Animal Control",
+      "address": "203 West Sierra Avenue, Cotati, CA 94931",
+      "phone": "707-792-4611",
+      "image": "https://cdn.findpawpal.com/office/385615.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "human-touch-rescue-360380",
+      "name": "Human Touch Rescue",
+      "address": "PO Box 3122, Covina, CA 91722",
+      "phone": "626-914-5122",
+      "image": "https://cdn.findpawpal.com/office/360380.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "del-norte-county-weights-msrs-389795",
+      "name": "Del Norte County Weights/Msrs",
+      "address": "2650 West Washington Boulevard, Crescent, CA 95531",
+      "phone": "707-464-7235",
+      "image": "https://cdn.findpawpal.com/office/389795.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-del-norte-365171",
+      "name": "Humane Society of Del Norte",
+      "address": "811 Elk Valley Road, Crescent, CA 95531",
+      "phone": "707-464-1686",
+      "image": "https://cdn.findpawpal.com/office/365171.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wild-feline-rescue-362468",
+      "name": "Wild Feline Rescue",
+      "address": "1279 2nd Street, Crescent, CA 95531",
+      "phone": "707-464-7729",
+      "image": "https://cdn.findpawpal.com/office/362468.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "daly-city-animal-control-385619",
+      "name": "Daly City Animal Control",
+      "address": "52 Mateo Avenue, Daly, CA 94014",
+      "phone": "650-743-8170",
+      "image": "https://cdn.findpawpal.com/office/385619.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-foundation-of-dana-point-inc-390038",
+      "name": "Animal Rescue Foundation of Dana Point, Inc.",
+      "address": "PO Box 756, Dana Point, CA 92629",
+      "phone": "949-240-2899",
+      "image": "https://cdn.findpawpal.com/office/390038.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "desert-shelter-for-animals-392490",
+      "name": "Desert Shelter For Animals",
+      "address": "32491 Mediterranean Drive, Dana Point, CA 92629",
+      "phone": "949-493-8340",
+      "image": "https://cdn.findpawpal.com/office/392490.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "association-of-veterinarians-for-animal-rights-668965",
+      "name": "Association of Veterinarians For Animal Rights",
+      "address": "635 Anderson Road, Davis, CA 95616",
+      "phone": "530-759-8106",
+      "image": "https://cdn.findpawpal.com/office/668965.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "shelter-dog-rescue-project-at-uc-davis-361420",
+      "name": "Shelter Dog Rescue Project At Uc Davis",
+      "address": "PO Box 658, Davis, CA 95617",
+      "phone": "530-792-6177",
+      "image": "https://cdn.findpawpal.com/office/361420.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rights-fund-392359",
+      "name": "Animal Rights Fund",
+      "address": "122 15th Street, Del Mar, CA 92014",
+      "phone": "800-207-2864",
+      "image": "https://cdn.findpawpal.com/office/392359.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "desert-hot-springs-animal-shelter-368236",
+      "name": "Desert Hot Springs Animal Shelter",
+      "address": "65810 Hacienda Avenue, Desert Hot Springs, CA 92240",
+      "phone": "760-329-8931",
+      "image": "https://cdn.findpawpal.com/office/368236.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "save-a-pet-inc-388863",
+      "name": "Save A Pet, Inc.",
+      "address": "PO Box 602, Desert Hot Springs, CA 92240",
+      "phone": "619-329-9847",
+      "image": "https://cdn.findpawpal.com/office/388863.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-outreach-362310",
+      "name": "Animal Outreach",
+      "address": "6101 Enterprise Drive, Diamond Springs, CA 95619",
+      "phone": "530-642-2267",
+      "image": "https://cdn.findpawpal.com/office/362310.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "el-dorado-humane-society-365619",
+      "name": "El Dorado Humane Society",
+      "address": "484 Main Street, Diamond Springs, CA 95619",
+      "phone": "530-642-2738",
+      "image": "https://cdn.findpawpal.com/office/365619.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dinuba-animal-control-368244",
+      "name": "Dinuba Animal Control",
+      "address": "680 South Alta Avenue, Dinuba, CA 93618",
+      "phone": "559-591-5914",
+      "image": "https://cdn.findpawpal.com/office/368244.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dos-palos-animal-control-385672",
+      "name": "Dos Palos Animal Control",
+      "address": "1546 Golden Gate Avenue, Dos Palos, CA 93620",
+      "phone": "209-392-2176",
+      "image": "https://cdn.findpawpal.com/office/385672.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "county-of-los-angeles-department-of-animal-care-and-control-363336",
+      "name": "County of Los Angeles Department of Animal Care and Control",
+      "address": "11258 Garfield Avenue, Downey, CA 90242",
+      "phone": "562-940-6898",
+      "image": "https://cdn.findpawpal.com/office/363336.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "seaaca-478000",
+      "name": "SEAACA",
+      "address": "9777 Seaaca Street, Downey, CA 90241",
+      "phone": "562-803-3301",
+      "image": "https://cdn.findpawpal.com/office/478000.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alameda-county-animal-control-480737",
+      "name": "Alameda County Animal Control",
+      "address": "4595 Gleason Drive, Dublin, CA 94568",
+      "phone": "925-803-7040",
+      "image": "https://cdn.findpawpal.com/office/480737.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "border-collie-rescue-of-california-533308",
+      "name": "Border Collie Rescue of California",
+      "address": "PO Box 20854, El Cajon, CA 92021",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/533308.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "el-cajon-animal-control-537677",
+      "name": "El Cajon Animal Control",
+      "address": "1275 North Marshall Avenue, El Cajon, CA 92020",
+      "phone": "619-441-1580",
+      "image": "https://cdn.findpawpal.com/office/537677.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "west-highland-white-terrier-rescue-of-ca-363090",
+      "name": "West Highland White Terrier Rescue of CA",
+      "address": "PO Box 2822, El Cajon, CA 92021",
+      "phone": "619-579-6395",
+      "image": "https://cdn.findpawpal.com/office/363090.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "el-centro-animal-control-668937",
+      "name": "El Centro Animal Control",
+      "address": "150 North 11th Street, El Centro, CA 92243",
+      "phone": "760-336-8981",
+      "image": "https://cdn.findpawpal.com/office/668937.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-imperial-county-668269",
+      "name": "Humane Society-Imperial County",
+      "address": "1575 West Pico Avenue, El Centro, CA 92243",
+      "phone": "760-352-1911",
+      "image": "https://cdn.findpawpal.com/office/668269.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "imperial-county-animal-control-392387",
+      "name": "Imperial County Animal Control",
+      "address": "1329 Sperber Road, El Centro, CA 92243",
+      "phone": "760-339-6291",
+      "image": "https://cdn.findpawpal.com/office/392387.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lulu-belle-animal-haven-365296",
+      "name": "Lulu Belle Animal Haven",
+      "address": "2549 Dogwood Road, El Centro, CA 92243",
+      "phone": "760-355-4125",
+      "image": "https://cdn.findpawpal.com/office/365296.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "state-humane-association-of-california-362376",
+      "name": "State Humane Association of California",
+      "address": "PO Box 2098, El Cerrito, CA 94530",
+      "phone": "510-525-2744",
+      "image": "https://cdn.findpawpal.com/office/362376.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "grace-foundation-northern-california-383789",
+      "name": "Grace Foundation-Northern California",
+      "address": "5800 Latigo Lane, El Dorado Hills, CA 95762",
+      "phone": "916-941-0800",
+      "image": "https://cdn.findpawpal.com/office/383789.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "noahs-wish-668342",
+      "name": "Noah's Wish",
+      "address": "4962 Robert J Mathews Parkway, El Dorado Hills, CA 95762",
+      "phone": "916-939-9474",
+      "image": "https://cdn.findpawpal.com/office/668342.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pal-rescue-and-adoption-363319",
+      "name": "Pal Rescue and Adoption",
+      "address": "214 Main Street, El Segundo, CA 90245",
+      "phone": "310-634-3733",
+      "image": "https://cdn.findpawpal.com/office/363319.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "elk-grove-animal-control-480749",
+      "name": "Elk Grove Animal Control",
+      "address": "8401 Laguna Palms Way, Elk Grove, CA 95758",
+      "phone": "916-687-3023",
+      "image": "https://cdn.findpawpal.com/office/480749.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sacramento-sheltie-rescue-of-northern-california-366660",
+      "name": "Sacramento Sheltie Rescue of Northern California",
+      "address": "9386 Forest Vista Way, Elk Grove, CA 95758",
+      "phone": "916-684-8615",
+      "image": "https://cdn.findpawpal.com/office/366660.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "homeward-bound-golden-retriever-rescue-and-sanctuary-487664",
+      "name": "Homeward Bound Golden Retriever Rescue & Sanctuary",
+      "address": "7495 Natomas Road, Elverta, CA 95626",
+      "phone": "916-655-1410",
+      "image": "https://cdn.findpawpal.com/office/487664.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "operation-k9-rescue-center-382168",
+      "name": "Operation K9 Rescue Center",
+      "address": "PO Box 235207, Encinitas, CA 92023",
+      "phone": "760-497-7764",
+      "image": "https://cdn.findpawpal.com/office/382168.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rancho-coastal-humane-society-533277",
+      "name": "Rancho Coastal Humane Society",
+      "address": "389 Requeza Street, Encinitas, CA 92024",
+      "phone": "760-753-6413",
+      "image": "https://cdn.findpawpal.com/office/533277.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "san-diego-animal-advocate-365299",
+      "name": "San Diego Animal Advocate",
+      "address": "224 Countryhaven Road, Encinitas, CA 92024",
+      "phone": "760-632-8638",
+      "image": "https://cdn.findpawpal.com/office/365299.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "persians-and-friends-rescue-inc-363634",
+      "name": "Persians and Friends Rescue, Inc",
+      "address": "PO Box 17173, Encino, CA 91416",
+      "phone": "818-300-7915",
+      "image": "https://cdn.findpawpal.com/office/363634.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "escalon-animal-shelter-480791",
+      "name": "Escalon Animal Shelter",
+      "address": "25100 East River Road, Escalon, CA 95320",
+      "phone": "209-838-9908",
+      "image": "https://cdn.findpawpal.com/office/480791.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "american-maltese-assoc-rescue-535315",
+      "name": "American Maltese Assoc. Rescue",
+      "address": "10520 Burned Oak Lane, Escondido, CA 92026",
+      "phone": "760-749-2270",
+      "image": "https://cdn.findpawpal.com/office/535315.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "escondido-city-animal-control-489954",
+      "name": "Escondido City Animal Control",
+      "address": "201 North Broadway, Escondido, CA 92025",
+      "phone": "760-746-7307",
+      "image": "https://cdn.findpawpal.com/office/489954.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "escondido-humane-society-478649",
+      "name": "Escondido Humane Society",
+      "address": "3450 East Valley Parkway, Escondido, CA 92027",
+      "phone": "760-888-2275",
+      "image": "https://cdn.findpawpal.com/office/478649.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "purple-cow-animal-shelter-475126",
+      "name": "Purple Cow Animal Shelter",
+      "address": "PO Box 301175, Escondido, CA 92030",
+      "phone": "760-749-4790",
+      "image": "https://cdn.findpawpal.com/office/475126.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "san-diego-animals-worthy-of-life-475173",
+      "name": "San Diego Animals Worthy of Life",
+      "address": "PO Box 460817, Escondido, CA 92046",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/475173.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "eureka-animal-control-364205",
+      "name": "Eureka Animal Control",
+      "address": "604 C Street, Eureka, CA 95501",
+      "phone": "707-441-4327",
+      "image": "https://cdn.findpawpal.com/office/364205.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sequoia-humane-society-360634",
+      "name": "Sequoia Humane Society",
+      "address": "6073 Loma Avenue, Eureka, CA 95503",
+      "phone": "707-442-1782",
+      "image": "https://cdn.findpawpal.com/office/360634.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "solano-county-animal-shelter-383909",
+      "name": "Solano County Animal Shelter",
+      "address": "2510 Clay Bank Road, Fairfield, CA 94533",
+      "phone": "707-784-1356",
+      "image": "https://cdn.findpawpal.com/office/383909.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fallbrook-animal-control-364219",
+      "name": "Fallbrook Animal Control",
+      "address": "232 West Aviation Road, Fallbrook, CA 92028",
+      "phone": "760-685-3533",
+      "image": "https://cdn.findpawpal.com/office/364219.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-animal-rescue-team-364714",
+      "name": "Humane Animal Rescue Team",
+      "address": "PO Box 920, Fillmore, CA 93016",
+      "phone": "805-677-5541",
+      "image": "https://cdn.findpawpal.com/office/364714.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "folsom-feline-rescue-382099",
+      "name": "Folsom Feline Rescue",
+      "address": "PO Box 6773, Folsom, CA 95763",
+      "phone": "916-484-4099",
+      "image": "https://cdn.findpawpal.com/office/382099.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dachshund-rescue-of-northern-ca-380318",
+      "name": "Dachshund Rescue of Northern Ca",
+      "address": "PO Box 539, Forest Ranch, CA 95942",
+      "phone": "530-895-3148",
+      "image": "https://cdn.findpawpal.com/office/380318.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fort-bragg-animal-control-668952",
+      "name": "Fort Bragg Animal Control",
+      "address": "16651 Franklin Road, Fort Bragg, CA 95437",
+      "phone": "707-964-4442",
+      "image": "https://cdn.findpawpal.com/office/668952.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "house-rabbit-society-california-north-coast-486163",
+      "name": "House Rabbit Society - California North Coast",
+      "address": "PO Box 327, Fort Bragg, CA 95437",
+      "phone": "707-964-7250",
+      "image": "https://cdn.findpawpal.com/office/486163.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mendocino-coast-humane-society-362746",
+      "name": "Mendocino Coast Humane Society",
+      "address": "19691 Summers Lane, Fort Bragg, CA 95437",
+      "phone": "707-964-7729",
+      "image": "https://cdn.findpawpal.com/office/362746.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-assistance-league-362696",
+      "name": "Animal Assistance League",
+      "address": "10409 Sioux River Circle, Fountain Valley, CA 92708",
+      "phone": "714-893-4393",
+      "image": "https://cdn.findpawpal.com/office/362696.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-lily-sanctuary-381738",
+      "name": "The Lily Sanctuary",
+      "address": "PO Box 9294, Fountain Valley, CA 92728",
+      "phone": "714-531-3141",
+      "image": "https://cdn.findpawpal.com/office/381738.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tri-city-animal-shelter-368710",
+      "name": "Tri-City Animal Shelter",
+      "address": "1950 Stevenson Boulevard, Fremont, CA 94538",
+      "phone": "510-790-6640",
+      "image": "https://cdn.findpawpal.com/office/368710.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "french-camp-animal-control-386824",
+      "name": "French Camp Animal Control",
+      "address": "777 West Mathews Road, French Camp, CA 95231",
+      "phone": "209-983-9166",
+      "image": "https://cdn.findpawpal.com/office/386824.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "california-feline-foundation-486615",
+      "name": "California Feline Foundation",
+      "address": "550 North Van Ness Avenue, Fresno, CA 93728",
+      "phone": "559-233-8554",
+      "image": "https://cdn.findpawpal.com/office/486615.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "central-california-spca-668389",
+      "name": "Central California SPCA",
+      "address": "103 South Hughes Avenue, Fresno, CA 93706",
+      "phone": "559-233-7722",
+      "image": "https://cdn.findpawpal.com/office/668389.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fresno-animal-control-364246",
+      "name": "Fresno Animal Control",
+      "address": "4545 East Dakota Avenue, Fresno, CA 93726",
+      "phone": "559-225-5715",
+      "image": "https://cdn.findpawpal.com/office/364246.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "not-so-perrrfect-angels-366954",
+      "name": "Not So Perrrfect Angels",
+      "address": "7312 East Church Avenue, Fresno, CA 93737",
+      "phone": "559-255-0409",
+      "image": "https://cdn.findpawpal.com/office/366954.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "not-so-purrrfect-angels-667695",
+      "name": "Not So Purrrfect Angels",
+      "address": "PO Box 7679, Fresno, CA 93747",
+      "phone": "559-255-1415",
+      "image": "https://cdn.findpawpal.com/office/667695.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "10th-life-foundation-362688",
+      "name": "10th Life Foundation",
+      "address": "2854 Mystic Avenue, Fullerton, CA 92835",
+      "phone": "888-231-8713",
+      "image": "https://cdn.findpawpal.com/office/362688.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "galt-animal-control-385340",
+      "name": "Galt Animal Control",
+      "address": "774 Rachel Drive, Galt, CA 95632",
+      "phone": "209-745-6302",
+      "image": "https://cdn.findpawpal.com/office/385340.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-the-redwoods-360133",
+      "name": "Humane Society of the Redwoods",
+      "address": "909 Redwood Drive, Garberville, CA 95542",
+      "phone": "707-923-4300",
+      "image": "https://cdn.findpawpal.com/office/360133.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "garden-grove-animal-control-386399",
+      "name": "Garden Grove Animal Control",
+      "address": "11901 Gilbert Street, Garden Grove, CA 92841",
+      "phone": "714-638-8111",
+      "image": "https://cdn.findpawpal.com/office/386399.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "los-angeles-county-animal-control-386393",
+      "name": "Los Angeles County Animal Control",
+      "address": "216 West Victoria Street, Gardena, CA 90248",
+      "phone": "310-523-9566",
+      "image": "https://cdn.findpawpal.com/office/386393.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-harbor-362543",
+      "name": "Pet Harbor",
+      "address": "328 Redondo Beach Boulevard, Gardena, CA 90248",
+      "phone": "310-324-2325",
+      "image": "https://cdn.findpawpal.com/office/362543.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "save-the-dalmatians-and-others-canine-rescue-inc-668493",
+      "name": "Save the Dalmatians & Others Canine Rescue, Inc.",
+      "address": "15507 South Normandie Avenue, Gardena, CA 90247",
+      "phone": "310-803-5414",
+      "image": "https://cdn.findpawpal.com/office/668493.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bull-terrier-welfare-foundation-668520",
+      "name": "Bull Terrier Welfare Foundation",
+      "address": "1526 Belleau Road, Glendale, CA 91206",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/668520.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "d-e-l-t-a-rescue-381335",
+      "name": "D.E.L.T.A. Rescue",
+      "address": "PO Box 9, Glendale, CA 91209",
+      "phone": "661-269-4010",
+      "image": "https://cdn.findpawpal.com/office/381335.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "glendale-animal-control-363940",
+      "name": "Glendale Animal Control",
+      "address": "313 East Broadway, Glendale, CA 91203",
+      "phone": "818-241-6282",
+      "image": "https://cdn.findpawpal.com/office/363940.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "glendale-animal-welfare-and-rescue-366575",
+      "name": "Glendale Animal Welfare and Rescue",
+      "address": "1420 West Kenneth Road, Glendale, CA 91201",
+      "phone": "818-497-5644",
+      "image": "https://cdn.findpawpal.com/office/366575.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "glendale-humane-society-366390",
+      "name": "Glendale Humane Society",
+      "address": "717 Ivy Street, Glendale, CA 91204",
+      "phone": "818-242-1128",
+      "image": "https://cdn.findpawpal.com/office/366390.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "glendora-city-animal-control-487504",
+      "name": "Glendora City Animal Control",
+      "address": "150 South Glendora Avenue, Glendora, CA 91741",
+      "phone": "626-914-8275",
+      "image": "https://cdn.findpawpal.com/office/487504.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dog-adoption-and-welfare-group-389101",
+      "name": "Dog Adoption & Welfare Group",
+      "address": "5480 Overpass Road, Goleta, CA 93111",
+      "phone": "805-681-0561",
+      "image": "https://cdn.findpawpal.com/office/389101.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animalsave-388536",
+      "name": "Animalsave",
+      "address": "137 Joerschke Drive, Grass Valley, CA 95945",
+      "phone": "530-271-7071",
+      "image": "https://cdn.findpawpal.com/office/388536.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "grass-valley-animal-control-grass-valley-and-nevada-city-animal-shelter-667892",
+      "name": "Grass Valley Animal Control - Grass Valley and Nevada City Animal Shelter",
+      "address": "556 Freeman Lane, Grass Valley, CA 95949",
+      "phone": "530-477-4630",
+      "image": "https://cdn.findpawpal.com/office/667892.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "nevada-county-animal-control-474441",
+      "name": "Nevada County Animal Control",
+      "address": "14647 McCourtney Road, Grass Valley, CA 95949",
+      "phone": "530-273-2179",
+      "image": "https://cdn.findpawpal.com/office/474441.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-adoption-league-483660",
+      "name": "Pet Adoption League",
+      "address": "PO Box 3303, Grass Valley, CA 95945",
+      "phone": "530-273-7958",
+      "image": "https://cdn.findpawpal.com/office/483660.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "gridley-animal-shelter-538142",
+      "name": "Gridley Animal Shelter",
+      "address": "895 Sycamore Street, Gridley, CA 95948",
+      "phone": "530-846-4825",
+      "image": "https://cdn.findpawpal.com/office/538142.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "redwood-coast-humane-society-380829",
+      "name": "Redwood Coast Humane Society",
+      "address": "PO Box 1072, Gualala, CA 95445",
+      "phone": "707-884-1304",
+      "image": "https://cdn.findpawpal.com/office/380829.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kings-county-spca-363222",
+      "name": "Kings County SPCA",
+      "address": "8084 Lacey Boulevard, Hanford, CA 93230",
+      "phone": "559-584-8766",
+      "image": "https://cdn.findpawpal.com/office/363222.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "harbor-city-animal-control-539796",
+      "name": "Harbor City Animal Control",
+      "address": "15-2 W 259 St, Harbor City, CA 90710",
+      "phone": "310-891-3729",
+      "image": "https://cdn.findpawpal.com/office/539796.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "southern-ca-humane-society-la-spca-hawthorne-shelter-383438",
+      "name": "Southern CA Humane Society LA SPCA Hawthorne Shelter",
+      "address": "12910 Yukon Avenue, Hawthorne, CA 90250",
+      "phone": "562-678-2839",
+      "image": "https://cdn.findpawpal.com/office/383438.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hayward-animal-shelter-481286",
+      "name": "Hayward Animal Shelter",
+      "address": "16 Barnes Court, Hayward, CA 94544",
+      "phone": "510-293-7200",
+      "image": "https://cdn.findpawpal.com/office/481286.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tikihut-akita-rescue-association-tara-541044",
+      "name": "Tikihut Akita Rescue Association Tara",
+      "address": "PO Box 3935, Hayward, CA 94540",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/541044.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "healdsburg-animal-shelter-668102",
+      "name": "Healdsburg Animal Shelter",
+      "address": "570 Westside Road, Healdsburg, CA 95448",
+      "phone": "707-431-3386",
+      "image": "https://cdn.findpawpal.com/office/668102.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hemet-city-animal-control-392177",
+      "name": "Hemet City Animal Control",
+      "address": "445 East Florida Avenue, Hemet, CA 92543",
+      "phone": "951-765-2424",
+      "image": "https://cdn.findpawpal.com/office/392177.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "southbay-petfriends-362634",
+      "name": "Southbay Petfriends",
+      "address": "1560 16th Street, Hermosa Beach, CA 90254",
+      "phone": "310-318-0209",
+      "image": "https://cdn.findpawpal.com/office/362634.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hesperia-animal-control-386455",
+      "name": "Hesperia Animal Control",
+      "address": "11011 Santa Fe Avenue East, Hesperia, CA 92345",
+      "phone": "760-947-1700",
+      "image": "https://cdn.findpawpal.com/office/386455.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "homewood-animal-shelter-368010",
+      "name": "Homewood Animal Shelter",
+      "address": "5285 West Lake Boulevard, Homewood, CA 96141",
+      "phone": "530-546-1211",
+      "image": "https://cdn.findpawpal.com/office/368010.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "boxer-orange-county-animal-rescue-inc-474501",
+      "name": "Boxer Orange County Animal Rescue, Inc.",
+      "address": "PO Box 1235, Huntington Beach, CA 92647",
+      "phone": "714-904-0012",
+      "image": "https://cdn.findpawpal.com/office/474501.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "orange-county-humane-society-483819",
+      "name": "Orange County Humane Society",
+      "address": "21632 Newland Street, Huntington Beach, CA 92646",
+      "phone": "714-536-8480",
+      "image": "https://cdn.findpawpal.com/office/483819.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-pet-adoptions-532703",
+      "name": "Second Chance Pet Adoptions",
+      "address": "9121 Atlanta Avenue, Huntington Beach, CA 92646",
+      "phone": "714-960-8415",
+      "image": "https://cdn.findpawpal.com/office/532703.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "warner-west-pet-clinic-532749",
+      "name": "Warner West Pet Clinic",
+      "address": "6885 Warner Avenue, Huntington Beach, CA 92647",
+      "phone": "714-847-9617",
+      "image": "https://cdn.findpawpal.com/office/532749.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "westie-rescue-of-orange-county-beyond-380923",
+      "name": "Westie Rescue of Orange County Beyond",
+      "address": "9151 Atlanta Avenue, Huntington Beach, CA 92615",
+      "phone": "714-402-1054",
+      "image": "https://cdn.findpawpal.com/office/380923.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "imperial-city-animal-control-392196",
+      "name": "Imperial City Animal Control",
+      "address": "424 South Imperial Avenue, Imperial, CA 92251",
+      "phone": "760-355-4327",
+      "image": "https://cdn.findpawpal.com/office/392196.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "indio-animal-shelter-392201",
+      "name": "Indio Animal Shelter",
+      "address": "45355 Van Buren Street, Indio, CA 92201",
+      "phone": "760-347-2319",
+      "image": "https://cdn.findpawpal.com/office/392201.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "st-francis-society-383219",
+      "name": "St. Francis Society",
+      "address": "2500 Buena Vista Road, Ione, CA 95640",
+      "phone": "209-274-4907",
+      "image": "https://cdn.findpawpal.com/office/383219.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "coastal-german-shepherd-rescue-667908",
+      "name": "Coastal German Shepherd Rescue",
+      "address": "PO Box 50726, Irvine, CA 92619",
+      "phone": "714-528-4730",
+      "image": "https://cdn.findpawpal.com/office/667908.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "irvine-animal-care-center-484012",
+      "name": "Irvine Animal Care Center",
+      "address": "6443 Oak Canyon, Irvine, CA 92618",
+      "phone": "949-724-7740",
+      "image": "https://cdn.findpawpal.com/office/484012.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "orange-county-animal-rescue-coalition-474610",
+      "name": "Orange County Animal Rescue Coalition",
+      "address": "PO Box 19393, Irvine, CA 92623",
+      "phone": "949-451-3272",
+      "image": "https://cdn.findpawpal.com/office/474610.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rabbit-and-pocket-pet-education-723286",
+      "name": "Rabbit & Pocket Pet Education",
+      "address": ", Irvine, CA 92614",
+      "phone": "818-600-1967",
+      "image": "https://cdn.findpawpal.com/office/723286.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "a-pal-humane-society-541084",
+      "name": "A-PAL Humane Society",
+      "address": "1245 Jackson Gate Road, Jackson, CA 95642",
+      "phone": "209-223-0410",
+      "image": "https://cdn.findpawpal.com/office/541084.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-tuolumne-county-475830",
+      "name": "Humane Society-Tuolumne County",
+      "address": "10040 Victoria Way, Jamestown, CA 95327",
+      "phone": "209-984-5489",
+      "image": "https://cdn.findpawpal.com/office/475830.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "morongo-basin-humane-society-668173",
+      "name": "Morongo Basin Humane Society",
+      "address": "4646 Sunview Avenue, Joshua Tree, CA 92252",
+      "phone": "760-366-3786",
+      "image": "https://cdn.findpawpal.com/office/668173.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "parrots-r-us-bird-rescue-sancturary-534598",
+      "name": "Parrots R Us Bird Rescue Sancturary",
+      "address": "7264 Chocco Road, Joshua Tree, CA 92252",
+      "phone": "760-665-5679",
+      "image": "https://cdn.findpawpal.com/office/534598.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "robbins-rescued-russells-388495",
+      "name": "Robbin's Rescued Russells",
+      "address": "PO Box 13, June Lake, CA 93529",
+      "phone": "661-487-2192",
+      "image": "https://cdn.findpawpal.com/office/388495.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kelseyville-animal-control-539892",
+      "name": "Kelseyville Animal Control",
+      "address": "8025 California 29, Kelseyville, CA 95451",
+      "phone": "707-279-1400",
+      "image": "https://cdn.findpawpal.com/office/539892.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kerman-animal-control-365025",
+      "name": "Kerman Animal Control",
+      "address": "15485 West Church Avenue, Kerman, CA 93630",
+      "phone": "559-846-6159",
+      "image": "https://cdn.findpawpal.com/office/365025.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "little-angels-pug-rescue-381231",
+      "name": "Little Angels Pug Rescue",
+      "address": "PO Box 12242, La Crescenta, CA 91224",
+      "phone": "626-795-3944",
+      "image": "https://cdn.findpawpal.com/office/381231.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "la-mesa-animal-control-480478",
+      "name": "LA Mesa Animal Control",
+      "address": "8130 Allison Avenue, La Mesa, CA 91942",
+      "phone": "619-667-1436",
+      "image": "https://cdn.findpawpal.com/office/480478.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "la-quinta-animal-control-368074",
+      "name": "LA Quinta Animal Control",
+      "address": "78495 Calle Tampico, La Quinta, CA 92253",
+      "phone": "760-777-7050",
+      "image": "https://cdn.findpawpal.com/office/368074.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "blue-bell-foundation-for-cats-667899",
+      "name": "Blue Bell Foundation For Cats",
+      "address": "20982 Laguna Canyon Road, Laguna Beach, CA 92651",
+      "phone": "949-494-1586",
+      "image": "https://cdn.findpawpal.com/office/667899.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "laguna-beach-animal-shelter-360630",
+      "name": "Laguna Beach Animal Shelter",
+      "address": "20612 Laguna Canyon Road, Laguna Beach, CA 92651",
+      "phone": "949-497-3552",
+      "image": "https://cdn.findpawpal.com/office/360630.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "orange-county-animal-shelter-365051",
+      "name": "Orange County Animal Shelter",
+      "address": "23340 Moulton Parkway, Laguna Hills, CA 92653",
+      "phone": "949-249-5160",
+      "image": "https://cdn.findpawpal.com/office/365051.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mountains-humane-society-668175",
+      "name": "Mountain's Humane Society",
+      "address": "PO Box 452, Lake Arrowhead, CA 92352",
+      "phone": "909-337-6422",
+      "image": "https://cdn.findpawpal.com/office/668175.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "modjeska-ranch-rescue-483963",
+      "name": "Modjeska Ranch Rescue",
+      "address": "27641 Portola Parkway, Lake Forest, CA 92610",
+      "phone": "714-649-4406",
+      "image": "https://cdn.findpawpal.com/office/483963.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kern-county-animal-control-365056",
+      "name": "Kern County Animal Control",
+      "address": "7050 Lake Isabella Boulevard, Lake Isabella, CA 93240",
+      "phone": "760-379-1091",
+      "image": "https://cdn.findpawpal.com/office/365056.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lake-isabella-animal-shelter-368112",
+      "name": "Lake Isabella Animal Shelter",
+      "address": "14891 California 178, Lake Isabella, CA 93240",
+      "phone": "760-378-1131",
+      "image": "https://cdn.findpawpal.com/office/368112.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lake-county-animal-control-380507",
+      "name": "Lake County Animal Control",
+      "address": "4949 Helbush Drive, Lakeport, CA 95453",
+      "phone": "707-263-0278",
+      "image": "https://cdn.findpawpal.com/office/380507.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lake-county-animal-services-363232",
+      "name": "Lake County Animal Services",
+      "address": "PO Box 662, Lakeport, CA 95453",
+      "phone": "707-349-2624",
+      "image": "https://cdn.findpawpal.com/office/363232.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lancaster-animal-shelter-668545",
+      "name": "Lancaster Animal Shelter",
+      "address": "5210 West Avenue I, Lancaster, CA 93536",
+      "phone": "661-940-4191",
+      "image": "https://cdn.findpawpal.com/office/668545.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "life-savers-wild-horse-rescue-536536",
+      "name": "Life Savers Wild Horse Rescue",
+      "address": "23809 East Avenue J, Lancaster, CA 93535",
+      "phone": "661-727-0049",
+      "image": "https://cdn.findpawpal.com/office/536536.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pets-and-pals-animal-shelter-383226",
+      "name": "Pets & Pals Animal Shelter",
+      "address": "12488 Harlan Road, Lathrop, CA 95330",
+      "phone": "209-982-5073",
+      "image": "https://cdn.findpawpal.com/office/383226.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lawndale-city-animal-control-386576",
+      "name": "Lawndale City Animal Control",
+      "address": "14616 Grevillea Avenue, Lawndale, CA 90260",
+      "phone": "310-973-3220",
+      "image": "https://cdn.findpawpal.com/office/386576.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cause-4-cats-inc-390779",
+      "name": "Cause 4 Cats, Inc.",
+      "address": "667 Canyon Drive, Lebec, CA 93243",
+      "phone": "661-248-0299",
+      "image": "https://cdn.findpawpal.com/office/390779.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "warren-county-animal-shelter-386076",
+      "name": "Warren County Animal Shelter",
+      "address": "841 Lebec Road, Lebec, CA 93243",
+      "phone": "661-248-5018",
+      "image": "https://cdn.findpawpal.com/office/386076.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lemoore-animal-control-386084",
+      "name": "Lemoore Animal Control",
+      "address": "657 Fox Street, Lemoore, CA 93245",
+      "phone": "559-924-9574",
+      "image": "https://cdn.findpawpal.com/office/386084.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-feline-rescue-667744",
+      "name": "Second Chance Feline Rescue",
+      "address": "11770 17th Avenue, Lemoore, CA 93245",
+      "phone": "559-924-9814",
+      "image": "https://cdn.findpawpal.com/office/667744.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "golden-retriever-rescue-foundation-478238",
+      "name": "Golden Retriever Rescue Foundation",
+      "address": "PO Box 708, Leona Valley, CA 93551",
+      "phone": "661-270-3294",
+      "image": "https://cdn.findpawpal.com/office/478238.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lindsay-animal-control-shelter-367683",
+      "name": "Lindsay Animal Control Shelter",
+      "address": "23611 Road 196, Lindsay, CA 93247",
+      "phone": "559-562-6577",
+      "image": "https://cdn.findpawpal.com/office/367683.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hooves-paws-animal-rescue-360362",
+      "name": "Hooves PAWS Animal Rescue",
+      "address": "PO Box 1469, Littlerock, CA 93543",
+      "phone": "661-944-3740",
+      "image": "https://cdn.findpawpal.com/office/360362.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "livermore-animal-control-385040",
+      "name": "Livermore Animal Control",
+      "address": "1110 South Livermore Avenue, Livermore, CA 94550",
+      "phone": "925-371-4848",
+      "image": "https://cdn.findpawpal.com/office/385040.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "romania-animal-rescue-inc-364514",
+      "name": "Romania Animal Rescue, Inc.",
+      "address": "8000 Morgan Territory Road, Livermore, CA 94551",
+      "phone": "925-672-5908",
+      "image": "https://cdn.findpawpal.com/office/364514.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-friends-connection-361626",
+      "name": "Animal Friends Connection",
+      "address": "PO Box 2314, Lodi, CA 95241",
+      "phone": "209-368-1761",
+      "image": "https://cdn.findpawpal.com/office/361626.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lodi-city-animal-shelter-364712",
+      "name": "Lodi City Animal Shelter",
+      "address": "1345 West Kettleman Lane, Lodi, CA 95242",
+      "phone": "209-333-6741",
+      "image": "https://cdn.findpawpal.com/office/364712.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "loma-linda-animal-control-385051",
+      "name": "Loma Linda Animal Control",
+      "address": "25541 Barton Road, Loma Linda, CA 92354",
+      "phone": "909-799-2862",
+      "image": "https://cdn.findpawpal.com/office/385051.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "companion-animal-placement-assistance-534982",
+      "name": "Companion Animal Placement Assistance",
+      "address": "1501 West Central Avenue, Lompoc, CA 93436",
+      "phone": "805-737-7754",
+      "image": "https://cdn.findpawpal.com/office/534982.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lompoc-animal-shelter-668809",
+      "name": "Lompoc Animal Shelter",
+      "address": "110 South L Street, Lompoc, CA 93436",
+      "phone": "805-742-0414",
+      "image": "https://cdn.findpawpal.com/office/668809.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-long-beach-animals-487422",
+      "name": "Friends of Long Beach Animals",
+      "address": "PO Box 92736, Long Beach, CA 90809",
+      "phone": "562-988-7647",
+      "image": "https://cdn.findpawpal.com/office/487422.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "long-beach-animal-control-391947",
+      "name": "Long Beach Animal Control",
+      "address": "7700 East Spring Street, Long Beach, CA 90815",
+      "phone": "562-570-7387",
+      "image": "https://cdn.findpawpal.com/office/391947.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "los-angeles-county-animal-control-385095",
+      "name": "Los Angeles County Animal Control",
+      "address": "5898 Cherry Avenue, Long Beach, CA 90805",
+      "phone": "562-728-4706",
+      "image": "https://cdn.findpawpal.com/office/385095.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "saving-the-world-one-pet-at-a-time-361358",
+      "name": "Saving The World One Pet at A Time",
+      "address": "1212 Quincy Avenue, Long Beach, CA 90804",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/361358.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "loomis-animal-control-391965",
+      "name": "Loomis Animal Control",
+      "address": "5700 Val Verde Road, Loomis, CA 95650",
+      "phone": "916-768-5981",
+      "image": "https://cdn.findpawpal.com/office/391965.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "saving-shibas-inc-474758",
+      "name": "Saving Shibas Inc",
+      "address": "PO Box 2541, Los Alamitos, CA 90720",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/474758.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "actors-and-others-for-animals-540482",
+      "name": "Actors & Others For Animals",
+      "address": "11523 Burbank Boulevard, Los Angeles, CA 91601",
+      "phone": "818-755-6045",
+      "image": "https://cdn.findpawpal.com/office/540482.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "american-society-for-the-prevention-of-cruelty-to-animals-486539",
+      "name": "American Society for The Prevention of Cruelty to Animals",
+      "address": "11726 San Vicente Boulevard, Los Angeles, CA 90049",
+      "phone": "310-207-6774",
+      "image": "https://cdn.findpawpal.com/office/486539.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "angel-puss-and-pooch-rescue-390531",
+      "name": "Angel Puss & Pooch Rescue",
+      "address": "7508 Topanga Canyon Boulevard, Los Angeles, CA 91303",
+      "phone": "818-888-7877",
+      "image": "https://cdn.findpawpal.com/office/390531.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bark-avenue-foundation-383229",
+      "name": "Bark Avenue Foundation",
+      "address": "3016 South Hill Street, Los Angeles, CA 90007",
+      "phone": "323-788-8488",
+      "image": "https://cdn.findpawpal.com/office/383229.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "boxer-rescue-inc-los-angeles-668439",
+      "name": "Boxer Rescue, Inc Los Angeles",
+      "address": "17514 Ventura Boulevard, Los Angeles, CA 91316",
+      "phone": "213-532-6541",
+      "image": "https://cdn.findpawpal.com/office/668439.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cagefree-k-9-camp-383551",
+      "name": "Cagefree K-9 Camp",
+      "address": "3385 Robertson Place, Los Angeles, CA 90034",
+      "phone": "310-202-6900",
+      "image": "https://cdn.findpawpal.com/office/383551.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cat-connection-363477",
+      "name": "Cat Connection",
+      "address": "18307 Burbank Boulevard, Los Angeles, CA 91356",
+      "phone": "818-776-0655",
+      "image": "https://cdn.findpawpal.com/office/363477.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cat-and-dog-rescue-association-384741",
+      "name": "Cat and Dog Rescue Association",
+      "address": "473 South Fairfax Avenue, Los Angeles, CA 90036",
+      "phone": "323-525-1471",
+      "image": "https://cdn.findpawpal.com/office/384741.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "east-valley-animal-shelter-363383",
+      "name": "East Valley Animal Shelter",
+      "address": "14409 Vanowen Street, Los Angeles, CA 91405",
+      "phone": "888-452-7381",
+      "image": "https://cdn.findpawpal.com/office/363383.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "encino-animal-control-489914",
+      "name": "Encino Animal Control",
+      "address": "17328 Ventura Boulevard, Los Angeles, CA 91316",
+      "phone": "818-994-8138",
+      "image": "https://cdn.findpawpal.com/office/489914.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-for-pets-foundation-366380",
+      "name": "Friends For Pets Foundation",
+      "address": "11117 Fleetwood Street, Los Angeles, CA 91352",
+      "phone": "818-767-5919",
+      "image": "https://cdn.findpawpal.com/office/366380.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-animals-foundation-483516",
+      "name": "Friends of Animals Foundation",
+      "address": "PO Box 34 1230, Los Angeles, CA 90034",
+      "phone": "310-479-5089",
+      "image": "https://cdn.findpawpal.com/office/483516.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "golden-retriever-club-of-greater-los-angeles-rescue-362742",
+      "name": "Golden Retriever Club of Greater Los Angeles Rescue",
+      "address": "PO Box 491209, Los Angeles, CA 90049",
+      "phone": "818-700-5200",
+      "image": "https://cdn.findpawpal.com/office/362742.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "happy-ending-rescue-483469",
+      "name": "Happy Ending Rescue",
+      "address": "500 South Berendo Street, Los Angeles, CA 90020",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/483469.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "harbor-animal-care-and-control-shelter-los-angeles-362831",
+      "name": "Harbor Animal Care and Control Shelter, Los Angeles",
+      "address": "735 West Battery Street, Los Angeles, CA 90731",
+      "phone": "310-831-2414",
+      "image": "https://cdn.findpawpal.com/office/362831.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "irish-wolfhound-rescue-trust-383779",
+      "name": "Irish Wolfhound Rescue Trust",
+      "address": "16513 Napa Street, Los Angeles, CA 91343",
+      "phone": "818-894-8988",
+      "image": "https://cdn.findpawpal.com/office/383779.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kitten-rescue-online-388360",
+      "name": "Kitten Rescue Online",
+      "address": "23705 Vanowen Street, Los Angeles, CA 91307",
+      "phone": "818-347-3037",
+      "image": "https://cdn.findpawpal.com/office/388360.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lange-foundation-390578",
+      "name": "Lange Foundation",
+      "address": "2106 South Sepulveda Boulevard, Los Angeles, CA 90025",
+      "phone": "310-473-5585",
+      "image": "https://cdn.findpawpal.com/office/390578.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "last-chance-for-animals-362479",
+      "name": "Last Chance for Animals",
+      "address": "8033 Sunset Boulevard, Los Angeles, CA 90046",
+      "phone": "310-271-6096",
+      "image": "https://cdn.findpawpal.com/office/362479.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mirth-hollywood-animal-shelter-539671",
+      "name": "Mirth Hollywood Animal Shelter",
+      "address": "13131 Sherman Way, Los Angeles, CA 91605",
+      "phone": "888-452-7381",
+      "image": "https://cdn.findpawpal.com/office/539671.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mission-hills-animal-control-539534",
+      "name": "Mission Hills Animal Control",
+      "address": "15321 Brand Boulevard, Los Angeles, CA 91345",
+      "phone": "818-643-3989",
+      "image": "https://cdn.findpawpal.com/office/539534.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "muttshack-animal-rescue-foundation-366183",
+      "name": "Muttshack Animal Rescue Foundation",
+      "address": "11872 Eldridge Avenue, Los Angeles, CA 91342",
+      "phone": "866-718-1001",
+      "image": "https://cdn.findpawpal.com/office/366183.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "north-central-animal-shelter-366330",
+      "name": "North Central Animal Shelter",
+      "address": "3201 Lacy Street, Los Angeles, CA 90031",
+      "phone": "888-452-7381",
+      "image": "https://cdn.findpawpal.com/office/366330.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-adoption-fund-668453",
+      "name": "Pet Adoption Fund",
+      "address": "7507 Deering Avenue, Los Angeles, CA 91303",
+      "phone": "818-340-1687",
+      "image": "https://cdn.findpawpal.com/office/668453.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-orphans-of-southern-california-363360",
+      "name": "Pet Orphans of Southern California",
+      "address": "7720 Gloria Avenue, Los Angeles, CA 91406",
+      "phone": "818-901-0190",
+      "image": "https://cdn.findpawpal.com/office/363360.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-rescue-association-dog-and-cat-adoption-center-477953",
+      "name": "Pet Rescue Association Dog and Cat Adoption Center",
+      "address": "8906 Norris Avenue, Los Angeles, CA 91352",
+      "phone": "818-845-6222",
+      "image": "https://cdn.findpawpal.com/office/477953.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pigs-without-partners-536818",
+      "name": "Pigs Without Partners",
+      "address": "9821 Vicar Street, Los Angeles, CA 90034",
+      "phone": "310-836-8237",
+      "image": "https://cdn.findpawpal.com/office/536818.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pot-belly-pig-rescue-536810",
+      "name": "Pot Belly Pig Rescue",
+      "address": "19025 Parthenia Street, Los Angeles, CA 91324",
+      "phone": "818-701-1534",
+      "image": "https://cdn.findpawpal.com/office/536810.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rabbitmatch-org-532132",
+      "name": "Rabbitmatch.Org",
+      "address": "PO Box 642839, Los Angeles, CA 90064",
+      "phone": "323-290-0389",
+      "image": "https://cdn.findpawpal.com/office/532132.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rescue-me-inc-483418",
+      "name": "Rescue Me Inc",
+      "address": "23136 Victory Boulevard, Los Angeles, CA 91367",
+      "phone": "818-999-2400",
+      "image": "https://cdn.findpawpal.com/office/483418.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "west-la-animal-shelter-386158",
+      "name": "West LA Animal Shelter",
+      "address": "11361 West Pico Boulevard, Los Angeles, CA 90064",
+      "phone": "888-452-7381",
+      "image": "https://cdn.findpawpal.com/office/386158.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "los-banos-animal-shelter-391970",
+      "name": "Los Banos Animal Shelter",
+      "address": "945 5th Street, Los Banos, CA 93635",
+      "phone": "209-827-7089",
+      "image": "https://cdn.findpawpal.com/office/391970.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-4-pets-363733",
+      "name": "Second Chance 4 Pets",
+      "address": "1484 Pollard Road, Los Gatos, CA 95032",
+      "phone": "408-871-1133",
+      "image": "https://cdn.findpawpal.com/office/363733.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "madera-county-animal-shelter-366972",
+      "name": "Madera County Animal Shelter",
+      "address": "14269 Road 28, Madera, CA 93638",
+      "phone": "209-675-7891",
+      "image": "https://cdn.findpawpal.com/office/366972.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "california-domestic-ferret-association-531379",
+      "name": "California Domestic Ferret Association",
+      "address": "PO Box 1249, Magalia, CA 95954",
+      "phone": "530-873-4720",
+      "image": "https://cdn.findpawpal.com/office/531379.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mammoth-lakes-animal-shelter-361084",
+      "name": "Mammoth Lakes Animal Shelter",
+      "address": "PO Box 2799, Mammoth Lakes, CA 93546",
+      "phone": "619-935-4734",
+      "image": "https://cdn.findpawpal.com/office/361084.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "for-pets-sake-381345",
+      "name": "For Pets' Sake",
+      "address": "PO Box 1079, Manhattan Beach, CA 90267",
+      "phone": "310-545-1351",
+      "image": "https://cdn.findpawpal.com/office/381345.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "noahs-bark-pet-rescue-organization-668455",
+      "name": "Noah's Bark Pet Rescue Organization",
+      "address": "61 8th Street, Manhattan Beach, CA 90266",
+      "phone": "310-643-0104",
+      "image": "https://cdn.findpawpal.com/office/668455.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "manteca-city-animal-shelter-668823",
+      "name": "Manteca City Animal Shelter",
+      "address": "115 East Wetmore Street, Manteca, CA 95337",
+      "phone": "209-239-8493",
+      "image": "https://cdn.findpawpal.com/office/668823.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "marina-animal-control-480081",
+      "name": "Marina Animal Control",
+      "address": "211 Hillcrest Avenue, Marina, CA 93933",
+      "phone": "831-884-1258",
+      "image": "https://cdn.findpawpal.com/office/480081.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "monterey-county-animal-shelter-362088",
+      "name": "Monterey County Animal Shelter",
+      "address": "2840 5th Avenue, Marina, CA 93933",
+      "phone": "831-384-1396",
+      "image": "https://cdn.findpawpal.com/office/362088.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "forte-animal-rescue-668963",
+      "name": "Forte Animal Rescue",
+      "address": "13428 Maxella Avenue, Marina del Rey, CA 90292",
+      "phone": "310-362-0321",
+      "image": "https://cdn.findpawpal.com/office/668963.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mariposa-animal-control-539446",
+      "name": "Mariposa Animal Control",
+      "address": "4982 10th Street, Mariposa, CA 95338",
+      "phone": "209-966-3615",
+      "image": "https://cdn.findpawpal.com/office/539446.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "contra-costa-county-animal-services-martinez-shelter-383096",
+      "name": "Contra Costa County Animal Services - Martinez Shelter",
+      "address": "4849 Imhoff Place, Martinez, CA 94553",
+      "phone": "925-646-2995",
+      "image": "https://cdn.findpawpal.com/office/383096.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "moraga-animal-control-363801",
+      "name": "Moraga Animal Control",
+      "address": "4800 Imhoff Place, Martinez, CA 94553",
+      "phone": "925-335-8300",
+      "image": "https://cdn.findpawpal.com/office/363801.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "outcast-cat-help-668416",
+      "name": "Outcast Cat Help",
+      "address": "930 Bush Street, Martinez, CA 94553",
+      "phone": "925-231-0639",
+      "image": "https://cdn.findpawpal.com/office/668416.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humboldt-county-animal-shelter-360136",
+      "name": "Humboldt County Animal Shelter",
+      "address": "980 Lycoming Avenue, McKinleyville, CA 95519",
+      "phone": "707-840-9132",
+      "image": "https://cdn.findpawpal.com/office/360136.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "norcal-golden-retriever-rescue-535541",
+      "name": "Norcal Golden Retriever Rescue",
+      "address": "405 El Camino Real, Menlo Park, CA 94025",
+      "phone": "650-615-6810",
+      "image": "https://cdn.findpawpal.com/office/535541.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "san-francisco-bay-area-german-shepherd-rescue-inc-535548",
+      "name": "San Francisco Bay Area German Shepherd Rescue, Inc.",
+      "address": "PO Box 7346, Menlo Park, CA 94026",
+      "phone": "925-210-7466",
+      "image": "https://cdn.findpawpal.com/office/535548.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "benevolent-animal-rescue-committee-364783",
+      "name": "Benevolent Animal Rescue Committee",
+      "address": "PO Box 744, Mentone, CA 92359",
+      "phone": "909-389-9552",
+      "image": "https://cdn.findpawpal.com/office/364783.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "merced-spca-388488",
+      "name": "MERCED SPCA",
+      "address": "1021 East Childs Avenue, Merced, CA 95341",
+      "phone": "209-384-7722",
+      "image": "https://cdn.findpawpal.com/office/388488.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "merced-city-animal-control-489265",
+      "name": "Merced City Animal Control",
+      "address": "611 West 22nd Street, Merced, CA 95340",
+      "phone": "209-385-4720",
+      "image": "https://cdn.findpawpal.com/office/489265.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "merced-county-animal-control-489271",
+      "name": "Merced County Animal Control",
+      "address": "2080 Grogan Avenue, Merced, CA 95341",
+      "phone": "209-385-7436",
+      "image": "https://cdn.findpawpal.com/office/489271.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "orange-county-animal-control-489276",
+      "name": "Orange County Animal Control",
+      "address": "15101 Jackson Street, Midway City, CA 92655",
+      "phone": "714-893-4393",
+      "image": "https://cdn.findpawpal.com/office/489276.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alta-animal-control-385914",
+      "name": "Alta Animal Control",
+      "address": "131 Camino Alto, Mill Valley, CA 94941",
+      "phone": "415-388-9641",
+      "image": "https://cdn.findpawpal.com/office/385914.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "marin-animal-association-365264",
+      "name": "Marin Animal Association",
+      "address": "157 Throckmorton Avenue, Mill Valley, CA 94941",
+      "phone": "415-388-9600",
+      "image": "https://cdn.findpawpal.com/office/365264.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "persian-and-himilyan-cat-rescue-389879",
+      "name": "Persian & Himilyan Cat Rescue",
+      "address": "305 Ross Drive, Mill Valley, CA 94941",
+      "phone": "415-388-7925",
+      "image": "https://cdn.findpawpal.com/office/389879.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-silicon-valley-365861",
+      "name": "Humane Society Silicon Valley",
+      "address": "901 Ames Avenue, Milpitas, CA 95035",
+      "phone": "408-262-2133",
+      "image": "https://cdn.findpawpal.com/office/365861.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "nor-cal-boxer-rescue-366637",
+      "name": "Nor Cal Boxer Rescue",
+      "address": "9 Pond Court, Milpitas, CA 95035",
+      "phone": "408-231-8036",
+      "image": "https://cdn.findpawpal.com/office/366637.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alisos-animal-hospital-383600",
+      "name": "Alisos Animal Hospital",
+      "address": "22902 Los Alisos Boulevard, Mission Viejo, CA 92691",
+      "phone": "949-768-8308",
+      "image": "https://cdn.findpawpal.com/office/383600.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mission-viejo-animal-control-668839",
+      "name": "Mission Viejo Animal Control",
+      "address": "28095 Hillcrest, Mission Viejo, CA 92692",
+      "phone": "949-470-3045",
+      "image": "https://cdn.findpawpal.com/office/668839.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mission-viejo-animal-shelter-532606",
+      "name": "Mission Viejo Animal Shelter",
+      "address": "200 Civic Center, Mission Viejo, CA 92691",
+      "phone": "714-470-3045",
+      "image": "https://cdn.findpawpal.com/office/532606.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animals-at-risk-care-sanctuary-361324",
+      "name": "Animals At Risk Care Sanctuary",
+      "address": "PO Box 578763, Modesto, CA 95357",
+      "phone": "209-527-2272",
+      "image": "https://cdn.findpawpal.com/office/361324.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kindred-canines-dog-rescue-391336",
+      "name": "Kindred Canines Dog Rescue",
+      "address": "2900 Standiford Avenue, Modesto, CA 95350",
+      "phone": "209-450-0227",
+      "image": "https://cdn.findpawpal.com/office/391336.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "modesto-animal-control-539572",
+      "name": "Modesto Animal Control",
+      "address": "4807 Greenleaf Court, Modesto, CA 95356",
+      "phone": "209-545-4639",
+      "image": "https://cdn.findpawpal.com/office/539572.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "stanislaus-county-animal-shelter-391329",
+      "name": "Stanislaus County Animal Shelter",
+      "address": "3647 Cornucopia Way, Modesto, CA 95358",
+      "phone": "209-558-7387",
+      "image": "https://cdn.findpawpal.com/office/391329.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "stanislaus-county-animal-shelter-539578",
+      "name": "Stanislaus County Animal Shelter",
+      "address": "2846 Finch Road, Modesto, CA 95354",
+      "phone": "209-558-7387",
+      "image": "https://cdn.findpawpal.com/office/539578.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mojave-animal-shelter-kern-county-animal-services-388128",
+      "name": "Mojave Animal Shelter, Kern County Animal Services",
+      "address": "923 Poole Street, Mojave, CA 93501",
+      "phone": "661-824-1030",
+      "image": "https://cdn.findpawpal.com/office/388128.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "monterey-city-animal-control-364842",
+      "name": "Monterey City Animal Control",
+      "address": "351 Madison Street, Monterey, CA 93940",
+      "phone": "831-646-3820",
+      "image": "https://cdn.findpawpal.com/office/364842.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "monterey-park-animal-control-385243",
+      "name": "Monterey Park Animal Control",
+      "address": "320 West Newmark Avenue, Monterey Park, CA 91754",
+      "phone": "626-307-1217",
+      "image": "https://cdn.findpawpal.com/office/385243.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "russell-rescue-inc-362406",
+      "name": "Russell Rescue, Inc.",
+      "address": "4348 McBeth Court, Moorpark, CA 93021",
+      "phone": "805-208-1252",
+      "image": "https://cdn.findpawpal.com/office/362406.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "american-german-shepherd-rescue-association-inc-363091",
+      "name": "American German Shepherd Rescue Association, Inc.",
+      "address": "1350 Bollinger Canyon Road, Moraga, CA 94556",
+      "phone": "408-247-1272",
+      "image": "https://cdn.findpawpal.com/office/363091.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "moreno-valley-animal-services-382851",
+      "name": "Moreno Valley Animal Services",
+      "address": "14041 Elsworth Street, Moreno Valley, CA 92553",
+      "phone": "951-416-3790",
+      "image": "https://cdn.findpawpal.com/office/382851.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "morgan-hill-animal-control-489362",
+      "name": "Morgan Hill Animal Control",
+      "address": "16200 Vineyard Boulevard, Morgan Hill, CA 95037",
+      "phone": "408-776-7324",
+      "image": "https://cdn.findpawpal.com/office/489362.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "town-cats-of-morgan-hill-668078",
+      "name": "Town Cats of Morgan Hill",
+      "address": "PO Box 1828, Morgan Hill, CA 95038",
+      "phone": "408-779-5761",
+      "image": "https://cdn.findpawpal.com/office/668078.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-helpline-389502",
+      "name": "Animal Helpline",
+      "address": "48981 Oregon Trail, Morongo Valley, CA 92256",
+      "phone": "760-363-6511",
+      "image": "https://cdn.findpawpal.com/office/389502.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cats-allied-tactical-support-389515",
+      "name": "Cats Allied Tactical Support",
+      "address": "PO Box 282, Morongo Valley, CA 92256",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/389515.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fort-cherokee-horse-rescue-and-sanctuary-389542",
+      "name": "Fort Cherokee Horse Rescue and Sanctuary",
+      "address": "PO Box 1025, Morongo Valley, CA 92256",
+      "phone": "760-363-6189",
+      "image": "https://cdn.findpawpal.com/office/389542.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "siskiyou-humane-society-383399",
+      "name": "Siskiyou Humane Society",
+      "address": "1208 North Mount Shasta Boulevard, Mount Shasta, CA 96067",
+      "phone": "530-926-4052",
+      "image": "https://cdn.findpawpal.com/office/383399.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "living-free-animal-sanctuary-477200",
+      "name": "Living Free Animal Sanctuary",
+      "address": "54250 Keen Camp Road, Mountain Center, CA 92561",
+      "phone": "951-659-4684",
+      "image": "https://cdn.findpawpal.com/office/477200.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cocker-spaniel-rescue-of-temecula-valley-477196",
+      "name": "Cocker Spaniel Rescue of Temecula Valley",
+      "address": "PO Box 1249, Murrieta, CA 92564",
+      "phone": "909-677-8045",
+      "image": "https://cdn.findpawpal.com/office/477196.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "quail-ridge-parrot-rescue-668350",
+      "name": "Quail Ridge Parrot Rescue",
+      "address": "28750 Celia Road, Murrieta, CA 92563",
+      "phone": "909-698-7702",
+      "image": "https://cdn.findpawpal.com/office/668350.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alley-cat-small-animal-hospital-383712",
+      "name": "Alley Cat Small Animal Hospital",
+      "address": "1041 Wine Country Avenue, Napa, CA 94558",
+      "phone": "707-224-2525",
+      "image": "https://cdn.findpawpal.com/office/383712.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-napa-county-and-spca-486210",
+      "name": "Humane Society of Napa County and SPCA",
+      "address": "PO Box 695, Napa, CA 94559",
+      "phone": "707-255-8118",
+      "image": "https://cdn.findpawpal.com/office/486210.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "napa-county-animal-shelter-383716",
+      "name": "Napa County Animal Shelter",
+      "address": "942 Hartle Court, Napa, CA 94559",
+      "phone": "707-253-4382",
+      "image": "https://cdn.findpawpal.com/office/383716.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "national-city-animal-control-539623",
+      "name": "National City Animal Control",
+      "address": "1200 National City Boulevard, National, CA 91950",
+      "phone": "619-336-4411",
+      "image": "https://cdn.findpawpal.com/office/539623.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chows-plus-rescue-380914",
+      "name": "Chows Plus Rescue",
+      "address": "228 Commercial Street, Nevada, CA 95959",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/380914.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "newark-animal-control-364861",
+      "name": "Newark Animal Control",
+      "address": "37101 Newark Boulevard, Newark, CA 94560",
+      "phone": "510-790-7237",
+      "image": "https://cdn.findpawpal.com/office/364861.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-leash-on-life-667776",
+      "name": "New Leash On Life",
+      "address": "16742 Placerita Canyon Road, Newhall, CA 91321",
+      "phone": "661-255-0097",
+      "image": "https://cdn.findpawpal.com/office/667776.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "german-shepherd-rescue-of-orange-county-667948",
+      "name": "German Shepherd Rescue of Orange County",
+      "address": "177 Riverside Avenue, Newport Beach, CA 92663",
+      "phone": "714-974-7762",
+      "image": "https://cdn.findpawpal.com/office/667948.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "newport-beach-animal-control-364867",
+      "name": "Newport Beach Animal Control",
+      "address": "870 Santa Barbara Drive, Newport Beach, CA 92660",
+      "phone": "949-644-3717",
+      "image": "https://cdn.findpawpal.com/office/364867.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "norco-animal-control-shelter-477296",
+      "name": "Norco Animal Control Shelter",
+      "address": "98 6th Street, Norco, CA 92860",
+      "phone": "951-737-8972",
+      "image": "https://cdn.findpawpal.com/office/477296.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-for-animals-360771",
+      "name": "Friends For Animals",
+      "address": "PO Box 5280, North Hollywood, CA 91616",
+      "phone": "818-761-0328",
+      "image": "https://cdn.findpawpal.com/office/360771.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-the-desert-668358",
+      "name": "Humane Society of the Desert",
+      "address": "17825 North Indian Canyon Drive, North Palm Springs, CA 92258",
+      "phone": "760-329-0203",
+      "image": "https://cdn.findpawpal.com/office/668358.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-magic-jungle-wildlife-sanctuary-536016",
+      "name": "The Magic Jungle Wildlife Sanctuary",
+      "address": "PO Box 580103, North Palm Springs, CA 92258",
+      "phone": "760-218-1231",
+      "image": "https://cdn.findpawpal.com/office/536016.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-for-rabbits-inc-380758",
+      "name": "Second Chance For Rabbits, Inc.",
+      "address": "PO Box 59022, Norwalk, CA 90652",
+      "phone": "562-807-0071",
+      "image": "https://cdn.findpawpal.com/office/380758.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-marin-humane-society-362521",
+      "name": "The Marin Humane Society",
+      "address": "171 Bel Marin Keys Boulevard, Novato, CA 94949",
+      "phone": "415-883-4621",
+      "image": "https://cdn.findpawpal.com/office/362521.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "california-coastal-horse-rescue-364700",
+      "name": "California Coastal Horse Rescue",
+      "address": "PO Box 1646, Oak View, CA 93022",
+      "phone": "805-641-0247",
+      "image": "https://cdn.findpawpal.com/office/364700.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oakdale-animal-control-489418",
+      "name": "Oakdale Animal Control",
+      "address": "9800 Liberini Avenue, Oakdale, CA 95361",
+      "phone": "209-847-5625",
+      "image": "https://cdn.findpawpal.com/office/489418.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "eastern-madera-county-spca-the-cats-meow-391321",
+      "name": "Eastern Madera County SPCA - The Cat's Meow",
+      "address": "PO Box 1314, Oakhurst, CA 93644",
+      "phone": "209-683-1266",
+      "image": "https://cdn.findpawpal.com/office/391321.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "east-bay-animal-referral-365642",
+      "name": "East Bay Animal Referral",
+      "address": "PO Box 13314, Oakland, CA 94661",
+      "phone": "510-841-7297",
+      "image": "https://cdn.findpawpal.com/office/365642.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "home-at-last-animal-rescue-669026",
+      "name": "Home At Last Animal Rescue",
+      "address": "PO Box 11086, Oakland, CA 94611",
+      "phone": "510-501-7021",
+      "image": "https://cdn.findpawpal.com/office/669026.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hopalong-animal-rescue-490443",
+      "name": "Hopalong Animal Rescue",
+      "address": "945 22nd Avenue, Oakland, CA 94606",
+      "phone": "510-267-1915",
+      "image": "https://cdn.findpawpal.com/office/490443.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oakland-animal-control-367936",
+      "name": "Oakland Animal Control",
+      "address": "455 7th Street, Oakland, CA 94607",
+      "phone": "510-535-5602",
+      "image": "https://cdn.findpawpal.com/office/367936.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oakland-animal-services-364507",
+      "name": "Oakland Animal Services",
+      "address": "1101 29th Avenue, Oakland, CA 94601",
+      "phone": "510-535-5602",
+      "image": "https://cdn.findpawpal.com/office/364507.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "throw-me-a-bone-dog-rescue-362389",
+      "name": "Throw Me A Bone Dog Rescue",
+      "address": "2063 Main St PMB 113, Oakley, CA 94561",
+      "phone": "925-308-6221",
+      "image": "https://cdn.findpawpal.com/office/362389.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "san-diego-humane-society-385190",
+      "name": "San Diego Humane Society",
+      "address": "2905 San Luis Rey Road, Oceanside, CA 92058",
+      "phone": "760-757-4357",
+      "image": "https://cdn.findpawpal.com/office/385190.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "yuba-county-animal-control-488629",
+      "name": "Yuba County Animal Control",
+      "address": "5245 Feather River Boulevard, Olivehurst, CA 95961",
+      "phone": "530-741-6478",
+      "image": "https://cdn.findpawpal.com/office/488629.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "west-end-shelter-for-animals-534690",
+      "name": "West End Shelter For Animals",
+      "address": "1010 East Mission Boulevard, Ontario, CA 91761",
+      "phone": "909-947-3517",
+      "image": "https://cdn.findpawpal.com/office/534690.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-orange-countys-homeless-pets-fochp-483763",
+      "name": "Friends Of Orange County's Homeless Pets Fochp",
+      "address": "2582 North River Trail Road, Orange, CA 92865",
+      "phone": "714-280-4993",
+      "image": "https://cdn.findpawpal.com/office/483763.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "moondoggies-rescue-532890",
+      "name": "Moondoggies Rescue",
+      "address": "172882 Wilson, Orange, CA 92647",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/532890.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ocpoundhounds-small-breed-rescue-474744",
+      "name": "Ocpoundhounds Small Breed Rescue",
+      "address": "434 South Tustin Street, Orange, CA 92866",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/474744.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "orange-county-animal-care-services-474800",
+      "name": "Orange County Animal Care Services",
+      "address": "561 The City Drive South, Orange, CA 92868",
+      "phone": "714-935-6943",
+      "image": "https://cdn.findpawpal.com/office/474800.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "noahs-friends-animal-sanctuary-388062",
+      "name": "Noah's Friends Animal Sanctuary",
+      "address": "PO Box 238, Orange Cove, CA 93646",
+      "phone": "559-626-0738",
+      "image": "https://cdn.findpawpal.com/office/388062.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cats-about-town-society-484210",
+      "name": "Cats About Town Society",
+      "address": "PO Box 1224, Orangevale, CA 95662",
+      "phone": "916-484-3700",
+      "image": "https://cdn.findpawpal.com/office/484210.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "central-coast-spca-533641",
+      "name": "Central Coast SPCA",
+      "address": "PO Box 2952, Orcutt, CA 93457",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/533641.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "community-of-compassion-for-animals-383579",
+      "name": "Community of Compassion for Animals",
+      "address": "19100 Newville Road, Orland, CA 95963",
+      "phone": "530-865-4710",
+      "image": "https://cdn.findpawpal.com/office/383579.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "farm-sanctuary-west-coast-363103",
+      "name": "Farm Sanctuary - West Coast",
+      "address": "PO Box 1065, Orland, CA 95963",
+      "phone": "530-865-4617",
+      "image": "https://cdn.findpawpal.com/office/363103.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "town-and-country-humane-society-382593",
+      "name": "Town & Country Humane Society",
+      "address": "4111 County Road 99 West, Orland, CA 95963",
+      "phone": "530-865-3661",
+      "image": "https://cdn.findpawpal.com/office/382593.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "butte-county-animal-control-364380",
+      "name": "Butte County Animal Control",
+      "address": "202 Mira Loma Drive, Oroville, CA 95965",
+      "phone": "530-538-7409",
+      "image": "https://cdn.findpawpal.com/office/364380.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "channel-islands-cavy-rescue-363169",
+      "name": "Channel Islands Cavy Rescue",
+      "address": "157 Hollywood Avenue, Oxnard, CA 93035",
+      "phone": "805-985-9602",
+      "image": "https://cdn.findpawpal.com/office/363169.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "no-more-homeless-animals-486814",
+      "name": "No More Homeless Animals",
+      "address": "3844 West Channel Islands Boulevard, Oxnard, CA 93035",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/486814.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oxnard-animal-control-488671",
+      "name": "Oxnard Animal Control",
+      "address": "251 South C Street, Oxnard, CA 93030",
+      "phone": "805-385-7786",
+      "image": "https://cdn.findpawpal.com/office/488671.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-pride-of-california-384449",
+      "name": "Pet Pride of California",
+      "address": "PO Box 1055, Pacific Palisades, CA 90272",
+      "phone": "310-836-5427",
+      "image": "https://cdn.findpawpal.com/office/384449.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "palm-desert-animal-control-479512",
+      "name": "Palm Desert Animal Control",
+      "address": "73510 Fred Waring Drive, Palm Desert, CA 92260",
+      "phone": "760-346-0611",
+      "image": "https://cdn.findpawpal.com/office/479512.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "palm-springs-animal-shelter-488678",
+      "name": "Palm Springs Animal Shelter",
+      "address": "4575 East Mesquite Avenue, Palm Springs, CA 92264",
+      "phone": "760-416-5719",
+      "image": "https://cdn.findpawpal.com/office/488678.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "california-animal-rescue-and-education-sanctuary-536967",
+      "name": "California Animal Rescue & Education Sanctuary",
+      "address": "PO Box 500128, Palmdale, CA 93550",
+      "phone": "661-264-4400",
+      "image": "https://cdn.findpawpal.com/office/536967.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "corral-of-comfort-horse-rescue-inc-363542",
+      "name": "Corral of Comfort Horse Rescue Inc",
+      "address": "36180 Valley Springs Road, Palmdale, CA 93550",
+      "phone": "626-340-7427",
+      "image": "https://cdn.findpawpal.com/office/363542.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "southern-california-labrador-retriever-rescue-inc-363456",
+      "name": "Southern California Labrador Retriever Rescue, Inc",
+      "address": "4654 East Avenue South, Palmdale, CA 93552",
+      "phone": "888-554-2522",
+      "image": "https://cdn.findpawpal.com/office/363456.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "palo-alto-humane-society-389193",
+      "name": "Palo Alto Humane Society",
+      "address": "PO Box 60715, Palo Alto, CA 94306",
+      "phone": "650-424-1901",
+      "image": "https://cdn.findpawpal.com/office/389193.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "silicon-valley-animal-rescue-382480",
+      "name": "Silicon Valley Animal Rescue",
+      "address": "PO Box 50249, Palo Alto, CA 94303",
+      "phone": "650-529-1390",
+      "image": "https://cdn.findpawpal.com/office/382480.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "another-chance-animal-welfare-490069",
+      "name": "Another Chance Animal Welfare",
+      "address": "9384 Deschutes Road, Palo Cedro, CA 96073",
+      "phone": "530-547-7387",
+      "image": "https://cdn.findpawpal.com/office/490069.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paradise-animal-control-538784",
+      "name": "Paradise Animal Control",
+      "address": "925 American Way, Paradise, CA 95969",
+      "phone": "530-872-6275",
+      "image": "https://cdn.findpawpal.com/office/538784.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cat-house-on-the-kings-390349",
+      "name": "Cat House On the Kings",
+      "address": "7120 South Kings River Road, Parlier, CA 93648",
+      "phone": "559-638-8696",
+      "image": "https://cdn.findpawpal.com/office/390349.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "patterson-animal-control-668739",
+      "name": "Patterson Animal Control",
+      "address": "2631 Olive Avenue, Patterson, CA 95363",
+      "phone": "209-892-3114",
+      "image": "https://cdn.findpawpal.com/office/668739.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "big-dog-rescue-533879",
+      "name": "Big Dog Rescue",
+      "address": "6760 Roberts Ranch Road, Penngrove, CA 94951",
+      "phone": "707-665-0332",
+      "image": "https://cdn.findpawpal.com/office/533879.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cat-adoption-and-trauma-sanctuary-inc-381735",
+      "name": "Cat Adoption & Trauma Sanctuary, Inc.",
+      "address": "1771 Lynn Drive, Penngrove, CA 94951",
+      "phone": "707-792-9848",
+      "image": "https://cdn.findpawpal.com/office/381735.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "perris-animal-control-384723",
+      "name": "Perris Animal Control",
+      "address": "1015 South G Street, Perris, CA 92570",
+      "phone": "951-657-4134",
+      "image": "https://cdn.findpawpal.com/office/384723.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "north-bay-canine-rescue-and-placement-361274",
+      "name": "North Bay Canine Rescue & Placement",
+      "address": "PO Box 4522, Petaluma, CA 94955",
+      "phone": "707-795-7575",
+      "image": "https://cdn.findpawpal.com/office/361274.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "petaluma-animal-shelter-and-adoption-center-533980",
+      "name": "Petaluma Animal Shelter & Adoption Center",
+      "address": "840 Hopper Street, Petaluma, CA 94952",
+      "phone": "707-778-4396",
+      "image": "https://cdn.findpawpal.com/office/533980.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "piedmont-animal-control-367420",
+      "name": "Piedmont Animal Control",
+      "address": "403 Highland Avenue, Piedmont, CA 94611",
+      "phone": "510-420-3006",
+      "image": "https://cdn.findpawpal.com/office/367420.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "contra-costa-county-animal-services-477558",
+      "name": "Contra Costa County Animal Services",
+      "address": "910 San Pablo Avenue, Pinole, CA 94564",
+      "phone": "510-374-3966",
+      "image": "https://cdn.findpawpal.com/office/477558.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "american-brittany-animal-rescue-362842",
+      "name": "American Brittany Animal Rescue",
+      "address": "1688 Springvale Road, Placerville, CA 95667",
+      "phone": "510-582-2714",
+      "image": "https://cdn.findpawpal.com/office/362842.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "safe-passage-362837",
+      "name": "Safe Passage",
+      "address": "2810 Lawyer Drive, Placerville, CA 95667",
+      "phone": "530-344-8049",
+      "image": "https://cdn.findpawpal.com/office/362837.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "california-potbellied-pig-association-rescue-388188",
+      "name": "California Potbellied Pig Association Rescue",
+      "address": "PO Box 23955, Pleasant Hill, CA 94523",
+      "phone": "925-937-9045",
+      "image": "https://cdn.findpawpal.com/office/388188.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "contra-costa-humane-society-383123",
+      "name": "Contra Costa Humane Society",
+      "address": "609 Gregory Lane, Pleasant Hill, CA 94523",
+      "phone": "925-279-2247",
+      "image": "https://cdn.findpawpal.com/office/383123.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tri-valley-animal-rescue-386211",
+      "name": "Tri-Valley Animal Rescue",
+      "address": "PO Box 11143, Pleasanton, CA 94588",
+      "phone": "925-803-7043",
+      "image": "https://cdn.findpawpal.com/office/386211.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "valley-humane-society-386216",
+      "name": "Valley Humane Society",
+      "address": "3670 Nevada Street, Pleasanton, CA 94566",
+      "phone": "925-426-8656",
+      "image": "https://cdn.findpawpal.com/office/386216.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "inland-valley-humane-society-668537",
+      "name": "Inland Valley Humane Society",
+      "address": "500 Humane Way, Pomona, CA 91766",
+      "phone": "909-623-9777",
+      "image": "https://cdn.findpawpal.com/office/668537.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "high-sierra-animal-rescue-363975",
+      "name": "High Sierra Animal Rescue",
+      "address": "103 Meadow Ridge Lane, Portola, CA 96122",
+      "phone": "530-832-4727",
+      "image": "https://cdn.findpawpal.com/office/363975.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "aniwayha-wild-rescue-477403",
+      "name": "Aniwayha Wild Rescue",
+      "address": "41642 47th Street West, Quartz Hill, CA 93536",
+      "phone": "661-414-7504",
+      "image": "https://cdn.findpawpal.com/office/477403.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "plumas-county-animal-shelter-363982",
+      "name": "Plumas County Animal Shelter",
+      "address": "201 North Mill Creek Road, Quincy, CA 95971",
+      "phone": "530-283-3673",
+      "image": "https://cdn.findpawpal.com/office/363982.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ramona-animal-control-391696",
+      "name": "Ramona Animal Control",
+      "address": "17045 El Sol Road, Ramona, CA 92065",
+      "phone": "619-518-8778",
+      "image": "https://cdn.findpawpal.com/office/391696.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rancho-cordova-animal-control-391703",
+      "name": "Rancho Cordova Animal Control",
+      "address": "3121 Gold Canal Drive, Rancho Cordova, CA 95670",
+      "phone": "916-851-8852",
+      "image": "https://cdn.findpawpal.com/office/391703.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rancho-cucamonga-animal-care-and-adoption-center-383039",
+      "name": "Rancho Cucamonga Animal Care & Adoption Center",
+      "address": "11780 Arrow Route, Rancho Cucamonga, CA 91730",
+      "phone": "909-466-7387",
+      "image": "https://cdn.findpawpal.com/office/383039.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rancho-lotsa-cats-feline-rescue-534647",
+      "name": "Rancho Lotsa Cats Feline Rescue",
+      "address": "7615 Leucite Avenue, Rancho Cucamonga, CA 91730",
+      "phone": "714-987-8617",
+      "image": "https://cdn.findpawpal.com/office/534647.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dream-dogs-487459",
+      "name": "Dream Dogs",
+      "address": "26730 Menominee Place, Rancho Palos Verdes, CA 90275",
+      "phone": "424-254-6123",
+      "image": "https://cdn.findpawpal.com/office/487459.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "helen-woodward-animal-center-487919",
+      "name": "Helen Woodward Animal Center",
+      "address": "6461 El Apajo, Rancho Santa Fe, CA 92067",
+      "phone": "858-756-4117",
+      "image": "https://cdn.findpawpal.com/office/487919.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "a-small-world-dog-day-care-383594",
+      "name": "A Small World Dog Day Care",
+      "address": "29821 Aventura, Rancho Santa Margarita, CA 92688",
+      "phone": "949-713-3291",
+      "image": "https://cdn.findpawpal.com/office/383594.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tehama-county-animal-care-center-668125",
+      "name": "Tehama County Animal Care Center",
+      "address": "1830 Walnut Street, Red Bluff, CA 96080",
+      "phone": "530-527-3439",
+      "image": "https://cdn.findpawpal.com/office/668125.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "coventry-companion-bird-survival-center-475581",
+      "name": "Coventry Companion Bird Survival Center",
+      "address": "PO Box 493095, Redding, CA 96049",
+      "phone": "530-275-8188",
+      "image": "https://cdn.findpawpal.com/office/475581.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "redding-animal-control-479645",
+      "name": "Redding Animal Control",
+      "address": "928 Cypress Avenue, Redding, CA 96001",
+      "phone": "530-221-7299",
+      "image": "https://cdn.findpawpal.com/office/479645.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "shasta-county-animal-shelter-384750",
+      "name": "Shasta County Animal Shelter",
+      "address": "2690 Radio Lane, Redding, CA 96001",
+      "phone": "530-245-6065",
+      "image": "https://cdn.findpawpal.com/office/384750.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "californians-for-the-ethical-treatment-of-animals-362154",
+      "name": "Californians for the Ethical Treatment of Animals",
+      "address": "PO Box 7072, Redlands, CA 92375",
+      "phone": "909-794-9347",
+      "image": "https://cdn.findpawpal.com/office/362154.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "redlands-animal-shelter-476140",
+      "name": "Redlands Animal Shelter",
+      "address": "504 Kansas Street, Redlands, CA 92373",
+      "phone": "909-798-7644",
+      "image": "https://cdn.findpawpal.com/office/476140.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "redlands-humane-society-360902",
+      "name": "Redlands Humane Society",
+      "address": "PO Box 1212, Redlands, CA 92373",
+      "phone": "909-792-6199",
+      "image": "https://cdn.findpawpal.com/office/360902.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-america-animal-foundation-390836",
+      "name": "Humane America Animal Foundation",
+      "address": "PO Box 7, Redondo Beach, CA 90277",
+      "phone": "800-728-3273",
+      "image": "https://cdn.findpawpal.com/office/390836.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "redondo-beach-animal-control-384784",
+      "name": "Redondo Beach Animal Control",
+      "address": "415 Diamond Street, Redondo Beach, CA 90277",
+      "phone": "310-318-0611",
+      "image": "https://cdn.findpawpal.com/office/384784.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "afghan-hound-rescue-of-california-382658",
+      "name": "Afghan Hound Rescue of California",
+      "address": "PO Box 3508, Redwood, CA 94064",
+      "phone": "650-678-9984",
+      "image": "https://cdn.findpawpal.com/office/382658.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pets-in-need-362006",
+      "name": "Pets In Need",
+      "address": "873 Fifth Avenue, Redwood, CA 94063",
+      "phone": "650-367-1405",
+      "image": "https://cdn.findpawpal.com/office/362006.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "redwood-city-animal-shelter-384793",
+      "name": "Redwood City Animal Shelter",
+      "address": "520 Woodside Road, Redwood, CA 94061",
+      "phone": "888-538-9402",
+      "image": "https://cdn.findpawpal.com/office/384793.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-for-inland-668316",
+      "name": "Humane Society For Inland",
+      "address": "9700 Uva Drive, Redwood Valley, CA 95470",
+      "phone": "707-485-0123",
+      "image": "https://cdn.findpawpal.com/office/668316.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rialto-animal-control-391747",
+      "name": "Rialto Animal Control",
+      "address": "246 South Willow Avenue, Rialto, CA 92376",
+      "phone": "909-820-2550",
+      "image": "https://cdn.findpawpal.com/office/391747.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "house-rabbit-society-san-francisco-peninsula-richmond-668408",
+      "name": "House Rabbit Society - San Francisco Peninsula Richmond",
+      "address": "148 Broadway, Richmond, CA 94804",
+      "phone": "650-994-1012",
+      "image": "https://cdn.findpawpal.com/office/668408.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ridgecrest-animal-shelter-388161",
+      "name": "Ridgecrest Animal Shelter",
+      "address": "411 San Bernardino Boulevard, Ridgecrest, CA 93555",
+      "phone": "760-375-8157",
+      "image": "https://cdn.findpawpal.com/office/388161.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animalsavers-485833",
+      "name": "Animalsavers",
+      "address": "5822 20th Street, Rio Linda, CA 95673",
+      "phone": "916-992-9970",
+      "image": "https://cdn.findpawpal.com/office/485833.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ripon-animal-shelter-384808",
+      "name": "Ripon Animal Shelter",
+      "address": "444 Doak Boulevard, Ripon, CA 95366",
+      "phone": "209-599-3146",
+      "image": "https://cdn.findpawpal.com/office/384808.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cat-lady-668584",
+      "name": "Cat Lady",
+      "address": "8354 63rd Street, Riverside, CA 92509",
+      "phone": "909-681-9609",
+      "image": "https://cdn.findpawpal.com/office/668584.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "riverside-county-animal-control-668761",
+      "name": "Riverside County Animal Control",
+      "address": "5950 Wilderness Avenue, Riverside, CA 92504",
+      "phone": "951-358-7387",
+      "image": "https://cdn.findpawpal.com/office/668761.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "riverside-humane-society-pet-adoption-center-382920",
+      "name": "Riverside Humane Society Pet Adoption Center",
+      "address": "5791 Fremont Street, Riverside, CA 92504",
+      "phone": "909-688-4340",
+      "image": "https://cdn.findpawpal.com/office/382920.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sunny-oasis-dachshund-rescue-and-friends-477251",
+      "name": "Sunny Oasis Dachshund Rescue & Friends",
+      "address": "9500 Arlington Avenue, Riverside, CA 92503",
+      "phone": "951-233-2413",
+      "image": "https://cdn.findpawpal.com/office/477251.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "top-gun-performance-k9-rescue-536020",
+      "name": "Top Gun Performance K9 Rescue",
+      "address": "16485 Pick Place, Riverside, CA 92504",
+      "phone": "951-288-7877",
+      "image": "https://cdn.findpawpal.com/office/536020.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rocklin-animal-shelter-538973",
+      "name": "Rocklin Animal Shelter",
+      "address": "4357 Pacific Street, Rocklin, CA 95677",
+      "phone": "916-367-7848",
+      "image": "https://cdn.findpawpal.com/office/538973.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rohnert-park-animal-shelter-364585",
+      "name": "Rohnert Park Animal Shelter",
+      "address": "301 J Rogers Lane, Rohnert Park, CA 94928",
+      "phone": "707-584-1582",
+      "image": "https://cdn.findpawpal.com/office/364585.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "col-potter-cairn-rescue-network-360840",
+      "name": "Col. Potter Cairn Rescue Network",
+      "address": "PO Box 1354, Romoland, CA 92585",
+      "phone": "772-528-5518",
+      "image": "https://cdn.findpawpal.com/office/360840.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "placer-spca-361365",
+      "name": "Placer SPCA",
+      "address": "150 Corporation Yard Road, Roseville, CA 95678",
+      "phone": "916-782-7722",
+      "image": "https://cdn.findpawpal.com/office/361365.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "roseville-city-animal-control-363573",
+      "name": "Roseville City Animal Control",
+      "address": "1051 Junction Boulevard, Roseville, CA 95678",
+      "phone": "916-774-5090",
+      "image": "https://cdn.findpawpal.com/office/363573.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-sacramento-animal-care-services-668265",
+      "name": "City of Sacramento Animal Care Services",
+      "address": "2127 Front Street, Sacramento, CA 95818",
+      "phone": "916-808-7387",
+      "image": "https://cdn.findpawpal.com/office/668265.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-for-life-484223",
+      "name": "Friends for Life",
+      "address": "PO Box 60082, Sacramento, CA 95860",
+      "phone": "916-551-3881",
+      "image": "https://cdn.findpawpal.com/office/484223.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "happy-tails-pet-sanctuary-384945",
+      "name": "Happy Tails Pet Sanctuary",
+      "address": "6001 Folsom Boulevard, Sacramento, CA 95819",
+      "phone": "916-556-1155",
+      "image": "https://cdn.findpawpal.com/office/384945.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "never-cry-wolf-rescue-and-adoptions-668573",
+      "name": "Never Cry Wolf Rescue & Adoptions",
+      "address": "7501 Pixcroft Court, Sacramento, CA 95842",
+      "phone": "916-334-9653",
+      "image": "https://cdn.findpawpal.com/office/668573.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rescuing-animals-in-need-inc-537524",
+      "name": "Rescuing Animals in Need, Inc.",
+      "address": "PO Box 189394, Sacramento, CA 95818",
+      "phone": "916-492-7977",
+      "image": "https://cdn.findpawpal.com/office/537524.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "monterey-county-animal-control-391771",
+      "name": "Monterey County Animal Control",
+      "address": "700 Old Stage Road, Salinas, CA 93908",
+      "phone": "831-769-8866",
+      "image": "https://cdn.findpawpal.com/office/391771.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "salinas-animal-shelter-391776",
+      "name": "Salinas Animal Shelter",
+      "address": "144 Hitchcock Road, Salinas, CA 93908",
+      "phone": "831-758-7285",
+      "image": "https://cdn.findpawpal.com/office/391776.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-spca-for-monterey-county-361426",
+      "name": "The SPCA for Monterey County",
+      "address": "1002 Highway 68, Salinas, CA 93908",
+      "phone": "831-373-2631",
+      "image": "https://cdn.findpawpal.com/office/361426.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "calaveras-county-animal-control-363598",
+      "name": "Calaveras County Animal Control",
+      "address": "891 Mountain Ranch Road, San Andreas, CA 95249",
+      "phone": "209-754-6509",
+      "image": "https://cdn.findpawpal.com/office/363598.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-calaveras-county-361804",
+      "name": "Humane Society of Calaveras County",
+      "address": "PO Box 2065, San Andreas, CA 95249",
+      "phone": "209-795-3659",
+      "image": "https://cdn.findpawpal.com/office/361804.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "san-bernardino-animal-control-534605",
+      "name": "San Bernardino Animal Control",
+      "address": "333 Chandler Place, San Bernardino, CA 92408",
+      "phone": "909-384-1304",
+      "image": "https://cdn.findpawpal.com/office/534605.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "homeless-cat-network-361068",
+      "name": "Homeless Cat Network",
+      "address": "PO Box 6, San Carlos, CA 94070",
+      "phone": "650-286-9013",
+      "image": "https://cdn.findpawpal.com/office/361068.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "san-clemente-dana-point-animal-shelter-474646",
+      "name": "San Clemente-Dana Point Animal Shelter",
+      "address": "221 Avenida Fabricante, San Clemente, CA 92672",
+      "phone": "949-492-1617",
+      "image": "https://cdn.findpawpal.com/office/474646.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "almanor-humane-society-361922",
+      "name": "Almanor Humane Society",
+      "address": "11138 Melton Court, San Diego, CA 92131",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/361922.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-protection-and-rescue-league-365356",
+      "name": "Animal Protection and Rescue League",
+      "address": "3707 5th Avenue, San Diego, CA 92103",
+      "phone": "619-269-6393",
+      "image": "https://cdn.findpawpal.com/office/365356.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "association-of-avian-rescue-organizations-365364",
+      "name": "Association of Avian Rescue Organizations",
+      "address": "5645 Dartford Way, San Diego, CA 92120",
+      "phone": "619-232-0707",
+      "image": "https://cdn.findpawpal.com/office/365364.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "baja-animal-sanctuary-533228",
+      "name": "Baja Animal Sanctuary",
+      "address": "PO Box 439060, San Diego, CA 92143",
+      "phone": "619-948-3199",
+      "image": "https://cdn.findpawpal.com/office/533228.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "central-animal-shelter-478642",
+      "name": "Central Animal Shelter",
+      "address": "1104 Azusa Street, San Diego, CA 92110",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/478642.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chihuahua-rescue-of-san-diego-383935",
+      "name": "Chihuahua Rescue of San Diego",
+      "address": "3711 Mount Abbey Avenue, San Diego, CA 92111",
+      "phone": "858-277-3557",
+      "image": "https://cdn.findpawpal.com/office/383935.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-humane-society-de-tijuana-385071",
+      "name": "Friends Of Humane Society De Tijuana",
+      "address": "641 East San Ysidro Boulevard, San Diego, CA 92173",
+      "phone": "619-300-3484",
+      "image": "https://cdn.findpawpal.com/office/385071.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-animals-391149",
+      "name": "Friends of Animals",
+      "address": "13223 Black Mountain Road, San Diego, CA 92129",
+      "phone": "858-673-3894",
+      "image": "https://cdn.findpawpal.com/office/391149.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jolenes-horse-rescue-363878",
+      "name": "Jolene's Horse Rescue",
+      "address": "10715 Wexford Street, San Diego, CA 92131",
+      "phone": "619-693-8272",
+      "image": "https://cdn.findpawpal.com/office/363878.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "san-diego-county-animal-services-department-385171",
+      "name": "San Diego County Animal Services Department",
+      "address": "5480 Gaines Street, San Diego, CA 92110",
+      "phone": "619-767-2675",
+      "image": "https://cdn.findpawpal.com/office/385171.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "san-diego-german-shepherd-rescue-385186",
+      "name": "San Diego German Shepherd Rescue",
+      "address": "6161 El Cajon Boulevard, San Diego, CA 92115",
+      "phone": "858-576-1016",
+      "image": "https://cdn.findpawpal.com/office/385186.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "san-diego-humane-society-and-spca-537946",
+      "name": "San Diego Humane Society and SPCA",
+      "address": "5500 Gaines Street, San Diego, CA 92110",
+      "phone": "619-299-7012",
+      "image": "https://cdn.findpawpal.com/office/537946.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bad-rap-668016",
+      "name": "Bad Rap",
+      "address": "PO Box 320776, San Francisco, CA 94132",
+      "phone": "510-869-5919",
+      "image": "https://cdn.findpawpal.com/office/668016.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-san-francisco-animal-care-and-control-381410",
+      "name": "Friends of San Francisco Animal Care and Control",
+      "address": "PO Box 2443, San Francisco, CA 94126",
+      "phone": "415-591-3004",
+      "image": "https://cdn.findpawpal.com/office/381410.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "international-fund-for-companion-animals-668020",
+      "name": "International Fund for Companion Animals",
+      "address": "608 20th Avenue, San Francisco, CA 94121",
+      "phone": "415-931-6087",
+      "image": "https://cdn.findpawpal.com/office/668020.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pets-unlimited-364218",
+      "name": "Pets Unlimited",
+      "address": "2343 Fillmore Street, San Francisco, CA 94115",
+      "phone": "415-563-6700",
+      "image": "https://cdn.findpawpal.com/office/364218.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "san-francisco-animal-control-385963",
+      "name": "San Francisco Animal Control",
+      "address": "1200 15th Street, San Francisco, CA 94103",
+      "phone": "415-946-7433",
+      "image": "https://cdn.findpawpal.com/office/385963.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "san-francisco-spca-361619",
+      "name": "San Francisco SPCA",
+      "address": "2500 16th Street, San Francisco, CA 94103",
+      "phone": "415-554-3000",
+      "image": "https://cdn.findpawpal.com/office/361619.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "stola-saluki-rescue-389030",
+      "name": "Stola Saluki Rescue",
+      "address": "3701 Sacramento Street, San Francisco, CA 94118",
+      "phone": "415-387-7613",
+      "image": "https://cdn.findpawpal.com/office/389030.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "azusa-city-animal-control-385957",
+      "name": "Azusa City Animal Control",
+      "address": "851 East Grand Avenue, San Gabriel, CA 91776",
+      "phone": "626-443-1861",
+      "image": "https://cdn.findpawpal.com/office/385957.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "san-gabriel-valley-humane-society-390712",
+      "name": "San Gabriel Valley Humane Society",
+      "address": "851 East Grand Avenue, San Gabriel, CA 91776",
+      "phone": "626-286-1159",
+      "image": "https://cdn.findpawpal.com/office/390712.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ramona-animal-control-539073",
+      "name": "Ramona Animal Control",
+      "address": "438 South State Street, San Jacinto, CA 92583",
+      "phone": "951-487-6565",
+      "image": "https://cdn.findpawpal.com/office/539073.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ramona-animal-shelter-inc-477244",
+      "name": "Ramona Animal Shelter Inc",
+      "address": "690 Humane Way, San Jacinto, CA 92582",
+      "phone": "951-654-8002",
+      "image": "https://cdn.findpawpal.com/office/477244.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bay-area-boxer-rescue-361160",
+      "name": "Bay Area Boxer Rescue",
+      "address": "PO Box 32686, San Jose, CA 95152",
+      "phone": "408-787-0700",
+      "image": "https://cdn.findpawpal.com/office/361160.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mickaboo-companion-bird-rescue-389186",
+      "name": "Mickaboo Companion Bird Rescue",
+      "address": "PO Box 697, San Jose, CA 95106",
+      "phone": "650-301-6521",
+      "image": "https://cdn.findpawpal.com/office/389186.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "san-jose-animal-control-384920",
+      "name": "San Jose Animal Control",
+      "address": "6095 Springer Way, San Jose, CA 95123",
+      "phone": "408-227-2273",
+      "image": "https://cdn.findpawpal.com/office/384920.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-animal-rescue-389474",
+      "name": "Second Chance Animal Rescue",
+      "address": "PO Box 339, San Juan Bautista, CA 95045",
+      "phone": "831-623-2337",
+      "image": "https://cdn.findpawpal.com/office/389474.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "capistrano-animal-rescue-effrt-483718",
+      "name": "Capistrano Animal Rescue Effrt",
+      "address": "32240 Paseo Adelanto, San Juan Capistrano, CA 92675",
+      "phone": "949-240-1735",
+      "image": "https://cdn.findpawpal.com/office/483718.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-the-fairmont-animal-shelter-481246",
+      "name": "Friends of the Fairmont Animal Shelter",
+      "address": "2700 Fairmont Dr, San Leandro, CA 94578",
+      "phone": "510-667-7707",
+      "image": "https://cdn.findpawpal.com/office/481246.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "virtual-pet-adoptions-669041",
+      "name": "Virtual Pet Adoptions",
+      "address": "2131 Williams Street, San Leandro, CA 94577",
+      "phone": "510-346-7777",
+      "image": "https://cdn.findpawpal.com/office/669041.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "feline-network-of-the-central-coast-390969",
+      "name": "Feline Network of the Central Coast",
+      "address": "PO Box 526, San Luis Obispo, CA 93406",
+      "phone": "805-545-9385",
+      "image": "https://cdn.findpawpal.com/office/390969.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "san-luis-obispo-county-animal-control-488973",
+      "name": "San Luis Obispo County Animal Control",
+      "address": "885 Oklahoma Avenue, San Luis Obispo, CA 93405",
+      "phone": "805-781-4400",
+      "image": "https://cdn.findpawpal.com/office/488973.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "san-luis-obispo-county-animals-requesting-friends-361044",
+      "name": "San Luis Obispo County Animals Requesting Friends",
+      "address": "PO Box 3760, San Luis Obispo, CA 93403",
+      "phone": "805-781-4413",
+      "image": "https://cdn.findpawpal.com/office/361044.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "woods-humane-society-361060",
+      "name": "Woods Humane Society",
+      "address": "875 Oklahoma Avenue, San Luis Obispo, CA 93405",
+      "phone": "805-543-9316",
+      "image": "https://cdn.findpawpal.com/office/361060.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-the-san-martin-animal-shelter-486635",
+      "name": "Friends of the San Martin Animal Shelter",
+      "address": "PO Box 526, San Martin, CA 95046",
+      "phone": "408-683-4186",
+      "image": "https://cdn.findpawpal.com/office/486635.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "santa-clara-county-animal-shelter-391002",
+      "name": "Santa Clara County Animal Shelter",
+      "address": "12370 Murphy Avenue, San Martin, CA 95046",
+      "phone": "408-686-3900",
+      "image": "https://cdn.findpawpal.com/office/391002.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "st-francis-of-assisi-391007",
+      "name": "St. Francis of Assisi",
+      "address": "12000 Murphy Avenue, San Martin, CA 95046",
+      "phone": "408-778-1095",
+      "image": "https://cdn.findpawpal.com/office/391007.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cavy-spirit-486082",
+      "name": "Cavy Spirit",
+      "address": "1043 Annapolis Drive, San Mateo, CA 94403",
+      "phone": "650-571-1722",
+      "image": "https://cdn.findpawpal.com/office/486082.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "san-mateo-county-animal-control-391831",
+      "name": "San Mateo County Animal Control",
+      "address": "225 37th Avenue, San Mateo, CA 94403",
+      "phone": "650-573-3940",
+      "image": "https://cdn.findpawpal.com/office/391831.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "san-pablo-animal-control-384934",
+      "name": "San Pablo Animal Control",
+      "address": "2905 San Pablo Dam Road, San Pablo, CA 94803",
+      "phone": "510-230-3758",
+      "image": "https://cdn.findpawpal.com/office/384934.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "all-creatures-animal-caring-society-535131",
+      "name": "All Creatures - Animal Caring Society",
+      "address": "PO Box 3664, San Rafael, CA 94912",
+      "phone": "415-456-1941",
+      "image": "https://cdn.findpawpal.com/office/535131.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-farming-association-360476",
+      "name": "Humane Farming Association",
+      "address": "PO Box 3577, San Rafael, CA 94912",
+      "phone": "415-485-1495",
+      "image": "https://cdn.findpawpal.com/office/360476.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-rescue-667862",
+      "name": "Second Chance Rescue",
+      "address": "PO Box 2958, San Rafael, CA 94912",
+      "phone": "415-721-1721",
+      "image": "https://cdn.findpawpal.com/office/667862.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "shelter-animal-reiki-association-364291",
+      "name": "Shelter Animal Reiki Association",
+      "address": "369 3rd Street, San Rafael, CA 94901",
+      "phone": "415-420-9783",
+      "image": "https://cdn.findpawpal.com/office/364291.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "grand-pet-care-center-532694",
+      "name": "Grand Pet Care Center",
+      "address": "1602 North Grand Avenue, Santa Ana, CA 92701",
+      "phone": "714-558-7622",
+      "image": "https://cdn.findpawpal.com/office/532694.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "orange-county-animal-shelter-667941",
+      "name": "Orange County Animal Shelter",
+      "address": "PO Box 355, Santa Ana, CA 92702",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/667941.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-adoption-solutions-362417",
+      "name": "Animal Adoption Solutions",
+      "address": "2026 Cliff Drive, Santa Barbara, CA 93109",
+      "phone": "805-426-9738",
+      "image": "https://cdn.findpawpal.com/office/362417.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-shelter-assistance-program-asap-365146",
+      "name": "Animal Shelter Assistance Program (ASAP)",
+      "address": "5473 Overpass Road, Santa Barbara, CA 93111",
+      "phone": "805-683-3368",
+      "image": "https://cdn.findpawpal.com/office/365146.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "santa-barbara-chihuahua-rescue-668053",
+      "name": "Santa Barbara Chihuahua Rescue",
+      "address": "PO Box 3474, Santa Barbara, CA 93130",
+      "phone": "805-563-1385",
+      "image": "https://cdn.findpawpal.com/office/668053.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "santa-barbara-city-animal-control-668790",
+      "name": "Santa Barbara City Animal Control",
+      "address": "415 East Sola Street, Santa Barbara, CA 93101",
+      "phone": "805-963-1514",
+      "image": "https://cdn.findpawpal.com/office/668790.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "santa-barbara-county-animal-shelter-668056",
+      "name": "Santa Barbara County Animal Shelter",
+      "address": "5473 Overpass Road, Santa Barbara, CA 93111",
+      "phone": "805-681-5285",
+      "image": "https://cdn.findpawpal.com/office/668056.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "santa-barbara-humane-society-381573",
+      "name": "Santa Barbara Humane Society",
+      "address": "5399 Overpass Road, Santa Barbara, CA 93111",
+      "phone": "805-964-4777",
+      "image": "https://cdn.findpawpal.com/office/381573.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-cocker-rescue-475441",
+      "name": "Second Chance Cocker Rescue",
+      "address": "1168 Palomino Road, Santa Barbara, CA 93105",
+      "phone": "805-687-4674",
+      "image": "https://cdn.findpawpal.com/office/475441.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-silicon-valley-384094",
+      "name": "Humane Society of Silicon Valley",
+      "address": "2530 Lafayette Street, Santa Clara, CA 95050",
+      "phone": "408-727-3383",
+      "image": "https://cdn.findpawpal.com/office/384094.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "k-9-haven-364422",
+      "name": "K-9 Haven",
+      "address": "PO Box 1077, Santa Clara, CA 95052",
+      "phone": "408-371-2662",
+      "image": "https://cdn.findpawpal.com/office/364422.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "silicon-valley-animal-control-668788",
+      "name": "Silicon Valley Animal Control",
+      "address": "3370 Thomas Road, Santa Clara, CA 95054",
+      "phone": "408-764-0344",
+      "image": "https://cdn.findpawpal.com/office/668788.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "citizens-for-sheltered-animals-383543",
+      "name": "Citizens For Sheltered Animals",
+      "address": "21150 Alaminos Drive, Santa Clarita, CA 91350",
+      "phone": "661-513-9288",
+      "image": "https://cdn.findpawpal.com/office/383543.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "house-rabbit-society-los-angeles-chapter-478335",
+      "name": "House Rabbit Society - Los Angeles Chapter",
+      "address": "28005 Smyth Drive, Santa Clarita, CA 91355",
+      "phone": "310-447-0593",
+      "image": "https://cdn.findpawpal.com/office/478335.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ourfriends4ever-com-inc-383308",
+      "name": "Ourfriends4ever.Com, Inc.",
+      "address": "23935 Fambrough Street, Santa Clarita, CA 91321",
+      "phone": "877-300-8416",
+      "image": "https://cdn.findpawpal.com/office/383308.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "project-purrs-rescued-treasures-668082",
+      "name": "Project Purr's Rescued Treasures",
+      "address": "325 Front Street, Santa Cruz, CA 95060",
+      "phone": "831-423-6369",
+      "image": "https://cdn.findpawpal.com/office/668082.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "santa-cruz-animal-shelter-668792",
+      "name": "Santa Cruz Animal Shelter",
+      "address": "2200 7th Avenue, Santa Cruz, CA 95062",
+      "phone": "831-454-7303",
+      "image": "https://cdn.findpawpal.com/office/668792.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "santa-cruz-spca-383762",
+      "name": "Santa Cruz SPCA",
+      "address": "2685 Chanticleer Avenue, Santa Cruz, CA 95065",
+      "phone": "831-465-5000",
+      "image": "https://cdn.findpawpal.com/office/383762.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "santa-maria-animal-control-367662",
+      "name": "Santa Maria Animal Control",
+      "address": "548 West Foster Road, Santa Maria, CA 93455",
+      "phone": "805-934-6981",
+      "image": "https://cdn.findpawpal.com/office/367662.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "santa-maria-valley-humane-society-361687",
+      "name": "Santa Maria Valley Humane Society",
+      "address": "1687 West Stowell Road, Santa Maria, CA 93458",
+      "phone": "805-349-3435",
+      "image": "https://cdn.findpawpal.com/office/361687.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-animal-farm-361693",
+      "name": "The Animal Farm",
+      "address": "3401 Tepusquet Road, Santa Maria, CA 93454",
+      "phone": "805-938-0174",
+      "image": "https://cdn.findpawpal.com/office/361693.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "good-dog-animal-rescue-362767",
+      "name": "Good Dog Animal Rescue",
+      "address": "1158 26th Street, Santa Monica, CA 90403",
+      "phone": "310-403-9301",
+      "image": "https://cdn.findpawpal.com/office/362767.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "guinea-pig-rescue-390949",
+      "name": "Guinea Pig Rescue",
+      "address": "1836 10th Street, Santa Monica, CA 90404",
+      "phone": "310-392-5588",
+      "image": "https://cdn.findpawpal.com/office/390949.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-orphans-fund-668474",
+      "name": "Pet Orphans Fund",
+      "address": "2118 Wilshire Boulevard, Santa Monica, CA 90403",
+      "phone": "818-901-0910",
+      "image": "https://cdn.findpawpal.com/office/668474.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "santa-monica-animal-shelter-487176",
+      "name": "Santa Monica Animal Shelter",
+      "address": "1640 9th Street, Santa Monica, CA 90404",
+      "phone": "310-458-8594",
+      "image": "https://cdn.findpawpal.com/office/487176.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "santa-paula-animal-control-391880",
+      "name": "Santa Paula Animal Control",
+      "address": "214 South 10th Street, Santa Paula, CA 93060",
+      "phone": "805-933-4230",
+      "image": "https://cdn.findpawpal.com/office/391880.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bird-rescue-center-484818",
+      "name": "Bird Rescue Center",
+      "address": "3430 Chanate Road, Santa Rosa, CA 95404",
+      "phone": "707-523-2473",
+      "image": "https://cdn.findpawpal.com/office/484818.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "california-animal-rescue-389343",
+      "name": "California Animal Rescue",
+      "address": "1128 Tapadera Drive, Santa Rosa, CA 95407",
+      "phone": "707-293-4470",
+      "image": "https://cdn.findpawpal.com/office/389343.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "forgotten-felines-of-sonoma-county-381756",
+      "name": "Forgotten Felines of Sonoma County",
+      "address": "1814 Empire Industrial Court, Santa Rosa, CA 95403",
+      "phone": "707-576-7999",
+      "image": "https://cdn.findpawpal.com/office/381756.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sonoma-county-animal-shelter-364591",
+      "name": "Sonoma County Animal Shelter",
+      "address": "1247 Century Court, Santa Rosa, CA 95403",
+      "phone": "707-565-7100",
+      "image": "https://cdn.findpawpal.com/office/364591.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sonoma-humane-society-484869",
+      "name": "Sonoma Humane Society",
+      "address": "5345 Highway 12, Santa Rosa, CA 95401",
+      "phone": "707-542-0882",
+      "image": "https://cdn.findpawpal.com/office/484869.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-connection-referral-service-383283",
+      "name": "Animal Connection Referral Service",
+      "address": "PO Box 1642, Santa Ynez, CA 93460",
+      "phone": "805-688-9995",
+      "image": "https://cdn.findpawpal.com/office/383283.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-network-382471",
+      "name": "Pet Network",
+      "address": "PO Box 3253, Saratoga, CA 95070",
+      "phone": "408-450-2452",
+      "image": "https://cdn.findpawpal.com/office/382471.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "seal-beach-animal-care-center-361235",
+      "name": "Seal Beach Animal Care Center",
+      "address": "1700 Adolfo Lopez Drive, Seal Beach, CA 90740",
+      "phone": "562-430-4993",
+      "image": "https://cdn.findpawpal.com/office/361235.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sebastopol-animal-control-668667",
+      "name": "Sebastopol Animal Control",
+      "address": "6850 Laguna Parkway, Sebastopol, CA 95472",
+      "phone": "707-829-4400",
+      "image": "https://cdn.findpawpal.com/office/668667.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "selma-animal-shelter-366966",
+      "name": "Selma Animal Shelter",
+      "address": "16097 South McCall Avenue, Selma, CA 93662",
+      "phone": "559-891-7387",
+      "image": "https://cdn.findpawpal.com/office/366966.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "shafter-animal-control-384356",
+      "name": "Shafter Animal Control",
+      "address": "18849 Shafter Avenue, Shafter, CA 93263",
+      "phone": "661-746-2140",
+      "image": "https://cdn.findpawpal.com/office/384356.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "shasta-lake-city-animal-control-668672",
+      "name": "Shasta Lake City Animal Control",
+      "address": "3025 Ashby Road, Shasta Lake, CA 96019",
+      "phone": "530-275-7480",
+      "image": "https://cdn.findpawpal.com/office/668672.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "adopt-a-pet-inc-381894",
+      "name": "Adopt A Pet Inc.",
+      "address": "PO Box 940245, Simi Valley, CA 93094",
+      "phone": "805-527-8238",
+      "image": "https://cdn.findpawpal.com/office/381894.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-volunteers-365812",
+      "name": "Animal Rescue Volunteers",
+      "address": "1464 Madera Road, Simi Valley, CA 93065",
+      "phone": "805-579-8047",
+      "image": "https://cdn.findpawpal.com/office/365812.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-stop-rescue-534272",
+      "name": "Pet Stop Rescue",
+      "address": "PO Box 940463, Simi Valley, CA 93094",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/534272.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tiny-loving-canines-inc-390525",
+      "name": "Tiny Loving Canines, Inc",
+      "address": "2828 Cochran Street, Simi Valley, CA 93065",
+      "phone": "805-405-2765",
+      "image": "https://cdn.findpawpal.com/office/390525.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ventura-county-animal-shelter-538282",
+      "name": "Ventura County Animal Shelter",
+      "address": "670 West Los Angeles Avenue, Simi Valley, CA 93065",
+      "phone": "805-388-4341",
+      "image": "https://cdn.findpawpal.com/office/538282.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lil-orphan-hammies-668051",
+      "name": "Lil Orphan Hammies",
+      "address": "PO Box 924, Solvang, CA 93464",
+      "phone": "805-693-9953",
+      "image": "https://cdn.findpawpal.com/office/668051.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "abandoned-terrier-rescue-association-361363",
+      "name": "Abandoned Terrier Rescue Association",
+      "address": "PO Box 824, Somis, CA 93066",
+      "phone": "805-386-3757",
+      "image": "https://cdn.findpawpal.com/office/361363.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cattrap-inc-668115",
+      "name": "Cattrap, Inc.",
+      "address": "501 Cavedale Road, Sonoma, CA 95476",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/668115.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pets-lifeline-animal-shelter-364579",
+      "name": "Pets Lifeline Animal Shelter",
+      "address": "19686 8th Street East, Sonoma, CA 95476",
+      "phone": "707-996-4577",
+      "image": "https://cdn.findpawpal.com/office/364579.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "watsonville-animal-shelter-363259",
+      "name": "Watsonville Animal Shelter",
+      "address": "5353 Aberdeen Court, Soquel, CA 95073",
+      "phone": "831-475-2432",
+      "image": "https://cdn.findpawpal.com/office/363259.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "el-dorado-county-animal-control-385475",
+      "name": "El Dorado County Animal Control",
+      "address": "1121 Shakori Drive, South Lake Tahoe, CA 96150",
+      "phone": "530-573-7925",
+      "image": "https://cdn.findpawpal.com/office/385475.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "foundation-for-care-of-indigent-animals-537708",
+      "name": "Foundation for Care of Indigent Animals",
+      "address": "PO Box 2574, Spring Valley, CA 91979",
+      "phone": "619-466-9137",
+      "image": "https://cdn.findpawpal.com/office/537708.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "house-rabbit-society-san-diego-chapter-366778",
+      "name": "House Rabbit Society - San Diego Chapter",
+      "address": "PO Box 2628, Spring Valley, CA 91979",
+      "phone": "619-718-7777",
+      "image": "https://cdn.findpawpal.com/office/366778.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tzolkin-mudi-366961",
+      "name": "Tzolkin Mudi",
+      "address": "37678 Cardinal Lane, Squaw Valley, CA 93675",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/366961.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "we-care-animal-society-477051",
+      "name": "We Care Animal Society",
+      "address": "1345 Charter Oak Avenue, St. Helena, CA 94574",
+      "phone": "707-944-0926",
+      "image": "https://cdn.findpawpal.com/office/477051.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hooves-and-angels-inc-667758",
+      "name": "Hooves and Angels, Inc.",
+      "address": "PO Box 137, Standish, CA 96128",
+      "phone": "530-254-6631",
+      "image": "https://cdn.findpawpal.com/office/667758.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "central-california-labrador-retriever-rescue-485577",
+      "name": "Central California Labrador Retriever Rescue",
+      "address": "6642 Cumberland Place, Stockton, CA 95219",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/485577.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "delta-humane-society-383275",
+      "name": "Delta Humane Society",
+      "address": "4590 Highway 99, Stockton, CA 95215",
+      "phone": "209-466-0339",
+      "image": "https://cdn.findpawpal.com/office/383275.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "san-joaquin-county-animal-control-385487",
+      "name": "San Joaquin County Animal Control",
+      "address": "2101 East Earhart Avenue, Stockton, CA 95206",
+      "phone": "209-953-6070",
+      "image": "https://cdn.findpawpal.com/office/385487.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "stockton-animal-shelter-364185",
+      "name": "Stockton Animal Shelter",
+      "address": "7475 Murray Drive, Stockton, CA 95210",
+      "phone": "209-956-3647",
+      "image": "https://cdn.findpawpal.com/office/364185.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "stockton-city-animal-shelter-383247",
+      "name": "Stockton City Animal Shelter",
+      "address": "1575 South Lincoln Street, Stockton, CA 95206",
+      "phone": "209-944-8274",
+      "image": "https://cdn.findpawpal.com/office/383247.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "suisun-animal-control-668684",
+      "name": "Suisun Animal Control",
+      "address": "239 Travis Court, Suisun, CA 94585",
+      "phone": "707-425-8560",
+      "image": "https://cdn.findpawpal.com/office/668684.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sunnyvale-animal-control-488373",
+      "name": "Sunnyvale Animal Control",
+      "address": "700 All America Way, Sunnyvale, CA 94086",
+      "phone": "408-730-7178",
+      "image": "https://cdn.findpawpal.com/office/488373.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lassen-county-animal-shelter-381202",
+      "name": "Lassen County Animal Shelter",
+      "address": "707 Nevada Street, Susanville, CA 96130",
+      "phone": "530-257-9200",
+      "image": "https://cdn.findpawpal.com/office/381202.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lassen-humane-society-363284",
+      "name": "Lassen Humane Society",
+      "address": "PO Box 1575, Susanville, CA 96130",
+      "phone": "530-257-4555",
+      "image": "https://cdn.findpawpal.com/office/363284.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "amador-county-animal-control-668886",
+      "name": "Amador County Animal Control",
+      "address": "12200 Airport Road, Sutter Creek, CA 95685",
+      "phone": "209-223-6378",
+      "image": "https://cdn.findpawpal.com/office/668886.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "saffyre-sanctuary-inc-474230",
+      "name": "Saffyre Sanctuary, Inc.",
+      "address": "PO Box 921708, Sylmar, CA 91392",
+      "phone": "818-842-4368",
+      "image": "https://cdn.findpawpal.com/office/474230.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "old-english-sheepdog-rescue-388152",
+      "name": "Old English Sheepdog Rescue",
+      "address": "24521 Deertrail Drive, Tehachapi, CA 93561",
+      "phone": "661-821-5004",
+      "image": "https://cdn.findpawpal.com/office/388152.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tehachapi-humane-society-381114",
+      "name": "Tehachapi Humane Society",
+      "address": "21600 Golden Hills Boulevard, Tehachapi, CA 93561",
+      "phone": "661-823-0699",
+      "image": "https://cdn.findpawpal.com/office/381114.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "benevolent-animal-rescue-committee-389926",
+      "name": "Benevolent Animal Rescue Committee",
+      "address": "PO Box 1822, Temecula, CA 92593",
+      "phone": "909-943-2866",
+      "image": "https://cdn.findpawpal.com/office/389926.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "boston-brigade-rescue-388839",
+      "name": "Boston Brigade Rescue",
+      "address": "PO Box 1361, Temecula, CA 92593",
+      "phone": "951-600-0501",
+      "image": "https://cdn.findpawpal.com/office/388839.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dibernardo-rescue-362962",
+      "name": "Dibernardo Rescue",
+      "address": "41141 Reid Court, Temecula, CA 92591",
+      "phone": "951-609-8459",
+      "image": "https://cdn.findpawpal.com/office/362962.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "temecula-animal-control-488376",
+      "name": "Temecula Animal Control",
+      "address": "38150 Overview Drive, Temecula, CA 92592",
+      "phone": "951-767-7606",
+      "image": "https://cdn.findpawpal.com/office/488376.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "temple-city-animal-control-363309",
+      "name": "Temple City Animal Control",
+      "address": "5938 Kauffman Avenue, Temple, CA 91780",
+      "phone": "626-285-7187",
+      "image": "https://cdn.findpawpal.com/office/363309.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-at-love-humane-society-533501",
+      "name": "Second Chance at Love Humane Society",
+      "address": "PO Box 396, Templeton, CA 93465",
+      "phone": "805-434-3982",
+      "image": "https://cdn.findpawpal.com/office/533501.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "thousand-oaks-animal-shelter-488417",
+      "name": "Thousand Oaks Animal Shelter",
+      "address": "193 North Moorpark Road, Thousand Oaks, CA 91360",
+      "phone": "805-379-3538",
+      "image": "https://cdn.findpawpal.com/office/488417.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "zoes-friends-animal-rescue-363211",
+      "name": "Zoe's Friends Animal Rescue",
+      "address": "1772 East Avenida De Los Arboles, Thousand Oaks, CA 91362",
+      "phone": "805-907-0655",
+      "image": "https://cdn.findpawpal.com/office/363211.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-samritans-spca-382501",
+      "name": "Animal Samritans SPCA",
+      "address": "72120 Petland Place, Thousand Palms, CA 92276",
+      "phone": "760-343-3477",
+      "image": "https://cdn.findpawpal.com/office/382501.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jackies-purrfect-match-487509",
+      "name": "Jackie's Purrfect Match",
+      "address": "1436 West 213th Street, Torrance, CA 90501",
+      "phone": "310-328-9723",
+      "image": "https://cdn.findpawpal.com/office/487509.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "petsave-foundation-483208",
+      "name": "Petsave Foundation",
+      "address": "PO Box 11368, Torrance, CA 90510",
+      "phone": "310-539-5679",
+      "image": "https://cdn.findpawpal.com/office/483208.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "torrance-animal-control-391505",
+      "name": "Torrance Animal Control",
+      "address": "2200 Jefferson Street, Torrance, CA 90501",
+      "phone": "310-618-3850",
+      "image": "https://cdn.findpawpal.com/office/391505.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cats-are-people-too-532551",
+      "name": "Cats Are People Too",
+      "address": "19741 Live Oak Canyon Road, Trabuco Canyon, CA 92679",
+      "phone": "949-589-6369",
+      "image": "https://cdn.findpawpal.com/office/532551.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "underdog-rescue-483878",
+      "name": "Underdog Rescue",
+      "address": "PO Box 994, Trabuco Canyon, CA 92678",
+      "phone": "760-943-1844",
+      "image": "https://cdn.findpawpal.com/office/483878.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tracy-animal-shelter-361681",
+      "name": "Tracy Animal Shelter",
+      "address": "370 Arbor Avenue, Tracy, CA 95304",
+      "phone": "209-831-6364",
+      "image": "https://cdn.findpawpal.com/office/361681.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-truckee-tahoe-363960",
+      "name": "Humane Society of Truckee-Tahoe",
+      "address": "10961 Stevens Lane, Truckee, CA 96161",
+      "phone": "530-587-5948",
+      "image": "https://cdn.findpawpal.com/office/363960.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "truckee-animal-control-391511",
+      "name": "Truckee Animal Control",
+      "address": "10183 Truckee Airport Road, Truckee, CA 96161",
+      "phone": "530-582-7830",
+      "image": "https://cdn.findpawpal.com/office/391511.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "national-rat-terrier-rescue-380594",
+      "name": "National Rat Terrier Rescue",
+      "address": "PO Box 401, Tujunga, CA 91043",
+      "phone": "818-951-8888",
+      "image": "https://cdn.findpawpal.com/office/380594.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tulare-city-animal-control-668699",
+      "name": "Tulare City Animal Control",
+      "address": "214 South Sacramento Street, Tulare, CA 93274",
+      "phone": "559-684-4271",
+      "image": "https://cdn.findpawpal.com/office/668699.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "turlock-animal-control-668701",
+      "name": "Turlock Animal Control",
+      "address": "801 South Walnut Road, Turlock, CA 95380",
+      "phone": "209-668-5550",
+      "image": "https://cdn.findpawpal.com/office/668701.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "palms-n-paws-animal-shelter-534655",
+      "name": "Palms N Paws Animal Shelter",
+      "address": "7086 Bullion Avenue, Twentynine Palms, CA 92277",
+      "phone": "760-367-0157",
+      "image": "https://cdn.findpawpal.com/office/534655.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mendocino-county-animal-control-668703",
+      "name": "Mendocino County Animal Control",
+      "address": "298 Plant Road, Ukiah, CA 95482",
+      "phone": "707-463-4427",
+      "image": "https://cdn.findpawpal.com/office/668703.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "union-city-animal-control-479352",
+      "name": "Union City Animal Control",
+      "address": "34009 Alvarado-Niles Road, Union, CA 94587",
+      "phone": "510-471-1365",
+      "image": "https://cdn.findpawpal.com/office/479352.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ark-trust-inc-483474",
+      "name": "Ark Trust, Inc.",
+      "address": "PO Box 8191, Universal City, CA 91618",
+      "phone": "818-501-2275",
+      "image": "https://cdn.findpawpal.com/office/483474.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-upland-animal-services-534831",
+      "name": "City of Upland Animal Services",
+      "address": "1275 San Bernardino Road, Upland, CA 91786",
+      "phone": "909-931-4185",
+      "image": "https://cdn.findpawpal.com/office/534831.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-place-farm-rescue-391062",
+      "name": "Animal Place-Farm Rescue",
+      "address": "3448 Laguna Creek Trail, Vacaville, CA 95688",
+      "phone": "707-449-4814",
+      "image": "https://cdn.findpawpal.com/office/391062.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "northern-california-sled-dog-rescue-484771",
+      "name": "Northern California Sled Dog Rescue",
+      "address": "PO Box 604, Vacaville, CA 95696",
+      "phone": "800-471-5822",
+      "image": "https://cdn.findpawpal.com/office/484771.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "vacaville-animal-control-479356",
+      "name": "Vacaville Animal Control",
+      "address": "51 Commerce Pl, Vacaville, CA 95687",
+      "phone": "707-449-1700",
+      "image": "https://cdn.findpawpal.com/office/479356.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-the-north-bay-383904",
+      "name": "Humane Society of the North Bay",
+      "address": "1121 Sonoma Boulevard, Vallejo, CA 94590",
+      "phone": "707-645-7905",
+      "image": "https://cdn.findpawpal.com/office/383904.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "solano-county-animal-control-488517",
+      "name": "Solano County Animal Control",
+      "address": "105 La Cresenda Street, Vallejo, CA 94590",
+      "phone": "707-552-3323",
+      "image": "https://cdn.findpawpal.com/office/488517.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rancho-lotsa-cats-feline-rescue-363921",
+      "name": "Rancho Lotsa Cats Feline Rescue",
+      "address": "27932 Valley Center Road, Valley Center, CA 92082",
+      "phone": "760-749-1710",
+      "image": "https://cdn.findpawpal.com/office/363921.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cats-cradle-rescue-362162",
+      "name": "Cats Cradle Rescue",
+      "address": "1954 East Main Street, Ventura, CA 93001",
+      "phone": "805-986-4896",
+      "image": "https://cdn.findpawpal.com/office/362162.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greyfoot-rescue-364708",
+      "name": "Greyfoot Rescue",
+      "address": "PO Box 310, Ventura, CA 93002",
+      "phone": "805-649-4840",
+      "image": "https://cdn.findpawpal.com/office/364708.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-humane-league-362059",
+      "name": "The Humane League",
+      "address": "PO Box 5022, Ventura, CA 93005",
+      "phone": "805-652-1001",
+      "image": "https://cdn.findpawpal.com/office/362059.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "victorville-animal-control-363392",
+      "name": "Victorville Animal Control",
+      "address": "14117 Mcart Road, Victorville, CA 92392",
+      "phone": "760-955-5089",
+      "image": "https://cdn.findpawpal.com/office/363392.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tulare-county-animal-control-488566",
+      "name": "Tulare County Animal Control",
+      "address": "14131 Avenue 256, Visalia, CA 93292",
+      "phone": "559-636-3647",
+      "image": "https://cdn.findpawpal.com/office/488566.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "valley-oak-spca-668294",
+      "name": "Valley Oak SPCA",
+      "address": "29016 Highway 99, Visalia, CA 93277",
+      "phone": "559-651-1111",
+      "image": "https://cdn.findpawpal.com/office/668294.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "vista-animal-control-363408",
+      "name": "Vista Animal Control",
+      "address": "1611 South Melrose Drive, Vista, CA 92081",
+      "phone": "760-414-3966",
+      "image": "https://cdn.findpawpal.com/office/363408.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "community-concern-for-cats-380322",
+      "name": "Community Concern for Cats",
+      "address": "PO Box 3795, Walnut Creek, CA 94598",
+      "phone": "925-938-2287",
+      "image": "https://cdn.findpawpal.com/office/380322.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tony-la-russas-animal-rescue-foundation-536390",
+      "name": "Tony La Russa's Animal Rescue Foundation",
+      "address": "2890 Mitchell Drive, Walnut Creek, CA 94598",
+      "phone": "925-256-1273",
+      "image": "https://cdn.findpawpal.com/office/536390.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wasco-animal-control-385671",
+      "name": "Wasco Animal Control",
+      "address": "5409 7th Street, Wasco, CA 93280",
+      "phone": "661-758-7240",
+      "image": "https://cdn.findpawpal.com/office/385671.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "santa-cruz-county-animal-shelter-390134",
+      "name": "Santa Cruz County Animal Shelter",
+      "address": "580 Airport Boulevard, Watsonville, CA 95076",
+      "phone": "831-454-7303",
+      "image": "https://cdn.findpawpal.com/office/390134.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "watsonville-animal-shelter-363417",
+      "name": "Watsonville Animal Shelter",
+      "address": "150 Pennsylvania Drive, Watsonville, CA 95076",
+      "phone": "831-724-4988",
+      "image": "https://cdn.findpawpal.com/office/363417.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "trinity-county-animal-control-381860",
+      "name": "Trinity County Animal Control",
+      "address": "563 Mountain View Street, Weaverville, CA 96093",
+      "phone": "530-623-1370",
+      "image": "https://cdn.findpawpal.com/office/381860.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "west-hollywood-animal-control-538659",
+      "name": "West Hollywood Animal Control",
+      "address": "7908 Santa Monica Boulevard, West Hollywood, CA 90046",
+      "phone": "323-656-2593",
+      "image": "https://cdn.findpawpal.com/office/538659.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "skys-the-limit-horse-rescue-inc-476338",
+      "name": "Sky's the Limit Horse Rescue, Inc.",
+      "address": "PO Box 133, West Sacramento, CA 95605",
+      "phone": "815-361-3114",
+      "image": "https://cdn.findpawpal.com/office/476338.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "westminster-animal-control-363427",
+      "name": "Westminster Animal Control",
+      "address": "8200 Westminster Avenue, Westminster, CA 92683",
+      "phone": "714-548-3201",
+      "image": "https://cdn.findpawpal.com/office/363427.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "westwood-animal-control-538178",
+      "name": "Westwood Animal Control",
+      "address": "604 Ash Street, Westwood, CA 96137",
+      "phone": "530-256-3963",
+      "image": "https://cdn.findpawpal.com/office/538178.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-friends-of-the-valleys-389929",
+      "name": "Animal Friends of the Valleys",
+      "address": "33751 Mission Trail, Wildomar, CA 92595",
+      "phone": "951-674-0618",
+      "image": "https://cdn.findpawpal.com/office/389929.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "milo-foundation-667865",
+      "name": "Milo Foundation",
+      "address": "10670 Hearst Road, Willits, CA 95490",
+      "phone": "707-459-4900",
+      "image": "https://cdn.findpawpal.com/office/667865.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "glenn-county-animal-control-538183",
+      "name": "Glenn County Animal Control",
+      "address": "543 West Oak Street, Willows, CA 95988",
+      "phone": "530-934-6507",
+      "image": "https://cdn.findpawpal.com/office/538183.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "california-equine-retirement-foundation-inc-389943",
+      "name": "California Equine Retirement Foundation, Inc.",
+      "address": "34033 Kooden Road, Winchester, CA 92596",
+      "phone": "909-926-4190",
+      "image": "https://cdn.findpawpal.com/office/389943.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "windsor-animal-control-364111",
+      "name": "Windsor Animal Control",
+      "address": "63 Cockrobin Avenue, Windsor, CA 95492",
+      "phone": "707-837-3451",
+      "image": "https://cdn.findpawpal.com/office/364111.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "california-state-animal-shelter-367043",
+      "name": "California State Animal Shelter",
+      "address": "34511 California 16, Woodland, CA 95695",
+      "phone": "530-662-4989",
+      "image": "https://cdn.findpawpal.com/office/367043.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "uc-davis-shelter-dog-rescue-project-383169",
+      "name": "Uc Davis Shelter Dog Rescue Project",
+      "address": "1406 Willow Springs Drive, Woodland, CA 95776",
+      "phone": "530-666-6106",
+      "image": "https://cdn.findpawpal.com/office/383169.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "yolo-county-spca-365036",
+      "name": "Yolo County SPCA",
+      "address": "41831 Gibson Rd, Woodland, CA 95776",
+      "phone": "530-758-7722",
+      "image": "https://cdn.findpawpal.com/office/365036.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "abby-animal-sanctuary-483214",
+      "name": "Abby Animal Sanctuary",
+      "address": "PO Box 536, Woodland Hills, CA 91365",
+      "phone": "310-488-9173",
+      "image": "https://cdn.findpawpal.com/office/483214.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "siskiyou-county-animal-control-668665",
+      "name": "Siskiyou County Animal Control",
+      "address": "525 South Foothill Drive, Yreka, CA 96097",
+      "phone": "530-841-4028",
+      "image": "https://cdn.findpawpal.com/office/668665.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-control-services-479041",
+      "name": "Animal Control Services",
+      "address": "200 Garden Highway, Yuba, CA 95991",
+      "phone": "530-822-7375",
+      "image": "https://cdn.findpawpal.com/office/479041.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-lovers-unlimited-364636",
+      "name": "Animal Lovers Unlimited",
+      "address": "PO Box 374, Yuba, CA 95992",
+      "phone": "530-673-0701",
+      "image": "https://cdn.findpawpal.com/office/364636.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "yucaipa-valley-animal-control-384317",
+      "name": "Yucaipa Valley Animal Control",
+      "address": "11937 13th Street, Yucaipa, CA 92399",
+      "phone": "909-790-1440",
+      "image": "https://cdn.findpawpal.com/office/384317.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wildheart-animal-rescue-383183",
+      "name": "Wildheart Animal Rescue",
+      "address": "56372 Paseo Los Ninos, Yucca Valley, CA 92284",
+      "phone": "760-369-2400",
+      "image": "https://cdn.findpawpal.com/office/383183.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "yucca-valley-animal-shelter-476293",
+      "name": "Yucca Valley Animal Shelter",
+      "address": "56460 Paseo Los Ninos, Yucca Valley, CA 92284",
+      "phone": "760-365-3111",
+      "image": "https://cdn.findpawpal.com/office/476293.jpg?f=webp&w=730"
+    }
+  ]
+}

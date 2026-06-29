@@ -1,0 +1,21 @@
+{
+  "officeId": 167882,
+  "slug": "somers-animal-control-167882",
+  "name": "Somers Animal Control",
+  "address": "600 Main Street, Somers, CT 06071",
+  "street": "600 Main Street",
+  "addressCity": "Somers",
+  "stateCode": "CT",
+  "zip": "06071",
+  "phone": "860-763-0623",
+  "image": "./img/shelter/office/167882.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/somers-animal-control-167882/",
+  "stateSlug": "connecticut",
+  "stateName": "Connecticut",
+  "citySlug": "somers",
+  "cityName": "Somers",
+  "cityLabel": "Somers, CT",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/connecticut/somers/",
+  "fetchedAt": "2026-06-27T18:37:21.185758+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/167882.jpg?f=webp&w=730"
+}

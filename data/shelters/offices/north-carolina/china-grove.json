@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:38:38.045237+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "china-grove",
+    "name": "China Grove",
+    "label": "China Grove, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/china-grove/",
+  "offices": [
+    {
+      "officeId": 259433,
+      "slug": "horse-protection-society-nc-259433",
+      "name": "Horse Protection Society Nc",
+      "address": "2135 Miller Road, China Grove, NC 28023",
+      "phone": "704-855-2978",
+      "image": "./img/shelter/office/259433.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/horse-protection-society-nc-259433/",
+      "imageUrl": "https://cdn.findpawpal.com/office/259433.jpg?f=webp&w=730"
+    }
+  ]
+}

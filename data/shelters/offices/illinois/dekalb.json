@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:45:05.107228+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "dekalb",
+    "name": "DeKalb",
+    "label": "DeKalb, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/dekalb/",
+  "offices": [
+    {
+      "officeId": 411971,
+      "slug": "dekalb-county-health-department-411971",
+      "name": "DeKalb County Health Department",
+      "address": "2550 North Annie Glidden Road, DeKalb, IL 60115",
+      "phone": "815-758-6673",
+      "image": "./img/shelter/office/411971.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dekalb-county-health-department-411971/",
+      "imageUrl": "https://cdn.findpawpal.com/office/411971.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 412245,
+      "slug": "tails-humane-society-412245",
+      "name": "Tails Humane Society",
+      "address": "2250 Barber Greene Road, DeKalb, IL 60115",
+      "phone": "815-758-2457",
+      "image": "./img/shelter/office/412245.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tails-humane-society-412245/",
+      "imageUrl": "https://cdn.findpawpal.com/office/412245.jpg?f=webp&w=730"
+    }
+  ]
+}

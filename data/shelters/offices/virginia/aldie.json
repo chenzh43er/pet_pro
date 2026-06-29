@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T20:12:33.442798+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "aldie",
+    "name": "Aldie",
+    "label": "Aldie, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/aldie/",
+  "offices": [
+    {
+      "officeId": 575563,
+      "slug": "aldie-animal-shelter-575563",
+      "name": "Aldie Animal Shelter",
+      "address": "39703 Goodpuppy Lane, Aldie, VA 20105",
+      "phone": "703-957-4085",
+      "image": "https://cdn.findpawpal.com/office/575563.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/aldie-animal-shelter-575563/"
+    },
+    {
+      "officeId": 579619,
+      "slug": "friends-of-homeless-animals-579619",
+      "name": "Friends Of Homeless Animals",
+      "address": "39710 Goodpuppy Lane, Aldie, VA 20105",
+      "phone": "703-385-0224",
+      "image": "https://cdn.findpawpal.com/office/579619.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-homeless-animals-579619/"
+    }
+  ]
+}

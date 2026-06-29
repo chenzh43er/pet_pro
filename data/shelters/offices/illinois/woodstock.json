@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:48:57.728332+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "woodstock",
+    "name": "Woodstock",
+    "label": "Woodstock, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/woodstock/",
+  "offices": [
+    {
+      "officeId": 383831,
+      "slug": "helping-paws-383831",
+      "name": "Helping Paws",
+      "address": "2500 Harding Lane, Woodstock, IL 60098",
+      "phone": "813-338-4400",
+      "image": "./img/shelter/office/383831.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/helping-paws-383831/",
+      "imageUrl": "https://cdn.findpawpal.com/office/383831.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 413118,
+      "slug": "hooved-animal-humane-society-413118",
+      "name": "Hooved Animal Humane Society",
+      "address": "10804 McConnell Road, Woodstock, IL 60098",
+      "phone": "815-337-5563",
+      "image": "./img/shelter/office/413118.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hooved-animal-humane-society-413118/",
+      "imageUrl": "https://cdn.findpawpal.com/office/413118.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 580494,
+      "slug": "mchenry-county-animal-control-580494",
+      "name": "Mchenry County Animal Control",
+      "address": "2200 North Seminary Avenue, Woodstock, IL 60098",
+      "phone": "815-334-4470",
+      "image": "./img/shelter/office/580494.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mchenry-county-animal-control-580494/",
+      "imageUrl": "https://cdn.findpawpal.com/office/580494.jpg?f=webp&w=730"
+    }
+  ]
+}

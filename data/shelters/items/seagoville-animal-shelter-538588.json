@@ -1,0 +1,21 @@
+{
+  "officeId": 538588,
+  "slug": "seagoville-animal-shelter-538588",
+  "name": "Seagoville Animal Shelter",
+  "address": "1330 East Malloy Bridge Road, Seagoville, TX 75159",
+  "street": "1330 East Malloy Bridge Road",
+  "addressCity": "Seagoville",
+  "stateCode": "TX",
+  "zip": "75159",
+  "phone": "972-287-2050",
+  "image": "./img/shelter/office/538588.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/seagoville-animal-shelter-538588/",
+  "stateSlug": "texas",
+  "stateName": "Texas",
+  "citySlug": "seagoville",
+  "cityName": "Seagoville",
+  "cityLabel": "Seagoville, TX",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/texas/seagoville/",
+  "fetchedAt": "2026-06-27T20:09:12.097628+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/538588.jpg?f=webp&w=730"
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:18:59.206175+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "sedro-woolley",
+    "name": "Sedro-Woolley",
+    "label": "Sedro-Woolley, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/sedro-woolley/",
+  "offices": [
+    {
+      "officeId": 664321,
+      "slug": "second-chance-horse-rescue-ranch-664321",
+      "name": "Second Chance Horse Rescue Ranch",
+      "address": "25902 Hoehn Road, Sedro-Woolley, WA 98284",
+      "phone": "360-856-4867",
+      "image": "./img/shelter/office/664321.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/second-chance-horse-rescue-ranch-664321/",
+      "imageUrl": "https://cdn.findpawpal.com/office/664321.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 698863,
+      "slug": "country-critters-rescue-corral-698863",
+      "name": "Country Critters Rescue Corral",
+      "address": "26024 Helmick Road, Sedro-Woolley, WA 98284",
+      "phone": "360-854-0205",
+      "image": "./img/shelter/office/698863.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/country-critters-rescue-corral-698863/",
+      "imageUrl": "https://cdn.findpawpal.com/office/698863.jpg?f=webp&w=730"
+    }
+  ]
+}

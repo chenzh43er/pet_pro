@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:36:38.783425+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "monroe",
+    "name": "Monroe",
+    "label": "Monroe, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/monroe/",
+  "offices": [
+    {
+      "officeId": 161518,
+      "slug": "monroe-animal-shelter-161518",
+      "name": "Monroe Animal Shelter",
+      "address": "447 Purdy Hill Road, Monroe, CT 06468",
+      "phone": "203-452-3760",
+      "image": "./img/shelter/office/161518.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/monroe-animal-shelter-161518/",
+      "imageUrl": "https://cdn.findpawpal.com/office/161518.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 167191,
+      "slug": "animal-adoption-network-inc-167191",
+      "name": "Animal Adoption Network Inc",
+      "address": "359 Spring Hill Road, Monroe, CT 06468",
+      "phone": "203-445-9978",
+      "image": "./img/shelter/office/167191.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-adoption-network-inc-167191/",
+      "imageUrl": "https://cdn.findpawpal.com/office/167191.jpg?f=webp&w=730"
+    }
+  ]
+}

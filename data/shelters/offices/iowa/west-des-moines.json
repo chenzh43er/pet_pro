@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:54:29.188434+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa"
+  },
+  "city": {
+    "slug": "west-des-moines",
+    "name": "West Des Moines",
+    "label": "West Des Moines, IA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/west-des-moines/",
+  "offices": [
+    {
+      "officeId": 324025,
+      "slug": "west-des-moines-animal-shelter-324025",
+      "name": "West Des Moines Animal Shelter",
+      "address": "PO Box 65320, West Des Moines, IA 50265",
+      "phone": "515-222-3364",
+      "image": "https://cdn.findpawpal.com/office/324025.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/west-des-moines-animal-shelter-324025/"
+    },
+    {
+      "officeId": 326882,
+      "slug": "4-the-dogs-rescue-326882",
+      "name": "4 the Dogs Rescue",
+      "address": "PO Box 27011, West Des Moines, IA 50265",
+      "phone": "515-681-9766",
+      "image": "https://cdn.findpawpal.com/office/326882.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/4-the-dogs-rescue-326882/"
+    }
+  ]
+}

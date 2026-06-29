@@ -1,0 +1,65 @@
+{
+  "fetchedAt": "2026-06-27T20:23:06.385425+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "kenosha",
+    "name": "Kenosha",
+    "label": "Kenosha, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/kenosha/",
+  "offices": [
+    {
+      "officeId": 514094,
+      "slug": "kindred-kitties-514094",
+      "name": "Kindred Kitties",
+      "address": "614 59th Street, Kenosha, WI 53140",
+      "phone": "262-605-0533",
+      "image": "./img/shelter/office/514094.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kindred-kitties-514094/",
+      "imageUrl": "https://cdn.findpawpal.com/office/514094.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 520112,
+      "slug": "animal-life-line-520112",
+      "name": "Animal Life Line",
+      "address": "PO Box 425, Kenosha, WI 53141",
+      "phone": "414-654-5948",
+      "image": "./img/shelter/office/520112.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-life-line-520112/",
+      "imageUrl": "https://cdn.findpawpal.com/office/520112.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 520671,
+      "slug": "kenosha-animal-control-520671",
+      "name": "Kenosha Animal Control",
+      "address": "1000 55th Street, Kenosha, WI 53140",
+      "phone": "262-656-1234",
+      "image": "./img/shelter/office/520671.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kenosha-animal-control-520671/",
+      "imageUrl": "https://cdn.findpawpal.com/office/520671.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 634018,
+      "slug": "kenosha-county-humane-society-634018",
+      "name": "Kenosha County Humane Society",
+      "address": "7811 60th Avenue, Kenosha, WI 53142",
+      "phone": "414-694-4047",
+      "image": "./img/shelter/office/634018.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kenosha-county-humane-society-634018/",
+      "imageUrl": "https://cdn.findpawpal.com/office/634018.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 673379,
+      "slug": "animals-r-us-673379",
+      "name": "Animals R Us",
+      "address": "1620 27th Street, Kenosha, WI 53140",
+      "phone": "",
+      "image": "./img/shelter/office/673379.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animals-r-us-673379/",
+      "imageUrl": "https://cdn.findpawpal.com/office/673379.jpg?f=webp&w=730"
+    }
+  ]
+}

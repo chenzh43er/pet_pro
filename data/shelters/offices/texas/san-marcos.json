@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:09:06.242805+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "san-marcos",
+    "name": "San Marcos",
+    "label": "San Marcos, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/san-marcos/",
+  "offices": [
+    {
+      "officeId": 538169,
+      "slug": "san-marcos-animal-shelter-538169",
+      "name": "San Marcos Animal Shelter",
+      "address": "630 East Hopkins Street, San Marcos, TX 78666",
+      "phone": "512-393-8341",
+      "image": "./img/shelter/office/538169.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/san-marcos-animal-shelter-538169/",
+      "imageUrl": "https://cdn.findpawpal.com/office/538169.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 539439,
+      "slug": "animal-shelter-of-san-marcos-539439",
+      "name": "Animal Shelter of San Marcos",
+      "address": "706 River Road, San Marcos, TX 78666",
+      "phone": "512-353-4444",
+      "image": "./img/shelter/office/539439.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-shelter-of-san-marcos-539439/",
+      "imageUrl": "https://cdn.findpawpal.com/office/539439.jpg?f=webp&w=730"
+    }
+  ]
+}

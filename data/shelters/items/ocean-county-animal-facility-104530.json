@@ -1,0 +1,21 @@
+{
+  "officeId": 104530,
+  "slug": "ocean-county-animal-facility-104530",
+  "name": "Ocean County Animal Facility",
+  "address": "615 Freemont Avenue, Jackson, NJ 08527",
+  "street": "615 Freemont Avenue",
+  "addressCity": "Jackson",
+  "stateCode": "NJ",
+  "zip": "08527",
+  "phone": "732-657-8086",
+  "image": "./img/shelter/office/104530.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/ocean-county-animal-facility-104530/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "jackson",
+  "cityName": "Jackson",
+  "cityLabel": "Jackson, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/jackson/",
+  "fetchedAt": "2026-06-27T19:26:42.672994+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/104530.jpg?f=webp&w=730"
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:09:06.431884+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "woburn",
+    "name": "Woburn",
+    "label": "Woburn, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/woburn/",
+  "offices": [
+    {
+      "officeId": 43425,
+      "slug": "house-rabbit-network-43425",
+      "name": "House Rabbit Network",
+      "address": "PO Box 2602, Woburn, MA 01888",
+      "phone": "781-431-1211",
+      "image": "https://cdn.findpawpal.com/office/43425.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/house-rabbit-network-43425/"
+    }
+  ]
+}

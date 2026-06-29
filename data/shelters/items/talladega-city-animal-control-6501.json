@@ -1,0 +1,21 @@
+{
+  "officeId": 6501,
+  "slug": "talladega-city-animal-control-6501",
+  "name": "Talladega City Animal Control",
+  "address": "809 West McMillian Street, Talladega, AL 35160",
+  "street": "809 West McMillian Street",
+  "addressCity": "Talladega",
+  "stateCode": "AL",
+  "zip": "35160",
+  "phone": "256-362-5856",
+  "image": "./img/shelter/office/6501.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/talladega-city-animal-control-6501/",
+  "stateSlug": "alabama",
+  "stateName": "Alabama",
+  "citySlug": "talladega",
+  "cityName": "Talladega",
+  "cityLabel": "Talladega, AL",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/alabama/talladega/",
+  "fetchedAt": "2026-06-27T18:18:45.776050+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/6501.jpg?f=webp&w=730"
+}

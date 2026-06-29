@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:56:36.611478+00:00",
+  "state": {
+    "slug": "rhode-island",
+    "name": "Rhode Island"
+  },
+  "city": {
+    "slug": "warwick",
+    "name": "Warwick",
+    "label": "Warwick, RI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/rhode-island/warwick/",
+  "offices": [
+    {
+      "officeId": 521032,
+      "slug": "warwick-volunteer-services-for-animals-521032",
+      "name": "Warwick Volunteer Services for Animals",
+      "address": "PO Box 7544, Warwick, RI 02887",
+      "phone": "401-468-4378",
+      "image": "./img/shelter/office/521032.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/warwick-volunteer-services-for-animals-521032/",
+      "imageUrl": "https://cdn.findpawpal.com/office/521032.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 521043,
+      "slug": "warwick-animal-control-521043",
+      "name": "Warwick Animal Control",
+      "address": "250 Arthur Devine Blvd, Warwick, RI 02886",
+      "phone": "401-468-4377",
+      "image": "./img/shelter/office/521043.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/warwick-animal-control-521043/",
+      "imageUrl": "https://cdn.findpawpal.com/office/521043.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 572349,
+      "slug": "warwick-animal-shelter-572349",
+      "name": "Warwick Animal Shelter",
+      "address": "101 Arthur W Devine Boulevard, Warwick, RI 02886",
+      "phone": "401-468-4377",
+      "image": "./img/shelter/office/572349.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/warwick-animal-shelter-572349/",
+      "imageUrl": "https://cdn.findpawpal.com/office/572349.jpg?f=webp&w=730"
+    }
+  ]
+}

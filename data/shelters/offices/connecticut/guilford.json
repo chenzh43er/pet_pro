@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:36:17.579862+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "guilford",
+    "name": "Guilford",
+    "label": "Guilford, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/guilford/",
+  "offices": [
+    {
+      "officeId": 148339,
+      "slug": "furry-friends-rescue-and-fostering-148339",
+      "name": "Furry Friends Rescue and Fostering",
+      "address": "2496 Boston Post Road, Guilford, CT 06437",
+      "phone": "203-453-5558",
+      "image": "./img/shelter/office/148339.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/furry-friends-rescue-and-fostering-148339/",
+      "imageUrl": "https://cdn.findpawpal.com/office/148339.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 156388,
+      "slug": "hope-alliance-adoption-center-156388",
+      "name": "Hope Alliance Adoption Center",
+      "address": "2344 Boston Post Road, Guilford, CT 06437",
+      "phone": "203-458-2516",
+      "image": "./img/shelter/office/156388.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hope-alliance-adoption-center-156388/",
+      "imageUrl": "https://cdn.findpawpal.com/office/156388.jpg?f=webp&w=730"
+    }
+  ]
+}

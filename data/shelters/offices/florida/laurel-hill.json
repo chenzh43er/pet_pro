@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:15:20.350997+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "laurel-hill",
+    "name": "Laurel Hill",
+    "label": "Laurel Hill, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/laurel-hill/",
+  "offices": [
+    {
+      "slug": "laurel-hill-animal-control-326442",
+      "name": "Laurel Hill Animal Control",
+      "address": "3731 New Ebenezer Road, Laurel Hill, FL 32567",
+      "phone": "850-652-2086",
+      "image": "./img/shelter/office/326442.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/laurel-hill-animal-control-326442/",
+      "imageUrl": "https://cdn.findpawpal.com/office/326442.jpg?f=webp&w=730"
+    }
+  ]
+}

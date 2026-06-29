@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:47:32.235689+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "warren",
+    "name": "Warren",
+    "label": "Warren, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/warren/",
+  "offices": [
+    {
+      "officeId": 431682,
+      "slug": "animal-welfare-league-of-trumbull-county-431682",
+      "name": "Animal Welfare League of Trumbull County",
+      "address": "2830 Reeves Road Northeast, Warren, OH 44483",
+      "phone": "330-841-2549",
+      "image": "./img/shelter/office/431682.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-welfare-league-of-trumbull-county-431682/",
+      "imageUrl": "https://cdn.findpawpal.com/office/431682.jpg?f=webp&w=730"
+    }
+  ]
+}

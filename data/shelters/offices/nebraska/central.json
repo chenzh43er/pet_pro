@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:22:19.567228+00:00",
+  "state": {
+    "slug": "nebraska",
+    "name": "Nebraska"
+  },
+  "city": {
+    "slug": "central",
+    "name": "Central",
+    "label": "Central, NE"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nebraska/central/",
+  "offices": [
+    {
+      "officeId": 367434,
+      "slug": "help-us-pets-corp-367434",
+      "name": "Help Us Pets Corp.",
+      "address": "505 D Street, Central, NE 68826",
+      "phone": "308-946-5280",
+      "image": "./img/shelter/office/367434.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/help-us-pets-corp-367434/",
+      "imageUrl": "https://cdn.findpawpal.com/office/367434.jpg?f=webp&w=730"
+    }
+  ]
+}

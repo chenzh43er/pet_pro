@@ -1,0 +1,21 @@
+{
+  "officeId": 5353,
+  "slug": "pratt-humane-society-5353",
+  "name": "Pratt Humane Society",
+  "address": "1402 West 1st Street, Pratt, KS 67124",
+  "street": "1402 West 1st Street",
+  "addressCity": "Pratt",
+  "stateCode": "KS",
+  "zip": "67124",
+  "phone": "316-672-6777",
+  "image": "./img/shelter/office/5353.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pratt-humane-society-5353/",
+  "stateSlug": "kansas",
+  "stateName": "Kansas",
+  "citySlug": "pratt",
+  "cityName": "Pratt",
+  "cityLabel": "Pratt, KS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kansas/pratt/",
+  "fetchedAt": "2026-06-27T18:55:51.339054+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/5353.jpg?f=webp&w=730"
+}

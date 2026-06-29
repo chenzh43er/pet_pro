@@ -1,0 +1,225 @@
+{
+  "fetchedAt": "2026-06-27T19:43:52.101476+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "columbus",
+    "name": "Columbus",
+    "label": "Columbus, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/columbus/",
+  "offices": [
+    {
+      "officeId": 422650,
+      "slug": "ohio-pug-rescue-422650",
+      "name": "Ohio Pug Rescue",
+      "address": "1037 Acton Road, Columbus, OH 43224",
+      "phone": "614-262-2845",
+      "image": "./img/shelter/office/422650.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ohio-pug-rescue-422650/",
+      "imageUrl": "https://cdn.findpawpal.com/office/422650.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 422667,
+      "slug": "sk9-scottish-terrier-liberators-422667",
+      "name": "Sk9 Scottish Terrier Liberators",
+      "address": "PO Box 21304, Columbus, OH 43221",
+      "phone": "614-579-8421",
+      "image": "https://cdn.findpawpal.com/office/422667.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/sk9-scottish-terrier-liberators-422667/"
+    },
+    {
+      "officeId": 423607,
+      "slug": "cat-welfare-association-inc-423607",
+      "name": "Cat Welfare Association Inc",
+      "address": "741 Wetmore Road, Columbus, OH 43214",
+      "phone": "614-268-6096",
+      "image": "./img/shelter/office/423607.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cat-welfare-association-inc-423607/",
+      "imageUrl": "https://cdn.findpawpal.com/office/423607.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 430765,
+      "slug": "dog-sos-430765",
+      "name": "Dog Sos",
+      "address": "PO Box 14400, Columbus, OH 43214",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/430765.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/dog-sos-430765/"
+    },
+    {
+      "officeId": 430778,
+      "slug": "franklin-county-animal-shelter-430778",
+      "name": "Franklin County Animal Shelter",
+      "address": "1731 Alum Creek Drive, Columbus, OH 43207",
+      "phone": "614-462-4360",
+      "image": "./img/shelter/office/430778.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/franklin-county-animal-shelter-430778/",
+      "imageUrl": "https://cdn.findpawpal.com/office/430778.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 432021,
+      "slug": "franklin-county-dog-shelter-432021",
+      "name": "Franklin County Dog Shelter",
+      "address": "4340 Tamarack Boulevard, Columbus, OH 43229",
+      "phone": "614-525-3647",
+      "image": "./img/shelter/office/432021.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/franklin-county-dog-shelter-432021/",
+      "imageUrl": "https://cdn.findpawpal.com/office/432021.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 443849,
+      "slug": "brew-mid-west-beagle-rescue-443849",
+      "name": "Brew Mid West Beagle Rescue",
+      "address": "PO Box 340223, Columbus, OH 43234",
+      "phone": "614-340-7296",
+      "image": "https://cdn.findpawpal.com/office/443849.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/brew-mid-west-beagle-rescue-443849/"
+    },
+    {
+      "officeId": 443870,
+      "slug": "columbus-cocker-rescue-443870",
+      "name": "Columbus Cocker Rescue",
+      "address": "PO Box 6503, Columbus, OH 43206",
+      "phone": "614-554-1300",
+      "image": "https://cdn.findpawpal.com/office/443870.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/columbus-cocker-rescue-443870/"
+    },
+    {
+      "officeId": 457331,
+      "slug": "columbus-dog-connection-457331",
+      "name": "Columbus Dog Connection",
+      "address": "2761 Johnstown Road, Columbus, OH 43219",
+      "phone": "614-471-9000",
+      "image": "./img/shelter/office/457331.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/columbus-dog-connection-457331/",
+      "imageUrl": "https://cdn.findpawpal.com/office/457331.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 457373,
+      "slug": "pets-found-by-the-internet-457373",
+      "name": "Pets Found By The Internet",
+      "address": "PO Box 163904, Columbus, OH 43216",
+      "phone": "614-459-9125",
+      "image": "https://cdn.findpawpal.com/office/457373.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/pets-found-by-the-internet-457373/"
+    },
+    {
+      "officeId": 466120,
+      "slug": "columbus-house-rabbit-society-466120",
+      "name": "Columbus House Rabbit Society",
+      "address": "PO Box 29444, Columbus, OH 43229",
+      "phone": "614-895-0004",
+      "image": "https://cdn.findpawpal.com/office/466120.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/columbus-house-rabbit-society-466120/"
+    },
+    {
+      "officeId": 466152,
+      "slug": "pets-without-parents-466152",
+      "name": "Pets Without Parents",
+      "address": "629 Oakland Park Avenue, Columbus, OH 43214",
+      "phone": "614-267-7297",
+      "image": "./img/shelter/office/466152.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pets-without-parents-466152/",
+      "imageUrl": "https://cdn.findpawpal.com/office/466152.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 466414,
+      "slug": "ohio-pro-life-animal-rescue-inc-466414",
+      "name": "Ohio Pro-Life Animal Rescue, Inc.",
+      "address": "100 E Campus View Blvd Ste 250 PMB 8794, Columbus, OH 43235",
+      "phone": "800-875-0309",
+      "image": "https://cdn.findpawpal.com/office/466414.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/ohio-pro-life-animal-rescue-inc-466414/"
+    },
+    {
+      "officeId": 467623,
+      "slug": "canter-ohio-467623",
+      "name": "CANTER Ohio",
+      "address": "3967 Karl Road, Columbus, OH 43224",
+      "phone": "614-266-3975",
+      "image": "./img/shelter/office/467623.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/canter-ohio-467623/",
+      "imageUrl": "https://cdn.findpawpal.com/office/467623.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 580195,
+      "slug": "petpromise-580195",
+      "name": "Petpromise",
+      "address": "PO Box 21091, Columbus, OH 43221",
+      "phone": "614-738-2149",
+      "image": "https://cdn.findpawpal.com/office/580195.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/petpromise-580195/"
+    },
+    {
+      "officeId": 580226,
+      "slug": "hand-me-down-dobes-inc-580226",
+      "name": "Hand Me Down Dobes, Inc.",
+      "address": "PO Box 12325, Columbus, OH 43212",
+      "phone": "614-470-2851",
+      "image": "https://cdn.findpawpal.com/office/580226.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/hand-me-down-dobes-inc-580226/"
+    },
+    {
+      "officeId": 581779,
+      "slug": "ohio-state-animal-shelter-581779",
+      "name": "Ohio State Animal Shelter",
+      "address": "691 East Dublin Granville Road, Columbus, OH 43229",
+      "phone": "614-396-8707",
+      "image": "./img/shelter/office/581779.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ohio-state-animal-shelter-581779/",
+      "imageUrl": "https://cdn.findpawpal.com/office/581779.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 640405,
+      "slug": "tri-state-collie-rescue-640405",
+      "name": "Tri-State Collie Rescue",
+      "address": "2960 East Powell Drive, Columbus, OH 43240",
+      "phone": "",
+      "image": "./img/shelter/office/640405.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tri-state-collie-rescue-640405/",
+      "imageUrl": "https://cdn.findpawpal.com/office/640405.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 686326,
+      "slug": "heart-of-ohio-ferret-association-rescue-686326",
+      "name": "Heart of Ohio Ferret Association Rescue",
+      "address": "PO Box 15753, Columbus, OH 43215",
+      "phone": "614-885-6538",
+      "image": "https://cdn.findpawpal.com/office/686326.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/heart-of-ohio-ferret-association-rescue-686326/"
+    },
+    {
+      "officeId": 686336,
+      "slug": "harris-farms-rescue-686336",
+      "name": "Harris Farms Rescue",
+      "address": "1255 Hart Road, Columbus, OH 43223",
+      "phone": "614-274-5896",
+      "image": "./img/shelter/office/686336.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/harris-farms-rescue-686336/",
+      "imageUrl": "https://cdn.findpawpal.com/office/686336.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 686344,
+      "slug": "save-a-pet-686344",
+      "name": "Save A Pet",
+      "address": "4434 Westerville Road, Columbus, OH 43231",
+      "phone": "614-478-9313",
+      "image": "./img/shelter/office/686344.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/save-a-pet-686344/",
+      "imageUrl": "https://cdn.findpawpal.com/office/686344.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 686348,
+      "slug": "pawpac-686348",
+      "name": "Pawpac",
+      "address": "5108 Strawberry Farms Boulevard, Columbus, OH 43230",
+      "phone": "",
+      "image": "./img/shelter/office/686348.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pawpac-686348/",
+      "imageUrl": "https://cdn.findpawpal.com/office/686348.jpg?f=webp&w=730"
+    }
+  ]
+}

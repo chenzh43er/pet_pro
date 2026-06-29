@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:46:43.713219+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "rossford",
+    "name": "Rossford",
+    "label": "Rossford, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/rossford/",
+  "offices": [
+    {
+      "officeId": 467041,
+      "slug": "ohio-jack-russell-rescue-467041",
+      "name": "Ohio Jack Russell Rescue",
+      "address": "517 Riverside Drive, Rossford, OH 43460",
+      "phone": "419-666-9859",
+      "image": "./img/shelter/office/467041.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ohio-jack-russell-rescue-467041/",
+      "imageUrl": "https://cdn.findpawpal.com/office/467041.jpg?f=webp&w=730"
+    }
+  ]
+}

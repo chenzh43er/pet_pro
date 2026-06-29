@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:03:50.069906+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "jefferson",
+    "name": "Jefferson",
+    "label": "Jefferson, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/jefferson/",
+  "offices": [
+    {
+      "officeId": 393326,
+      "slug": "us-neapolitan-mastiff-club-393326",
+      "name": "US Neapolitan Mastiff Club",
+      "address": "PO Box 192, Jefferson, MD 21755",
+      "phone": "410-766-8225",
+      "image": "./img/shelter/office/393326.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/us-neapolitan-mastiff-club-393326/",
+      "imageUrl": "https://cdn.findpawpal.com/office/393326.jpg?f=webp&w=730"
+    }
+  ]
+}

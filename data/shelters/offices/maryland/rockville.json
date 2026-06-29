@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:04:35.068955+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "rockville",
+    "name": "Rockville",
+    "label": "Rockville, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/rockville/",
+  "offices": [
+    {
+      "officeId": 499384,
+      "slug": "montgomery-county-animal-control-499384",
+      "name": "Montgomery County Animal Control",
+      "address": "2350 Research Boulevard, Rockville, MD 20850",
+      "phone": "240-773-5960",
+      "image": "https://cdn.findpawpal.com/office/499384.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/montgomery-county-animal-control-499384/"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:15:54.673564+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "myakka-city",
+    "name": "Myakka City",
+    "label": "Myakka City, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/myakka-city/",
+  "offices": [
+    {
+      "slug": "florida-brittany-rescue-inc-268509",
+      "name": "Florida Brittany Rescue, Inc.",
+      "address": "7725 261st Street East, Myakka City, FL 34251",
+      "phone": "941-219-7022",
+      "image": "./img/shelter/office/268509.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/florida-brittany-rescue-inc-268509/",
+      "imageUrl": "https://cdn.findpawpal.com/office/268509.jpg?f=webp&w=730"
+    }
+  ]
+}

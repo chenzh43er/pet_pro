@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:04:51.018234+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "ferris",
+    "name": "Ferris",
+    "label": "Ferris, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/ferris/",
+  "offices": [
+    {
+      "officeId": 493777,
+      "slug": "animal-rescue-friends-inc-493777",
+      "name": "Animal Rescue Friends, Inc.",
+      "address": "312 West 8th Street, Ferris, TX 75125",
+      "phone": "972-842-8506",
+      "image": "./img/shelter/office/493777.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-rescue-friends-inc-493777/",
+      "imageUrl": "https://cdn.findpawpal.com/office/493777.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 635251,
+      "slug": "daress-domestic-animal-rescue-shelter-service-635251",
+      "name": "Daress Domestic Animal Rescue Shelter Service",
+      "address": "1200 South Central Street, Ferris, TX 75125",
+      "phone": "888-600-1077",
+      "image": "./img/shelter/office/635251.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/daress-domestic-animal-rescue-shelter-service-635251/",
+      "imageUrl": "https://cdn.findpawpal.com/office/635251.jpg?f=webp&w=730"
+    }
+  ]
+}

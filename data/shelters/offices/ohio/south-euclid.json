@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:46:57.990297+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "south-euclid",
+    "name": "South Euclid",
+    "label": "South Euclid, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/south-euclid/",
+  "offices": [
+    {
+      "officeId": 467579,
+      "slug": "cleveland-animal-control-467579",
+      "name": "Cleveland Animal Control",
+      "address": "4221 Wyncote Road, South Euclid, OH 44121",
+      "phone": "216-382-7387",
+      "image": "./img/shelter/office/467579.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cleveland-animal-control-467579/",
+      "imageUrl": "https://cdn.findpawpal.com/office/467579.jpg?f=webp&w=730"
+    }
+  ]
+}

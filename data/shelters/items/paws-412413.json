@@ -1,0 +1,21 @@
+{
+  "officeId": 412413,
+  "slug": "paws-412413",
+  "name": "PAWS",
+  "address": "3716 North Marybelle Avenue, Peoria, IL 61615",
+  "street": "3716 North Marybelle Avenue",
+  "addressCity": "Peoria",
+  "stateCode": "IL",
+  "zip": "61615",
+  "phone": "309-453-1501",
+  "image": "./img/shelter/office/412413.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/paws-412413/",
+  "stateSlug": "illinois",
+  "stateName": "Illinois",
+  "citySlug": "peoria",
+  "cityName": "Peoria",
+  "cityLabel": "Peoria, IL",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/illinois/peoria/",
+  "fetchedAt": "2026-06-27T18:47:34.448562+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/412413.jpg?f=webp&w=730"
+}

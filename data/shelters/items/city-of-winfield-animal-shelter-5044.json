@@ -1,0 +1,21 @@
+{
+  "officeId": 5044,
+  "slug": "city-of-winfield-animal-shelter-5044",
+  "name": "City of Winfield Animal Shelter",
+  "address": "812 Millington Street, Winfield, KS 67156",
+  "street": "812 Millington Street",
+  "addressCity": "Winfield",
+  "stateCode": "KS",
+  "zip": "67156",
+  "phone": "",
+  "image": "./img/shelter/office/5044.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/city-of-winfield-animal-shelter-5044/",
+  "stateSlug": "kansas",
+  "stateName": "Kansas",
+  "citySlug": "winfield",
+  "cityName": "Winfield",
+  "cityLabel": "Winfield, KS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kansas/winfield/",
+  "fetchedAt": "2026-06-27T18:56:08.023518+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/5044.jpg?f=webp&w=730"
+}

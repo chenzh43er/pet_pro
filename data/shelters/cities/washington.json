@@ -1,0 +1,746 @@
+{
+  "fetchedAt": "2026-06-27T17:48:44.581105+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington",
+    "offices": 195
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/",
+  "cities": [
+    {
+      "slug": "aberdeen",
+      "name": "Aberdeen",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/aberdeen/"
+    },
+    {
+      "slug": "airway-heights",
+      "name": "Airway Heights",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/airway-heights/"
+    },
+    {
+      "slug": "anacortes",
+      "name": "Anacortes",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/anacortes/"
+    },
+    {
+      "slug": "arlington",
+      "name": "Arlington",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/arlington/"
+    },
+    {
+      "slug": "bainbridge-island",
+      "name": "Bainbridge Island",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/bainbridge-island/"
+    },
+    {
+      "slug": "battle-ground",
+      "name": "Battle Ground",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/battle-ground/"
+    },
+    {
+      "slug": "belfair",
+      "name": "Belfair",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/belfair/"
+    },
+    {
+      "slug": "bellevue",
+      "name": "Bellevue",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/bellevue/"
+    },
+    {
+      "slug": "bellingham",
+      "name": "Bellingham",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/bellingham/"
+    },
+    {
+      "slug": "bremerton",
+      "name": "Bremerton",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/bremerton/"
+    },
+    {
+      "slug": "buckley",
+      "name": "Buckley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/buckley/"
+    },
+    {
+      "slug": "burien",
+      "name": "Burien",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/burien/"
+    },
+    {
+      "slug": "burlington",
+      "name": "Burlington",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/burlington/"
+    },
+    {
+      "slug": "camano",
+      "name": "Camano",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/camano/"
+    },
+    {
+      "slug": "centralia",
+      "name": "Centralia",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/centralia/"
+    },
+    {
+      "slug": "chehalis",
+      "name": "Chehalis",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/chehalis/"
+    },
+    {
+      "slug": "cheney",
+      "name": "Cheney",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/cheney/"
+    },
+    {
+      "slug": "clarkston",
+      "name": "Clarkston",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/clarkston/"
+    },
+    {
+      "slug": "colville",
+      "name": "Colville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/colville/"
+    },
+    {
+      "slug": "coupeville",
+      "name": "Coupeville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/coupeville/"
+    },
+    {
+      "slug": "covington",
+      "name": "Covington",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/covington/"
+    },
+    {
+      "slug": "dallesport",
+      "name": "Dallesport",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/dallesport/"
+    },
+    {
+      "slug": "des-moines",
+      "name": "Des Moines",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/des-moines/"
+    },
+    {
+      "slug": "duvall",
+      "name": "Duvall",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/duvall/"
+    },
+    {
+      "slug": "eastsound",
+      "name": "Eastsound",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/eastsound/"
+    },
+    {
+      "slug": "edmonds",
+      "name": "Edmonds",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/edmonds/"
+    },
+    {
+      "slug": "elk",
+      "name": "Elk",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/elk/"
+    },
+    {
+      "slug": "ellensburg",
+      "name": "Ellensburg",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/ellensburg/"
+    },
+    {
+      "slug": "elma",
+      "name": "Elma",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/elma/"
+    },
+    {
+      "slug": "enumclaw",
+      "name": "Enumclaw",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/enumclaw/"
+    },
+    {
+      "slug": "ephrata",
+      "name": "Ephrata",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/ephrata/"
+    },
+    {
+      "slug": "everett",
+      "name": "Everett",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/everett/"
+    },
+    {
+      "slug": "forks",
+      "name": "Forks",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/forks/"
+    },
+    {
+      "slug": "friday-harbor",
+      "name": "Friday Harbor",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/friday-harbor/"
+    },
+    {
+      "slug": "gig-harbor",
+      "name": "Gig Harbor",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/gig-harbor/"
+    },
+    {
+      "slug": "goldendale",
+      "name": "Goldendale",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/goldendale/"
+    },
+    {
+      "slug": "hoquiam",
+      "name": "Hoquiam",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/hoquiam/"
+    },
+    {
+      "slug": "kelso",
+      "name": "Kelso",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/kelso/"
+    },
+    {
+      "slug": "kennewick",
+      "name": "Kennewick",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/kennewick/"
+    },
+    {
+      "slug": "kent",
+      "name": "Kent",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/kent/"
+    },
+    {
+      "slug": "kirkland",
+      "name": "Kirkland",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/kirkland/"
+    },
+    {
+      "slug": "lake-stevens",
+      "name": "Lake Stevens",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/lake-stevens/"
+    },
+    {
+      "slug": "lakewood",
+      "name": "Lakewood",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/lakewood/"
+    },
+    {
+      "slug": "langley",
+      "name": "Langley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/langley/"
+    },
+    {
+      "slug": "long-beach",
+      "name": "Long Beach",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/long-beach/"
+    },
+    {
+      "slug": "longview",
+      "name": "Longview",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/longview/"
+    },
+    {
+      "slug": "lynnwood",
+      "name": "Lynnwood",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/lynnwood/"
+    },
+    {
+      "slug": "mill-creek",
+      "name": "Mill Creek",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/mill-creek/"
+    },
+    {
+      "slug": "moses-lake",
+      "name": "Moses Lake",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/moses-lake/"
+    },
+    {
+      "slug": "mount-vernon",
+      "name": "Mount Vernon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/mount-vernon/"
+    },
+    {
+      "slug": "mukilteo",
+      "name": "Mukilteo",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/mukilteo/"
+    },
+    {
+      "slug": "nine-mile-falls",
+      "name": "Nine Mile Falls",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/nine-mile-falls/"
+    },
+    {
+      "slug": "north-bend",
+      "name": "North Bend",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/north-bend/"
+    },
+    {
+      "slug": "oak-harbor",
+      "name": "Oak Harbor",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/oak-harbor/"
+    },
+    {
+      "slug": "okanogan",
+      "name": "Okanogan",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/okanogan/"
+    },
+    {
+      "slug": "olympia",
+      "name": "Olympia",
+      "offices": 6,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/olympia/"
+    },
+    {
+      "slug": "omak",
+      "name": "Omak",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/omak/"
+    },
+    {
+      "slug": "orting",
+      "name": "Orting",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/orting/"
+    },
+    {
+      "slug": "othello",
+      "name": "Othello",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/othello/"
+    },
+    {
+      "slug": "otis-orchards",
+      "name": "Otis Orchards",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/otis-orchards/"
+    },
+    {
+      "slug": "otis-orchards-east-farms",
+      "name": "Otis Orchards-East Farms",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/otis-orchards-east-farms/"
+    },
+    {
+      "slug": "pasco",
+      "name": "Pasco",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/pasco/"
+    },
+    {
+      "slug": "port-angeles",
+      "name": "Port Angeles",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/port-angeles/"
+    },
+    {
+      "slug": "port-townsend",
+      "name": "Port Townsend",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/port-townsend/"
+    },
+    {
+      "slug": "pullman",
+      "name": "Pullman",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/pullman/"
+    },
+    {
+      "slug": "puyallup",
+      "name": "Puyallup",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/puyallup/"
+    },
+    {
+      "slug": "quilcene",
+      "name": "Quilcene",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/quilcene/"
+    },
+    {
+      "slug": "quincy",
+      "name": "Quincy",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/quincy/"
+    },
+    {
+      "slug": "rainier",
+      "name": "Rainier",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/rainier/"
+    },
+    {
+      "slug": "raymond",
+      "name": "Raymond",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/raymond/"
+    },
+    {
+      "slug": "redmond",
+      "name": "Redmond",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/redmond/"
+    },
+    {
+      "slug": "redondo",
+      "name": "Redondo",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/redondo/"
+    },
+    {
+      "slug": "renton",
+      "name": "Renton",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/renton/"
+    },
+    {
+      "slug": "republic",
+      "name": "Republic",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/republic/"
+    },
+    {
+      "slug": "richland",
+      "name": "Richland",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/richland/"
+    },
+    {
+      "slug": "seattle",
+      "name": "Seattle",
+      "offices": 14,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/seattle/"
+    },
+    {
+      "slug": "sedro-woolley",
+      "name": "Sedro-Woolley",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/sedro-woolley/"
+    },
+    {
+      "slug": "shelton",
+      "name": "Shelton",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/shelton/"
+    },
+    {
+      "slug": "silver-lake",
+      "name": "Silver Lake",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/silver-lake/"
+    },
+    {
+      "slug": "silverdale",
+      "name": "Silverdale",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/silverdale/"
+    },
+    {
+      "slug": "spanaway",
+      "name": "Spanaway",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/spanaway/"
+    },
+    {
+      "slug": "spokane",
+      "name": "Spokane",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/spokane/"
+    },
+    {
+      "slug": "spokane-valley",
+      "name": "Spokane Valley",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/spokane-valley/"
+    },
+    {
+      "slug": "sprague",
+      "name": "Sprague",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/sprague/"
+    },
+    {
+      "slug": "stanwood",
+      "name": "Stanwood",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/stanwood/"
+    },
+    {
+      "slug": "stevenson",
+      "name": "Stevenson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/stevenson/"
+    },
+    {
+      "slug": "sultan",
+      "name": "Sultan",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/sultan/"
+    },
+    {
+      "slug": "sumner",
+      "name": "Sumner",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/sumner/"
+    },
+    {
+      "slug": "suquamish",
+      "name": "Suquamish",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/suquamish/"
+    },
+    {
+      "slug": "tacoma",
+      "name": "Tacoma",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/tacoma/"
+    },
+    {
+      "slug": "taholah",
+      "name": "Taholah",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/taholah/"
+    },
+    {
+      "slug": "tulalip",
+      "name": "Tulalip",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/tulalip/"
+    },
+    {
+      "slug": "twisp",
+      "name": "Twisp",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/twisp/"
+    },
+    {
+      "slug": "union-gap",
+      "name": "Union Gap",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/union-gap/"
+    },
+    {
+      "slug": "university-place",
+      "name": "University Place",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/university-place/"
+    },
+    {
+      "slug": "vancouver",
+      "name": "Vancouver",
+      "offices": 6,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/vancouver/"
+    },
+    {
+      "slug": "vashon",
+      "name": "Vashon",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/vashon/"
+    },
+    {
+      "slug": "walla-walla",
+      "name": "Walla Walla",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/walla-walla/"
+    },
+    {
+      "slug": "warden",
+      "name": "Warden",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/warden/"
+    },
+    {
+      "slug": "washougal",
+      "name": "Washougal",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/washougal/"
+    },
+    {
+      "slug": "wenatchee",
+      "name": "Wenatchee",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/wenatchee/"
+    },
+    {
+      "slug": "woodinville",
+      "name": "Woodinville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/woodinville/"
+    },
+    {
+      "slug": "woodland",
+      "name": "Woodland",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/woodland/"
+    },
+    {
+      "slug": "yakima",
+      "name": "Yakima",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/yakima/"
+    },
+    {
+      "slug": "yelm",
+      "name": "Yelm",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/yelm/"
+    }
+  ]
+}

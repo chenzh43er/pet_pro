@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:25:34.541881+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "clark",
+    "name": "Clark",
+    "label": "Clark, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/clark/",
+  "offices": [
+    {
+      "officeId": 99123,
+      "slug": "companion-critters-inc-99123",
+      "name": "Companion Critters, Inc.",
+      "address": "PO Box 5883, Clark, NJ 07066",
+      "phone": "",
+      "image": "./img/shelter/office/99123.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/companion-critters-inc-99123/",
+      "imageUrl": "https://cdn.findpawpal.com/office/99123.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 99918,
+      "slug": "noahs-ark-animal-rescue-and-placement-99918",
+      "name": "Noah's Ark Animal Rescue & Placement",
+      "address": "PO Box 5734, Clark, NJ 07066",
+      "phone": "732-815-1633",
+      "image": "./img/shelter/office/99918.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/noahs-ark-animal-rescue-and-placement-99918/",
+      "imageUrl": "https://cdn.findpawpal.com/office/99918.jpg?f=webp&w=730"
+    }
+  ]
+}

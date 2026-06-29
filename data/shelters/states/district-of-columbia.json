@@ -1,0 +1,69 @@
+{
+  "stateSlug": "district-of-columbia",
+  "count": 9,
+  "shelters": [
+    {
+      "slug": "american-horse-protection-association-243513",
+      "name": "American Horse Protection Association",
+      "address": "1000 29th Street Northwest, Washington, DC 20007",
+      "phone": "202-965-0500",
+      "image": "https://cdn.findpawpal.com/office/243513.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "american-society-for-the-prevention-of-cruelty-to-animals-282635",
+      "name": "American Society for the Prevention of Cruelty to Animals",
+      "address": "1755 Massachusetts Avenue Northwest, Washington, DC 20036",
+      "phone": "202-232-5020",
+      "image": "https://cdn.findpawpal.com/office/282635.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-shelter-304053",
+      "name": "Animal Shelter",
+      "address": "1201 New York Avenue Northeast, Washington, DC 20002",
+      "phone": "202-576-6664",
+      "image": "https://cdn.findpawpal.com/office/304053.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-dogs-rescue-282580",
+      "name": "City Dogs Rescue",
+      "address": "2121 Decatur Place Northwest, Washington, DC 20008",
+      "phone": "202-567-7364",
+      "image": "https://cdn.findpawpal.com/office/282580.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "doris-day-animal-foundation-240460",
+      "name": "Doris Day Animal Foundation",
+      "address": "227 Massachusetts Avenue Northeast, Washington, DC 20002",
+      "phone": "202-546-1761",
+      "image": "https://cdn.findpawpal.com/office/240460.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-the-united-states-260875",
+      "name": "Humane Society of the United States",
+      "address": "2100 L Street Northwest, Washington, DC 20037",
+      "phone": "202-452-1100",
+      "image": "https://cdn.findpawpal.com/office/260875.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lucky-dog-animal-rescue-260425",
+      "name": "Lucky Dog Animal Rescue",
+      "address": "4319 Harrison Street Northwest, Washington, DC 20015",
+      "phone": "202-664-4206",
+      "image": "https://cdn.findpawpal.com/office/260425.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-washington-animal-rescue-league-medical-center-282589",
+      "name": "The Washington Animal Rescue League-Medical Center",
+      "address": "71 Oglethorpe Street Northwest, Washington, DC 20011",
+      "phone": "202-726-2556",
+      "image": "https://cdn.findpawpal.com/office/282589.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "washington-humane-society-260450",
+      "name": "Washington Humane Society",
+      "address": "7319 Georgia Avenue Northwest, Washington, DC 20012",
+      "phone": "202-723-5730",
+      "image": "https://cdn.findpawpal.com/office/260450.jpg?f=webp&w=730"
+    }
+  ]
+}

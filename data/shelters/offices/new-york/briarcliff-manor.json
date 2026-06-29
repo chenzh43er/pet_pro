@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:32:04.297515+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "briarcliff-manor",
+    "name": "Briarcliff Manor",
+    "label": "Briarcliff Manor, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/briarcliff-manor/",
+  "offices": [
+    {
+      "officeId": 416256,
+      "slug": "spca-of-westchester-county-416256",
+      "name": "SPCA of Westchester County",
+      "address": "590 North State Road, Briarcliff Manor, NY 10510",
+      "phone": "914-941-2894",
+      "image": "./img/shelter/office/416256.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/spca-of-westchester-county-416256/",
+      "imageUrl": "https://cdn.findpawpal.com/office/416256.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "fetchedAt": "2026-06-27T18:14:22.298185+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "fort-myers",
+    "name": "Fort Myers",
+    "label": "Fort Myers, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/fort-myers/",
+  "offices": [
+    {
+      "slug": "luv-a-pet-272085",
+      "name": "Luv-A-Pet",
+      "address": "2015 W 1st St, Fort Myers, FL 33901",
+      "phone": "813-332-3200",
+      "image": "./img/shelter/office/272085.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/luv-a-pet-272085/",
+      "imageUrl": "https://cdn.findpawpal.com/office/272085.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wee-waggin-rescue-inc-273519",
+      "name": "Wee Waggin' Rescue, Inc.",
+      "address": "12604 1st Street, Fort Myers, FL 33905",
+      "phone": "239-849-1236",
+      "image": "./img/shelter/office/273519.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wee-waggin-rescue-inc-273519/",
+      "imageUrl": "https://cdn.findpawpal.com/office/273519.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fort-myers-animal-control-290573",
+      "name": "Fort Myers Animal Control",
+      "address": "14261 Jetport Loop, Fort Myers, FL 33913",
+      "phone": "239-561-0463",
+      "image": "./img/shelter/office/290573.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fort-myers-animal-control-290573/",
+      "imageUrl": "https://cdn.findpawpal.com/office/290573.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "shadowland-dalmatian-rescue-323066",
+      "name": "Shadowland Dalmatian Rescue",
+      "address": "PO Box 3272, Fort Myers, FL 33918",
+      "phone": "239-543-7535",
+      "image": "./img/shelter/office/323066.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/shadowland-dalmatian-rescue-323066/",
+      "imageUrl": "https://cdn.findpawpal.com/office/323066.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "gulf-coast-humane-society-358256",
+      "name": "Gulf Coast Humane Society",
+      "address": "2010 Arcadia Street, Fort Myers, FL 33916",
+      "phone": "239-332-0364",
+      "image": "./img/shelter/office/358256.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gulf-coast-humane-society-358256/",
+      "imageUrl": "https://cdn.findpawpal.com/office/358256.jpg?f=webp&w=730"
+    }
+  ]
+}

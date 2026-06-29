@@ -1,0 +1,51 @@
+{
+  "fetchedAt": "2026-06-27T18:13:38.667566+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "cocoa",
+    "name": "Cocoa",
+    "label": "Cocoa, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/cocoa/",
+  "offices": [
+    {
+      "slug": "grace-equine-rescue-267854",
+      "name": "Grace Equine Rescue",
+      "address": "PO Box 236121, Cocoa, FL 32923",
+      "phone": "321-638-4514",
+      "image": "./img/shelter/office/267854.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/grace-equine-rescue-267854/",
+      "imageUrl": "https://cdn.findpawpal.com/office/267854.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "central-brevard-humane-society-291800",
+      "name": "Central Brevard Humane Society",
+      "address": "1020 Cox Road, Cocoa, FL 32926",
+      "phone": "321-636-3343",
+      "image": "./img/shelter/office/291800.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/central-brevard-humane-society-291800/",
+      "imageUrl": "https://cdn.findpawpal.com/office/291800.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "space-coast-feline-network-291862",
+      "name": "Space Coast Feline Network",
+      "address": "PO Box 624, Cocoa, FL 32923",
+      "phone": "321-633-2040",
+      "image": "./img/shelter/office/291862.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/space-coast-feline-network-291862/",
+      "imageUrl": "https://cdn.findpawpal.com/office/291862.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "nicoals-angels-rescue-354323",
+      "name": "Nicoal's Angels Rescue",
+      "address": "PO Box 236202, Cocoa, FL 32923",
+      "phone": "",
+      "image": "./img/shelter/office/354323.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/nicoals-angels-rescue-354323/",
+      "imageUrl": "https://cdn.findpawpal.com/office/354323.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T19:08:46.932195+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "waltham",
+    "name": "Waltham",
+    "label": "Waltham, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/waltham/",
+  "offices": [
+    {
+      "officeId": 40131,
+      "slug": "the-cat-connection-40131",
+      "name": "The Cat Connection",
+      "address": "PO Box 541435, Waltham, MA 02454",
+      "phone": "781-899-4610",
+      "image": "https://cdn.findpawpal.com/office/40131.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/the-cat-connection-40131/"
+    },
+    {
+      "officeId": 40197,
+      "slug": "kitty-haven-40197",
+      "name": "Kitty Haven",
+      "address": "PO Box 541522, Waltham, MA 02454",
+      "phone": "617-332-9020",
+      "image": "https://cdn.findpawpal.com/office/40197.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/kitty-haven-40197/"
+    }
+  ]
+}

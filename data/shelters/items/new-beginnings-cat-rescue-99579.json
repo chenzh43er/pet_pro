@@ -1,0 +1,21 @@
+{
+  "officeId": 99579,
+  "slug": "new-beginnings-cat-rescue-99579",
+  "name": "New Beginnings Cat Rescue",
+  "address": "1885 Route 57, Hackettstown, NJ 07840",
+  "street": "1885 Route 57",
+  "addressCity": "Hackettstown",
+  "stateCode": "NJ",
+  "zip": "07840",
+  "phone": "908-914-2371",
+  "image": "./img/shelter/office/99579.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/new-beginnings-cat-rescue-99579/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "hackettstown",
+  "cityName": "Hackettstown",
+  "cityLabel": "Hackettstown, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/hackettstown/",
+  "fetchedAt": "2026-06-27T19:26:16.898573+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/99579.jpg?f=webp&w=730"
+}

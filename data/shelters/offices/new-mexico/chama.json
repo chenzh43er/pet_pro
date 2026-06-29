@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:30:10.728266+00:00",
+  "state": {
+    "slug": "new-mexico",
+    "name": "New Mexico"
+  },
+  "city": {
+    "slug": "chama",
+    "name": "Chama",
+    "label": "Chama, NM"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-mexico/chama/",
+  "offices": [
+    {
+      "officeId": 326704,
+      "slug": "chama-valley-humane-society-326704",
+      "name": "Chama Valley Humane Society",
+      "address": "PO Box 131, Chama, NM 87520",
+      "phone": "505-756-0155",
+      "image": "./img/shelter/office/326704.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/chama-valley-humane-society-326704/",
+      "imageUrl": "https://cdn.findpawpal.com/office/326704.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "fetchedAt": "2026-06-27T19:34:23.621104+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "kingston",
+    "name": "Kingston",
+    "label": "Kingston, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/kingston/",
+  "offices": [
+    {
+      "officeId": 312839,
+      "slug": "paws-unlimited-312839",
+      "name": "Paws Unlimited",
+      "address": "637 Murray Road, Kingston, NY 12401",
+      "phone": "845-336-7297",
+      "image": "https://cdn.findpawpal.com/office/312839.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/paws-unlimited-312839/"
+    },
+    {
+      "officeId": 312847,
+      "slug": "ulster-county-spca-312847",
+      "name": "Ulster County SPCA",
+      "address": "20 Wiedy Road, Kingston, NY 12401",
+      "phone": "845-331-5377",
+      "image": "./img/shelter/office/312847.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ulster-county-spca-312847/",
+      "imageUrl": "https://cdn.findpawpal.com/office/312847.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 331003,
+      "slug": "friends-of-shelter-animals-331003",
+      "name": "Friends of Shelter Animals",
+      "address": "143 Upland Road, Kingston, NY 12401",
+      "phone": "845-334-8600",
+      "image": "./img/shelter/office/331003.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-shelter-animals-331003/",
+      "imageUrl": "https://cdn.findpawpal.com/office/331003.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 398890,
+      "slug": "new-york-state-humane-association-inc-398890",
+      "name": "New York State Humane Association, Inc.",
+      "address": "PO Box 3068, Kingston, NY 12402",
+      "phone": "914-336-4514",
+      "image": "./img/shelter/office/398890.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york-state-humane-association-inc-398890/",
+      "imageUrl": "https://cdn.findpawpal.com/office/398890.jpg?f=webp&w=730"
+    }
+  ]
+}

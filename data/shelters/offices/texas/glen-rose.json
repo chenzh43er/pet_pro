@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:05:18.681696+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "glen-rose",
+    "name": "Glen Rose",
+    "label": "Glen Rose, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/glen-rose/",
+  "offices": [
+    {
+      "officeId": 702346,
+      "slug": "glen-rose-animal-control-702346",
+      "name": "Glen Rose Animal Control",
+      "address": "1685 Farm to Market 56, Glen Rose, TX 76043",
+      "phone": "254-897-3113",
+      "image": "./img/shelter/office/702346.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/glen-rose-animal-control-702346/",
+      "imageUrl": "https://cdn.findpawpal.com/office/702346.jpg?f=webp&w=730"
+    }
+  ]
+}

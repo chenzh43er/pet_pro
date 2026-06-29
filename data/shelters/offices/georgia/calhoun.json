@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:38:49.567962+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "calhoun",
+    "name": "Calhoun",
+    "label": "Calhoun, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/calhoun/",
+  "offices": [
+    {
+      "officeId": 138632,
+      "slug": "gordon-county-animal-shelter-138632",
+      "name": "Gordon County Animal Shelter",
+      "address": "790 Harris Beamer Road Southwest, Calhoun, GA 30701",
+      "phone": "706-629-3327",
+      "image": "./img/shelter/office/138632.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gordon-county-animal-shelter-138632/",
+      "imageUrl": "https://cdn.findpawpal.com/office/138632.jpg?f=webp&w=730"
+    }
+  ]
+}

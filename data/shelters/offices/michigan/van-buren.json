@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:13:08.599064+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "van-buren",
+    "name": "Van Buren",
+    "label": "Van Buren, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/van-buren/",
+  "offices": [
+    {
+      "officeId": 237373,
+      "slug": "belleville-animal-control-237373",
+      "name": "Belleville Animal Control",
+      "address": "53 Maple Drive, Van Buren, MI 48111",
+      "phone": "888-228-6073",
+      "image": "https://cdn.findpawpal.com/office/237373.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/belleville-animal-control-237373/"
+    }
+  ]
+}

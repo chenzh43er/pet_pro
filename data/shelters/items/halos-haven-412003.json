@@ -1,0 +1,21 @@
+{
+  "officeId": 412003,
+  "slug": "halos-haven-412003",
+  "name": "Halo's Haven",
+  "address": "1612 Warwick Lane, Schaumburg, IL 60193",
+  "street": "1612 Warwick Lane",
+  "addressCity": "Schaumburg",
+  "stateCode": "IL",
+  "zip": "60193",
+  "phone": "847-334-1339",
+  "image": "./img/shelter/office/412003.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/halos-haven-412003/",
+  "stateSlug": "illinois",
+  "stateName": "Illinois",
+  "citySlug": "schaumburg",
+  "cityName": "Schaumburg",
+  "cityLabel": "Schaumburg, IL",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/illinois/schaumburg/",
+  "fetchedAt": "2026-06-27T18:48:04.946847+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/412003.jpg?f=webp&w=730"
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:42:27.674595+00:00",
+  "state": {
+    "slug": "hawaii",
+    "name": "Hawaii"
+  },
+  "city": {
+    "slug": "kihei",
+    "name": "Kihei",
+    "label": "Kihei, HI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/hawaii/kihei/",
+  "offices": [
+    {
+      "officeId": 440919,
+      "slug": "last-resort-dog-rescue-440919",
+      "name": "Last Resort Dog Rescue",
+      "address": "PO Box 1309, Kihei, HI 96753",
+      "phone": "808-875-1979",
+      "image": "./img/shelter/office/440919.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/last-resort-dog-rescue-440919/",
+      "imageUrl": "https://cdn.findpawpal.com/office/440919.jpg?f=webp&w=730"
+    }
+  ]
+}

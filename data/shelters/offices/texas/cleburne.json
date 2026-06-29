@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:03:50.845512+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "cleburne",
+    "name": "Cleburne",
+    "label": "Cleburne, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/cleburne/",
+  "offices": [
+    {
+      "officeId": 633478,
+      "slug": "city-of-cleburne-animal-shelter-633478",
+      "name": "City of Cleburne Animal Shelter",
+      "address": "2375 Service Dr, Cleburne, TX 76033",
+      "phone": "817-556-8895",
+      "image": "./img/shelter/office/633478.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/city-of-cleburne-animal-shelter-633478/",
+      "imageUrl": "https://cdn.findpawpal.com/office/633478.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 723328,
+      "slug": "johnson-county-humane-society-723328",
+      "name": "Johnson County Humane Society",
+      "address": ", Cleburne, TX",
+      "phone": "940-297-5111",
+      "image": "./img/shelter/office/723328.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/johnson-county-humane-society-723328/",
+      "imageUrl": "https://cdn.findpawpal.com/office/723328.jpg?f=webp&w=730"
+    }
+  ]
+}

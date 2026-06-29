@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:36:02.287369+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "east-granby",
+    "name": "East Granby",
+    "label": "East Granby, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/east-granby/",
+  "offices": [
+    {
+      "officeId": 168455,
+      "slug": "east-granby-town-animal-control-168455",
+      "name": "East Granby Town Animal Control",
+      "address": "7 Memorial Drive, East Granby, CT 06026",
+      "phone": "860-653-5385",
+      "image": "./img/shelter/office/168455.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/east-granby-town-animal-control-168455/",
+      "imageUrl": "https://cdn.findpawpal.com/office/168455.jpg?f=webp&w=730"
+    }
+  ]
+}

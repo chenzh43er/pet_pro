@@ -1,0 +1,21 @@
+{
+  "officeId": 158221,
+  "slug": "tempe-animal-control-158221",
+  "name": "Tempe Animal Control",
+  "address": "301 South McClintock Drive, Tempe, AZ 85281",
+  "street": "301 South McClintock Drive",
+  "addressCity": "Tempe",
+  "stateCode": "AZ",
+  "zip": "85281",
+  "phone": "480-744-5729",
+  "image": "./img/shelter/office/158221.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/tempe-animal-control-158221/",
+  "stateSlug": "arizona",
+  "stateName": "Arizona",
+  "citySlug": "tempe",
+  "cityName": "Tempe",
+  "cityLabel": "Tempe, AZ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/arizona/tempe/",
+  "fetchedAt": "2026-06-27T18:21:05.377946+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/158221.jpg?f=webp&w=730"
+}

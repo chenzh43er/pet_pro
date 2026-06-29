@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:21:49.976779+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "whitman",
+    "name": "Whitman",
+    "label": "Whitman, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/whitman/",
+  "offices": [
+    {
+      "officeId": 696162,
+      "slug": "saving-animals-from-euthanasia-696162",
+      "name": "Saving Animals From Euthanasia",
+      "address": "PO Box 118, Whitman, WV 25652",
+      "phone": "304-239-2325",
+      "image": "https://cdn.findpawpal.com/office/696162.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/saving-animals-from-euthanasia-696162/"
+    }
+  ]
+}

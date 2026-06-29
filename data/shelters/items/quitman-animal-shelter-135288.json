@@ -1,0 +1,21 @@
+{
+  "officeId": 135288,
+  "slug": "quitman-animal-shelter-135288",
+  "name": "Quitman Animal Shelter",
+  "address": "800 North Highland Road, Quitman, GA 31643",
+  "street": "800 North Highland Road",
+  "addressCity": "Quitman",
+  "stateCode": "GA",
+  "zip": "31643",
+  "phone": "229-605-9810",
+  "image": "./img/shelter/office/135288.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/quitman-animal-shelter-135288/",
+  "stateSlug": "georgia",
+  "stateName": "Georgia",
+  "citySlug": "quitman",
+  "cityName": "Quitman",
+  "cityLabel": "Quitman, GA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/georgia/quitman/",
+  "fetchedAt": "2026-06-27T18:41:10.864225+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/135288.jpg?f=webp&w=730"
+}

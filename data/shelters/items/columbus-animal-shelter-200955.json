@@ -1,0 +1,21 @@
+{
+  "officeId": 200955,
+  "slug": "columbus-animal-shelter-200955",
+  "name": "Columbus Animal Shelter",
+  "address": "2730 Arnold Street, Columbus, IN 47203",
+  "street": "2730 Arnold Street",
+  "addressCity": "Columbus",
+  "stateCode": "IN",
+  "zip": "47203",
+  "phone": "812-376-2505",
+  "image": "./img/shelter/office/200955.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/columbus-animal-shelter-200955/",
+  "stateSlug": "indiana",
+  "stateName": "Indiana",
+  "citySlug": "columbus",
+  "cityName": "Columbus",
+  "cityLabel": "Columbus, IN",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/indiana/columbus/",
+  "fetchedAt": "2026-06-27T18:49:41.523931+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/200955.jpg?f=webp&w=730"
+}

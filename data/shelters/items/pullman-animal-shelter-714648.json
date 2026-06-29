@@ -1,0 +1,21 @@
+{
+  "officeId": 714648,
+  "slug": "pullman-animal-shelter-714648",
+  "name": "Pullman Animal Shelter",
+  "address": "635 Northwest Guy Street, Pullman, WA 99163",
+  "street": "635 Northwest Guy Street",
+  "addressCity": "Pullman",
+  "stateCode": "WA",
+  "zip": "99163",
+  "phone": "509-332-3422",
+  "image": "./img/shelter/office/714648.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pullman-animal-shelter-714648/",
+  "stateSlug": "washington",
+  "stateName": "Washington",
+  "citySlug": "pullman",
+  "cityName": "Pullman",
+  "cityLabel": "Pullman, WA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/washington/pullman/",
+  "fetchedAt": "2026-06-27T20:18:41.233128+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/714648.jpg?f=webp&w=730"
+}

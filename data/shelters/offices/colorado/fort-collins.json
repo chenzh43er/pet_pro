@@ -1,0 +1,84 @@
+{
+  "fetchedAt": "2026-06-27T18:34:12.143932+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "fort-collins",
+    "name": "Fort Collins",
+    "label": "Fort Collins, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/fort-collins/",
+  "offices": [
+    {
+      "officeId": 40330,
+      "slug": "husky-rescue-40330",
+      "name": "Husky Rescue",
+      "address": "3516 Canadian Parkway, Fort Collins, CO 80524",
+      "phone": "970-484-5880",
+      "image": "./img/shelter/office/40330.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/husky-rescue-40330/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40330.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40478,
+      "slug": "fort-collins-cat-rescue-40478",
+      "name": "Fort Collins Cat Rescue",
+      "address": "2321 East Mulberry Street, Fort Collins, CO 80524",
+      "phone": "970-484-8516",
+      "image": "./img/shelter/office/40478.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fort-collins-cat-rescue-40478/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40478.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40487,
+      "slug": "animal-house-rescue-and-grooming-40487",
+      "name": "Animal House Rescue & Grooming",
+      "address": "1104 West Vine Drive, Fort Collins, CO 80521",
+      "phone": "970-224-3647",
+      "image": "https://cdn.findpawpal.com/office/40487.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-house-rescue-and-grooming-40487/"
+    },
+    {
+      "officeId": 40496,
+      "slug": "greyhound-rescue-40496",
+      "name": "Greyhound Rescue",
+      "address": "4421 Julian Court, Fort Collins, CO 80528",
+      "phone": "970-203-0535",
+      "image": "./img/shelter/office/40496.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhound-rescue-40496/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40496.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40505,
+      "slug": "coloradowyoming-vizsla-rescue-group-inc-40505",
+      "name": "Coloradowyoming Vizsla Rescue Group, Inc",
+      "address": "1017 Eggleston Street, Fort Collins, CO 80524",
+      "phone": "970-568-9042",
+      "image": "./img/shelter/office/40505.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/coloradowyoming-vizsla-rescue-group-inc-40505/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40505.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40639,
+      "slug": "larimer-humane-society-40639",
+      "name": "Larimer Humane Society",
+      "address": "6317 Kyle Avenue, Fort Collins, CO 80525",
+      "phone": "970-226-3647",
+      "image": "./img/shelter/office/40639.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/larimer-humane-society-40639/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40639.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40651,
+      "slug": "pigasus-homestead-western-co-potbelly-pig-educational-health-center-40651",
+      "name": "Pigasus Homestead Western Co. Potbelly Pig Educational Health Center",
+      "address": "506 South Mack Street, Fort Collins, CO 80521",
+      "phone": "970-858-9628",
+      "image": "./img/shelter/office/40651.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pigasus-homestead-western-co-potbelly-pig-educational-health-center-40651/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40651.jpg?f=webp&w=730"
+    }
+  ]
+}

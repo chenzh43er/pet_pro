@@ -1,0 +1,21 @@
+{
+  "officeId": 105918,
+  "slug": "pet-farm-105918",
+  "name": "Pet Farm",
+  "address": "1753 New Jersey 70, Southampton, NJ 08088",
+  "street": "1753 New Jersey 70",
+  "addressCity": "Southampton",
+  "stateCode": "NJ",
+  "zip": "08088",
+  "phone": "609-856-8074",
+  "image": "./img/shelter/office/105918.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pet-farm-105918/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "southampton",
+  "cityName": "Southampton",
+  "cityLabel": "Southampton, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/southampton/",
+  "fetchedAt": "2026-06-27T19:29:02.142550+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/105918.jpg?f=webp&w=730"
+}

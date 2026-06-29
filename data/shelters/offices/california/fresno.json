@@ -1,0 +1,60 @@
+{
+  "fetchedAt": "2026-06-27T18:26:03.466750+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "fresno",
+    "name": "Fresno",
+    "label": "Fresno, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/fresno/",
+  "offices": [
+    {
+      "slug": "fresno-animal-control-364246",
+      "name": "Fresno Animal Control",
+      "address": "4545 East Dakota Avenue, Fresno, CA 93726",
+      "phone": "559-225-5715",
+      "image": "./img/shelter/office/364246.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fresno-animal-control-364246/",
+      "imageUrl": "https://cdn.findpawpal.com/office/364246.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "not-so-perrrfect-angels-366954",
+      "name": "Not So Perrrfect Angels",
+      "address": "7312 East Church Avenue, Fresno, CA 93737",
+      "phone": "559-255-0409",
+      "image": "./img/shelter/office/366954.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/not-so-perrrfect-angels-366954/",
+      "imageUrl": "https://cdn.findpawpal.com/office/366954.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "california-feline-foundation-486615",
+      "name": "California Feline Foundation",
+      "address": "550 North Van Ness Avenue, Fresno, CA 93728",
+      "phone": "559-233-8554",
+      "image": "./img/shelter/office/486615.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/california-feline-foundation-486615/",
+      "imageUrl": "https://cdn.findpawpal.com/office/486615.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "not-so-purrrfect-angels-667695",
+      "name": "Not So Purrrfect Angels",
+      "address": "PO Box 7679, Fresno, CA 93747",
+      "phone": "559-255-1415",
+      "image": "./img/shelter/office/667695.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/not-so-purrrfect-angels-667695/",
+      "imageUrl": "https://cdn.findpawpal.com/office/667695.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "central-california-spca-668389",
+      "name": "Central California SPCA",
+      "address": "103 South Hughes Avenue, Fresno, CA 93706",
+      "phone": "559-233-7722",
+      "image": "./img/shelter/office/668389.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/central-california-spca-668389/",
+      "imageUrl": "https://cdn.findpawpal.com/office/668389.jpg?f=webp&w=730"
+    }
+  ]
+}

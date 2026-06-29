@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:02:43.589358+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "adamstown",
+    "name": "Adamstown",
+    "label": "Adamstown, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/adamstown/",
+  "offices": [
+    {
+      "officeId": 490702,
+      "slug": "sheltie-haven-sheltie-rescue-inc-490702",
+      "name": "Sheltie Haven Sheltie Rescue, Inc.",
+      "address": "2707 Rosemary Court, Adamstown, MD 21710",
+      "phone": "301-663-0635",
+      "image": "./img/shelter/office/490702.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sheltie-haven-sheltie-rescue-inc-490702/",
+      "imageUrl": "https://cdn.findpawpal.com/office/490702.jpg?f=webp&w=730"
+    }
+  ]
+}

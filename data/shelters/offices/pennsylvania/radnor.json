@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:54:36.795012+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "radnor",
+    "name": "Radnor",
+    "label": "Radnor, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/radnor/",
+  "offices": [
+    {
+      "officeId": 644857,
+      "slug": "radnor-animal-control-644857",
+      "name": "Radnor Animal Control",
+      "address": "328 Upper Gulph Road, Radnor, PA 19087",
+      "phone": "610-688-1018",
+      "image": "./img/shelter/office/644857.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/radnor-animal-control-644857/",
+      "imageUrl": "https://cdn.findpawpal.com/office/644857.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:15:01.067514+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "new-ulm",
+    "name": "New Ulm",
+    "label": "New Ulm, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/new-ulm/",
+  "offices": [
+    {
+      "officeId": 420583,
+      "slug": "brown-county-humane-society-420583",
+      "name": "Brown County Humane Society",
+      "address": "1303 South Valley Street, New Ulm, MN 56073",
+      "phone": "507-359-2312",
+      "image": "./img/shelter/office/420583.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/brown-county-humane-society-420583/",
+      "imageUrl": "https://cdn.findpawpal.com/office/420583.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:12:46.903929+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "arrington",
+    "name": "Arrington",
+    "label": "Arrington, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/arrington/",
+  "offices": [
+    {
+      "officeId": 682982,
+      "slug": "spca-of-nelson-county-682982",
+      "name": "SPCA of Nelson County",
+      "address": "PO Box 85, Arrington, VA 22922",
+      "phone": "804-263-4378",
+      "image": "https://cdn.findpawpal.com/office/682982.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/spca-of-nelson-county-682982/"
+    }
+  ]
+}

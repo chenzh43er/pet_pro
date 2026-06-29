@@ -1,0 +1,21 @@
+{
+  "officeId": 569153,
+  "slug": "edmond-animal-shelter-569153",
+  "name": "Edmond Animal Shelter",
+  "address": "2424 Old Timbers Drive, Edmond, OK 73034",
+  "street": "2424 Old Timbers Drive",
+  "addressCity": "Edmond",
+  "stateCode": "OK",
+  "zip": "73034",
+  "phone": "405-216-7615",
+  "image": "./img/shelter/office/569153.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/edmond-animal-shelter-569153/",
+  "stateSlug": "oklahoma",
+  "stateName": "Oklahoma",
+  "citySlug": "edmond",
+  "cityName": "Edmond",
+  "cityLabel": "Edmond, OK",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/oklahoma/edmond/",
+  "fetchedAt": "2026-06-27T19:48:29.197087+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/569153.jpg?f=webp&w=730"
+}

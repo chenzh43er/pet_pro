@@ -1,0 +1,2461 @@
+{
+  "fetchedAt": "2026-06-27T17:47:30.656542+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California",
+    "offices": 627
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/",
+  "cities": [
+    {
+      "slug": "acton",
+      "name": "Acton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/acton/"
+    },
+    {
+      "slug": "adelanto",
+      "name": "Adelanto",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/adelanto/"
+    },
+    {
+      "slug": "agoura-hills",
+      "name": "Agoura Hills",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/agoura-hills/"
+    },
+    {
+      "slug": "agua-dulce",
+      "name": "Agua Dulce",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/agua-dulce/"
+    },
+    {
+      "slug": "aguanga",
+      "name": "Aguanga",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/aguanga/"
+    },
+    {
+      "slug": "alameda",
+      "name": "Alameda",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/alameda/"
+    },
+    {
+      "slug": "alhambra",
+      "name": "Alhambra",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/alhambra/"
+    },
+    {
+      "slug": "alturas",
+      "name": "Alturas",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/alturas/"
+    },
+    {
+      "slug": "anderson",
+      "name": "Anderson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/anderson/"
+    },
+    {
+      "slug": "antioch",
+      "name": "Antioch",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/antioch/"
+    },
+    {
+      "slug": "anza",
+      "name": "Anza",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/anza/"
+    },
+    {
+      "slug": "apple-valley",
+      "name": "Apple Valley",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/apple-valley/"
+    },
+    {
+      "slug": "arroyo-grande",
+      "name": "Arroyo Grande",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/arroyo-grande/"
+    },
+    {
+      "slug": "arvin",
+      "name": "Arvin",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/arvin/"
+    },
+    {
+      "slug": "atascadero",
+      "name": "Atascadero",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/atascadero/"
+    },
+    {
+      "slug": "atwater",
+      "name": "Atwater",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/atwater/"
+    },
+    {
+      "slug": "auburn",
+      "name": "Auburn",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/auburn/"
+    },
+    {
+      "slug": "avalon",
+      "name": "Avalon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/avalon/"
+    },
+    {
+      "slug": "avenal",
+      "name": "Avenal",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/avenal/"
+    },
+    {
+      "slug": "bakersfield",
+      "name": "Bakersfield",
+      "offices": 7,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/bakersfield/"
+    },
+    {
+      "slug": "baldwin-park",
+      "name": "Baldwin Park",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/baldwin-park/"
+    },
+    {
+      "slug": "banning",
+      "name": "Banning",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/banning/"
+    },
+    {
+      "slug": "barstow",
+      "name": "Barstow",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/barstow/"
+    },
+    {
+      "slug": "bassett",
+      "name": "Bassett",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/bassett/"
+    },
+    {
+      "slug": "belmont",
+      "name": "Belmont",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/belmont/"
+    },
+    {
+      "slug": "ben-lomond",
+      "name": "Ben Lomond",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/ben-lomond/"
+    },
+    {
+      "slug": "benicia",
+      "name": "Benicia",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/benicia/"
+    },
+    {
+      "slug": "berkeley",
+      "name": "Berkeley",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/berkeley/"
+    },
+    {
+      "slug": "beverly-hills",
+      "name": "Beverly Hills",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/beverly-hills/"
+    },
+    {
+      "slug": "big-bear-city",
+      "name": "Big Bear City",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/big-bear-city/"
+    },
+    {
+      "slug": "big-bear-lake",
+      "name": "Big Bear Lake",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/big-bear-lake/"
+    },
+    {
+      "slug": "bishop",
+      "name": "Bishop",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/bishop/"
+    },
+    {
+      "slug": "blue-jay",
+      "name": "Blue Jay",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/blue-jay/"
+    },
+    {
+      "slug": "blue-lake",
+      "name": "Blue Lake",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/blue-lake/"
+    },
+    {
+      "slug": "blythe",
+      "name": "Blythe",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/blythe/"
+    },
+    {
+      "slug": "bonita",
+      "name": "Bonita",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/bonita/"
+    },
+    {
+      "slug": "buellton",
+      "name": "Buellton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/buellton/"
+    },
+    {
+      "slug": "burbank",
+      "name": "Burbank",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/burbank/"
+    },
+    {
+      "slug": "cabazon",
+      "name": "Cabazon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/cabazon/"
+    },
+    {
+      "slug": "california",
+      "name": "California",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/california/"
+    },
+    {
+      "slug": "camarillo",
+      "name": "Camarillo",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/camarillo/"
+    },
+    {
+      "slug": "cambria",
+      "name": "Cambria",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/cambria/"
+    },
+    {
+      "slug": "campbell",
+      "name": "Campbell",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/campbell/"
+    },
+    {
+      "slug": "canoga-park",
+      "name": "Canoga Park",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/canoga-park/"
+    },
+    {
+      "slug": "canyon-country",
+      "name": "Canyon Country",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/canyon-country/"
+    },
+    {
+      "slug": "capitola",
+      "name": "Capitola",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/capitola/"
+    },
+    {
+      "slug": "carlsbad",
+      "name": "Carlsbad",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/carlsbad/"
+    },
+    {
+      "slug": "carmel-valley",
+      "name": "Carmel Valley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/carmel-valley/"
+    },
+    {
+      "slug": "castaic",
+      "name": "Castaic",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/castaic/"
+    },
+    {
+      "slug": "castro-valley",
+      "name": "Castro Valley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/castro-valley/"
+    },
+    {
+      "slug": "cathedral",
+      "name": "Cathedral",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/cathedral/"
+    },
+    {
+      "slug": "chico",
+      "name": "Chico",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/chico/"
+    },
+    {
+      "slug": "chino",
+      "name": "Chino",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/chino/"
+    },
+    {
+      "slug": "chula-vista",
+      "name": "Chula Vista",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/chula-vista/"
+    },
+    {
+      "slug": "citrus-heights",
+      "name": "Citrus Heights",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/citrus-heights/"
+    },
+    {
+      "slug": "claremont",
+      "name": "Claremont",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/claremont/"
+    },
+    {
+      "slug": "clovis",
+      "name": "Clovis",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/clovis/"
+    },
+    {
+      "slug": "coalinga",
+      "name": "Coalinga",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/coalinga/"
+    },
+    {
+      "slug": "colusa",
+      "name": "Colusa",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/colusa/"
+    },
+    {
+      "slug": "concord",
+      "name": "Concord",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/concord/"
+    },
+    {
+      "slug": "corning",
+      "name": "Corning",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/corning/"
+    },
+    {
+      "slug": "corona",
+      "name": "Corona",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/corona/"
+    },
+    {
+      "slug": "coronado",
+      "name": "Coronado",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/coronado/"
+    },
+    {
+      "slug": "costa-mesa",
+      "name": "Costa Mesa",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/costa-mesa/"
+    },
+    {
+      "slug": "cotati",
+      "name": "Cotati",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/cotati/"
+    },
+    {
+      "slug": "covina",
+      "name": "Covina",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/covina/"
+    },
+    {
+      "slug": "crescent",
+      "name": "Crescent",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/crescent/"
+    },
+    {
+      "slug": "daly",
+      "name": "Daly",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/daly/"
+    },
+    {
+      "slug": "dana-point",
+      "name": "Dana Point",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/dana-point/"
+    },
+    {
+      "slug": "davis",
+      "name": "Davis",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/davis/"
+    },
+    {
+      "slug": "del-mar",
+      "name": "Del Mar",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/del-mar/"
+    },
+    {
+      "slug": "desert-hot-springs",
+      "name": "Desert Hot Springs",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/desert-hot-springs/"
+    },
+    {
+      "slug": "diamond-springs",
+      "name": "Diamond Springs",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/diamond-springs/"
+    },
+    {
+      "slug": "dinuba",
+      "name": "Dinuba",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/dinuba/"
+    },
+    {
+      "slug": "dos-palos",
+      "name": "Dos Palos",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/dos-palos/"
+    },
+    {
+      "slug": "downey",
+      "name": "Downey",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/downey/"
+    },
+    {
+      "slug": "dublin",
+      "name": "Dublin",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/dublin/"
+    },
+    {
+      "slug": "el-cajon",
+      "name": "El Cajon",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/el-cajon/"
+    },
+    {
+      "slug": "el-centro",
+      "name": "El Centro",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/el-centro/"
+    },
+    {
+      "slug": "el-cerrito",
+      "name": "El Cerrito",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/el-cerrito/"
+    },
+    {
+      "slug": "el-dorado-hills",
+      "name": "El Dorado Hills",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/el-dorado-hills/"
+    },
+    {
+      "slug": "el-segundo",
+      "name": "El Segundo",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/el-segundo/"
+    },
+    {
+      "slug": "elk-grove",
+      "name": "Elk Grove",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/elk-grove/"
+    },
+    {
+      "slug": "elverta",
+      "name": "Elverta",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/elverta/"
+    },
+    {
+      "slug": "encinitas",
+      "name": "Encinitas",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/encinitas/"
+    },
+    {
+      "slug": "encino",
+      "name": "Encino",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/encino/"
+    },
+    {
+      "slug": "escalon",
+      "name": "Escalon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/escalon/"
+    },
+    {
+      "slug": "escondido",
+      "name": "Escondido",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/escondido/"
+    },
+    {
+      "slug": "eureka",
+      "name": "Eureka",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/eureka/"
+    },
+    {
+      "slug": "fairfield",
+      "name": "Fairfield",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/fairfield/"
+    },
+    {
+      "slug": "fallbrook",
+      "name": "Fallbrook",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/fallbrook/"
+    },
+    {
+      "slug": "fillmore",
+      "name": "Fillmore",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/fillmore/"
+    },
+    {
+      "slug": "folsom",
+      "name": "Folsom",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/folsom/"
+    },
+    {
+      "slug": "forest-ranch",
+      "name": "Forest Ranch",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/forest-ranch/"
+    },
+    {
+      "slug": "fort-bragg",
+      "name": "Fort Bragg",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/fort-bragg/"
+    },
+    {
+      "slug": "fountain-valley",
+      "name": "Fountain Valley",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/fountain-valley/"
+    },
+    {
+      "slug": "fremont",
+      "name": "Fremont",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/fremont/"
+    },
+    {
+      "slug": "french-camp",
+      "name": "French Camp",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/french-camp/"
+    },
+    {
+      "slug": "fresno",
+      "name": "Fresno",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/fresno/"
+    },
+    {
+      "slug": "fullerton",
+      "name": "Fullerton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/fullerton/"
+    },
+    {
+      "slug": "galt",
+      "name": "Galt",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/galt/"
+    },
+    {
+      "slug": "garberville",
+      "name": "Garberville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/garberville/"
+    },
+    {
+      "slug": "garden-grove",
+      "name": "Garden Grove",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/garden-grove/"
+    },
+    {
+      "slug": "gardena",
+      "name": "Gardena",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/gardena/"
+    },
+    {
+      "slug": "glendale",
+      "name": "Glendale",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/glendale/"
+    },
+    {
+      "slug": "glendora",
+      "name": "Glendora",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/glendora/"
+    },
+    {
+      "slug": "goleta",
+      "name": "Goleta",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/goleta/"
+    },
+    {
+      "slug": "grass-valley",
+      "name": "Grass Valley",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/grass-valley/"
+    },
+    {
+      "slug": "gridley",
+      "name": "Gridley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/gridley/"
+    },
+    {
+      "slug": "gualala",
+      "name": "Gualala",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/gualala/"
+    },
+    {
+      "slug": "hanford",
+      "name": "Hanford",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/hanford/"
+    },
+    {
+      "slug": "harbor-city",
+      "name": "Harbor City",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/harbor-city/"
+    },
+    {
+      "slug": "hawthorne",
+      "name": "Hawthorne",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/hawthorne/"
+    },
+    {
+      "slug": "hayward",
+      "name": "Hayward",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/hayward/"
+    },
+    {
+      "slug": "healdsburg",
+      "name": "Healdsburg",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/healdsburg/"
+    },
+    {
+      "slug": "hemet",
+      "name": "Hemet",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/hemet/"
+    },
+    {
+      "slug": "hermosa-beach",
+      "name": "Hermosa Beach",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/hermosa-beach/"
+    },
+    {
+      "slug": "hesperia",
+      "name": "Hesperia",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/hesperia/"
+    },
+    {
+      "slug": "homewood",
+      "name": "Homewood",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/homewood/"
+    },
+    {
+      "slug": "huntington-beach",
+      "name": "Huntington Beach",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/huntington-beach/"
+    },
+    {
+      "slug": "imperial",
+      "name": "Imperial",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/imperial/"
+    },
+    {
+      "slug": "indio",
+      "name": "Indio",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/indio/"
+    },
+    {
+      "slug": "ione",
+      "name": "Ione",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/ione/"
+    },
+    {
+      "slug": "irvine",
+      "name": "Irvine",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/irvine/"
+    },
+    {
+      "slug": "jackson",
+      "name": "Jackson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/jackson/"
+    },
+    {
+      "slug": "jamestown",
+      "name": "Jamestown",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/jamestown/"
+    },
+    {
+      "slug": "joshua-tree",
+      "name": "Joshua Tree",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/joshua-tree/"
+    },
+    {
+      "slug": "june-lake",
+      "name": "June Lake",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/june-lake/"
+    },
+    {
+      "slug": "kelseyville",
+      "name": "Kelseyville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/kelseyville/"
+    },
+    {
+      "slug": "kerman",
+      "name": "Kerman",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/kerman/"
+    },
+    {
+      "slug": "la-crescenta",
+      "name": "La Crescenta",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/la-crescenta/"
+    },
+    {
+      "slug": "la-mesa",
+      "name": "La Mesa",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/la-mesa/"
+    },
+    {
+      "slug": "la-quinta",
+      "name": "La Quinta",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/la-quinta/"
+    },
+    {
+      "slug": "laguna-beach",
+      "name": "Laguna Beach",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/laguna-beach/"
+    },
+    {
+      "slug": "laguna-hills",
+      "name": "Laguna Hills",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/laguna-hills/"
+    },
+    {
+      "slug": "lake-arrowhead",
+      "name": "Lake Arrowhead",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/lake-arrowhead/"
+    },
+    {
+      "slug": "lake-forest",
+      "name": "Lake Forest",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/lake-forest/"
+    },
+    {
+      "slug": "lake-isabella",
+      "name": "Lake Isabella",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/lake-isabella/"
+    },
+    {
+      "slug": "lakeport",
+      "name": "Lakeport",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/lakeport/"
+    },
+    {
+      "slug": "lancaster",
+      "name": "Lancaster",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/lancaster/"
+    },
+    {
+      "slug": "lathrop",
+      "name": "Lathrop",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/lathrop/"
+    },
+    {
+      "slug": "lawndale",
+      "name": "Lawndale",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/lawndale/"
+    },
+    {
+      "slug": "lebec",
+      "name": "Lebec",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/lebec/"
+    },
+    {
+      "slug": "lemoore",
+      "name": "Lemoore",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/lemoore/"
+    },
+    {
+      "slug": "leona-valley",
+      "name": "Leona Valley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/leona-valley/"
+    },
+    {
+      "slug": "lindsay",
+      "name": "Lindsay",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/lindsay/"
+    },
+    {
+      "slug": "littlerock",
+      "name": "Littlerock",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/littlerock/"
+    },
+    {
+      "slug": "livermore",
+      "name": "Livermore",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/livermore/"
+    },
+    {
+      "slug": "lodi",
+      "name": "Lodi",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/lodi/"
+    },
+    {
+      "slug": "loma-linda",
+      "name": "Loma Linda",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/loma-linda/"
+    },
+    {
+      "slug": "lompoc",
+      "name": "Lompoc",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/lompoc/"
+    },
+    {
+      "slug": "long-beach",
+      "name": "Long Beach",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/long-beach/"
+    },
+    {
+      "slug": "loomis",
+      "name": "Loomis",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/loomis/"
+    },
+    {
+      "slug": "los-alamitos",
+      "name": "Los Alamitos",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/los-alamitos/"
+    },
+    {
+      "slug": "los-angeles",
+      "name": "Los Angeles",
+      "offices": 31,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/los-angeles/"
+    },
+    {
+      "slug": "los-banos",
+      "name": "Los Banos",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/los-banos/"
+    },
+    {
+      "slug": "los-gatos",
+      "name": "Los Gatos",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/los-gatos/"
+    },
+    {
+      "slug": "madera",
+      "name": "Madera",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/madera/"
+    },
+    {
+      "slug": "magalia",
+      "name": "Magalia",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/magalia/"
+    },
+    {
+      "slug": "mammoth-lakes",
+      "name": "Mammoth Lakes",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/mammoth-lakes/"
+    },
+    {
+      "slug": "manhattan-beach",
+      "name": "Manhattan Beach",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/manhattan-beach/"
+    },
+    {
+      "slug": "manteca",
+      "name": "Manteca",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/manteca/"
+    },
+    {
+      "slug": "marina",
+      "name": "Marina",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/marina/"
+    },
+    {
+      "slug": "marina-del-rey",
+      "name": "Marina del Rey",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/marina-del-rey/"
+    },
+    {
+      "slug": "mariposa",
+      "name": "Mariposa",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/mariposa/"
+    },
+    {
+      "slug": "martinez",
+      "name": "Martinez",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/martinez/"
+    },
+    {
+      "slug": "mckinleyville",
+      "name": "McKinleyville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/mckinleyville/"
+    },
+    {
+      "slug": "menlo-park",
+      "name": "Menlo Park",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/menlo-park/"
+    },
+    {
+      "slug": "mentone",
+      "name": "Mentone",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/mentone/"
+    },
+    {
+      "slug": "merced",
+      "name": "Merced",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/merced/"
+    },
+    {
+      "slug": "midway-city",
+      "name": "Midway City",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/midway-city/"
+    },
+    {
+      "slug": "mill-valley",
+      "name": "Mill Valley",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/mill-valley/"
+    },
+    {
+      "slug": "milpitas",
+      "name": "Milpitas",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/milpitas/"
+    },
+    {
+      "slug": "mission-viejo",
+      "name": "Mission Viejo",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/mission-viejo/"
+    },
+    {
+      "slug": "modesto",
+      "name": "Modesto",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/modesto/"
+    },
+    {
+      "slug": "mojave",
+      "name": "Mojave",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/mojave/"
+    },
+    {
+      "slug": "monterey",
+      "name": "Monterey",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/monterey/"
+    },
+    {
+      "slug": "monterey-park",
+      "name": "Monterey Park",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/monterey-park/"
+    },
+    {
+      "slug": "moorpark",
+      "name": "Moorpark",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/moorpark/"
+    },
+    {
+      "slug": "moraga",
+      "name": "Moraga",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/moraga/"
+    },
+    {
+      "slug": "moreno-valley",
+      "name": "Moreno Valley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/moreno-valley/"
+    },
+    {
+      "slug": "morgan-hill",
+      "name": "Morgan Hill",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/morgan-hill/"
+    },
+    {
+      "slug": "morongo-valley",
+      "name": "Morongo Valley",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/morongo-valley/"
+    },
+    {
+      "slug": "mount-shasta",
+      "name": "Mount Shasta",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/mount-shasta/"
+    },
+    {
+      "slug": "mountain-center",
+      "name": "Mountain Center",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/mountain-center/"
+    },
+    {
+      "slug": "murrieta",
+      "name": "Murrieta",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/murrieta/"
+    },
+    {
+      "slug": "napa",
+      "name": "Napa",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/napa/"
+    },
+    {
+      "slug": "national",
+      "name": "National",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/national/"
+    },
+    {
+      "slug": "nevada",
+      "name": "Nevada",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/nevada/"
+    },
+    {
+      "slug": "newark",
+      "name": "Newark",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/newark/"
+    },
+    {
+      "slug": "newhall",
+      "name": "Newhall",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/newhall/"
+    },
+    {
+      "slug": "newport-beach",
+      "name": "Newport Beach",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/newport-beach/"
+    },
+    {
+      "slug": "norco",
+      "name": "Norco",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/norco/"
+    },
+    {
+      "slug": "north-hollywood",
+      "name": "North Hollywood",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/north-hollywood/"
+    },
+    {
+      "slug": "north-palm-springs",
+      "name": "North Palm Springs",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/north-palm-springs/"
+    },
+    {
+      "slug": "norwalk",
+      "name": "Norwalk",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/norwalk/"
+    },
+    {
+      "slug": "novato",
+      "name": "Novato",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/novato/"
+    },
+    {
+      "slug": "oak-view",
+      "name": "Oak View",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/oak-view/"
+    },
+    {
+      "slug": "oakdale",
+      "name": "Oakdale",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/oakdale/"
+    },
+    {
+      "slug": "oakhurst",
+      "name": "Oakhurst",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/oakhurst/"
+    },
+    {
+      "slug": "oakland",
+      "name": "Oakland",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/oakland/"
+    },
+    {
+      "slug": "oakley",
+      "name": "Oakley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/oakley/"
+    },
+    {
+      "slug": "oceanside",
+      "name": "Oceanside",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/oceanside/"
+    },
+    {
+      "slug": "olivehurst",
+      "name": "Olivehurst",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/olivehurst/"
+    },
+    {
+      "slug": "ontario",
+      "name": "Ontario",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/ontario/"
+    },
+    {
+      "slug": "orange",
+      "name": "Orange",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/orange/"
+    },
+    {
+      "slug": "orange-cove",
+      "name": "Orange Cove",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/orange-cove/"
+    },
+    {
+      "slug": "orangevale",
+      "name": "Orangevale",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/orangevale/"
+    },
+    {
+      "slug": "orcutt",
+      "name": "Orcutt",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/orcutt/"
+    },
+    {
+      "slug": "orland",
+      "name": "Orland",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/orland/"
+    },
+    {
+      "slug": "oroville",
+      "name": "Oroville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/oroville/"
+    },
+    {
+      "slug": "oxnard",
+      "name": "Oxnard",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/oxnard/"
+    },
+    {
+      "slug": "pacific-palisades",
+      "name": "Pacific Palisades",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/pacific-palisades/"
+    },
+    {
+      "slug": "palm-desert",
+      "name": "Palm Desert",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/palm-desert/"
+    },
+    {
+      "slug": "palm-springs",
+      "name": "Palm Springs",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/palm-springs/"
+    },
+    {
+      "slug": "palmdale",
+      "name": "Palmdale",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/palmdale/"
+    },
+    {
+      "slug": "palo-alto",
+      "name": "Palo Alto",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/palo-alto/"
+    },
+    {
+      "slug": "palo-cedro",
+      "name": "Palo Cedro",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/palo-cedro/"
+    },
+    {
+      "slug": "paradise",
+      "name": "Paradise",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/paradise/"
+    },
+    {
+      "slug": "parlier",
+      "name": "Parlier",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/parlier/"
+    },
+    {
+      "slug": "patterson",
+      "name": "Patterson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/patterson/"
+    },
+    {
+      "slug": "penngrove",
+      "name": "Penngrove",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/penngrove/"
+    },
+    {
+      "slug": "perris",
+      "name": "Perris",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/perris/"
+    },
+    {
+      "slug": "petaluma",
+      "name": "Petaluma",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/petaluma/"
+    },
+    {
+      "slug": "piedmont",
+      "name": "Piedmont",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/piedmont/"
+    },
+    {
+      "slug": "pinole",
+      "name": "Pinole",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/pinole/"
+    },
+    {
+      "slug": "placerville",
+      "name": "Placerville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/placerville/"
+    },
+    {
+      "slug": "pleasant-hill",
+      "name": "Pleasant Hill",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/pleasant-hill/"
+    },
+    {
+      "slug": "pleasanton",
+      "name": "Pleasanton",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/pleasanton/"
+    },
+    {
+      "slug": "pomona",
+      "name": "Pomona",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/pomona/"
+    },
+    {
+      "slug": "portola",
+      "name": "Portola",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/portola/"
+    },
+    {
+      "slug": "quartz-hill",
+      "name": "Quartz Hill",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/quartz-hill/"
+    },
+    {
+      "slug": "quincy",
+      "name": "Quincy",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/quincy/"
+    },
+    {
+      "slug": "ramona",
+      "name": "Ramona",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/ramona/"
+    },
+    {
+      "slug": "rancho-cordova",
+      "name": "Rancho Cordova",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/rancho-cordova/"
+    },
+    {
+      "slug": "rancho-cucamonga",
+      "name": "Rancho Cucamonga",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/rancho-cucamonga/"
+    },
+    {
+      "slug": "rancho-palos-verdes",
+      "name": "Rancho Palos Verdes",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/rancho-palos-verdes/"
+    },
+    {
+      "slug": "rancho-santa-fe",
+      "name": "Rancho Santa Fe",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/rancho-santa-fe/"
+    },
+    {
+      "slug": "rancho-santa-margarita",
+      "name": "Rancho Santa Margarita",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/rancho-santa-margarita/"
+    },
+    {
+      "slug": "red-bluff",
+      "name": "Red Bluff",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/red-bluff/"
+    },
+    {
+      "slug": "redding",
+      "name": "Redding",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/redding/"
+    },
+    {
+      "slug": "redlands",
+      "name": "Redlands",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/redlands/"
+    },
+    {
+      "slug": "redondo-beach",
+      "name": "Redondo Beach",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/redondo-beach/"
+    },
+    {
+      "slug": "redwood",
+      "name": "Redwood",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/redwood/"
+    },
+    {
+      "slug": "redwood-valley",
+      "name": "Redwood Valley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/redwood-valley/"
+    },
+    {
+      "slug": "rialto",
+      "name": "Rialto",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/rialto/"
+    },
+    {
+      "slug": "richmond",
+      "name": "Richmond",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/richmond/"
+    },
+    {
+      "slug": "ridgecrest",
+      "name": "Ridgecrest",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/ridgecrest/"
+    },
+    {
+      "slug": "rio-linda",
+      "name": "Rio Linda",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/rio-linda/"
+    },
+    {
+      "slug": "ripon",
+      "name": "Ripon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/ripon/"
+    },
+    {
+      "slug": "riverside",
+      "name": "Riverside",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/riverside/"
+    },
+    {
+      "slug": "rocklin",
+      "name": "Rocklin",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/rocklin/"
+    },
+    {
+      "slug": "rohnert-park",
+      "name": "Rohnert Park",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/rohnert-park/"
+    },
+    {
+      "slug": "romoland",
+      "name": "Romoland",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/romoland/"
+    },
+    {
+      "slug": "roseville",
+      "name": "Roseville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/roseville/"
+    },
+    {
+      "slug": "sacramento",
+      "name": "Sacramento",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/sacramento/"
+    },
+    {
+      "slug": "salinas",
+      "name": "Salinas",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/salinas/"
+    },
+    {
+      "slug": "san-andreas",
+      "name": "San Andreas",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/san-andreas/"
+    },
+    {
+      "slug": "san-bernardino",
+      "name": "San Bernardino",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/san-bernardino/"
+    },
+    {
+      "slug": "san-carlos",
+      "name": "San Carlos",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/san-carlos/"
+    },
+    {
+      "slug": "san-clemente",
+      "name": "San Clemente",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/san-clemente/"
+    },
+    {
+      "slug": "san-diego",
+      "name": "San Diego",
+      "offices": 12,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/san-diego/"
+    },
+    {
+      "slug": "san-francisco",
+      "name": "San Francisco",
+      "offices": 7,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/san-francisco/"
+    },
+    {
+      "slug": "san-gabriel",
+      "name": "San Gabriel",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/san-gabriel/"
+    },
+    {
+      "slug": "san-jacinto",
+      "name": "San Jacinto",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/san-jacinto/"
+    },
+    {
+      "slug": "san-jose",
+      "name": "San Jose",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/san-jose/"
+    },
+    {
+      "slug": "san-juan-bautista",
+      "name": "San Juan Bautista",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/san-juan-bautista/"
+    },
+    {
+      "slug": "san-juan-capistrano",
+      "name": "San Juan Capistrano",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/san-juan-capistrano/"
+    },
+    {
+      "slug": "san-leandro",
+      "name": "San Leandro",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/san-leandro/"
+    },
+    {
+      "slug": "san-luis-obispo",
+      "name": "San Luis Obispo",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/san-luis-obispo/"
+    },
+    {
+      "slug": "san-martin",
+      "name": "San Martin",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/san-martin/"
+    },
+    {
+      "slug": "san-mateo",
+      "name": "San Mateo",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/san-mateo/"
+    },
+    {
+      "slug": "san-pablo",
+      "name": "San Pablo",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/san-pablo/"
+    },
+    {
+      "slug": "san-rafael",
+      "name": "San Rafael",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/san-rafael/"
+    },
+    {
+      "slug": "santa-ana",
+      "name": "Santa Ana",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/santa-ana/"
+    },
+    {
+      "slug": "santa-barbara",
+      "name": "Santa Barbara",
+      "offices": 7,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/santa-barbara/"
+    },
+    {
+      "slug": "santa-clara",
+      "name": "Santa Clara",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/santa-clara/"
+    },
+    {
+      "slug": "santa-clarita",
+      "name": "Santa Clarita",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/santa-clarita/"
+    },
+    {
+      "slug": "santa-cruz",
+      "name": "Santa Cruz",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/santa-cruz/"
+    },
+    {
+      "slug": "santa-maria",
+      "name": "Santa Maria",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/santa-maria/"
+    },
+    {
+      "slug": "santa-monica",
+      "name": "Santa Monica",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/santa-monica/"
+    },
+    {
+      "slug": "santa-paula",
+      "name": "Santa Paula",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/santa-paula/"
+    },
+    {
+      "slug": "santa-rosa",
+      "name": "Santa Rosa",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/santa-rosa/"
+    },
+    {
+      "slug": "santa-ynez",
+      "name": "Santa Ynez",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/santa-ynez/"
+    },
+    {
+      "slug": "saratoga",
+      "name": "Saratoga",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/saratoga/"
+    },
+    {
+      "slug": "seal-beach",
+      "name": "Seal Beach",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/seal-beach/"
+    },
+    {
+      "slug": "sebastopol",
+      "name": "Sebastopol",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/sebastopol/"
+    },
+    {
+      "slug": "selma",
+      "name": "Selma",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/selma/"
+    },
+    {
+      "slug": "shafter",
+      "name": "Shafter",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/shafter/"
+    },
+    {
+      "slug": "shasta-lake",
+      "name": "Shasta Lake",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/shasta-lake/"
+    },
+    {
+      "slug": "simi-valley",
+      "name": "Simi Valley",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/simi-valley/"
+    },
+    {
+      "slug": "solvang",
+      "name": "Solvang",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/solvang/"
+    },
+    {
+      "slug": "somis",
+      "name": "Somis",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/somis/"
+    },
+    {
+      "slug": "sonoma",
+      "name": "Sonoma",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/sonoma/"
+    },
+    {
+      "slug": "soquel",
+      "name": "Soquel",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/soquel/"
+    },
+    {
+      "slug": "south-lake-tahoe",
+      "name": "South Lake Tahoe",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/south-lake-tahoe/"
+    },
+    {
+      "slug": "spring-valley",
+      "name": "Spring Valley",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/spring-valley/"
+    },
+    {
+      "slug": "squaw-valley",
+      "name": "Squaw Valley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/squaw-valley/"
+    },
+    {
+      "slug": "st-helena",
+      "name": "St. Helena",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/st-helena/"
+    },
+    {
+      "slug": "standish",
+      "name": "Standish",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/standish/"
+    },
+    {
+      "slug": "stockton",
+      "name": "Stockton",
+      "offices": 5,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/stockton/"
+    },
+    {
+      "slug": "suisun",
+      "name": "Suisun",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/suisun/"
+    },
+    {
+      "slug": "sunnyvale",
+      "name": "Sunnyvale",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/sunnyvale/"
+    },
+    {
+      "slug": "susanville",
+      "name": "Susanville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/susanville/"
+    },
+    {
+      "slug": "sutter-creek",
+      "name": "Sutter Creek",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/sutter-creek/"
+    },
+    {
+      "slug": "sylmar",
+      "name": "Sylmar",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/sylmar/"
+    },
+    {
+      "slug": "tehachapi",
+      "name": "Tehachapi",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/tehachapi/"
+    },
+    {
+      "slug": "temecula",
+      "name": "Temecula",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/temecula/"
+    },
+    {
+      "slug": "temple",
+      "name": "Temple",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/temple/"
+    },
+    {
+      "slug": "templeton",
+      "name": "Templeton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/templeton/"
+    },
+    {
+      "slug": "thousand-oaks",
+      "name": "Thousand Oaks",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/thousand-oaks/"
+    },
+    {
+      "slug": "thousand-palms",
+      "name": "Thousand Palms",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/thousand-palms/"
+    },
+    {
+      "slug": "torrance",
+      "name": "Torrance",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/torrance/"
+    },
+    {
+      "slug": "trabuco-canyon",
+      "name": "Trabuco Canyon",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/trabuco-canyon/"
+    },
+    {
+      "slug": "tracy",
+      "name": "Tracy",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/tracy/"
+    },
+    {
+      "slug": "truckee",
+      "name": "Truckee",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/truckee/"
+    },
+    {
+      "slug": "tujunga",
+      "name": "Tujunga",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/tujunga/"
+    },
+    {
+      "slug": "tulare",
+      "name": "Tulare",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/tulare/"
+    },
+    {
+      "slug": "turlock",
+      "name": "Turlock",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/turlock/"
+    },
+    {
+      "slug": "twentynine-palms",
+      "name": "Twentynine Palms",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/twentynine-palms/"
+    },
+    {
+      "slug": "ukiah",
+      "name": "Ukiah",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/ukiah/"
+    },
+    {
+      "slug": "union",
+      "name": "Union",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/union/"
+    },
+    {
+      "slug": "universal-city",
+      "name": "Universal City",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/universal-city/"
+    },
+    {
+      "slug": "upland",
+      "name": "Upland",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/upland/"
+    },
+    {
+      "slug": "vacaville",
+      "name": "Vacaville",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/vacaville/"
+    },
+    {
+      "slug": "vallejo",
+      "name": "Vallejo",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/vallejo/"
+    },
+    {
+      "slug": "valley-center",
+      "name": "Valley Center",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/valley-center/"
+    },
+    {
+      "slug": "ventura",
+      "name": "Ventura",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/ventura/"
+    },
+    {
+      "slug": "victorville",
+      "name": "Victorville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/victorville/"
+    },
+    {
+      "slug": "visalia",
+      "name": "Visalia",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/visalia/"
+    },
+    {
+      "slug": "vista",
+      "name": "Vista",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/vista/"
+    },
+    {
+      "slug": "walnut-creek",
+      "name": "Walnut Creek",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/walnut-creek/"
+    },
+    {
+      "slug": "wasco",
+      "name": "Wasco",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/wasco/"
+    },
+    {
+      "slug": "watsonville",
+      "name": "Watsonville",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/watsonville/"
+    },
+    {
+      "slug": "weaverville",
+      "name": "Weaverville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/weaverville/"
+    },
+    {
+      "slug": "west-hollywood",
+      "name": "West Hollywood",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/west-hollywood/"
+    },
+    {
+      "slug": "west-sacramento",
+      "name": "West Sacramento",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/west-sacramento/"
+    },
+    {
+      "slug": "westminster",
+      "name": "Westminster",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/westminster/"
+    },
+    {
+      "slug": "westwood",
+      "name": "Westwood",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/westwood/"
+    },
+    {
+      "slug": "wildomar",
+      "name": "Wildomar",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/wildomar/"
+    },
+    {
+      "slug": "willits",
+      "name": "Willits",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/willits/"
+    },
+    {
+      "slug": "willows",
+      "name": "Willows",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/willows/"
+    },
+    {
+      "slug": "winchester",
+      "name": "Winchester",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/winchester/"
+    },
+    {
+      "slug": "windsor",
+      "name": "Windsor",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/windsor/"
+    },
+    {
+      "slug": "woodland",
+      "name": "Woodland",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/woodland/"
+    },
+    {
+      "slug": "woodland-hills",
+      "name": "Woodland Hills",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/woodland-hills/"
+    },
+    {
+      "slug": "yreka",
+      "name": "Yreka",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/yreka/"
+    },
+    {
+      "slug": "yuba",
+      "name": "Yuba",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/yuba/"
+    },
+    {
+      "slug": "yucaipa",
+      "name": "Yucaipa",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/california/yucaipa/"
+    },
+    {
+      "slug": "yucca-valley",
+      "name": "Yucca Valley",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/yucca-valley/"
+    }
+  ]
+}

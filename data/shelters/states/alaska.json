@@ -1,0 +1,230 @@
+{
+  "stateSlug": "alaska",
+  "count": 32,
+  "shelters": [
+    {
+      "slug": "alaska-animal-control-130016",
+      "name": "Alaska Animal Control",
+      "address": "549 West International Airport Road, Anchorage, AK 99518",
+      "phone": "907-562-2999",
+      "image": "https://cdn.findpawpal.com/office/130016.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alaska-humane-society-152625",
+      "name": "Alaska Humane Society",
+      "address": "1200 East 76th Avenue, Anchorage, AK 99518",
+      "phone": "907-344-8808",
+      "image": "https://cdn.findpawpal.com/office/152625.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alaska-spca-144131",
+      "name": "Alaska SPCA",
+      "address": "7309 Arctic Boulevard, Anchorage, AK 99518",
+      "phone": "907-344-3622",
+      "image": "https://cdn.findpawpal.com/office/144131.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-control-130026",
+      "name": "Animal Control",
+      "address": "4711 Elmore Road, Anchorage, AK 99507",
+      "phone": "907-343-8119",
+      "image": "https://cdn.findpawpal.com/office/130026.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-shelter-anchorage-136877",
+      "name": "Animal Shelter Anchorage",
+      "address": "3600 East Tudor Road, Anchorage, AK 99507",
+      "phone": "907-561-1369",
+      "image": "https://cdn.findpawpal.com/office/136877.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chateau-pampered-purr-133698",
+      "name": "Chateau Pampered Purr",
+      "address": "611 West Tudor Road, Anchorage, AK 99503",
+      "phone": "907-248-0155",
+      "image": "https://cdn.findpawpal.com/office/133698.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chinchillas-alaska-141062",
+      "name": "Chinchillas Alaska",
+      "address": "6735 Lisa Court, Anchorage, AK 99507",
+      "phone": "907-346-1214",
+      "image": "https://cdn.findpawpal.com/office/141062.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-pets-136791",
+      "name": "Friends of Pets",
+      "address": "PO Box 240981, Anchorage, AK 99524",
+      "phone": "907-562-2535",
+      "image": "https://cdn.findpawpal.com/office/136791.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kitty-and-k-9-connection-142504",
+      "name": "Kitty & K-9 Connection",
+      "address": "13140 Midori Drive, Anchorage, AK 99516",
+      "phone": "907-345-2096",
+      "image": "https://cdn.findpawpal.com/office/142504.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "matanuska-susitna-valley-humane-society-129530",
+      "name": "Matanuska Susitna Valley Humane Society",
+      "address": "PO Box 520208, Big Lake, AK 99652",
+      "phone": "907-892-6515",
+      "image": "https://cdn.findpawpal.com/office/129530.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "german-shepherd-dog-rescue-group-of-alaska-152651",
+      "name": "German Shepherd Dog Rescue Group of Alaska",
+      "address": "PO Box 670266, Chugiak, AK 99567",
+      "phone": "907-688-2352",
+      "image": "https://cdn.findpawpal.com/office/152651.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rascal-and-p-a-l-s-ferret-rescue-and-resort-142608",
+      "name": "Rascal and P.A.L.S Ferret Rescue & Resort",
+      "address": "PO Box 771229, Eagle River, AK 99577",
+      "phone": "907-275-1920",
+      "image": "https://cdn.findpawpal.com/office/142608.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fairbanks-animal-control-shelter-129879",
+      "name": "Fairbanks Animal Control/Shelter",
+      "address": "2408 Davis Road, Fairbanks, AK 99701",
+      "phone": "907-459-1451",
+      "image": "https://cdn.findpawpal.com/office/129879.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "haines-animal-rescue-kennel-716967",
+      "name": "Haines Animal Rescue Kennel",
+      "address": "1 mile Small Tracts Rd, Haines, AK 99827",
+      "phone": "907-766-3334",
+      "image": "https://cdn.findpawpal.com/office/716967.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "homer-animal-friends-136621",
+      "name": "Homer Animal Friends",
+      "address": "PO Box 2300, Homer, AK 99603",
+      "phone": "907-235-7729",
+      "image": "https://cdn.findpawpal.com/office/136621.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "homer-city-animal-shelter-133664",
+      "name": "Homer City Animal Shelter",
+      "address": "4060 Heath Street, Homer, AK 99603",
+      "phone": "907-235-3141",
+      "image": "https://cdn.findpawpal.com/office/133664.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "gastineau-humane-society-716644",
+      "name": "Gastineau Humane Society",
+      "address": "7705 Glacier Highway, Juneau, AK 99801",
+      "phone": "907-789-0260",
+      "image": "https://cdn.findpawpal.com/office/716644.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kenai-animal-shelter-133683",
+      "name": "Kenai Animal Shelter",
+      "address": "510 North Willow Street, Kenai, AK 99611",
+      "phone": "907-283-7353",
+      "image": "https://cdn.findpawpal.com/office/133683.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ketchikan-gateway-borough-animal-protection-pat-wise-shelter-716700",
+      "name": "Ketchikan Gateway Borough Animal Protection Pat Wise Shelter",
+      "address": "1111 Stedman Street, Ketchikan, AK 99901",
+      "phone": "907-225-2880",
+      "image": "https://cdn.findpawpal.com/office/716700.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kodiak-animal-shelter-716719",
+      "name": "Kodiak Animal Shelter",
+      "address": "2409 Mill Bay Road, Kodiak, AK 99615",
+      "phone": "907-486-8077",
+      "image": "https://cdn.findpawpal.com/office/716719.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lost-n-found-pets-and-the-pet-ride-mini-shelter-141123",
+      "name": "Lost-N-Found Pets & The Pet Ride Mini Shelter",
+      "address": "1926 Holmes Road, North Pole, AK 99705",
+      "phone": "907-488-4209",
+      "image": "https://cdn.findpawpal.com/office/141123.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "north-pole-animal-control-133796",
+      "name": "North Pole Animal Control",
+      "address": "1360 Old Richardson Highway, North Pole, AK 99705",
+      "phone": "907-488-0516",
+      "image": "https://cdn.findpawpal.com/office/133796.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alaska-dog-and-puppy-rescue-129544",
+      "name": "Alaska Dog & Puppy Rescue",
+      "address": "1675 North Winding Brook Loop, Palmer, AK 99645",
+      "phone": "907-745-7030",
+      "image": "https://cdn.findpawpal.com/office/129544.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "matanuska-susitna-borough-animal-shelter-144030",
+      "name": "Matanuska-Susitna Borough Animal Shelter",
+      "address": "9470 East Chanlyut Circle, Palmer, AK 99645",
+      "phone": "907-746-5500",
+      "image": "https://cdn.findpawpal.com/office/144030.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "seward-city-animal-control-716457",
+      "name": "Seward City Animal Control",
+      "address": "412 6th Avenue, Seward, AK 99664",
+      "phone": "907-224-7495",
+      "image": "https://cdn.findpawpal.com/office/716457.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "soldotna-animal-control-138309",
+      "name": "Soldotna Animal Control",
+      "address": "205 South Kobuk Street, Soldotna, AK 99669",
+      "phone": "907-262-3969",
+      "image": "https://cdn.findpawpal.com/office/138309.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spca-of-the-kenai-peninsula-inc-142430",
+      "name": "SPCA of the Kenai Peninsula, Inc.",
+      "address": "PO Box 231, Sterling, AK 99672",
+      "phone": "907-262-8800",
+      "image": "https://cdn.findpawpal.com/office/142430.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ruff-start-kennel-and-rescue-152711",
+      "name": "Ruff Start Kennel and Rescue",
+      "address": "PO Box 16061, Two Rivers, AK 99716",
+      "phone": "907-488-8894",
+      "image": "https://cdn.findpawpal.com/office/152711.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-league-133525",
+      "name": "Second Chance League",
+      "address": "PO Box 16272, Two Rivers, AK 99716",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/133525.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-the-valdez-animal-shelter-716895",
+      "name": "Friends of the Valdez Animal Shelter",
+      "address": "201 Chenega Avenue, Valdez, AK 99686",
+      "phone": "907-835-4560",
+      "image": "https://cdn.findpawpal.com/office/716895.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ak-cat-136662",
+      "name": "AK CAT",
+      "address": "3400 East Naomi Avenue, Wasilla, AK 99654",
+      "phone": "907-232-4444",
+      "image": "https://cdn.findpawpal.com/office/136662.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "meadow-gates-farm-sanctuary-144020",
+      "name": "Meadow Gates Farm Sanctuary",
+      "address": "3291 Pittman Road, Wasilla, AK 99623",
+      "phone": "907-357-6437",
+      "image": "https://cdn.findpawpal.com/office/144020.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:21:42.602820+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "wellsburg",
+    "name": "Wellsburg",
+    "label": "Wellsburg, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/wellsburg/",
+  "offices": [
+    {
+      "officeId": 622607,
+      "slug": "brooke-county-animal-welfare-league-622607",
+      "name": "Brooke County Animal Welfare League",
+      "address": "PO Box 537, Wellsburg, WV 26070",
+      "phone": "304-737-4444",
+      "image": "https://cdn.findpawpal.com/office/622607.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/brooke-county-animal-welfare-league-622607/"
+    }
+  ]
+}

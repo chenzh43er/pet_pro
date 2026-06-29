@@ -1,0 +1,65 @@
+{
+  "fetchedAt": "2026-06-27T20:04:40.616677+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "el-paso",
+    "name": "El Paso",
+    "label": "El Paso, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/el-paso/",
+  "offices": [
+    {
+      "officeId": 477983,
+      "slug": "animal-alliance-society-477983",
+      "name": "Animal Alliance Society",
+      "address": "10553 Murphy Street, El Paso, TX 79924",
+      "phone": "915-581-9500",
+      "image": "./img/shelter/office/477983.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-alliance-society-477983/",
+      "imageUrl": "https://cdn.findpawpal.com/office/477983.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 493504,
+      "slug": "humane-society-of-el-paso-493504",
+      "name": "Humane Society of El Paso",
+      "address": "4991 Fred Wilson Avenue, El Paso, TX 79906",
+      "phone": "915-532-6971",
+      "image": "./img/shelter/office/493504.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-el-paso-493504/",
+      "imageUrl": "https://cdn.findpawpal.com/office/493504.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 538403,
+      "slug": "passion-horse-dfw-canine-equine-rescue-538403",
+      "name": "Passion Horse Dfw Canine Equine Rescue",
+      "address": "9304 Joshua Louis Drive, El Paso, TX 79938",
+      "phone": "817-372-0047",
+      "image": "./img/shelter/office/538403.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/passion-horse-dfw-canine-equine-rescue-538403/",
+      "imageUrl": "https://cdn.findpawpal.com/office/538403.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 538420,
+      "slug": "no-kill-el-paso-538420",
+      "name": "No Kill El Paso",
+      "address": "8495 Neptune Street, El Paso, TX 79904",
+      "phone": "559-633-0822",
+      "image": "./img/shelter/office/538420.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/no-kill-el-paso-538420/",
+      "imageUrl": "https://cdn.findpawpal.com/office/538420.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 633086,
+      "slug": "humane-society-of-el-paso-inc-633086",
+      "name": "Humane Society of El Paso, Inc.",
+      "address": "325 Shelter Place, El Paso, TX 79905",
+      "phone": "915-532-6771",
+      "image": "./img/shelter/office/633086.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-el-paso-inc-633086/",
+      "imageUrl": "https://cdn.findpawpal.com/office/633086.jpg?f=webp&w=730"
+    }
+  ]
+}

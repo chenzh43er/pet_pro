@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:09:07.866262+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "worcester",
+    "name": "Worcester",
+    "label": "Worcester, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/worcester/",
+  "offices": [
+    {
+      "officeId": 40786,
+      "slug": "broken-tail-rescue-40786",
+      "name": "Broken Tail Rescue",
+      "address": "PO Box 295, Worcester, MA 01614",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/40786.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/broken-tail-rescue-40786/"
+    },
+    {
+      "officeId": 43998,
+      "slug": "worcester-animal-rescue-league-43998",
+      "name": "Worcester Animal Rescue League",
+      "address": "139 Holden Street, Worcester, MA 01606",
+      "phone": "508-853-0030",
+      "image": "./img/shelter/office/43998.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/worcester-animal-rescue-league-43998/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43998.jpg?f=webp&w=730"
+    }
+  ]
+}

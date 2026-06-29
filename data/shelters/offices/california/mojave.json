@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-06-27T18:27:59.852152+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "mojave",
+    "name": "Mojave",
+    "label": "Mojave, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/mojave/",
+  "offices": [
+    {
+      "slug": "mojave-animal-shelter-kern-county-animal-services-388128",
+      "name": "Mojave Animal Shelter, Kern County Animal Services",
+      "address": "923 Poole Street, Mojave, CA 93501",
+      "phone": "661-824-1030",
+      "image": "https://cdn.findpawpal.com/office/388128.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/mojave-animal-shelter-kern-county-animal-services-388128/"
+    }
+  ]
+}

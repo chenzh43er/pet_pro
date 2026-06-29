@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:19:57.966640+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "bruceton-mills",
+    "name": "Bruceton Mills",
+    "label": "Bruceton Mills, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/bruceton-mills/",
+  "offices": [
+    {
+      "officeId": 622570,
+      "slug": "almost-aussies-622570",
+      "name": "Almost Aussies",
+      "address": "4316 Cuzzart Road, Bruceton Mills, WV 26525",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/622570.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/almost-aussies-622570/"
+    }
+  ]
+}

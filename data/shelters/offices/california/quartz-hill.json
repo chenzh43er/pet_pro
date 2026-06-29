@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:29:25.200890+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "quartz-hill",
+    "name": "Quartz Hill",
+    "label": "Quartz Hill, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/quartz-hill/",
+  "offices": [
+    {
+      "officeId": 477403,
+      "slug": "aniwayha-wild-rescue-477403",
+      "name": "Aniwayha Wild Rescue",
+      "address": "41642 47th Street West, Quartz Hill, CA 93536",
+      "phone": "661-414-7504",
+      "image": "./img/shelter/office/477403.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/aniwayha-wild-rescue-477403/",
+      "imageUrl": "https://cdn.findpawpal.com/office/477403.jpg?f=webp&w=730"
+    }
+  ]
+}

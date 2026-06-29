@@ -1,0 +1,21 @@
+{
+  "officeId": 316668,
+  "slug": "kent-animal-shelter-316668",
+  "name": "Kent Animal Shelter",
+  "address": "2259 River Road, Calverton, NY 11933",
+  "street": "2259 River Road",
+  "addressCity": "Calverton",
+  "stateCode": "NY",
+  "zip": "11933",
+  "phone": "631-727-5731",
+  "image": "./img/shelter/office/316668.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/kent-animal-shelter-316668/",
+  "stateSlug": "new-york",
+  "stateName": "New York",
+  "citySlug": "calverton",
+  "cityName": "Calverton",
+  "cityLabel": "Calverton, NY",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-york/calverton/",
+  "fetchedAt": "2026-06-27T19:32:15.134021+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/316668.jpg?f=webp&w=730"
+}

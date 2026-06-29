@@ -1,0 +1,21 @@
+{
+  "officeId": 611058,
+  "slug": "walla-walla-animal-control-611058",
+  "name": "Walla Walla Animal Control",
+  "address": "15 North 3rd Avenue, Walla Walla, WA 99362",
+  "street": "15 North 3rd Avenue",
+  "addressCity": "Walla Walla",
+  "stateCode": "WA",
+  "zip": "99362",
+  "phone": "509-527-1960",
+  "image": "./img/shelter/office/611058.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/walla-walla-animal-control-611058/",
+  "stateSlug": "washington",
+  "stateName": "Washington",
+  "citySlug": "walla-walla",
+  "cityName": "Walla Walla",
+  "cityLabel": "Walla Walla, WA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/washington/walla-walla/",
+  "fetchedAt": "2026-06-27T20:19:30.832258+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/611058.jpg?f=webp&w=730"
+}

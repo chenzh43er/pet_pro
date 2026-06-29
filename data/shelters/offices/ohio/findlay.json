@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:44:19.180400+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "findlay",
+    "name": "Findlay",
+    "label": "Findlay, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/findlay/",
+  "offices": [
+    {
+      "officeId": 423540,
+      "slug": "putnam-pet-rescue-423540",
+      "name": "Putnam Pet Rescue",
+      "address": "2123 Normandy Dr, Findlay, OH 45840",
+      "phone": "419-384-3785",
+      "image": "./img/shelter/office/423540.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/putnam-pet-rescue-423540/",
+      "imageUrl": "https://cdn.findpawpal.com/office/423540.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 467573,
+      "slug": "humane-society-and-spca-of-hancock-county-467573",
+      "name": "Humane Society & SPCA of Hancock County",
+      "address": "4550 Fostoria Avenue, Findlay, OH 45840",
+      "phone": "419-423-1664",
+      "image": "./img/shelter/office/467573.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-and-spca-of-hancock-county-467573/",
+      "imageUrl": "https://cdn.findpawpal.com/office/467573.jpg?f=webp&w=730"
+    }
+  ]
+}

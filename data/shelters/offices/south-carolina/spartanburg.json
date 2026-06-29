@@ -1,0 +1,54 @@
+{
+  "fetchedAt": "2026-06-27T19:58:16.853765+00:00",
+  "state": {
+    "slug": "south-carolina",
+    "name": "South Carolina"
+  },
+  "city": {
+    "slug": "spartanburg",
+    "name": "Spartanburg",
+    "label": "Spartanburg, SC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-carolina/spartanburg/",
+  "offices": [
+    {
+      "officeId": 582179,
+      "slug": "spartanburg-animal-control-582179",
+      "name": "Spartanburg Animal Control",
+      "address": "298 Broadcast Drive, Spartanburg, SC 29303",
+      "phone": "864-596-3582",
+      "image": "https://cdn.findpawpal.com/office/582179.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/spartanburg-animal-control-582179/"
+    },
+    {
+      "officeId": 592529,
+      "slug": "animal-allies-clinic-592529",
+      "name": "Animal Allies Clinic",
+      "address": "1097 Asheville Highway, Spartanburg, SC 29303",
+      "phone": "864-576-6971",
+      "image": "./img/shelter/office/592529.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-allies-clinic-592529/",
+      "imageUrl": "https://cdn.findpawpal.com/office/592529.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 599259,
+      "slug": "critter-connection-599259",
+      "name": "Critter Connection",
+      "address": "1480 Boiling Springs Road, Spartanburg, SC 29303",
+      "phone": "864-578-9226",
+      "image": "./img/shelter/office/599259.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/critter-connection-599259/",
+      "imageUrl": "https://cdn.findpawpal.com/office/599259.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 688575,
+      "slug": "spartanburg-humane-society-688575",
+      "name": "Spartanburg Humane Society",
+      "address": "150 Dexter Road, Spartanburg, SC 29303",
+      "phone": "864-583-4805",
+      "image": "./img/shelter/office/688575.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/spartanburg-humane-society-688575/",
+      "imageUrl": "https://cdn.findpawpal.com/office/688575.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "fetchedAt": "2026-06-27T17:47:55.910411+00:00",
+  "state": {
+    "slug": "maine",
+    "name": "Maine",
+    "offices": 88
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maine/",
+  "cities": [
+    {
+      "slug": "alton",
+      "name": "Alton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/alton/"
+    },
+    {
+      "slug": "appleton",
+      "name": "Appleton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/appleton/"
+    },
+    {
+      "slug": "augusta",
+      "name": "Augusta",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/augusta/"
+    },
+    {
+      "slug": "bangor",
+      "name": "Bangor",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/bangor/"
+    },
+    {
+      "slug": "belfast",
+      "name": "Belfast",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/belfast/"
+    },
+    {
+      "slug": "biddeford",
+      "name": "Biddeford",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/biddeford/"
+    },
+    {
+      "slug": "boothbay",
+      "name": "Boothbay",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/boothbay/"
+    },
+    {
+      "slug": "bremen",
+      "name": "Bremen",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/bremen/"
+    },
+    {
+      "slug": "bridgton",
+      "name": "Bridgton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/bridgton/"
+    },
+    {
+      "slug": "brunswick",
+      "name": "Brunswick",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/brunswick/"
+    },
+    {
+      "slug": "buxton",
+      "name": "Buxton",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/buxton/"
+    },
+    {
+      "slug": "calais",
+      "name": "Calais",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/calais/"
+    },
+    {
+      "slug": "camden",
+      "name": "Camden",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/camden/"
+    },
+    {
+      "slug": "caribou",
+      "name": "Caribou",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/caribou/"
+    },
+    {
+      "slug": "cherryfield",
+      "name": "Cherryfield",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/cherryfield/"
+    },
+    {
+      "slug": "cumberland-center",
+      "name": "Cumberland Center",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/cumberland-center/"
+    },
+    {
+      "slug": "edgecomb",
+      "name": "Edgecomb",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/edgecomb/"
+    },
+    {
+      "slug": "fairfield",
+      "name": "Fairfield",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/fairfield/"
+    },
+    {
+      "slug": "farmington",
+      "name": "Farmington",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/farmington/"
+    },
+    {
+      "slug": "fryeburg",
+      "name": "Fryeburg",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/fryeburg/"
+    },
+    {
+      "slug": "gouldsboro",
+      "name": "Gouldsboro",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/gouldsboro/"
+    },
+    {
+      "slug": "houlton",
+      "name": "Houlton",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/houlton/"
+    },
+    {
+      "slug": "hudson",
+      "name": "Hudson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/hudson/"
+    },
+    {
+      "slug": "kennebunk",
+      "name": "Kennebunk",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/kennebunk/"
+    },
+    {
+      "slug": "kittery",
+      "name": "Kittery",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/kittery/"
+    },
+    {
+      "slug": "lebanon",
+      "name": "Lebanon",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/lebanon/"
+    },
+    {
+      "slug": "lee",
+      "name": "Lee",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/lee/"
+    },
+    {
+      "slug": "lewiston",
+      "name": "Lewiston",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/lewiston/"
+    },
+    {
+      "slug": "limestone",
+      "name": "Limestone",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/limestone/"
+    },
+    {
+      "slug": "lincoln",
+      "name": "Lincoln",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/lincoln/"
+    },
+    {
+      "slug": "madawaska",
+      "name": "Madawaska",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/madawaska/"
+    },
+    {
+      "slug": "monmouth",
+      "name": "Monmouth",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/monmouth/"
+    },
+    {
+      "slug": "naples",
+      "name": "Naples",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/naples/"
+    },
+    {
+      "slug": "new-gloucester",
+      "name": "New Gloucester",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/new-gloucester/"
+    },
+    {
+      "slug": "north-anson",
+      "name": "North Anson",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/north-anson/"
+    },
+    {
+      "slug": "north-berwick",
+      "name": "North Berwick",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/north-berwick/"
+    },
+    {
+      "slug": "north-windham",
+      "name": "North Windham",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/north-windham/"
+    },
+    {
+      "slug": "norway",
+      "name": "Norway",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/norway/"
+    },
+    {
+      "slug": "old-town",
+      "name": "Old Town",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/old-town/"
+    },
+    {
+      "slug": "oxford",
+      "name": "Oxford",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/oxford/"
+    },
+    {
+      "slug": "perry",
+      "name": "Perry",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/perry/"
+    },
+    {
+      "slug": "pittsfield",
+      "name": "Pittsfield",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/pittsfield/"
+    },
+    {
+      "slug": "poland",
+      "name": "Poland",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/poland/"
+    },
+    {
+      "slug": "portland",
+      "name": "Portland",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/portland/"
+    },
+    {
+      "slug": "presque-isle",
+      "name": "Presque Isle",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/presque-isle/"
+    },
+    {
+      "slug": "prospect-harbor",
+      "name": "Prospect Harbor",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/prospect-harbor/"
+    },
+    {
+      "slug": "rockport",
+      "name": "Rockport",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/rockport/"
+    },
+    {
+      "slug": "skowhegan",
+      "name": "Skowhegan",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/skowhegan/"
+    },
+    {
+      "slug": "southwest-harbor",
+      "name": "Southwest Harbor",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/southwest-harbor/"
+    },
+    {
+      "slug": "springvale",
+      "name": "Springvale",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/springvale/"
+    },
+    {
+      "slug": "standish",
+      "name": "Standish",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/standish/"
+    },
+    {
+      "slug": "thomaston",
+      "name": "Thomaston",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/thomaston/"
+    },
+    {
+      "slug": "trenton",
+      "name": "Trenton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/trenton/"
+    },
+    {
+      "slug": "van-buren",
+      "name": "Van Buren",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/van-buren/"
+    },
+    {
+      "slug": "waterville",
+      "name": "Waterville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/waterville/"
+    },
+    {
+      "slug": "wells",
+      "name": "Wells",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/wells/"
+    },
+    {
+      "slug": "west-newfield",
+      "name": "West Newfield",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/west-newfield/"
+    },
+    {
+      "slug": "west-paris",
+      "name": "West Paris",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/west-paris/"
+    },
+    {
+      "slug": "westbrook",
+      "name": "Westbrook",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/westbrook/"
+    },
+    {
+      "slug": "winterport",
+      "name": "Winterport",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/winterport/"
+    },
+    {
+      "slug": "winthrop",
+      "name": "Winthrop",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/winthrop/"
+    },
+    {
+      "slug": "woolwich",
+      "name": "Woolwich",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/woolwich/"
+    }
+  ]
+}

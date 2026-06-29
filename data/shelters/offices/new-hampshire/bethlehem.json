@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:23:46.227278+00:00",
+  "state": {
+    "slug": "new-hampshire",
+    "name": "New Hampshire"
+  },
+  "city": {
+    "slug": "bethlehem",
+    "name": "Bethlehem",
+    "label": "Bethlehem, NH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-hampshire/bethlehem/",
+  "offices": [
+    {
+      "officeId": 43779,
+      "slug": "white-mountain-animal-league-43779",
+      "name": "White Mountain Animal League",
+      "address": "RFD 1, Box 187, Bethlehem, NH 03574",
+      "phone": "603-869-2080",
+      "image": "./img/shelter/office/43779.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/white-mountain-animal-league-43779/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43779.jpg?f=webp&w=730"
+    }
+  ]
+}

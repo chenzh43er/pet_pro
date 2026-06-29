@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:42:14.741966+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "zebulon",
+    "name": "Zebulon",
+    "label": "Zebulon, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/zebulon/",
+  "offices": [
+    {
+      "officeId": 213929,
+      "slug": "dalmatian-rescuecentral-carolina-dalmatian-club-rescue-committee-213929",
+      "name": "Dalmatian Rescuecentral Carolina Dalmatian Club Rescue Committee",
+      "address": "4040 Pearces Road, Zebulon, NC 27597",
+      "phone": "919-801-1904",
+      "image": "./img/shelter/office/213929.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dalmatian-rescuecentral-carolina-dalmatian-club-rescue-committee-213929/",
+      "imageUrl": "https://cdn.findpawpal.com/office/213929.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 230607,
+      "slug": "pet-zone-230607",
+      "name": "Pet Zone",
+      "address": "319 Cheves Road, Zebulon, NC 27597",
+      "phone": "919-496-2898",
+      "image": "./img/shelter/office/230607.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-zone-230607/",
+      "imageUrl": "https://cdn.findpawpal.com/office/230607.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:44:26.673436+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "geneva",
+    "name": "Geneva",
+    "label": "Geneva, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/geneva/",
+  "offices": [
+    {
+      "officeId": 431386,
+      "slug": "lake-erie-greyhound-rescue-inc-431386",
+      "name": "Lake Erie Greyhound Rescue Inc",
+      "address": "278 North Broadway, Geneva, OH 44041",
+      "phone": "440-466-1347",
+      "image": "https://cdn.findpawpal.com/office/431386.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/lake-erie-greyhound-rescue-inc-431386/"
+    }
+  ]
+}

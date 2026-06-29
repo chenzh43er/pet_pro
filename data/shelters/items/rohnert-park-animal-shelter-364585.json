@@ -1,0 +1,21 @@
+{
+  "officeId": 364585,
+  "slug": "rohnert-park-animal-shelter-364585",
+  "name": "Rohnert Park Animal Shelter",
+  "address": "301 J Rogers Lane, Rohnert Park, CA 94928",
+  "street": "301 J Rogers Lane",
+  "addressCity": "Rohnert Park",
+  "stateCode": "CA",
+  "zip": "94928",
+  "phone": "707-584-1582",
+  "image": "./img/shelter/office/364585.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/rohnert-park-animal-shelter-364585/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "rohnert-park",
+  "cityName": "Rohnert Park",
+  "cityLabel": "Rohnert Park, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/rohnert-park/",
+  "fetchedAt": "2026-06-27T18:29:56.828014+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/364585.jpg?f=webp&w=730"
+}

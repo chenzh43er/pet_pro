@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:52:14.760622+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "valparaiso",
+    "name": "Valparaiso",
+    "label": "Valparaiso, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/valparaiso/",
+  "offices": [
+    {
+      "officeId": 200609,
+      "slug": "porter-county-animal-shelter-200609",
+      "name": "Porter County Animal Shelter",
+      "address": "2056 North 50 West, Valparaiso, IN 46385",
+      "phone": "219-465-3550",
+      "image": "./img/shelter/office/200609.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/porter-county-animal-shelter-200609/",
+      "imageUrl": "https://cdn.findpawpal.com/office/200609.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 218279,
+      "slug": "pet-pals-218279",
+      "name": "Pet Pals",
+      "address": "PO Box 1485, Valparaiso, IN 46384",
+      "phone": "317-632-0123",
+      "image": "./img/shelter/office/218279.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-pals-218279/",
+      "imageUrl": "https://cdn.findpawpal.com/office/218279.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:46:32.865905+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "louisville",
+    "name": "Louisville",
+    "label": "Louisville, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/louisville/",
+  "offices": [
+    {
+      "officeId": 511828,
+      "slug": "clay-county-animal-protection-511828",
+      "name": "Clay County Animal Protection",
+      "address": "14400 U.S. Highway 45, Louisville, IL 62858",
+      "phone": "618-665-3005",
+      "image": "./img/shelter/office/511828.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/clay-county-animal-protection-511828/",
+      "imageUrl": "https://cdn.findpawpal.com/office/511828.jpg?f=webp&w=730"
+    }
+  ]
+}

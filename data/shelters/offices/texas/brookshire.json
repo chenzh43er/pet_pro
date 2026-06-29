@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:03:22.643605+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "brookshire",
+    "name": "Brookshire",
+    "label": "Brookshire, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/brookshire/",
+  "offices": [
+    {
+      "officeId": 538847,
+      "slug": "sanctuary-for-unwanted-animals-and-care-538847",
+      "name": "Sanctuary for Unwanted Animals and Care",
+      "address": "1936 Peach Ridge Road, Brookshire, TX 77423",
+      "phone": "281-375-7787",
+      "image": "./img/shelter/office/538847.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sanctuary-for-unwanted-animals-and-care-538847/",
+      "imageUrl": "https://cdn.findpawpal.com/office/538847.jpg?f=webp&w=730"
+    }
+  ]
+}

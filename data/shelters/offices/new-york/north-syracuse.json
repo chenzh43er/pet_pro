@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:35:31.459734+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "north-syracuse",
+    "name": "North Syracuse",
+    "label": "North Syracuse, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/north-syracuse/",
+  "offices": [
+    {
+      "officeId": 418550,
+      "slug": "north-syracuse-animal-control-418550",
+      "name": "North Syracuse Animal Control",
+      "address": "600 South Bay Road, North Syracuse, NY 13212",
+      "phone": "315-458-5749",
+      "image": "./img/shelter/office/418550.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/north-syracuse-animal-control-418550/",
+      "imageUrl": "https://cdn.findpawpal.com/office/418550.jpg?f=webp&w=730"
+    }
+  ]
+}

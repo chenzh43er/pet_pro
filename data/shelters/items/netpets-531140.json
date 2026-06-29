@@ -1,0 +1,21 @@
+{
+  "officeId": 531140,
+  "slug": "netpets-531140",
+  "name": "Netpets",
+  "address": "PO Box 563, North Myrtle Beach, SC 29597",
+  "street": "PO Box 563",
+  "addressCity": "North Myrtle Beach",
+  "stateCode": "SC",
+  "zip": "29597",
+  "phone": "843-249-5262",
+  "image": "./img/shelter/office/531140.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/netpets-531140/",
+  "stateSlug": "south-carolina",
+  "stateName": "South Carolina",
+  "citySlug": "north-myrtle-beach",
+  "cityName": "North Myrtle Beach",
+  "cityLabel": "North Myrtle Beach, SC",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/south-carolina/north-myrtle-beach/",
+  "fetchedAt": "2026-06-27T19:58:03.412366+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/531140.jpg?f=webp&w=730"
+}

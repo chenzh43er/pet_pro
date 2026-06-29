@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:01:58.024100+00:00",
+  "state": {
+    "slug": "maine",
+    "name": "Maine"
+  },
+  "city": {
+    "slug": "new-gloucester",
+    "name": "New Gloucester",
+    "label": "New Gloucester, ME"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maine/new-gloucester/",
+  "offices": [
+    {
+      "officeId": 452894,
+      "slug": "loyal-heart-puppy-rescue-452894",
+      "name": "Loyal Heart Puppy Rescue",
+      "address": "68 Shepherd Lane, New Gloucester, ME 04260",
+      "phone": "603-205-5900",
+      "image": "./img/shelter/office/452894.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/loyal-heart-puppy-rescue-452894/",
+      "imageUrl": "https://cdn.findpawpal.com/office/452894.jpg?f=webp&w=730"
+    }
+  ]
+}

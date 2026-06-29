@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:01:33.961301+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "paris",
+    "name": "Paris",
+    "label": "Paris, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/paris/",
+  "offices": [
+    {
+      "officeId": 460279,
+      "slug": "paris-henry-county-animal-shelter-460279",
+      "name": "Paris-Henry County Animal Shelter",
+      "address": "PO Box 970, Paris, TN 38242",
+      "phone": "731-642-5024",
+      "image": "./img/shelter/office/460279.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/paris-henry-county-animal-shelter-460279/",
+      "imageUrl": "https://cdn.findpawpal.com/office/460279.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 685065,
+      "slug": "rolling-hills-humane-society-685065",
+      "name": "Rolling Hills Humane Society",
+      "address": "622 Jones Bend Road, Paris, TN 38242",
+      "phone": "731-641-8090",
+      "image": "./img/shelter/office/685065.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rolling-hills-humane-society-685065/",
+      "imageUrl": "https://cdn.findpawpal.com/office/685065.jpg?f=webp&w=730"
+    }
+  ]
+}

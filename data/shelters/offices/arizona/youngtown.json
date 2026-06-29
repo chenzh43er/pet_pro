@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:21:24.733028+00:00",
+  "state": {
+    "slug": "arizona",
+    "name": "Arizona"
+  },
+  "city": {
+    "slug": "youngtown",
+    "name": "Youngtown",
+    "label": "Youngtown, AZ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arizona/youngtown/",
+  "offices": [
+    {
+      "officeId": 171620,
+      "slug": "4-paws-rescue-171620",
+      "name": "4 Paws Rescue",
+      "address": "11129 West Michigan Avenue, Youngtown, AZ 85363",
+      "phone": "623-876-8778",
+      "image": "./img/shelter/office/171620.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/4-paws-rescue-171620/",
+      "imageUrl": "https://cdn.findpawpal.com/office/171620.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 192027,
+      "slug": "cats-world-rescue-inc-192027",
+      "name": "Cats World Rescue Inc",
+      "address": "11138 West Arizona Avenue, Youngtown, AZ 85363",
+      "phone": "623-218-6436",
+      "image": "./img/shelter/office/192027.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cats-world-rescue-inc-192027/",
+      "imageUrl": "https://cdn.findpawpal.com/office/192027.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 270995,
+  "slug": "pets-for-vets-270995",
+  "name": "Pets for Vets",
+  "address": "103 Santa Fe Trail, Cary, NC 27519",
+  "street": "103 Santa Fe Trail",
+  "addressCity": "Cary",
+  "stateCode": "NC",
+  "zip": "27519",
+  "phone": "",
+  "image": "./img/shelter/office/270995.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pets-for-vets-270995/",
+  "stateSlug": "north-carolina",
+  "stateName": "North Carolina",
+  "citySlug": "cary",
+  "cityName": "Cary",
+  "cityLabel": "Cary, NC",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/north-carolina/cary/",
+  "fetchedAt": "2026-06-27T19:38:30.573064+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/270995.jpg?f=webp&w=730"
+}

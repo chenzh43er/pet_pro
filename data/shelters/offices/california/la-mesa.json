@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:26:53.296214+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "la-mesa",
+    "name": "La Mesa",
+    "label": "La Mesa, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/la-mesa/",
+  "offices": [
+    {
+      "officeId": 480478,
+      "slug": "la-mesa-animal-control-480478",
+      "name": "LA Mesa Animal Control",
+      "address": "8130 Allison Avenue, La Mesa, CA 91942",
+      "phone": "619-667-1436",
+      "image": "./img/shelter/office/480478.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/la-mesa-animal-control-480478/",
+      "imageUrl": "https://cdn.findpawpal.com/office/480478.jpg?f=webp&w=730"
+    }
+  ]
+}

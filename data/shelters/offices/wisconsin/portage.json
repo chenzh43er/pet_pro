@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:23:48.300598+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "portage",
+    "name": "Portage",
+    "label": "Portage, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/portage/",
+  "offices": [
+    {
+      "officeId": 490455,
+      "slug": "columbia-county-humane-society-490455",
+      "name": "Columbia County Humane Society",
+      "address": "N7768 Industrial Road, Portage, WI 53901",
+      "phone": "608-742-3666",
+      "image": "./img/shelter/office/490455.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/columbia-county-humane-society-490455/",
+      "imageUrl": "https://cdn.findpawpal.com/office/490455.jpg?f=webp&w=730"
+    }
+  ]
+}

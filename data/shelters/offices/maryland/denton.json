@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:03:19.028922+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "denton",
+    "name": "Denton",
+    "label": "Denton, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/denton/",
+  "offices": [
+    {
+      "officeId": 398138,
+      "slug": "van-menzel-rottweiler-rescue-398138",
+      "name": "Van Menzel Rottweiler Rescue",
+      "address": "8792 Mitchell Road, Denton, MD 21629",
+      "phone": "410-479-5636",
+      "image": "https://cdn.findpawpal.com/office/398138.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/van-menzel-rottweiler-rescue-398138/"
+    }
+  ]
+}

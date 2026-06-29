@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:37:36.583640+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "wallingford",
+    "name": "Wallingford",
+    "label": "Wallingford, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/wallingford/",
+  "offices": [
+    {
+      "officeId": 156362,
+      "slug": "wallingford-animal-shelter-156362",
+      "name": "Wallingford Animal Shelter",
+      "address": "5 Pent Road, Wallingford, CT 06492",
+      "phone": "203-294-2180",
+      "image": "./img/shelter/office/156362.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wallingford-animal-shelter-156362/",
+      "imageUrl": "https://cdn.findpawpal.com/office/156362.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 161379,
+      "slug": "wallingford-animal-shelter-161379",
+      "name": "Wallingford Animal Shelter",
+      "address": "5 Pent Road, Wallingford, CT 06492",
+      "phone": "203-294-2180",
+      "image": "./img/shelter/office/161379.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wallingford-animal-shelter-161379/",
+      "imageUrl": "https://cdn.findpawpal.com/office/161379.jpg?f=webp&w=730"
+    }
+  ]
+}

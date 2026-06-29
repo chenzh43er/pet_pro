@@ -1,0 +1,64 @@
+{
+  "fetchedAt": "2026-06-27T20:13:53.232776+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "fairfax",
+    "name": "Fairfax",
+    "label": "Fairfax, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/fairfax/",
+  "offices": [
+    {
+      "officeId": 561867,
+      "slug": "fairfax-county-animal-shelter-561867",
+      "name": "Fairfax County Animal Shelter",
+      "address": "4500 West Ox Road, Fairfax, VA 22030",
+      "phone": "703-830-1100",
+      "image": "https://cdn.findpawpal.com/office/561867.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/fairfax-county-animal-shelter-561867/"
+    },
+    {
+      "officeId": 578774,
+      "slug": "humane-society-of-fairfax-county-578774",
+      "name": "Humane Society of Fairfax County",
+      "address": "4057 Chain Bridge Road, Fairfax, VA 22030",
+      "phone": "703-385-7387",
+      "image": "./img/shelter/office/578774.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-fairfax-county-578774/",
+      "imageUrl": "https://cdn.findpawpal.com/office/578774.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 578783,
+      "slug": "mutt-love-rescue-inc-578783",
+      "name": "Mutt Love Rescue, Inc.",
+      "address": "PO Box 1005, Fairfax, VA 22038",
+      "phone": "",
+      "image": "./img/shelter/office/578783.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mutt-love-rescue-inc-578783/",
+      "imageUrl": "https://cdn.findpawpal.com/office/578783.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 644765,
+      "slug": "city-of-fairfax-animal-control-shelter-644765",
+      "name": "City of Fairfax Animal Control Shelter",
+      "address": "3730 Old Lee Highway, Fairfax, VA 22030",
+      "phone": "703-385-7919",
+      "image": "./img/shelter/office/644765.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/city-of-fairfax-animal-control-shelter-644765/",
+      "imageUrl": "https://cdn.findpawpal.com/office/644765.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 706799,
+      "slug": "the-shiloh-project-706799",
+      "name": "The Shiloh Project",
+      "address": "12210 Fairfax Towne Center, Fairfax, VA 22033",
+      "phone": "703-591-3600",
+      "image": "./img/shelter/office/706799.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-shiloh-project-706799/",
+      "imageUrl": "https://cdn.findpawpal.com/office/706799.jpg?f=webp&w=730"
+    }
+  ]
+}

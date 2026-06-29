@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:50:35.753012+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "la-porte",
+    "name": "La Porte",
+    "label": "La Porte, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/la-porte/",
+  "offices": [
+    {
+      "officeId": 200483,
+      "slug": "canine-angels-inc-200483",
+      "name": "Canine Angels, Inc.",
+      "address": "PO Box 495, La Porte, IN 46352",
+      "phone": "219-325-8610",
+      "image": "./img/shelter/office/200483.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/canine-angels-inc-200483/",
+      "imageUrl": "https://cdn.findpawpal.com/office/200483.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 201646,
+      "slug": "laporte-county-small-animal-shelter-201646",
+      "name": "LaPorte County Small Animal Shelter",
+      "address": "2855 State Street, La Porte, IN 46350",
+      "phone": "219-326-1637",
+      "image": "./img/shelter/office/201646.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/laporte-county-small-animal-shelter-201646/",
+      "imageUrl": "https://cdn.findpawpal.com/office/201646.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 242210,
+      "slug": "mixed-up-mutts-242210",
+      "name": "Mixed Up Mutts",
+      "address": "1866 North 100 West, La Porte, IN 46350",
+      "phone": "219-326-8887",
+      "image": "./img/shelter/office/242210.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mixed-up-mutts-242210/",
+      "imageUrl": "https://cdn.findpawpal.com/office/242210.jpg?f=webp&w=730"
+    }
+  ]
+}

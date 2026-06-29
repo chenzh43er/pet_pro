@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:11:53.938104+00:00",
+  "state": {
+    "slug": "vermont",
+    "name": "Vermont"
+  },
+  "city": {
+    "slug": "colchester",
+    "name": "Colchester",
+    "label": "Colchester, VT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/vermont/colchester/",
+  "offices": [
+    {
+      "officeId": 704722,
+      "slug": "green-mountain-animal-defender-704722",
+      "name": "Green Mountain Animal Defender",
+      "address": "349 Roosevelt Highway, Colchester, VT 05446",
+      "phone": "802-878-2230",
+      "image": "./img/shelter/office/704722.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/green-mountain-animal-defender-704722/",
+      "imageUrl": "https://cdn.findpawpal.com/office/704722.jpg?f=webp&w=730"
+    }
+  ]
+}

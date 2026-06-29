@@ -1,0 +1,53 @@
+{
+  "fetchedAt": "2026-06-27T20:06:47.303526+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "leander",
+    "name": "Leander",
+    "label": "Leander, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/leander/",
+  "offices": [
+    {
+      "officeId": 537624,
+      "slug": "collie-rescue-austin-537624",
+      "name": "Collie Rescue Austin",
+      "address": "PO Box 1039, Leander, TX 78646",
+      "phone": "512-515-5494",
+      "image": "https://cdn.findpawpal.com/office/537624.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/collie-rescue-austin-537624/"
+    },
+    {
+      "officeId": 538899,
+      "slug": "wendy-meadows-538899",
+      "name": "Wendy Meadows",
+      "address": "304 Frio Lane, Leander, TX 78641",
+      "phone": "512-415-6223",
+      "image": "./img/shelter/office/538899.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wendy-meadows-538899/",
+      "imageUrl": "https://cdn.findpawpal.com/office/538899.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 635224,
+      "slug": "texas-humane-heroes-635224",
+      "name": "Texas Humane Heroes",
+      "address": "10930 East Crystal Falls Parkway, Leander, TX 78641",
+      "phone": "512-260-3602",
+      "image": "https://cdn.findpawpal.com/office/635224.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/texas-humane-heroes-635224/"
+    },
+    {
+      "officeId": 702194,
+      "slug": "central-texas-spca-702194",
+      "name": "Central Texas SPCA",
+      "address": "909 South Bagdad Road, Leander, TX 78641",
+      "phone": "512-260-7722",
+      "image": "./img/shelter/office/702194.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/central-texas-spca-702194/",
+      "imageUrl": "https://cdn.findpawpal.com/office/702194.jpg?f=webp&w=730"
+    }
+  ]
+}

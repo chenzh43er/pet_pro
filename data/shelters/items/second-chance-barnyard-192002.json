@@ -1,0 +1,21 @@
+{
+  "officeId": 192002,
+  "slug": "second-chance-barnyard-192002",
+  "name": "Second Chance Barnyard",
+  "address": "PO Box 407, El Dorado Springs, MO 64744",
+  "street": "PO Box 407",
+  "addressCity": "El Dorado Springs",
+  "stateCode": "MO",
+  "zip": "64744",
+  "phone": "417-876-7665",
+  "image": "./img/shelter/office/192002.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/second-chance-barnyard-192002/",
+  "stateSlug": "missouri",
+  "stateName": "Missouri",
+  "citySlug": "el-dorado-springs",
+  "cityName": "El Dorado Springs",
+  "cityLabel": "El Dorado Springs, MO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/missouri/el-dorado-springs/",
+  "fetchedAt": "2026-06-27T19:18:31.140000+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/192002.jpg?f=webp&w=730"
+}

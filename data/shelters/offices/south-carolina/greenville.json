@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T19:57:28.922326+00:00",
+  "state": {
+    "slug": "south-carolina",
+    "name": "South Carolina"
+  },
+  "city": {
+    "slug": "greenville",
+    "name": "Greenville",
+    "label": "Greenville, SC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-carolina/greenville/",
+  "offices": [
+    {
+      "officeId": 582041,
+      "slug": "greenville-humane-society-582041",
+      "name": "Greenville Humane Society",
+      "address": "328 Furman Hall Road, Greenville, SC 29609",
+      "phone": "864-242-3626",
+      "image": "./img/shelter/office/582041.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greenville-humane-society-582041/",
+      "imageUrl": "https://cdn.findpawpal.com/office/582041.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 599590,
+      "slug": "greenville-animal-control-599590",
+      "name": "Greenville Animal Control",
+      "address": "301 University Ridge, Greenville, SC 29601",
+      "phone": "864-467-7595",
+      "image": "./img/shelter/office/599590.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greenville-animal-control-599590/",
+      "imageUrl": "https://cdn.findpawpal.com/office/599590.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 688603,
+      "slug": "pet-haven-of-south-carolina-688603",
+      "name": "Pet Haven of South Carolina",
+      "address": "28 Scarlett Street, Greenville, SC 29607",
+      "phone": "864-350-3735",
+      "image": "./img/shelter/office/688603.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-haven-of-south-carolina-688603/",
+      "imageUrl": "https://cdn.findpawpal.com/office/688603.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 688645,
+      "slug": "simpsonville-animal-control-688645",
+      "name": "Simpsonville Animal Control",
+      "address": "1324 Miller Road, Greenville, SC 29607",
+      "phone": "864-288-3438",
+      "image": "./img/shelter/office/688645.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/simpsonville-animal-control-688645/",
+      "imageUrl": "https://cdn.findpawpal.com/office/688645.jpg?f=webp&w=730"
+    }
+  ]
+}

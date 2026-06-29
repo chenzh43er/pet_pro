@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:31:15.187421+00:00",
+  "state": {
+    "slug": "new-mexico",
+    "name": "New Mexico"
+  },
+  "city": {
+    "slug": "truth-or-consequences",
+    "name": "Truth or Consequences",
+    "label": "Truth or Consequences, NM"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-mexico/truth-or-consequences/",
+  "offices": [
+    {
+      "officeId": 262654,
+      "slug": "sierra-county-animal-control-262654",
+      "name": "Sierra County Animal Control",
+      "address": "311 North Date Street, Truth or Consequences, NM 87901",
+      "phone": "505-894-2240",
+      "image": "./img/shelter/office/262654.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sierra-county-animal-control-262654/",
+      "imageUrl": "https://cdn.findpawpal.com/office/262654.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 263165,
+      "slug": "truth-or-consequences-animal-control-263165",
+      "name": "Truth Or Consequences Animal Control",
+      "address": "505 Sims Street, Truth or Consequences, NM 87901",
+      "phone": "575-894-7111",
+      "image": "./img/shelter/office/263165.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/truth-or-consequences-animal-control-263165/",
+      "imageUrl": "https://cdn.findpawpal.com/office/263165.jpg?f=webp&w=730"
+    }
+  ]
+}

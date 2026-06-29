@@ -1,0 +1,74 @@
+{
+  "fetchedAt": "2026-06-27T19:20:37.279045+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "springfield",
+    "name": "Springfield",
+    "label": "Springfield, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/springfield/",
+  "offices": [
+    {
+      "officeId": 193774,
+      "slug": "animal-control-springfield-193774",
+      "name": "Animal Control Springfield",
+      "address": "227 East Chestnut Expressway, Springfield, MO 65802",
+      "phone": "417-864-1449",
+      "image": "./img/shelter/office/193774.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-control-springfield-193774/",
+      "imageUrl": "https://cdn.findpawpal.com/office/193774.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 206785,
+      "slug": "greyhound-pets-of-america-206785",
+      "name": "Greyhound Pets of America",
+      "address": "2016 South Arlington Terrace, Springfield, MO 65804",
+      "phone": "417-883-8156",
+      "image": "./img/shelter/office/206785.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhound-pets-of-america-206785/",
+      "imageUrl": "https://cdn.findpawpal.com/office/206785.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 207722,
+      "slug": "springfield-animal-control-207722",
+      "name": "Springfield Animal Control",
+      "address": "840 North Boonville Avenue, Springfield, MO 65802",
+      "phone": "417-833-3590",
+      "image": "./img/shelter/office/207722.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/springfield-animal-control-207722/",
+      "imageUrl": "https://cdn.findpawpal.com/office/207722.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 210939,
+      "slug": "just-one-more-210939",
+      "name": "Just One More",
+      "address": "1037 North Grant Avenue, Springfield, MO 65802",
+      "phone": "417-869-1581",
+      "image": "./img/shelter/office/210939.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/just-one-more-210939/",
+      "imageUrl": "https://cdn.findpawpal.com/office/210939.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 210948,
+      "slug": "humane-society-of-greene-county-210948",
+      "name": "Humane Society of Greene County",
+      "address": "PO Box 679, Springfield, MO 65803",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/210948.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-greene-county-210948/"
+    },
+    {
+      "officeId": 241180,
+      "slug": "humane-society-of-southwest-missouri-241180",
+      "name": "Humane Society of Southwest Missouri",
+      "address": "3161 West Norton Road, Springfield, MO 65803",
+      "phone": "417-833-2526",
+      "image": "./img/shelter/office/241180.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-southwest-missouri-241180/",
+      "imageUrl": "https://cdn.findpawpal.com/office/241180.jpg?f=webp&w=730"
+    }
+  ]
+}

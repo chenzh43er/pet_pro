@@ -1,0 +1,21 @@
+{
+  "officeId": 208152,
+  "slug": "rolla-animal-shelter-208152",
+  "name": "Rolla Animal Shelter",
+  "address": "1915 Sharp Rd, Rolla, MO 65401",
+  "street": "1915 Sharp Rd",
+  "addressCity": "Rolla",
+  "stateCode": "MO",
+  "zip": "65401",
+  "phone": "573-364-6995",
+  "image": "./img/shelter/office/208152.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/rolla-animal-shelter-208152/",
+  "stateSlug": "missouri",
+  "stateName": "Missouri",
+  "citySlug": "rolla",
+  "cityName": "Rolla",
+  "cityLabel": "Rolla, MO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/missouri/rolla/",
+  "fetchedAt": "2026-06-27T19:20:25.331687+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/208152.jpg?f=webp&w=730"
+}

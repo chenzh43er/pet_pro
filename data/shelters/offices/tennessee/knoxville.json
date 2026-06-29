@@ -1,0 +1,123 @@
+{
+  "fetchedAt": "2026-06-27T20:00:38.320196+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "knoxville",
+    "name": "Knoxville",
+    "label": "Knoxville, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/knoxville/",
+  "offices": [
+    {
+      "officeId": 418567,
+      "slug": "knoxville-animal-control-418567",
+      "name": "Knoxville Animal Control",
+      "address": "800 Howard Baker Junior Avenue, Knoxville, TN 37915",
+      "phone": "865-215-7457",
+      "image": "./img/shelter/office/418567.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/knoxville-animal-control-418567/",
+      "imageUrl": "https://cdn.findpawpal.com/office/418567.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 425637,
+      "slug": "tennessee-humane-association-425637",
+      "name": "Tennessee Humane Association",
+      "address": "PO Box 9115, Knoxville, TN 37940",
+      "phone": "865-428-1198",
+      "image": "./img/shelter/office/425637.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tennessee-humane-association-425637/",
+      "imageUrl": "https://cdn.findpawpal.com/office/425637.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 437429,
+      "slug": "southern-states-rottweiler-rescue-437429",
+      "name": "Southern States Rottweiler Rescue",
+      "address": "PO Box 14722, Knoxville, TN 37914",
+      "phone": "",
+      "image": "./img/shelter/office/437429.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/southern-states-rottweiler-rescue-437429/",
+      "imageUrl": "https://cdn.findpawpal.com/office/437429.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 437794,
+      "slug": "knox-county-humane-association-437794",
+      "name": "Knox County Humane Association",
+      "address": "1717 North Broadway, Knoxville, TN 37917",
+      "phone": "865-546-5353",
+      "image": "./img/shelter/office/437794.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/knox-county-humane-association-437794/",
+      "imageUrl": "https://cdn.findpawpal.com/office/437794.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 452031,
+      "slug": "horse-haven-of-tennessee-452031",
+      "name": "Horse Haven of Tennessee",
+      "address": "2417 Reagan Road, Knoxville, TN 37931",
+      "phone": "865-609-4030",
+      "image": "https://cdn.findpawpal.com/office/452031.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/horse-haven-of-tennessee-452031/"
+    },
+    {
+      "officeId": 460646,
+      "slug": "animal-welfare-league-of-knox-county-460646",
+      "name": "Animal Welfare League of Knox County",
+      "address": "4413 Oriole Drive, Knoxville, TN 37918",
+      "phone": "865-684-0496",
+      "image": "./img/shelter/office/460646.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-welfare-league-of-knox-county-460646/",
+      "imageUrl": "https://cdn.findpawpal.com/office/460646.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 573346,
+      "slug": "smoky-mountain-great-dane-rescue-573346",
+      "name": "Smoky Mountain Great Dane Rescue",
+      "address": "PO Box 3692, Knoxville, TN 37927",
+      "phone": "877-647-6437",
+      "image": "./img/shelter/office/573346.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/smoky-mountain-great-dane-rescue-573346/",
+      "imageUrl": "https://cdn.findpawpal.com/office/573346.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 580738,
+      "slug": "young-williams-animal-center-580738",
+      "name": "Young-Williams Animal Center",
+      "address": "3201 Division Street, Knoxville, TN 37919",
+      "phone": "865-215-6599",
+      "image": "./img/shelter/office/580738.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/young-williams-animal-center-580738/",
+      "imageUrl": "https://cdn.findpawpal.com/office/580738.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 581062,
+      "slug": "humane-society-of-the-tennessee-valley-581062",
+      "name": "Humane Society Of The Tennessee Valley",
+      "address": "6717 Kingston Pike, Knoxville, TN 37919",
+      "phone": "865-573-9674",
+      "image": "https://cdn.findpawpal.com/office/581062.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-the-tennessee-valley-581062/"
+    },
+    {
+      "officeId": 636489,
+      "slug": "humane-society-of-knox-county-636489",
+      "name": "Humane Society of Knox County",
+      "address": "800 Millwood Road, Knoxville, TN 37920",
+      "phone": "865-523-7990",
+      "image": "./img/shelter/office/636489.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-knox-county-636489/",
+      "imageUrl": "https://cdn.findpawpal.com/office/636489.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 684933,
+      "slug": "save-a-bully-rescue-684933",
+      "name": "Save A Bully Rescue",
+      "address": "2513 East Glenwood Avenue, Knoxville, TN 37917",
+      "phone": "865-237-1091",
+      "image": "./img/shelter/office/684933.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/save-a-bully-rescue-684933/",
+      "imageUrl": "https://cdn.findpawpal.com/office/684933.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 316309,
+  "slug": "pet-haven-316309",
+  "name": "Pet Haven",
+  "address": "PO Box 156, Gassville, AR 72635",
+  "street": "PO Box 156",
+  "addressCity": "Gassville",
+  "stateCode": "AR",
+  "zip": "72635",
+  "phone": "870-430-5151",
+  "image": "./img/shelter/office/316309.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pet-haven-316309/",
+  "stateSlug": "arkansas",
+  "stateName": "Arkansas",
+  "citySlug": "gassville",
+  "cityName": "Gassville",
+  "cityLabel": "Gassville, AR",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/arkansas/gassville/",
+  "fetchedAt": "2026-06-27T18:22:12.515064+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/316309.jpg?f=webp&w=730"
+}

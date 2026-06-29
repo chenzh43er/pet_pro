@@ -1,0 +1,54 @@
+{
+  "fetchedAt": "2026-06-27T19:29:24.522553+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "voorhees",
+    "name": "Voorhees",
+    "label": "Voorhees, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/voorhees/",
+  "offices": [
+    {
+      "officeId": 94405,
+      "slug": "animal-welfare-association-94405",
+      "name": "Animal Welfare Association",
+      "address": "509 Centennial Boulevard, Voorhees, NJ 08043",
+      "phone": "856-424-2288",
+      "image": "./img/shelter/office/94405.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-welfare-association-94405/",
+      "imageUrl": "https://cdn.findpawpal.com/office/94405.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 98105,
+      "slug": "animal-orphanage-98105",
+      "name": "Animal Orphanage",
+      "address": "421 Cooper Road, Voorhees, NJ 08043",
+      "phone": "856-627-9111",
+      "image": "./img/shelter/office/98105.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-orphanage-98105/",
+      "imageUrl": "https://cdn.findpawpal.com/office/98105.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 98141,
+      "slug": "hearts-and-paws-98141",
+      "name": "Hearts & Paws",
+      "address": "PO Box 1484, Voorhees, NJ 08043",
+      "phone": "856-795-2222",
+      "image": "https://cdn.findpawpal.com/office/98141.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/hearts-and-paws-98141/"
+    },
+    {
+      "officeId": 101606,
+      "slug": "voorhees-animal-control-101606",
+      "name": "Voorhees Animal Control",
+      "address": "419 Cooper Road, Voorhees, NJ 08043",
+      "phone": "856-627-9111",
+      "image": "./img/shelter/office/101606.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/voorhees-animal-control-101606/",
+      "imageUrl": "https://cdn.findpawpal.com/office/101606.jpg?f=webp&w=730"
+    }
+  ]
+}

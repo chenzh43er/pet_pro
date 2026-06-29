@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:39:01.784440+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "chickamauga",
+    "name": "Chickamauga",
+    "label": "Chickamauga, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/chickamauga/",
+  "offices": [
+    {
+      "officeId": 134385,
+      "slug": "walker-county-animal-shelter-134385",
+      "name": "Walker County Animal Shelter",
+      "address": "5488 North Marble Top Road, Chickamauga, GA 30707",
+      "phone": "706-375-2100",
+      "image": "./img/shelter/office/134385.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/walker-county-animal-shelter-134385/",
+      "imageUrl": "https://cdn.findpawpal.com/office/134385.jpg?f=webp&w=730"
+    }
+  ]
+}

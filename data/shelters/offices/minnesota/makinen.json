@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:14:46.328787+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "makinen",
+    "name": "Makinen",
+    "label": "Makinen, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/makinen/",
+  "offices": [
+    {
+      "officeId": 532786,
+      "slug": "contented-critters-532786",
+      "name": "Contented Critters",
+      "address": "PO Box 385, Makinen, MN 55763",
+      "phone": "218-638-2153",
+      "image": "https://cdn.findpawpal.com/office/532786.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/contented-critters-532786/"
+    }
+  ]
+}

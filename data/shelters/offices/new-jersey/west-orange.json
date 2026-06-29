@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:29:37.961692+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "west-orange",
+    "name": "West Orange",
+    "label": "West Orange, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/west-orange/",
+  "offices": [
+    {
+      "officeId": 99642,
+      "slug": "west-orange-animal-welfare-league-99642",
+      "name": "West Orange Animal Welfare League",
+      "address": "PO Box 232, West Orange, NJ 07052",
+      "phone": "973-736-8689",
+      "image": "./img/shelter/office/99642.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/west-orange-animal-welfare-league-99642/",
+      "imageUrl": "https://cdn.findpawpal.com/office/99642.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 105542,
+      "slug": "west-orange-animal-control-105542",
+      "name": "West Orange Animal Control",
+      "address": "66 Main Street, West Orange, NJ 07052",
+      "phone": "973-325-4120",
+      "image": "./img/shelter/office/105542.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/west-orange-animal-control-105542/",
+      "imageUrl": "https://cdn.findpawpal.com/office/105542.jpg?f=webp&w=730"
+    }
+  ]
+}

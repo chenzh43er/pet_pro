@@ -1,0 +1,21 @@
+{
+  "officeId": 400206,
+  "slug": "beltrami-humane-society-400206",
+  "name": "Beltrami Humane Society",
+  "address": "1612 Carr Lake Road Southeast, Bemidji, MN 56601",
+  "street": "1612 Carr Lake Road Southeast",
+  "addressCity": "Bemidji",
+  "stateCode": "MN",
+  "zip": "56601",
+  "phone": "218-751-7910",
+  "image": "./img/shelter/office/400206.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/beltrami-humane-society-400206/",
+  "stateSlug": "minnesota",
+  "stateName": "Minnesota",
+  "citySlug": "bemidji",
+  "cityName": "Bemidji",
+  "cityLabel": "Bemidji, MN",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/minnesota/bemidji/",
+  "fetchedAt": "2026-06-27T19:13:38.268127+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/400206.jpg?f=webp&w=730"
+}

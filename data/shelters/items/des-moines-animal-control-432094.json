@@ -1,0 +1,21 @@
+{
+  "officeId": 432094,
+  "slug": "des-moines-animal-control-432094",
+  "name": "Des Moines Animal Control",
+  "address": "1615 Southeast 14th Street, Des Moines, IA 50320",
+  "street": "1615 Southeast 14th Street",
+  "addressCity": "Des Moines",
+  "stateCode": "IA",
+  "zip": "50320",
+  "phone": "515-284-6905",
+  "image": "./img/shelter/office/432094.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/des-moines-animal-control-432094/",
+  "stateSlug": "iowa",
+  "stateName": "Iowa",
+  "citySlug": "des-moines",
+  "cityName": "Des Moines",
+  "cityLabel": "Des Moines, IA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/iowa/des-moines/",
+  "fetchedAt": "2026-06-27T18:53:05.302268+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/432094.jpg?f=webp&w=730"
+}

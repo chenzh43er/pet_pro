@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:18:08.090063+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "chadwick",
+    "name": "Chadwick",
+    "label": "Chadwick, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/chadwick/",
+  "offices": [
+    {
+      "officeId": 207525,
+      "slug": "christian-county-humane-society-207525",
+      "name": "Christian County Humane Society",
+      "address": "PO Box 235, Chadwick, MO 65629",
+      "phone": "",
+      "image": "./img/shelter/office/207525.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/christian-county-humane-society-207525/",
+      "imageUrl": "https://cdn.findpawpal.com/office/207525.jpg?f=webp&w=730"
+    }
+  ]
+}

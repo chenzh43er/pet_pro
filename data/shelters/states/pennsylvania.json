@@ -1,0 +1,1637 @@
+{
+  "stateSlug": "pennsylvania",
+  "count": 233,
+  "shelters": [
+    {
+      "slug": "the-montgomery-county-spca-688256",
+      "name": "The Montgomery County SPCA",
+      "address": "1006 Edge Hill Road, Abington, PA 19001",
+      "phone": "215-886-8802",
+      "image": "https://cdn.findpawpal.com/office/688256.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greenview-acre-rescue-475031",
+      "name": "Greenview Acre Rescue",
+      "address": "1108 Claypike Road, Acme, PA 15610",
+      "phone": "412-423-7272",
+      "image": "https://cdn.findpawpal.com/office/475031.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "beaver-county-humane-society-453139",
+      "name": "Beaver County Humane Society",
+      "address": "3394 North Brodhead Road, Aliquippa, PA 15001",
+      "phone": "724-775-5801",
+      "image": "https://cdn.findpawpal.com/office/453139.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "allentown-animal-control-596443",
+      "name": "Allentown Animal Control",
+      "address": "1400 Martin Luther King Junior Drive, Allentown, PA 18102",
+      "phone": "610-437-7535",
+      "image": "https://cdn.findpawpal.com/office/596443.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "good-mews-589180",
+      "name": "Good Mews",
+      "address": "2634 Broder Street Southwest, Allentown, PA 18103",
+      "phone": "610-791-0134",
+      "image": "https://cdn.findpawpal.com/office/589180.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "linda-anns-greyhound-rescue-inc-429088",
+      "name": "Linda Ann's Greyhound Rescue, Inc.",
+      "address": "1491 North 40th Street, Allentown, PA 18104",
+      "phone": "610-395-7824",
+      "image": "https://cdn.findpawpal.com/office/429088.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-beginnings-avian-rescue-474935",
+      "name": "New Beginnings Avian Rescue",
+      "address": "937 North 13th Street, Allentown, PA 18102",
+      "phone": "610-434-1355",
+      "image": "https://cdn.findpawpal.com/office/474935.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-lehigh-county-humane-society-a-lifesaving-animal-shelter-589160",
+      "name": "The Lehigh County Humane Society \"A Lifesaving Animal Shelter\"",
+      "address": "640 Dixon Street, Allentown, PA 18103",
+      "phone": "610-797-1205",
+      "image": "https://cdn.findpawpal.com/office/589160.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "central-pa-humane-society-453024",
+      "name": "Central PA Humane Society",
+      "address": "1837 East Pleasant Valley Boulevard, Altoona, PA 16602",
+      "phone": "814-942-5402",
+      "image": "https://cdn.findpawpal.com/office/453024.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-connection-589375",
+      "name": "Pet Connection",
+      "address": "127 Sunrise Lane, Apollo, PA 15613",
+      "phone": "724-845-1803",
+      "image": "https://cdn.findpawpal.com/office/589375.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chenoa-manor-428657",
+      "name": "Chenoa Manor",
+      "address": "733 Glen Willow Road, Avondale, PA 19311",
+      "phone": "610-268-0120",
+      "image": "https://cdn.findpawpal.com/office/428657.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pocono-animal-rescue-inc-428721",
+      "name": "Pocono Animal Rescue, Inc.",
+      "address": "PO Box 582, Bartonsville, PA 18321",
+      "phone": "570-476-1484",
+      "image": "https://cdn.findpawpal.com/office/428721.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "beaver-falls-animal-shelter-474971",
+      "name": "Beaver Falls Animal Shelter",
+      "address": "810 Whipple Court, Beaver Falls, PA 15010",
+      "phone": "724-843-2328",
+      "image": "https://cdn.findpawpal.com/office/474971.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-and-referral-429103",
+      "name": "Animal Rescue & Referral",
+      "address": "3112 Benjamin Rush Court, Bensalem, PA 19020",
+      "phone": "215-752-7556",
+      "image": "https://cdn.findpawpal.com/office/429103.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bensalem-animal-control-596448",
+      "name": "Bensalem Animal Control",
+      "address": "2400 Byberry Road, Bensalem, PA 19020",
+      "phone": "215-633-3659",
+      "image": "https://cdn.findpawpal.com/office/596448.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "womens-humane-society-437906",
+      "name": "Women's Humane Society",
+      "address": "3839 Richlieu Road, Bensalem, PA 19020",
+      "phone": "215-750-5252",
+      "image": "https://cdn.findpawpal.com/office/437906.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "double-d-equine-rescue-437827",
+      "name": "Double D Equine Rescue",
+      "address": "9312 Old U.S. 22, Bethel, PA 19507",
+      "phone": "717-933-4648",
+      "image": "https://cdn.findpawpal.com/office/437827.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-league-of-berks-county-429137",
+      "name": "Animal Rescue League of Berks County",
+      "address": "58 Kennel Road, Birdsboro, PA 19508",
+      "phone": "610-373-8830",
+      "image": "https://cdn.findpawpal.com/office/429137.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-resource-center-429164",
+      "name": "Animal Resource Center",
+      "address": "301 Boone Road, Bloomsburg, PA 17815",
+      "phone": "570-784-3669",
+      "image": "https://cdn.findpawpal.com/office/429164.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mckean-county-s-p-c-a-428713",
+      "name": "McKean County S P C A",
+      "address": "80 Glenwood Avenue, Bradford, PA 16701",
+      "phone": "814-362-8850",
+      "image": "https://cdn.findpawpal.com/office/428713.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cats-in-need-437563",
+      "name": "Cats In Need",
+      "address": "405 Virginia Avenue, Butler, PA 16001",
+      "phone": "412-282-0714",
+      "image": "https://cdn.findpawpal.com/office/437563.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "personalized-greyhounds-589117",
+      "name": "Personalized Greyhounds",
+      "address": "128 Old Ford Drive, Camp Hill, PA 17011",
+      "phone": "717-761-3317",
+      "image": "https://cdn.findpawpal.com/office/589117.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "preservation-of-animal-welfare-and-safety-644640",
+      "name": "Preservation of Animal Welfare & Safety",
+      "address": "PO Box 855, Camp Hill, PA 17001",
+      "phone": "717-957-8122",
+      "image": "https://cdn.findpawpal.com/office/644640.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "harness-horse-retirement-and-youth-association-588829",
+      "name": "Harness Horse Retirement and Youth Association",
+      "address": "38301 5 Corners Road, Centerville, PA 16404",
+      "phone": "814-967-2932",
+      "image": "https://cdn.findpawpal.com/office/588829.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pets-come-first-474061",
+      "name": "Pets Come First",
+      "address": "2451 General Potter Highway, Centre Hall, PA 16828",
+      "phone": "814-364-1725",
+      "image": "https://cdn.findpawpal.com/office/474061.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cumberland-valley-animal-shelter-453413",
+      "name": "Cumberland Valley Animal Shelter",
+      "address": "5051 Letterkenny Road West, Chambersburg, PA 17201",
+      "phone": "717-263-0170",
+      "image": "https://cdn.findpawpal.com/office/453413.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cumberland-valley-animal-shelter-595907",
+      "name": "Cumberland Valley Animal Shelter",
+      "address": "2325 Country Road, Chambersburg, PA 17202",
+      "phone": "717-263-5791",
+      "image": "https://cdn.findpawpal.com/office/595907.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rescue-me-yorkie-rescue-452822",
+      "name": "Rescue Me-Yorkie Rescue",
+      "address": "2936 Rocky Spring Road, Chambersburg, PA 17201",
+      "phone": "717-264-9799",
+      "image": "https://cdn.findpawpal.com/office/452822.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chester-springs-animal-control-596407",
+      "name": "Chester Springs Animal Control",
+      "address": "931 Pottstown Pike, Chester Springs, PA 19425",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/596407.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "south-abington-animal-shelter-453301",
+      "name": "South Abington Animal Shelter",
+      "address": "967 Griffin Pond Road, Clarks Summit, PA 18411",
+      "phone": "570-586-3700",
+      "image": "https://cdn.findpawpal.com/office/453301.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hog-heaven-rescue-farm-inc-452654",
+      "name": "Hog Heaven Rescue Farm, Inc.",
+      "address": "2681 Mallory Road, Cochranton, PA 16314",
+      "phone": "814-425-1850",
+      "image": "https://cdn.findpawpal.com/office/452654.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "stray-cat-blues-inc-474185",
+      "name": "Stray Cat Blues, Inc.",
+      "address": "PO Box 8, Colmar, PA 18915",
+      "phone": "215-631-1851",
+      "image": "https://cdn.findpawpal.com/office/474185.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tails-of-the-tundra-siberian-husky-rescue-inc-428914",
+      "name": "Tails of the Tundra Siberian Husky Rescue, Inc.",
+      "address": "PO Box 612, Colmar, PA 18915",
+      "phone": "215-412-0270",
+      "image": "https://cdn.findpawpal.com/office/428914.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "montgomery-county-spca-474399",
+      "name": "Montgomery County SPCA",
+      "address": "19 East Ridge Pike, Conshohocken, PA 19428",
+      "phone": "610-825-0111",
+      "image": "https://cdn.findpawpal.com/office/474399.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animals-in-distress-437846",
+      "name": "Animals In Distress",
+      "address": "5075 Limeport Pike, Coopersburg, PA 18036",
+      "phone": "610-966-9383",
+      "image": "https://cdn.findpawpal.com/office/437846.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fresh-start-bird-rescue-452986",
+      "name": "Fresh Start Bird Rescue",
+      "address": "32 North 5th Street, Coplay, PA 18037",
+      "phone": "610-443-0114",
+      "image": "https://cdn.findpawpal.com/office/452986.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "covington-town-shelter-688389",
+      "name": "Covington Town Shelter",
+      "address": "354 Freytown Rd, Covington, PA 18424",
+      "phone": "855-823-3023",
+      "image": "https://cdn.findpawpal.com/office/688389.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paradise-equine-adoption-and-youth-ministry-588822",
+      "name": "Paradise Equine Adoption and Youth Ministry",
+      "address": "4312 Glen Eden Road, Cranberry, PA 16066",
+      "phone": "724-775-4470",
+      "image": "https://cdn.findpawpal.com/office/588822.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "croydon-animal-control-596411",
+      "name": "Croydon Animal Control",
+      "address": "1630 River Road, Croydon, PA 19021",
+      "phone": "215-785-3888",
+      "image": "https://cdn.findpawpal.com/office/596411.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pennsylvania-spca-452543",
+      "name": "Pennsylvania SPCA",
+      "address": "2801 Bloom Road, Danville, PA 17821",
+      "phone": "570-275-0340",
+      "image": "https://cdn.findpawpal.com/office/452543.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "delaware-county-animal-control-474094",
+      "name": "Delaware County Animal Control",
+      "address": "PO Box 169, Darby, PA 19023",
+      "phone": "610-522-1113",
+      "image": "https://cdn.findpawpal.com/office/474094.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "almost-home-dog-rescue-474940",
+      "name": "Almost Home Dog Rescue",
+      "address": "PO Box 132, Doylestown, PA 18901",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/474940.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "federated-humane-societies-of-pennsylvania-453041",
+      "name": "Federated Humane Societies of Pennsylvania",
+      "address": "524 North Main Street, Doylestown, PA 18901",
+      "phone": "215-794-7425",
+      "image": "https://cdn.findpawpal.com/office/453041.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "keystone-golden-retriever-rescue-588859",
+      "name": "Keystone Golden Retriever Rescue",
+      "address": "PO Box 384, DuBois, PA 15801",
+      "phone": "814-371-0111",
+      "image": "https://cdn.findpawpal.com/office/588859.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "agency-for-animal-welfare-spca-644816",
+      "name": "Agency for Animal Welfare SPCA",
+      "address": "808 Butler Street, Dunmore, PA 18512",
+      "phone": "570-961-5982",
+      "image": "https://cdn.findpawpal.com/office/644816.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cpr-for-cats-society-474168",
+      "name": "CPR for Cats Society",
+      "address": "PO Box 474, Eagleville, PA 19408",
+      "phone": "570-539-8001",
+      "image": "https://cdn.findpawpal.com/office/474168.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "east-petersburg-animal-control-453371",
+      "name": "East Petersburg Animal Control",
+      "address": "2508 Chrismar Way, East Petersburg, PA 17520",
+      "phone": "717-569-9981",
+      "image": "https://cdn.findpawpal.com/office/453371.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-care-sanctuary-474020",
+      "name": "Animal Care Sanctuary",
+      "address": "353 Sanctuary Hill Ln, East Smithfield, PA 18817",
+      "phone": "570-596-2200",
+      "image": "https://cdn.findpawpal.com/office/474020.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animals-cant-talk-rescue-and-adoption-inc-428731",
+      "name": "Animals Can't Talk Rescue and Adoption, Inc.",
+      "address": "3325 Penn Estates Drive, East Stroudsburg, PA 18301",
+      "phone": "570-242-2846",
+      "image": "https://cdn.findpawpal.com/office/428731.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "northampton-county-spca-northampton-county-spca-588928",
+      "name": "Northampton County SPCA. Northampton County SPCA",
+      "address": "1165 Island Park Road, Easton, PA 18042",
+      "phone": "610-252-7722",
+      "image": "https://cdn.findpawpal.com/office/588928.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "circle-of-life-farm-and-rescue-452528",
+      "name": "Circle of Life Farm & Rescue",
+      "address": "119 Golden Road, Effort, PA 18330",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/452528.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "2-by-2-animal-rescue-452582",
+      "name": "2 By 2 Animal Rescue",
+      "address": "233 Mitchell Road, Eighty Four, PA 15330",
+      "phone": "724-223-1539",
+      "image": "https://cdn.findpawpal.com/office/452582.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "washington-area-humane-society-474529",
+      "name": "Washington Area Humane Society",
+      "address": "1527 Highway 136, Eighty Four, PA 15330",
+      "phone": "724-222-7387",
+      "image": "https://cdn.findpawpal.com/office/474529.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fallen-timber-shelter-475077",
+      "name": "Fallen Timber Shelter",
+      "address": "1680 Fallen Timber Road, Elizabeth, PA 15037",
+      "phone": "412-751-2010",
+      "image": "https://cdn.findpawpal.com/office/475077.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "elizabethtown-area-animal-control-644877",
+      "name": "Elizabethtown Area Animal Control",
+      "address": "1096 West Bainbridge Street, Elizabethtown, PA 17022",
+      "phone": "866-986-2186",
+      "image": "https://cdn.findpawpal.com/office/644877.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ellwood-city-animal-control-465093",
+      "name": "Ellwood City Animal Control",
+      "address": "525 Lawrence Avenue, Ellwood City, PA 16117",
+      "phone": "724-758-9935",
+      "image": "https://cdn.findpawpal.com/office/465093.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "namcha-home-for-wayward-animals-595521",
+      "name": "Namcha Home for Wayward Animals",
+      "address": "PO Box 145, Elverson, PA 19520",
+      "phone": "610-286-9630",
+      "image": "https://cdn.findpawpal.com/office/595521.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cameron-county-spca-437368",
+      "name": "Cameron County SPCA",
+      "address": "PO Box 132, Emporium, PA 15834",
+      "phone": "814-486-0101",
+      "image": "https://cdn.findpawpal.com/office/437368.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "erie-animal-shelter-596441",
+      "name": "Erie Animal Shelter",
+      "address": "1555 East 10th Street, Erie, PA 16511",
+      "phone": "814-451-0230",
+      "image": "https://cdn.findpawpal.com/office/596441.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-northwestern-pennsylvania-688287",
+      "name": "Humane Society of Northwestern Pennsylvania",
+      "address": "2407 Zimmerly Road, Erie, PA 16506",
+      "phone": "814-835-8331",
+      "image": "https://cdn.findpawpal.com/office/688287.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "nwpa-humane-society-437784",
+      "name": "Nwpa Humane Society",
+      "address": "4710 Interchange Rd, Erie, PA 16501",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/437784.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "presque-isle-animal-shelter-688289",
+      "name": "Presque Isle Animal Shelter",
+      "address": "3024 West 26th Street, Erie, PA 16506",
+      "phone": "814-833-9857",
+      "image": "https://cdn.findpawpal.com/office/688289.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "reptile-rescue-of-erie-pa-474510",
+      "name": "Reptile Rescue of Erie, Pa",
+      "address": "702 Cascade Street, Erie, PA 16502",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/474510.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-bedford-county-452662",
+      "name": "Humane Society-Bedford County",
+      "address": "1108 Lutzville Road, Everett, PA 15537",
+      "phone": "814-623-8968",
+      "image": "https://cdn.findpawpal.com/office/452662.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "feral-saviors-589250",
+      "name": "Feral Saviors",
+      "address": "524 Avenue B, Feasterville, PA 19053",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/589250.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "waggin-woods-animal-sanctuary-429004",
+      "name": "Waggin' Woods Animal Sanctuary",
+      "address": "PO Box 784, Franklin, PA 16323",
+      "phone": "814-437-1113",
+      "image": "https://cdn.findpawpal.com/office/429004.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "equine-protection-network-inc-437363",
+      "name": "Equine Protection Network, Inc.",
+      "address": "PO Box 232, Friedensburg, PA 17933",
+      "phone": "570-345-6440",
+      "image": "https://cdn.findpawpal.com/office/437363.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "forgotten-felines-and-fidos-inc-437842",
+      "name": "Forgotten Felines & Fidos Inc",
+      "address": "6022 Mountain Road, Germansville, PA 18053",
+      "phone": "610-760-9009",
+      "image": "https://cdn.findpawpal.com/office/437842.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "adams-county-spca-474344",
+      "name": "Adams County SPCA",
+      "address": "11 Goldenville Road, Gettysburg, PA 17325",
+      "phone": "717-334-8876",
+      "image": "https://cdn.findpawpal.com/office/474344.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "angel-acres-horse-haven-rescue-inc-589035",
+      "name": "Angel Acres Horse Haven Rescue, Inc.",
+      "address": "PO Box 62, Glenville, PA 17329",
+      "phone": "717-965-7901",
+      "image": "https://cdn.findpawpal.com/office/589035.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-westmoreland-county-464696",
+      "name": "Humane Society of Westmoreland County",
+      "address": "State Highway 66 Turnpike, Greensburg, PA 15601",
+      "phone": "724-837-3779",
+      "image": "https://cdn.findpawpal.com/office/464696.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "strayhaven-inc-437862",
+      "name": "Strayhaven Inc",
+      "address": "94 Donation Road, Greenville, PA 16125",
+      "phone": "724-588-6161",
+      "image": "https://cdn.findpawpal.com/office/437862.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pawsibilities-animal-rescue-595842",
+      "name": "Pawsibilities Animal Rescue",
+      "address": "2048 Mainland Road, Harleysville, PA 19438",
+      "phone": "484-485-7297",
+      "image": "https://cdn.findpawpal.com/office/595842.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-harrisburg-area-inc-595770",
+      "name": "Humane Society of Harrisburg Area Inc",
+      "address": "7790 Grayson Road, Harrisburg, PA 17111",
+      "phone": "717-564-3320",
+      "image": "https://cdn.findpawpal.com/office/595770.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "guardians-of-mercy-animal-688283",
+      "name": "Guardian's of Mercy Animal",
+      "address": "156 Cricket Hill Road, Hawley, PA 18428",
+      "phone": "570-226-1570",
+      "image": "https://cdn.findpawpal.com/office/688283.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-shelter-644396",
+      "name": "Animal Shelter",
+      "address": "339 West Diamond Avenue, Hazleton, PA 18201",
+      "phone": "570-578-3122",
+      "image": "https://cdn.findpawpal.com/office/644396.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hazleton-animal-shelter-474432",
+      "name": "Hazleton Animal Shelter",
+      "address": "101 North Poplar Street, Hazleton, PA 18201",
+      "phone": "570-454-0640",
+      "image": "https://cdn.findpawpal.com/office/474432.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-mercer-county-596085",
+      "name": "Humane Society-Mercer County",
+      "address": "3005 East State Street, Hermitage, PA 16148",
+      "phone": "724-981-5445",
+      "image": "https://cdn.findpawpal.com/office/596085.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "shenango-valley-animal-shelter-644680",
+      "name": "Shenango Valley Animal Shelter",
+      "address": "2599 Broadway Road, Hermitage, PA 16148",
+      "phone": "724-342-5834",
+      "image": "https://cdn.findpawpal.com/office/644680.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "aussie-rescue-and-placement-helpline-inc-474306",
+      "name": "Aussie Rescue & Placement Helpline, Inc.",
+      "address": "PO Box 85, Honesdale, PA 18431",
+      "phone": "877-177-4779",
+      "image": "https://cdn.findpawpal.com/office/474306.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dessin-animal-shelter-595737",
+      "name": "Dessin Animal Shelter",
+      "address": "138 Miller Drive, Honesdale, PA 18431",
+      "phone": "570-253-4037",
+      "image": "https://cdn.findpawpal.com/office/595737.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "delaware-valley-siberian-husky-rescue-inc-428887",
+      "name": "Delaware Valley Siberian Husky Rescue, Inc.",
+      "address": "PO Box 773, Horsham, PA 19044",
+      "phone": "877-876-2644",
+      "image": "https://cdn.findpawpal.com/office/428887.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cozee-valee-rescue-sanctuary-inc-595556",
+      "name": "Cozee Valee Rescue Sanctuary, Inc.",
+      "address": "9649 Sipes Road, Huntingdon, PA 16652",
+      "phone": "814-599-3023",
+      "image": "https://cdn.findpawpal.com/office/595556.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "huntingdon-county-humane-society-474423",
+      "name": "Huntingdon County Humane Society",
+      "address": "11371 School House Hollow Road, Huntingdon, PA 16652",
+      "phone": "814-643-7387",
+      "image": "https://cdn.findpawpal.com/office/474423.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "four-footed-friends-589255",
+      "name": "Four Footed Friends",
+      "address": "228 Beck Rd, Indiana, PA 15701",
+      "phone": "724-349-1144",
+      "image": "https://cdn.findpawpal.com/office/589255.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "indiana-county-humane-society-437911",
+      "name": "Indiana County Humane Society",
+      "address": "65 Haven Drive, Indiana, PA 15701",
+      "phone": "724-465-3977",
+      "image": "https://cdn.findpawpal.com/office/437911.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kitty-colony-464632",
+      "name": "Kitty Colony",
+      "address": "1209 Rydal Road, Jenkintown, PA 19046",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/464632.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "carbon-county-friends-of-animals-452877",
+      "name": "Carbon County Friends of Animals",
+      "address": "900 Walnut Avenue, Jim Thorpe, PA 18229",
+      "phone": "570-325-9400",
+      "image": "https://cdn.findpawpal.com/office/452877.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-cambria-county-588572",
+      "name": "Humane Society of Cambria County",
+      "address": "743 Galleria Dr Ext, Johnstown, PA 15904",
+      "phone": "814-535-6116",
+      "image": "https://cdn.findpawpal.com/office/588572.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "orphans-of-the-storm-438008",
+      "name": "Orphans of the Storm",
+      "address": "11878 Route 85, Kittanning, PA 16201",
+      "phone": "724-548-4520",
+      "image": "https://cdn.findpawpal.com/office/438008.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "helping-hands-for-animals-595768",
+      "name": "Helping Hands for Animals",
+      "address": "PO Box 162, Lampeter, PA 17537",
+      "phone": "717-687-7297",
+      "image": "https://cdn.findpawpal.com/office/595768.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-league-of-lancaster-county-452689",
+      "name": "Humane League of Lancaster County",
+      "address": "2195 Lincoln Highway East, Lancaster, PA 17602",
+      "phone": "717-393-6551",
+      "image": "https://cdn.findpawpal.com/office/452689.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lair-of-dragons-bird-rescue-474329",
+      "name": "Lair of Dragons Bird Rescue",
+      "address": "2888 Harrisburg Pike, Lancaster, PA 17601",
+      "phone": "717-431-8599",
+      "image": "https://cdn.findpawpal.com/office/474329.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lancaster-animal-control-596405",
+      "name": "Lancaster Animal Control",
+      "address": "401 East Orange Street, Lancaster, PA 17602",
+      "phone": "717-397-8922",
+      "image": "https://cdn.findpawpal.com/office/596405.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lancaster-county-spca-474637",
+      "name": "Lancaster County SPCA",
+      "address": "599 Chesapeake Street, Lancaster, PA 17602",
+      "phone": "717-971-6979",
+      "image": "https://cdn.findpawpal.com/office/474637.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-of-lancaster-474634",
+      "name": "PAWS of Lancaster",
+      "address": "359 College Avenue, Lancaster, PA 17603",
+      "phone": "717-399-4559",
+      "image": "https://cdn.findpawpal.com/office/474634.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "landenberg-animal-control-453362",
+      "name": "Landenberg Animal Control",
+      "address": "1499 Flint Hill Road, Landenberg, PA 19350",
+      "phone": "610-255-1614",
+      "image": "https://cdn.findpawpal.com/office/453362.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mapaw-siberian-husky-rescue-referral-service-595876",
+      "name": "Mapaw Siberian Husky Rescue Referral Service",
+      "address": "134 West 7th Street, Lansdale, PA 19446",
+      "phone": "215-997-9217",
+      "image": "https://cdn.findpawpal.com/office/595876.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "action-for-animals-humane-society-429159",
+      "name": "Action For Animals Humane Society",
+      "address": "386 Highway 217, Latrobe, PA 15650",
+      "phone": "724-539-2544",
+      "image": "https://cdn.findpawpal.com/office/429159.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "piggie-lovers-inc-588782",
+      "name": "Piggie Lovers, Inc.",
+      "address": "2626 Raymond Avenue, Latrobe, PA 15650",
+      "phone": "724-539-6682",
+      "image": "https://cdn.findpawpal.com/office/588782.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-all-animals-596269",
+      "name": "Friends of All Animals",
+      "address": "777 North 8th Avenue, Lebanon, PA 17046",
+      "phone": "717-272-6466",
+      "image": "https://cdn.findpawpal.com/office/596269.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "serenity-haven-rescue-428605",
+      "name": "Serenity Haven Rescue",
+      "address": "PO Box 196, Leesport, PA 19533",
+      "phone": "610-568-0840",
+      "image": "https://cdn.findpawpal.com/office/428605.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "levittown-animal-control-453355",
+      "name": "Levittown Animal Control",
+      "address": "89 Pinewood Drive, Levittown, PA 19054",
+      "phone": "215-945-2160",
+      "image": "https://cdn.findpawpal.com/office/453355.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pennsylvania-ferret-club-and-shelter-474692",
+      "name": "Pennsylvania Ferret Club & Shelter",
+      "address": "PO Box 5074, Limerick, PA 19468",
+      "phone": "610-495-1509",
+      "image": "https://cdn.findpawpal.com/office/474692.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-clinton-county-spca-644376",
+      "name": "The Clinton County SPCA",
+      "address": "33 Mill Hill Road, Lock Haven, PA 17745",
+      "phone": "570-748-4756",
+      "image": "https://cdn.findpawpal.com/office/644376.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greener-pastures-no-kill-animal-rescue-589003",
+      "name": "Greener Pastures No Kill Animal Rescue",
+      "address": "PO Box 278, Marion, PA 17235",
+      "phone": "717-375-2980",
+      "image": "https://cdn.findpawpal.com/office/589003.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "room-for-ferrets-429249",
+      "name": "Room for Ferrets",
+      "address": "Main St, McClellandtown, PA 15458",
+      "phone": "724-737-5577",
+      "image": "https://cdn.findpawpal.com/office/429249.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "because-you-care-shelter-inc-688285",
+      "name": "Because You Care Shelter, Inc.",
+      "address": "6041 West Road, McKean, PA 16426",
+      "phone": "814-866-5039",
+      "image": "https://cdn.findpawpal.com/office/688285.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "crawford-county-humane-society-437570",
+      "name": "Crawford County Humane Society",
+      "address": "11012 Kennedy Hill Road, Meadville, PA 16335",
+      "phone": "814-724-5115",
+      "image": "https://cdn.findpawpal.com/office/437570.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-haven-452927",
+      "name": "Animal Haven",
+      "address": "3923 Emil Ridge Drive, Mechanicsburg, PA 17050",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/452927.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "central-pennsylvania-animal-alliance-437808",
+      "name": "Central Pennsylvania Animal Alliance",
+      "address": "1802 Silver Pine Circle, Mechanicsburg, PA 17050",
+      "phone": "717-503-8371",
+      "image": "https://cdn.findpawpal.com/office/437808.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "helen-o-krause-animal-foundation-596015",
+      "name": "Helen O. Krause Animal Foundation",
+      "address": "PO Box 311, Mechanicsburg, PA 17055",
+      "phone": "717-697-3377",
+      "image": "https://cdn.findpawpal.com/office/596015.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-harrisburg-west-shore-437814",
+      "name": "Humane Society of Harrisburg - West Shore",
+      "address": "710 Eppley Road, Mechanicsburg, PA 17055",
+      "phone": "717-697-5847",
+      "image": "https://cdn.findpawpal.com/office/437814.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "delaware-county-spca-688191",
+      "name": "Delaware County SPCA",
+      "address": "555 Sandy Bank Road, Media, PA 19063",
+      "phone": "610-566-1370",
+      "image": "https://cdn.findpawpal.com/office/688191.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-solutions-428717",
+      "name": "Pet Solutions",
+      "address": "PO Box 190, Mercer, PA 16137",
+      "phone": "724-662-4485",
+      "image": "https://cdn.findpawpal.com/office/428717.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-control-monroeville-borough-453157",
+      "name": "Animal Control Monroeville Borough",
+      "address": "200 Starr Drive, Monroeville, PA 15146",
+      "phone": "412-856-3355",
+      "image": "https://cdn.findpawpal.com/office/453157.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "susquehanna-county-humane-society-474203",
+      "name": "Susquehanna County Humane Society",
+      "address": "PO Box 485, Montrose, PA 18801",
+      "phone": "570-278-1228",
+      "image": "https://cdn.findpawpal.com/office/474203.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hope-for-the-animals-474325",
+      "name": "Hope for the Animals",
+      "address": "PO Box 877, Morrisville, PA 19067",
+      "phone": "215-945-6204",
+      "image": "https://cdn.findpawpal.com/office/474325.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-angels-688337",
+      "name": "Animal Angels",
+      "address": "419 Three Mile Hill, Mount Pleasant, PA 15666",
+      "phone": "724-542-9242",
+      "image": "https://cdn.findpawpal.com/office/688337.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-lebanon-county-438013",
+      "name": "Humane Society of Lebanon County",
+      "address": "150 North Ramona Road, Myerstown, PA 17067",
+      "phone": "717-628-1369",
+      "image": "https://cdn.findpawpal.com/office/438013.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pets-in-need-inc-688253",
+      "name": "Pets In Need, Inc.",
+      "address": "PO Box 203, Nazareth, PA 18064",
+      "phone": "610-759-6879",
+      "image": "https://cdn.findpawpal.com/office/688253.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lawrence-county-humane-society-644678",
+      "name": "Lawrence County Humane Society",
+      "address": "628 Pearson Mill Road, New Castle, PA 16101",
+      "phone": "724-654-8520",
+      "image": "https://cdn.findpawpal.com/office/644678.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "make-peace-with-animals-inc-589228",
+      "name": "Make Peace With Animals, Inc.",
+      "address": "PO Box 488, New Hope, PA 18938",
+      "phone": "215-862-0605",
+      "image": "https://cdn.findpawpal.com/office/589228.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-protectors-of-allegheny-valley-475016",
+      "name": "Animal Protectors of Allegheny Valley",
+      "address": "533 Linden Avenue, New Kensington, PA 15068",
+      "phone": "724-339-7388",
+      "image": "https://cdn.findpawpal.com/office/475016.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-coalition-of-delaware-county-inc-474412",
+      "name": "Animal Coalition of Delaware County, Inc.",
+      "address": "3553 West Chester Pike, Newtown Square, PA 19073",
+      "phone": "610-876-1479",
+      "image": "https://cdn.findpawpal.com/office/474412.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kitty-cottage-adoption-center-inc-644573",
+      "name": "Kitty Cottage Adoption Center Inc",
+      "address": "317 West Johnson Highway, Norristown, PA 19401",
+      "phone": "610-731-0101",
+      "image": "https://cdn.findpawpal.com/office/644573.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sanctuary-hollow-452768",
+      "name": "Sanctuary Hollow",
+      "address": "2820 Audubon Village Drive, Norristown, PA 19403",
+      "phone": "610-666-6312",
+      "image": "https://cdn.findpawpal.com/office/452768.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "northampton-boro-animal-shelter-437651",
+      "name": "Northampton-Boro Animal Shelter",
+      "address": "1401 Laubach Avenue, Northampton, PA 18067",
+      "phone": "610-262-7387",
+      "image": "https://cdn.findpawpal.com/office/437651.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fly-away-home-595910",
+      "name": "Fly Away Home",
+      "address": "136 Tozer Lane, Olanta, PA 16863",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/595910.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-rabbit-habit-688207",
+      "name": "The Rabbit Habit",
+      "address": "PO Box 209, Oreland, PA 19075",
+      "phone": "215-517-7067",
+      "image": "https://cdn.findpawpal.com/office/688207.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "labrador-retriever-rescue-inc-464973",
+      "name": "Labrador Retriever Rescue, Inc.",
+      "address": "PO Box 246, Palmyra, PA 17078",
+      "phone": "301-868-3524",
+      "image": "https://cdn.findpawpal.com/office/464973.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lend-a-paw-inc-453212",
+      "name": "Lend-A-Paw, Inc.",
+      "address": "920 East Main Street, Palmyra, PA 17078",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/453212.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "all-american-ponies-inc-474767",
+      "name": "All American Ponies, Inc.",
+      "address": "522 Parker Pike, Parker, PA 16049",
+      "phone": "724-399-2127",
+      "image": "https://cdn.findpawpal.com/office/474767.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alliance-for-philadelphias-animals-464927",
+      "name": "Alliance for Philadelphia's Animals",
+      "address": "PO Box 58295, Philadelphia, PA 19102",
+      "phone": "215-772-0212",
+      "image": "https://cdn.findpawpal.com/office/464927.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-care-and-control-team-of-philadelphia-596198",
+      "name": "Animal Care and Control Team of Philadelphia",
+      "address": "111 West Hunting Park Avenue, Philadelphia, PA 19140",
+      "phone": "267-385-3800",
+      "image": "https://cdn.findpawpal.com/office/596198.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-league-of-philadelphia-589337",
+      "name": "Animal Rescue League of Philadelphia",
+      "address": "604 South Washington Square, Philadelphia, PA 19106",
+      "phone": "215-898-8862",
+      "image": "https://cdn.findpawpal.com/office/589337.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "blind-dog-rescue-alliance-596224",
+      "name": "Blind Dog Rescue Alliance",
+      "address": "PO Box 63401, Philadelphia, PA 19114",
+      "phone": "877-254-6301",
+      "image": "https://cdn.findpawpal.com/office/596224.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "homeless-animal-shelter-search-474415",
+      "name": "Homeless Animal Shelter Search",
+      "address": "325 Hange Ln, Philadelphia, PA 19006",
+      "phone": "215-379-5465",
+      "image": "https://cdn.findpawpal.com/office/474415.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "morris-animal-refuge-453144",
+      "name": "Morris Animal Refuge",
+      "address": "1242 Lombard Street, Philadelphia, PA 19147",
+      "phone": "215-735-3256",
+      "image": "https://cdn.findpawpal.com/office/453144.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "national-greyhound-adoption-program-438043",
+      "name": "National Greyhound Adoption Program",
+      "address": "10901 Dutton Road, Philadelphia, PA 19154",
+      "phone": "215-331-7918",
+      "image": "https://cdn.findpawpal.com/office/438043.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "northeast-animal-rescue-596295",
+      "name": "Northeast Animal Rescue",
+      "address": "PO Box 52395, Philadelphia, PA 19115",
+      "phone": "610-202-4901",
+      "image": "https://cdn.findpawpal.com/office/596295.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pennsylvania-spca-438032",
+      "name": "Pennsylvania SPCA",
+      "address": "350 East Erie Avenue, Philadelphia, PA 19134",
+      "phone": "215-426-6300",
+      "image": "https://cdn.findpawpal.com/office/438032.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "philadelphia-animal-welfare-society-596298",
+      "name": "Philadelphia Animal Welfare Society",
+      "address": "100 North 2nd Street, Philadelphia, PA 19106",
+      "phone": "215-238-9901",
+      "image": "https://cdn.findpawpal.com/office/596298.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "philadelphia-pets-are-wonderful-support-453250",
+      "name": "Philadelphia Pets Are Wonderful Support",
+      "address": "2255 15th St, Philadelphia, PA 19102",
+      "phone": "215-985-0206",
+      "image": "https://cdn.findpawpal.com/office/453250.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "prancing-paws-animal-rescue-596302",
+      "name": "Prancing PAWS Animal Rescue",
+      "address": "11820 Basile Road, Philadelphia, PA 19154",
+      "phone": "215-900-3253",
+      "image": "https://cdn.findpawpal.com/office/596302.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clearfield-county-spca-437383",
+      "name": "Clearfield County SPCA",
+      "address": "541 Graham Station Road, Philipsburg, PA 16866",
+      "phone": "814-342-3810",
+      "image": "https://cdn.findpawpal.com/office/437383.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "phoenixville-animal-control-453312",
+      "name": "Phoenixville Animal Control",
+      "address": "1149 Pike Springs Road, Phoenixville, PA 19460",
+      "phone": "610-933-0606",
+      "image": "https://cdn.findpawpal.com/office/453312.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cats-with-no-name-474242",
+      "name": "Cats With No Name",
+      "address": "33 Walmer Lane, Pine Grove, PA 17963",
+      "phone": "570-345-2229",
+      "image": "https://cdn.findpawpal.com/office/474242.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ruth-steinert-memorial-spca-474248",
+      "name": "Ruth Steinert Memorial SPCA",
+      "address": "18 Wertz Drive, Pine Grove, PA 17963",
+      "phone": "570-345-3540",
+      "image": "https://cdn.findpawpal.com/office/474248.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-advocates-inc-428871",
+      "name": "Animal Advocates Inc",
+      "address": "35 Wabash Street, Pittsburgh, PA 15220",
+      "phone": "412-928-9777",
+      "image": "https://cdn.findpawpal.com/office/428871.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-care-and-welfare-inc-474671",
+      "name": "Animal Care and Welfare, Inc.",
+      "address": "PO Box 8257, Pittsburgh, PA 15218",
+      "phone": "412-244-1372",
+      "image": "https://cdn.findpawpal.com/office/474671.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-friends-inc-588903",
+      "name": "Animal Friends, Inc.",
+      "address": "562 Camp Horne Road, Pittsburgh, PA 15237",
+      "phone": "412-566-2103",
+      "image": "https://cdn.findpawpal.com/office/588903.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-full-life-rescue-inc-474367",
+      "name": "Animal Full Life Rescue, Inc.",
+      "address": "908 Ramsey Street, Pittsburgh, PA 15221",
+      "phone": "412-371-7446",
+      "image": "https://cdn.findpawpal.com/office/474367.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-league-of-western-pennsylvania-588895",
+      "name": "Animal Rescue League of Western Pennsylvania",
+      "address": "6620 Hamilton Avenue, Pittsburgh, PA 15206",
+      "phone": "412-345-7300",
+      "image": "https://cdn.findpawpal.com/office/588895.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hide-e-hole-ferret-rescue-inc-429194",
+      "name": "Hide-E-Hole Ferret Rescue, Inc.",
+      "address": "145 Margaret Street, Pittsburgh, PA 15210",
+      "phone": "412-481-5927",
+      "image": "https://cdn.findpawpal.com/office/429194.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pittsburgh-animal-control-596371",
+      "name": "Pittsburgh Animal Control",
+      "address": "3001 Railroad Street, Pittsburgh, PA 15201",
+      "phone": "412-255-2036",
+      "image": "https://cdn.findpawpal.com/office/596371.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "southwest-pennsylvania-retriever-rescue-organization-688351",
+      "name": "Southwest Pennsylvania Retriever Rescue Organization",
+      "address": "142 Stark Drive, Pittsburgh, PA 15239",
+      "phone": "412-795-0163",
+      "image": "https://cdn.findpawpal.com/office/688351.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spencer-and-friend-animal-rescue-inc-688353",
+      "name": "Spencer and Friend Animal Rescue, Inc.",
+      "address": "515 California Avenue, Pittsburgh, PA 15202",
+      "phone": "412-734-0810",
+      "image": "https://cdn.findpawpal.com/office/688353.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tri-county-humane-protection-inc-474777",
+      "name": "Tri-County Humane Protection, Inc.",
+      "address": "PO Box 9893, Pittsburgh, PA 15227",
+      "phone": "412-381-5003",
+      "image": "https://cdn.findpawpal.com/office/474777.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "western-pennsylvania-humane-society-644768",
+      "name": "Western Pennsylvania Humane Society",
+      "address": "1101 Western Avenue, Pittsburgh, PA 15233",
+      "phone": "412-321-4625",
+      "image": "https://cdn.findpawpal.com/office/644768.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "loving-hearts-rottwieler-rescue-and-referral-437701",
+      "name": "Loving Hearts Rottwieler Rescue & Referral",
+      "address": "3069 Jolly Road, Plymouth Meeting, PA 19462",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/437701.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "adopt-a-cow-474573",
+      "name": "Adopt A Cow",
+      "address": "534 Gita Nagari Road, Port Royal, PA 17082",
+      "phone": "717-527-2476",
+      "image": "https://cdn.findpawpal.com/office/474573.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "port-treverton-animal-control-644856",
+      "name": "Port Treverton Animal Control",
+      "address": "1105 Red Hill Road, Port Trevorton, PA 17864",
+      "phone": "570-374-2648",
+      "image": "https://cdn.findpawpal.com/office/644856.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ryerss-farm-for-aged-equines-464353",
+      "name": "Ryerss Farm For Aged Equines",
+      "address": "1710 Ridge Road, Pottstown, PA 19465",
+      "phone": "610-469-0533",
+      "image": "https://cdn.findpawpal.com/office/464353.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "a-diamond-in-the-ruff-pet-rescue-474255",
+      "name": "A Diamond In The Ruff Pet Rescue",
+      "address": "2616 Mahantongo Street, Pottsville, PA 17901",
+      "phone": "570-628-4810",
+      "image": "https://cdn.findpawpal.com/office/474255.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hillside-spca-688224",
+      "name": "Hillside SPCA",
+      "address": "PO Box 233, Pottsville, PA 17901",
+      "phone": "570-622-7769",
+      "image": "https://cdn.findpawpal.com/office/688224.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "punxsutawney-animal-control-453323",
+      "name": "Punxsutawney Animal Control",
+      "address": "6300 Pennsylvania 36, Punxsutawney, PA 15767",
+      "phone": "814-938-7389",
+      "image": "https://cdn.findpawpal.com/office/453323.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "last-chance-ranch-437900",
+      "name": "Last Chance Ranch",
+      "address": "9 Beck Road, Quakertown, PA 18951",
+      "phone": "215-538-2510",
+      "image": "https://cdn.findpawpal.com/office/437900.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "radnor-animal-control-644857",
+      "name": "Radnor Animal Control",
+      "address": "328 Upper Gulph Road, Radnor, PA 19087",
+      "phone": "610-688-1018",
+      "image": "https://cdn.findpawpal.com/office/644857.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-berks-county-589144",
+      "name": "Humane Society of Berks County",
+      "address": "1801 North 11th Street, Reading, PA 19604",
+      "phone": "610-921-2348",
+      "image": "https://cdn.findpawpal.com/office/589144.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "save-a-yorkie-rescue-inc-474567",
+      "name": "Save A Yorkie Rescue, Inc.",
+      "address": "2650 Shillington Road, Reading, PA 19608",
+      "phone": "610-670-2183",
+      "image": "https://cdn.findpawpal.com/office/474567.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-catworks-474312",
+      "name": "The Catworks",
+      "address": "PO Box 15171, Reading, PA 19612",
+      "phone": "610-375-0348",
+      "image": "https://cdn.findpawpal.com/office/474312.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-control-and-rescue-league-474475",
+      "name": "Animal Control & Rescue League",
+      "address": "87 Crest Hill Lane, Red Lion, PA 17356",
+      "phone": "717-244-9747",
+      "image": "https://cdn.findpawpal.com/office/474475.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "butler-county-humane-society-428805",
+      "name": "Butler County Humane Society",
+      "address": "1015 Evans City Road, Renfrew, PA 16053",
+      "phone": "724-789-1150",
+      "image": "https://cdn.findpawpal.com/office/428805.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "green-acres-sanctuary-474519",
+      "name": "Green Acres Sanctuary",
+      "address": "Rural Rte 2, Rockwood, PA 15557",
+      "phone": "814-926-4902",
+      "image": "https://cdn.findpawpal.com/office/474519.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rogers-rescue-588720",
+      "name": "Rogers' Rescue",
+      "address": "PO Box 545, Royersford, PA 19468",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/588720.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "willing-hearts-dal-recue-474726",
+      "name": "Willing Hearts Dal Recue",
+      "address": "PO Box 11, Royersford, PA 19468",
+      "phone": "610-948-5898",
+      "image": "https://cdn.findpawpal.com/office/474726.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "last-chance-farm-588787",
+      "name": "Last Chance Farm",
+      "address": "80 Farm View Road, Schuylkill Haven, PA 17972",
+      "phone": "570-345-3846",
+      "image": "https://cdn.findpawpal.com/office/588787.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "scranton-animal-association-453382",
+      "name": "Scranton Animal Association",
+      "address": "215 South 7th Avenue, Scranton, PA 18505",
+      "phone": "570-961-5800",
+      "image": "https://cdn.findpawpal.com/office/453382.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "venango-county-humane-society-452922",
+      "name": "Venango County Humane Society",
+      "address": "286 South Main Street, Seneca, PA 16346",
+      "phone": "814-677-4040",
+      "image": "https://cdn.findpawpal.com/office/452922.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-appeal-474462",
+      "name": "Animal Appeal",
+      "address": "PO Box 197, Sharpsville, PA 16150",
+      "phone": "724-962-9284",
+      "image": "https://cdn.findpawpal.com/office/474462.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rock-run-animal-rescue-595629",
+      "name": "Rock Run Animal Rescue",
+      "address": "PO Box 6, Shermans Dale, PA 17090",
+      "phone": "717-636-1452",
+      "image": "https://cdn.findpawpal.com/office/595629.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cumberland-valley-animal-shelter-596339",
+      "name": "Cumberland Valley Animal Shelter",
+      "address": "1 East King Street, Shippensburg, PA 17257",
+      "phone": "717-477-8025",
+      "image": "https://cdn.findpawpal.com/office/596339.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pike-county-humane-society-452546",
+      "name": "Pike County Humane Society",
+      "address": "186 Lee Road, Shohola, PA 18458",
+      "phone": "570-296-7654",
+      "image": "https://cdn.findpawpal.com/office/452546.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "diamond-dog-rescue-452868",
+      "name": "Diamond Dog Rescue",
+      "address": "23 Kratz Road, Shrewsbury, PA 17361",
+      "phone": "717-227-9674",
+      "image": "https://cdn.findpawpal.com/office/452868.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bran-manor-equine-rescue-589155",
+      "name": "Bran Manor Equine Rescue",
+      "address": "159 Bran Road, Sinking Spring, PA 19608",
+      "phone": "610-587-1098",
+      "image": "https://cdn.findpawpal.com/office/589155.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-somerset-county-644445",
+      "name": "Humane Society of Somerset County",
+      "address": "204 Whitetail Road, Somerset, PA 15501",
+      "phone": "814-443-2121",
+      "image": "https://cdn.findpawpal.com/office/644445.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bright-futures-farm-595733",
+      "name": "Bright Futures Farm",
+      "address": "44793 Harrison Road, Spartansburg, PA 16434",
+      "phone": "814-827-8270",
+      "image": "https://cdn.findpawpal.com/office/595733.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "for-the-love-of-horses-inc-452647",
+      "name": "For the Love of Horses, Inc.",
+      "address": "44362 Highway 77, Spartansburg, PA 16434",
+      "phone": "814-654-9733",
+      "image": "https://cdn.findpawpal.com/office/452647.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lake-large-breed-rescue-688215",
+      "name": "Lake Large Breed Rescue",
+      "address": "229 Lakeview Dr, Springville, PA 18844",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/688215.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-friends-of-elk-and-cameron-counties-475010",
+      "name": "Animal Friends of Elk and Cameron Counties",
+      "address": "930 South Saint Marys Street, St. Marys, PA 15857",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/475010.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "aniumal-friends-of-elk-and-cameron-counties-429145",
+      "name": "Aniumal Friends of Elk and Cameron Counties",
+      "address": "PO Box 1041, St. Marys, PA 15857",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/429145.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "elk-county-humane-society-589046",
+      "name": "Elk County Humane Society",
+      "address": "1023 East Eschbach Road, St. Marys, PA 15857",
+      "phone": "814-834-3247",
+      "image": "https://cdn.findpawpal.com/office/589046.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "centre-county-paws-588575",
+      "name": "Centre County PAWS",
+      "address": "1401 Trout Road, State College, PA 16801",
+      "phone": "814-237-8722",
+      "image": "https://cdn.findpawpal.com/office/588575.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pennsylvania-ferret-rescue-association-688178",
+      "name": "Pennsylvania Ferret Rescue Association",
+      "address": "PO Box 1206, State College, PA 16804",
+      "phone": "814-237-9267",
+      "image": "https://cdn.findpawpal.com/office/688178.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "monroe-animal-league-474471",
+      "name": "Monroe Animal League",
+      "address": "112 North 8th Street, Stroudsburg, PA 18360",
+      "phone": "570-421-7775",
+      "image": "https://cdn.findpawpal.com/office/474471.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "stray-cat-blues-688209",
+      "name": "Stray Cat Blues",
+      "address": "PO Box 106, Sumneytown, PA 18084",
+      "phone": "215-234-8284",
+      "image": "https://cdn.findpawpal.com/office/688209.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "2-moon-junction-animal-house-474369",
+      "name": "2 Moon Junction Animal House",
+      "address": "PO Box 72284, Thorndale, PA 19372",
+      "phone": "215-334-6003",
+      "image": "https://cdn.findpawpal.com/office/474369.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "safehaven-small-breed-rescue-589071",
+      "name": "Safehaven Small Breed Rescue",
+      "address": "318 Barber Dr, Tionesta, PA 16353",
+      "phone": "814-463-5004",
+      "image": "https://cdn.findpawpal.com/office/589071.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dogs-deserve-better-474012",
+      "name": "Dogs Deserve Better",
+      "address": "PO Box 23, Tipton, PA 16684",
+      "phone": "877-636-1408",
+      "image": "https://cdn.findpawpal.com/office/474012.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "towanda-animal-shelter-589476",
+      "name": "Towanda Animal Shelter",
+      "address": "305 2nd Street, Towanda, PA 18848",
+      "phone": "570-265-2623",
+      "image": "https://cdn.findpawpal.com/office/589476.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "club-pet-464800",
+      "name": "Club Pet",
+      "address": "20 Schaller Road, Transfer, PA 16154",
+      "phone": "724-962-0877",
+      "image": "https://cdn.findpawpal.com/office/464800.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bradford-county-humane-society-688171",
+      "name": "Bradford County Humane Society",
+      "address": "PO Box 179, Ulster, PA 18850",
+      "phone": "570-888-2114",
+      "image": "https://cdn.findpawpal.com/office/688171.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fayette-county-spca-465005",
+      "name": "Fayette County SPCA",
+      "address": "215 Rankin Airshaft Road, Uniontown, PA 15401",
+      "phone": "724-438-3121",
+      "image": "https://cdn.findpawpal.com/office/465005.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fayette-friends-of-animals-596334",
+      "name": "Fayette Friends of Animals",
+      "address": "223 Village of Searights, Uniontown, PA 15401",
+      "phone": "724-245-7815",
+      "image": "https://cdn.findpawpal.com/office/596334.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "noahs-ark-475168",
+      "name": "Noah's Ark",
+      "address": "477 North Gallatin Avenue, Uniontown, PA 15401",
+      "phone": "724-439-8620",
+      "image": "https://cdn.findpawpal.com/office/475168.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mt-lebanon-animal-control-465054",
+      "name": "Mt Lebanon Animal Control",
+      "address": "1820 McLaughlin Run Road, Upper Saint Clair, PA 15241",
+      "phone": "412-831-7250",
+      "image": "https://cdn.findpawpal.com/office/465054.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "warren-county-humane-society-453263",
+      "name": "Warren County Humane Society",
+      "address": "212 Elm Street, Warren, PA 16365",
+      "phone": "814-726-1961",
+      "image": "https://cdn.findpawpal.com/office/453263.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "angel-ridge-animal-rescue-428768",
+      "name": "Angel Ridge Animal Rescue",
+      "address": "390 Old Hickory Ridge Road, Washington, PA 15301",
+      "phone": "724-229-7053",
+      "image": "https://cdn.findpawpal.com/office/428768.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "washington-crossings-animal-control-429282",
+      "name": "Washington Crossings Animal Control",
+      "address": "1098 Washington Crossing Road, Washington Crossing, PA 18977",
+      "phone": "215-321-4673",
+      "image": "https://cdn.findpawpal.com/office/429282.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "francisvale-home-for-smaller-animals-644366",
+      "name": "Francisvale Home for Smaller Animals",
+      "address": "328 Upper Gulph Road, Wayne, PA 19087",
+      "phone": "610-688-1018",
+      "image": "https://cdn.findpawpal.com/office/644366.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "antietam-humane-society-437706",
+      "name": "Antietam Humane Society",
+      "address": "8513 Lyons Road, Waynesboro, PA 17268",
+      "phone": "717-762-9091",
+      "image": "https://cdn.findpawpal.com/office/437706.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-greene-county-452447",
+      "name": "Humane Society of Greene County",
+      "address": "183 Jefferson Road, Waynesburg, PA 15370",
+      "phone": "724-627-9988",
+      "image": "https://cdn.findpawpal.com/office/452447.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wellsville-animal-control-688378",
+      "name": "Wellsville Animal Control",
+      "address": "1240 Alpine Road, Wellsville, PA 17365",
+      "phone": "717-292-7700",
+      "image": "https://cdn.findpawpal.com/office/688378.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wind-ridge-farm-equine-sanctuary-688278",
+      "name": "Wind Ridge Farm Equine Sanctuary",
+      "address": "1981 Ridge Road, Wellsville, PA 17365",
+      "phone": "717-432-2959",
+      "image": "https://cdn.findpawpal.com/office/688278.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chester-county-spca-474375",
+      "name": "Chester County SPCA",
+      "address": "1212 Phoenixville Pike, West Chester, PA 19380",
+      "phone": "610-692-6113",
+      "image": "https://cdn.findpawpal.com/office/474375.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "large-animal-protection-society-inc-452433",
+      "name": "Large Animal Protection Society, Inc.",
+      "address": "PO Box 243, West Grove, PA 19390",
+      "phone": "610-869-9880",
+      "image": "https://cdn.findpawpal.com/office/452433.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "going-home-greyhounds-596475",
+      "name": "Going Home Greyhounds",
+      "address": "PO Box 513, Wexford, PA 15090",
+      "phone": "412-935-6298",
+      "image": "https://cdn.findpawpal.com/office/596475.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "white-oak-animal-control-429264",
+      "name": "White Oak Animal Control",
+      "address": "2295 Lincoln Way, White Oak, PA 15131",
+      "phone": "412-672-8901",
+      "image": "https://cdn.findpawpal.com/office/429264.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "peaceable-kingdom-inc-429094",
+      "name": "Peaceable Kingdom Inc",
+      "address": "1049 Macarthur Road, Whitehall, PA 18052",
+      "phone": "610-432-2532",
+      "image": "https://cdn.findpawpal.com/office/429094.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "luzerne-county-spca-428709",
+      "name": "Luzerne County SPCA",
+      "address": "524 East Main Street, Wilkes-Barre, PA 18702",
+      "phone": "777-825-4111",
+      "image": "https://cdn.findpawpal.com/office/428709.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "valley-cat-rescue-688198",
+      "name": "Valley Cat Rescue",
+      "address": "388 North River Street, Wilkes-Barre, PA 18702",
+      "phone": "570-824-4172",
+      "image": "https://cdn.findpawpal.com/office/688198.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lycoming-animal-protection-society-474990",
+      "name": "Lycoming Animal Protection Society",
+      "address": "3510 West 4th Street, Williamsport, PA 17701",
+      "phone": "570-327-8707",
+      "image": "https://cdn.findpawpal.com/office/474990.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lycoming-county-spca-589261",
+      "name": "Lycoming County Spca",
+      "address": "2805 Reach Road, Williamsport, PA 17701",
+      "phone": "570-322-4646",
+      "image": "https://cdn.findpawpal.com/office/589261.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "meow-house-474695",
+      "name": "Meow House",
+      "address": "314 Deckman Hollow Road, Williamsport, PA 17701",
+      "phone": "570-494-0550",
+      "image": "https://cdn.findpawpal.com/office/474695.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-house-pet-rescue-428697",
+      "name": "Animal House Pet Rescue",
+      "address": "PO Box 43, Willow Street, PA 17584",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/428697.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-animal-house-474429",
+      "name": "The Animal House",
+      "address": "PO Box 43, Willow Street, PA 17584",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/474429.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "companion-animal-relief-effort-589150",
+      "name": "Companion Animal Relief Effort",
+      "address": "9 Radcliff Road, Womelsdorf, PA 19567",
+      "phone": "610-437-2954",
+      "image": "https://cdn.findpawpal.com/office/589150.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lost-and-found-horse-recue-foundation-437741",
+      "name": "Lost and Found Horse Recue Foundation",
+      "address": "852 Valley Road, York, PA 17403",
+      "phone": "717-428-9701",
+      "image": "https://cdn.findpawpal.com/office/437741.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "york-county-animal-control-475179",
+      "name": "York County Animal Control",
+      "address": "50 West King Street, York, PA 17401",
+      "phone": "717-849-2257",
+      "image": "https://cdn.findpawpal.com/office/475179.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "york-county-spca-464667",
+      "name": "York County SPCA",
+      "address": "3159 Susquehanna Trail, York, PA 17406",
+      "phone": "717-764-6109",
+      "image": "https://cdn.findpawpal.com/office/464667.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "youngwood-animal-control-474872",
+      "name": "Youngwood Animal Control",
+      "address": "216 Depot Street, Youngwood, PA 15697",
+      "phone": "724-925-2555",
+      "image": "https://cdn.findpawpal.com/office/474872.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-adoption-league-429152",
+      "name": "Pet Adoption League",
+      "address": "150 Spring Street, Yukon, PA 15698",
+      "phone": "724-722-3670",
+      "image": "https://cdn.findpawpal.com/office/429152.jpg?f=webp&w=730"
+    }
+  ]
+}

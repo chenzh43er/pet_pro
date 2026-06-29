@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:25:17.790645+00:00",
+  "state": {
+    "slug": "wyoming",
+    "name": "Wyoming"
+  },
+  "city": {
+    "slug": "laramie",
+    "name": "Laramie",
+    "label": "Laramie, WY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wyoming/laramie/",
+  "offices": [
+    {
+      "officeId": 532064,
+      "slug": "laramie-animal-shelter-532064",
+      "name": "Laramie Animal Shelter",
+      "address": "1064 North 5th Street, Laramie, WY 82072",
+      "phone": "307-721-5385",
+      "image": "./img/shelter/office/532064.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/laramie-animal-shelter-532064/",
+      "imageUrl": "https://cdn.findpawpal.com/office/532064.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 653574,
+      "slug": "animal-care-center-laramie-653574",
+      "name": "Animal Care Center Laramie",
+      "address": "PO Box 2224, Laramie, WY 82073",
+      "phone": "307-742-0483",
+      "image": "./img/shelter/office/653574.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-care-center-laramie-653574/",
+      "imageUrl": "https://cdn.findpawpal.com/office/653574.jpg?f=webp&w=730"
+    }
+  ]
+}

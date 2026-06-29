@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:02:42.778193+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "argyle",
+    "name": "Argyle",
+    "label": "Argyle, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/argyle/",
+  "offices": [
+    {
+      "officeId": 518760,
+      "slug": "companion-pet-rescue-518760",
+      "name": "Companion Pet Rescue",
+      "address": "110 Winding Creek Way, Argyle, TX 76226",
+      "phone": "214-359-1241",
+      "image": "./img/shelter/office/518760.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/companion-pet-rescue-518760/",
+      "imageUrl": "https://cdn.findpawpal.com/office/518760.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 282572,
+  "slug": "the-haven-282572",
+  "name": "The Haven",
+  "address": "134 Fairlane Drive, West Monroe, LA 71291",
+  "street": "134 Fairlane Drive",
+  "addressCity": "West Monroe",
+  "stateCode": "LA",
+  "zip": "71291",
+  "phone": "318-651-0103",
+  "image": "./img/shelter/office/282572.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/the-haven-282572/",
+  "stateSlug": "louisiana",
+  "stateName": "Louisiana",
+  "citySlug": "west-monroe",
+  "cityName": "West Monroe",
+  "cityLabel": "West Monroe, LA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/louisiana/west-monroe/",
+  "fetchedAt": "2026-06-27T19:01:00.451199+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/282572.jpg?f=webp&w=730"
+}

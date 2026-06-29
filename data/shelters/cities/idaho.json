@@ -1,0 +1,347 @@
+{
+  "fetchedAt": "2026-06-27T17:47:43.921995+00:00",
+  "state": {
+    "slug": "idaho",
+    "name": "Idaho",
+    "offices": 74
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/idaho/",
+  "cities": [
+    {
+      "slug": "blackfoot",
+      "name": "Blackfoot",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/blackfoot/"
+    },
+    {
+      "slug": "blanchard",
+      "name": "Blanchard",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/blanchard/"
+    },
+    {
+      "slug": "boise",
+      "name": "Boise",
+      "offices": 10,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/boise/"
+    },
+    {
+      "slug": "bonners-ferry",
+      "name": "Bonners Ferry",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/bonners-ferry/"
+    },
+    {
+      "slug": "buhl",
+      "name": "Buhl",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/buhl/"
+    },
+    {
+      "slug": "burley",
+      "name": "Burley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/burley/"
+    },
+    {
+      "slug": "caldwell",
+      "name": "Caldwell",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/caldwell/"
+    },
+    {
+      "slug": "careywood",
+      "name": "Careywood",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/careywood/"
+    },
+    {
+      "slug": "challis",
+      "name": "Challis",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/challis/"
+    },
+    {
+      "slug": "chubbuck",
+      "name": "Chubbuck",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/chubbuck/"
+    },
+    {
+      "slug": "cocolalla",
+      "name": "Cocolalla",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/cocolalla/"
+    },
+    {
+      "slug": "coeur-dalene",
+      "name": "Coeur d'Alene",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/coeur-dalene/"
+    },
+    {
+      "slug": "driggs",
+      "name": "Driggs",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/driggs/"
+    },
+    {
+      "slug": "emmett",
+      "name": "Emmett",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/emmett/"
+    },
+    {
+      "slug": "fruitland",
+      "name": "Fruitland",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/fruitland/"
+    },
+    {
+      "slug": "gooding",
+      "name": "Gooding",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/gooding/"
+    },
+    {
+      "slug": "hailey",
+      "name": "Hailey",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/hailey/"
+    },
+    {
+      "slug": "hayden",
+      "name": "Hayden",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/hayden/"
+    },
+    {
+      "slug": "idaho-falls",
+      "name": "Idaho Falls",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/idaho-falls/"
+    },
+    {
+      "slug": "jerome",
+      "name": "Jerome",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/jerome/"
+    },
+    {
+      "slug": "kamiah",
+      "name": "Kamiah",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/kamiah/"
+    },
+    {
+      "slug": "kellogg",
+      "name": "Kellogg",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/kellogg/"
+    },
+    {
+      "slug": "ketchum",
+      "name": "Ketchum",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/ketchum/"
+    },
+    {
+      "slug": "lewiston",
+      "name": "Lewiston",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/lewiston/"
+    },
+    {
+      "slug": "mccall",
+      "name": "McCall",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/mccall/"
+    },
+    {
+      "slug": "meridian",
+      "name": "Meridian",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/meridian/"
+    },
+    {
+      "slug": "middleton",
+      "name": "Middleton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/middleton/"
+    },
+    {
+      "slug": "moscow",
+      "name": "Moscow",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/moscow/"
+    },
+    {
+      "slug": "mountain-home",
+      "name": "Mountain Home",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/mountain-home/"
+    },
+    {
+      "slug": "nampa",
+      "name": "Nampa",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/nampa/"
+    },
+    {
+      "slug": "new-plymouth",
+      "name": "New Plymouth",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/new-plymouth/"
+    },
+    {
+      "slug": "orofino",
+      "name": "Orofino",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/orofino/"
+    },
+    {
+      "slug": "paul",
+      "name": "Paul",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/paul/"
+    },
+    {
+      "slug": "payette",
+      "name": "Payette",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/payette/"
+    },
+    {
+      "slug": "pocatello",
+      "name": "Pocatello",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/pocatello/"
+    },
+    {
+      "slug": "ponderay",
+      "name": "Ponderay",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/ponderay/"
+    },
+    {
+      "slug": "post-falls",
+      "name": "Post Falls",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/post-falls/"
+    },
+    {
+      "slug": "priest-river",
+      "name": "Priest River",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/priest-river/"
+    },
+    {
+      "slug": "princeton",
+      "name": "Princeton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/princeton/"
+    },
+    {
+      "slug": "rathdrum",
+      "name": "Rathdrum",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/rathdrum/"
+    },
+    {
+      "slug": "rexburg",
+      "name": "Rexburg",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/rexburg/"
+    },
+    {
+      "slug": "rupert",
+      "name": "Rupert",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/rupert/"
+    },
+    {
+      "slug": "salmon",
+      "name": "Salmon",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/salmon/"
+    },
+    {
+      "slug": "sandpoint",
+      "name": "Sandpoint",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/sandpoint/"
+    },
+    {
+      "slug": "shelley",
+      "name": "Shelley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/shelley/"
+    },
+    {
+      "slug": "st-maries",
+      "name": "St. Maries",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/st-maries/"
+    },
+    {
+      "slug": "sun-valley",
+      "name": "Sun Valley",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/sun-valley/"
+    },
+    {
+      "slug": "twin-falls",
+      "name": "Twin Falls",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/twin-falls/"
+    }
+  ]
+}

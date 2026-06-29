@@ -1,0 +1,65 @@
+{
+  "fetchedAt": "2026-06-27T19:43:29.560647+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "canton",
+    "name": "Canton",
+    "label": "Canton, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/canton/",
+  "offices": [
+    {
+      "officeId": 444478,
+      "slug": "ohio-pound-pals-444478",
+      "name": "Ohio Pound Pals",
+      "address": "1712 Woodlawn Avenue Northwest, Canton, OH 44708",
+      "phone": "330-418-9744",
+      "image": "./img/shelter/office/444478.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ohio-pound-pals-444478/",
+      "imageUrl": "https://cdn.findpawpal.com/office/444478.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 458236,
+      "slug": "animal-attic-resale-store-458236",
+      "name": "Animal Attic Resale Store",
+      "address": "3124 9th Street Southwest, Canton, OH 44710",
+      "phone": "330-455-2001",
+      "image": "./img/shelter/office/458236.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-attic-resale-store-458236/",
+      "imageUrl": "https://cdn.findpawpal.com/office/458236.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 458240,
+      "slug": "greyhound-gathering-458240",
+      "name": "Greyhound Gathering",
+      "address": "3570 Shepler Church Avenue Southwest, Canton, OH 44706",
+      "phone": "330-484-1720",
+      "image": "./img/shelter/office/458240.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhound-gathering-458240/",
+      "imageUrl": "https://cdn.findpawpal.com/office/458240.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 587712,
+      "slug": "wolfspirits-animal-shelter-inc-587712",
+      "name": "Wolfspirit's Animal Shelter, Inc.",
+      "address": "2506 9th Street Southwest, Canton, OH 44710",
+      "phone": "330-453-2746",
+      "image": "./img/shelter/office/587712.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wolfspirits-animal-shelter-inc-587712/",
+      "imageUrl": "https://cdn.findpawpal.com/office/587712.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 587718,
+      "slug": "stark-county-dog-warden-587718",
+      "name": "Stark County Dog Warden",
+      "address": "1801 Mahoning Road Northeast, Canton, OH 44705",
+      "phone": "330-451-2343",
+      "image": "./img/shelter/office/587718.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/stark-county-dog-warden-587718/",
+      "imageUrl": "https://cdn.findpawpal.com/office/587718.jpg?f=webp&w=730"
+    }
+  ]
+}

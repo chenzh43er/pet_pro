@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:41:25.513530+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "spruce-pine",
+    "name": "Spruce Pine",
+    "label": "Spruce Pine, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/spruce-pine/",
+  "offices": [
+    {
+      "officeId": 232226,
+      "slug": "mitchell-county-animal-rescue-inc-232226",
+      "name": "Mitchell County Animal Rescue , Inc",
+      "address": "2492 U.S. Route 19E, Spruce Pine, NC 28777",
+      "phone": "828-765-6952",
+      "image": "./img/shelter/office/232226.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mitchell-county-animal-rescue-inc-232226/",
+      "imageUrl": "https://cdn.findpawpal.com/office/232226.jpg?f=webp&w=730"
+    }
+  ]
+}

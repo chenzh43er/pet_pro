@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:31:03.220002+00:00",
+  "state": {
+    "slug": "new-mexico",
+    "name": "New Mexico"
+  },
+  "city": {
+    "slug": "ruidoso",
+    "name": "Ruidoso",
+    "label": "Ruidoso, NM"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-mexico/ruidoso/",
+  "offices": [
+    {
+      "officeId": 262321,
+      "slug": "ruidoso-village-animal-control-262321",
+      "name": "Ruidoso Village Animal Control",
+      "address": "1085 Mechem Drive, Ruidoso, NM 88345",
+      "phone": "575-257-7365",
+      "image": "./img/shelter/office/262321.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ruidoso-village-animal-control-262321/",
+      "imageUrl": "https://cdn.findpawpal.com/office/262321.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 262325,
+      "slug": "lincoln-county-humane-society-262325",
+      "name": "Lincoln County Humane Society",
+      "address": "430 Gavilan Canyon Road, Ruidoso, NM 88345",
+      "phone": "505-257-9841",
+      "image": "./img/shelter/office/262325.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lincoln-county-humane-society-262325/",
+      "imageUrl": "https://cdn.findpawpal.com/office/262325.jpg?f=webp&w=730"
+    }
+  ]
+}

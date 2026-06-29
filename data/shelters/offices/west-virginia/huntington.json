@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T20:20:39.782867+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "huntington",
+    "name": "Huntington",
+    "label": "Huntington, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/huntington/",
+  "offices": [
+    {
+      "officeId": 465934,
+      "slug": "huntington-cabell-wayne-animal-control-shelter-465934",
+      "name": "Huntington Cabell Wayne Animal Control Shelter",
+      "address": "1901 James River Road, Huntington, WV 25701",
+      "phone": "304-696-5551",
+      "image": "./img/shelter/office/465934.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/huntington-cabell-wayne-animal-control-shelter-465934/",
+      "imageUrl": "https://cdn.findpawpal.com/office/465934.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 667000,
+      "slug": "huntington-humane-society-667000",
+      "name": "Huntington Humane Society",
+      "address": "PO Box 877, Huntington, WV 25712",
+      "phone": "304-523-8261",
+      "image": "https://cdn.findpawpal.com/office/667000.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/huntington-humane-society-667000/"
+    }
+  ]
+}

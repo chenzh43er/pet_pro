@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:25:28.214296+00:00",
+  "state": {
+    "slug": "wyoming",
+    "name": "Wyoming"
+  },
+  "city": {
+    "slug": "saint-stephens",
+    "name": "Saint Stephens",
+    "label": "Saint Stephens, WY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wyoming/saint-stephens/",
+  "offices": [
+    {
+      "officeId": 532042,
+      "slug": "desert-kennels-532042",
+      "name": "Desert Kennels",
+      "address": "PO Box 336, Saint Stephens, WY 82524",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/532042.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/desert-kennels-532042/"
+    }
+  ]
+}

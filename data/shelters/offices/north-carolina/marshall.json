@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T19:40:20.162953+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "marshall",
+    "name": "Marshall",
+    "label": "Marshall, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/marshall/",
+  "offices": [
+    {
+      "officeId": 213601,
+      "slug": "peaceable-kingdom-sanctuary-213601",
+      "name": "Peaceable Kingdom Sanctuary",
+      "address": "100 Snowbird Road, Marshall, NC 28753",
+      "phone": "828-649-3395",
+      "image": "https://cdn.findpawpal.com/office/213601.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/peaceable-kingdom-sanctuary-213601/"
+    },
+    {
+      "officeId": 215190,
+      "slug": "friends-of-madison-county-animals-215190",
+      "name": "Friends of Madison County Animals",
+      "address": "107 South Main Street, Marshall, NC 28753",
+      "phone": "828-649-9798",
+      "image": "./img/shelter/office/215190.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-madison-county-animals-215190/",
+      "imageUrl": "https://cdn.findpawpal.com/office/215190.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 231252,
+      "slug": "madison-county-animal-shelter-231252",
+      "name": "Madison County Animal Shelter",
+      "address": "389 Long Branch Road, Marshall, NC 28753",
+      "phone": "828-649-3190",
+      "image": "./img/shelter/office/231252.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/madison-county-animal-shelter-231252/",
+      "imageUrl": "https://cdn.findpawpal.com/office/231252.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:48:24.742890+00:00",
+  "state": {
+    "slug": "oklahoma",
+    "name": "Oklahoma"
+  },
+  "city": {
+    "slug": "dewey",
+    "name": "Dewey",
+    "label": "Dewey, OK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oklahoma/dewey/",
+  "offices": [
+    {
+      "officeId": 646933,
+      "slug": "spca-animal-shelter-646933",
+      "name": "SPCA Animal Shelter",
+      "address": "16620 Highway 123, Dewey, OK 74029",
+      "phone": "918-336-1577",
+      "image": "./img/shelter/office/646933.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/spca-animal-shelter-646933/",
+      "imageUrl": "https://cdn.findpawpal.com/office/646933.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 647035,
+      "slug": "washington-county-animal-shelter-647035",
+      "name": "Washington County Animal Shelter",
+      "address": "16620 Oklahoma 123, Dewey, OK 74029",
+      "phone": "918-336-1577",
+      "image": "./img/shelter/office/647035.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/washington-county-animal-shelter-647035/",
+      "imageUrl": "https://cdn.findpawpal.com/office/647035.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:10:43.966853+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "grand-haven",
+    "name": "Grand Haven",
+    "label": "Grand Haven, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/grand-haven/",
+  "offices": [
+    {
+      "officeId": 190210,
+      "slug": "puppy-breath-rescuespecializing-in-pregnant-or-nursing-dogs-190210",
+      "name": "Puppy Breath Rescuespecializing In Pregnant Or Nursing Dogs",
+      "address": "10340 Sleeper Street, Grand Haven, MI 49417",
+      "phone": "616-844-2783",
+      "image": "https://cdn.findpawpal.com/office/190210.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/puppy-breath-rescuespecializing-in-pregnant-or-nursing-dogs-190210/"
+    }
+  ]
+}

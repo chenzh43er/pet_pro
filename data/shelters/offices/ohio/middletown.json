@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:45:36.079414+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "middletown",
+    "name": "Middletown",
+    "label": "Middletown, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/middletown/",
+  "offices": [
+    {
+      "officeId": 431688,
+      "slug": "angel-animal-rescue-431688",
+      "name": "Angel Animal Rescue",
+      "address": "5965 Todhunter Road, Middletown, OH 45044",
+      "phone": "513-539-8133",
+      "image": "./img/shelter/office/431688.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/angel-animal-rescue-431688/",
+      "imageUrl": "https://cdn.findpawpal.com/office/431688.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 640417,
+      "slug": "progressive-animal-welfare-society-640417",
+      "name": "Progressive Animal Welfare Society",
+      "address": "PO Box 684, Middletown, OH 45042",
+      "phone": "513-422-7297",
+      "image": "https://cdn.findpawpal.com/office/640417.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/progressive-animal-welfare-society-640417/"
+    }
+  ]
+}

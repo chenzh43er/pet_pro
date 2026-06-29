@@ -1,0 +1,21 @@
+{
+  "officeId": 610686,
+  "slug": "pet-aid-of-washington-610686",
+  "name": "Pet Aid of Washington",
+  "address": "PO Box 1015, Woodland, WA 98674",
+  "street": "PO Box 1015",
+  "addressCity": "Woodland",
+  "stateCode": "WA",
+  "zip": "98674",
+  "phone": "360-624-8953",
+  "image": "./img/shelter/office/610686.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pet-aid-of-washington-610686/",
+  "stateSlug": "washington",
+  "stateName": "Washington",
+  "citySlug": "woodland",
+  "cityName": "Woodland",
+  "cityLabel": "Woodland, WA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/washington/woodland/",
+  "fetchedAt": "2026-06-27T20:19:38.203279+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/610686.jpg?f=webp&w=730"
+}

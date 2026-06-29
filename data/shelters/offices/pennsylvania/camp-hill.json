@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:52:06.233541+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "camp-hill",
+    "name": "Camp Hill",
+    "label": "Camp Hill, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/camp-hill/",
+  "offices": [
+    {
+      "officeId": 589117,
+      "slug": "personalized-greyhounds-589117",
+      "name": "Personalized Greyhounds",
+      "address": "128 Old Ford Drive, Camp Hill, PA 17011",
+      "phone": "717-761-3317",
+      "image": "./img/shelter/office/589117.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/personalized-greyhounds-589117/",
+      "imageUrl": "https://cdn.findpawpal.com/office/589117.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 644640,
+      "slug": "preservation-of-animal-welfare-and-safety-644640",
+      "name": "Preservation of Animal Welfare & Safety",
+      "address": "PO Box 855, Camp Hill, PA 17001",
+      "phone": "717-957-8122",
+      "image": "./img/shelter/office/644640.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/preservation-of-animal-welfare-and-safety-644640/",
+      "imageUrl": "https://cdn.findpawpal.com/office/644640.jpg?f=webp&w=730"
+    }
+  ]
+}

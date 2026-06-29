@@ -1,0 +1,21 @@
+{
+  "officeId": 653574,
+  "slug": "animal-care-center-laramie-653574",
+  "name": "Animal Care Center Laramie",
+  "address": "PO Box 2224, Laramie, WY 82073",
+  "street": "PO Box 2224",
+  "addressCity": "Laramie",
+  "stateCode": "WY",
+  "zip": "82073",
+  "phone": "307-742-0483",
+  "image": "./img/shelter/office/653574.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/animal-care-center-laramie-653574/",
+  "stateSlug": "wyoming",
+  "stateName": "Wyoming",
+  "citySlug": "laramie",
+  "cityName": "Laramie",
+  "cityLabel": "Laramie, WY",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/wyoming/laramie/",
+  "fetchedAt": "2026-06-27T20:25:17.790645+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/653574.jpg?f=webp&w=730"
+}

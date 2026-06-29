@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T18:40:52.693363+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "monroe",
+    "name": "Monroe",
+    "label": "Monroe, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/monroe/",
+  "offices": [
+    {
+      "officeId": 133970,
+      "slug": "save-our-strays-inc-133970",
+      "name": "Save Our Strays, Inc.",
+      "address": "PO Box 961, Monroe, GA 30655",
+      "phone": "404-729-2671",
+      "image": "./img/shelter/office/133970.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/save-our-strays-inc-133970/",
+      "imageUrl": "https://cdn.findpawpal.com/office/133970.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 133995,
+      "slug": "walton-county-animal-control-133995",
+      "name": "Walton County Animal Control",
+      "address": "1411 South Madison Avenue, Monroe, GA 30655",
+      "phone": "770-267-1322",
+      "image": "./img/shelter/office/133995.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/walton-county-animal-control-133995/",
+      "imageUrl": "https://cdn.findpawpal.com/office/133995.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 143031,
+      "slug": "caanational-143031",
+      "name": "Caanational",
+      "address": "1208 South Broad Street, Monroe, GA 30655",
+      "phone": "770-266-7496",
+      "image": "./img/shelter/office/143031.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/caanational-143031/",
+      "imageUrl": "https://cdn.findpawpal.com/office/143031.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 149438,
+      "slug": "humane-society-of-walton-county-149438",
+      "name": "Humane Society of Walton County",
+      "address": "1429 Monroe Drive, Monroe, GA 30655",
+      "phone": "770-868-5105",
+      "image": "./img/shelter/office/149438.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-walton-county-149438/",
+      "imageUrl": "https://cdn.findpawpal.com/office/149438.jpg?f=webp&w=730"
+    }
+  ]
+}

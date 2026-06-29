@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:46:06.317253+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "north-olmsted",
+    "name": "North Olmsted",
+    "label": "North Olmsted, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/north-olmsted/",
+  "offices": [
+    {
+      "officeId": 581256,
+      "slug": "rowdy-to-the-rescue-581256",
+      "name": "Rowdy to The Rescue",
+      "address": "7120 Josephine Drive, North Olmsted, OH 44070",
+      "phone": "440-225-2132",
+      "image": "./img/shelter/office/581256.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rowdy-to-the-rescue-581256/",
+      "imageUrl": "https://cdn.findpawpal.com/office/581256.jpg?f=webp&w=730"
+    }
+  ]
+}

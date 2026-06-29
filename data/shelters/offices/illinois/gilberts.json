@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:45:38.312187+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "gilberts",
+    "name": "Gilberts",
+    "label": "Gilberts, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/gilberts/",
+  "offices": [
+    {
+      "officeId": 413806,
+      "slug": "hoof-woof-and-meow-animal-rescue-413806",
+      "name": "Hoof Woof & Meow Animal Rescue",
+      "address": "129 East Higgins Road, Gilberts, IL 60136",
+      "phone": "847-836-7387",
+      "image": "./img/shelter/office/413806.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hoof-woof-and-meow-animal-rescue-413806/",
+      "imageUrl": "https://cdn.findpawpal.com/office/413806.jpg?f=webp&w=730"
+    }
+  ]
+}

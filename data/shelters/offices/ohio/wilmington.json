@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T19:47:45.778847+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "wilmington",
+    "name": "Wilmington",
+    "label": "Wilmington, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/wilmington/",
+  "offices": [
+    {
+      "officeId": 430651,
+      "slug": "clinton-county-animal-shelter-430651",
+      "name": "Clinton County Animal Shelter",
+      "address": "1330 Fifth Ave, Wilmington, OH 45177",
+      "phone": "937-382-8388",
+      "image": "https://cdn.findpawpal.com/office/430651.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/clinton-county-animal-shelter-430651/"
+    },
+    {
+      "officeId": 443728,
+      "slug": "clinton-county-humane-society-443728",
+      "name": "Clinton County Humane Society",
+      "address": "1760 Fife Avenue, Wilmington, OH 45177",
+      "phone": "937-383-0703",
+      "image": "./img/shelter/office/443728.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/clinton-county-humane-society-443728/",
+      "imageUrl": "https://cdn.findpawpal.com/office/443728.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 586981,
+      "slug": "wilmington-area-humane-society-inc-586981",
+      "name": "Wilmington Area Humane Society, Inc.",
+      "address": "5361 U.s. 68, Wilmington, OH 45177",
+      "phone": "877-802-1633",
+      "image": "./img/shelter/office/586981.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wilmington-area-humane-society-inc-586981/",
+      "imageUrl": "https://cdn.findpawpal.com/office/586981.jpg?f=webp&w=730"
+    }
+  ]
+}

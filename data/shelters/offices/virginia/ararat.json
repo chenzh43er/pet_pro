@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:12:42.413928+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "ararat",
+    "name": "Ararat",
+    "label": "Ararat, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/ararat/",
+  "offices": [
+    {
+      "officeId": 528925,
+      "slug": "our-critters-528925",
+      "name": "Our Critters",
+      "address": "PO Box 178, Ararat, VA 24053",
+      "phone": "336-648-3781",
+      "image": "./img/shelter/office/528925.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/our-critters-528925/",
+      "imageUrl": "https://cdn.findpawpal.com/office/528925.jpg?f=webp&w=730"
+    }
+  ]
+}

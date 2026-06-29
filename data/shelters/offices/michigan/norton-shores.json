@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:12:00.501112+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "norton-shores",
+    "name": "Norton Shores",
+    "label": "Norton Shores, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/norton-shores/",
+  "offices": [
+    {
+      "officeId": 189969,
+      "slug": "airedale-rescue-new-beginnings-189969",
+      "name": "Airedale Rescue New Beginnings",
+      "address": "6364 Lake Harbor Road, Norton Shores, MI 49441",
+      "phone": "231-798-4846",
+      "image": "./img/shelter/office/189969.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/airedale-rescue-new-beginnings-189969/",
+      "imageUrl": "https://cdn.findpawpal.com/office/189969.jpg?f=webp&w=730"
+    }
+  ]
+}

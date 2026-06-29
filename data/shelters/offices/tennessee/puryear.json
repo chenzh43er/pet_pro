@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:01:42.909100+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "puryear",
+    "name": "Puryear",
+    "label": "Puryear, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/puryear/",
+  "offices": [
+    {
+      "officeId": 580694,
+      "slug": "paris-henry-county-pet-rescue-580694",
+      "name": "Paris Henry County Pet Rescue",
+      "address": "5001 U.s. 641, Puryear, TN 38251",
+      "phone": "731-642-6290",
+      "image": "./img/shelter/office/580694.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/paris-henry-county-pet-rescue-580694/",
+      "imageUrl": "https://cdn.findpawpal.com/office/580694.jpg?f=webp&w=730"
+    }
+  ]
+}

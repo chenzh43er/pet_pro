@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:15:17.701928+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "richfield",
+    "name": "Richfield",
+    "label": "Richfield, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/richfield/",
+  "offices": [
+    {
+      "officeId": 676448,
+      "slug": "minnesota-federated-humane-societies-676448",
+      "name": "Minnesota Federated Humane Societies",
+      "address": "6613 Penn Avenue South, Richfield, MN 55423",
+      "phone": "612-866-8663",
+      "image": "./img/shelter/office/676448.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota-federated-humane-societies-676448/",
+      "imageUrl": "https://cdn.findpawpal.com/office/676448.jpg?f=webp&w=730"
+    }
+  ]
+}

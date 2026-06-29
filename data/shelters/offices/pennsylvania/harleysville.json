@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:53:09.318059+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "harleysville",
+    "name": "Harleysville",
+    "label": "Harleysville, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/harleysville/",
+  "offices": [
+    {
+      "officeId": 595842,
+      "slug": "pawsibilities-animal-rescue-595842",
+      "name": "Pawsibilities Animal Rescue",
+      "address": "2048 Mainland Road, Harleysville, PA 19438",
+      "phone": "484-485-7297",
+      "image": "./img/shelter/office/595842.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pawsibilities-animal-rescue-595842/",
+      "imageUrl": "https://cdn.findpawpal.com/office/595842.jpg?f=webp&w=730"
+    }
+  ]
+}

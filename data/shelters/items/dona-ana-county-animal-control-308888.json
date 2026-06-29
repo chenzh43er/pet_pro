@@ -1,0 +1,21 @@
+{
+  "officeId": 308888,
+  "slug": "dona-ana-county-animal-control-308888",
+  "name": "Dona Ana County Animal Control",
+  "address": "750 North Motel Boulevard, Las Cruces, NM 88007",
+  "street": "750 North Motel Boulevard",
+  "addressCity": "Las Cruces",
+  "stateCode": "NM",
+  "zip": "88007",
+  "phone": "575-647-7715",
+  "image": "./img/shelter/office/308888.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/dona-ana-county-animal-control-308888/",
+  "stateSlug": "new-mexico",
+  "stateName": "New Mexico",
+  "citySlug": "las-cruces",
+  "cityName": "Las Cruces",
+  "cityLabel": "Las Cruces, NM",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-mexico/las-cruces/",
+  "fetchedAt": "2026-06-27T19:30:37.618800+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/308888.jpg?f=webp&w=730"
+}

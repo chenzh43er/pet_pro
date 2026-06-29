@@ -1,0 +1,21 @@
+{
+  "officeId": 6770,
+  "slug": "prichard-animal-shelter-6770",
+  "name": "Prichard Animal Shelter",
+  "address": "2402 North Rebel Road, Prichard, AL 36613",
+  "street": "2402 North Rebel Road",
+  "addressCity": "Prichard",
+  "stateCode": "AL",
+  "zip": "36613",
+  "phone": "251-456-5399",
+  "image": "./img/shelter/office/6770.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/prichard-animal-shelter-6770/",
+  "stateSlug": "alabama",
+  "stateName": "Alabama",
+  "citySlug": "prichard",
+  "cityName": "Prichard",
+  "cityLabel": "Prichard, AL",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/alabama/prichard/",
+  "fetchedAt": "2026-06-27T18:18:29.801607+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/6770.jpg?f=webp&w=730"
+}

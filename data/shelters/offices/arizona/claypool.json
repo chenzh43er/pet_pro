@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:19:53.643466+00:00",
+  "state": {
+    "slug": "arizona",
+    "name": "Arizona"
+  },
+  "city": {
+    "slug": "claypool",
+    "name": "Claypool",
+    "label": "Claypool, AZ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arizona/claypool/",
+  "offices": [
+    {
+      "slug": "gila-humane-society-170702",
+      "name": "Gila Humane Society",
+      "address": "PO Box 383, Claypool, AZ 85532",
+      "phone": "520-473-3447",
+      "image": "./img/shelter/office/170702.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gila-humane-society-170702/",
+      "imageUrl": "https://cdn.findpawpal.com/office/170702.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T19:55:41.012296+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "williamsport",
+    "name": "Williamsport",
+    "label": "Williamsport, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/williamsport/",
+  "offices": [
+    {
+      "officeId": 474695,
+      "slug": "meow-house-474695",
+      "name": "Meow House",
+      "address": "314 Deckman Hollow Road, Williamsport, PA 17701",
+      "phone": "570-494-0550",
+      "image": "https://cdn.findpawpal.com/office/474695.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/meow-house-474695/"
+    },
+    {
+      "officeId": 474990,
+      "slug": "lycoming-animal-protection-society-474990",
+      "name": "Lycoming Animal Protection Society",
+      "address": "3510 West 4th Street, Williamsport, PA 17701",
+      "phone": "570-327-8707",
+      "image": "./img/shelter/office/474990.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lycoming-animal-protection-society-474990/",
+      "imageUrl": "https://cdn.findpawpal.com/office/474990.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 589261,
+      "slug": "lycoming-county-spca-589261",
+      "name": "Lycoming County Spca",
+      "address": "2805 Reach Road, Williamsport, PA 17701",
+      "phone": "570-322-4646",
+      "image": "./img/shelter/office/589261.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lycoming-county-spca-589261/",
+      "imageUrl": "https://cdn.findpawpal.com/office/589261.jpg?f=webp&w=730"
+    }
+  ]
+}

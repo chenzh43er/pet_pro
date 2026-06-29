@@ -1,0 +1,91 @@
+{
+  "fetchedAt": "2026-06-27T19:42:36.955152+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "akron",
+    "name": "Akron",
+    "label": "Akron, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/akron/",
+  "offices": [
+    {
+      "officeId": 444528,
+      "slug": "friends-of-pets-444528",
+      "name": "Friends of Pets",
+      "address": "PO Box 813, Akron, OH 44309",
+      "phone": "330-571-7387",
+      "image": "https://cdn.findpawpal.com/office/444528.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-pets-444528/"
+    },
+    {
+      "officeId": 444532,
+      "slug": "heaven-can-wait-rescue-and-adoptions-444532",
+      "name": "Heaven Can Wait Rescue & Adoptions",
+      "address": "PO Box 4865, Akron, OH 44310",
+      "phone": "330-328-8699",
+      "image": "https://cdn.findpawpal.com/office/444532.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/heaven-can-wait-rescue-and-adoptions-444532/"
+    },
+    {
+      "officeId": 466701,
+      "slug": "paws-and-prayers-466701",
+      "name": "PAWS and Prayers",
+      "address": "PO Box 2864, Akron, OH 44309",
+      "phone": "330-475-8300",
+      "image": "https://cdn.findpawpal.com/office/466701.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/paws-and-prayers-466701/"
+    },
+    {
+      "officeId": 580855,
+      "slug": "one-of-a-kind-pet-rescue-580855",
+      "name": "One of A Kind Pet Rescue",
+      "address": "1929 West Market Street, Akron, OH 44313",
+      "phone": "330-865-6200",
+      "image": "./img/shelter/office/580855.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/one-of-a-kind-pet-rescue-580855/",
+      "imageUrl": "https://cdn.findpawpal.com/office/580855.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 581800,
+      "slug": "akron-city-animal-control-581800",
+      "name": "Akron City Animal Control",
+      "address": "166 South High Street, Akron, OH 44308",
+      "phone": "330-375-2320",
+      "image": "./img/shelter/office/581800.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/akron-city-animal-control-581800/",
+      "imageUrl": "https://cdn.findpawpal.com/office/581800.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 587740,
+      "slug": "summit-county-dog-warden-587740",
+      "name": "Summit County Dog Warden",
+      "address": "250 Opportunity Parkway, Akron, OH 44307",
+      "phone": "330-643-2845",
+      "image": "./img/shelter/office/587740.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/summit-county-dog-warden-587740/",
+      "imageUrl": "https://cdn.findpawpal.com/office/587740.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 587745,
+      "slug": "all-breed-puppy-rescue-587745",
+      "name": "All-Breed Puppy Rescue",
+      "address": "PO Box 6374, Akron, OH 44312",
+      "phone": "330-699-2595",
+      "image": "https://cdn.findpawpal.com/office/587745.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/all-breed-puppy-rescue-587745/"
+    },
+    {
+      "officeId": 640141,
+      "slug": "second-chance-puppy-rescue-640141",
+      "name": "Second Chance Puppy Rescue",
+      "address": "2129 Lake Road, Akron, OH 44312",
+      "phone": "330-354-6291",
+      "image": "./img/shelter/office/640141.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/second-chance-puppy-rescue-640141/",
+      "imageUrl": "https://cdn.findpawpal.com/office/640141.jpg?f=webp&w=730"
+    }
+  ]
+}

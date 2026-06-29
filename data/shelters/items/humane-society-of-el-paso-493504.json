@@ -1,0 +1,21 @@
+{
+  "officeId": 493504,
+  "slug": "humane-society-of-el-paso-493504",
+  "name": "Humane Society of El Paso",
+  "address": "4991 Fred Wilson Avenue, El Paso, TX 79906",
+  "street": "4991 Fred Wilson Avenue",
+  "addressCity": "El Paso",
+  "stateCode": "TX",
+  "zip": "79906",
+  "phone": "915-532-6971",
+  "image": "./img/shelter/office/493504.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-el-paso-493504/",
+  "stateSlug": "texas",
+  "stateName": "Texas",
+  "citySlug": "el-paso",
+  "cityName": "El Paso",
+  "cityLabel": "El Paso, TX",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/texas/el-paso/",
+  "fetchedAt": "2026-06-27T20:04:40.616677+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/493504.jpg?f=webp&w=730"
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:23:16.236461+00:00",
+  "state": {
+    "slug": "nevada",
+    "name": "Nevada"
+  },
+  "city": {
+    "slug": "hawthorne",
+    "name": "Hawthorne",
+    "label": "Hawthorne, NV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nevada/hawthorne/",
+  "offices": [
+    {
+      "officeId": 723270,
+      "slug": "ray-of-hope-humane-society-723270",
+      "name": "Ray of Hope Humane Society",
+      "address": ", Hawthorne, NV 89415",
+      "phone": "775-945-2555",
+      "image": "./img/shelter/office/723270.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ray-of-hope-humane-society-723270/",
+      "imageUrl": "https://cdn.findpawpal.com/office/723270.jpg?f=webp&w=730"
+    }
+  ]
+}

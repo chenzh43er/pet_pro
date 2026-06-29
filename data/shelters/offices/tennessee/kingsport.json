@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:00:35.304028+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "kingsport",
+    "name": "Kingsport",
+    "label": "Kingsport, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/kingsport/",
+  "offices": [
+    {
+      "officeId": 573659,
+      "slug": "journeys-end-no-kill-animal-society-inc-573659",
+      "name": "Journeys End No Kill Animal Society, Inc.",
+      "address": "PO Box 6430, Kingsport, TN 37663",
+      "phone": "423-349-8072",
+      "image": "./img/shelter/office/573659.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/journeys-end-no-kill-animal-society-inc-573659/",
+      "imageUrl": "https://cdn.findpawpal.com/office/573659.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 573690,
+      "slug": "kingsport-animal-shelter-573690",
+      "name": "Kingsport Animal Shelter",
+      "address": "2141 Idle Hour Road, Kingsport, TN 37660",
+      "phone": "423-247-1671",
+      "image": "./img/shelter/office/573690.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kingsport-animal-shelter-573690/",
+      "imageUrl": "https://cdn.findpawpal.com/office/573690.jpg?f=webp&w=730"
+    }
+  ]
+}

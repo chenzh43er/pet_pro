@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:30:31.625692+00:00",
+  "state": {
+    "slug": "new-mexico",
+    "name": "New Mexico"
+  },
+  "city": {
+    "slug": "hobbs",
+    "name": "Hobbs",
+    "label": "Hobbs, NM"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-mexico/hobbs/",
+  "offices": [
+    {
+      "officeId": 278426,
+      "slug": "lea-county-humane-society-278426",
+      "name": "Lea County Humane Society",
+      "address": "PO Box 1192, Hobbs, NM 88241",
+      "phone": "505-392-4638",
+      "image": "./img/shelter/office/278426.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lea-county-humane-society-278426/",
+      "imageUrl": "https://cdn.findpawpal.com/office/278426.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 327449,
+      "slug": "hobbs-animal-control-327449",
+      "name": "Hobbs Animal Control",
+      "address": "300 North Turner Street, Hobbs, NM 88240",
+      "phone": "505-397-9323",
+      "image": "./img/shelter/office/327449.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hobbs-animal-control-327449/",
+      "imageUrl": "https://cdn.findpawpal.com/office/327449.jpg?f=webp&w=730"
+    }
+  ]
+}

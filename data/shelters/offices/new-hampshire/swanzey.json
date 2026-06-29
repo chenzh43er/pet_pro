@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:24:44.689012+00:00",
+  "state": {
+    "slug": "new-hampshire",
+    "name": "New Hampshire"
+  },
+  "city": {
+    "slug": "swanzey",
+    "name": "Swanzey",
+    "label": "Swanzey, NH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-hampshire/swanzey/",
+  "offices": [
+    {
+      "officeId": 43633,
+      "slug": "monadnock-humane-society-43633",
+      "name": "Monadnock Humane Society",
+      "address": "101 West Swanzey Road, Swanzey, NH 03446",
+      "phone": "603-352-9011",
+      "image": "./img/shelter/office/43633.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/monadnock-humane-society-43633/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43633.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 47583,
+      "slug": "swanzey-animal-control-47583",
+      "name": "Swanzey Animal Control",
+      "address": "101 West Swanzey Road, Swanzey, NH 03446",
+      "phone": "603-352-0035",
+      "image": "./img/shelter/office/47583.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/swanzey-animal-control-47583/",
+      "imageUrl": "https://cdn.findpawpal.com/office/47583.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:11:55.982773+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "negaunee",
+    "name": "Negaunee",
+    "label": "Negaunee, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/negaunee/",
+  "offices": [
+    {
+      "officeId": 202947,
+      "slug": "marquette-county-humane-society-202947",
+      "name": "Marquette County Humane Society",
+      "address": "84 Snowfield Road, Negaunee, MI 49866",
+      "phone": "906-475-6661",
+      "image": "./img/shelter/office/202947.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/marquette-county-humane-society-202947/",
+      "imageUrl": "https://cdn.findpawpal.com/office/202947.jpg?f=webp&w=730"
+    }
+  ]
+}

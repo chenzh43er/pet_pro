@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T18:57:09.836499+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "greenville",
+    "name": "Greenville",
+    "label": "Greenville, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/greenville/",
+  "offices": [
+    {
+      "officeId": 120063,
+      "slug": "painted-ridge-horse-aniaml-rescue-120063",
+      "name": "Painted Ridge Horse Aniaml Rescue",
+      "address": "189 Gene Jernigan Lane, Greenville, KY 42345",
+      "phone": "270-377-3181",
+      "image": "https://cdn.findpawpal.com/office/120063.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/painted-ridge-horse-aniaml-rescue-120063/"
+    },
+    {
+      "officeId": 120072,
+      "slug": "muhlenberg-county-humane-society-120072",
+      "name": "Muhlenberg County Humane Society",
+      "address": "PO Box 164, Greenville, KY 42345",
+      "phone": "270-338-6940",
+      "image": "./img/shelter/office/120072.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/muhlenberg-county-humane-society-120072/",
+      "imageUrl": "https://cdn.findpawpal.com/office/120072.jpg?f=webp&w=730"
+    }
+  ]
+}

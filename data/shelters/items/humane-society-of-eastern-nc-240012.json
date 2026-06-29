@@ -1,0 +1,21 @@
+{
+  "officeId": 240012,
+  "slug": "humane-society-of-eastern-nc-240012",
+  "name": "Humane Society of Eastern Nc",
+  "address": "PO Box 9786, Fayetteville, NC 28311",
+  "street": "PO Box 9786",
+  "addressCity": "Fayetteville",
+  "stateCode": "NC",
+  "zip": "28311",
+  "phone": "910-482-0822",
+  "image": "./img/shelter/office/240012.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-eastern-nc-240012/",
+  "stateSlug": "north-carolina",
+  "stateName": "North Carolina",
+  "citySlug": "fayetteville",
+  "cityName": "Fayetteville",
+  "cityLabel": "Fayetteville, NC",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/north-carolina/fayetteville/",
+  "fetchedAt": "2026-06-27T19:39:12.793374+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/240012.jpg?f=webp&w=730"
+}

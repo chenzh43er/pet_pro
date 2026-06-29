@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:34:29.583164+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "levittown",
+    "name": "Levittown",
+    "label": "Levittown, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/levittown/",
+  "offices": [
+    {
+      "officeId": 314217,
+      "slug": "grateful-greyhounds-314217",
+      "name": "Grateful Greyhounds",
+      "address": "20 Penny Lane, Levittown, NY 11756",
+      "phone": "516-735-5070",
+      "image": "./img/shelter/office/314217.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/grateful-greyhounds-314217/",
+      "imageUrl": "https://cdn.findpawpal.com/office/314217.jpg?f=webp&w=730"
+    }
+  ]
+}

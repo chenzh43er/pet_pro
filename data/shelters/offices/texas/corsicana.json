@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:04:12.265152+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "corsicana",
+    "name": "Corsicana",
+    "label": "Corsicana, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/corsicana/",
+  "offices": [
+    {
+      "officeId": 539038,
+      "slug": "corsicana-animal-shelter-539038",
+      "name": "Corsicana Animal Shelter",
+      "address": "617 South 12th Street, Corsicana, TX 75110",
+      "phone": "903-654-4928",
+      "image": "./img/shelter/office/539038.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/corsicana-animal-shelter-539038/",
+      "imageUrl": "https://cdn.findpawpal.com/office/539038.jpg?f=webp&w=730"
+    }
+  ]
+}

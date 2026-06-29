@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-06-27T18:17:37.811953+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "gordo",
+    "name": "Gordo",
+    "label": "Gordo, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/gordo/",
+  "offices": [
+    {
+      "slug": "red-gate-farm-rescue-inc-6112",
+      "name": "Red Gate Farm Rescue, Inc",
+      "address": "17981 Crawford Road, Gordo, AL 35466",
+      "phone": "205-333-1365",
+      "image": "https://cdn.findpawpal.com/office/6112.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/red-gate-farm-rescue-inc-6112/"
+    }
+  ]
+}

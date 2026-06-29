@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:37:52.162924+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "wilton",
+    "name": "Wilton",
+    "label": "Wilton, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/wilton/",
+  "offices": [
+    {
+      "officeId": 168824,
+      "slug": "wilton-animal-control-168824",
+      "name": "Wilton Animal Control",
+      "address": "238 Danbury Road, Wilton, CT 06897",
+      "phone": "203-563-0150",
+      "image": "./img/shelter/office/168824.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wilton-animal-control-168824/",
+      "imageUrl": "https://cdn.findpawpal.com/office/168824.jpg?f=webp&w=730"
+    }
+  ]
+}

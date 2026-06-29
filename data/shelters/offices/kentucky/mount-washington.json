@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:57:56.844182+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "mount-washington",
+    "name": "Mount Washington",
+    "label": "Mount Washington, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/mount-washington/",
+  "offices": [
+    {
+      "officeId": 110208,
+      "slug": "hope-for-pets-110208",
+      "name": "Hope For Pets",
+      "address": "218 Red Cardinal Drive, Mount Washington, KY 40047",
+      "phone": "502-955-3586",
+      "image": "./img/shelter/office/110208.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hope-for-pets-110208/",
+      "imageUrl": "https://cdn.findpawpal.com/office/110208.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 115831,
+      "slug": "mt-washington-animal-control-115831",
+      "name": "MT Washington Animal Control",
+      "address": "275 Snapp Street, Mount Washington, KY 40047",
+      "phone": "502-538-4216",
+      "image": "./img/shelter/office/115831.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mt-washington-animal-control-115831/",
+      "imageUrl": "https://cdn.findpawpal.com/office/115831.jpg?f=webp&w=730"
+    }
+  ]
+}

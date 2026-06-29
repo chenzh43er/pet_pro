@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:10:39.589701+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "gladstone",
+    "name": "Gladstone",
+    "label": "Gladstone, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/gladstone/",
+  "offices": [
+    {
+      "officeId": 234706,
+      "slug": "delta-county-animal-shelter-234706",
+      "name": "Delta County Animal Shelter",
+      "address": "6975 County Road 426, Gladstone, MI 49837",
+      "phone": "906-789-0230",
+      "image": "./img/shelter/office/234706.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/delta-county-animal-shelter-234706/",
+      "imageUrl": "https://cdn.findpawpal.com/office/234706.jpg?f=webp&w=730"
+    }
+  ]
+}

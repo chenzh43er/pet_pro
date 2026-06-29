@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:36:07.740757+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "plattsburgh",
+    "name": "Plattsburgh",
+    "label": "Plattsburgh, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/plattsburgh/",
+  "offices": [
+    {
+      "officeId": 314678,
+      "slug": "adirondack-humane-society-inc-314678",
+      "name": "Adirondack Humane Society Inc",
+      "address": "134 Idaho Avenue, Plattsburgh, NY 12903",
+      "phone": "518-561-7876",
+      "image": "./img/shelter/office/314678.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/adirondack-humane-society-inc-314678/",
+      "imageUrl": "https://cdn.findpawpal.com/office/314678.jpg?f=webp&w=730"
+    }
+  ]
+}

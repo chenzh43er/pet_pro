@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T20:13:36.640131+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "dillwyn",
+    "name": "Dillwyn",
+    "label": "Dillwyn, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/dillwyn/",
+  "offices": [
+    {
+      "officeId": 511064,
+      "slug": "beath-animal-shelter-511064",
+      "name": "Beath Animal Shelter",
+      "address": "PO Box 628, Dillwyn, VA 23936",
+      "phone": "434-983-7387",
+      "image": "https://cdn.findpawpal.com/office/511064.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/beath-animal-shelter-511064/"
+    },
+    {
+      "officeId": 574586,
+      "slug": "healing-hands-sanctuary-574586",
+      "name": "Healing Hands Sanctuary",
+      "address": "PO Box 3840, Dillwyn, VA 23936",
+      "phone": "434-983-7766",
+      "image": "https://cdn.findpawpal.com/office/574586.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/healing-hands-sanctuary-574586/"
+    }
+  ]
+}

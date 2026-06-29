@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:20:14.373799+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "delray",
+    "name": "Delray",
+    "label": "Delray, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/delray/",
+  "offices": [
+    {
+      "officeId": 622533,
+      "slug": "almost-heaven-golden-retriever-rescue-sanctuary-622533",
+      "name": "Almost Heaven Golden Retriever Rescue Sanctuary",
+      "address": "704 Old Mill Rd, Delray, WV 26714",
+      "phone": "304-822-4123",
+      "image": "./img/shelter/office/622533.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/almost-heaven-golden-retriever-rescue-sanctuary-622533/",
+      "imageUrl": "https://cdn.findpawpal.com/office/622533.jpg?f=webp&w=730"
+    }
+  ]
+}

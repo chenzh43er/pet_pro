@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:42:35.419143+00:00",
+  "state": {
+    "slug": "north-dakota",
+    "name": "North Dakota"
+  },
+  "city": {
+    "slug": "williston",
+    "name": "Williston",
+    "label": "Williston, ND"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-dakota/williston/",
+  "offices": [
+    {
+      "officeId": 431471,
+      "slug": "mondak-humane-society-431471",
+      "name": "Mondak Humane Society",
+      "address": "PO Box 1572, Williston, ND 58802",
+      "phone": "701-577-7387",
+      "image": "./img/shelter/office/431471.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mondak-humane-society-431471/",
+      "imageUrl": "https://cdn.findpawpal.com/office/431471.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 431877,
+      "slug": "williston-animal-control-431877",
+      "name": "Williston Animal Control",
+      "address": "5547 U.s. 85, Williston, ND 58801",
+      "phone": "701-572-9100",
+      "image": "./img/shelter/office/431877.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/williston-animal-control-431877/",
+      "imageUrl": "https://cdn.findpawpal.com/office/431877.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:31:24.248179+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "albion",
+    "name": "Albion",
+    "label": "Albion, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/albion/",
+  "offices": [
+    {
+      "officeId": 315603,
+      "slug": "people-for-animal-welfare-society-315603",
+      "name": "People for Animal Welfare Society",
+      "address": "PO Box 244, Albion, NY 14411",
+      "phone": "716-589-6397",
+      "image": "./img/shelter/office/315603.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/people-for-animal-welfare-society-315603/",
+      "imageUrl": "https://cdn.findpawpal.com/office/315603.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 415548,
+      "slug": "orleans-county-animal-shelter-415548",
+      "name": "Orleans County Animal Shelter",
+      "address": "4125 Oak Orchard Road, Albion, NY 14411",
+      "phone": "585-260-7665",
+      "image": "./img/shelter/office/415548.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/orleans-county-animal-shelter-415548/",
+      "imageUrl": "https://cdn.findpawpal.com/office/415548.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 441457,
+      "slug": "albion-animal-control-441457",
+      "name": "Albion Animal Control",
+      "address": "13925 Highway 31, Albion, NY 14411",
+      "phone": "585-589-5527",
+      "image": "./img/shelter/office/441457.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/albion-animal-control-441457/",
+      "imageUrl": "https://cdn.findpawpal.com/office/441457.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:55:08.025644+00:00",
+  "state": {
+    "slug": "kansas",
+    "name": "Kansas"
+  },
+  "city": {
+    "slug": "kansas",
+    "name": "Kansas",
+    "label": "Kansas, KS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kansas/kansas/",
+  "offices": [
+    {
+      "officeId": 5470,
+      "slug": "pets-without-partners-5470",
+      "name": "Pets Without Partners",
+      "address": "9700 Leavenworth Road, Kansas, KS 66109",
+      "phone": "913-299-9797",
+      "image": "./img/shelter/office/5470.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pets-without-partners-5470/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5470.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 5504,
+      "slug": "kansas-animal-control-5504",
+      "name": "Kansas Animal Control",
+      "address": "3301 Park Drive, Kansas, KS 66102",
+      "phone": "913-321-1445",
+      "image": "./img/shelter/office/5504.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas-animal-control-5504/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5504.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 5507,
+      "slug": "the-humane-society-of-greater-kansas-city-5507",
+      "name": "The Humane Society of Greater Kansas City",
+      "address": "5445 Parallel Parkway, Kansas, KS 66104",
+      "phone": "913-596-1000",
+      "image": "./img/shelter/office/5507.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-humane-society-of-greater-kansas-city-5507/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5507.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "fetchedAt": "2026-06-27T18:30:35.260132+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "santa-clarita",
+    "name": "Santa Clarita",
+    "label": "Santa Clarita, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/santa-clarita/",
+  "offices": [
+    {
+      "slug": "ourfriends4ever-com-inc-383308",
+      "name": "Ourfriends4ever.Com, Inc.",
+      "address": "23935 Fambrough Street, Santa Clarita, CA 91321",
+      "phone": "877-300-8416",
+      "image": "./img/shelter/office/383308.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ourfriends4ever-com-inc-383308/",
+      "imageUrl": "https://cdn.findpawpal.com/office/383308.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "citizens-for-sheltered-animals-383543",
+      "name": "Citizens For Sheltered Animals",
+      "address": "21150 Alaminos Drive, Santa Clarita, CA 91350",
+      "phone": "661-513-9288",
+      "image": "./img/shelter/office/383543.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/citizens-for-sheltered-animals-383543/",
+      "imageUrl": "https://cdn.findpawpal.com/office/383543.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "house-rabbit-society-los-angeles-chapter-478335",
+      "name": "House Rabbit Society - Los Angeles Chapter",
+      "address": "28005 Smyth Drive, Santa Clarita, CA 91355",
+      "phone": "310-447-0593",
+      "image": "./img/shelter/office/478335.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/house-rabbit-society-los-angeles-chapter-478335/",
+      "imageUrl": "https://cdn.findpawpal.com/office/478335.jpg?f=webp&w=730"
+    }
+  ]
+}

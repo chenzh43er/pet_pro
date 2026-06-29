@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T18:48:31.930521+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "urbana",
+    "name": "Urbana",
+    "label": "Urbana, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/urbana/",
+  "offices": [
+    {
+      "officeId": 514597,
+      "slug": "champaign-county-humane-society-514597",
+      "name": "Champaign County Humane Society",
+      "address": "1911 East Main Street, Urbana, IL 61802",
+      "phone": "217-344-7297",
+      "image": "https://cdn.findpawpal.com/office/514597.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/champaign-county-humane-society-514597/"
+    },
+    {
+      "officeId": 674768,
+      "slug": "central-illinois-german-shepherd-dog-rescue-674768",
+      "name": "Central Illinois German Shepherd Dog Rescue",
+      "address": "PO Box 17464, Urbana, IL 61803",
+      "phone": "",
+      "image": "./img/shelter/office/674768.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/central-illinois-german-shepherd-dog-rescue-674768/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674768.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T19:24:22.075160+00:00",
+  "state": {
+    "slug": "new-hampshire",
+    "name": "New Hampshire"
+  },
+  "city": {
+    "slug": "manchester",
+    "name": "Manchester",
+    "label": "Manchester, NH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-hampshire/manchester/",
+  "offices": [
+    {
+      "officeId": 43817,
+      "slug": "manchester-animal-shelter-43817",
+      "name": "Manchester Animal Shelter",
+      "address": "490 Dunbarton Road, Manchester, NH 03102",
+      "phone": "603-628-3544",
+      "image": "./img/shelter/office/43817.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/manchester-animal-shelter-43817/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43817.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 43934,
+      "slug": "manchester-animal-shelter-43934",
+      "name": "Manchester Animal Shelter",
+      "address": "365 Dunbarton Road, Manchester, NH 03102",
+      "phone": "603-628-3544",
+      "image": "./img/shelter/office/43934.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/manchester-animal-shelter-43934/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43934.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 44043,
+      "slug": "manchester-animal-control-44043",
+      "name": "Manchester Animal Control",
+      "address": "490 Dunbarton Road, Manchester, NH 03102",
+      "phone": "603-628-6130",
+      "image": "./img/shelter/office/44043.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/manchester-animal-control-44043/",
+      "imageUrl": "https://cdn.findpawpal.com/office/44043.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 47176,
+      "slug": "animal-allies-47176",
+      "name": "Animal Allies",
+      "address": "PO Box 693, Manchester, NH 03105",
+      "phone": "603-228-6755",
+      "image": "./img/shelter/office/47176.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-allies-47176/",
+      "imageUrl": "https://cdn.findpawpal.com/office/47176.jpg?f=webp&w=730"
+    }
+  ]
+}

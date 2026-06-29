@@ -1,0 +1,21 @@
+{
+  "officeId": 487176,
+  "slug": "santa-monica-animal-shelter-487176",
+  "name": "Santa Monica Animal Shelter",
+  "address": "1640 9th Street, Santa Monica, CA 90404",
+  "street": "1640 9th Street",
+  "addressCity": "Santa Monica",
+  "stateCode": "CA",
+  "zip": "90404",
+  "phone": "310-458-8594",
+  "image": "./img/shelter/office/487176.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/santa-monica-animal-shelter-487176/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "santa-monica",
+  "cityName": "Santa Monica",
+  "cityLabel": "Santa Monica, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/santa-monica/",
+  "fetchedAt": "2026-06-27T18:30:39.809248+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/487176.jpg?f=webp&w=730"
+}

@@ -1,0 +1,1021 @@
+{
+  "stateSlug": "louisiana",
+  "count": 145,
+  "shelters": [
+    {
+      "slug": "abbeville-animal-control-282899",
+      "name": "Abbeville Animal Control",
+      "address": "5937 Veterans Memorial Drive, Abbeville, LA 70510",
+      "phone": "337-366-0212",
+      "image": "https://cdn.findpawpal.com/office/282899.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "vermillion-parish-animal-shelter-239758",
+      "name": "Vermillion Parish Animal Shelter",
+      "address": "2211 Leonie Street, Abbeville, LA 70510",
+      "phone": "318-898-4332",
+      "image": "https://cdn.findpawpal.com/office/239758.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "st-francis-animal-sanctuary-239439",
+      "name": "St. Francis Animal Sanctuary",
+      "address": "PO Box 677, Abita Springs, LA 70420",
+      "phone": "985-892-2058",
+      "image": "https://cdn.findpawpal.com/office/239439.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "st-tammany-parish-animal-shelter-239444",
+      "name": "St. Tammany Parish Animal Shelter",
+      "address": "25026 Highway 36, Abita Springs, LA 70420",
+      "phone": "985-809-0183",
+      "image": "https://cdn.findpawpal.com/office/239444.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "alexandria-animal-shelter-257660",
+      "name": "Alexandria Animal Shelter",
+      "address": "200 Animal Shelter Road, Alexandria, LA 71301",
+      "phone": "318-473-1229",
+      "image": "https://cdn.findpawpal.com/office/257660.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cenla-alliance-for-animals-223668",
+      "name": "Cenla Alliance for Animals",
+      "address": "PO Box 8641, Alexandria, LA 71306",
+      "phone": "318-443-0010",
+      "image": "https://cdn.findpawpal.com/office/223668.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "nola-chinchilla-rescue-226167",
+      "name": "Nola Chinchilla Rescue",
+      "address": "520 Phyllis Drive, Avondale, LA 70094",
+      "phone": "504-912-9143",
+      "image": "https://cdn.findpawpal.com/office/226167.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "james-l-bo-bryant-animal-shelter-and-west-feliciana-animal-humane-society-wfahs-239666",
+      "name": "James L. \"Bo\" Bryant Animal Shelter and West Feliciana Animal Humane Society (WFAHS)",
+      "address": "9946 West Feliciana Parkway, Bains, LA 70775",
+      "phone": "225-635-5801",
+      "image": "https://cdn.findpawpal.com/office/239666.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bastrop-animal-shelter-288896",
+      "name": "Bastrop Animal Shelter",
+      "address": "6878 Mer Rouge Road, Bastrop, LA 71220",
+      "phone": "318-283-0288",
+      "image": "https://cdn.findpawpal.com/office/288896.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "morehouse-humane-society-281713",
+      "name": "Morehouse Humane Society",
+      "address": "PO Box 87, Bastrop, LA 71221",
+      "phone": "318-324-9784",
+      "image": "https://cdn.findpawpal.com/office/281713.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "american-pit-bull-terrier-rescue-243456",
+      "name": "American Pit Bull Terrier Rescue",
+      "address": "PO Box 87232, Baton Rouge, LA 70879",
+      "phone": "225-751-3752",
+      "image": "https://cdn.findpawpal.com/office/243456.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-protection-and-welfare-society-223901",
+      "name": "Animal Protection and Welfare Society",
+      "address": "PO Box 40981, Baton Rouge, LA 70835",
+      "phone": "225-343-0303",
+      "image": "https://cdn.findpawpal.com/office/223901.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "capital-area-animal-welfare-226611",
+      "name": "Capital Area Animal Welfare",
+      "address": "6357 Quinn Drive, Baton Rouge, LA 70817",
+      "phone": "225-752-5801",
+      "image": "https://cdn.findpawpal.com/office/226611.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cathaven-223910",
+      "name": "Cathaven",
+      "address": "PO Box 86231, Baton Rouge, LA 70879",
+      "phone": "225-346-4238",
+      "image": "https://cdn.findpawpal.com/office/223910.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fallen-from-grace-dog-rescue-282148",
+      "name": "Fallen From Grace Dog Rescue",
+      "address": "4008 Hyacinth Avenue, Baton Rouge, LA 70808",
+      "phone": "225-336-8044",
+      "image": "https://cdn.findpawpal.com/office/282148.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "parish-of-east-baton-rouge-animal-control-center-223892",
+      "name": "Parish of East Baton Rouge: Animal Control Center",
+      "address": "2680 Progress Road, Baton Rouge, LA 70807",
+      "phone": "225-774-7700",
+      "image": "https://cdn.findpawpal.com/office/223892.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "woogie-wescue-288049",
+      "name": "Woogie Wescue",
+      "address": "7271 Airline Highway, Baton Rouge, LA 70805",
+      "phone": "225-663-9466",
+      "image": "https://cdn.findpawpal.com/office/288049.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-243213",
+      "name": "Paws",
+      "address": "455 F Edward Hebert Boulevard, Belle Chasse, LA 70037",
+      "phone": "504-392-1601",
+      "image": "https://cdn.findpawpal.com/office/243213.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bossier-parish-animal-control-258554",
+      "name": "Bossier Parish Animal Control",
+      "address": "410 Mayfield Street, Benton, LA 71006",
+      "phone": "318-965-9557",
+      "image": "https://cdn.findpawpal.com/office/258554.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bogalusa-animal-shelter-226586",
+      "name": "Bogalusa Animal Shelter",
+      "address": "214 Arkansas Avenue, Bogalusa, LA 70427",
+      "phone": "504-735-8506",
+      "image": "https://cdn.findpawpal.com/office/226586.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "washington-humane-society-243447",
+      "name": "Washington Humane Society",
+      "address": "5703 Highway 439, Bogalusa, LA 70427",
+      "phone": "985-732-2463",
+      "image": "https://cdn.findpawpal.com/office/243447.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bossier-city-animal-control-225446",
+      "name": "Bossier City Animal Control",
+      "address": "3217 Old Shed Road, Bossier, LA 71111",
+      "phone": "318-741-8499",
+      "image": "https://cdn.findpawpal.com/office/225446.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "raptor-rescue-iguana-sanctuary-225441",
+      "name": "Raptor Rescue Iguana Sanctuary",
+      "address": "4608 Voss Drive, Bossier, LA 71111",
+      "phone": "318-573-5271",
+      "image": "https://cdn.findpawpal.com/office/225441.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "breaux-bridge-animal-control-282947",
+      "name": "Breaux Bridge Animal Control",
+      "address": "1011 Rue Bois De Chene Road, Breaux Bridge, LA 70517",
+      "phone": "337-332-4756",
+      "image": "https://cdn.findpawpal.com/office/282947.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "st-martin-humane-society-223717",
+      "name": "St. Martin Humane Society",
+      "address": "PO Box 64, Breaux Bridge, LA 70517",
+      "phone": "318-845-4392",
+      "image": "https://cdn.findpawpal.com/office/223717.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sundown-in-the-south-275874",
+      "name": "Sundown In the South",
+      "address": "1037 Landry Road, Breaux Bridge, LA 70517",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/275874.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "collie-rescue-of-louisiana-223768",
+      "name": "Collie Rescue of Louisiana",
+      "address": "102 Affirmed Court, Bush, LA 70431",
+      "phone": "985-875-0071",
+      "image": "https://cdn.findpawpal.com/office/223768.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lafayette-animal-aid-243057",
+      "name": "Lafayette Animal Aid",
+      "address": "142 Le Medicin Road, Carencro, LA 70520",
+      "phone": "337-896-1553",
+      "image": "https://cdn.findpawpal.com/office/243057.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "louisiana-animal-adoption-society-242718",
+      "name": "Louisiana Animal Adoption Society",
+      "address": "3805 Mumphrey Road, Chalmette, LA 70043",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/242718.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "church-point-animal-shelter-224053",
+      "name": "Church Point Animal Shelter",
+      "address": "102 Church Boulevard, Church Point, LA 70525",
+      "phone": "318-684-5754",
+      "image": "https://cdn.findpawpal.com/office/224053.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cottonport-animal-control-224409",
+      "name": "Cottonport Animal Control",
+      "address": "1170 Prison Road, Cottonport, LA 71327",
+      "phone": "318-876-2068",
+      "image": "https://cdn.findpawpal.com/office/224409.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "red-river-humane-society-242981",
+      "name": "Red River Humane Society",
+      "address": "905 Maple Street, Coushatta, LA 71019",
+      "phone": "318-339-9643",
+      "image": "https://cdn.findpawpal.com/office/242981.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greyhound-pets-of-america-225926",
+      "name": "Greyhound Pets of America",
+      "address": "106 Pine Oak Drive, Covington, LA 70433",
+      "phone": "504-893-0966",
+      "image": "https://cdn.findpawpal.com/office/225926.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "st-tammany-humane-society-287897",
+      "name": "St. Tammany Humane Society",
+      "address": "20384 Harrison Avenue, Covington, LA 70433",
+      "phone": "985-892-7387",
+      "image": "https://cdn.findpawpal.com/office/287897.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "crowley-animal-shelter-224063",
+      "name": "Crowley Animal Shelter",
+      "address": "426 North Avenue F, Crowley, LA 70526",
+      "phone": "318-788-4101",
+      "image": "https://cdn.findpawpal.com/office/224063.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "denham-springs-animal-control-244023",
+      "name": "Denham Springs Animal Control",
+      "address": "600 Bowman Street, Denham Springs, LA 70726",
+      "phone": "225-664-4472",
+      "image": "https://cdn.findpawpal.com/office/244023.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "small-animal-rescue-257110",
+      "name": "Small Animal Rescue",
+      "address": "7701 Impson Street, Denham Springs, LA 70706",
+      "phone": "225-664-9974",
+      "image": "https://cdn.findpawpal.com/office/257110.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "deridder-animal-control-243147",
+      "name": "Deridder Animal Control",
+      "address": "716 Carver Street, DeRidder, LA 70634",
+      "phone": "337-462-8987",
+      "image": "https://cdn.findpawpal.com/office/243147.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-west-louisiana-277107",
+      "name": "Humane Society of West Louisiana",
+      "address": "19301 Lake Charles Highway, DeRidder, LA 70634",
+      "phone": "337-462-3321",
+      "image": "https://cdn.findpawpal.com/office/277107.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "st-charles-humane-society-281846",
+      "name": "St. Charles Humane Society",
+      "address": "PO Box 240, Destrehan, LA 70047",
+      "phone": "985-785-9136",
+      "image": "https://cdn.findpawpal.com/office/281846.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "for-ever-home-bloodhound-sanctuary-223965",
+      "name": "For-Ever Home Bloodhound Sanctuary",
+      "address": "201 Gillespie Drive, Doyline, LA 71023",
+      "phone": "318-987-2691",
+      "image": "https://cdn.findpawpal.com/office/223965.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "egan-animal-control-224429",
+      "name": "Egan Animal Control",
+      "address": "6129 EGAN Hwy, Egan, LA 70531",
+      "phone": "337-783-0182",
+      "image": "https://cdn.findpawpal.com/office/224429.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-orleans-animal-control-240122",
+      "name": "New Orleans Animal Control",
+      "address": "271 Plauche Street, Elmwood, LA 70123",
+      "phone": "504-571-1900",
+      "image": "https://cdn.findpawpal.com/office/240122.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ferriday-animal-control-240184",
+      "name": "Ferriday Animal Control",
+      "address": "1212 South 1st Street, Ferriday, LA 71334",
+      "phone": "318-757-2297",
+      "image": "https://cdn.findpawpal.com/office/240184.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "folsom-animal-control-288872",
+      "name": "Folsom Animal Control",
+      "address": "76217 Louisiana 1077, Folsom, LA 70437",
+      "phone": "888-712-2542",
+      "image": "https://cdn.findpawpal.com/office/288872.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hancock-county-humane-society-239522",
+      "name": "Hancock County Humane Society",
+      "address": "121 Bienville Road, Folsom, LA 70437",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/239522.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "st-mary-parish-animal-control-282883",
+      "name": "St Mary Parish Animal Control",
+      "address": "10905 Louisiana 182, Franklin, LA 70538",
+      "phone": "337-828-4646",
+      "image": "https://cdn.findpawpal.com/office/282883.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "franklinton-animal-shelter-277029",
+      "name": "Franklinton Animal Shelter",
+      "address": "1637 Desmare Street, Franklinton, LA 70438",
+      "phone": "985-839-5458",
+      "image": "https://cdn.findpawpal.com/office/277029.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "loving-care-wildlife-rehab-239734",
+      "name": "Loving Care Wildlife Rehab",
+      "address": "167 Everett Lane, Gloster, LA 71030",
+      "phone": "318-933-1166",
+      "image": "https://cdn.findpawpal.com/office/239734.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "de-soto-parish-animal-control-227171",
+      "name": "De Soto Parish Animal Control",
+      "address": "404 Liberty Ln, Grand Cane, LA 71032",
+      "phone": "318-871-2900",
+      "image": "https://cdn.findpawpal.com/office/227171.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-houma-225982",
+      "name": "Humane Society of Houma",
+      "address": "PO Box 1810, Gray, LA 70359",
+      "phone": "985-873-1094",
+      "image": "https://cdn.findpawpal.com/office/225982.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "project-angel-wings-226175",
+      "name": "Project Angel Wings",
+      "address": "500 Amelia Street, Gretna, LA 70053",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/226175.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hammond-animal-shelter-226336",
+      "name": "Hammond Animal Shelter",
+      "address": "15487 West Club Deluxe Road, Hammond, LA 70403",
+      "phone": "985-543-0215",
+      "image": "https://cdn.findpawpal.com/office/226336.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tangi-humane-society-288443",
+      "name": "Tangi Humane Society",
+      "address": "46219 River Road, Hammond, LA 70401",
+      "phone": "985-419-9900",
+      "image": "https://cdn.findpawpal.com/office/288443.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-pet-for-us-276577",
+      "name": "The Pet for Us",
+      "address": "41489 W I 55 Service Rd Trlr 19, Hammond, LA 70403",
+      "phone": "985-662-4359",
+      "image": "https://cdn.findpawpal.com/office/276577.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "looziana-basset-rescue-inc-276268",
+      "name": "Looziana Basset Rescue, Inc.",
+      "address": "PO Box 1315, Harvey, LA 70059",
+      "phone": "504-884-7488",
+      "image": "https://cdn.findpawpal.com/office/276268.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "town-of-homer-animal-control-288342",
+      "name": "Town of Homer Animal Control",
+      "address": "420 West Main Street, Homer, LA 71040",
+      "phone": "318-927-5383",
+      "image": "https://cdn.findpawpal.com/office/288342.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-shelter-242906",
+      "name": "Animal Shelter",
+      "address": "131 Plant Road, Houma, LA 70363",
+      "phone": "985-873-6709",
+      "image": "https://cdn.findpawpal.com/office/242906.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pen-pals-inc-animal-shelter-and-adoption-center-256896",
+      "name": "Pen Pals Inc. Animal Shelter and Adoption Center",
+      "address": "5568 Highway 68, Jackson, LA 70748",
+      "phone": "225-634-6051",
+      "image": "https://cdn.findpawpal.com/office/256896.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jena-animal-shelter-281628",
+      "name": "Jena Animal Shelter",
+      "address": "PO Box 26, Jena, LA 71342",
+      "phone": "318-992-2146",
+      "image": "https://cdn.findpawpal.com/office/281628.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jennings-animal-shelter-226143",
+      "name": "Jennings Animal Shelter",
+      "address": "PO Box 1249, Jennings, LA 70546",
+      "phone": "318-824-5518",
+      "image": "https://cdn.findpawpal.com/office/226143.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-havens-league-288189",
+      "name": "Animal Havens League",
+      "address": "2201 Colorado Avenue, Kenner, LA 70062",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/288189.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tangi-adopt-a-rescue-226928",
+      "name": "Tangi Adopt A Rescue",
+      "address": "1085 Jaeger Road, Kentwood, LA 70444",
+      "phone": "985-229-4398",
+      "image": "https://cdn.findpawpal.com/office/226928.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-foundation-inc-256978",
+      "name": "Animal Rescue Foundation, Inc.",
+      "address": "PO Box 53501, Lafayette, LA 70505",
+      "phone": "337-291-2734",
+      "image": "https://cdn.findpawpal.com/office/256978.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lafayette-animal-control-center-242150",
+      "name": "Lafayette Animal Control Center",
+      "address": "613 West Pont Des Mouton Road, Lafayette, LA 70507",
+      "phone": "337-291-5645",
+      "image": "https://cdn.findpawpal.com/office/242150.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lake-arthur-animal-shelter-243027",
+      "name": "Lake Arthur Animal Shelter",
+      "address": "PO Box AK, Lake Arthur, LA 70549",
+      "phone": "318-774-2211",
+      "image": "https://cdn.findpawpal.com/office/243027.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bels-no-kill-animal-shelter-256821",
+      "name": "Bel's No Kill Animal Shelter",
+      "address": "630 East School Street, Lake Charles, LA 70607",
+      "phone": "337-480-0069",
+      "image": "https://cdn.findpawpal.com/office/256821.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "calcasieu-parish-animal-control-and-protection-department-256829",
+      "name": "Calcasieu Parish Animal Control & Protection Department",
+      "address": "5500 Swift Plant Road, Lake Charles, LA 70615",
+      "phone": "337-439-8879",
+      "image": "https://cdn.findpawpal.com/office/256829.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lake-area-partnerships-for-animal-welfare-223408",
+      "name": "Lake Area Partnerships for Animal Welfare",
+      "address": "PO Box 4964, Lake Charles, LA 70606",
+      "phone": "337-478-7294",
+      "image": "https://cdn.findpawpal.com/office/223408.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lake-charles-pit-bull-rescue-225513",
+      "name": "Lake Charles Pit Bull Rescue",
+      "address": "712 Live Oak Street, Lake Charles, LA 70601",
+      "phone": "713-854-1895",
+      "image": "https://cdn.findpawpal.com/office/225513.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "riverlands-spca-242358",
+      "name": "Riverlands SPCA",
+      "address": "PO Box 223, Laplace, LA 70069",
+      "phone": "504-652-7722",
+      "image": "https://cdn.findpawpal.com/office/242358.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "st-john-parish-animal-shelter-244008",
+      "name": "St John Parish Animal Shelter",
+      "address": "488 West 2nd Street, Laplace, LA 70068",
+      "phone": "985-651-7387",
+      "image": "https://cdn.findpawpal.com/office/244008.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "st-john-humane-society-276491",
+      "name": "St. John Humane Society",
+      "address": "2133 Colonial Drive, Laplace, LA 70068",
+      "phone": "504-652-2082",
+      "image": "https://cdn.findpawpal.com/office/276491.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "leesville-animal-shelter-223852",
+      "name": "Leesville Animal Shelter",
+      "address": "153 Par Road 160, Leesville, LA 71446",
+      "phone": "318-238-2887",
+      "image": "https://cdn.findpawpal.com/office/223852.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "vernon-parish-animal-shelter-240057",
+      "name": "Vernon Parish Animal Shelter",
+      "address": "272 Obanion Road, Leesville, LA 71446",
+      "phone": "337-392-9613",
+      "image": "https://cdn.findpawpal.com/office/240057.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "livingston-parish-animal-shelter-240065",
+      "name": "Livingston Parish Animal Shelter",
+      "address": "13525 Florida Boulevard, Livingston, LA 70754",
+      "phone": "225-686-7798",
+      "image": "https://cdn.findpawpal.com/office/240065.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hooved-animal-rescue-and-placement-inc-258024",
+      "name": "Hooved Animal Rescue and Placement, Inc.",
+      "address": "PO Box 56, Loranger, LA 70446",
+      "phone": "985-320-2556",
+      "image": "https://cdn.findpawpal.com/office/258024.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sabine-humane-society-243245",
+      "name": "Sabine Humane Society",
+      "address": "520 McDonald Drive, Many, LA 71449",
+      "phone": "318-256-2275",
+      "image": "https://cdn.findpawpal.com/office/243245.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sabine-parish-humane-society-281837",
+      "name": "Sabine Parish Humane Society",
+      "address": "PO Box 1116, Many, LA 71449",
+      "phone": "318-256-2639",
+      "image": "https://cdn.findpawpal.com/office/281837.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jefferson-parish-animal-shelter-282235",
+      "name": "Jefferson Parish Animal Shelter",
+      "address": "1869 Ames Boulevard, Marrero, LA 70072",
+      "phone": "504-349-5111",
+      "image": "https://cdn.findpawpal.com/office/282235.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-adoption-society-inc-276337",
+      "name": "Animal Adoption Society, Inc.",
+      "address": "2545 Paul Drive, Meraux, LA 70075",
+      "phone": "504-279-3889",
+      "image": "https://cdn.findpawpal.com/office/276337.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-the-jefferson-animal-shelter-282245",
+      "name": "Friends of the Jefferson Animal Shelter",
+      "address": "PO Box 1079, Metairie, LA 70004",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/282245.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spaymart-242122",
+      "name": "Spaymart",
+      "address": "PO Box 6493, Metairie, LA 70009",
+      "phone": "601-749-0268",
+      "image": "https://cdn.findpawpal.com/office/242122.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "minden-animal-control-227124",
+      "name": "Minden Animal Control",
+      "address": "EWELL St, Minden, LA 71055",
+      "phone": "318-371-4228",
+      "image": "https://cdn.findpawpal.com/office/227124.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-adoption-center-242916",
+      "name": "Humane Society Adoption Center",
+      "address": "920 Freight Drive, Monroe, LA 71203",
+      "phone": "318-387-9553",
+      "image": "https://cdn.findpawpal.com/office/242916.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "monroe-animal-control-224346",
+      "name": "Monroe Animal Control",
+      "address": "700 Wood Street, Monroe, LA 71201",
+      "phone": "318-329-2600",
+      "image": "https://cdn.findpawpal.com/office/224346.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-of-ne-louisiana-225756",
+      "name": "PAWS of Ne Louisiana",
+      "address": "PO Box 15432, Monroe, LA 71207",
+      "phone": "318-348-4944",
+      "image": "https://cdn.findpawpal.com/office/225756.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "river-cities-humane-society-for-cats-242289",
+      "name": "River Cities Humane Society for Cats",
+      "address": "PO Box 4598, Monroe, LA 71211",
+      "phone": "318-387-4392",
+      "image": "https://cdn.findpawpal.com/office/242289.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "natchitoches-animal-shelter-287581",
+      "name": "Natchitoches Animal Shelter",
+      "address": "450 Fairgrounds Road, Natchitoches, LA 71457",
+      "phone": "318-357-3885",
+      "image": "https://cdn.findpawpal.com/office/287581.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "natchitoches-humane-society-281720",
+      "name": "Natchitoches Humane Society",
+      "address": "PO Box 615, Natchitoches, LA 71458",
+      "phone": "318-352-8018",
+      "image": "https://cdn.findpawpal.com/office/281720.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "iberia-humane-society-223447",
+      "name": "Iberia Humane Society",
+      "address": "PO Box 11422, New Iberia, LA 70562",
+      "phone": "337-365-1923",
+      "image": "https://cdn.findpawpal.com/office/223447.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "iberia-parish-animal-shelter-243078",
+      "name": "Iberia Parish Animal Shelter",
+      "address": "2017 Seaway Access Road, New Iberia, LA 70560",
+      "phone": "337-364-6311",
+      "image": "https://cdn.findpawpal.com/office/243078.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "feline-friends-inc-288375",
+      "name": "Feline Friends, Inc.",
+      "address": "3441 Laurel Street, New Orleans, LA 70115",
+      "phone": "504-895-4982",
+      "image": "https://cdn.findpawpal.com/office/288375.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-louisiana-225750",
+      "name": "Humane Society of Louisiana",
+      "address": "PO Box 740321, New Orleans, LA 70174",
+      "phone": "504-366-8972",
+      "image": "https://cdn.findpawpal.com/office/225750.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jefferson-parish-animal-shelter-288735",
+      "name": "Jefferson Parish Animal Shelter",
+      "address": "1221 Elmwood Park Boulevard, New Orleans, LA 70123",
+      "phone": "504-736-6111",
+      "image": "https://cdn.findpawpal.com/office/288735.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jefferson-spca-287587",
+      "name": "Jefferson SPCA",
+      "address": "PO Box 10983, New Orleans, LA 70181",
+      "phone": "504-734-7387",
+      "image": "https://cdn.findpawpal.com/office/287587.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "louisiana-spca-226321",
+      "name": "Louisiana SPCA",
+      "address": "1700 Mardi Gras Boulevard, New Orleans, LA 70114",
+      "phone": "504-368-5191",
+      "image": "https://cdn.findpawpal.com/office/226321.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "st-bernard-parish-animal-control-288740",
+      "name": "St Bernard Parish Animal Control",
+      "address": "115 AGRICULTURE Rd, New Orleans, LA 70112",
+      "phone": "504-278-1535",
+      "image": "https://cdn.findpawpal.com/office/288740.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pointe-coupee-animal-shelter-275732",
+      "name": "Pointe Coupee Animal Shelter",
+      "address": "PO Box 905, New Roads, LA 70760",
+      "phone": "225-638-1041",
+      "image": "https://cdn.findpawpal.com/office/275732.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "olla-animal-shelter-257054",
+      "name": "Olla Animal Shelter",
+      "address": "404 Pine St, Olla, LA 71465",
+      "phone": "318-495-5161",
+      "image": "https://cdn.findpawpal.com/office/257054.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "opelousas-animal-shelter-288291",
+      "name": "Opelousas Animal Shelter",
+      "address": "450 Park Avenue, Opelousas, LA 70570",
+      "phone": "318-948-2550",
+      "image": "https://cdn.findpawpal.com/office/288291.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "st-landry-parish-animal-contro-288300",
+      "name": "St Landry Parish Animal Contro",
+      "address": "255 Hangar Road, Opelousas, LA 70570",
+      "phone": "337-948-6184",
+      "image": "https://cdn.findpawpal.com/office/288300.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "collie-rescue-of-south-louisiana-inc-239475",
+      "name": "Collie Rescue of South Louisiana, Inc.",
+      "address": "36334 Rheusaw Crawford Road, Pearl River, LA 70452",
+      "phone": "504-251-7879",
+      "image": "https://cdn.findpawpal.com/office/239475.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "its-a-grey-area-greyhound-adoption-group-inc-287844",
+      "name": "It's A Grey Area Greyhound Adoption Group, Inc.",
+      "address": "39311 West Porter River Road, Pearl River, LA 70452",
+      "phone": "504-908-8884",
+      "image": "https://cdn.findpawpal.com/office/287844.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "proponents-of-animal-welfare-in-st-tammany-287759",
+      "name": "Proponents of Animal Welfare In St. Tammany",
+      "address": "PO Box 1055, Pearl River, LA 70452",
+      "phone": "504-649-0811",
+      "image": "https://cdn.findpawpal.com/office/287759.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-pineville-243520",
+      "name": "Humane Society Pineville",
+      "address": "100 Melody Ln, Pineville, LA 71360",
+      "phone": "318-641-0054",
+      "image": "https://cdn.findpawpal.com/office/243520.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pineville-animal-shelter-276732",
+      "name": "Pineville Animal Shelter",
+      "address": "Highway 71 N, Pineville, LA 71360",
+      "phone": "318-449-5674",
+      "image": "https://cdn.findpawpal.com/office/276732.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "iberville-parish-animal-control-243901",
+      "name": "Iberville Parish Animal Control",
+      "address": "59815 Bayou Road, Plaquemine, LA 70764",
+      "phone": "225-687-5881",
+      "image": "https://cdn.findpawpal.com/office/243901.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "save-our-strays-rescue-243008",
+      "name": "Save Our Strays Rescue",
+      "address": "PO Box 267, Plaquemine, LA 70765",
+      "phone": "225-687-7994",
+      "image": "https://cdn.findpawpal.com/office/243008.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pollock-animal-control-226502",
+      "name": "Pollock Animal Control",
+      "address": "8484 U.s. 165, Pollock, LA 71467",
+      "phone": "318-765-5050",
+      "image": "https://cdn.findpawpal.com/office/226502.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rayne-animal-shelter-239792",
+      "name": "Rayne Animal Shelter",
+      "address": "1321 ሰክቲኦን ጎዳና, Rayne, LA 70578",
+      "phone": "337-739-9495",
+      "image": "https://cdn.findpawpal.com/office/239792.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-delta-humane-society-243552",
+      "name": "The Delta Humane Society",
+      "address": "165 Covington Road, Rayville, LA 71269",
+      "phone": "318-728-2455",
+      "image": "https://cdn.findpawpal.com/office/243552.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "southpaw-animal-rescue-225975",
+      "name": "Southpaw Animal Rescue",
+      "address": "PO Box 596, Robert, LA 70455",
+      "phone": "504-491-5741",
+      "image": "https://cdn.findpawpal.com/office/225975.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-rescue-inc-281643",
+      "name": "Paws Rescue Inc",
+      "address": "290 Rodeo Road, Ruston, LA 71270",
+      "phone": "318-251-3647",
+      "image": "https://cdn.findpawpal.com/office/281643.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ruston-animal-control-240052",
+      "name": "Ruston Animal Control",
+      "address": "1901 McDonald Avenue, Ruston, LA 71270",
+      "phone": "318-251-8685",
+      "image": "https://cdn.findpawpal.com/office/240052.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "taylor-ridge-guinea-pig-rescue-and-adoption-281650",
+      "name": "Taylor Ridge Guinea Pig Rescue & Adoption",
+      "address": "167 Trace Drive, Ruston, LA 71270",
+      "phone": "318-254-8018",
+      "image": "https://cdn.findpawpal.com/office/281650.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "caddo-parish-animal-control-227009",
+      "name": "Caddo Parish Animal Control",
+      "address": "1500 Monty Street, Shreveport, LA 71107",
+      "phone": "318-226-6624",
+      "image": "https://cdn.findpawpal.com/office/227009.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hopeful-haven-equine-rescue-225453",
+      "name": "Hopeful Haven Equine Rescue",
+      "address": "PO Box 17763, Shreveport, LA 71138",
+      "phone": "318-286-3116",
+      "image": "https://cdn.findpawpal.com/office/225453.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-northwest-louisiana-243709",
+      "name": "Humane Society of Northwest Louisiana",
+      "address": "3511 Youree Drive, Shreveport, LA 71105",
+      "phone": "318-219-7387",
+      "image": "https://cdn.findpawpal.com/office/243709.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-savers-243700",
+      "name": "Pet Savers",
+      "address": "4380 Noyes Drive, Shreveport, LA 71119",
+      "phone": "318-636-0400",
+      "image": "https://cdn.findpawpal.com/office/243700.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "steves-snaketuary-243718",
+      "name": "Steve's Snaketuary",
+      "address": "440 Mars Drive, Shreveport, LA 71106",
+      "phone": "318-525-6241",
+      "image": "https://cdn.findpawpal.com/office/243718.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ladawg-louisiana-domestic-animal-welfare-group-243383",
+      "name": "Ladawg Louisiana Domestic Animal Welfare Group",
+      "address": "60 Tortoise Street, Slidell, LA 70461",
+      "phone": "985-641-0929",
+      "image": "https://cdn.findpawpal.com/office/243383.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pontchartrain-humane-society-282009",
+      "name": "Pontchartrain Humane Society",
+      "address": "PO Box 5186, Slidell, LA 70469",
+      "phone": "985-699-9040",
+      "image": "https://cdn.findpawpal.com/office/282009.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "slidell-animal-shelter-224252",
+      "name": "Slidell Animal Shelter",
+      "address": "2700 Terrace Avenue, Slidell, LA 70458",
+      "phone": "985-646-4267",
+      "image": "https://cdn.findpawpal.com/office/224252.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "slidell-community-humane-society-223761",
+      "name": "Slidell Community Humane Society",
+      "address": "PO Box 832, Slidell, LA 70459",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/223761.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ascension-animal-control-226723",
+      "name": "Ascension Animal Control",
+      "address": "9894 Airline Highway, Sorrento, LA 70778",
+      "phone": "225-675-6557",
+      "image": "https://cdn.findpawpal.com/office/226723.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "st-martin-parish-animal-control-275834",
+      "name": "St. Martin Parish Animal Control",
+      "address": "1004 Industrial Prk Rd, St. Martinville, LA 70582",
+      "phone": "337-394-1122",
+      "image": "https://cdn.findpawpal.com/office/275834.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-angels-281410",
+      "name": "Animal Angels",
+      "address": "PO Box 2238, Sulphur, LA 70664",
+      "phone": "337-527-1452",
+      "image": "https://cdn.findpawpal.com/office/281410.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "acadiana-humane-society-243277",
+      "name": "Acadiana Humane Society",
+      "address": "PO Box C, Sunset, LA 70584",
+      "phone": "337-668-4484",
+      "image": "https://cdn.findpawpal.com/office/243277.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hope-for-animals-257036",
+      "name": "Hope for Animals",
+      "address": "PO Box 1341, Thibodaux, LA 70302",
+      "phone": "985-447-9454",
+      "image": "https://cdn.findpawpal.com/office/257036.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lafourche-parish-animal-shelter-227027",
+      "name": "Lafourche Parish Animal Shelter",
+      "address": "934 Louisiana 3185, Thibodaux, LA 70301",
+      "phone": "985-446-3532",
+      "image": "https://cdn.findpawpal.com/office/227027.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-central-louisiana-243235",
+      "name": "Humane Society of Central Louisiana",
+      "address": "PO Box 83, Tioga, LA 71477",
+      "phone": "318-641-0458",
+      "image": "https://cdn.findpawpal.com/office/243235.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bon-temps-ferret-rescue-242632",
+      "name": "Bon Temps Ferret Rescue",
+      "address": "4203 Chataignier Road, Ville Platte, LA 70586",
+      "phone": "337-207-2468",
+      "image": "https://cdn.findpawpal.com/office/242632.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "st-bernard-parish-animal-control-288225",
+      "name": "St Bernard Parish Animal Control",
+      "address": "5455 East Judge Perez Drive, Violet, LA 70092",
+      "phone": "504-278-1534",
+      "image": "https://cdn.findpawpal.com/office/288225.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "livingston-parish-animal-control-257101",
+      "name": "Livingston Parish Animal Control",
+      "address": "13247 Hodges Lane, Walker, LA 70785",
+      "phone": "225-698-9571",
+      "image": "https://cdn.findpawpal.com/office/257101.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spca-of-livingston-275606",
+      "name": "SPCA of Livingston",
+      "address": "PO Box 500, Walker, LA 70785",
+      "phone": "225-933-5218",
+      "image": "https://cdn.findpawpal.com/office/275606.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "walker-animal-shelter-281703",
+      "name": "Walker Animal Shelter",
+      "address": "13740 Ball Park Road, Walker, LA 70785",
+      "phone": "225-665-3910",
+      "image": "https://cdn.findpawpal.com/office/281703.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "welsh-animal-shelter-239150",
+      "name": "Welsh Animal Shelter",
+      "address": "PO Box 786, Welsh, LA 70591",
+      "phone": "318-734-2231",
+      "image": "https://cdn.findpawpal.com/office/239150.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "graces-home-for-abused-and-neglected-animals-242936",
+      "name": "Grace's Home for Abused and Neglected Animals",
+      "address": "PO Box 1305, West Monroe, LA 71294",
+      "phone": "318-361-0333",
+      "image": "https://cdn.findpawpal.com/office/242936.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ouachita-parish-animal-shelter-258110",
+      "name": "Ouachita Parish Animal Shelter",
+      "address": "417 Well Road, West Monroe, LA 71291",
+      "phone": "318-325-0756",
+      "image": "https://cdn.findpawpal.com/office/258110.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-haven-282572",
+      "name": "The Haven",
+      "address": "134 Fairlane Drive, West Monroe, LA 71291",
+      "phone": "318-651-0103",
+      "image": "https://cdn.findpawpal.com/office/282572.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "west-monroe-animal-shelter-288584",
+      "name": "West Monroe Animal Shelter",
+      "address": "417 Well Road, West Monroe, LA 71291",
+      "phone": "318-325-0756",
+      "image": "https://cdn.findpawpal.com/office/288584.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "westlake-animal-control-226470",
+      "name": "Westlake Animal Control",
+      "address": "3410 Bayou D'Inde Road, Westlake, LA 70669",
+      "phone": "337-882-1365",
+      "image": "https://cdn.findpawpal.com/office/226470.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "winnfield-animal-shelter-226419",
+      "name": "Winnfield Animal Shelter",
+      "address": "508 South Bevill Street, Winnfield, LA 71483",
+      "phone": "318-628-2193",
+      "image": "https://cdn.findpawpal.com/office/226419.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paaw-people-assisting-animal-welfare-243074",
+      "name": "Paaw People Assisting Animal Welfare",
+      "address": "PO Box 1379, Youngsville, LA 70592",
+      "phone": "337-856-7621",
+      "image": "https://cdn.findpawpal.com/office/243074.jpg?f=webp&w=730"
+    }
+  ]
+}

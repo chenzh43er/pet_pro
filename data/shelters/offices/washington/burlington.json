@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:17:23.668172+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "burlington",
+    "name": "Burlington",
+    "label": "Burlington, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/burlington/",
+  "offices": [
+    {
+      "officeId": 664320,
+      "slug": "humane-society-of-skagit-valley-664320",
+      "name": "Humane Society of Skagit Valley",
+      "address": "18911 Kelleher Road, Burlington, WA 98233",
+      "phone": "360-757-0445",
+      "image": "./img/shelter/office/664320.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-skagit-valley-664320/",
+      "imageUrl": "https://cdn.findpawpal.com/office/664320.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:37:42.658981+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "westport",
+    "name": "Westport",
+    "label": "Westport, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/westport/",
+  "offices": [
+    {
+      "officeId": 315422,
+      "slug": "north-country-spca-315422",
+      "name": "North Country SPCA",
+      "address": "23 Lakeshore Road, Westport, NY 12993",
+      "phone": "518-962-8604",
+      "image": "./img/shelter/office/315422.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/north-country-spca-315422/",
+      "imageUrl": "https://cdn.findpawpal.com/office/315422.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:36:00.705295+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "deep-river",
+    "name": "Deep River",
+    "label": "Deep River, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/deep-river/",
+  "offices": [
+    {
+      "officeId": 169554,
+      "slug": "deep-river-animal-control-169554",
+      "name": "Deep River Animal Control",
+      "address": "174 Main Street, Deep River, CT 06417",
+      "phone": "860-526-6036",
+      "image": "./img/shelter/office/169554.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/deep-river-animal-control-169554/",
+      "imageUrl": "https://cdn.findpawpal.com/office/169554.jpg?f=webp&w=730"
+    }
+  ]
+}

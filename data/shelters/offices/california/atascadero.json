@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:23:53.998603+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "atascadero",
+    "name": "Atascadero",
+    "label": "Atascadero, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/atascadero/",
+  "offices": [
+    {
+      "slug": "north-county-humane-society-382309",
+      "name": "North County Humane Society",
+      "address": "2300 Ramona Road, Atascadero, CA 93422",
+      "phone": "805-466-5403",
+      "image": "./img/shelter/office/382309.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/north-county-humane-society-382309/",
+      "imageUrl": "https://cdn.findpawpal.com/office/382309.jpg?f=webp&w=730"
+    }
+  ]
+}

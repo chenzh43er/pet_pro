@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:04:04.378326+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "cookville",
+    "name": "Cookville",
+    "label": "Cookville, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/cookville/",
+  "offices": [
+    {
+      "officeId": 493899,
+      "slug": "northeast-texas-humane-society-493899",
+      "name": "Northeast Texas Humane Society",
+      "address": "343 Cr 4218, Cookville, TX 75558",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/493899.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/northeast-texas-humane-society-493899/"
+    }
+  ]
+}

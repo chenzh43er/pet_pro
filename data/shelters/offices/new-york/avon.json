@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:31:42.289959+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "avon",
+    "name": "Avon",
+    "label": "Avon, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/avon/",
+  "offices": [
+    {
+      "officeId": 312127,
+      "slug": "humane-society-of-livingston-county-312127",
+      "name": "Humane Society of Livingston County",
+      "address": "PO Box 233, Avon, NY 14414",
+      "phone": "585-234-2828",
+      "image": "./img/shelter/office/312127.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-livingston-county-312127/",
+      "imageUrl": "https://cdn.findpawpal.com/office/312127.jpg?f=webp&w=730"
+    }
+  ]
+}

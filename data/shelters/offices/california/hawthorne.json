@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:26:24.659566+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "hawthorne",
+    "name": "Hawthorne",
+    "label": "Hawthorne, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/hawthorne/",
+  "offices": [
+    {
+      "officeId": 383438,
+      "slug": "southern-ca-humane-society-la-spca-hawthorne-shelter-383438",
+      "name": "Southern CA Humane Society LA SPCA Hawthorne Shelter",
+      "address": "12910 Yukon Avenue, Hawthorne, CA 90250",
+      "phone": "562-678-2839",
+      "image": "./img/shelter/office/383438.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/southern-ca-humane-society-la-spca-hawthorne-shelter-383438/",
+      "imageUrl": "https://cdn.findpawpal.com/office/383438.jpg?f=webp&w=730"
+    }
+  ]
+}

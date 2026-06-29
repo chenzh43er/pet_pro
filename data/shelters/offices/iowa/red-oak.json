@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:54:02.334030+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa"
+  },
+  "city": {
+    "slug": "red-oak",
+    "name": "Red Oak",
+    "label": "Red Oak, IA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/red-oak/",
+  "offices": [
+    {
+      "officeId": 432198,
+      "slug": "montgomery-county-animal-shelter-432198",
+      "name": "Montgomery County Animal Shelter",
+      "address": "103 South Broadway Street, Red Oak, IA 51566",
+      "phone": "712-357-1159",
+      "image": "./img/shelter/office/432198.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/montgomery-county-animal-shelter-432198/",
+      "imageUrl": "https://cdn.findpawpal.com/office/432198.jpg?f=webp&w=730"
+    }
+  ]
+}

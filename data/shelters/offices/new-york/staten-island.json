@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:37:01.988932+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "staten-island",
+    "name": "Staten Island",
+    "label": "Staten Island, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/staten-island/",
+  "offices": [
+    {
+      "officeId": 317273,
+      "slug": "pet-lovers-united-together-as-one-317273",
+      "name": "Pet Lovers United Together as One",
+      "address": "PO Box 140889, Staten Island, NY 10314",
+      "phone": "718-227-0553",
+      "image": "./img/shelter/office/317273.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-lovers-united-together-as-one-317273/",
+      "imageUrl": "https://cdn.findpawpal.com/office/317273.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 341005,
+      "slug": "richmond-cat-association-341005",
+      "name": "Richmond Cat Association",
+      "address": "PO Box 120139, Staten Island, NY 10312",
+      "phone": "",
+      "image": "./img/shelter/office/341005.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/richmond-cat-association-341005/",
+      "imageUrl": "https://cdn.findpawpal.com/office/341005.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 440197,
+      "slug": "anarchy-animal-rescue-440197",
+      "name": "Anarchy Animal Rescue",
+      "address": "PO Box 120186, Staten Island, NY 10312",
+      "phone": "347-581-2807",
+      "image": "./img/shelter/office/440197.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/anarchy-animal-rescue-440197/",
+      "imageUrl": "https://cdn.findpawpal.com/office/440197.jpg?f=webp&w=730"
+    }
+  ]
+}

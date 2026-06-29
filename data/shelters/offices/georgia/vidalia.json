@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:41:54.105110+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "vidalia",
+    "name": "Vidalia",
+    "label": "Vidalia, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/vidalia/",
+  "offices": [
+    {
+      "officeId": 134554,
+      "slug": "dixie-dog-rescue-134554",
+      "name": "Dixie Dog Rescue",
+      "address": "3224 Old Normantown Road, Vidalia, GA 30474",
+      "phone": "912-537-9307",
+      "image": "./img/shelter/office/134554.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dixie-dog-rescue-134554/",
+      "imageUrl": "https://cdn.findpawpal.com/office/134554.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 149855,
+      "slug": "vidalia-animal-control-149855",
+      "name": "Vidalia Animal Control",
+      "address": "2811 Airport Rd, Vidalia, GA 30474",
+      "phone": "912-537-8866",
+      "image": "./img/shelter/office/149855.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/vidalia-animal-control-149855/",
+      "imageUrl": "https://cdn.findpawpal.com/office/149855.jpg?f=webp&w=730"
+    }
+  ]
+}

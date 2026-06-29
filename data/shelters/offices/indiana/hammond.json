@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:50:15.942136+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "hammond",
+    "name": "Hammond",
+    "label": "Hammond, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/hammond/",
+  "offices": [
+    {
+      "officeId": 217673,
+      "slug": "noah-a-no-kill-organization-for-the-adoption-of-homeless-animals-217673",
+      "name": "Noah A No-Kill Organization for the Adoption of Homeless Animals",
+      "address": "PO Box 4363, Hammond, IN 46324",
+      "phone": "",
+      "image": "./img/shelter/office/217673.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/noah-a-no-kill-organization-for-the-adoption-of-homeless-animals-217673/",
+      "imageUrl": "https://cdn.findpawpal.com/office/217673.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 251622,
+      "slug": "hammond-animal-control-251622",
+      "name": "Hammond Animal Control",
+      "address": "5131 Columbia Avenue, Hammond, IN 46327",
+      "phone": "219-853-6507",
+      "image": "./img/shelter/office/251622.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hammond-animal-control-251622/",
+      "imageUrl": "https://cdn.findpawpal.com/office/251622.jpg?f=webp&w=730"
+    }
+  ]
+}

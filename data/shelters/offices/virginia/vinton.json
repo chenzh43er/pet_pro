@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:16:43.372015+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "vinton",
+    "name": "Vinton",
+    "label": "Vinton, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/vinton/",
+  "offices": [
+    {
+      "officeId": 706791,
+      "slug": "vinton-animal-control-706791",
+      "name": "Vinton Animal Control",
+      "address": "311 South Pollard Street, Vinton, VA 24179",
+      "phone": "540-983-0617",
+      "image": "./img/shelter/office/706791.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/vinton-animal-control-706791/",
+      "imageUrl": "https://cdn.findpawpal.com/office/706791.jpg?f=webp&w=730"
+    }
+  ]
+}

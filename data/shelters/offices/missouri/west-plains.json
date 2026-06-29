@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:21:25.848698+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "west-plains",
+    "name": "West Plains",
+    "label": "West Plains, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/west-plains/",
+  "offices": [
+    {
+      "officeId": 192911,
+      "slug": "west-plains-regional-animal-shelter-192911",
+      "name": "West Plains Regional Animal Shelter",
+      "address": "1438 State Route BB, West Plains, MO 65775",
+      "phone": "417-256-8438",
+      "image": "./img/shelter/office/192911.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/west-plains-regional-animal-shelter-192911/",
+      "imageUrl": "https://cdn.findpawpal.com/office/192911.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 210174,
+      "slug": "west-plains-animal-control-210174",
+      "name": "West Plains Animal Control",
+      "address": "1005 Bratton Avenue, West Plains, MO 65775",
+      "phone": "417-255-1860",
+      "image": "./img/shelter/office/210174.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/west-plains-animal-control-210174/",
+      "imageUrl": "https://cdn.findpawpal.com/office/210174.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 229601,
+      "slug": "shannons-companions-229601",
+      "name": "Shannon's Companions",
+      "address": "PO Box 1090, West Plains, MO 65775",
+      "phone": "217-663-8394",
+      "image": "./img/shelter/office/229601.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/shannons-companions-229601/",
+      "imageUrl": "https://cdn.findpawpal.com/office/229601.jpg?f=webp&w=730"
+    }
+  ]
+}

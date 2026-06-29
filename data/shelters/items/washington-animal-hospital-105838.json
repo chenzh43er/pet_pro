@@ -1,0 +1,21 @@
+{
+  "officeId": 105838,
+  "slug": "washington-animal-hospital-105838",
+  "name": "Washington Animal Hospital",
+  "address": "263 Route 31, Washington, NJ 07882",
+  "street": "263 Route 31",
+  "addressCity": "Washington",
+  "stateCode": "NJ",
+  "zip": "07882",
+  "phone": "908-689-3267",
+  "image": "./img/shelter/office/105838.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/washington-animal-hospital-105838/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "washington",
+  "cityName": "Washington",
+  "cityLabel": "Washington, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/washington/",
+  "fetchedAt": "2026-06-27T19:29:28.984989+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/105838.jpg?f=webp&w=730"
+}

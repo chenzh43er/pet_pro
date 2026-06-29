@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:01:45.852101+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "roan-mountain",
+    "name": "Roan Mountain",
+    "label": "Roan Mountain, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/roan-mountain/",
+  "offices": [
+    {
+      "officeId": 451958,
+      "slug": "wecome-home-pet-sanctuary-451958",
+      "name": "Wecome Home Pet Sanctuary",
+      "address": "140 Doe Lane, Roan Mountain, TN 37687",
+      "phone": "423-972-1665",
+      "image": "https://cdn.findpawpal.com/office/451958.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/wecome-home-pet-sanctuary-451958/"
+    }
+  ]
+}

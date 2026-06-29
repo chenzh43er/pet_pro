@@ -1,0 +1,54 @@
+{
+  "fetchedAt": "2026-06-27T18:41:18.573094+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "rome",
+    "name": "Rome",
+    "label": "Rome, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/rome/",
+  "offices": [
+    {
+      "officeId": 134250,
+      "slug": "rome-floyd-humane-society-134250",
+      "name": "Rome/Floyd Humane Society",
+      "address": "518 Broad Street, Rome, GA 30161",
+      "phone": "706-234-7979",
+      "image": "./img/shelter/office/134250.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rome-floyd-humane-society-134250/",
+      "imageUrl": "https://cdn.findpawpal.com/office/134250.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 134500,
+      "slug": "chesapeake-bay-retriever-relief-and-rescue-134500",
+      "name": "Chesapeake Bay Retriever Relief & Rescue",
+      "address": "420 Scoggin Road Northwest, Rome, GA 30165",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/134500.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/chesapeake-bay-retriever-relief-and-rescue-134500/"
+    },
+    {
+      "officeId": 135299,
+      "slug": "floyd-county-animal-control-135299",
+      "name": "Floyd County Animal Control",
+      "address": "431 Mathis Road Southeast, Rome, GA 30161",
+      "phone": "706-236-4537",
+      "image": "./img/shelter/office/135299.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/floyd-county-animal-control-135299/",
+      "imageUrl": "https://cdn.findpawpal.com/office/135299.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 149718,
+      "slug": "pet-connection-149718",
+      "name": "Pet Connection",
+      "address": "1953 Blacks Bluff Road Southwest, Rome, GA 30161",
+      "phone": "706-235-2913",
+      "image": "./img/shelter/office/149718.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-connection-149718/",
+      "imageUrl": "https://cdn.findpawpal.com/office/149718.jpg?f=webp&w=730"
+    }
+  ]
+}

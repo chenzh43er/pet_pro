@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:11:14.114931+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "ironwood",
+    "name": "Ironwood",
+    "label": "Ironwood, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/ironwood/",
+  "offices": [
+    {
+      "officeId": 203932,
+      "slug": "hope-animal-shelter-203932",
+      "name": "Hope Animal Shelter",
+      "address": "510 Easy Street, Ironwood, MI 49938",
+      "phone": "906-932-1511",
+      "image": "./img/shelter/office/203932.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hope-animal-shelter-203932/",
+      "imageUrl": "https://cdn.findpawpal.com/office/203932.jpg?f=webp&w=730"
+    }
+  ]
+}

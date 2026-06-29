@@ -1,0 +1,21 @@
+{
+  "officeId": 272328,
+  "slug": "needy-paws-animal-shelter-272328",
+  "name": "Needy Paws Animal Shelter",
+  "address": "1100 East Main Street, Clarksville, AR 72830",
+  "street": "1100 East Main Street",
+  "addressCity": "Clarksville",
+  "stateCode": "AR",
+  "zip": "72830",
+  "phone": "479-754-4200",
+  "image": "./img/shelter/office/272328.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/needy-paws-animal-shelter-272328/",
+  "stateSlug": "arkansas",
+  "stateName": "Arkansas",
+  "citySlug": "clarksville",
+  "cityName": "Clarksville",
+  "cityLabel": "Clarksville, AR",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/arkansas/clarksville/",
+  "fetchedAt": "2026-06-27T18:21:48.622237+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/272328.jpg?f=webp&w=730"
+}

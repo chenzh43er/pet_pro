@@ -1,0 +1,75 @@
+{
+  "fetchedAt": "2026-06-27T20:08:26.957334+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "plano",
+    "name": "Plano",
+    "label": "Plano, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/plano/",
+  "offices": [
+    {
+      "officeId": 477844,
+      "slug": "labmed-rx-for-rescued-labradors-477844",
+      "name": "Labmed Rx for Rescued Labradors",
+      "address": "3941 Legacy Drive, Plano, TX 75023",
+      "phone": "972-208-2470",
+      "image": "./img/shelter/office/477844.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/labmed-rx-for-rescued-labradors-477844/",
+      "imageUrl": "https://cdn.findpawpal.com/office/477844.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 478965,
+      "slug": "doggies-wonderland-478965",
+      "name": "Doggie's Wonderland",
+      "address": "460 Independence Parkway, Plano, TX 75075",
+      "phone": "972-881-1905",
+      "image": "./img/shelter/office/478965.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/doggies-wonderland-478965/",
+      "imageUrl": "https://cdn.findpawpal.com/office/478965.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 523437,
+      "slug": "city-of-plano-animal-services-523437",
+      "name": "City of Plano: Animal Services",
+      "address": "4028 West Plano Parkway, Plano, TX 75093",
+      "phone": "972-769-4360",
+      "image": "./img/shelter/office/523437.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/city-of-plano-animal-services-523437/",
+      "imageUrl": "https://cdn.findpawpal.com/office/523437.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 538226,
+      "slug": "second-chance-spca-538226",
+      "name": "Second Chance SPCA",
+      "address": "505 Alma Drive, Plano, TX 75075",
+      "phone": "972-424-0077",
+      "image": "./img/shelter/office/538226.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/second-chance-spca-538226/",
+      "imageUrl": "https://cdn.findpawpal.com/office/538226.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 539567,
+      "slug": "animal-guardians-of-america-539567",
+      "name": "Animal Guardians of America",
+      "address": "7000 Independence Parkway, Plano, TX 75025",
+      "phone": "972-398-2123",
+      "image": "./img/shelter/office/539567.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-guardians-of-america-539567/",
+      "imageUrl": "https://cdn.findpawpal.com/office/539567.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674106,
+      "slug": "humane-society-adoption-plano-674106",
+      "name": "Humane Society Adoption Plano",
+      "address": "1449 Colmar Drive, Plano, TX 75023",
+      "phone": "972-517-2976",
+      "image": "./img/shelter/office/674106.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-adoption-plano-674106/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674106.jpg?f=webp&w=730"
+    }
+  ]
+}

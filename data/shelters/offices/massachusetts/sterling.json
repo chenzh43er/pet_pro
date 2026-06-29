@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:08:27.382023+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "sterling",
+    "name": "Sterling",
+    "label": "Sterling, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/sterling/",
+  "offices": [
+    {
+      "officeId": 40815,
+      "slug": "neady-cats-inc-aka-cats-in-need-40815",
+      "name": "Neady Cats, Inc Aka Cats In Need",
+      "address": "305 Redemption Rock Trail, Sterling, MA 01564",
+      "phone": "978-422-9064",
+      "image": "./img/shelter/office/40815.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/neady-cats-inc-aka-cats-in-need-40815/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40815.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40892,
+      "slug": "sterling-animal-shelter-40892",
+      "name": "Sterling Animal Shelter",
+      "address": "17 Laurelwood Road, Sterling, MA 01564",
+      "phone": "978-422-8585",
+      "image": "./img/shelter/office/40892.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sterling-animal-shelter-40892/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40892.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 41116,
+      "slug": "sterling-animal-shelter-41116",
+      "name": "Sterling Animal Shelter",
+      "address": "17 Laurelwood Road, Sterling, MA 01564",
+      "phone": "978-422-8585",
+      "image": "./img/shelter/office/41116.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sterling-animal-shelter-41116/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41116.jpg?f=webp&w=730"
+    }
+  ]
+}

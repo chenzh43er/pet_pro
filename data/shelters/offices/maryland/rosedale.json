@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:04:37.971045+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "rosedale",
+    "name": "Rosedale",
+    "label": "Rosedale, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/rosedale/",
+  "offices": [
+    {
+      "officeId": 394559,
+      "slug": "huskies-to-love-siberian-husky-rescue-inc-of-maryland-394559",
+      "name": "Huskies to Love-Siberian Husky Rescue Inc. of Maryland",
+      "address": "7914 33rd Street, Rosedale, MD 21237",
+      "phone": "410-612-8160",
+      "image": "./img/shelter/office/394559.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/huskies-to-love-siberian-husky-rescue-inc-of-maryland-394559/",
+      "imageUrl": "https://cdn.findpawpal.com/office/394559.jpg?f=webp&w=730"
+    }
+  ]
+}

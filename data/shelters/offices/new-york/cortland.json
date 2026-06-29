@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:32:48.229424+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "cortland",
+    "name": "Cortland",
+    "label": "Cortland, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/cortland/",
+  "offices": [
+    {
+      "officeId": 333726,
+      "slug": "cortland-county-spca-333726",
+      "name": "Cortland County SPCA",
+      "address": "879 McLean Road, Cortland, NY 13045",
+      "phone": "607-753-9386",
+      "image": "./img/shelter/office/333726.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cortland-county-spca-333726/",
+      "imageUrl": "https://cdn.findpawpal.com/office/333726.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 402749,
+      "slug": "animal-aid-of-cortland-402749",
+      "name": "Animal Aid of Cortland",
+      "address": "2 Forrest Avenue, Cortland, NY 13045",
+      "phone": "607-753-1319",
+      "image": "./img/shelter/office/402749.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-aid-of-cortland-402749/",
+      "imageUrl": "https://cdn.findpawpal.com/office/402749.jpg?f=webp&w=730"
+    }
+  ]
+}

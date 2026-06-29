@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T18:39:17.492459+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "cumming",
+    "name": "Cumming",
+    "label": "Cumming, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/cumming/",
+  "offices": [
+    {
+      "officeId": 133786,
+      "slug": "the-horse-rescue-relief-and-retirement-fund-inc-133786",
+      "name": "The Horse Rescue, Relief And Retirement Fund, Inc.",
+      "address": "1768 Newt Green Road, Cumming, GA 30028",
+      "phone": "770-886-5419",
+      "image": "./img/shelter/office/133786.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-horse-rescue-relief-and-retirement-fund-inc-133786/",
+      "imageUrl": "https://cdn.findpawpal.com/office/133786.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 133811,
+      "slug": "humane-society-of-forsyth-county-133811",
+      "name": "Humane Society of Forsyth County",
+      "address": "PO Box 337, Cumming, GA 30028",
+      "phone": "770-889-1356",
+      "image": "./img/shelter/office/133811.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-forsyth-county-133811/",
+      "imageUrl": "https://cdn.findpawpal.com/office/133811.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 148870,
+      "slug": "labrador-friends-of-the-south-inc-148870",
+      "name": "Labrador Friends of the South, Inc.",
+      "address": "PO Box 933, Cumming, GA 30028",
+      "phone": "",
+      "image": "./img/shelter/office/148870.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/labrador-friends-of-the-south-inc-148870/",
+      "imageUrl": "https://cdn.findpawpal.com/office/148870.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 160403,
+      "slug": "forsyth-county-animal-shelter-160403",
+      "name": "Forsyth County Animal Shelter",
+      "address": "1904 Old Atlanta Road, Cumming, GA 30041",
+      "phone": "770-888-2500",
+      "image": "./img/shelter/office/160403.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/forsyth-county-animal-shelter-160403/",
+      "imageUrl": "https://cdn.findpawpal.com/office/160403.jpg?f=webp&w=730"
+    }
+  ]
+}

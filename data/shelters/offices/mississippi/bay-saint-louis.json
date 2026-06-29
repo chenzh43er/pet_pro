@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:15:55.441535+00:00",
+  "state": {
+    "slug": "mississippi",
+    "name": "Mississippi"
+  },
+  "city": {
+    "slug": "bay-saint-louis",
+    "name": "Bay Saint Louis",
+    "label": "Bay Saint Louis, MS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/mississippi/bay-saint-louis/",
+  "offices": [
+    {
+      "officeId": 103323,
+      "slug": "friends-of-the-animal-shelter-in-hancock-county-103323",
+      "name": "Friends of the Animal Shelter In Hancock County",
+      "address": "PO Box 2274, Bay Saint Louis, MS 39521",
+      "phone": "228-216-7387",
+      "image": "./img/shelter/office/103323.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-the-animal-shelter-in-hancock-county-103323/",
+      "imageUrl": "https://cdn.findpawpal.com/office/103323.jpg?f=webp&w=730"
+    }
+  ]
+}

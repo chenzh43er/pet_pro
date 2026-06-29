@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:42:32.523724+00:00",
+  "state": {
+    "slug": "north-dakota",
+    "name": "North Dakota"
+  },
+  "city": {
+    "slug": "valley",
+    "name": "Valley",
+    "label": "Valley, ND"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-dakota/valley/",
+  "offices": [
+    {
+      "officeId": 536788,
+      "slug": "sheyenne-valley-friends-of-animals-536788",
+      "name": "Sheyenne Valley Friends of Animals",
+      "address": "PO Box 432, Valley, ND 58072",
+      "phone": "701-840-5047",
+      "image": "https://cdn.findpawpal.com/office/536788.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/sheyenne-valley-friends-of-animals-536788/"
+    }
+  ]
+}

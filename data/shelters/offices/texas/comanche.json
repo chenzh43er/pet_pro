@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:03:58.224617+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "comanche",
+    "name": "Comanche",
+    "label": "Comanche, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/comanche/",
+  "offices": [
+    {
+      "officeId": 674571,
+      "slug": "comanche-animal-shelter-674571",
+      "name": "Comanche Animal Shelter",
+      "address": "800 East Fleming Avenue, Comanche, TX 76442",
+      "phone": "325-356-5685",
+      "image": "https://cdn.findpawpal.com/office/674571.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/comanche-animal-shelter-674571/"
+    }
+  ]
+}

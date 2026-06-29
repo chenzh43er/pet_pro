@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:34:16.177584+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "jamestown",
+    "name": "Jamestown",
+    "label": "Jamestown, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/jamestown/",
+  "offices": [
+    {
+      "officeId": 398802,
+      "slug": "chautauqua-county-humane-society-398802",
+      "name": "Chautauqua County Humane Society",
+      "address": "2825 Strunk Road, Jamestown, NY 14701",
+      "phone": "716-664-2209",
+      "image": "./img/shelter/office/398802.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/chautauqua-county-humane-society-398802/",
+      "imageUrl": "https://cdn.findpawpal.com/office/398802.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 401010,
+      "slug": "jamestown-animal-control-401010",
+      "name": "Jamestown Animal Control",
+      "address": "200 East 3rd Street, Jamestown, NY 14701",
+      "phone": "716-483-7532",
+      "image": "./img/shelter/office/401010.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/jamestown-animal-control-401010/",
+      "imageUrl": "https://cdn.findpawpal.com/office/401010.jpg?f=webp&w=730"
+    }
+  ]
+}

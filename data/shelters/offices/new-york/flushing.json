@@ -1,0 +1,43 @@
+{
+  "fetchedAt": "2026-06-27T19:33:27.333150+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "flushing",
+    "name": "Flushing",
+    "label": "Flushing, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/flushing/",
+  "offices": [
+    {
+      "officeId": 316116,
+      "slug": "loving-touch-inc-316116",
+      "name": "Loving Touch, Inc.",
+      "address": "PO Box 650404, Flushing, NY 11365",
+      "phone": "718-224-8629",
+      "image": "https://cdn.findpawpal.com/office/316116.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/loving-touch-inc-316116/"
+    },
+    {
+      "officeId": 334386,
+      "slug": "citizens-committee-for-animal-rights-334386",
+      "name": "Citizens Committee for Animal Rights",
+      "address": "PO Box 720483, Flushing, NY 11372",
+      "phone": "718-426-1896",
+      "image": "https://cdn.findpawpal.com/office/334386.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/citizens-committee-for-animal-rights-334386/"
+    },
+    {
+      "officeId": 335307,
+      "slug": "flushing-animal-control-335307",
+      "name": "Flushing Animal Control",
+      "address": "3522 Prince Street, Flushing, NY 11354",
+      "phone": "718-886-3683",
+      "image": "./img/shelter/office/335307.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/flushing-animal-control-335307/",
+      "imageUrl": "https://cdn.findpawpal.com/office/335307.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:45:46.751055+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "mount-vernon",
+    "name": "Mount Vernon",
+    "label": "Mount Vernon, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/mount-vernon/",
+  "offices": [
+    {
+      "officeId": 444147,
+      "slug": "knox-county-humane-society-444147",
+      "name": "Knox County Humane Society",
+      "address": "400 Columbus Road, Mount Vernon, OH 43050",
+      "phone": "740-392-2287",
+      "image": "./img/shelter/office/444147.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/knox-county-humane-society-444147/",
+      "imageUrl": "https://cdn.findpawpal.com/office/444147.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 587388,
+      "slug": "knox-county-dog-warden-587388",
+      "name": "Knox County Dog Warden",
+      "address": "350 Columbus Road, Mount Vernon, OH 43050",
+      "phone": "740-393-6713",
+      "image": "./img/shelter/office/587388.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/knox-county-dog-warden-587388/",
+      "imageUrl": "https://cdn.findpawpal.com/office/587388.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:51:42.605719+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "poland",
+    "name": "Poland",
+    "label": "Poland, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/poland/",
+  "offices": [
+    {
+      "officeId": 241004,
+      "slug": "greyhound-rescue-and-adoption-241004",
+      "name": "Greyhound Rescue & Adoption",
+      "address": "G Road, Poland, IN 47868",
+      "phone": "765-653-5690",
+      "image": "https://cdn.findpawpal.com/office/241004.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/greyhound-rescue-and-adoption-241004/"
+    }
+  ]
+}

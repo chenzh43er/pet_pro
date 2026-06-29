@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:18:21.777633+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "nine-mile-falls",
+    "name": "Nine Mile Falls",
+    "label": "Nine Mile Falls, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/nine-mile-falls/",
+  "offices": [
+    {
+      "officeId": 614557,
+      "slug": "washington-akita-group-614557",
+      "name": "Washington Akita Group",
+      "address": "15816 North Katie Road, Nine Mile Falls, WA 99026",
+      "phone": "509-467-0460",
+      "image": "https://cdn.findpawpal.com/office/614557.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/washington-akita-group-614557/"
+    }
+  ]
+}

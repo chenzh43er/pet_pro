@@ -1,0 +1,42 @@
+{
+  "fetchedAt": "2026-06-27T18:25:42.308887+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "encinitas",
+    "name": "Encinitas",
+    "label": "Encinitas, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/encinitas/",
+  "offices": [
+    {
+      "slug": "san-diego-animal-advocate-365299",
+      "name": "San Diego Animal Advocate",
+      "address": "224 Countryhaven Road, Encinitas, CA 92024",
+      "phone": "760-632-8638",
+      "image": "./img/shelter/office/365299.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/san-diego-animal-advocate-365299/",
+      "imageUrl": "https://cdn.findpawpal.com/office/365299.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "operation-k9-rescue-center-382168",
+      "name": "Operation K9 Rescue Center",
+      "address": "PO Box 235207, Encinitas, CA 92023",
+      "phone": "760-497-7764",
+      "image": "./img/shelter/office/382168.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/operation-k9-rescue-center-382168/",
+      "imageUrl": "https://cdn.findpawpal.com/office/382168.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rancho-coastal-humane-society-533277",
+      "name": "Rancho Coastal Humane Society",
+      "address": "389 Requeza Street, Encinitas, CA 92024",
+      "phone": "760-753-6413",
+      "image": "./img/shelter/office/533277.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rancho-coastal-humane-society-533277/",
+      "imageUrl": "https://cdn.findpawpal.com/office/533277.jpg?f=webp&w=730"
+    }
+  ]
+}

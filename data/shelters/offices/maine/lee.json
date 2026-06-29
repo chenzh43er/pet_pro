@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:01:47.318398+00:00",
+  "state": {
+    "slug": "maine",
+    "name": "Maine"
+  },
+  "city": {
+    "slug": "lee",
+    "name": "Lee",
+    "label": "Lee, ME"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maine/lee/",
+  "offices": [
+    {
+      "officeId": 338594,
+      "slug": "4r-animal-shelter-338594",
+      "name": "4r Animal Shelter",
+      "address": "202 Thomas Hill Road, Lee, ME 04455",
+      "phone": "207-738-2248",
+      "image": "https://cdn.findpawpal.com/office/338594.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/4r-animal-shelter-338594/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:54:56.216499+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "shrewsbury",
+    "name": "Shrewsbury",
+    "label": "Shrewsbury, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/shrewsbury/",
+  "offices": [
+    {
+      "officeId": 452868,
+      "slug": "diamond-dog-rescue-452868",
+      "name": "Diamond Dog Rescue",
+      "address": "23 Kratz Road, Shrewsbury, PA 17361",
+      "phone": "717-227-9674",
+      "image": "./img/shelter/office/452868.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/diamond-dog-rescue-452868/",
+      "imageUrl": "https://cdn.findpawpal.com/office/452868.jpg?f=webp&w=730"
+    }
+  ]
+}

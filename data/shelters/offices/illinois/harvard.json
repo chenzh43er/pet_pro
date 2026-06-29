@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:45:56.300241+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "harvard",
+    "name": "Harvard",
+    "label": "Harvard, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/harvard/",
+  "offices": [
+    {
+      "officeId": 412728,
+      "slug": "illinois-cocker-rescue-412728",
+      "name": "Illinois Cocker Rescue",
+      "address": "PO Box 384, Harvard, IL 60033",
+      "phone": "815-943-4585",
+      "image": "./img/shelter/office/412728.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/illinois-cocker-rescue-412728/",
+      "imageUrl": "https://cdn.findpawpal.com/office/412728.jpg?f=webp&w=730"
+    }
+  ]
+}

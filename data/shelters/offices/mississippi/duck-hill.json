@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:16:17.888129+00:00",
+  "state": {
+    "slug": "mississippi",
+    "name": "Mississippi"
+  },
+  "city": {
+    "slug": "duck-hill",
+    "name": "Duck Hill",
+    "label": "Duck Hill, MS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/mississippi/duck-hill/",
+  "offices": [
+    {
+      "officeId": 103258,
+      "slug": "project-hope-sanctuary-103258",
+      "name": "Project Hope Sanctuary",
+      "address": "PO Box 114, Duck Hill, MS 38925",
+      "phone": "662-237-0233",
+      "image": "https://cdn.findpawpal.com/office/103258.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/project-hope-sanctuary-103258/"
+    }
+  ]
+}

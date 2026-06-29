@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:52:45.868584+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "elizabeth",
+    "name": "Elizabeth",
+    "label": "Elizabeth, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/elizabeth/",
+  "offices": [
+    {
+      "officeId": 475077,
+      "slug": "fallen-timber-shelter-475077",
+      "name": "Fallen Timber Shelter",
+      "address": "1680 Fallen Timber Road, Elizabeth, PA 15037",
+      "phone": "412-751-2010",
+      "image": "./img/shelter/office/475077.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fallen-timber-shelter-475077/",
+      "imageUrl": "https://cdn.findpawpal.com/office/475077.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:32:25.707489+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "center-moriches",
+    "name": "Center Moriches",
+    "label": "Center Moriches, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/center-moriches/",
+  "offices": [
+    {
+      "officeId": 342117,
+      "slug": "katies-critters-342117",
+      "name": "Katie's Critters",
+      "address": "348 South Service Road, Center Moriches, NY 11934",
+      "phone": "631-553-0218",
+      "image": "./img/shelter/office/342117.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/katies-critters-342117/",
+      "imageUrl": "https://cdn.findpawpal.com/office/342117.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "fetchedAt": "2026-06-27T19:39:12.793374+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "fayetteville",
+    "name": "Fayetteville",
+    "label": "Fayetteville, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/fayetteville/",
+  "offices": [
+    {
+      "officeId": 214310,
+      "slug": "cumberland-county-animal-haven-214310",
+      "name": "Cumberland County Animal Haven",
+      "address": "PO Box 58195, Fayetteville, NC 28305",
+      "phone": "910-864-9040",
+      "image": "./img/shelter/office/214310.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cumberland-county-animal-haven-214310/",
+      "imageUrl": "https://cdn.findpawpal.com/office/214310.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 215199,
+      "slug": "fayette-county-animal-control-215199",
+      "name": "Fayette County Animal Control",
+      "address": "710 Southview Circle, Fayetteville, NC 28311",
+      "phone": "910-391-1246",
+      "image": "./img/shelter/office/215199.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fayette-county-animal-control-215199/",
+      "imageUrl": "https://cdn.findpawpal.com/office/215199.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 215214,
+      "slug": "fayetteville-animal-control-215214",
+      "name": "Fayetteville Animal Control",
+      "address": "3927 Bragg Boulevard, Fayetteville, NC 28303",
+      "phone": "910-864-9040",
+      "image": "./img/shelter/office/215214.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fayetteville-animal-control-215214/",
+      "imageUrl": "https://cdn.findpawpal.com/office/215214.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 227533,
+      "slug": "cumberland-county-animal-control-227533",
+      "name": "Cumberland County Animal Control",
+      "address": "555 North Eastern Boulevard, Fayetteville, NC 28301",
+      "phone": "910-321-6851",
+      "image": "./img/shelter/office/227533.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cumberland-county-animal-control-227533/",
+      "imageUrl": "https://cdn.findpawpal.com/office/227533.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 228977,
+      "slug": "cumberland-county-animal-control-228977",
+      "name": "Cumberland County Animal Control",
+      "address": "4704 Corporation Drive, Fayetteville, NC 28306",
+      "phone": "910-321-6852",
+      "image": "./img/shelter/office/228977.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cumberland-county-animal-control-228977/",
+      "imageUrl": "https://cdn.findpawpal.com/office/228977.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 240012,
+      "slug": "humane-society-of-eastern-nc-240012",
+      "name": "Humane Society of Eastern Nc",
+      "address": "PO Box 9786, Fayetteville, NC 28311",
+      "phone": "910-482-0822",
+      "image": "./img/shelter/office/240012.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-eastern-nc-240012/",
+      "imageUrl": "https://cdn.findpawpal.com/office/240012.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 258532,
+      "slug": "rabbit-rescue-258532",
+      "name": "Rabbit Rescue",
+      "address": "2033 Mango Circle, Fayetteville, NC 28304",
+      "phone": "706-575-6955",
+      "image": "./img/shelter/office/258532.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rabbit-rescue-258532/",
+      "imageUrl": "https://cdn.findpawpal.com/office/258532.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 258574,
+      "slug": "spca-of-cumberland-county-258574",
+      "name": "SPCA of Cumberland County",
+      "address": "PO Box 35754, Fayetteville, NC 28303",
+      "phone": "910-860-1177",
+      "image": "./img/shelter/office/258574.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/spca-of-cumberland-county-258574/",
+      "imageUrl": "https://cdn.findpawpal.com/office/258574.jpg?f=webp&w=730"
+    }
+  ]
+}

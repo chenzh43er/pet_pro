@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:47:21.765457+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "valley-view",
+    "name": "Valley View",
+    "label": "Valley View, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/valley-view/",
+  "offices": [
+    {
+      "officeId": 467845,
+      "slug": "cuyahoga-county-animal-shelter-467845",
+      "name": "Cuyahoga County Animal Shelter",
+      "address": "9500 Sweet Valley Drive, Valley View, OH 44125",
+      "phone": "216-525-7877",
+      "image": "./img/shelter/office/467845.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cuyahoga-county-animal-shelter-467845/",
+      "imageUrl": "https://cdn.findpawpal.com/office/467845.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 588106,
+      "slug": "cuyahoga-county-animal-shelter-588106",
+      "name": "Cuyahoga County Animal Shelter",
+      "address": "9500 Sweet Valley Drive, Valley View, OH 44125",
+      "phone": "216-525-7877",
+      "image": "./img/shelter/office/588106.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cuyahoga-county-animal-shelter-588106/",
+      "imageUrl": "https://cdn.findpawpal.com/office/588106.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:23:11.725710+00:00",
+  "state": {
+    "slug": "nevada",
+    "name": "Nevada"
+  },
+  "city": {
+    "slug": "fallon",
+    "name": "Fallon",
+    "label": "Fallon, NV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nevada/fallon/",
+  "offices": [
+    {
+      "officeId": 7190,
+      "slug": "wind-willow-ferret-rescue-7190",
+      "name": "Wind Willow Ferret Rescue",
+      "address": "1274 Robin Drive, Fallon, NV 89406",
+      "phone": "",
+      "image": "./img/shelter/office/7190.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wind-willow-ferret-rescue-7190/",
+      "imageUrl": "https://cdn.findpawpal.com/office/7190.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 7458,
+      "slug": "fallon-animal-shelter-7458",
+      "name": "Fallon Animal Shelter",
+      "address": "1255 Airport Road, Fallon, NV 89406",
+      "phone": "775-423-2282",
+      "image": "./img/shelter/office/7458.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fallon-animal-shelter-7458/",
+      "imageUrl": "https://cdn.findpawpal.com/office/7458.jpg?f=webp&w=730"
+    }
+  ]
+}

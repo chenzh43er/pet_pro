@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:49:19.543771+00:00",
+  "state": {
+    "slug": "oklahoma",
+    "name": "Oklahoma"
+  },
+  "city": {
+    "slug": "pawhuska",
+    "name": "Pawhuska",
+    "label": "Pawhuska, OK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oklahoma/pawhuska/",
+  "offices": [
+    {
+      "officeId": 518069,
+      "slug": "hughs-pet-adoption-518069",
+      "name": "Hughs Pet Adoption",
+      "address": "306 East 14th Street, Pawhuska, OK 74056",
+      "phone": "918-766-5019",
+      "image": "./img/shelter/office/518069.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hughs-pet-adoption-518069/",
+      "imageUrl": "https://cdn.findpawpal.com/office/518069.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 646926,
+      "slug": "pawhuska-animal-control-646926",
+      "name": "Pawhuska Animal Control",
+      "address": "128 West Main Street, Pawhuska, OK 74056",
+      "phone": "918-287-4546",
+      "image": "./img/shelter/office/646926.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pawhuska-animal-control-646926/",
+      "imageUrl": "https://cdn.findpawpal.com/office/646926.jpg?f=webp&w=730"
+    }
+  ]
+}

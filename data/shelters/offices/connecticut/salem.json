@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:37:13.672348+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "salem",
+    "name": "Salem",
+    "label": "Salem, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/salem/",
+  "offices": [
+    {
+      "officeId": 148641,
+      "slug": "salem-town-animal-control-148641",
+      "name": "Salem Town Animal Control",
+      "address": "264 Hartford Road, Salem, CT 06420",
+      "phone": "860-859-1881",
+      "image": "./img/shelter/office/148641.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/salem-town-animal-control-148641/",
+      "imageUrl": "https://cdn.findpawpal.com/office/148641.jpg?f=webp&w=730"
+    }
+  ]
+}

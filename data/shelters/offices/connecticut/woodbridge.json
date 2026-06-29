@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:37:56.740467+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "woodbridge",
+    "name": "Woodbridge",
+    "label": "Woodbridge, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/woodbridge/",
+  "offices": [
+    {
+      "officeId": 158519,
+      "slug": "district-animal-control-158519",
+      "name": "District Animal Control",
+      "address": "135 Bradley Road, Woodbridge, CT 06525",
+      "phone": "203-389-5991",
+      "image": "./img/shelter/office/158519.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/district-animal-control-158519/",
+      "imageUrl": "https://cdn.findpawpal.com/office/158519.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 161236,
+      "slug": "woodbridge-animal-control-161236",
+      "name": "Woodbridge Animal Control",
+      "address": "135 Bradley Road, Woodbridge, CT 06525",
+      "phone": "203-389-5991",
+      "image": "./img/shelter/office/161236.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/woodbridge-animal-control-161236/",
+      "imageUrl": "https://cdn.findpawpal.com/office/161236.jpg?f=webp&w=730"
+    }
+  ]
+}

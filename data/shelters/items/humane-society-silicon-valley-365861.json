@@ -1,0 +1,21 @@
+{
+  "officeId": 365861,
+  "slug": "humane-society-silicon-valley-365861",
+  "name": "Humane Society Silicon Valley",
+  "address": "901 Ames Avenue, Milpitas, CA 95035",
+  "street": "901 Ames Avenue",
+  "addressCity": "Milpitas",
+  "stateCode": "CA",
+  "zip": "95035",
+  "phone": "408-262-2133",
+  "image": "./img/shelter/office/365861.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/humane-society-silicon-valley-365861/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "milpitas",
+  "cityName": "Milpitas",
+  "cityLabel": "Milpitas, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/milpitas/",
+  "fetchedAt": "2026-06-27T18:27:55.627770+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/365861.jpg?f=webp&w=730"
+}

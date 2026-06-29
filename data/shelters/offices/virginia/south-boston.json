@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T20:16:08.858294+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "south-boston",
+    "name": "South Boston",
+    "label": "South Boston, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/south-boston/",
+  "offices": [
+    {
+      "officeId": 529511,
+      "slug": "halifax-county-animal-control-529511",
+      "name": "Halifax County Animal Control",
+      "address": "1040 Farm Road, South Boston, VA 24592",
+      "phone": "434-572-4292",
+      "image": "./img/shelter/office/529511.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/halifax-county-animal-control-529511/",
+      "imageUrl": "https://cdn.findpawpal.com/office/529511.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 578898,
+      "slug": "south-boston-animal-control-578898",
+      "name": "South Boston Animal Control",
+      "address": "640 Hamilton Boulevard, South Boston, VA 24592",
+      "phone": "",
+      "image": "./img/shelter/office/578898.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/south-boston-animal-control-578898/",
+      "imageUrl": "https://cdn.findpawpal.com/office/578898.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 644543,
+      "slug": "halifax-county-humane-society-644543",
+      "name": "Halifax County Humane Society",
+      "address": "PO Box 969, South Boston, VA 24592",
+      "phone": "434-575-1473",
+      "image": "https://cdn.findpawpal.com/office/644543.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/halifax-county-humane-society-644543/"
+    }
+  ]
+}

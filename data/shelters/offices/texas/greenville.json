@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T20:05:28.995363+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "greenville",
+    "name": "Greenville",
+    "label": "Greenville, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/greenville/",
+  "offices": [
+    {
+      "officeId": 518637,
+      "slug": "city-of-greenville-animal-control-518637",
+      "name": "CIty of Greenville Animal Control",
+      "address": "5800 Joe Ramsey Boulevard North, Greenville, TX 75402",
+      "phone": "903-457-2990",
+      "image": "./img/shelter/office/518637.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/city-of-greenville-animal-control-518637/",
+      "imageUrl": "https://cdn.findpawpal.com/office/518637.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 524763,
+      "slug": "hunt-county-humane-society-524763",
+      "name": "Hunt County Humane Society",
+      "address": "4000 Spencer Street, Greenville, TX 75401",
+      "phone": "903-450-4680",
+      "image": "./img/shelter/office/524763.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hunt-county-humane-society-524763/",
+      "imageUrl": "https://cdn.findpawpal.com/office/524763.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674401,
+      "slug": "yellow-rose-pet-rescue-674401",
+      "name": "Yellow Rose Pet Rescue",
+      "address": "4415 County Road 1152, Greenville, TX 75401",
+      "phone": "903-259-4678",
+      "image": "./img/shelter/office/674401.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/yellow-rose-pet-rescue-674401/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674401.jpg?f=webp&w=730"
+    }
+  ]
+}

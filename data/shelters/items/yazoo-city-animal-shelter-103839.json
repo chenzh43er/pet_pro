@@ -1,0 +1,21 @@
+{
+  "officeId": 103839,
+  "slug": "yazoo-city-animal-shelter-103839",
+  "name": "Yazoo City Animal Shelter",
+  "address": "460 West Bridge Street, Yazoo, MS 39194",
+  "street": "460 West Bridge Street",
+  "addressCity": "Yazoo",
+  "stateCode": "MS",
+  "zip": "39194",
+  "phone": "662-746-5121",
+  "image": "./img/shelter/office/103839.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/yazoo-city-animal-shelter-103839/",
+  "stateSlug": "mississippi",
+  "stateName": "Mississippi",
+  "citySlug": "yazoo",
+  "cityName": "Yazoo",
+  "cityLabel": "Yazoo, MS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/mississippi/yazoo/",
+  "fetchedAt": "2026-06-27T19:17:25.900073+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/103839.jpg?f=webp&w=730"
+}

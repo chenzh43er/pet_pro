@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:43:12.260977+00:00",
+  "state": {
+    "slug": "idaho",
+    "name": "Idaho"
+  },
+  "city": {
+    "slug": "ketchum",
+    "name": "Ketchum",
+    "label": "Ketchum, ID"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/idaho/ketchum/",
+  "offices": [
+    {
+      "officeId": 340502,
+      "slug": "ketchum-animal-control-340502",
+      "name": "Ketchum Animal Control",
+      "address": "480 E Ave N, Ketchum, ID 83340",
+      "phone": "208-726-7818",
+      "image": "./img/shelter/office/340502.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ketchum-animal-control-340502/",
+      "imageUrl": "https://cdn.findpawpal.com/office/340502.jpg?f=webp&w=730"
+    }
+  ]
+}

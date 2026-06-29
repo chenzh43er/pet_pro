@@ -1,0 +1,86 @@
+{
+  "slug": "nourishing-our-cute-companions-a-mindful-guide-to-feed-dogs",
+  "path": "/pet-feeding/nourishing-our-cute-companions-a-mindful-guide-to-feed-dogs/",
+  "category": "pet-feeding",
+  "categoryLabel": "Pet Feeding",
+  "title": "Nourishing Our Cute Companions: A Mindful Guide To Feed Dogs",
+  "description": "Feeding your dog is an important part of building a strong bond with them. However, it's crucial to understand that each dog is unique and has different dietary needs, such as portion size, frequency of meals, and optimal feeding times. To ensure the best feeding schedule for your dog, keep in mind the advice below.",
+  "listImage": "./img/blog/list/nourishing-our-cute-companions-a-mindful-guide-to-feed-dogs.webp",
+  "sections": [
+    {
+      "id": "long-list-1",
+      "title": "How often should we feed our dogs?",
+      "paragraphs": [
+        "Feeding your dog in a healthy manner has various options to consider. It's worth exploring different feeding styles to find the one that suits both your dog and your family best. There are generally 4 feeding frequencies below:"
+      ],
+      "image": "./img/blog/content/nourishing-our-cute-companions-a-mindful-guide-to-feed-dogs-1.webp"
+    },
+    {
+      "id": "long-list-2",
+      "title": "How much food should we give our dogs for each meal?",
+      "paragraphs": [
+        "The amount of food your dog needs depends on factors such as size, breed, age, and exercise level, as well as the type of food. Commercial dog food bags usually have a label with recommended feeding amounts based on your dog's size and weight. On average, most dogs require about 25 to 30 calories per pound per day to maintain their weight.",
+        "For a more precise approach, you can follow this two-step process:"
+      ],
+      "image": "./img/blog/content/nourishing-our-cute-companions-a-mindful-guide-to-feed-dogs-2.webp"
+    },
+    {
+      "id": "long-list-3",
+      "title": "Other Tips And Tricks For Feeding Dogs",
+      "paragraphs": [],
+      "image": "./img/blog/content/nourishing-our-cute-companions-a-mindful-guide-to-feed-dogs-3.webp"
+    },
+    {
+      "id": "long-list-4",
+      "title": "The Vital Role Of Owner Care In Pet Wellness",
+      "paragraphs": [
+        "Take into consideration whether your canine companion may be yearning for an abundance of affection and attention, rather than solely satiating their hunger. Tendering additional love and attention is a priceless, effortless endeavor that profoundly improves the well-being of your beloved furry friend.",
+        "For young pups, the companionship of their owner holds utmost significance. With a finite lifespan of merely a decade or so, their tender hearts yearn earnestly for your unwavering presence and boundless affection."
+      ],
+      "image": "./img/blog/content/nourishing-our-cute-companions-a-mindful-guide-to-feed-dogs-4.webp"
+    },
+    {
+      "id": "long-list-5",
+      "title": "Foods And Substances You Should Never Feed Your Dog",
+      "paragraphs": [],
+      "image": "./img/blog/content/nourishing-our-cute-companions-a-mindful-guide-to-feed-dogs-5.webp"
+    },
+    {
+      "id": "long-list-6",
+      "title": "Other Things To Avoid",
+      "paragraphs": [
+        "Sulphite preservatives in dog food may lead to thiamine (Vitamin B1) deficiency, resulting in severe neurological symptoms and potential fatality. To prevent this, it is advisable to steer clear of sausages, sausage meat, and cooked processed meats, as they often contain sulfite preservatives.",
+        "Additionally, certain pet food products like pet meat, pet mince, pet rolls, and bone items may also be treated with sulphite preservatives for freshness. If convenience dictates the necessity of relying on these food options, be sure to carefully scrutinize the labels and select only high-quality, natural products that are free from preservatives.",
+        "Hopefully, you now feel confident that you have all the information you need to properly feed your dog."
+      ],
+      "image": "./img/blog/content/nourishing-our-cute-companions-a-mindful-guide-to-feed-dogs-6.webp"
+    }
+  ],
+  "nav": [
+    {
+      "id": "long-list-1",
+      "label": "How often should we feed our dogs?"
+    },
+    {
+      "id": "long-list-2",
+      "label": "How much food should we give our dogs for each meal?"
+    },
+    {
+      "id": "long-list-3",
+      "label": "Other Tips And Tricks For Feeding Dogs"
+    },
+    {
+      "id": "long-list-4",
+      "label": "The Vital Role Of Owner Care In Pet Wellness"
+    },
+    {
+      "id": "long-list-5",
+      "label": "Foods And Substances You Should Never Feed Your Dog"
+    },
+    {
+      "id": "long-list-6",
+      "label": "Other Things To Avoid"
+    }
+  ],
+  "nextPath": "/pet-feeding/a-full-list-of-human-foods-dogs-can-and-cannot-eat/"
+}

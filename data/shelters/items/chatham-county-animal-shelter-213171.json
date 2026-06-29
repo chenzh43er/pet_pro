@@ -1,0 +1,21 @@
+{
+  "officeId": 213171,
+  "slug": "chatham-county-animal-shelter-213171",
+  "name": "Chatham County Animal Shelter",
+  "address": "725 County Landfill Road, Pittsboro, NC 27312",
+  "street": "725 County Landfill Road",
+  "addressCity": "Pittsboro",
+  "stateCode": "NC",
+  "zip": "27312",
+  "phone": "919-542-7203",
+  "image": "./img/shelter/office/213171.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/chatham-county-animal-shelter-213171/",
+  "stateSlug": "north-carolina",
+  "stateName": "North Carolina",
+  "citySlug": "pittsboro",
+  "cityName": "Pittsboro",
+  "cityLabel": "Pittsboro, NC",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/north-carolina/pittsboro/",
+  "fetchedAt": "2026-06-27T19:40:55.480771+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/213171.jpg?f=webp&w=730"
+}

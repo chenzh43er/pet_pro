@@ -1,0 +1,32 @@
+{
+  "fetchedAt": "2026-06-27T18:26:45.615651+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "joshua-tree",
+    "name": "Joshua Tree",
+    "label": "Joshua Tree, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/joshua-tree/",
+  "offices": [
+    {
+      "slug": "parrots-r-us-bird-rescue-sancturary-534598",
+      "name": "Parrots R Us Bird Rescue Sancturary",
+      "address": "7264 Chocco Road, Joshua Tree, CA 92252",
+      "phone": "760-665-5679",
+      "image": "https://cdn.findpawpal.com/office/534598.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/parrots-r-us-bird-rescue-sancturary-534598/"
+    },
+    {
+      "slug": "morongo-basin-humane-society-668173",
+      "name": "Morongo Basin Humane Society",
+      "address": "4646 Sunview Avenue, Joshua Tree, CA 92252",
+      "phone": "760-366-3786",
+      "image": "./img/shelter/office/668173.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/morongo-basin-humane-society-668173/",
+      "imageUrl": "https://cdn.findpawpal.com/office/668173.jpg?f=webp&w=730"
+    }
+  ]
+}

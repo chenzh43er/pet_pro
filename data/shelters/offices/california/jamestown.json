@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:26:44.163505+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "jamestown",
+    "name": "Jamestown",
+    "label": "Jamestown, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/jamestown/",
+  "offices": [
+    {
+      "officeId": 475830,
+      "slug": "humane-society-tuolumne-county-475830",
+      "name": "Humane Society-Tuolumne County",
+      "address": "10040 Victoria Way, Jamestown, CA 95327",
+      "phone": "209-984-5489",
+      "image": "./img/shelter/office/475830.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-tuolumne-county-475830/",
+      "imageUrl": "https://cdn.findpawpal.com/office/475830.jpg?f=webp&w=730"
+    }
+  ]
+}

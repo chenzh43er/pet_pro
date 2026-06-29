@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:21:14.168841+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "philippi",
+    "name": "Philippi",
+    "label": "Philippi, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/philippi/",
+  "offices": [
+    {
+      "officeId": 486781,
+      "slug": "animal-friends-of-barbour-county-486781",
+      "name": "Animal Friends of Barbour County",
+      "address": "645 Maple Avenue, Philippi, WV 26416",
+      "phone": "304-457-1567",
+      "image": "./img/shelter/office/486781.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-friends-of-barbour-county-486781/",
+      "imageUrl": "https://cdn.findpawpal.com/office/486781.jpg?f=webp&w=730"
+    }
+  ]
+}

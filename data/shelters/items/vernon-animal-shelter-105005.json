@@ -1,0 +1,21 @@
+{
+  "officeId": 105005,
+  "slug": "vernon-animal-shelter-105005",
+  "name": "Vernon Animal Shelter",
+  "address": "21 Church St, Vernon, NJ 07462",
+  "street": "21 Church St",
+  "addressCity": "Vernon",
+  "stateCode": "NJ",
+  "zip": "07462",
+  "phone": "973-764-7751",
+  "image": "./img/shelter/office/105005.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/vernon-animal-shelter-105005/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "vernon",
+  "cityName": "Vernon",
+  "cityLabel": "Vernon, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/vernon/",
+  "fetchedAt": "2026-06-27T19:29:21.480038+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/105005.jpg?f=webp&w=730"
+}

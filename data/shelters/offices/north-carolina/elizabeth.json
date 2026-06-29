@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:39:09.714878+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "elizabeth",
+    "name": "Elizabeth",
+    "label": "Elizabeth, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/elizabeth/",
+  "offices": [
+    {
+      "officeId": 214008,
+      "slug": "spca-of-northeastern-nc-214008",
+      "name": "SPCA of Northeastern NC",
+      "address": "Wilson Street, Elizabeth, NC 27909",
+      "phone": "252-338-5222",
+      "image": "https://cdn.findpawpal.com/office/214008.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/spca-of-northeastern-nc-214008/"
+    }
+  ]
+}

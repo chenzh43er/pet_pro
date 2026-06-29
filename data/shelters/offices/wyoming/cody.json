@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:25:00.094036+00:00",
+  "state": {
+    "slug": "wyoming",
+    "name": "Wyoming"
+  },
+  "city": {
+    "slug": "cody",
+    "name": "Cody",
+    "label": "Cody, WY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wyoming/cody/",
+  "offices": [
+    {
+      "officeId": 552678,
+      "slug": "animal-control-division-police-department-552678",
+      "name": "Animal Control Division Police Department",
+      "address": "1402 River View Drive, Cody, WY 82414",
+      "phone": "",
+      "image": "./img/shelter/office/552678.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-control-division-police-department-552678/",
+      "imageUrl": "https://cdn.findpawpal.com/office/552678.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 653550,
+      "slug": "humane-society-of-park-county-653550",
+      "name": "Humane Society of Park County",
+      "address": "5537 Greybull Highway, Cody, WY 82414",
+      "phone": "307-587-5110",
+      "image": "./img/shelter/office/653550.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-park-county-653550/",
+      "imageUrl": "https://cdn.findpawpal.com/office/653550.jpg?f=webp&w=730"
+    }
+  ]
+}

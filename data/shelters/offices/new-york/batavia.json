@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:31:45.189570+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "batavia",
+    "name": "Batavia",
+    "label": "Batavia, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/batavia/",
+  "offices": [
+    {
+      "officeId": 315475,
+      "slug": "humane-society-of-batavia-315475",
+      "name": "Humane Society of Batavia",
+      "address": "9 Vernon Avenue, Batavia, NY 14020",
+      "phone": "716-343-7722",
+      "image": "./img/shelter/office/315475.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-batavia-315475/",
+      "imageUrl": "https://cdn.findpawpal.com/office/315475.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 329634,
+      "slug": "genesee-county-animal-shelter-329634",
+      "name": "Genesee County Animal Shelter",
+      "address": "3841 West Main Street Road, Batavia, NY 14020",
+      "phone": "585-343-6410",
+      "image": "./img/shelter/office/329634.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/genesee-county-animal-shelter-329634/",
+      "imageUrl": "https://cdn.findpawpal.com/office/329634.jpg?f=webp&w=730"
+    }
+  ]
+}

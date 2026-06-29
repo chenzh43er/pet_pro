@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:07:51.496109+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "peabody",
+    "name": "Peabody",
+    "label": "Peabody, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/peabody/",
+  "offices": [
+    {
+      "officeId": 41326,
+      "slug": "peabody-animal-shelter-41326",
+      "name": "Peabody Animal Shelter",
+      "address": "24 Central Street, Peabody, MA 01960",
+      "phone": "978-531-7478",
+      "image": "./img/shelter/office/41326.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/peabody-animal-shelter-41326/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41326.jpg?f=webp&w=730"
+    }
+  ]
+}

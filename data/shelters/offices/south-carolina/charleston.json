@@ -1,0 +1,85 @@
+{
+  "fetchedAt": "2026-06-27T19:57:02.145972+00:00",
+  "state": {
+    "slug": "south-carolina",
+    "name": "South Carolina"
+  },
+  "city": {
+    "slug": "charleston",
+    "name": "Charleston",
+    "label": "Charleston, SC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-carolina/charleston/",
+  "offices": [
+    {
+      "officeId": 576124,
+      "slug": "low-country-golden-retriever-rescue-576124",
+      "name": "Low Country Golden Retriever Rescue",
+      "address": "PO Box 31256, Charleston, SC 29417",
+      "phone": "843-571-7177",
+      "image": "./img/shelter/office/576124.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/low-country-golden-retriever-rescue-576124/",
+      "imageUrl": "https://cdn.findpawpal.com/office/576124.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 582113,
+      "slug": "pet-helpers-adoption-center-and-spay-neuter-clinic-582113",
+      "name": "Pet Helpers Adoption Center and Spay/Neuter Clinic",
+      "address": "1447 Folly Road, Charleston, SC 29412",
+      "phone": "843-795-1110",
+      "image": "./img/shelter/office/582113.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-helpers-adoption-center-and-spay-neuter-clinic-582113/",
+      "imageUrl": "https://cdn.findpawpal.com/office/582113.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 599463,
+      "slug": "cat-rescue-inc-599463",
+      "name": "Cat Rescue, Inc.",
+      "address": "1156 Shoreham Road, Charleston, SC 29412",
+      "phone": "843-762-0711",
+      "image": "./img/shelter/office/599463.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cat-rescue-inc-599463/",
+      "imageUrl": "https://cdn.findpawpal.com/office/599463.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 651475,
+      "slug": "wild-heirlabrador-rescue-651475",
+      "name": "Wild Heirlabrador Rescue",
+      "address": "PO Box 81052, Charleston, SC 29416",
+      "phone": "",
+      "image": "./img/shelter/office/651475.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wild-heirlabrador-rescue-651475/",
+      "imageUrl": "https://cdn.findpawpal.com/office/651475.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 653358,
+      "slug": "carolina-basset-hound-rescue-653358",
+      "name": "Carolina Basset Hound Rescue",
+      "address": "PO Box 80082, Charleston, SC 29416",
+      "phone": "843-766-8838",
+      "image": "./img/shelter/office/653358.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/carolina-basset-hound-rescue-653358/",
+      "imageUrl": "https://cdn.findpawpal.com/office/653358.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 653359,
+      "slug": "lowcountry-pit-bull-rescue-653359",
+      "name": "Lowcountry Pit Bull Rescue",
+      "address": "PO Box 31364, Charleston, SC 29417",
+      "phone": "843-834-4312",
+      "image": "./img/shelter/office/653359.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lowcountry-pit-bull-rescue-653359/",
+      "imageUrl": "https://cdn.findpawpal.com/office/653359.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 709569,
+      "slug": "charleston-animal-control-709569",
+      "name": "Charleston Animal Control",
+      "address": "180 Lockwood Drive, Charleston, SC 29403",
+      "phone": "843-720-3915",
+      "image": "./img/shelter/office/709569.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/charleston-animal-control-709569/",
+      "imageUrl": "https://cdn.findpawpal.com/office/709569.jpg?f=webp&w=730"
+    }
+  ]
+}

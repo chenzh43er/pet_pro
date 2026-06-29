@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:39:05.267307+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "east-bend",
+    "name": "East Bend",
+    "label": "East Bend, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/east-bend/",
+  "offices": [
+    {
+      "officeId": 213789,
+      "slug": "furbabies-rescue-and-adoption-213789",
+      "name": "Furbabies Rescue & Adoption",
+      "address": "4417 Lineberry Drive, East Bend, NC 27018",
+      "phone": "336-699-4732",
+      "image": "https://cdn.findpawpal.com/office/213789.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/furbabies-rescue-and-adoption-213789/"
+    }
+  ]
+}

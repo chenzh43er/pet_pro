@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:26:00.413365+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "essex-fells",
+    "name": "Essex Fells",
+    "label": "Essex Fells, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/essex-fells/",
+  "offices": [
+    {
+      "officeId": 95732,
+      "slug": "essex-fells-animal-impound-95732",
+      "name": "Essex Fells Animal Impound",
+      "address": "307 Runnymede Road, Essex Fells, NJ 07021",
+      "phone": "973-228-8583",
+      "image": "https://cdn.findpawpal.com/office/95732.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/essex-fells-animal-impound-95732/"
+    }
+  ]
+}

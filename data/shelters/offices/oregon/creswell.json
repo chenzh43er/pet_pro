@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:50:22.532327+00:00",
+  "state": {
+    "slug": "oregon",
+    "name": "Oregon"
+  },
+  "city": {
+    "slug": "creswell",
+    "name": "Creswell",
+    "label": "Creswell, OR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oregon/creswell/",
+  "offices": [
+    {
+      "officeId": 604309,
+      "slug": "maple-meadows-youth-ranch-604309",
+      "name": "Maple Meadows Youth Ranch",
+      "address": "33447 Ricketts Road, Creswell, OR 97426",
+      "phone": "541-912-7045",
+      "image": "https://cdn.findpawpal.com/office/604309.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/maple-meadows-youth-ranch-604309/"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:31:46.654427+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "bath",
+    "name": "Bath",
+    "label": "Bath, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/bath/",
+  "offices": [
+    {
+      "officeId": 316418,
+      "slug": "finger-lakes-spca-316418",
+      "name": "Finger Lakes SPCA",
+      "address": "7315 Highway 54, Bath, NY 14810",
+      "phone": "607-776-3039",
+      "image": "https://cdn.findpawpal.com/office/316418.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/finger-lakes-spca-316418/"
+    }
+  ]
+}

@@ -1,0 +1,699 @@
+{
+  "stateSlug": "kansas",
+  "count": 99,
+  "shelters": [
+    {
+      "slug": "anthony-animal-shelter-5162",
+      "name": "Anthony Animal Shelter",
+      "address": "PO Box 504, Anthony, KS 67003",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/5162.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "arkansas-city-animal-control-5902",
+      "name": "Arkansas City Animal Control",
+      "address": "1603 South M Street, Arkansas, KS 67005",
+      "phone": "620-441-4448",
+      "image": "https://cdn.findpawpal.com/office/5902.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "arma-animal-shelter-5072",
+      "name": "Arma Animal Shelter",
+      "address": "PO Box 829, Arma, KS 66712",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/5072.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-atchison-5949",
+      "name": "Humane Society of Atchison",
+      "address": "100 North 21st Street, Atchison, KS 66002",
+      "phone": "913-367-3647",
+      "image": "https://cdn.findpawpal.com/office/5949.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "second-chance-animal-refuge-society-5443",
+      "name": "Second Chance Animal Refuge Society",
+      "address": "PO Box 22, Auburn, KS 66402",
+      "phone": "785-256-2976",
+      "image": "https://cdn.findpawpal.com/office/5443.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "augusta-animal-control-5918",
+      "name": "Augusta Animal Control",
+      "address": "2100 Ohio Street, Augusta, KS 67010",
+      "phone": "316-775-4500",
+      "image": "https://cdn.findpawpal.com/office/5918.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "burlington-animal-shelter-5038",
+      "name": "Burlington Animal Shelter",
+      "address": "PO Box 207, Burlington, KS 66839",
+      "phone": "620-364-8785",
+      "image": "https://cdn.findpawpal.com/office/5038.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "castaways-animal-shelter-sanctuary-ltd-5321",
+      "name": "Castaways Animal Shelter Sanctuary, Ltd",
+      "address": "PO Box 313, Chanute, KS 66720",
+      "phone": "620-432-3922",
+      "image": "https://cdn.findpawpal.com/office/5321.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chanute-animal-control-5896",
+      "name": "Chanute Animal Control",
+      "address": "101 South Lincoln Avenue, Chanute, KS 66720",
+      "phone": "620-433-7559",
+      "image": "https://cdn.findpawpal.com/office/5896.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chanute-humane-society-5328",
+      "name": "Chanute Humane Society",
+      "address": "PO Box 255, Chanute, KS 66720",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/5328.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "k-9-karma-animal-advocates-inc-5610",
+      "name": "K-9 Karma Animal Advocates Inc.",
+      "address": "32105 West 31st Street South, Cheney, KS 67025",
+      "phone": "316-531-2267",
+      "image": "https://cdn.findpawpal.com/office/5610.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "coffeyville-animal-shelter-5848",
+      "name": "Coffeyville Animal Shelter",
+      "address": "4955 County Road 1400, Coffeyville, KS 67337",
+      "phone": "620-252-6060",
+      "image": "https://cdn.findpawpal.com/office/5848.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dodge-city-animal-shelter-5856",
+      "name": "Dodge City Animal Shelter",
+      "address": "104 North 14th Avenue, Dodge, KS 67801",
+      "phone": "620-225-1567",
+      "image": "https://cdn.findpawpal.com/office/5856.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ford-county-humane-society-5147",
+      "name": "Ford County Humane Society",
+      "address": "800 Avenue P, Dodge, KS 67801",
+      "phone": "620-225-1481",
+      "image": "https://cdn.findpawpal.com/office/5147.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "el-dorado-animal-control-shetler-5649",
+      "name": "El Dorado Animal Control Shetler",
+      "address": "222 East Locust Avenue, El Dorado, KS 67042",
+      "phone": "316-322-8844",
+      "image": "https://cdn.findpawpal.com/office/5649.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "elkhart-animal-shelter-5879",
+      "name": "Elkhart Animal Shelter",
+      "address": "433 Morton Street, Elkhart, KS 67950",
+      "phone": "620-697-2424",
+      "image": "https://cdn.findpawpal.com/office/5879.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ellis-animal-control-5893",
+      "name": "Ellis Animal Control",
+      "address": "1750 130th Avenue, Ellis, KS 67637",
+      "phone": "785-726-2500",
+      "image": "https://cdn.findpawpal.com/office/5893.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "emporia-animal-shelter-5520",
+      "name": "Emporia Animal Shelter",
+      "address": "518 Mechanic Street, Emporia, KS 66801",
+      "phone": "316-342-5105",
+      "image": "https://cdn.findpawpal.com/office/5520.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-lyon-county-5272",
+      "name": "Humane Society of Lyon County",
+      "address": "PO Box 845, Emporia, KS 66801",
+      "phone": "316-342-4477",
+      "image": "https://cdn.findpawpal.com/office/5272.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "garden-city-animal-shelter-5622",
+      "name": "Garden City Animal Shelter",
+      "address": "206 Isabel Avenue, Garden, KS 67846",
+      "phone": "620-276-1152",
+      "image": "https://cdn.findpawpal.com/office/5622.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "goodland-animal-control-5794",
+      "name": "Goodland Animal Control",
+      "address": "204 West 11th Street, Goodland, KS 67735",
+      "phone": "785-890-4570",
+      "image": "https://cdn.findpawpal.com/office/5794.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "northwest-kansas-animal-shelter-5453",
+      "name": "Northwest Kansas Animal Shelter",
+      "address": "PO Box 128, Goodland, KS 67735",
+      "phone": "785-899-6464",
+      "image": "https://cdn.findpawpal.com/office/5453.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "great-bend-humane-society-5343",
+      "name": "Great Bend Humane Society",
+      "address": "PO Box 1653, Great Bend, KS 67530",
+      "phone": "316-792-4297",
+      "image": "https://cdn.findpawpal.com/office/5343.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-health-center-of-hays-llc-braun-jessica-dvm-5118",
+      "name": "Animal Health Center of Hays LLC: Braun Jessica DVM",
+      "address": "3340 East 27th Street, Hays, KS 67601",
+      "phone": "785-628-8603",
+      "image": "https://cdn.findpawpal.com/office/5118.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hays-animal-control-5868",
+      "name": "Hays Animal Control",
+      "address": "105 West 12th Street, Hays, KS 67601",
+      "phone": "785-625-1011",
+      "image": "https://cdn.findpawpal.com/office/5868.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-high-plains-5102",
+      "name": "Humane Society-High Plains",
+      "address": "2050 Old Highway 40, Hays, KS 67601",
+      "phone": "785-625-5252",
+      "image": "https://cdn.findpawpal.com/office/5102.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hoisington-animal-control-5832",
+      "name": "Hoisington Animal Control",
+      "address": "109 East 1st Street, Hoisington, KS 67544",
+      "phone": "620-653-4995",
+      "image": "https://cdn.findpawpal.com/office/5832.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "heart-of-jackson-humane-5180",
+      "name": "Heart of Jackson Humane",
+      "address": "414 East 8th Street, Holton, KS 66436",
+      "phone": "785-364-5156",
+      "image": "https://cdn.findpawpal.com/office/5180.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hutchinson-humane-welfare-association-5644",
+      "name": "Hutchinson Humane Welfare Association",
+      "address": "3501 Stewart Street, Hutchinson, KS 67502",
+      "phone": "620-662-6981",
+      "image": "https://cdn.findpawpal.com/office/5644.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animals-with-our-love-5288",
+      "name": "Animals With Our Love",
+      "address": "PO Box 290, Independence, KS 67301",
+      "phone": "316-331-7930",
+      "image": "https://cdn.findpawpal.com/office/5288.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "awol-humane-society-5304",
+      "name": "Awol Humane Society",
+      "address": "116 South 23rd Street, Independence, KS 67301",
+      "phone": "620-331-7931",
+      "image": "https://cdn.findpawpal.com/office/5304.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "independence-animal-control-5822",
+      "name": "Independence Animal Control",
+      "address": "120 North 6th Street, Independence, KS 67301",
+      "phone": "620-332-1700",
+      "image": "https://cdn.findpawpal.com/office/5822.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kansas-animal-control-5504",
+      "name": "Kansas Animal Control",
+      "address": "3301 Park Drive, Kansas, KS 66102",
+      "phone": "913-321-1445",
+      "image": "https://cdn.findpawpal.com/office/5504.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pets-without-partners-5470",
+      "name": "Pets Without Partners",
+      "address": "9700 Leavenworth Road, Kansas, KS 66109",
+      "phone": "913-299-9797",
+      "image": "https://cdn.findpawpal.com/office/5470.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-humane-society-of-greater-kansas-city-5507",
+      "name": "The Humane Society of Greater Kansas City",
+      "address": "5445 Parallel Parkway, Kansas, KS 66104",
+      "phone": "913-596-1000",
+      "image": "https://cdn.findpawpal.com/office/5507.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-kinsley-animal-shelter-5093",
+      "name": "City of Kinsley Animal Shelter",
+      "address": "PO Box 7, Kinsley, KS 67547",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/5093.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "allen-county-animal-rescue-facility-5916",
+      "name": "Allen County Animal Rescue Facility",
+      "address": "305 U.s. 54, La Harpe, KS 66751",
+      "phone": "620-496-7711",
+      "image": "https://cdn.findpawpal.com/office/5916.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lansing-animal-control-5827",
+      "name": "Lansing Animal Control",
+      "address": "800 1st Terrace, Lansing, KS 66043",
+      "phone": "913-727-3000",
+      "image": "https://cdn.findpawpal.com/office/5827.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kansas-ferret-association-5083",
+      "name": "Kansas Ferret Association",
+      "address": "811 East 23rd Street, Lawrence, KS 66046",
+      "phone": "785-843-0934",
+      "image": "https://cdn.findpawpal.com/office/5083.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lawrence-city-animal-control-5836",
+      "name": "Lawrence City Animal Control",
+      "address": "935 New Hampshire Street, Lawrence, KS 66044",
+      "phone": "785-832-7650",
+      "image": "https://cdn.findpawpal.com/office/5836.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lawrence-humane-society-5073",
+      "name": "Lawrence Humane Society",
+      "address": "1805 East 19th Street, Lawrence, KS 66046",
+      "phone": "785-843-6835",
+      "image": "https://cdn.findpawpal.com/office/5073.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "leavenworth-animal-welfare-5250",
+      "name": "Leavenworth Animal Welfare",
+      "address": "1430 Shawnee Street, Leavenworth, KS 66048",
+      "phone": "913-651-5297",
+      "image": "https://cdn.findpawpal.com/office/5250.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "leavenworth-county-humane-society-inc-5245",
+      "name": "Leavenworth County Humane Society, Inc.",
+      "address": "PO Box 226, Leavenworth, KS 66048",
+      "phone": "913-728-2881",
+      "image": "https://cdn.findpawpal.com/office/5245.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kc-heart-bandits-5218",
+      "name": "Kc Heart Bandits",
+      "address": "PO Box 15262, Lenexa, KS 66285",
+      "phone": "913-901-8430",
+      "image": "https://cdn.findpawpal.com/office/5218.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "silent-angels-advocate-rescue-shelter-5552",
+      "name": "Silent Angels Advocate, Rescue Shelter",
+      "address": "931 W County Road J, Leoti, KS 67861",
+      "phone": "620-375-4972",
+      "image": "https://cdn.findpawpal.com/office/5552.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "liberal-animal-shelter-5750",
+      "name": "Liberal Animal Shelter",
+      "address": "1985 N Country Estates Rd, Liberal, KS 67901",
+      "phone": "620-626-0576",
+      "image": "https://cdn.findpawpal.com/office/5750.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "southwest-kansas-humane-society-5669",
+      "name": "Southwest Kansas Humane Society",
+      "address": "E 8th St, Liberal, KS 67901",
+      "phone": "316-624-3670",
+      "image": "https://cdn.findpawpal.com/office/5669.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lincoln-animal-shelter-5259",
+      "name": "Lincoln Animal Shelter",
+      "address": "PO Box 126, Lincoln, KS 67455",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/5259.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "olives-hope-pet-rescue-5297",
+      "name": "Olives Hope Pet Rescue",
+      "address": "PO Box 881, Louisburg, KS 66053",
+      "phone": "913-271-7459",
+      "image": "https://cdn.findpawpal.com/office/5297.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "madison-city-animal-control-5783",
+      "name": "Madison City Animal Control",
+      "address": "225 Main Street, Madison, KS 66860",
+      "phone": "620-437-2364",
+      "image": "https://cdn.findpawpal.com/office/5783.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "riley-county-humane-society-5374",
+      "name": "Riley County Humane Society",
+      "address": "PO Box 1202, Manhattan, KS 66505",
+      "phone": "785-776-8433",
+      "image": "https://cdn.findpawpal.com/office/5374.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "t-russell-reitz-animal-shelter-5383",
+      "name": "T Russell Reitz Animal Shelter",
+      "address": "605 Levee Drive, Manhattan, KS 66502",
+      "phone": "785-587-2783",
+      "image": "https://cdn.findpawpal.com/office/5383.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "marysville-animal-shelter-5749",
+      "name": "Marysville Animal Shelter",
+      "address": "209 North 8th Street, Marysville, KS 66508",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/5749.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mc-pherson-animal-shelter-5684",
+      "name": "Mc Pherson Animal Shelter",
+      "address": "1115 West Woodside Street, McPherson, KS 67460",
+      "phone": "620-245-2583",
+      "image": "https://cdn.findpawpal.com/office/5684.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mcpherson-county-humane-society-5688",
+      "name": "Mcpherson County Humane Society",
+      "address": "315 East Sutherland Street, McPherson, KS 67460",
+      "phone": "620-241-3682",
+      "image": "https://cdn.findpawpal.com/office/5688.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "medicine-lodge-animal-control-5798",
+      "name": "Medicine Lodge Animal Control",
+      "address": "114 West 1st Avenue, Medicine Lodge, KS 67104",
+      "phone": "620-886-3908",
+      "image": "https://cdn.findpawpal.com/office/5798.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-haven-5532",
+      "name": "Animal Haven",
+      "address": "9800 West 67th Street, Merriam, KS 66203",
+      "phone": "913-432-7548",
+      "image": "https://cdn.findpawpal.com/office/5532.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "srl-inc-all-breed-dog-rescue-5344",
+      "name": "Srl Inc All Breed Dog Rescue",
+      "address": "503 East 3rd Street, Minneapolis, KS 67467",
+      "phone": "913-744-7040",
+      "image": "https://cdn.findpawpal.com/office/5344.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-pet-connection-5525",
+      "name": "The Pet Connection",
+      "address": "5918 Broadmoor Street, Mission, KS 66202",
+      "phone": "913-671-7387",
+      "image": "https://cdn.findpawpal.com/office/5525.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bourbon-road-animal-sanctuary-5940",
+      "name": "Bourbon Road Animal Sanctuary",
+      "address": "5549 Bourbon Road, Muscotah, KS 66058",
+      "phone": "785-872-3239",
+      "image": "https://cdn.findpawpal.com/office/5940.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "caring-hands-humane-society-5172",
+      "name": "Caring Hands Humane Society",
+      "address": "1400 Southeast 3rd Street, Newton, KS 67114",
+      "phone": "316-283-0839",
+      "image": "https://cdn.findpawpal.com/office/5172.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "newton-animal-control-5807",
+      "name": "Newton Animal Control",
+      "address": "120 East 7th Street, Newton, KS 67114",
+      "phone": "316-284-6047",
+      "image": "https://cdn.findpawpal.com/office/5807.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bless-the-beasts-canine-placement-program-5382",
+      "name": "Bless the Beasts Canine Placement Program",
+      "address": "PO Box 447, Nickerson, KS 67561",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/5382.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "norton-county-animal-control-5850",
+      "name": "Norton County Animal Control",
+      "address": "301 East Washington Street, Norton, KS 67654",
+      "phone": "785-874-4294",
+      "image": "https://cdn.findpawpal.com/office/5850.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "german-wirehaired-pointer-rescue-inc-5528",
+      "name": "German Wirehaired Pointer Rescue, Inc",
+      "address": "1408 East Salem Lane, Olathe, KS 66062",
+      "phone": "913-602-9124",
+      "image": "https://cdn.findpawpal.com/office/5528.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-the-heartland-5236",
+      "name": "Humane Society of the Heartland",
+      "address": "PO Box 3466, Olathe, KS 66063",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/5236.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "olathe-city-animal-control-5791",
+      "name": "Olathe City Animal Control",
+      "address": "505 E Sunvale Dr, Olathe, KS 66061",
+      "phone": "913-971-6362",
+      "image": "https://cdn.findpawpal.com/office/5791.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "prairie-paws-animal-shelter-5142",
+      "name": "Prairie Paws Animal Shelter",
+      "address": "3173 Highway K 68, Ottawa, KS 66067",
+      "phone": "785-242-2967",
+      "image": "https://cdn.findpawpal.com/office/5142.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "heart-of-america-humane-society-5215",
+      "name": "Heart of America Humane Society",
+      "address": "PO Box 12703, Overland Park, KS 66282",
+      "phone": "800-384-3143",
+      "image": "https://cdn.findpawpal.com/office/5215.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-miami-county-5274",
+      "name": "Humane Society of Miami County",
+      "address": "PO Box 136, Paola, KS 66071",
+      "phone": "913-294-8400",
+      "image": "https://cdn.findpawpal.com/office/5274.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "parsons-animal-control-5800",
+      "name": "Parsons Animal Control",
+      "address": "24050 North 43rd Street, Parsons, KS 67357",
+      "phone": "620-421-0445",
+      "image": "https://cdn.findpawpal.com/office/5800.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "american-pet-savers-international-pet-owners-club-5664",
+      "name": "American Pet Savers - International Pet Owners Club",
+      "address": "PO Box 2002, Pittsburg, KS 66762",
+      "phone": "620-231-5001",
+      "image": "https://cdn.findpawpal.com/office/5664.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "parsons-humane-society-5609",
+      "name": "Parsons Humane Society",
+      "address": "123 West 5th Street, Pittsburg, KS 66762",
+      "phone": "316-421-0668",
+      "image": "https://cdn.findpawpal.com/office/5609.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pawprints-5056",
+      "name": "Pawprints",
+      "address": "PO Box 644, Pittsburg, KS 66762",
+      "phone": "877-887-7729",
+      "image": "https://cdn.findpawpal.com/office/5056.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pawprints-on-the-heartland-5623",
+      "name": "Pawprints On the Heartland",
+      "address": "502 West Euclid Street, Pittsburg, KS 66762",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/5623.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pittsburg-animal-shelter-5745",
+      "name": "Pittsburg Animal Shelter",
+      "address": "1316 West Atkinson Road, Pittsburg, KS 66762",
+      "phone": "620-231-8680",
+      "image": "https://cdn.findpawpal.com/office/5745.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "southeast-kansas-humane-society-5076",
+      "name": "Southeast Kansas Humane Society",
+      "address": "PO Box 783, Pittsburg, KS 66762",
+      "phone": "316-232-1840",
+      "image": "https://cdn.findpawpal.com/office/5076.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pratt-humane-society-5353",
+      "name": "Pratt Humane Society",
+      "address": "1402 West 1st Street, Pratt, KS 67124",
+      "phone": "316-672-6777",
+      "image": "https://cdn.findpawpal.com/office/5353.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "home-for-disposable-pets-5394",
+      "name": "Home for Disposable Pets",
+      "address": "612 West Walnut Street, Riley, KS 66531",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/5394.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-salina-animal-shelter-5650",
+      "name": "The Salina Animal Shelter",
+      "address": "329 North 2nd Street, Salina, KS 67401",
+      "phone": "785-826-6535",
+      "image": "https://cdn.findpawpal.com/office/5650.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chautauqua-county-animal-shelter-5034",
+      "name": "Chautauqua County Animal Shelter",
+      "address": "421 South Montgomery Street, Sedan, KS 67361",
+      "phone": "316-725-3561",
+      "image": "https://cdn.findpawpal.com/office/5034.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "syracuse-animal-control-5714",
+      "name": "Syracuse Animal Control",
+      "address": "109 Main Street, Syracuse, KS 67878",
+      "phone": "620-384-4841",
+      "image": "https://cdn.findpawpal.com/office/5714.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cat-association-of-topeka-5542",
+      "name": "Cat Association of Topeka",
+      "address": "1719 Southwest Gage Boulevard, Topeka, KS 66604",
+      "phone": "785-272-4735",
+      "image": "https://cdn.findpawpal.com/office/5542.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "critter-care-5442",
+      "name": "Critter Care",
+      "address": "PO Box 67341, Topeka, KS 66667",
+      "phone": "785-478-0341",
+      "image": "https://cdn.findpawpal.com/office/5442.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "european-burmese-rescuer-ehome-coordinator-usa-5544",
+      "name": "European Burmese Rescuer Ehome Coordinator Usa",
+      "address": "3801 Southeast 32nd Street, Topeka, KS 66605",
+      "phone": "785-249-5190",
+      "image": "https://cdn.findpawpal.com/office/5544.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "helping-hands-humane-society-5548",
+      "name": "Helping Hands Humane Society",
+      "address": "2625 Northwest Rochester Road, Topeka, KS 66617",
+      "phone": "785-233-7325",
+      "image": "https://cdn.findpawpal.com/office/5548.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "mo-kan-boxer-rescue-5447",
+      "name": "Mo/Kan Boxer Rescue",
+      "address": "PO Box 8151, Topeka, KS 66608",
+      "phone": "785-979-2679",
+      "image": "https://cdn.findpawpal.com/office/5447.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "topeka-animal-control-5723",
+      "name": "Topeka Animal Control",
+      "address": "320 South Kansas Avenue, Topeka, KS 66603",
+      "phone": "785-368-9484",
+      "image": "https://cdn.findpawpal.com/office/5723.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ulysses-animal-shelter-5148",
+      "name": "Ulysses Animal Shelter",
+      "address": "210 East Central Avenue, Ulysses, KS 67880",
+      "phone": "620-356-3500",
+      "image": "https://cdn.findpawpal.com/office/5148.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "valley-center-city-animal-shelter-5571",
+      "name": "Valley Center City Animal Shelter",
+      "address": "616 East 5th Street, Valley Center, KS 67147",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/5571.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jefferson-county-humane-society-5205",
+      "name": "Jefferson County Humane Society",
+      "address": "15295 K4 Highway, Valley Falls, KS 66088",
+      "phone": "785-945-6600",
+      "image": "https://cdn.findpawpal.com/office/5205.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "westmoreland-animal-control-5743",
+      "name": "Westmoreland Animal Control",
+      "address": "15785 Hartwich Road, Westmoreland, KS 66549",
+      "phone": "785-457-3573",
+      "image": "https://cdn.findpawpal.com/office/5743.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "heartreach-animals-society-5580",
+      "name": "Heartreach Animals Society",
+      "address": "2111 North Arkansas, Wichita, KS 67203",
+      "phone": "316-262-8599",
+      "image": "https://cdn.findpawpal.com/office/5580.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kansas-humane-society-5597",
+      "name": "Kansas Humane Society",
+      "address": "3313 North Hillside Street, Wichita, KS 67219",
+      "phone": "316-524-9196",
+      "image": "https://cdn.findpawpal.com/office/5597.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kansas-k-9-resq-inc-5418",
+      "name": "Kansas K-9 Resq, Inc.",
+      "address": "PO Box 1117, Wichita, KS 67201",
+      "phone": "316-295-6534",
+      "image": "https://cdn.findpawpal.com/office/5418.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pals-animal-rescue-5428",
+      "name": "Pals Animal Rescue",
+      "address": "PO Box 47342, Wichita, KS 67201",
+      "phone": "316-210-6454",
+      "image": "https://cdn.findpawpal.com/office/5428.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wichita-animal-shelter-5562",
+      "name": "Wichita Animal Shelter",
+      "address": "3303 North Hillside Street, Wichita, KS 67219",
+      "phone": "316-350-3366",
+      "image": "https://cdn.findpawpal.com/office/5562.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "city-of-winfield-animal-shelter-5044",
+      "name": "City of Winfield Animal Shelter",
+      "address": "812 Millington Street, Winfield, KS 67156",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/5044.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cowley-county-humane-society-5057",
+      "name": "Cowley County Humane Society",
+      "address": "7648 222nd Road, Winfield, KS 67156",
+      "phone": "620-221-1698",
+      "image": "https://cdn.findpawpal.com/office/5057.jpg?f=webp&w=730"
+    }
+  ]
+}

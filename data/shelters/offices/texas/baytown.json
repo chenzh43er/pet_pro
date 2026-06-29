@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:02:57.716382+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "baytown",
+    "name": "Baytown",
+    "label": "Baytown, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/baytown/",
+  "offices": [
+    {
+      "officeId": 540375,
+      "slug": "baytown-animal-control-540375",
+      "name": "Baytown Animal Control",
+      "address": "705 North Robert C Lanier Drive, Baytown, TX 77521",
+      "phone": "281-422-7600",
+      "image": "https://cdn.findpawpal.com/office/540375.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/baytown-animal-control-540375/"
+    }
+  ]
+}

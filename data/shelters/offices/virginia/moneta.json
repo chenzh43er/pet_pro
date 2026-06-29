@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:15:19.332596+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "moneta",
+    "name": "Moneta",
+    "label": "Moneta, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/moneta/",
+  "offices": [
+    {
+      "officeId": 575263,
+      "slug": "rescue-me-pet-rescue-575263",
+      "name": "Rescue Me Pet Rescue",
+      "address": "1145 Cranberry Court, Moneta, VA 24121",
+      "phone": "804-986-3647",
+      "image": "https://cdn.findpawpal.com/office/575263.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/rescue-me-pet-rescue-575263/"
+    }
+  ]
+}

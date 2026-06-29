@@ -1,0 +1,83 @@
+{
+  "fetchedAt": "2026-06-27T19:45:28.542348+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "medina",
+    "name": "Medina",
+    "label": "Medina, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/medina/",
+  "offices": [
+    {
+      "officeId": 423477,
+      "slug": "medina-county-animal-shelter-423477",
+      "name": "Medina County Animal Shelter",
+      "address": "6334 Deerview Lane, Medina, OH 44256",
+      "phone": "330-725-9121",
+      "image": "./img/shelter/office/423477.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/medina-county-animal-shelter-423477/",
+      "imageUrl": "https://cdn.findpawpal.com/office/423477.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 431719,
+      "slug": "hope-4-rabbits-431719",
+      "name": "Hope-4-Rabbits",
+      "address": "3527 Longwood Drive, Medina, OH 44256",
+      "phone": "330-239-4197",
+      "image": "https://cdn.findpawpal.com/office/431719.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/hope-4-rabbits-431719/"
+    },
+    {
+      "officeId": 444317,
+      "slug": "medina-animal-shelter-444317",
+      "name": "Medina Animal Shelter",
+      "address": "PO Box 183, Medina, OH 44258",
+      "phone": "330-722-1627",
+      "image": "./img/shelter/office/444317.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/medina-animal-shelter-444317/",
+      "imageUrl": "https://cdn.findpawpal.com/office/444317.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 467216,
+      "slug": "newfoundland-rescue-program-467216",
+      "name": "Newfoundland Rescue Program",
+      "address": "5334 River Styx Road, Medina, OH 44256",
+      "phone": "330-725-0725",
+      "image": "https://cdn.findpawpal.com/office/467216.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/newfoundland-rescue-program-467216/"
+    },
+    {
+      "officeId": 580633,
+      "slug": "forgotten-animal-shelter-580633",
+      "name": "Forgotten Animal Shelter",
+      "address": "PO Box 46, Medina, OH 44258",
+      "phone": "330-723-9918",
+      "image": "./img/shelter/office/580633.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/forgotten-animal-shelter-580633/",
+      "imageUrl": "https://cdn.findpawpal.com/office/580633.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 587565,
+      "slug": "medina-county-spca-587565",
+      "name": "Medina County SPCA",
+      "address": "245 South Medina Street, Medina, OH 44256",
+      "phone": "330-723-7722",
+      "image": "./img/shelter/office/587565.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/medina-county-spca-587565/",
+      "imageUrl": "https://cdn.findpawpal.com/office/587565.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 686588,
+      "slug": "kitten-krazy-inc-686588",
+      "name": "Kitten Krazy, Inc.",
+      "address": "930 Lafayette Road, Medina, OH 44256",
+      "phone": "330-421-4203",
+      "image": "./img/shelter/office/686588.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kitten-krazy-inc-686588/",
+      "imageUrl": "https://cdn.findpawpal.com/office/686588.jpg?f=webp&w=730"
+    }
+  ]
+}

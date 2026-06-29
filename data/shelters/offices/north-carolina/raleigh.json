@@ -1,0 +1,135 @@
+{
+  "fetchedAt": "2026-06-27T19:40:59.937471+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "raleigh",
+    "name": "Raleigh",
+    "label": "Raleigh, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/raleigh/",
+  "offices": [
+    {
+      "officeId": 213489,
+      "slug": "wake-county-animal-control-shelter-213489",
+      "name": "Wake County Animal Control Shelter",
+      "address": "PO Box 550, Raleigh, NC 27602",
+      "phone": "919-250-1478",
+      "image": "./img/shelter/office/213489.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wake-county-animal-control-shelter-213489/",
+      "imageUrl": "https://cdn.findpawpal.com/office/213489.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 213780,
+      "slug": "neuse-river-golden-retriever-rescue-213780",
+      "name": "Neuse River Golden Retriever Rescue",
+      "address": "PO Box 37156, Raleigh, NC 27627",
+      "phone": "919-676-7144",
+      "image": "./img/shelter/office/213780.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/neuse-river-golden-retriever-rescue-213780/",
+      "imageUrl": "https://cdn.findpawpal.com/office/213780.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 213890,
+      "slug": "animalkind-213890",
+      "name": "Animalkind",
+      "address": "PO Box 12568, Raleigh, NC 27605",
+      "phone": "919-870-1660",
+      "image": "./img/shelter/office/213890.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animalkind-213890/",
+      "imageUrl": "https://cdn.findpawpal.com/office/213890.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 213943,
+      "slug": "safe-haven-for-cats-213943",
+      "name": "Safe Haven For Cats",
+      "address": "8431 Garvey Drive, Raleigh, NC 27616",
+      "phone": "919-872-1128",
+      "image": "./img/shelter/office/213943.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/safe-haven-for-cats-213943/",
+      "imageUrl": "https://cdn.findpawpal.com/office/213943.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 214491,
+      "slug": "snowflake-animal-rescue-214491",
+      "name": "Snowflake Animal Rescue",
+      "address": "PO Box 99672, Raleigh, NC 27624",
+      "phone": "919-990-2478",
+      "image": "./img/shelter/office/214491.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/snowflake-animal-rescue-214491/",
+      "imageUrl": "https://cdn.findpawpal.com/office/214491.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 228264,
+      "slug": "second-chance-pet-adoption-228264",
+      "name": "Second Chance Pet Adoption",
+      "address": "6159 Bushmills Street, Raleigh, NC 27613",
+      "phone": "919-571-3654",
+      "image": "./img/shelter/office/228264.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/second-chance-pet-adoption-228264/",
+      "imageUrl": "https://cdn.findpawpal.com/office/228264.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 232780,
+      "slug": "raleigh-animal-control-232780",
+      "name": "Raleigh Animal Control",
+      "address": "222 West Hargett Street, Raleigh, NC 27601",
+      "phone": "919-996-6311",
+      "image": "./img/shelter/office/232780.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/raleigh-animal-control-232780/",
+      "imageUrl": "https://cdn.findpawpal.com/office/232780.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 239404,
+      "slug": "2-paws-up-239404",
+      "name": "2 PAWS Up",
+      "address": "PO Box 37790, Raleigh, NC 27627",
+      "phone": "",
+      "image": "./img/shelter/office/239404.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/2-paws-up-239404/",
+      "imageUrl": "https://cdn.findpawpal.com/office/239404.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 240242,
+      "slug": "birds-nest-rabbit-rescue-240242",
+      "name": "Bird's Nest Rabbit Rescue",
+      "address": "1806 Wills Avenue, Raleigh, NC 27608",
+      "phone": "919-828-2031",
+      "image": "./img/shelter/office/240242.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/birds-nest-rabbit-rescue-240242/",
+      "imageUrl": "https://cdn.findpawpal.com/office/240242.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 241824,
+      "slug": "wake-county-animal-control-241824",
+      "name": "Wake County Animal Control",
+      "address": "820 Beacon Lake Drive, Raleigh, NC 27610",
+      "phone": "919-212-7387",
+      "image": "./img/shelter/office/241824.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wake-county-animal-control-241824/",
+      "imageUrl": "https://cdn.findpawpal.com/office/241824.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 258833,
+      "slug": "spca-of-wake-county-258833",
+      "name": "SPCA of Wake County",
+      "address": "200 Petfinder Lane, Raleigh, NC 27603",
+      "phone": "919-772-2326",
+      "image": "./img/shelter/office/258833.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/spca-of-wake-county-258833/",
+      "imageUrl": "https://cdn.findpawpal.com/office/258833.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 267206,
+      "slug": "a-cats-tale-267206",
+      "name": "A Cat's Tale",
+      "address": "6812 Davis Circle, Raleigh, NC 27613",
+      "phone": "919-571-2646",
+      "image": "./img/shelter/office/267206.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/a-cats-tale-267206/",
+      "imageUrl": "https://cdn.findpawpal.com/office/267206.jpg?f=webp&w=730"
+    }
+  ]
+}

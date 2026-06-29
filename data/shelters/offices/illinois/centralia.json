@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:44:37.827914+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "centralia",
+    "name": "Centralia",
+    "label": "Centralia, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/centralia/",
+  "offices": [
+    {
+      "officeId": 412320,
+      "slug": "centralia-humane-society-412320",
+      "name": "Centralia Humane Society",
+      "address": "8190 Shatuc Road, Centralia, IL 62801",
+      "phone": "618-532-0489",
+      "image": "./img/shelter/office/412320.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/centralia-humane-society-412320/",
+      "imageUrl": "https://cdn.findpawpal.com/office/412320.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 412704,
+      "slug": "clinton-county-humane-society-412704",
+      "name": "Clinton County Humane Society",
+      "address": "121 North Beech Street, Centralia, IL 62801",
+      "phone": "",
+      "image": "./img/shelter/office/412704.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/clinton-county-humane-society-412704/",
+      "imageUrl": "https://cdn.findpawpal.com/office/412704.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 582231,
+      "slug": "centralia-animal-shelter-582231",
+      "name": "Centralia Animal Shelter",
+      "address": "222 South Poplar Street, Centralia, IL 62801",
+      "phone": "618-533-7647",
+      "image": "./img/shelter/office/582231.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/centralia-animal-shelter-582231/",
+      "imageUrl": "https://cdn.findpawpal.com/office/582231.jpg?f=webp&w=730"
+    }
+  ]
+}

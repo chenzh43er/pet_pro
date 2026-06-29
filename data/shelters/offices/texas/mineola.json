@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:07:39.304972+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "mineola",
+    "name": "Mineola",
+    "label": "Mineola, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/mineola/",
+  "offices": [
+    {
+      "officeId": 633598,
+      "slug": "mineola-animal-shelter-633598",
+      "name": "Mineola Animal Shelter",
+      "address": "1000 Baker Street, Mineola, TX 75773",
+      "phone": "903-569-2252",
+      "image": "./img/shelter/office/633598.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mineola-animal-shelter-633598/",
+      "imageUrl": "https://cdn.findpawpal.com/office/633598.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674269,
+      "slug": "pound-pals-674269",
+      "name": "Pound Pals",
+      "address": "PO Box 591, Mineola, TX 75773",
+      "phone": "903-530-0266",
+      "image": "./img/shelter/office/674269.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pound-pals-674269/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674269.jpg?f=webp&w=730"
+    }
+  ]
+}

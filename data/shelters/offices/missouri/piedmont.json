@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:20:12.030247+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "piedmont",
+    "name": "Piedmont",
+    "label": "Piedmont, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/piedmont/",
+  "offices": [
+    {
+      "officeId": 193906,
+      "slug": "piedmont-animal-control-193906",
+      "name": "Piedmont Animal Control",
+      "address": "115 West Green Street, Piedmont, MO 63957",
+      "phone": "573-223-4020",
+      "image": "https://cdn.findpawpal.com/office/193906.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/piedmont-animal-control-193906/"
+    }
+  ]
+}

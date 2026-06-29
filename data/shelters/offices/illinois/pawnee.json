@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:47:31.538847+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "pawnee",
+    "name": "Pawnee",
+    "label": "Pawnee, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/pawnee/",
+  "offices": [
+    {
+      "officeId": 383922,
+      "slug": "refuge-ranch-383922",
+      "name": "Refuge Ranch",
+      "address": "3845 Delay Road, Pawnee, IL 62558",
+      "phone": "217-498-7679",
+      "image": "./img/shelter/office/383922.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/refuge-ranch-383922/",
+      "imageUrl": "https://cdn.findpawpal.com/office/383922.jpg?f=webp&w=730"
+    }
+  ]
+}

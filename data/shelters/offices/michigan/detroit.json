@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:10:07.763450+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "detroit",
+    "name": "Detroit",
+    "label": "Detroit, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/detroit/",
+  "offices": [
+    {
+      "officeId": 205249,
+      "slug": "michigan-anti-cruelty-society-205249",
+      "name": "Michigan Anti-Cruelty Society",
+      "address": "13569 Joseph Campau Avenue, Detroit, MI 48212",
+      "phone": "313-891-7188",
+      "image": "./img/shelter/office/205249.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan-anti-cruelty-society-205249/",
+      "imageUrl": "https://cdn.findpawpal.com/office/205249.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 227943,
+      "slug": "detroit-animal-control-227943",
+      "name": "Detroit Animal Control",
+      "address": "3511 West Jefferson Avenue, Detroit, MI 48216",
+      "phone": "313-224-7128",
+      "image": "./img/shelter/office/227943.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/detroit-animal-control-227943/",
+      "imageUrl": "https://cdn.findpawpal.com/office/227943.jpg?f=webp&w=730"
+    }
+  ]
+}

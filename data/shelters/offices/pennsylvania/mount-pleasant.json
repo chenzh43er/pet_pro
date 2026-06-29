@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:53:59.163405+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "mount-pleasant",
+    "name": "Mount Pleasant",
+    "label": "Mount Pleasant, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/mount-pleasant/",
+  "offices": [
+    {
+      "officeId": 688337,
+      "slug": "animal-angels-688337",
+      "name": "Animal Angels",
+      "address": "419 Three Mile Hill, Mount Pleasant, PA 15666",
+      "phone": "724-542-9242",
+      "image": "./img/shelter/office/688337.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-angels-688337/",
+      "imageUrl": "https://cdn.findpawpal.com/office/688337.jpg?f=webp&w=730"
+    }
+  ]
+}

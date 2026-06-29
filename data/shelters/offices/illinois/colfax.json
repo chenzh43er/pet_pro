@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:44:54.647259+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "colfax",
+    "name": "Colfax",
+    "label": "Colfax, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/colfax/",
+  "offices": [
+    {
+      "officeId": 386822,
+      "slug": "central-illinois-small-animal-386822",
+      "name": "Central Illinois Small Animal",
+      "address": "29738 East 1400 North Road, Colfax, IL 61728",
+      "phone": "309-724-8241",
+      "image": "./img/shelter/office/386822.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/central-illinois-small-animal-386822/",
+      "imageUrl": "https://cdn.findpawpal.com/office/386822.jpg?f=webp&w=730"
+    }
+  ]
+}

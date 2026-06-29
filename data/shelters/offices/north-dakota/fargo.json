@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T19:42:19.375030+00:00",
+  "state": {
+    "slug": "north-dakota",
+    "name": "North Dakota"
+  },
+  "city": {
+    "slug": "fargo",
+    "name": "Fargo",
+    "label": "Fargo, ND"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-dakota/fargo/",
+  "offices": [
+    {
+      "officeId": 427160,
+      "slug": "4-luv-of-dog-rescue-427160",
+      "name": "4 Luv of Dog Rescue",
+      "address": "3037 13th Avenue South, Fargo, ND 58103",
+      "phone": "701-205-0190",
+      "image": "./img/shelter/office/427160.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/4-luv-of-dog-rescue-427160/",
+      "imageUrl": "https://cdn.findpawpal.com/office/427160.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 431532,
+      "slug": "pet-rescue-program-431532",
+      "name": "Pet Rescue Program",
+      "address": "1345 University Drive, Fargo, ND 58103",
+      "phone": "701-239-0110",
+      "image": "./img/shelter/office/431532.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-rescue-program-431532/",
+      "imageUrl": "https://cdn.findpawpal.com/office/431532.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 431593,
+      "slug": "fargo-animal-shelter-431593",
+      "name": "Fargo Animal Shelter",
+      "address": "9 9th Street South, Fargo, ND 58103",
+      "phone": "701-356-7877",
+      "image": "./img/shelter/office/431593.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fargo-animal-shelter-431593/",
+      "imageUrl": "https://cdn.findpawpal.com/office/431593.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 431817,
+      "slug": "homeward-animal-shelter-431817",
+      "name": "Homeward Animal Shelter",
+      "address": "1201 28th Avenue North, Fargo, ND 58102",
+      "phone": "701-239-0077",
+      "image": "./img/shelter/office/431817.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/homeward-animal-shelter-431817/",
+      "imageUrl": "https://cdn.findpawpal.com/office/431817.jpg?f=webp&w=730"
+    }
+  ]
+}

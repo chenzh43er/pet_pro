@@ -1,0 +1,104 @@
+{
+  "fetchedAt": "2026-06-27T19:44:01.052596+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "dayton",
+    "name": "Dayton",
+    "label": "Dayton, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/dayton/",
+  "offices": [
+    {
+      "officeId": 423570,
+      "slug": "humane-society-423570",
+      "name": "Humane Society",
+      "address": "1661 Nicholas Road, Dayton, OH 45417",
+      "phone": "937-268-7387",
+      "image": "./img/shelter/office/423570.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-423570/",
+      "imageUrl": "https://cdn.findpawpal.com/office/423570.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 431827,
+      "slug": "almost-home-431827",
+      "name": "Almost Home",
+      "address": "447 Wyoming Street, Dayton, OH 45410",
+      "phone": "937-267-0063",
+      "image": "./img/shelter/office/431827.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/almost-home-431827/",
+      "imageUrl": "https://cdn.findpawpal.com/office/431827.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 457716,
+      "slug": "montgomery-county-animal-resource-center-457716",
+      "name": "Montgomery County: Animal Resource Center",
+      "address": "6790 Webster Street, Dayton, OH 45414",
+      "phone": "937-898-4457",
+      "image": "./img/shelter/office/457716.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/montgomery-county-animal-resource-center-457716/",
+      "imageUrl": "https://cdn.findpawpal.com/office/457716.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 467629,
+      "slug": "pet-shack-resort-the-467629",
+      "name": "Pet Shack Resort the",
+      "address": "354 West Social Row Road, Dayton, OH 45458",
+      "phone": "937-885-7171",
+      "image": "./img/shelter/office/467629.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-shack-resort-the-467629/",
+      "imageUrl": "https://cdn.findpawpal.com/office/467629.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 581542,
+      "slug": "dayton-dog-adoption-581542",
+      "name": "Dayton Dog Adoption",
+      "address": "240 Kenwood Avenue, Dayton, OH 45405",
+      "phone": "937-274-4609",
+      "image": "./img/shelter/office/581542.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dayton-dog-adoption-581542/",
+      "imageUrl": "https://cdn.findpawpal.com/office/581542.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 581763,
+      "slug": "kettering-animal-control-581763",
+      "name": "Kettering Animal Control",
+      "address": "3600 Shroyer Road, Dayton, OH 45429",
+      "phone": "937-296-3266",
+      "image": "./img/shelter/office/581763.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kettering-animal-control-581763/",
+      "imageUrl": "https://cdn.findpawpal.com/office/581763.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 640024,
+      "slug": "greater-ohio-boxer-rescue-640024",
+      "name": "Greater Ohio Boxer Rescue",
+      "address": "PO Box 621, Dayton, OH 45405",
+      "phone": "937-277-4652",
+      "image": "./img/shelter/office/640024.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/greater-ohio-boxer-rescue-640024/",
+      "imageUrl": "https://cdn.findpawpal.com/office/640024.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 640027,
+      "slug": "sicsa-pet-adoption-center-640027",
+      "name": "SICSA Pet Adoption Center",
+      "address": "2600 Wilmington Pike, Dayton, OH 45419",
+      "phone": "937-294-6505",
+      "image": "https://cdn.findpawpal.com/office/640027.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/sicsa-pet-adoption-center-640027/"
+    },
+    {
+      "officeId": 640268,
+      "slug": "puppy-pals-rescue-640268",
+      "name": "Puppy Pals Rescue",
+      "address": "4241 Country Glen Circle, Dayton, OH 45432",
+      "phone": "937-426-2643",
+      "image": "./img/shelter/office/640268.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/puppy-pals-rescue-640268/",
+      "imageUrl": "https://cdn.findpawpal.com/office/640268.jpg?f=webp&w=730"
+    }
+  ]
+}

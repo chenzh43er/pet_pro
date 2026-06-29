@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:29:08.601380+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "patterson",
+    "name": "Patterson",
+    "label": "Patterson, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/patterson/",
+  "offices": [
+    {
+      "officeId": 668739,
+      "slug": "patterson-animal-control-668739",
+      "name": "Patterson Animal Control",
+      "address": "2631 Olive Avenue, Patterson, CA 95363",
+      "phone": "209-892-3114",
+      "image": "./img/shelter/office/668739.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/patterson-animal-control-668739/",
+      "imageUrl": "https://cdn.findpawpal.com/office/668739.jpg?f=webp&w=730"
+    }
+  ]
+}

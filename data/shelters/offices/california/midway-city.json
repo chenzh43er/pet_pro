@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:27:52.472235+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "midway-city",
+    "name": "Midway City",
+    "label": "Midway City, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/midway-city/",
+  "offices": [
+    {
+      "slug": "orange-county-animal-control-489276",
+      "name": "Orange County Animal Control",
+      "address": "15101 Jackson Street, Midway City, CA 92655",
+      "phone": "714-893-4393",
+      "image": "./img/shelter/office/489276.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/orange-county-animal-control-489276/",
+      "imageUrl": "https://cdn.findpawpal.com/office/489276.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "fetchedAt": "2026-06-27T19:29:28.984989+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "washington",
+    "name": "Washington",
+    "label": "Washington, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/washington/",
+  "offices": [
+    {
+      "officeId": 96097,
+      "slug": "warren-hills-animal-society-96097",
+      "name": "Warren Hills Animal Society",
+      "address": "88 West Stewart Street, Washington, NJ 07882",
+      "phone": "908-689-4425",
+      "image": "https://cdn.findpawpal.com/office/96097.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/warren-hills-animal-society-96097/"
+    },
+    {
+      "officeId": 104426,
+      "slug": "pet-friends-inc-104426",
+      "name": "Pet Friends, Inc.",
+      "address": "315 Egg Harbor Road, Washington, NJ 08080",
+      "phone": "856-589-0797",
+      "image": "./img/shelter/office/104426.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-friends-inc-104426/",
+      "imageUrl": "https://cdn.findpawpal.com/office/104426.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 104934,
+      "slug": "washington-borough-dog-pound-104934",
+      "name": "Washington Borough Dog Pound",
+      "address": "100 Belvidere Avenue, Washington, NJ 07882",
+      "phone": "908-689-6657",
+      "image": "./img/shelter/office/104934.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/washington-borough-dog-pound-104934/",
+      "imageUrl": "https://cdn.findpawpal.com/office/104934.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 105560,
+      "slug": "mid-atlantic-basset-hound-rescue-105560",
+      "name": "Mid Atlantic Basset Hound Rescue",
+      "address": "57 Mine Hill Road, Washington, NJ 07882",
+      "phone": "908-256-0598",
+      "image": "./img/shelter/office/105560.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mid-atlantic-basset-hound-rescue-105560/",
+      "imageUrl": "https://cdn.findpawpal.com/office/105560.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 105838,
+      "slug": "washington-animal-hospital-105838",
+      "name": "Washington Animal Hospital",
+      "address": "263 Route 31, Washington, NJ 07882",
+      "phone": "908-689-3267",
+      "image": "./img/shelter/office/105838.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/washington-animal-hospital-105838/",
+      "imageUrl": "https://cdn.findpawpal.com/office/105838.jpg?f=webp&w=730"
+    }
+  ]
+}

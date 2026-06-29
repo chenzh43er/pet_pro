@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:22:39.690378+00:00",
+  "state": {
+    "slug": "arkansas",
+    "name": "Arkansas"
+  },
+  "city": {
+    "slug": "malvern",
+    "name": "Malvern",
+    "label": "Malvern, AR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arkansas/malvern/",
+  "offices": [
+    {
+      "slug": "malvern-animal-shelter-267494",
+      "name": "Malvern Animal Shelter",
+      "address": "2625 Canine Road, Malvern, AR 72104",
+      "phone": "501-332-7622",
+      "image": "./img/shelter/office/267494.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/malvern-animal-shelter-267494/",
+      "imageUrl": "https://cdn.findpawpal.com/office/267494.jpg?f=webp&w=730"
+    }
+  ]
+}

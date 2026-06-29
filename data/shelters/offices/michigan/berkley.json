@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:09:31.737792+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "berkley",
+    "name": "Berkley",
+    "label": "Berkley, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/berkley/",
+  "offices": [
+    {
+      "officeId": 204938,
+      "slug": "the-cat-connection-204938",
+      "name": "The Cat Connection",
+      "address": "PO Box 721215, Berkley, MI 48072",
+      "phone": "248-549-4381",
+      "image": "https://cdn.findpawpal.com/office/204938.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/the-cat-connection-204938/"
+    },
+    {
+      "officeId": 205551,
+      "slug": "michigan-shelters-and-animal-controls-205551",
+      "name": "Michigan Shelters and Animal Controls",
+      "address": "1331 Franklin Road, Berkley, MI 48072",
+      "phone": "",
+      "image": "./img/shelter/office/205551.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan-shelters-and-animal-controls-205551/",
+      "imageUrl": "https://cdn.findpawpal.com/office/205551.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:44:36.325911+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "casey",
+    "name": "Casey",
+    "label": "Casey, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/casey/",
+  "offices": [
+    {
+      "officeId": 413420,
+      "slug": "casey-animal-shelter-413420",
+      "name": "Casey Animal Shelter",
+      "address": "108 East Main Street, Casey, IL 62420",
+      "phone": "217-663-3882",
+      "image": "./img/shelter/office/413420.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/casey-animal-shelter-413420/",
+      "imageUrl": "https://cdn.findpawpal.com/office/413420.jpg?f=webp&w=730"
+    }
+  ]
+}

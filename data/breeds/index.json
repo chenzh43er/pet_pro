@@ -1,0 +1,15 @@
+{
+  "cat": {
+    "count": 51,
+    "file": "cat-breeds.json"
+  },
+  "dog": {
+    "count": 194,
+    "file": "dog-breeds.json"
+  },
+  "all": {
+    "count": 245,
+    "file": "breeds-all.json",
+    "description": "Merged list + detail data for database import"
+  }
+}

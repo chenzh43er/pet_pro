@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:30:58.542150+00:00",
+  "state": {
+    "slug": "new-mexico",
+    "name": "New Mexico"
+  },
+  "city": {
+    "slug": "reserve",
+    "name": "Reserve",
+    "label": "Reserve, NM"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-mexico/reserve/",
+  "offices": [
+    {
+      "officeId": 334545,
+      "slug": "catron-county-animal-control-334545",
+      "name": "Catron County Animal Control",
+      "address": "PO Box 467, Reserve, NM 87830",
+      "phone": "505-533-6622",
+      "image": "https://cdn.findpawpal.com/office/334545.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/catron-county-animal-control-334545/"
+    }
+  ]
+}

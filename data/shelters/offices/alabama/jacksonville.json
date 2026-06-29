@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:17:56.781539+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "jacksonville",
+    "name": "Jacksonville",
+    "label": "Jacksonville, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/jacksonville/",
+  "offices": [
+    {
+      "slug": "rockin-p-rescue-inc-5679",
+      "name": "Rockin' P Rescue, Inc",
+      "address": "885 Roy Webb Road, Jacksonville, AL 36265",
+      "phone": "256-435-3849",
+      "image": "./img/shelter/office/5679.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rockin-p-rescue-inc-5679/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5679.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jacksonville-animal-control-6979",
+      "name": "Jacksonville Animal Control",
+      "address": "1112 Francis Street West, Jacksonville, AL 36265",
+      "phone": "256-435-3582",
+      "image": "./img/shelter/office/6979.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/jacksonville-animal-control-6979/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6979.jpg?f=webp&w=730"
+    }
+  ]
+}

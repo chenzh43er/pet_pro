@@ -1,0 +1,21 @@
+{
+  "officeId": 208700,
+  "slug": "st-joseph-animal-shelter-208700",
+  "name": "St Joseph Animal Shelter",
+  "address": "701 Southwest Lower Lake Road, St. Joseph, MO 64504",
+  "street": "701 Southwest Lower Lake Road",
+  "addressCity": "St. Joseph",
+  "stateCode": "MO",
+  "zip": "64504",
+  "phone": "816-271-4877",
+  "image": "./img/shelter/office/208700.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/st-joseph-animal-shelter-208700/",
+  "stateSlug": "missouri",
+  "stateName": "Missouri",
+  "citySlug": "st-joseph",
+  "cityName": "St. Joseph",
+  "cityLabel": "St. Joseph, MO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/missouri/st-joseph/",
+  "fetchedAt": "2026-06-27T19:20:44.737329+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/208700.jpg?f=webp&w=730"
+}

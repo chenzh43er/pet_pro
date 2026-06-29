@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:22:18.466233+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "columbus",
+    "name": "Columbus",
+    "label": "Columbus, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/columbus/",
+  "offices": [
+    {
+      "officeId": 490052,
+      "slug": "sweet-potato-farm-animal-sanctuary-490052",
+      "name": "Sweet Potato Farm Animal Sanctuary",
+      "address": "PO Box 453, Columbus, WI 53925",
+      "phone": "",
+      "image": "./img/shelter/office/490052.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sweet-potato-farm-animal-sanctuary-490052/",
+      "imageUrl": "https://cdn.findpawpal.com/office/490052.jpg?f=webp&w=730"
+    }
+  ]
+}

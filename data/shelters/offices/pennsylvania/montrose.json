@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:53:56.213596+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "montrose",
+    "name": "Montrose",
+    "label": "Montrose, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/montrose/",
+  "offices": [
+    {
+      "officeId": 474203,
+      "slug": "susquehanna-county-humane-society-474203",
+      "name": "Susquehanna County Humane Society",
+      "address": "PO Box 485, Montrose, PA 18801",
+      "phone": "570-278-1228",
+      "image": "https://cdn.findpawpal.com/office/474203.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/susquehanna-county-humane-society-474203/"
+    }
+  ]
+}

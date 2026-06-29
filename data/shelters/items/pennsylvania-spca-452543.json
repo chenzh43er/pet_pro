@@ -1,0 +1,21 @@
+{
+  "officeId": 452543,
+  "slug": "pennsylvania-spca-452543",
+  "name": "Pennsylvania SPCA",
+  "address": "2801 Bloom Road, Danville, PA 17821",
+  "street": "2801 Bloom Road",
+  "addressCity": "Danville",
+  "stateCode": "PA",
+  "zip": "17821",
+  "phone": "570-275-0340",
+  "image": "./img/shelter/office/452543.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pennsylvania-spca-452543/",
+  "stateSlug": "pennsylvania",
+  "stateName": "Pennsylvania",
+  "citySlug": "danville",
+  "cityName": "Danville",
+  "cityLabel": "Danville, PA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/pennsylvania/danville/",
+  "fetchedAt": "2026-06-27T19:52:27.400015+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/452543.jpg?f=webp&w=730"
+}

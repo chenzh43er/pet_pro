@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:37:55.289051+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "windsor",
+    "name": "Windsor",
+    "label": "Windsor, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/windsor/",
+  "offices": [
+    {
+      "officeId": 148152,
+      "slug": "connecticut-cat-connection-148152",
+      "name": "Connecticut Cat Connection",
+      "address": "40 Stevens Mill Road, Windsor, CT 06095",
+      "phone": "860-219-9396",
+      "image": "./img/shelter/office/148152.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut-cat-connection-148152/",
+      "imageUrl": "https://cdn.findpawpal.com/office/148152.jpg?f=webp&w=730"
+    }
+  ]
+}

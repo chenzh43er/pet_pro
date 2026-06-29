@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:40:18.089253+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "jasper",
+    "name": "Jasper",
+    "label": "Jasper, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/jasper/",
+  "offices": [
+    {
+      "officeId": 135451,
+      "slug": "jasper-animal-control-135451",
+      "name": "Jasper Animal Control",
+      "address": "55 Maintenance Road, Jasper, GA 30143",
+      "phone": "706-268-1346",
+      "image": "https://cdn.findpawpal.com/office/135451.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/jasper-animal-control-135451/"
+    }
+  ]
+}

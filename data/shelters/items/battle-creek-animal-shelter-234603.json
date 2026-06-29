@@ -1,0 +1,21 @@
+{
+  "officeId": 234603,
+  "slug": "battle-creek-animal-shelter-234603",
+  "name": "Battle Creek Animal Shelter",
+  "address": "29 Hoag Street, Battle Creek, MI 49014",
+  "street": "29 Hoag Street",
+  "addressCity": "Battle Creek",
+  "stateCode": "MI",
+  "zip": "49014",
+  "phone": "269-660-8064",
+  "image": "./img/shelter/office/234603.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/battle-creek-animal-shelter-234603/",
+  "stateSlug": "michigan",
+  "stateName": "Michigan",
+  "citySlug": "battle-creek",
+  "cityName": "Battle Creek",
+  "cityLabel": "Battle Creek, MI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/michigan/battle-creek/",
+  "fetchedAt": "2026-06-27T19:09:24.358940+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/234603.jpg?f=webp&w=730"
+}

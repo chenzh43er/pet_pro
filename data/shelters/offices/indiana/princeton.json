@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:51:47.093454+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "princeton",
+    "name": "Princeton",
+    "label": "Princeton, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/princeton/",
+  "offices": [
+    {
+      "officeId": 249992,
+      "slug": "gibson-county-animal-services-249992",
+      "name": "Gibson County Animal Services",
+      "address": "County Road 175 North, Princeton, IN 47670",
+      "phone": "812-386-8079",
+      "image": "https://cdn.findpawpal.com/office/249992.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/gibson-county-animal-services-249992/"
+    }
+  ]
+}

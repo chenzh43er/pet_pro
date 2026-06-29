@@ -1,0 +1,65 @@
+{
+  "fetchedAt": "2026-06-27T18:39:32.828144+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "decatur",
+    "name": "Decatur",
+    "label": "Decatur, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/decatur/",
+  "offices": [
+    {
+      "officeId": 134407,
+      "slug": "the-cats-meow-rescue-134407",
+      "name": "The Cat's Meow Rescue",
+      "address": "19 Carteret Place, Decatur, GA 30032",
+      "phone": "910-709-1773",
+      "image": "./img/shelter/office/134407.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-cats-meow-rescue-134407/",
+      "imageUrl": "https://cdn.findpawpal.com/office/134407.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 134582,
+      "slug": "paws-atlanta-134582",
+      "name": "PAWS Atlanta",
+      "address": "5287 Covington Highway, Decatur, GA 30035",
+      "phone": "770-593-1155",
+      "image": "./img/shelter/office/134582.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/paws-atlanta-134582/",
+      "imageUrl": "https://cdn.findpawpal.com/office/134582.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 144473,
+      "slug": "dekalb-county-animal-control-144473",
+      "name": "DeKalb County Animal Control",
+      "address": "845 Camp Road, Decatur, GA 30032",
+      "phone": "404-294-2996",
+      "image": "./img/shelter/office/144473.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dekalb-county-animal-control-144473/",
+      "imageUrl": "https://cdn.findpawpal.com/office/144473.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 146194,
+      "slug": "animal-action-group-146194",
+      "name": "Animal Action Group",
+      "address": "734 South Candler Street, Decatur, GA 30030",
+      "phone": "404-378-4230",
+      "image": "./img/shelter/office/146194.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-action-group-146194/",
+      "imageUrl": "https://cdn.findpawpal.com/office/146194.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 149927,
+      "slug": "georgia-humane-association-149927",
+      "name": "Georgia Humane Association",
+      "address": "379 Poplar Lane Way, Decatur, GA 30030",
+      "phone": "",
+      "image": "./img/shelter/office/149927.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia-humane-association-149927/",
+      "imageUrl": "https://cdn.findpawpal.com/office/149927.jpg?f=webp&w=730"
+    }
+  ]
+}

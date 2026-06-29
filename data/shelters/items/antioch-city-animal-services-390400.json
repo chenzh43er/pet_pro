@@ -1,0 +1,21 @@
+{
+  "officeId": 390400,
+  "slug": "antioch-city-animal-services-390400",
+  "name": "Antioch City Animal Services",
+  "address": "300 L Street, Antioch, CA 94509",
+  "street": "300 L Street",
+  "addressCity": "Antioch",
+  "stateCode": "CA",
+  "zip": "94509",
+  "phone": "925-779-6989",
+  "image": "./img/shelter/office/390400.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/antioch-city-animal-services-390400/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "antioch",
+  "cityName": "Antioch",
+  "cityLabel": "Antioch, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/antioch/",
+  "fetchedAt": "2026-06-27T18:23:46.358091+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/390400.jpg?f=webp&w=730"
+}

@@ -1,0 +1,75 @@
+{
+  "fetchedAt": "2026-06-27T18:55:49.868121+00:00",
+  "state": {
+    "slug": "kansas",
+    "name": "Kansas"
+  },
+  "city": {
+    "slug": "pittsburg",
+    "name": "Pittsburg",
+    "label": "Pittsburg, KS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kansas/pittsburg/",
+  "offices": [
+    {
+      "officeId": 5056,
+      "slug": "pawprints-5056",
+      "name": "Pawprints",
+      "address": "PO Box 644, Pittsburg, KS 66762",
+      "phone": "877-887-7729",
+      "image": "./img/shelter/office/5056.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pawprints-5056/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5056.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 5076,
+      "slug": "southeast-kansas-humane-society-5076",
+      "name": "Southeast Kansas Humane Society",
+      "address": "PO Box 783, Pittsburg, KS 66762",
+      "phone": "316-232-1840",
+      "image": "./img/shelter/office/5076.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/southeast-kansas-humane-society-5076/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5076.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 5609,
+      "slug": "parsons-humane-society-5609",
+      "name": "Parsons Humane Society",
+      "address": "123 West 5th Street, Pittsburg, KS 66762",
+      "phone": "316-421-0668",
+      "image": "./img/shelter/office/5609.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/parsons-humane-society-5609/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5609.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 5623,
+      "slug": "pawprints-on-the-heartland-5623",
+      "name": "Pawprints On the Heartland",
+      "address": "502 West Euclid Street, Pittsburg, KS 66762",
+      "phone": "",
+      "image": "./img/shelter/office/5623.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pawprints-on-the-heartland-5623/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5623.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 5664,
+      "slug": "american-pet-savers-international-pet-owners-club-5664",
+      "name": "American Pet Savers - International Pet Owners Club",
+      "address": "PO Box 2002, Pittsburg, KS 66762",
+      "phone": "620-231-5001",
+      "image": "./img/shelter/office/5664.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/american-pet-savers-international-pet-owners-club-5664/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5664.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 5745,
+      "slug": "pittsburg-animal-shelter-5745",
+      "name": "Pittsburg Animal Shelter",
+      "address": "1316 West Atkinson Road, Pittsburg, KS 66762",
+      "phone": "620-231-8680",
+      "image": "./img/shelter/office/5745.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pittsburg-animal-shelter-5745/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5745.jpg?f=webp&w=730"
+    }
+  ]
+}

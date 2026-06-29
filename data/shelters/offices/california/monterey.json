@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:28:01.328396+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "monterey",
+    "name": "Monterey",
+    "label": "Monterey, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/monterey/",
+  "offices": [
+    {
+      "slug": "monterey-city-animal-control-364842",
+      "name": "Monterey City Animal Control",
+      "address": "351 Madison Street, Monterey, CA 93940",
+      "phone": "831-646-3820",
+      "image": "./img/shelter/office/364842.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/monterey-city-animal-control-364842/",
+      "imageUrl": "https://cdn.findpawpal.com/office/364842.jpg?f=webp&w=730"
+    }
+  ]
+}

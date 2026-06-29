@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:40:33.866092+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "leary",
+    "name": "Leary",
+    "label": "Leary, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/leary/",
+  "offices": [
+    {
+      "officeId": 134013,
+      "slug": "amberwood-sanctuary-134013",
+      "name": "Amberwood Sanctuary",
+      "address": "PO Box 300, Leary, GA 31762",
+      "phone": "229-792-6246",
+      "image": "./img/shelter/office/134013.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/amberwood-sanctuary-134013/",
+      "imageUrl": "https://cdn.findpawpal.com/office/134013.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T20:13:24.375692+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "colonial-heights",
+    "name": "Colonial Heights",
+    "label": "Colonial Heights, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/colonial-heights/",
+  "offices": [
+    {
+      "officeId": 560972,
+      "slug": "colonial-heights-animal-shelter-560972",
+      "name": "Colonial Heights Animal Shelter",
+      "address": "PO Box 3401, Colonial Heights, VA 23834",
+      "phone": "804-526-9397",
+      "image": "https://cdn.findpawpal.com/office/560972.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/colonial-heights-animal-shelter-560972/"
+    },
+    {
+      "officeId": 706682,
+      "slug": "spca-petersburg-and-colonial-heights-706682",
+      "name": "SPCA Petersburg & Colonial Heights",
+      "address": "201 Temple Ave, Colonial Heights, VA 23834",
+      "phone": "804-526-7722",
+      "image": "./img/shelter/office/706682.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/spca-petersburg-and-colonial-heights-706682/",
+      "imageUrl": "https://cdn.findpawpal.com/office/706682.jpg?f=webp&w=730"
+    }
+  ]
+}

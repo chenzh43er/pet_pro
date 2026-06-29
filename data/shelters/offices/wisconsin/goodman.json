@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:22:43.836045+00:00",
+  "state": {
+    "slug": "wisconsin",
+    "name": "Wisconsin"
+  },
+  "city": {
+    "slug": "goodman",
+    "name": "Goodman",
+    "label": "Goodman, WI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wisconsin/goodman/",
+  "offices": [
+    {
+      "officeId": 634027,
+      "slug": "kewaunee-county-humane-society-634027",
+      "name": "Kewaunee County Humane Society",
+      "address": "PO Box 374, Goodman, WI 54125",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/634027.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/kewaunee-county-humane-society-634027/"
+    }
+  ]
+}

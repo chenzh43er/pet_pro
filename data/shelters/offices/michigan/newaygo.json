@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:11:57.522739+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "newaygo",
+    "name": "Newaygo",
+    "label": "Newaygo, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/newaygo/",
+  "offices": [
+    {
+      "officeId": 190064,
+      "slug": "lake-haven-rescue-190064",
+      "name": "Lake Haven Rescue",
+      "address": "551 Pickeral Lake Drive, Newaygo, MI 49337",
+      "phone": "231-652-7507",
+      "image": "./img/shelter/office/190064.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lake-haven-rescue-190064/",
+      "imageUrl": "https://cdn.findpawpal.com/office/190064.jpg?f=webp&w=730"
+    }
+  ]
+}

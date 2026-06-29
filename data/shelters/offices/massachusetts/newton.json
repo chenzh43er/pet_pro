@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:07:30.451404+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "newton",
+    "name": "Newton",
+    "label": "Newton, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/newton/",
+  "offices": [
+    {
+      "officeId": 41519,
+      "slug": "west-newton-animal-control-41519",
+      "name": "West Newton Animal Control",
+      "address": "25 Chestnut Street, Newton, MA 02465",
+      "phone": "617-796-2109",
+      "image": "./img/shelter/office/41519.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/west-newton-animal-control-41519/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41519.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 41729,
+      "slug": "newton-highlands-animal-41729",
+      "name": "Newton Highlands Animal",
+      "address": "89 Needham Street, Newton, MA 02461",
+      "phone": "617-969-2515",
+      "image": "./img/shelter/office/41729.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/newton-highlands-animal-41729/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41729.jpg?f=webp&w=730"
+    }
+  ]
+}

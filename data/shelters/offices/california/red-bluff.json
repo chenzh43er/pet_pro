@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-06-27T18:29:37.346592+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "red-bluff",
+    "name": "Red Bluff",
+    "label": "Red Bluff, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/red-bluff/",
+  "offices": [
+    {
+      "slug": "tehama-county-animal-care-center-668125",
+      "name": "Tehama County Animal Care Center",
+      "address": "1830 Walnut Street, Red Bluff, CA 96080",
+      "phone": "530-527-3439",
+      "image": "https://cdn.findpawpal.com/office/668125.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/tehama-county-animal-care-center-668125/"
+    }
+  ]
+}

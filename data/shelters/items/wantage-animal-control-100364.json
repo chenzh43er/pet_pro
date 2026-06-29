@@ -1,0 +1,21 @@
+{
+  "officeId": 100364,
+  "slug": "wantage-animal-control-100364",
+  "name": "Wantage Animal Control",
+  "address": "50 Compton Road, Wantage, NJ 07461",
+  "street": "50 Compton Road",
+  "addressCity": "Wantage",
+  "stateCode": "NJ",
+  "zip": "07461",
+  "phone": "973-721-4437",
+  "image": "./img/shelter/office/100364.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/wantage-animal-control-100364/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "wantage",
+  "cityName": "Wantage",
+  "cityLabel": "Wantage, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/wantage/",
+  "fetchedAt": "2026-06-27T19:29:27.489000+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/100364.jpg?f=webp&w=730"
+}

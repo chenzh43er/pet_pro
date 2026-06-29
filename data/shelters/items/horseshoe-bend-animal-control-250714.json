@@ -1,0 +1,21 @@
+{
+  "officeId": 250714,
+  "slug": "horseshoe-bend-animal-control-250714",
+  "name": "Horseshoe Bend Animal Control",
+  "address": "704 Commerce Street, Horseshoe Bend, AR 72512",
+  "street": "704 Commerce Street",
+  "addressCity": "Horseshoe Bend",
+  "stateCode": "AR",
+  "zip": "72512",
+  "phone": "870-670-4474",
+  "image": "./img/shelter/office/250714.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/horseshoe-bend-animal-control-250714/",
+  "stateSlug": "arkansas",
+  "stateName": "Arkansas",
+  "citySlug": "horseshoe-bend",
+  "cityName": "Horseshoe Bend",
+  "cityLabel": "Horseshoe Bend, AR",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/arkansas/horseshoe-bend/",
+  "fetchedAt": "2026-06-27T18:22:23.058043+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/250714.jpg?f=webp&w=730"
+}

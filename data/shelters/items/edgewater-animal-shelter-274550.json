@@ -1,0 +1,21 @@
+{
+  "officeId": 274550,
+  "slug": "edgewater-animal-shelter-274550",
+  "name": "Edgewater Animal Shelter",
+  "address": "605 Mango Tree Drive, Edgewater, FL 32132",
+  "street": "605 Mango Tree Drive",
+  "addressCity": "Edgewater",
+  "stateCode": "FL",
+  "zip": "32132",
+  "phone": "386-424-2442",
+  "image": "./img/shelter/office/274550.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/edgewater-animal-shelter-274550/",
+  "stateSlug": "florida",
+  "stateName": "Florida",
+  "citySlug": "edgewater",
+  "cityName": "Edgewater",
+  "cityLabel": "Edgewater, FL",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/florida/edgewater/",
+  "fetchedAt": "2026-06-27T18:14:10.207475+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/274550.jpg?f=webp&w=730"
+}

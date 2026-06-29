@@ -1,0 +1,207 @@
+{
+  "fetchedAt": "2026-06-27T17:48:41.302381+00:00",
+  "state": {
+    "slug": "vermont",
+    "name": "Vermont",
+    "offices": 37
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/vermont/",
+  "cities": [
+    {
+      "slug": "arlington",
+      "name": "Arlington",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/arlington/"
+    },
+    {
+      "slug": "barton",
+      "name": "Barton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/barton/"
+    },
+    {
+      "slug": "brattleboro",
+      "name": "Brattleboro",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/brattleboro/"
+    },
+    {
+      "slug": "bridgewater",
+      "name": "Bridgewater",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/bridgewater/"
+    },
+    {
+      "slug": "colchester",
+      "name": "Colchester",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/colchester/"
+    },
+    {
+      "slug": "corinth",
+      "name": "Corinth",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/corinth/"
+    },
+    {
+      "slug": "east-burke",
+      "name": "East Burke",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/east-burke/"
+    },
+    {
+      "slug": "east-montpelier",
+      "name": "East Montpelier",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/east-montpelier/"
+    },
+    {
+      "slug": "essex",
+      "name": "Essex",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/essex/"
+    },
+    {
+      "slug": "essex-junction",
+      "name": "Essex Junction",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/essex-junction/"
+    },
+    {
+      "slug": "hardwick",
+      "name": "Hardwick",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/hardwick/"
+    },
+    {
+      "slug": "huntington",
+      "name": "Huntington",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/huntington/"
+    },
+    {
+      "slug": "isle-la-motte",
+      "name": "Isle la Motte",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/isle-la-motte/"
+    },
+    {
+      "slug": "lyndon",
+      "name": "Lyndon",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/lyndon/"
+    },
+    {
+      "slug": "middlebury",
+      "name": "Middlebury",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/middlebury/"
+    },
+    {
+      "slug": "morristown",
+      "name": "Morristown",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/morristown/"
+    },
+    {
+      "slug": "morrisville",
+      "name": "Morrisville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/morrisville/"
+    },
+    {
+      "slug": "north-clarendon",
+      "name": "North Clarendon",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/north-clarendon/"
+    },
+    {
+      "slug": "pittsford",
+      "name": "Pittsford",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/pittsford/"
+    },
+    {
+      "slug": "shaftsbury",
+      "name": "Shaftsbury",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/shaftsbury/"
+    },
+    {
+      "slug": "south-burlington",
+      "name": "South Burlington",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/south-burlington/"
+    },
+    {
+      "slug": "st-albans",
+      "name": "St. Albans",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/st-albans/"
+    },
+    {
+      "slug": "st-johnsbury",
+      "name": "St. Johnsbury",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/st-johnsbury/"
+    },
+    {
+      "slug": "white-river-junction",
+      "name": "White River Junction",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/white-river-junction/"
+    },
+    {
+      "slug": "williamstown",
+      "name": "Williamstown",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/williamstown/"
+    },
+    {
+      "slug": "williston",
+      "name": "Williston",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/williston/"
+    },
+    {
+      "slug": "wilmington",
+      "name": "Wilmington",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/wilmington/"
+    },
+    {
+      "slug": "woodstock",
+      "name": "Woodstock",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/woodstock/"
+    }
+  ]
+}

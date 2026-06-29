@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:36:25.245690+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "ledyard",
+    "name": "Ledyard",
+    "label": "Ledyard, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/ledyard/",
+  "offices": [
+    {
+      "officeId": 161471,
+      "slug": "ledyard-animal-control-161471",
+      "name": "Ledyard Animal Control",
+      "address": "889 Colonel Ledyard Highway, Ledyard, CT 06339",
+      "phone": "860-464-9621",
+      "image": "https://cdn.findpawpal.com/office/161471.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/ledyard-animal-control-161471/"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T19:44:37.248085+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "grove",
+    "name": "Grove",
+    "label": "Grove, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/grove/",
+  "offices": [
+    {
+      "officeId": 466074,
+      "slug": "ohio-basset-hound-rescue-466074",
+      "name": "Ohio Basset Hound Rescue",
+      "address": "PO Box 816, Grove, OH 43123",
+      "phone": "614-871-4318",
+      "image": "https://cdn.findpawpal.com/office/466074.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/ohio-basset-hound-rescue-466074/"
+    },
+    {
+      "officeId": 587176,
+      "slug": "ohio-society-for-the-prevention-of-cruelty-to-animals-587176",
+      "name": "Ohio Society for the Prevention of Cruelty to Animals",
+      "address": "PO Box 546, Grove, OH 43123",
+      "phone": "614-875-1810",
+      "image": "https://cdn.findpawpal.com/office/587176.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/ohio-society-for-the-prevention-of-cruelty-to-animals-587176/"
+    }
+  ]
+}

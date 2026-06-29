@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:57:06.629002+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "glasgow",
+    "name": "Glasgow",
+    "label": "Glasgow, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/glasgow/",
+  "offices": [
+    {
+      "officeId": 118542,
+      "slug": "animal-shelter-glasgow-118542",
+      "name": "Animal Shelter-Glasgow",
+      "address": "175 Trojan Trail, Glasgow, KY 42141",
+      "phone": "270-651-7297",
+      "image": "./img/shelter/office/118542.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-shelter-glasgow-118542/",
+      "imageUrl": "https://cdn.findpawpal.com/office/118542.jpg?f=webp&w=730"
+    }
+  ]
+}

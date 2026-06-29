@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:39:18.695787+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "gastonia",
+    "name": "Gastonia",
+    "label": "Gastonia, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/gastonia/",
+  "offices": [
+    {
+      "officeId": 214881,
+      "slug": "animal-league-of-gaston-county-214881",
+      "name": "Animal League of Gaston County",
+      "address": "972 East Franklin Boulevard, Gastonia, NC 28054",
+      "phone": "704-718-4673",
+      "image": "./img/shelter/office/214881.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-league-of-gaston-county-214881/",
+      "imageUrl": "https://cdn.findpawpal.com/office/214881.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 257049,
+      "slug": "gaston-humane-society-inc-257049",
+      "name": "Gaston Humane Society Inc",
+      "address": "114 Sherrill Road, Gastonia, NC 28056",
+      "phone": "704-824-8990",
+      "image": "./img/shelter/office/257049.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gaston-humane-society-inc-257049/",
+      "imageUrl": "https://cdn.findpawpal.com/office/257049.jpg?f=webp&w=730"
+    }
+  ]
+}

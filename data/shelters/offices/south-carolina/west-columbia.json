@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:58:36.438119+00:00",
+  "state": {
+    "slug": "south-carolina",
+    "name": "South Carolina"
+  },
+  "city": {
+    "slug": "west-columbia",
+    "name": "West Columbia",
+    "label": "West Columbia, SC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-carolina/west-columbia/",
+  "offices": [
+    {
+      "officeId": 688555,
+      "slug": "pets-inc-688555",
+      "name": "Pets Inc.",
+      "address": "300 Orchard Drive, West Columbia, SC 29170",
+      "phone": "803-739-9333",
+      "image": "./img/shelter/office/688555.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pets-inc-688555/",
+      "imageUrl": "https://cdn.findpawpal.com/office/688555.jpg?f=webp&w=730"
+    }
+  ]
+}

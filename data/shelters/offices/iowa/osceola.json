@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:53:53.379999+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa"
+  },
+  "city": {
+    "slug": "osceola",
+    "name": "Osceola",
+    "label": "Osceola, IA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/osceola/",
+  "offices": [
+    {
+      "officeId": 342626,
+      "slug": "clarke-county-animal-shelter-342626",
+      "name": "Clarke County Animal Shelter",
+      "address": "125 East Ayers Street, Osceola, IA 50213",
+      "phone": "641-342-1180",
+      "image": "./img/shelter/office/342626.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/clarke-county-animal-shelter-342626/",
+      "imageUrl": "https://cdn.findpawpal.com/office/342626.jpg?f=webp&w=730"
+    }
+  ]
+}

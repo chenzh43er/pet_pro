@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:26:25.927347+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "harrison",
+    "name": "Harrison",
+    "label": "Harrison, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/harrison/",
+  "offices": [
+    {
+      "officeId": 95451,
+      "slug": "sovereign-hill-stablessheets-95451",
+      "name": "Sovereign Hill Stablessheets",
+      "address": "230 Commissioners Road, Harrison, NJ 08062",
+      "phone": "856-478-6384",
+      "image": "./img/shelter/office/95451.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sovereign-hill-stablessheets-95451/",
+      "imageUrl": "https://cdn.findpawpal.com/office/95451.jpg?f=webp&w=730"
+    }
+  ]
+}

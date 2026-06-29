@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:52:46.142130+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa"
+  },
+  "city": {
+    "slug": "carroll",
+    "name": "Carroll",
+    "label": "Carroll, IA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/carroll/",
+  "offices": [
+    {
+      "officeId": 327116,
+      "slug": "animal-rescue-of-carroll-327116",
+      "name": "Animal Rescue of Carroll",
+      "address": "PO Box 393, Carroll, IA 51401",
+      "phone": "712-790-9116",
+      "image": "https://cdn.findpawpal.com/office/327116.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-rescue-of-carroll-327116/"
+    }
+  ]
+}

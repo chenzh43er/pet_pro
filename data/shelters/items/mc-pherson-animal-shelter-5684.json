@@ -1,0 +1,21 @@
+{
+  "officeId": 5684,
+  "slug": "mc-pherson-animal-shelter-5684",
+  "name": "Mc Pherson Animal Shelter",
+  "address": "1115 West Woodside Street, McPherson, KS 67460",
+  "street": "1115 West Woodside Street",
+  "addressCity": "McPherson",
+  "stateCode": "KS",
+  "zip": "67460",
+  "phone": "620-245-2583",
+  "image": "./img/shelter/office/5684.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/mc-pherson-animal-shelter-5684/",
+  "stateSlug": "kansas",
+  "stateName": "Kansas",
+  "citySlug": "mcpherson",
+  "cityName": "McPherson",
+  "cityLabel": "McPherson, KS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kansas/mcpherson/",
+  "fetchedAt": "2026-06-27T18:55:29.026612+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/5684.jpg?f=webp&w=730"
+}

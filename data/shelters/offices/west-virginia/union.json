@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:21:38.104197+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "union",
+    "name": "Union",
+    "label": "Union, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/union/",
+  "offices": [
+    {
+      "officeId": 723287,
+      "slug": "monroe-county-animal-league-723287",
+      "name": "Monroe County Animal League",
+      "address": ", Union, WV 24983",
+      "phone": "304-772-4445",
+      "image": "./img/shelter/office/723287.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/monroe-county-animal-league-723287/",
+      "imageUrl": "https://cdn.findpawpal.com/office/723287.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 115652,
+  "slug": "clark-county-animal-shelter-115652",
+  "name": "Clark County Animal Shelter",
+  "address": "5000 Ironworks Road, Winchester, KY 40391",
+  "street": "5000 Ironworks Road",
+  "addressCity": "Winchester",
+  "stateCode": "KY",
+  "zip": "40391",
+  "phone": "859-737-0053",
+  "image": "./img/shelter/office/115652.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/clark-county-animal-shelter-115652/",
+  "stateSlug": "kentucky",
+  "stateName": "Kentucky",
+  "citySlug": "winchester",
+  "cityName": "Winchester",
+  "cityLabel": "Winchester, KY",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kentucky/winchester/",
+  "fetchedAt": "2026-06-27T18:58:53.870320+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/115652.jpg?f=webp&w=730"
+}

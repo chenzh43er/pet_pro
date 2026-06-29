@@ -1,0 +1,21 @@
+{
+  "officeId": 5304,
+  "slug": "awol-humane-society-5304",
+  "name": "Awol Humane Society",
+  "address": "116 South 23rd Street, Independence, KS 67301",
+  "street": "116 South 23rd Street",
+  "addressCity": "Independence",
+  "stateCode": "KS",
+  "zip": "67301",
+  "phone": "620-331-7931",
+  "image": "./img/shelter/office/5304.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/awol-humane-society-5304/",
+  "stateSlug": "kansas",
+  "stateName": "Kansas",
+  "citySlug": "independence",
+  "cityName": "Independence",
+  "cityLabel": "Independence, KS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kansas/independence/",
+  "fetchedAt": "2026-06-27T18:55:06.561986+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/5304.jpg?f=webp&w=730"
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:19:33.782250+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "washougal",
+    "name": "Washougal",
+    "label": "Washougal, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/washougal/",
+  "offices": [
+    {
+      "officeId": 664666,
+      "slug": "west-columbia-gorge-humane-society-664666",
+      "name": "West Columbia Gorge Humane Society",
+      "address": "2675 Index Street, Washougal, WA 98671",
+      "phone": "360-835-3464",
+      "image": "./img/shelter/office/664666.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/west-columbia-gorge-humane-society-664666/",
+      "imageUrl": "https://cdn.findpawpal.com/office/664666.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 698954,
+      "slug": "washougal-animal-control-698954",
+      "name": "Washougal Animal Control",
+      "address": "1320 A Street, Washougal, WA 98671",
+      "phone": "360-835-8701",
+      "image": "./img/shelter/office/698954.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/washougal-animal-control-698954/",
+      "imageUrl": "https://cdn.findpawpal.com/office/698954.jpg?f=webp&w=730"
+    }
+  ]
+}

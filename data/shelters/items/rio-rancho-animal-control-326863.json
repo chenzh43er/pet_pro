@@ -1,0 +1,21 @@
+{
+  "officeId": 326863,
+  "slug": "rio-rancho-animal-control-326863",
+  "name": "Rio Rancho Animal Control",
+  "address": "3441 Northern Boulevard Northeast, Rio Rancho, NM 87124",
+  "street": "3441 Northern Boulevard Northeast",
+  "addressCity": "Rio Rancho",
+  "stateCode": "NM",
+  "zip": "87124",
+  "phone": "505-891-7237",
+  "image": "./img/shelter/office/326863.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/rio-rancho-animal-control-326863/",
+  "stateSlug": "new-mexico",
+  "stateName": "New Mexico",
+  "citySlug": "rio-rancho",
+  "cityName": "Rio Rancho",
+  "cityLabel": "Rio Rancho, NM",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-mexico/rio-rancho/",
+  "fetchedAt": "2026-06-27T19:31:00.177102+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/326863.jpg?f=webp&w=730"
+}

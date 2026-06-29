@@ -1,0 +1,21 @@
+{
+  "officeId": 6222,
+  "slug": "bessemer-humane-society-6222",
+  "name": "Bessemer Humane Society",
+  "address": "1230 15th Avenue North, Bessemer, AL 35020",
+  "street": "1230 15th Avenue North",
+  "addressCity": "Bessemer",
+  "stateCode": "AL",
+  "zip": "35020",
+  "phone": "205-425-0610",
+  "image": "./img/shelter/office/6222.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/bessemer-humane-society-6222/",
+  "stateSlug": "alabama",
+  "stateName": "Alabama",
+  "citySlug": "bessemer",
+  "cityName": "Bessemer",
+  "cityLabel": "Bessemer, AL",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/alabama/bessemer/",
+  "fetchedAt": "2026-06-27T18:16:56.548588+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/6222.jpg?f=webp&w=730"
+}

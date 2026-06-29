@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:19:31.251811+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "lees-summit",
+    "name": "Lee's Summit",
+    "label": "Lee's Summit, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/lees-summit/",
+  "offices": [
+    {
+      "officeId": 192301,
+      "slug": "kansas-city-siamese-rescue-192301",
+      "name": "Kansas City Siamese Rescue",
+      "address": "PO Box 1245, Lee's Summit, MO 64063",
+      "phone": "816-331-9700",
+      "image": "./img/shelter/office/192301.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas-city-siamese-rescue-192301/",
+      "imageUrl": "https://cdn.findpawpal.com/office/192301.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 209456,
+      "slug": "lees-summit-animal-shelter-209456",
+      "name": "Lee's Summit Animal Shelter",
+      "address": "115 Southeast 2nd Street, Lee's Summit, MO 64063",
+      "phone": "",
+      "image": "./img/shelter/office/209456.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lees-summit-animal-shelter-209456/",
+      "imageUrl": "https://cdn.findpawpal.com/office/209456.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 209485,
+      "slug": "lees-summit-animal-control-209485",
+      "name": "Lees Summit Animal Control",
+      "address": "1991 Southeast Hamblen Road, Lee's Summit, MO 64082",
+      "phone": "816-969-1640",
+      "image": "./img/shelter/office/209485.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lees-summit-animal-control-209485/",
+      "imageUrl": "https://cdn.findpawpal.com/office/209485.jpg?f=webp&w=730"
+    }
+  ]
+}

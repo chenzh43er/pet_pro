@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:17:52.165826+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "winter-garden",
+    "name": "Winter Garden",
+    "label": "Winter Garden, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/winter-garden/",
+  "offices": [
+    {
+      "slug": "winter-garden-animal-shelter-325884",
+      "name": "Winter Garden Animal Shelter",
+      "address": "5859 Avalon Road, Winter Garden, FL 34787",
+      "phone": "407-877-7387",
+      "image": "./img/shelter/office/325884.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/winter-garden-animal-shelter-325884/",
+      "imageUrl": "https://cdn.findpawpal.com/office/325884.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:08:01.962705+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "raynham",
+    "name": "Raynham",
+    "label": "Raynham, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/raynham/",
+  "offices": [
+    {
+      "officeId": 41288,
+      "slug": "raynham-town-animal-control-41288",
+      "name": "Raynham Town Animal Control",
+      "address": "964 Broadway, Raynham, MA 02767",
+      "phone": "508-824-2741",
+      "image": "./img/shelter/office/41288.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/raynham-town-animal-control-41288/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41288.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:40:02.387778+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "grovetown",
+    "name": "Grovetown",
+    "label": "Grovetown, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/grovetown/",
+  "offices": [
+    {
+      "officeId": 135165,
+      "slug": "columbia-county-animal-control-135165",
+      "name": "Columbia County Animal Control",
+      "address": "1940 William Few Parkway, Grovetown, GA 30813",
+      "phone": "706-541-4077",
+      "image": "./img/shelter/office/135165.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/columbia-county-animal-control-135165/",
+      "imageUrl": "https://cdn.findpawpal.com/office/135165.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 148987,
+      "slug": "columbia-county-humane-society-148987",
+      "name": "Columbia County Humane Society",
+      "address": "6100 Columbia Road, Grovetown, GA 30813",
+      "phone": "706-860-5020",
+      "image": "./img/shelter/office/148987.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/columbia-county-humane-society-148987/",
+      "imageUrl": "https://cdn.findpawpal.com/office/148987.jpg?f=webp&w=730"
+    }
+  ]
+}

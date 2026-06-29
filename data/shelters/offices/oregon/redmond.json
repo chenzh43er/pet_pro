@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:51:17.104840+00:00",
+  "state": {
+    "slug": "oregon",
+    "name": "Oregon"
+  },
+  "city": {
+    "slug": "redmond",
+    "name": "Redmond",
+    "label": "Redmond, OR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oregon/redmond/",
+  "offices": [
+    {
+      "officeId": 604472,
+      "slug": "hooves-and-halos-animal-rescue-604472",
+      "name": "Hooves and Halos Animal Rescue",
+      "address": "6370 Southwest 61st Street, Redmond, OR 97756",
+      "phone": "541-504-4741",
+      "image": "./img/shelter/office/604472.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hooves-and-halos-animal-rescue-604472/",
+      "imageUrl": "https://cdn.findpawpal.com/office/604472.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 613190,
+      "slug": "redmond-animal-control-613190",
+      "name": "Redmond Animal Control",
+      "address": "455 Southwest 7th Street, Redmond, OR 97756",
+      "phone": "503-923-1313",
+      "image": "./img/shelter/office/613190.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/redmond-animal-control-613190/",
+      "imageUrl": "https://cdn.findpawpal.com/office/613190.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 622196,
+      "slug": "brightside-animal-center-formerly-humane-society-of-redmond-622196",
+      "name": "BrightSide Animal Center (formerly Humane Society of Redmond)",
+      "address": "1355 Northeast Hemlock Avenue, Redmond, OR 97756",
+      "phone": "541-923-0882",
+      "image": "./img/shelter/office/622196.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/brightside-animal-center-formerly-humane-society-of-redmond-622196/",
+      "imageUrl": "https://cdn.findpawpal.com/office/622196.jpg?f=webp&w=730"
+    }
+  ]
+}

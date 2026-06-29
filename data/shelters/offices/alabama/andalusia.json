@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T18:16:43.585813+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "andalusia",
+    "name": "Andalusia",
+    "label": "Andalusia, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/andalusia/",
+  "offices": [
+    {
+      "slug": "andalusia-area-humane-society-6356",
+      "name": "Andalusia Area Humane Society",
+      "address": "1906 East 3 Notch Street, Andalusia, AL 36420",
+      "phone": "334-222-8142",
+      "image": "./img/shelter/office/6356.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/andalusia-area-humane-society-6356/",
+      "imageUrl": "https://cdn.findpawpal.com/office/6356.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "andalusia-animal-shelter-7117",
+      "name": "Andalusia Animal Shelter",
+      "address": "101 Coliseum Ave, Andalusia, AL 36421",
+      "phone": "334-222-8705",
+      "image": "./img/shelter/office/7117.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/andalusia-animal-shelter-7117/",
+      "imageUrl": "https://cdn.findpawpal.com/office/7117.jpg?f=webp&w=730"
+    }
+  ]
+}

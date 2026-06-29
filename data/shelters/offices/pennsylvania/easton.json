@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:52:41.457059+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "easton",
+    "name": "Easton",
+    "label": "Easton, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/easton/",
+  "offices": [
+    {
+      "officeId": 588928,
+      "slug": "northampton-county-spca-northampton-county-spca-588928",
+      "name": "Northampton County SPCA. Northampton County SPCA",
+      "address": "1165 Island Park Road, Easton, PA 18042",
+      "phone": "610-252-7722",
+      "image": "./img/shelter/office/588928.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/northampton-county-spca-northampton-county-spca-588928/",
+      "imageUrl": "https://cdn.findpawpal.com/office/588928.jpg?f=webp&w=730"
+    }
+  ]
+}

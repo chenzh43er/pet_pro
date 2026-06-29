@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:12:39.431836+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "south-haven",
+    "name": "South Haven",
+    "label": "South Haven, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/south-haven/",
+  "offices": [
+    {
+      "officeId": 205107,
+      "slug": "al-van-humane-society-205107",
+      "name": "Al-Van Humane Society",
+      "address": "73303 8th Avenue, South Haven, MI 49090",
+      "phone": "269-637-5062",
+      "image": "./img/shelter/office/205107.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/al-van-humane-society-205107/",
+      "imageUrl": "https://cdn.findpawpal.com/office/205107.jpg?f=webp&w=730"
+    }
+  ]
+}

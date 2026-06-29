@@ -1,0 +1,21 @@
+{
+  "officeId": 94400,
+  "slug": "humane-society-of-bergen-county-94400",
+  "name": "Humane Society of Bergen County",
+  "address": "221 Stuyvesant Avenue, Lyndhurst, NJ 07071",
+  "street": "221 Stuyvesant Avenue",
+  "addressCity": "Lyndhurst",
+  "stateCode": "NJ",
+  "zip": "07071",
+  "phone": "201-896-9300",
+  "image": "./img/shelter/office/94400.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-bergen-county-94400/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "lyndhurst",
+  "cityName": "Lyndhurst",
+  "cityLabel": "Lyndhurst, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/lyndhurst/",
+  "fetchedAt": "2026-06-27T19:27:11.318434+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/94400.jpg?f=webp&w=730"
+}

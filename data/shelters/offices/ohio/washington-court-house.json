@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:47:33.720677+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "washington-court-house",
+    "name": "Washington Court House",
+    "label": "Washington Court House, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/washington-court-house/",
+  "offices": [
+    {
+      "officeId": 443840,
+      "slug": "fayette-dog-warden-443840",
+      "name": "Fayette Dog Warden",
+      "address": "1550 Robinson Road Southeast, Washington Court House, OH 43160",
+      "phone": "740-335-6630",
+      "image": "./img/shelter/office/443840.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fayette-dog-warden-443840/",
+      "imageUrl": "https://cdn.findpawpal.com/office/443840.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 580162,
+      "slug": "fayette-county-humane-society-580162",
+      "name": "Fayette County Humane Society",
+      "address": "153 South Main Street, Washington Court House, OH 43160",
+      "phone": "740-335-8126",
+      "image": "./img/shelter/office/580162.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fayette-county-humane-society-580162/",
+      "imageUrl": "https://cdn.findpawpal.com/office/580162.jpg?f=webp&w=730"
+    }
+  ]
+}

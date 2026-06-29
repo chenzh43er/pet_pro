@@ -1,0 +1,21 @@
+{
+  "officeId": 647026,
+  "slug": "duncan-animal-shelter-647026",
+  "name": "Duncan Animal Shelter",
+  "address": "800 Martin Luther King Junior Avenue, Duncan, OK 73533",
+  "street": "800 Martin Luther King Junior Avenue",
+  "addressCity": "Duncan",
+  "stateCode": "OK",
+  "zip": "73533",
+  "phone": "580-252-6608",
+  "image": "./img/shelter/office/647026.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/duncan-animal-shelter-647026/",
+  "stateSlug": "oklahoma",
+  "stateName": "Oklahoma",
+  "citySlug": "duncan",
+  "cityName": "Duncan",
+  "cityLabel": "Duncan, OK",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/oklahoma/duncan/",
+  "fetchedAt": "2026-06-27T19:48:26.209402+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/647026.jpg?f=webp&w=730"
+}

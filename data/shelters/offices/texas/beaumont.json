@@ -1,0 +1,43 @@
+{
+  "fetchedAt": "2026-06-27T20:02:59.237554+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "beaumont",
+    "name": "Beaumont",
+    "label": "Beaumont, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/beaumont/",
+  "offices": [
+    {
+      "officeId": 479585,
+      "slug": "beaumont-animal-shelter-479585",
+      "name": "Beaumont Animal Shelter",
+      "address": "1884 Pine Street, Beaumont, TX 77703",
+      "phone": "409-880-3794",
+      "image": "./img/shelter/office/479585.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/beaumont-animal-shelter-479585/",
+      "imageUrl": "https://cdn.findpawpal.com/office/479585.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674187,
+      "slug": "port-arthur-humane-society-674187",
+      "name": "Port Arthur Humane Society",
+      "address": "PO Box 1629, Beaumont, TX 77704",
+      "phone": "713-722-0605",
+      "image": "https://cdn.findpawpal.com/office/674187.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/port-arthur-humane-society-674187/"
+    },
+    {
+      "officeId": 702302,
+      "slug": "humane-society-southeast-texas-702302",
+      "name": "Humane Society-Southeast Texas",
+      "address": "2050 Spindletop Avenue, Beaumont, TX 77705",
+      "phone": "409-833-0504",
+      "image": "https://cdn.findpawpal.com/office/702302.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-southeast-texas-702302/"
+    }
+  ]
+}

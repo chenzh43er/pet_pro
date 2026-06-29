@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:29:22.317431+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "pomona",
+    "name": "Pomona",
+    "label": "Pomona, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/pomona/",
+  "offices": [
+    {
+      "officeId": 668537,
+      "slug": "inland-valley-humane-society-668537",
+      "name": "Inland Valley Humane Society",
+      "address": "500 Humane Way, Pomona, CA 91766",
+      "phone": "909-623-9777",
+      "image": "./img/shelter/office/668537.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/inland-valley-humane-society-668537/",
+      "imageUrl": "https://cdn.findpawpal.com/office/668537.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:44:12.658377+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "bethalto",
+    "name": "Bethalto",
+    "label": "Bethalto, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/bethalto/",
+  "offices": [
+    {
+      "officeId": 386505,
+      "slug": "sleepy-dog-rescue-386505",
+      "name": "Sleepy Dog Rescue",
+      "address": "4717 Park Drive, Bethalto, IL 62010",
+      "phone": "618-823-1444",
+      "image": "./img/shelter/office/386505.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sleepy-dog-rescue-386505/",
+      "imageUrl": "https://cdn.findpawpal.com/office/386505.jpg?f=webp&w=730"
+    }
+  ]
+}

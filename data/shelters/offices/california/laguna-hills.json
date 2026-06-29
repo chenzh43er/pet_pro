@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-06-27T18:26:57.979571+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "laguna-hills",
+    "name": "Laguna Hills",
+    "label": "Laguna Hills, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/laguna-hills/",
+  "offices": [
+    {
+      "slug": "orange-county-animal-shelter-365051",
+      "name": "Orange County Animal Shelter",
+      "address": "23340 Moulton Parkway, Laguna Hills, CA 92653",
+      "phone": "949-249-5160",
+      "image": "https://cdn.findpawpal.com/office/365051.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/orange-county-animal-shelter-365051/"
+    }
+  ]
+}

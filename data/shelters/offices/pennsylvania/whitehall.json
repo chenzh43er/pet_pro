@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:55:38.064769+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "whitehall",
+    "name": "Whitehall",
+    "label": "Whitehall, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/whitehall/",
+  "offices": [
+    {
+      "officeId": 429094,
+      "slug": "peaceable-kingdom-inc-429094",
+      "name": "Peaceable Kingdom Inc",
+      "address": "1049 Macarthur Road, Whitehall, PA 18052",
+      "phone": "610-432-2532",
+      "image": "./img/shelter/office/429094.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/peaceable-kingdom-inc-429094/",
+      "imageUrl": "https://cdn.findpawpal.com/office/429094.jpg?f=webp&w=730"
+    }
+  ]
+}

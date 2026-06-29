@@ -1,0 +1,21 @@
+{
+  "officeId": 43020,
+  "slug": "foothills-animal-shelter-43020",
+  "name": "Foothills Animal Shelter",
+  "address": "580 McIntyre Street, Golden, CO 80401",
+  "street": "580 McIntyre Street",
+  "addressCity": "Golden",
+  "stateCode": "CO",
+  "zip": "80401",
+  "phone": "303-278-7575",
+  "image": "./img/shelter/office/43020.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/foothills-animal-shelter-43020/",
+  "stateSlug": "colorado",
+  "stateName": "Colorado",
+  "citySlug": "golden",
+  "cityName": "Golden",
+  "cityLabel": "Golden, CO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/colorado/golden/",
+  "fetchedAt": "2026-06-27T18:34:19.579953+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/43020.jpg?f=webp&w=730"
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:38:50.171332+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "corolla",
+    "name": "Corolla",
+    "label": "Corolla, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/corolla/",
+  "offices": [
+    {
+      "officeId": 212644,
+      "slug": "corolla-wild-horse-fund-inc-212644",
+      "name": "Corolla Wild Horse Fund, Inc.",
+      "address": "PO Box 361, Corolla, NC 27927",
+      "phone": "252-453-8002",
+      "image": "./img/shelter/office/212644.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/corolla-wild-horse-fund-inc-212644/",
+      "imageUrl": "https://cdn.findpawpal.com/office/212644.jpg?f=webp&w=730"
+    }
+  ]
+}

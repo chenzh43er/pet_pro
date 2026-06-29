@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:45:25.555527+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "maumee",
+    "name": "Maumee",
+    "label": "Maumee, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/maumee/",
+  "offices": [
+    {
+      "officeId": 587528,
+      "slug": "toledo-area-humane-society-587528",
+      "name": "Toledo Area Humane Society",
+      "address": "827 Illinois Avenue, Maumee, OH 43537",
+      "phone": "419-891-0705",
+      "image": "./img/shelter/office/587528.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/toledo-area-humane-society-587528/",
+      "imageUrl": "https://cdn.findpawpal.com/office/587528.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 588674,
+      "slug": "maumee-animal-control-588674",
+      "name": "Maumee Animal Control",
+      "address": "109 East Dudley Street, Maumee, OH 43537",
+      "phone": "419-897-7045",
+      "image": "./img/shelter/office/588674.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/maumee-animal-control-588674/",
+      "imageUrl": "https://cdn.findpawpal.com/office/588674.jpg?f=webp&w=730"
+    }
+  ]
+}

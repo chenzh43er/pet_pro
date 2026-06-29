@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:00:52.975495+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "tioga",
+    "name": "Tioga",
+    "label": "Tioga, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/tioga/",
+  "offices": [
+    {
+      "officeId": 243235,
+      "slug": "humane-society-of-central-louisiana-243235",
+      "name": "Humane Society of Central Louisiana",
+      "address": "PO Box 83, Tioga, LA 71477",
+      "phone": "318-641-0458",
+      "image": "https://cdn.findpawpal.com/office/243235.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-central-louisiana-243235/"
+    }
+  ]
+}

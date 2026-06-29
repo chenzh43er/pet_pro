@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:05:14.165821+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "giddings",
+    "name": "Giddings",
+    "label": "Giddings, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/giddings/",
+  "offices": [
+    {
+      "officeId": 702345,
+      "slug": "giddings-animal-control-702345",
+      "name": "Giddings Animal Control",
+      "address": "332 East Cuero Street, Giddings, TX 78942",
+      "phone": "979-542-5010",
+      "image": "./img/shelter/office/702345.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/giddings-animal-control-702345/",
+      "imageUrl": "https://cdn.findpawpal.com/office/702345.jpg?f=webp&w=730"
+    }
+  ]
+}

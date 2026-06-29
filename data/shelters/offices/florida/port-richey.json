@@ -1,0 +1,42 @@
+{
+  "fetchedAt": "2026-06-27T18:16:49.803799+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "port-richey",
+    "name": "Port Richey",
+    "label": "Port Richey, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/port-richey/",
+  "offices": [
+    {
+      "slug": "pit-bull-happenings-rescue-284868",
+      "name": "Pit Bull Happenings Rescue",
+      "address": "9438 U.s. 19, Port Richey, FL 34668",
+      "phone": "727-247-6760",
+      "image": "./img/shelter/office/284868.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pit-bull-happenings-rescue-284868/",
+      "imageUrl": "https://cdn.findpawpal.com/office/284868.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pit-bull-happenings-inc-323718",
+      "name": "Pit Bull Happenings, Inc.",
+      "address": "PO Box 882, Port Richey, FL 34673",
+      "phone": "",
+      "image": "./img/shelter/office/323718.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pit-bull-happenings-inc-323718/",
+      "imageUrl": "https://cdn.findpawpal.com/office/323718.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tampa-bay-cat-alliance-351327",
+      "name": "Tampa Bay Cat Alliance",
+      "address": "8054 Washington Street, Port Richey, FL 34668",
+      "phone": "727-203-3813",
+      "image": "./img/shelter/office/351327.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tampa-bay-cat-alliance-351327/",
+      "imageUrl": "https://cdn.findpawpal.com/office/351327.jpg?f=webp&w=730"
+    }
+  ]
+}

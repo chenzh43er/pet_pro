@@ -1,0 +1,21 @@
+{
+  "officeId": 363222,
+  "slug": "kings-county-spca-363222",
+  "name": "Kings County SPCA",
+  "address": "8084 Lacey Boulevard, Hanford, CA 93230",
+  "street": "8084 Lacey Boulevard",
+  "addressCity": "Hanford",
+  "stateCode": "CA",
+  "zip": "93230",
+  "phone": "559-584-8766",
+  "image": "./img/shelter/office/363222.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/kings-county-spca-363222/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "hanford",
+  "cityName": "Hanford",
+  "cityLabel": "Hanford, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/hanford/",
+  "fetchedAt": "2026-06-27T18:26:21.577724+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/363222.jpg?f=webp&w=730"
+}

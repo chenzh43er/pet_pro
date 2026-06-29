@@ -1,0 +1,21 @@
+{
+  "officeId": 315432,
+  "slug": "humanecny-315432",
+  "name": "HumaneCNY",
+  "address": "4915 West Taft Road, Liverpool, NY 13088",
+  "street": "4915 West Taft Road",
+  "addressCity": "Liverpool",
+  "stateCode": "NY",
+  "zip": "13088",
+  "phone": "315-457-8762",
+  "image": "./img/shelter/office/315432.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/humanecny-315432/",
+  "stateSlug": "new-york",
+  "stateName": "New York",
+  "citySlug": "liverpool",
+  "cityName": "Liverpool",
+  "cityLabel": "Liverpool, NY",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-york/liverpool/",
+  "fetchedAt": "2026-06-27T19:34:35.569438+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/315432.jpg?f=webp&w=730"
+}

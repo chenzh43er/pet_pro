@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:40:41.403281+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "newport",
+    "name": "Newport",
+    "label": "Newport, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/newport/",
+  "offices": [
+    {
+      "officeId": 265538,
+      "slug": "carteret-county-humane-society-265538",
+      "name": "Carteret County Humane Society",
+      "address": "853 Hibbs Road, Newport, NC 28570",
+      "phone": "252-247-7744",
+      "image": "./img/shelter/office/265538.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/carteret-county-humane-society-265538/",
+      "imageUrl": "https://cdn.findpawpal.com/office/265538.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 265546,
+      "slug": "doggie-orphans-great-small-inc-265546",
+      "name": "Doggie Orphans Great Small, Inc.",
+      "address": "503 East Chatham Street, Newport, NC 28570",
+      "phone": "252-652-4269",
+      "image": "./img/shelter/office/265546.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/doggie-orphans-great-small-inc-265546/",
+      "imageUrl": "https://cdn.findpawpal.com/office/265546.jpg?f=webp&w=730"
+    }
+  ]
+}

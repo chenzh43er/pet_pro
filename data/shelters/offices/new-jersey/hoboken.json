@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:26:38.270557+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "hoboken",
+    "name": "Hoboken",
+    "label": "Hoboken, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/hoboken/",
+  "offices": [
+    {
+      "officeId": 96389,
+      "slug": "manes-and-tails-organization-96389",
+      "name": "Manes & Tails Organization",
+      "address": "456 9th Street, Hoboken, NJ 07030",
+      "phone": "201-606-3511",
+      "image": "./img/shelter/office/96389.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/manes-and-tails-organization-96389/",
+      "imageUrl": "https://cdn.findpawpal.com/office/96389.jpg?f=webp&w=730"
+    }
+  ]
+}

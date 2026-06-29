@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:04:21.414579+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "phoenix",
+    "name": "Phoenix",
+    "label": "Phoenix, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/phoenix/",
+  "offices": [
+    {
+      "officeId": 372308,
+      "slug": "defenders-of-animal-rights-inc-372308",
+      "name": "Defenders of Animal Rights Inc",
+      "address": "14412 Old York Road, Phoenix, MD 21131",
+      "phone": "410-527-1466",
+      "image": "./img/shelter/office/372308.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/defenders-of-animal-rights-inc-372308/",
+      "imageUrl": "https://cdn.findpawpal.com/office/372308.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 393945,
+      "slug": "action-pet-rescue-393945",
+      "name": "Action Pet Rescue",
+      "address": "3300 Whitesworth Road, Phoenix, MD 21131",
+      "phone": "443-318-4810",
+      "image": "./img/shelter/office/393945.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/action-pet-rescue-393945/",
+      "imageUrl": "https://cdn.findpawpal.com/office/393945.jpg?f=webp&w=730"
+    }
+  ]
+}

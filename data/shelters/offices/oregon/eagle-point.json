@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:50:23.968414+00:00",
+  "state": {
+    "slug": "oregon",
+    "name": "Oregon"
+  },
+  "city": {
+    "slug": "eagle-point",
+    "name": "Eagle Point",
+    "label": "Eagle Point, OR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oregon/eagle-point/",
+  "offices": [
+    {
+      "officeId": 659534,
+      "slug": "wildwood-exotic-animal-shelter-659534",
+      "name": "Wildwood Exotic Animal Shelter",
+      "address": "17630 Highway 62, Eagle Point, OR 97524",
+      "phone": "541-830-5339",
+      "image": "./img/shelter/office/659534.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wildwood-exotic-animal-shelter-659534/",
+      "imageUrl": "https://cdn.findpawpal.com/office/659534.jpg?f=webp&w=730"
+    }
+  ]
+}

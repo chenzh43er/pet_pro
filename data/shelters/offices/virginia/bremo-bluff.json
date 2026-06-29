@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:12:58.954601+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "bremo-bluff",
+    "name": "Bremo Bluff",
+    "label": "Bremo Bluff, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/bremo-bluff/",
+  "offices": [
+    {
+      "officeId": 644515,
+      "slug": "peaceful-passings-inc-644515",
+      "name": "Peaceful Passings, Inc.",
+      "address": "2856 Cloverdale Road, Bremo Bluff, VA 23022",
+      "phone": "434-842-3287",
+      "image": "https://cdn.findpawpal.com/office/644515.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/peaceful-passings-inc-644515/"
+    }
+  ]
+}

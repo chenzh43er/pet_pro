@@ -1,0 +1,42 @@
+{
+  "fetchedAt": "2026-06-27T20:13:07.945873+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "chantilly",
+    "name": "Chantilly",
+    "label": "Chantilly, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/chantilly/",
+  "offices": [
+    {
+      "officeId": 511171,
+      "slug": "collie-recue-inc-511171",
+      "name": "Collie Recue, Inc.",
+      "address": "PO Box 223953, Chantilly, VA 20153",
+      "phone": "703-963-7329",
+      "image": "https://cdn.findpawpal.com/office/511171.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/collie-recue-inc-511171/"
+    },
+    {
+      "officeId": 511932,
+      "slug": "a-forever-home-rescue-foundation-511932",
+      "name": "A Forever Home Rescue Foundation",
+      "address": "PO Box 222801, Chantilly, VA 20153",
+      "phone": "703-961-8690",
+      "image": "https://cdn.findpawpal.com/office/511932.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/a-forever-home-rescue-foundation-511932/"
+    },
+    {
+      "officeId": 575422,
+      "slug": "lost-dog-and-cat-rescue-foundation-575422",
+      "name": "Lost Dog and Cat Rescue Foundation",
+      "address": "PO Box 223953, Chantilly, VA 20153",
+      "phone": "703-295-3647",
+      "image": "https://cdn.findpawpal.com/office/575422.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/lost-dog-and-cat-rescue-foundation-575422/"
+    }
+  ]
+}

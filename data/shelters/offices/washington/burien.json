@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:17:22.177605+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "burien",
+    "name": "Burien",
+    "label": "Burien, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/burien/",
+  "offices": [
+    {
+      "officeId": 629076,
+      "slug": "burien-animal-control-629076",
+      "name": "Burien Animal Control",
+      "address": "13622 1st Avenue South, Burien, WA 98168",
+      "phone": "206-870-8471",
+      "image": "./img/shelter/office/629076.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/burien-animal-control-629076/",
+      "imageUrl": "https://cdn.findpawpal.com/office/629076.jpg?f=webp&w=730"
+    }
+  ]
+}

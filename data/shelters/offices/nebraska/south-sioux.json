@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:22:55.224824+00:00",
+  "state": {
+    "slug": "nebraska",
+    "name": "Nebraska"
+  },
+  "city": {
+    "slug": "south-sioux",
+    "name": "South Sioux",
+    "label": "South Sioux, NE"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nebraska/south-sioux/",
+  "offices": [
+    {
+      "officeId": 391403,
+      "slug": "south-sioux-city-animal-control-391403",
+      "name": "South Sioux City Animal Control",
+      "address": "215 East 26th Street, South Sioux, NE 68776",
+      "phone": "402-494-7590",
+      "image": "./img/shelter/office/391403.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/south-sioux-city-animal-control-391403/",
+      "imageUrl": "https://cdn.findpawpal.com/office/391403.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 669791,
+      "slug": "animal-services-company-669791",
+      "name": "Animal Services Company",
+      "address": "PO Box 641, South Sioux, NE 68776",
+      "phone": "402-494-6215",
+      "image": "https://cdn.findpawpal.com/office/669791.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-services-company-669791/"
+    }
+  ]
+}

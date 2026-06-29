@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:35:52.736194+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "patterson",
+    "name": "Patterson",
+    "label": "Patterson, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/patterson/",
+  "offices": [
+    {
+      "officeId": 418318,
+      "slug": "pawsafe-animal-control-418318",
+      "name": "Pawsafe Animal Control",
+      "address": "1253 New York 311, Patterson, NY 12563",
+      "phone": "434-460-2558",
+      "image": "https://cdn.findpawpal.com/office/418318.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/pawsafe-animal-control-418318/"
+    }
+  ]
+}

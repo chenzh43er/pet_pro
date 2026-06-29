@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T19:36:43.878099+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "schenectady",
+    "name": "Schenectady",
+    "label": "Schenectady, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/schenectady/",
+  "offices": [
+    {
+      "officeId": 334441,
+      "slug": "waggin-tails-pet-rescue-334441",
+      "name": "Waggin' Tails Pet Rescue",
+      "address": "1920 Dodge Street, Schenectady, NY 12306",
+      "phone": "518-356-1100",
+      "image": "./img/shelter/office/334441.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/waggin-tails-pet-rescue-334441/",
+      "imageUrl": "https://cdn.findpawpal.com/office/334441.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 342434,
+      "slug": "animal-protective-foundation-342434",
+      "name": "Animal Protective Foundation",
+      "address": "53 Maple Avenue, Schenectady, NY 12302",
+      "phone": "518-374-3944",
+      "image": "./img/shelter/office/342434.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-protective-foundation-342434/",
+      "imageUrl": "https://cdn.findpawpal.com/office/342434.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 404336,
+      "slug": "emerald-acres-404336",
+      "name": "Emerald Acres",
+      "address": "1197 Mariaville Road, Schenectady, NY 12306",
+      "phone": "518-355-1749",
+      "image": "./img/shelter/office/404336.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/emerald-acres-404336/",
+      "imageUrl": "https://cdn.findpawpal.com/office/404336.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 404343,
+      "slug": "gppd-shepherd-k9-rescue-404343",
+      "name": "Gppd Shepherd K9 Rescue",
+      "address": "3313 Mariaville Road, Schenectady, NY 12306",
+      "phone": "518-393-0755",
+      "image": "./img/shelter/office/404343.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gppd-shepherd-k9-rescue-404343/",
+      "imageUrl": "https://cdn.findpawpal.com/office/404343.jpg?f=webp&w=730"
+    }
+  ]
+}

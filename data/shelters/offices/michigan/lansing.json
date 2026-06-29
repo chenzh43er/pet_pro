@@ -1,0 +1,85 @@
+{
+  "fetchedAt": "2026-06-27T19:11:21.638477+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "lansing",
+    "name": "Lansing",
+    "label": "Lansing, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/lansing/",
+  "offices": [
+    {
+      "officeId": 189436,
+      "slug": "animal-placement-bureau-189436",
+      "name": "Animal Placement Bureau",
+      "address": "PO Box 80146, Lansing, MI 48908",
+      "phone": "517-346-4505",
+      "image": "./img/shelter/office/189436.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-placement-bureau-189436/",
+      "imageUrl": "https://cdn.findpawpal.com/office/189436.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 189452,
+      "slug": "australian-shepherd-rescue-in-michigan-189452",
+      "name": "Australian Shepherd Rescue In Michigan",
+      "address": "223 North Pennsylvania Avenue, Lansing, MI 48912",
+      "phone": "517-484-8099",
+      "image": "./img/shelter/office/189452.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/australian-shepherd-rescue-in-michigan-189452/",
+      "imageUrl": "https://cdn.findpawpal.com/office/189452.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 191040,
+      "slug": "ingham-county-animal-shelter-191040",
+      "name": "Ingham County Animal Shelter",
+      "address": "826 West Saginaw Street, Lansing, MI 48915",
+      "phone": "517-367-0676",
+      "image": "./img/shelter/office/191040.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ingham-county-animal-shelter-191040/",
+      "imageUrl": "https://cdn.findpawpal.com/office/191040.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 202317,
+      "slug": "friends-of-ingham-county-animals-202317",
+      "name": "Friends of Ingham County Animals",
+      "address": "PO Box 11115, Lansing, MI 48901",
+      "phone": "",
+      "image": "./img/shelter/office/202317.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-ingham-county-animals-202317/",
+      "imageUrl": "https://cdn.findpawpal.com/office/202317.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 204803,
+      "slug": "animal-resource-network-inc-204803",
+      "name": "Animal Resource Network, Inc.",
+      "address": "PO Box 80376, Lansing, MI 48908",
+      "phone": "517-853-8239",
+      "image": "./img/shelter/office/204803.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-resource-network-inc-204803/",
+      "imageUrl": "https://cdn.findpawpal.com/office/204803.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 204833,
+      "slug": "capital-area-humane-society-204833",
+      "name": "Capital Area Humane Society",
+      "address": "7095 West Grand River Avenue, Lansing, MI 48906",
+      "phone": "517-626-6060",
+      "image": "./img/shelter/office/204833.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/capital-area-humane-society-204833/",
+      "imageUrl": "https://cdn.findpawpal.com/office/204833.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 235687,
+      "slug": "new-rattitude-235687",
+      "name": "New Rattitude",
+      "address": "PO Box 14064, Lansing, MI 48901",
+      "phone": "",
+      "image": "./img/shelter/office/235687.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-rattitude-235687/",
+      "imageUrl": "https://cdn.findpawpal.com/office/235687.jpg?f=webp&w=730"
+    }
+  ]
+}

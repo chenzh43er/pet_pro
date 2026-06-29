@@ -1,0 +1,75 @@
+{
+  "fetchedAt": "2026-06-27T18:57:34.526227+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "lexington",
+    "name": "Lexington",
+    "label": "Lexington, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/lexington/",
+  "offices": [
+    {
+      "officeId": 110040,
+      "slug": "finally-home-chinchilla-rescue-110040",
+      "name": "Finally Home Chinchilla Rescue",
+      "address": "Belleau Wood Dr, Lexington, KY 40517",
+      "phone": "",
+      "image": "./img/shelter/office/110040.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/finally-home-chinchilla-rescue-110040/",
+      "imageUrl": "https://cdn.findpawpal.com/office/110040.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 110290,
+      "slug": "equine-transitional-training-alliance-110290",
+      "name": "Equine Transitional Training Alliance",
+      "address": "PO Box 24834, Lexington, KY 40524",
+      "phone": "857-846-5655",
+      "image": "./img/shelter/office/110290.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/equine-transitional-training-alliance-110290/",
+      "imageUrl": "https://cdn.findpawpal.com/office/110290.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 110326,
+      "slug": "new-chin-beginnings-110326",
+      "name": "New Chin Beginnings",
+      "address": "1589 Springfield Drive, Lexington, KY 40515",
+      "phone": "",
+      "image": "./img/shelter/office/110326.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-chin-beginnings-110326/",
+      "imageUrl": "https://cdn.findpawpal.com/office/110326.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 110681,
+      "slug": "haven-for-dogs-inc-110681",
+      "name": "Haven for Dogs, Inc.",
+      "address": "PO Box 22505, Lexington, KY 40522",
+      "phone": "859-873-2330",
+      "image": "./img/shelter/office/110681.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/haven-for-dogs-inc-110681/",
+      "imageUrl": "https://cdn.findpawpal.com/office/110681.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 115327,
+      "slug": "lexington-humane-society-115327",
+      "name": "Lexington Humane Society",
+      "address": "1600 Old Frankfort Pike, Lexington, KY 40504",
+      "phone": "859-233-0044",
+      "image": "./img/shelter/office/115327.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lexington-humane-society-115327/",
+      "imageUrl": "https://cdn.findpawpal.com/office/115327.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 115336,
+      "slug": "2x2-noahs-ark-animal-sanctuary-115336",
+      "name": "2x2 Noah's Ark Animal Sanctuary",
+      "address": "2220 Nicholasville Road, Lexington, KY 40503",
+      "phone": "859-619-4874",
+      "image": "./img/shelter/office/115336.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/2x2-noahs-ark-animal-sanctuary-115336/",
+      "imageUrl": "https://cdn.findpawpal.com/office/115336.jpg?f=webp&w=730"
+    }
+  ]
+}

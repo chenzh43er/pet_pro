@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:37:45.995056+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "westbrook",
+    "name": "Westbrook",
+    "label": "Westbrook, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/westbrook/",
+  "offices": [
+    {
+      "officeId": 158982,
+      "slug": "westbrook-animal-control-158982",
+      "name": "Westbrook Animal Control",
+      "address": "1050 Horse Hill Road, Westbrook, CT 06498",
+      "phone": "860-399-9869",
+      "image": "https://cdn.findpawpal.com/office/158982.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/westbrook-animal-control-158982/"
+    }
+  ]
+}

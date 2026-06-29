@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:19:15.711315+00:00",
+  "state": {
+    "slug": "washington",
+    "name": "Washington"
+  },
+  "city": {
+    "slug": "sumner",
+    "name": "Sumner",
+    "label": "Sumner, WA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/washington/sumner/",
+  "offices": [
+    {
+      "officeId": 614586,
+      "slug": "cascade-animal-protection-society-614586",
+      "name": "Cascade Animal Protection Society",
+      "address": "PO Box 2085, Sumner, WA 98390",
+      "phone": "253-863-8004",
+      "image": "https://cdn.findpawpal.com/office/614586.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/cascade-animal-protection-society-614586/"
+    }
+  ]
+}

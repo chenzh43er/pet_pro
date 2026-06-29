@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:55:14.332153+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "towanda",
+    "name": "Towanda",
+    "label": "Towanda, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/towanda/",
+  "offices": [
+    {
+      "officeId": 589476,
+      "slug": "towanda-animal-shelter-589476",
+      "name": "Towanda Animal Shelter",
+      "address": "305 2nd Street, Towanda, PA 18848",
+      "phone": "570-265-2623",
+      "image": "./img/shelter/office/589476.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/towanda-animal-shelter-589476/",
+      "imageUrl": "https://cdn.findpawpal.com/office/589476.jpg?f=webp&w=730"
+    }
+  ]
+}

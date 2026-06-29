@@ -1,0 +1,21 @@
+{
+  "officeId": 102021,
+  "slug": "helmetta-animal-shelter-102021",
+  "name": "Helmetta Animal Shelter",
+  "address": "58 Main Street, Helmetta, NJ 08828",
+  "street": "58 Main Street",
+  "addressCity": "Helmetta",
+  "stateCode": "NJ",
+  "zip": "08828",
+  "phone": "732-521-6016",
+  "image": "./img/shelter/office/102021.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/helmetta-animal-shelter-102021/",
+  "stateSlug": "new-jersey",
+  "stateName": "New Jersey",
+  "citySlug": "helmetta",
+  "cityName": "Helmetta",
+  "cityLabel": "Helmetta, NJ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-jersey/helmetta/",
+  "fetchedAt": "2026-06-27T19:26:28.912242+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/102021.jpg?f=webp&w=730"
+}

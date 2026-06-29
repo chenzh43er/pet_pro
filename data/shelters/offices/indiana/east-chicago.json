@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:49:55.042579+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "east-chicago",
+    "name": "East Chicago",
+    "label": "East Chicago, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/east-chicago/",
+  "offices": [
+    {
+      "officeId": 201594,
+      "slug": "east-chicago-pound-201594",
+      "name": "East Chicago Pound",
+      "address": "2829 Gary Avenue, East Chicago, IN 46312",
+      "phone": "219-391-8364",
+      "image": "./img/shelter/office/201594.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/east-chicago-pound-201594/",
+      "imageUrl": "https://cdn.findpawpal.com/office/201594.jpg?f=webp&w=730"
+    }
+  ]
+}

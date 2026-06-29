@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:56:53.063285+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "ermine",
+    "name": "Ermine",
+    "label": "Ermine, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/ermine/",
+  "offices": [
+    {
+      "officeId": 120105,
+      "slug": "dreamland-animal-rescue-120105",
+      "name": "Dreamland Animal Rescue",
+      "address": "PO Box 249, Ermine, KY 41815",
+      "phone": "606-633-0050",
+      "image": "https://cdn.findpawpal.com/office/120105.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/dreamland-animal-rescue-120105/"
+    }
+  ]
+}

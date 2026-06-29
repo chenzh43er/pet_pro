@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:37:48.764404+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "woodhull",
+    "name": "Woodhull",
+    "label": "Woodhull, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/woodhull/",
+  "offices": [
+    {
+      "officeId": 317442,
+      "slug": "woodhull-animal-control-317442",
+      "name": "Woodhull Animal Control",
+      "address": "598 Kent Hill Road, Woodhull, NY 14898",
+      "phone": "607-458-5785",
+      "image": "./img/shelter/office/317442.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/woodhull-animal-control-317442/",
+      "imageUrl": "https://cdn.findpawpal.com/office/317442.jpg?f=webp&w=730"
+    }
+  ]
+}

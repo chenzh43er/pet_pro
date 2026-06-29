@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:54:14.201821+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa"
+  },
+  "city": {
+    "slug": "storm-lake",
+    "name": "Storm Lake",
+    "label": "Storm Lake, IA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/storm-lake/",
+  "offices": [
+    {
+      "officeId": 342841,
+      "slug": "storm-lake-animal-control-342841",
+      "name": "Storm Lake Animal Control",
+      "address": "1710 Lake Avenue North, Storm Lake, IA 50588",
+      "phone": "712-732-2033",
+      "image": "./img/shelter/office/342841.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/storm-lake-animal-control-342841/",
+      "imageUrl": "https://cdn.findpawpal.com/office/342841.jpg?f=webp&w=730"
+    }
+  ]
+}

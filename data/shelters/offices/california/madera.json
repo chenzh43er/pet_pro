@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:27:32.688430+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "madera",
+    "name": "Madera",
+    "label": "Madera, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/madera/",
+  "offices": [
+    {
+      "officeId": 366972,
+      "slug": "madera-county-animal-shelter-366972",
+      "name": "Madera County Animal Shelter",
+      "address": "14269 Road 28, Madera, CA 93638",
+      "phone": "209-675-7891",
+      "image": "./img/shelter/office/366972.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/madera-county-animal-shelter-366972/",
+      "imageUrl": "https://cdn.findpawpal.com/office/366972.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "fetchedAt": "2026-06-27T19:19:20.789139+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "kansas",
+    "name": "Kansas",
+    "label": "Kansas, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/kansas/",
+  "offices": [
+    {
+      "officeId": 192087,
+      "slug": "noahs-crusaders-192087",
+      "name": "Noah's Crusaders",
+      "address": "4511 North Grand Avenue, Kansas, MO 64116",
+      "phone": "816-453-8343",
+      "image": "./img/shelter/office/192087.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/noahs-crusaders-192087/",
+      "imageUrl": "https://cdn.findpawpal.com/office/192087.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 192209,
+      "slug": "pets-for-life-192209",
+      "name": "Pets for Life",
+      "address": "7240 Wornall Road, Kansas, MO 64114",
+      "phone": "816-363-3665",
+      "image": "./img/shelter/office/192209.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pets-for-life-192209/",
+      "imageUrl": "https://cdn.findpawpal.com/office/192209.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 193173,
+      "slug": "companion-animal-disaster-reunification-service-193173",
+      "name": "Companion Animal Disaster Reunification Service",
+      "address": "6148 North Madison Avenue, Kansas, MO 64118",
+      "phone": "816-630-0870",
+      "image": "./img/shelter/office/193173.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/companion-animal-disaster-reunification-service-193173/",
+      "imageUrl": "https://cdn.findpawpal.com/office/193173.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 205315,
+      "slug": "kansas-city-animal-control-shelter-205315",
+      "name": "Kansas City Animal Control Shelter",
+      "address": "4400 Raytown Road, Kansas, MO 64129",
+      "phone": "816-871-5900",
+      "image": "https://cdn.findpawpal.com/office/205315.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas-city-animal-control-shelter-205315/"
+    },
+    {
+      "officeId": 205323,
+      "slug": "kansas-city-regap-retired-greyhounds-as-pets-205323",
+      "name": "Kansas City Regap Retired Greyhounds As Pets",
+      "address": "7400 East 102nd Street, Kansas, MO 64134",
+      "phone": "816-763-3333",
+      "image": "./img/shelter/office/205323.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas-city-regap-retired-greyhounds-as-pets-205323/",
+      "imageUrl": "https://cdn.findpawpal.com/office/205323.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 209415,
+      "slug": "spay-and-neuter-kansas-city-209415",
+      "name": "Spay and Neuter Kansas City",
+      "address": "10014 East 47th Street, Kansas, MO 64133",
+      "phone": "816-353-0940",
+      "image": "./img/shelter/office/209415.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/spay-and-neuter-kansas-city-209415/",
+      "imageUrl": "https://cdn.findpawpal.com/office/209415.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 209439,
+      "slug": "mid-america-bully-breed-rescue-209439",
+      "name": "Mid-America Bully Breed Rescue",
+      "address": "PO Box 410233, Kansas, MO 64141",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/209439.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/mid-america-bully-breed-rescue-209439/"
+    },
+    {
+      "officeId": 211087,
+      "slug": "wayside-waifs-211087",
+      "name": "Wayside Waifs",
+      "address": "3901 Martha Truman Road, Kansas, MO 64137",
+      "phone": "816-761-8151",
+      "image": "./img/shelter/office/211087.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wayside-waifs-211087/",
+      "imageUrl": "https://cdn.findpawpal.com/office/211087.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 212340,
+      "slug": "halfway-home-pet-adoptions-212340",
+      "name": "Halfway Home Pet Adoptions",
+      "address": "4400 Raytown Road, Kansas, MO 64129",
+      "phone": "816-921-0201",
+      "image": "https://cdn.findpawpal.com/office/212340.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/halfway-home-pet-adoptions-212340/"
+    },
+    {
+      "officeId": 231082,
+      "slug": "animal-medical-center-and-associates-p-c-231082",
+      "name": "Animal Medical Center & Associates P.C.",
+      "address": "204 West 75th Street, Kansas, MO 64114",
+      "phone": "816-333-9000",
+      "image": "./img/shelter/office/231082.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-medical-center-and-associates-p-c-231082/",
+      "imageUrl": "https://cdn.findpawpal.com/office/231082.jpg?f=webp&w=730"
+    }
+  ]
+}

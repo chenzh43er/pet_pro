@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:23:02.047108+00:00",
+  "state": {
+    "slug": "arkansas",
+    "name": "Arkansas"
+  },
+  "city": {
+    "slug": "piggott",
+    "name": "Piggott",
+    "label": "Piggott, AR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arkansas/piggott/",
+  "offices": [
+    {
+      "officeId": 316159,
+      "slug": "clay-county-humane-society-316159",
+      "name": "Clay County Humane Society",
+      "address": "PO Box 582, Piggott, AR 72454",
+      "phone": "870-598-1040",
+      "image": "./img/shelter/office/316159.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/clay-county-humane-society-316159/",
+      "imageUrl": "https://cdn.findpawpal.com/office/316159.jpg?f=webp&w=730"
+    }
+  ]
+}

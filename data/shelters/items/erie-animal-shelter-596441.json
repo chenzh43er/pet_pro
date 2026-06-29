@@ -1,0 +1,21 @@
+{
+  "officeId": 596441,
+  "slug": "erie-animal-shelter-596441",
+  "name": "Erie Animal Shelter",
+  "address": "1555 East 10th Street, Erie, PA 16511",
+  "street": "1555 East 10th Street",
+  "addressCity": "Erie",
+  "stateCode": "PA",
+  "zip": "16511",
+  "phone": "814-451-0230",
+  "image": "./img/shelter/office/596441.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/erie-animal-shelter-596441/",
+  "stateSlug": "pennsylvania",
+  "stateName": "Pennsylvania",
+  "citySlug": "erie",
+  "cityName": "Erie",
+  "cityLabel": "Erie, PA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/pennsylvania/erie/",
+  "fetchedAt": "2026-06-27T19:52:54.269775+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/596441.jpg?f=webp&w=730"
+}

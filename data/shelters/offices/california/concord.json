@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:25:03.158446+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "concord",
+    "name": "Concord",
+    "label": "Concord, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/concord/",
+  "offices": [
+    {
+      "officeId": 362351,
+      "slug": "contra-costa-county-spca-362351",
+      "name": "Contra Costa County SPCA",
+      "address": "1865 Adobe Street, Concord, CA 94520",
+      "phone": "925-356-5669",
+      "image": "./img/shelter/office/362351.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/contra-costa-county-spca-362351/",
+      "imageUrl": "https://cdn.findpawpal.com/office/362351.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 383089,
+      "slug": "avian-rescue-corporation-383089",
+      "name": "Avian Rescue Corporation",
+      "address": "1212 Saint Elizabeth Court, Concord, CA 94518",
+      "phone": "925-686-2350",
+      "image": "./img/shelter/office/383089.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/avian-rescue-corporation-383089/",
+      "imageUrl": "https://cdn.findpawpal.com/office/383089.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 480588,
+      "slug": "concord-animal-control-480588",
+      "name": "Concord Animal Control",
+      "address": "1950 Market Street, Concord, CA 94520",
+      "phone": "925-685-0908",
+      "image": "./img/shelter/office/480588.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/concord-animal-control-480588/",
+      "imageUrl": "https://cdn.findpawpal.com/office/480588.jpg?f=webp&w=730"
+    }
+  ]
+}

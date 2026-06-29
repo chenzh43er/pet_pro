@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:58:39.433670+00:00",
+  "state": {
+    "slug": "south-carolina",
+    "name": "South Carolina"
+  },
+  "city": {
+    "slug": "yemassee",
+    "name": "Yemassee",
+    "label": "Yemassee, SC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/south-carolina/yemassee/",
+  "offices": [
+    {
+      "officeId": 653407,
+      "slug": "recycled-k-9-animal-rescue-653407",
+      "name": "Recycled K-9 Animal Rescue",
+      "address": "785 Etheridge Road, Yemassee, SC 29945",
+      "phone": "843-726-4631",
+      "image": "./img/shelter/office/653407.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/recycled-k-9-animal-rescue-653407/",
+      "imageUrl": "https://cdn.findpawpal.com/office/653407.jpg?f=webp&w=730"
+    }
+  ]
+}

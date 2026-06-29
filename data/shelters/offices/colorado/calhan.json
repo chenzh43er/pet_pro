@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:32:59.454429+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "calhan",
+    "name": "Calhan",
+    "label": "Calhan, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/calhan/",
+  "offices": [
+    {
+      "officeId": 43163,
+      "slug": "st-animal-rescue-43163",
+      "name": "St Animal Rescue",
+      "address": "35355 Funk Road, Calhan, CO 80808",
+      "phone": "719-541-3099",
+      "image": "https://cdn.findpawpal.com/office/43163.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/st-animal-rescue-43163/"
+    }
+  ]
+}

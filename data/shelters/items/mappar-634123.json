@@ -1,0 +1,21 @@
+{
+  "officeId": 634123,
+  "slug": "mappar-634123",
+  "name": "MAPPAR",
+  "address": "6591 County Road P, Pardeeville, WI 53954",
+  "street": "6591 County Road P",
+  "addressCity": "Pardeeville",
+  "stateCode": "WI",
+  "zip": "53954",
+  "phone": "608-215-8658",
+  "image": "./img/shelter/office/634123.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/mappar-634123/",
+  "stateSlug": "wisconsin",
+  "stateName": "Wisconsin",
+  "citySlug": "pardeeville",
+  "cityName": "Pardeeville",
+  "cityLabel": "Pardeeville, WI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/wisconsin/pardeeville/",
+  "fetchedAt": "2026-06-27T20:23:42.292346+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/634123.jpg?f=webp&w=730"
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:32:05.175696+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "west-sacramento",
+    "name": "West Sacramento",
+    "label": "West Sacramento, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/west-sacramento/",
+  "offices": [
+    {
+      "slug": "skys-the-limit-horse-rescue-inc-476338",
+      "name": "Sky's the Limit Horse Rescue, Inc.",
+      "address": "PO Box 133, West Sacramento, CA 95605",
+      "phone": "815-361-3114",
+      "image": "./img/shelter/office/476338.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/skys-the-limit-horse-rescue-inc-476338/",
+      "imageUrl": "https://cdn.findpawpal.com/office/476338.jpg?f=webp&w=730"
+    }
+  ]
+}

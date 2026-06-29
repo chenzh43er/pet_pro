@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:15:44.711444+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "powhatan",
+    "name": "Powhatan",
+    "label": "Powhatan, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/powhatan/",
+  "offices": [
+    {
+      "officeId": 644625,
+      "slug": "second-chance-animal-shelter-644625",
+      "name": "Second Chance Animal Shelter",
+      "address": "PO Box 55, Powhatan, VA 23139",
+      "phone": "804-598-2100",
+      "image": "./img/shelter/office/644625.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/second-chance-animal-shelter-644625/",
+      "imageUrl": "https://cdn.findpawpal.com/office/644625.jpg?f=webp&w=730"
+    }
+  ]
+}

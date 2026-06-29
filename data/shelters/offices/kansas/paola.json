@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:55:46.869227+00:00",
+  "state": {
+    "slug": "kansas",
+    "name": "Kansas"
+  },
+  "city": {
+    "slug": "paola",
+    "name": "Paola",
+    "label": "Paola, KS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kansas/paola/",
+  "offices": [
+    {
+      "officeId": 5274,
+      "slug": "humane-society-of-miami-county-5274",
+      "name": "Humane Society of Miami County",
+      "address": "PO Box 136, Paola, KS 66071",
+      "phone": "913-294-8400",
+      "image": "./img/shelter/office/5274.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-miami-county-5274/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5274.jpg?f=webp&w=730"
+    }
+  ]
+}

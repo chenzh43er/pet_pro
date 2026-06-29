@@ -1,0 +1,53 @@
+{
+  "fetchedAt": "2026-06-27T18:22:09.422070+00:00",
+  "state": {
+    "slug": "arkansas",
+    "name": "Arkansas"
+  },
+  "city": {
+    "slug": "fort-smith",
+    "name": "Fort Smith",
+    "label": "Fort Smith, AR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arkansas/fort-smith/",
+  "offices": [
+    {
+      "officeId": 250938,
+      "slug": "all-paws-rescue-inc-250938",
+      "name": "All Paws Rescue, Inc.",
+      "address": "PO Box 10672, Fort Smith, AR 72917",
+      "phone": "479-452-0164",
+      "image": "https://cdn.findpawpal.com/office/250938.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/all-paws-rescue-inc-250938/"
+    },
+    {
+      "officeId": 316722,
+      "slug": "sebastian-county-humane-society-316722",
+      "name": "Sebastian county Humane Society",
+      "address": "3800 Kelley Highway, Fort Smith, AR 72904",
+      "phone": "479-783-4395",
+      "image": "./img/shelter/office/316722.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sebastian-county-humane-society-316722/",
+      "imageUrl": "https://cdn.findpawpal.com/office/316722.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 323130,
+      "slug": "fort-smith-animal-control-323130",
+      "name": "Fort Smith Animal Control",
+      "address": "35 South 6th Street, Fort Smith, AR 72901",
+      "phone": "479-785-4221",
+      "image": "./img/shelter/office/323130.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fort-smith-animal-control-323130/",
+      "imageUrl": "https://cdn.findpawpal.com/office/323130.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 327106,
+      "slug": "pets-haven-327106",
+      "name": "Pets Haven",
+      "address": "PO Box 10766, Fort Smith, AR 72917",
+      "phone": "479-782-7002",
+      "image": "https://cdn.findpawpal.com/office/327106.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/pets-haven-327106/"
+    }
+  ]
+}

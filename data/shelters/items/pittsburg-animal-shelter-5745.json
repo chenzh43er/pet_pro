@@ -1,0 +1,21 @@
+{
+  "officeId": 5745,
+  "slug": "pittsburg-animal-shelter-5745",
+  "name": "Pittsburg Animal Shelter",
+  "address": "1316 West Atkinson Road, Pittsburg, KS 66762",
+  "street": "1316 West Atkinson Road",
+  "addressCity": "Pittsburg",
+  "stateCode": "KS",
+  "zip": "66762",
+  "phone": "620-231-8680",
+  "image": "./img/shelter/office/5745.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pittsburg-animal-shelter-5745/",
+  "stateSlug": "kansas",
+  "stateName": "Kansas",
+  "citySlug": "pittsburg",
+  "cityName": "Pittsburg",
+  "cityLabel": "Pittsburg, KS",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/kansas/pittsburg/",
+  "fetchedAt": "2026-06-27T18:55:49.868121+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/5745.jpg?f=webp&w=730"
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 180745,
+  "slug": "chino-valley-animal-shelter-180745",
+  "name": "Chino Valley Animal Shelter",
+  "address": "1020 West Palomino Road, Chino Valley, AZ 86323",
+  "street": "1020 West Palomino Road",
+  "addressCity": "Chino Valley",
+  "stateCode": "AZ",
+  "zip": "86323",
+  "phone": "928-636-4223",
+  "image": "./img/shelter/office/180745.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/chino-valley-animal-shelter-180745/",
+  "stateSlug": "arizona",
+  "stateName": "Arizona",
+  "citySlug": "chino-valley",
+  "cityName": "Chino Valley",
+  "cityLabel": "Chino Valley, AZ",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/arizona/chino-valley/",
+  "fetchedAt": "2026-06-27T18:19:50.412255+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/180745.jpg?f=webp&w=730"
+}

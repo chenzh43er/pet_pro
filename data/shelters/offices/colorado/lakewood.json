@@ -1,0 +1,75 @@
+{
+  "fetchedAt": "2026-06-27T18:34:36.339783+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "lakewood",
+    "name": "Lakewood",
+    "label": "Lakewood, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/lakewood/",
+  "offices": [
+    {
+      "officeId": 39883,
+      "slug": "all-breed-rescue-network-inc-39883",
+      "name": "All Breed Rescue Network, Inc.",
+      "address": "PO Box 150803, Lakewood, CO 80215",
+      "phone": "303-989-7808",
+      "image": "./img/shelter/office/39883.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/all-breed-rescue-network-inc-39883/",
+      "imageUrl": "https://cdn.findpawpal.com/office/39883.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 39961,
+      "slug": "colorado-humane-society-39961",
+      "name": "Colorado Humane Society",
+      "address": "1864 South Wadsworth Boulevard, Lakewood, CO 80232",
+      "phone": "303-988-4465",
+      "image": "./img/shelter/office/39961.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado-humane-society-39961/",
+      "imageUrl": "https://cdn.findpawpal.com/office/39961.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40399,
+      "slug": "angels-with-paws-cat-adoption-and-shelter-40399",
+      "name": "Angels With Paws Cat Adoption and Shelter",
+      "address": "2540 Youngfield Street, Lakewood, CO 80215",
+      "phone": "303-274-2264",
+      "image": "./img/shelter/office/40399.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/angels-with-paws-cat-adoption-and-shelter-40399/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40399.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40412,
+      "slug": "cat-care-society-40412",
+      "name": "Cat Care Society",
+      "address": "5787 West 6th Avenue, Lakewood, CO 80214",
+      "phone": "303-239-9680",
+      "image": "./img/shelter/office/40412.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cat-care-society-40412/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40412.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 40758,
+      "slug": "lakewood-animal-shelter-40758",
+      "name": "Lakewood Animal Shelter",
+      "address": "7265 West Center Avenue, Lakewood, CO 80226",
+      "phone": "303-242-1623",
+      "image": "./img/shelter/office/40758.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lakewood-animal-shelter-40758/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40758.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 43257,
+      "slug": "rocky-mountain-alley-cat-alliance-43257",
+      "name": "Rocky Mountain Alley Cat Alliance",
+      "address": "5785 West 6th Avenue, Lakewood, CO 80214",
+      "phone": "303-623-0765",
+      "image": "./img/shelter/office/43257.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rocky-mountain-alley-cat-alliance-43257/",
+      "imageUrl": "https://cdn.findpawpal.com/office/43257.jpg?f=webp&w=730"
+    }
+  ]
+}

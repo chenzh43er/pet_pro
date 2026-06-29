@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T19:40:06.652213+00:00",
+  "state": {
+    "slug": "north-carolina",
+    "name": "North Carolina"
+  },
+  "city": {
+    "slug": "lexington",
+    "name": "Lexington",
+    "label": "Lexington, NC"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/north-carolina/lexington/",
+  "offices": [
+    {
+      "officeId": 214022,
+      "slug": "humane-society-of-davidson-county-214022",
+      "name": "Humane Society of Davidson County",
+      "address": "108 Hamilton Road, Lexington, NC 27295",
+      "phone": "336-246-2706",
+      "image": "./img/shelter/office/214022.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-davidson-county-214022/",
+      "imageUrl": "https://cdn.findpawpal.com/office/214022.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 214038,
+      "slug": "davidson-county-animal-shelter-214038",
+      "name": "Davidson County Animal Shelter",
+      "address": "490 Glendale Road, Lexington, NC 27292",
+      "phone": "336-357-0805",
+      "image": "./img/shelter/office/214038.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/davidson-county-animal-shelter-214038/",
+      "imageUrl": "https://cdn.findpawpal.com/office/214038.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 215031,
+      "slug": "lexington-animal-control-215031",
+      "name": "Lexington Animal Control",
+      "address": "106 North Main Street, Lexington, NC 27292",
+      "phone": "336-243-3300",
+      "image": "./img/shelter/office/215031.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lexington-animal-control-215031/",
+      "imageUrl": "https://cdn.findpawpal.com/office/215031.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 267409,
+      "slug": "hart-foundation-267409",
+      "name": "Hart Foundation",
+      "address": "2540 Becky Hill Road, Lexington, NC 27295",
+      "phone": "336-787-5786",
+      "image": "./img/shelter/office/267409.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hart-foundation-267409/",
+      "imageUrl": "https://cdn.findpawpal.com/office/267409.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T20:16:23.759634+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "stuart",
+    "name": "Stuart",
+    "label": "Stuart, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/stuart/",
+  "offices": [
+    {
+      "officeId": 644615,
+      "slug": "patrick-county-animal-control-644615",
+      "name": "Patrick County Animal Control",
+      "address": "PO Box 466, Stuart, VA 24171",
+      "phone": "276-694-6259",
+      "image": "./img/shelter/office/644615.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/patrick-county-animal-control-644615/",
+      "imageUrl": "https://cdn.findpawpal.com/office/644615.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 682998,
+      "slug": "patrick-animal-welfare-society-682998",
+      "name": "Patrick Animal Welfare Society",
+      "address": "16 Doctor Kay Ln, Stuart, VA 24171",
+      "phone": "703-694-3663",
+      "image": "./img/shelter/office/682998.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/patrick-animal-welfare-society-682998/",
+      "imageUrl": "https://cdn.findpawpal.com/office/682998.jpg?f=webp&w=730"
+    }
+  ]
+}

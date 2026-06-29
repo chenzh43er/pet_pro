@@ -1,0 +1,33 @@
+{
+  "fetchedAt": "2026-06-27T20:12:54.361908+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "berryville",
+    "name": "Berryville",
+    "label": "Berryville, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/berryville/",
+  "offices": [
+    {
+      "officeId": 644484,
+      "slug": "animal-welfare-league-of-fairfax-county-644484",
+      "name": "Animal Welfare League of Fairfax County",
+      "address": "PO Box 820, Berryville, VA 22611",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/644484.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-welfare-league-of-fairfax-county-644484/"
+    },
+    {
+      "officeId": 646746,
+      "slug": "clarke-county-animal-shelter-646746",
+      "name": "Clarke County Animal Shelter",
+      "address": "102 North Church Street, Berryville, VA 22611",
+      "phone": "540-955-5104",
+      "image": "https://cdn.findpawpal.com/office/646746.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/clarke-county-animal-shelter-646746/"
+    }
+  ]
+}

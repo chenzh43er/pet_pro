@@ -1,0 +1,42 @@
+{
+  "fetchedAt": "2026-06-27T18:32:17.164424+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "woodland",
+    "name": "Woodland",
+    "label": "Woodland, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/woodland/",
+  "offices": [
+    {
+      "slug": "yolo-county-spca-365036",
+      "name": "Yolo County SPCA",
+      "address": "41831 Gibson Rd, Woodland, CA 95776",
+      "phone": "530-758-7722",
+      "image": "./img/shelter/office/365036.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/yolo-county-spca-365036/",
+      "imageUrl": "https://cdn.findpawpal.com/office/365036.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "california-state-animal-shelter-367043",
+      "name": "California State Animal Shelter",
+      "address": "34511 California 16, Woodland, CA 95695",
+      "phone": "530-662-4989",
+      "image": "./img/shelter/office/367043.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/california-state-animal-shelter-367043/",
+      "imageUrl": "https://cdn.findpawpal.com/office/367043.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "uc-davis-shelter-dog-rescue-project-383169",
+      "name": "Uc Davis Shelter Dog Rescue Project",
+      "address": "1406 Willow Springs Drive, Woodland, CA 95776",
+      "phone": "530-666-6106",
+      "image": "./img/shelter/office/383169.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/uc-davis-shelter-dog-rescue-project-383169/",
+      "imageUrl": "https://cdn.findpawpal.com/office/383169.jpg?f=webp&w=730"
+    }
+  ]
+}

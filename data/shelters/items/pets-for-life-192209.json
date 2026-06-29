@@ -1,0 +1,21 @@
+{
+  "officeId": 192209,
+  "slug": "pets-for-life-192209",
+  "name": "Pets for Life",
+  "address": "7240 Wornall Road, Kansas, MO 64114",
+  "street": "7240 Wornall Road",
+  "addressCity": "Kansas",
+  "stateCode": "MO",
+  "zip": "64114",
+  "phone": "816-363-3665",
+  "image": "./img/shelter/office/192209.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pets-for-life-192209/",
+  "stateSlug": "missouri",
+  "stateName": "Missouri",
+  "citySlug": "kansas",
+  "cityName": "Kansas",
+  "cityLabel": "Kansas, MO",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/missouri/kansas/",
+  "fetchedAt": "2026-06-27T19:19:20.789139+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/192209.jpg?f=webp&w=730"
+}

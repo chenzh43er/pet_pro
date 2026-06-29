@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:33:22.795421+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "farmingville",
+    "name": "Farmingville",
+    "label": "Farmingville, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/farmingville/",
+  "offices": [
+    {
+      "officeId": 399371,
+      "slug": "brookhaven-animal-shelter-and-adoption-center-399371",
+      "name": "Brookhaven Animal Shelter & Adoption Center",
+      "address": "300 Horseblock Road, Farmingville, NY 11738",
+      "phone": "631-286-4940",
+      "image": "./img/shelter/office/399371.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/brookhaven-animal-shelter-and-adoption-center-399371/",
+      "imageUrl": "https://cdn.findpawpal.com/office/399371.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 441507,
+      "slug": "brookhaven-animal-shelter-441507",
+      "name": "Brookhaven Animal Shelter",
+      "address": "300 Horseblock Road, Farmingville, NY 11738",
+      "phone": "631-286-4940",
+      "image": "./img/shelter/office/441507.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/brookhaven-animal-shelter-441507/",
+      "imageUrl": "https://cdn.findpawpal.com/office/441507.jpg?f=webp&w=730"
+    }
+  ]
+}

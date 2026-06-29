@@ -1,0 +1,100 @@
+{
+  "fetchedAt": "2026-06-27T19:22:49.318866+00:00",
+  "state": {
+    "slug": "nebraska",
+    "name": "Nebraska"
+  },
+  "city": {
+    "slug": "omaha",
+    "name": "Omaha",
+    "label": "Omaha, NE"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/nebraska/omaha/",
+  "offices": [
+    {
+      "officeId": 368675,
+      "slug": "great-plains-pointer-rescue-368675",
+      "name": "Great Plains Pointer Rescue",
+      "address": "9704 Louis Drive, Omaha, NE 68114",
+      "phone": "402-403-8259",
+      "image": "./img/shelter/office/368675.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/great-plains-pointer-rescue-368675/",
+      "imageUrl": "https://cdn.findpawpal.com/office/368675.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 368684,
+      "slug": "homeward-bound-in-the-heartland-animal-rescue-368684",
+      "name": "Homeward Bound In the Heartland Animal Rescue",
+      "address": "13256 Millard Avenue, Omaha, NE 68137",
+      "phone": "402-706-7313",
+      "image": "./img/shelter/office/368684.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/homeward-bound-in-the-heartland-animal-rescue-368684/",
+      "imageUrl": "https://cdn.findpawpal.com/office/368684.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 391019,
+      "slug": "dalmation-outplacement-391019",
+      "name": "Dalmation Outplacement",
+      "address": "PO Box 4154, Omaha, NE 68104",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/391019.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/dalmation-outplacement-391019/"
+    },
+    {
+      "officeId": 391024,
+      "slug": "mid-america-rottweiler-rescue-391024",
+      "name": "Mid America Rottweiler Rescue",
+      "address": "PO Box 45743, Omaha, NE 68145",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/391024.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/mid-america-rottweiler-rescue-391024/"
+    },
+    {
+      "officeId": 391028,
+      "slug": "missouri-valley-boxer-rescue-391028",
+      "name": "Missouri Valley Boxer Rescue",
+      "address": "PO Box 241011, Omaha, NE 68124",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/391028.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/missouri-valley-boxer-rescue-391028/"
+    },
+    {
+      "officeId": 391396,
+      "slug": "nebraska-humane-society-391396",
+      "name": "Nebraska Humane Society",
+      "address": "8929 Fort Street, Omaha, NE 68134",
+      "phone": "402-444-7800",
+      "image": "./img/shelter/office/391396.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska-humane-society-391396/",
+      "imageUrl": "https://cdn.findpawpal.com/office/391396.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 546755,
+      "slug": "coalition-for-animal-protection-inc-546755",
+      "name": "Coalition for Animal Protection, Inc.",
+      "address": "PO Box 11760, Omaha, NE 68111",
+      "phone": "402-453-1868",
+      "image": "https://cdn.findpawpal.com/office/546755.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/coalition-for-animal-protection-inc-546755/"
+    },
+    {
+      "officeId": 546760,
+      "slug": "beak-n-wings-inc-546760",
+      "name": "Beak N Wings Inc",
+      "address": "PO Box 34114, Omaha, NE 68134",
+      "phone": "877-893-9486",
+      "image": "https://cdn.findpawpal.com/office/546760.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/beak-n-wings-inc-546760/"
+    },
+    {
+      "officeId": 546806,
+      "slug": "neia-saint-bernard-rescue-546806",
+      "name": "Neia Saint Bernard Rescue",
+      "address": "14015 Taylor Circle, Omaha, NE 68164",
+      "phone": "402-431-0272",
+      "image": "./img/shelter/office/546806.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/neia-saint-bernard-rescue-546806/",
+      "imageUrl": "https://cdn.findpawpal.com/office/546806.jpg?f=webp&w=730"
+    }
+  ]
+}

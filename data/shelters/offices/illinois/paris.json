@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:47:30.065837+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "paris",
+    "name": "Paris",
+    "label": "Paris, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/paris/",
+  "offices": [
+    {
+      "officeId": 414247,
+      "slug": "edgar-county-animal-shelter-414247",
+      "name": "Edgar County Animal Shelter",
+      "address": "1025 North High Street, Paris, IL 61944",
+      "phone": "217-466-9415",
+      "image": "./img/shelter/office/414247.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/edgar-county-animal-shelter-414247/",
+      "imageUrl": "https://cdn.findpawpal.com/office/414247.jpg?f=webp&w=730"
+    }
+  ]
+}

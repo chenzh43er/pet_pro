@@ -1,0 +1,21 @@
+{
+  "officeId": 653553,
+  "slug": "cheyenne-animal-shelter-653553",
+  "name": "Cheyenne Animal Shelter",
+  "address": "800 Southwest Drive, Cheyenne, WY 82007",
+  "street": "800 Southwest Drive",
+  "addressCity": "Cheyenne",
+  "stateCode": "WY",
+  "zip": "82007",
+  "phone": "307-632-6655",
+  "image": "./img/shelter/office/653553.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/cheyenne-animal-shelter-653553/",
+  "stateSlug": "wyoming",
+  "stateName": "Wyoming",
+  "citySlug": "cheyenne",
+  "cityName": "Cheyenne",
+  "cityLabel": "Cheyenne, WY",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/wyoming/cheyenne/",
+  "fetchedAt": "2026-06-27T20:24:58.572044+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/653553.jpg?f=webp&w=730"
+}

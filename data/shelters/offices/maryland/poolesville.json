@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:04:22.919826+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "poolesville",
+    "name": "Poolesville",
+    "label": "Poolesville, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/poolesville/",
+  "offices": [
+    {
+      "officeId": 670518,
+      "slug": "poplar-spring-animal-sanctuary-670518",
+      "name": "Poplar Spring Animal Sanctuary",
+      "address": "15200 Mount Nebo Road, Poolesville, MD 20837",
+      "phone": "301-428-8128",
+      "image": "https://cdn.findpawpal.com/office/670518.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/poplar-spring-animal-sanctuary-670518/"
+    }
+  ]
+}

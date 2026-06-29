@@ -1,0 +1,18 @@
+{
+  "fetchedAt": "2026-06-27T17:47:37.240131+00:00",
+  "state": {
+    "slug": "district-of-columbia",
+    "name": "District of Columbia",
+    "offices": 9
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/district-of-columbia/",
+  "cities": [
+    {
+      "slug": "washington",
+      "name": "Washington",
+      "offices": 9,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/district-of-columbia/washington/"
+    }
+  ]
+}

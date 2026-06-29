@@ -1,0 +1,21 @@
+{
+  "officeId": 215214,
+  "slug": "fayetteville-animal-control-215214",
+  "name": "Fayetteville Animal Control",
+  "address": "3927 Bragg Boulevard, Fayetteville, NC 28303",
+  "street": "3927 Bragg Boulevard",
+  "addressCity": "Fayetteville",
+  "stateCode": "NC",
+  "zip": "28303",
+  "phone": "910-864-9040",
+  "image": "./img/shelter/office/215214.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/fayetteville-animal-control-215214/",
+  "stateSlug": "north-carolina",
+  "stateName": "North Carolina",
+  "citySlug": "fayetteville",
+  "cityName": "Fayetteville",
+  "cityLabel": "Fayetteville, NC",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/north-carolina/fayetteville/",
+  "fetchedAt": "2026-06-27T19:39:12.793374+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/215214.jpg?f=webp&w=730"
+}

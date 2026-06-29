@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:26:04.851398+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "fanwood",
+    "name": "Fanwood",
+    "label": "Fanwood, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/fanwood/",
+  "offices": [
+    {
+      "officeId": 96054,
+      "slug": "new-jersey-schnauzer-rescue-network-inc-96054",
+      "name": "New Jersey Schnauzer Rescue Network, Inc.",
+      "address": "PO Box 36, Fanwood, NJ 07023",
+      "phone": "732-920-8242",
+      "image": "https://cdn.findpawpal.com/office/96054.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/new-jersey-schnauzer-rescue-network-inc-96054/"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "fetchedAt": "2026-06-27T20:03:43.409378+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "carrollton",
+    "name": "Carrollton",
+    "label": "Carrollton, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/carrollton/",
+  "offices": [
+    {
+      "officeId": 493205,
+      "slug": "lexees-legacy-493205",
+      "name": "Lexee's Legacy",
+      "address": "1437 Halsey Way, Carrollton, TX 75007",
+      "phone": "972-245-0900",
+      "image": "https://cdn.findpawpal.com/office/493205.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/lexees-legacy-493205/"
+    },
+    {
+      "officeId": 519559,
+      "slug": "carrollton-animal-control-519559",
+      "name": "Carrollton Animal Control",
+      "address": "2247 Sandy Lake Road, Carrollton, TX 75006",
+      "phone": "972-466-3420",
+      "image": "./img/shelter/office/519559.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/carrollton-animal-control-519559/",
+      "imageUrl": "https://cdn.findpawpal.com/office/519559.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 537012,
+      "slug": "lost-paws-rescue-of-texas-537012",
+      "name": "Lost PAWS Rescue of Texas",
+      "address": "PO Box 116256, Carrollton, TX 75011",
+      "phone": "972-397-9373",
+      "image": "./img/shelter/office/537012.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lost-paws-rescue-of-texas-537012/",
+      "imageUrl": "https://cdn.findpawpal.com/office/537012.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 537114,
+      "slug": "tassies-hope-animal-rescue-537114",
+      "name": "Tassie's Hope Animal Rescue",
+      "address": "4112 North Josey Lane, Carrollton, TX 75007",
+      "phone": "214-550-2648",
+      "image": "./img/shelter/office/537114.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tassies-hope-animal-rescue-537114/",
+      "imageUrl": "https://cdn.findpawpal.com/office/537114.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674321,
+      "slug": "operation-kindness-674321",
+      "name": "Operation Kindness",
+      "address": "3201 Earhart Drive, Carrollton, TX 75006",
+      "phone": "972-418-7297",
+      "image": "./img/shelter/office/674321.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/operation-kindness-674321/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674321.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 702119,
+      "slug": "adoption-and-rescue-klub-702119",
+      "name": "Adoption and Rescue Klub",
+      "address": "PO Box 117091, Carrollton, TX 75011",
+      "phone": "972-562-4357",
+      "image": "./img/shelter/office/702119.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/adoption-and-rescue-klub-702119/",
+      "imageUrl": "https://cdn.findpawpal.com/office/702119.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 702124,
+      "slug": "carrollton-animal-services-702124",
+      "name": "Carrollton Animal Services",
+      "address": "PO Box 110535, Carrollton, TX 75011",
+      "phone": "",
+      "image": "./img/shelter/office/702124.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/carrollton-animal-services-702124/",
+      "imageUrl": "https://cdn.findpawpal.com/office/702124.jpg?f=webp&w=730"
+    }
+  ]
+}

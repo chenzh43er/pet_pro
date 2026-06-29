@@ -1,0 +1,21 @@
+{
+  "officeId": 384920,
+  "slug": "san-jose-animal-control-384920",
+  "name": "San Jose Animal Control",
+  "address": "6095 Springer Way, San Jose, CA 95123",
+  "street": "6095 Springer Way",
+  "addressCity": "San Jose",
+  "stateCode": "CA",
+  "zip": "95123",
+  "phone": "408-227-2273",
+  "image": "./img/shelter/office/384920.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/san-jose-animal-control-384920/",
+  "stateSlug": "california",
+  "stateName": "California",
+  "citySlug": "san-jose",
+  "cityName": "San Jose",
+  "cityLabel": "San Jose, CA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/california/san-jose/",
+  "fetchedAt": "2026-06-27T18:30:16.729201+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/384920.jpg?f=webp&w=730"
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:37:10.250748+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "ridgefield",
+    "name": "Ridgefield",
+    "label": "Ridgefield, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/ridgefield/",
+  "offices": [
+    {
+      "officeId": 147480,
+      "slug": "ridgefield-operation-for-animal-rescue-147480",
+      "name": "Ridgefield Operation for Animal Rescue",
+      "address": "45 South Street, Ridgefield, CT 06877",
+      "phone": "203-438-0158",
+      "image": "./img/shelter/office/147480.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ridgefield-operation-for-animal-rescue-147480/",
+      "imageUrl": "https://cdn.findpawpal.com/office/147480.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 157228,
+      "slug": "ridgefield-animal-control-157228",
+      "name": "Ridgefield Animal Control",
+      "address": "45 South Street, Ridgefield, CT 06877",
+      "phone": "203-438-0158",
+      "image": "./img/shelter/office/157228.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ridgefield-animal-control-157228/",
+      "imageUrl": "https://cdn.findpawpal.com/office/157228.jpg?f=webp&w=730"
+    }
+  ]
+}

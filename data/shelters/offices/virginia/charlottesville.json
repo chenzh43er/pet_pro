@@ -1,0 +1,43 @@
+{
+  "fetchedAt": "2026-06-27T20:13:12.328284+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "charlottesville",
+    "name": "Charlottesville",
+    "label": "Charlottesville, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/charlottesville/",
+  "offices": [
+    {
+      "officeId": 574612,
+      "slug": "charlottesville-albemarle-spca-574612",
+      "name": "Charlottesville Albemarle SPCA",
+      "address": "3355 Berkmar Drive, Charlottesville, VA 22901",
+      "phone": "434-973-5959",
+      "image": "https://cdn.findpawpal.com/office/574612.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/charlottesville-albemarle-spca-574612/"
+    },
+    {
+      "officeId": 579502,
+      "slug": "basset-rescue-of-old-dominion-579502",
+      "name": "Basset Rescue of Old Dominion",
+      "address": "3445 Seminole Trail, Charlottesville, VA 22911",
+      "phone": "866-710-9476",
+      "image": "https://cdn.findpawpal.com/office/579502.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/basset-rescue-of-old-dominion-579502/"
+    },
+    {
+      "officeId": 646880,
+      "slug": "albemarle-county-animal-control-646880",
+      "name": "Albemarle County Animal Control",
+      "address": "1600 5TH STREET Ext, Charlottesville, VA 22902",
+      "phone": "434-296-5807",
+      "image": "./img/shelter/office/646880.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/albemarle-county-animal-control-646880/",
+      "imageUrl": "https://cdn.findpawpal.com/office/646880.jpg?f=webp&w=730"
+    }
+  ]
+}

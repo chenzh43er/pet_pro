@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:19:49.400030+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "mexico",
+    "name": "Mexico",
+    "label": "Mexico, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/mexico/",
+  "offices": [
+    {
+      "officeId": 209642,
+      "slug": "audrain-humane-society-209642",
+      "name": "Audrain Humane Society",
+      "address": "PO Box 603, Mexico, MO 65265",
+      "phone": "573-581-5556",
+      "image": "./img/shelter/office/209642.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/audrain-humane-society-209642/",
+      "imageUrl": "https://cdn.findpawpal.com/office/209642.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 210725,
+      "slug": "mexico-animal-shelter-210725",
+      "name": "Mexico Animal Shelter",
+      "address": "101 South Morris Street, Mexico, MO 65265",
+      "phone": "573-581-0779",
+      "image": "./img/shelter/office/210725.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mexico-animal-shelter-210725/",
+      "imageUrl": "https://cdn.findpawpal.com/office/210725.jpg?f=webp&w=730"
+    }
+  ]
+}

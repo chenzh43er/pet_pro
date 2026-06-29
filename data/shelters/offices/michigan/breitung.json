@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:09:45.233438+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "breitung",
+    "name": "Breitung",
+    "label": "Breitung, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/breitung/",
+  "offices": [
+    {
+      "officeId": 236682,
+      "slug": "quinnesec-animal-shelter-236682",
+      "name": "Quinnesec Animal Shelter",
+      "address": "5060 Lincoln Avenue, Breitung, MI 49876",
+      "phone": "906-774-1005",
+      "image": "./img/shelter/office/236682.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/quinnesec-animal-shelter-236682/",
+      "imageUrl": "https://cdn.findpawpal.com/office/236682.jpg?f=webp&w=730"
+    }
+  ]
+}

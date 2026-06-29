@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:26:00.324268+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "fremont",
+    "name": "Fremont",
+    "label": "Fremont, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/fremont/",
+  "offices": [
+    {
+      "officeId": 368710,
+      "slug": "tri-city-animal-shelter-368710",
+      "name": "Tri-City Animal Shelter",
+      "address": "1950 Stevenson Boulevard, Fremont, CA 94538",
+      "phone": "510-790-6640",
+      "image": "./img/shelter/office/368710.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tri-city-animal-shelter-368710/",
+      "imageUrl": "https://cdn.findpawpal.com/office/368710.jpg?f=webp&w=730"
+    }
+  ]
+}

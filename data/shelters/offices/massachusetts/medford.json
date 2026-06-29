@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:07:05.182751+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "medford",
+    "name": "Medford",
+    "label": "Medford, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/medford/",
+  "offices": [
+    {
+      "officeId": 41217,
+      "slug": "pet-placements-41217",
+      "name": "Pet Placements",
+      "address": "33 Doonan Street, Medford, MA 02155",
+      "phone": "",
+      "image": "./img/shelter/office/41217.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-placements-41217/",
+      "imageUrl": "https://cdn.findpawpal.com/office/41217.jpg?f=webp&w=730"
+    }
+  ]
+}

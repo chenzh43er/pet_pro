@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:49:58.981093+00:00",
+  "state": {
+    "slug": "oregon",
+    "name": "Oregon"
+  },
+  "city": {
+    "slug": "aloha",
+    "name": "Aloha",
+    "label": "Aloha, OR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oregon/aloha/",
+  "offices": [
+    {
+      "officeId": 580612,
+      "slug": "encore-farms-inc-580612",
+      "name": "Encore Farms, Inc.",
+      "address": "PO Box 5612, Aloha, OR 97006",
+      "phone": "503-727-5550",
+      "image": "./img/shelter/office/580612.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/encore-farms-inc-580612/",
+      "imageUrl": "https://cdn.findpawpal.com/office/580612.jpg?f=webp&w=730"
+    }
+  ]
+}

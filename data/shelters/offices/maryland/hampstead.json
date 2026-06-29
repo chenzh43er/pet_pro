@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:03:42.607538+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "hampstead",
+    "name": "Hampstead",
+    "label": "Hampstead, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/hampstead/",
+  "offices": [
+    {
+      "officeId": 375209,
+      "slug": "catwoman-rescue-and-adoption-375209",
+      "name": "Catwoman Rescue and Adoption",
+      "address": "1118 Cedarbrook Road, Hampstead, MD 21074",
+      "phone": "410-239-6645",
+      "image": "./img/shelter/office/375209.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/catwoman-rescue-and-adoption-375209/",
+      "imageUrl": "https://cdn.findpawpal.com/office/375209.jpg?f=webp&w=730"
+    }
+  ]
+}

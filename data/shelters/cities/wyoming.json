@@ -1,0 +1,221 @@
+{
+  "fetchedAt": "2026-06-27T17:48:49.734325+00:00",
+  "state": {
+    "slug": "wyoming",
+    "name": "Wyoming",
+    "offices": 47
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/wyoming/",
+  "cities": [
+    {
+      "slug": "afton",
+      "name": "Afton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/afton/"
+    },
+    {
+      "slug": "buffalo",
+      "name": "Buffalo",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/buffalo/"
+    },
+    {
+      "slug": "carpenter",
+      "name": "Carpenter",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/carpenter/"
+    },
+    {
+      "slug": "casper",
+      "name": "Casper",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/casper/"
+    },
+    {
+      "slug": "cheyenne",
+      "name": "Cheyenne",
+      "offices": 4,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/cheyenne/"
+    },
+    {
+      "slug": "cody",
+      "name": "Cody",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/cody/"
+    },
+    {
+      "slug": "douglas",
+      "name": "Douglas",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/douglas/"
+    },
+    {
+      "slug": "evanston",
+      "name": "Evanston",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/evanston/"
+    },
+    {
+      "slug": "gillette",
+      "name": "Gillette",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/gillette/"
+    },
+    {
+      "slug": "glendo",
+      "name": "Glendo",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/glendo/"
+    },
+    {
+      "slug": "glenrock",
+      "name": "Glenrock",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/glenrock/"
+    },
+    {
+      "slug": "green-river",
+      "name": "Green River",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/green-river/"
+    },
+    {
+      "slug": "hartville",
+      "name": "Hartville",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/hartville/"
+    },
+    {
+      "slug": "hawk-springs",
+      "name": "Hawk Springs",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/hawk-springs/"
+    },
+    {
+      "slug": "jackson",
+      "name": "Jackson",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/jackson/"
+    },
+    {
+      "slug": "kemmerer",
+      "name": "Kemmerer",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/kemmerer/"
+    },
+    {
+      "slug": "lander",
+      "name": "Lander",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/lander/"
+    },
+    {
+      "slug": "laramie",
+      "name": "Laramie",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/laramie/"
+    },
+    {
+      "slug": "mills",
+      "name": "Mills",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/mills/"
+    },
+    {
+      "slug": "newcastle",
+      "name": "Newcastle",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/newcastle/"
+    },
+    {
+      "slug": "pinedale",
+      "name": "Pinedale",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/pinedale/"
+    },
+    {
+      "slug": "rawlins",
+      "name": "Rawlins",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/rawlins/"
+    },
+    {
+      "slug": "riverton",
+      "name": "Riverton",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/riverton/"
+    },
+    {
+      "slug": "rock-springs",
+      "name": "Rock Springs",
+      "offices": 2,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/rock-springs/"
+    },
+    {
+      "slug": "saint-stephens",
+      "name": "Saint Stephens",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/saint-stephens/"
+    },
+    {
+      "slug": "saratoga",
+      "name": "Saratoga",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/saratoga/"
+    },
+    {
+      "slug": "sheridan",
+      "name": "Sheridan",
+      "offices": 3,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/sheridan/"
+    },
+    {
+      "slug": "torrington",
+      "name": "Torrington",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/torrington/"
+    },
+    {
+      "slug": "wheatland",
+      "name": "Wheatland",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/wheatland/"
+    },
+    {
+      "slug": "worland",
+      "name": "Worland",
+      "offices": 1,
+      "unit": "Office",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/worland/"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:44:40.813569+00:00",
+  "state": {
+    "slug": "illinois",
+    "name": "Illinois"
+  },
+  "city": {
+    "slug": "channahon",
+    "name": "Channahon",
+    "label": "Channahon, IL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/illinois/channahon/",
+  "offices": [
+    {
+      "officeId": 387196,
+      "slug": "making-a-difference-rescue-387196",
+      "name": "Making A Difference Rescue",
+      "address": "24232 South Cree Drive, Channahon, IL 60410",
+      "phone": "815-258-8592",
+      "image": "https://cdn.findpawpal.com/office/387196.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/making-a-difference-rescue-387196/"
+    }
+  ]
+}

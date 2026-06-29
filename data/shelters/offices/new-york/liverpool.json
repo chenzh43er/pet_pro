@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:34:35.569438+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "liverpool",
+    "name": "Liverpool",
+    "label": "Liverpool, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/liverpool/",
+  "offices": [
+    {
+      "officeId": 315432,
+      "slug": "humanecny-315432",
+      "name": "HumaneCNY",
+      "address": "4915 West Taft Road, Liverpool, NY 13088",
+      "phone": "315-457-8762",
+      "image": "./img/shelter/office/315432.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humanecny-315432/",
+      "imageUrl": "https://cdn.findpawpal.com/office/315432.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 315924,
+      "slug": "kitty-corner-of-cny-inc-315924",
+      "name": "Kitty Corner of Cny, Inc.",
+      "address": "PO Box 182, Liverpool, NY 13088",
+      "phone": "315-457-4420",
+      "image": "./img/shelter/office/315924.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/kitty-corner-of-cny-inc-315924/",
+      "imageUrl": "https://cdn.findpawpal.com/office/315924.jpg?f=webp&w=730"
+    }
+  ]
+}

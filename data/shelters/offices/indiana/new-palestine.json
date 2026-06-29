@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:51:18.145962+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "new-palestine",
+    "name": "New Palestine",
+    "label": "New Palestine, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/new-palestine/",
+  "offices": [
+    {
+      "officeId": 200344,
+      "slug": "frenzy-animal-rescue-200344",
+      "name": "Frenzy Animal Rescue",
+      "address": "37 West Mill Street, New Palestine, IN 46163",
+      "phone": "317-414-5662",
+      "image": "./img/shelter/office/200344.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/frenzy-animal-rescue-200344/",
+      "imageUrl": "https://cdn.findpawpal.com/office/200344.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 41061,
+  "slug": "adopt-a-cat-41061",
+  "name": "Adopt-A-Cat",
+  "address": "13 Peter Spring Road, Concord, MA 01742",
+  "street": "13 Peter Spring Road",
+  "addressCity": "Concord",
+  "stateCode": "MA",
+  "zip": "01742",
+  "phone": "978-369-9467",
+  "image": "./img/shelter/office/41061.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/adopt-a-cat-41061/",
+  "stateSlug": "massachusetts",
+  "stateName": "Massachusetts",
+  "citySlug": "concord",
+  "cityName": "Concord",
+  "cityLabel": "Concord, MA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/massachusetts/concord/",
+  "fetchedAt": "2026-06-27T19:05:46.657903+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/41061.jpg?f=webp&w=730"
+}

@@ -1,0 +1,64 @@
+{
+  "fetchedAt": "2026-06-27T18:51:09.446380+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "muncie",
+    "name": "Muncie",
+    "label": "Muncie, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/muncie/",
+  "offices": [
+    {
+      "officeId": 199978,
+      "slug": "muncie-humane-society-inc-199978",
+      "name": "Muncie Humane Society, Inc.",
+      "address": "4409 North Old State Road 3, Muncie, IN 47303",
+      "phone": "765-289-2585",
+      "image": "./img/shelter/office/199978.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/muncie-humane-society-inc-199978/",
+      "imageUrl": "https://cdn.findpawpal.com/office/199978.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 217612,
+      "slug": "unconditional-love-foundation-217612",
+      "name": "Unconditional Love Foundation",
+      "address": "4319 West Clara Lane, Muncie, IN 47304",
+      "phone": "765-287-9043",
+      "image": "./img/shelter/office/217612.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/unconditional-love-foundation-217612/",
+      "imageUrl": "https://cdn.findpawpal.com/office/217612.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 221281,
+      "slug": "animal-rescue-fund-221281",
+      "name": "Animal Rescue Fund",
+      "address": "1209 West Riggin Road, Muncie, IN 47303",
+      "phone": "765-282-2733",
+      "image": "./img/shelter/office/221281.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-rescue-fund-221281/",
+      "imageUrl": "https://cdn.findpawpal.com/office/221281.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 249836,
+      "slug": "delaware-county-spca-and-humane-society-249836",
+      "name": "Delaware County SPCA and Humane Society",
+      "address": "PO Box 3282, Muncie, IN 47307",
+      "phone": "765-284-5606",
+      "image": "https://cdn.findpawpal.com/office/249836.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/delaware-county-spca-and-humane-society-249836/"
+    },
+    {
+      "officeId": 249845,
+      "slug": "muncie-animal-shelter-249845",
+      "name": "Muncie Animal Shelter",
+      "address": "2401 South Gharkey Street, Muncie, IN 47302",
+      "phone": "765-747-4851",
+      "image": "./img/shelter/office/249845.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/muncie-animal-shelter-249845/",
+      "imageUrl": "https://cdn.findpawpal.com/office/249845.jpg?f=webp&w=730"
+    }
+  ]
+}

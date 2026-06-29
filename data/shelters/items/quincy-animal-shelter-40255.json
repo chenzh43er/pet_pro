@@ -1,0 +1,21 @@
+{
+  "officeId": 40255,
+  "slug": "quincy-animal-shelter-40255",
+  "name": "Quincy Animal Shelter",
+  "address": "56 Broad Street, Quincy, MA 02169",
+  "street": "56 Broad Street",
+  "addressCity": "Quincy",
+  "stateCode": "MA",
+  "zip": "02169",
+  "phone": "617-376-1349",
+  "image": "./img/shelter/office/40255.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/quincy-animal-shelter-40255/",
+  "stateSlug": "massachusetts",
+  "stateName": "Massachusetts",
+  "citySlug": "quincy",
+  "cityName": "Quincy",
+  "cityLabel": "Quincy, MA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/massachusetts/quincy/",
+  "fetchedAt": "2026-06-27T19:07:58.934030+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/40255.jpg?f=webp&w=730"
+}

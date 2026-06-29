@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:19:34.280168+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "liberty",
+    "name": "Liberty",
+    "label": "Liberty, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/liberty/",
+  "offices": [
+    {
+      "officeId": 191940,
+      "slug": "friends-of-liberty-animal-shelter-191940",
+      "name": "Friends of Liberty Animal Shelter",
+      "address": "PO Box 856, Liberty, MO 64069",
+      "phone": "816-415-8690",
+      "image": "./img/shelter/office/191940.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/friends-of-liberty-animal-shelter-191940/",
+      "imageUrl": "https://cdn.findpawpal.com/office/191940.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 238775,
+      "slug": "city-of-liberty-animal-shelter-238775",
+      "name": "City of Liberty Animal Shelter",
+      "address": "1501 Old State Highway 210, Liberty, MO 64068",
+      "phone": "816-415-1877",
+      "image": "https://cdn.findpawpal.com/office/238775.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/city-of-liberty-animal-shelter-238775/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:36:45.430960+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "scottsville",
+    "name": "Scottsville",
+    "label": "Scottsville, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/scottsville/",
+  "offices": [
+    {
+      "officeId": 313872,
+      "slug": "scottsville-veterinary-hospital-313872",
+      "name": "Scottsville Veterinary Hospital",
+      "address": "3750 Scottsville Road, Scottsville, NY 14546",
+      "phone": "585-889-8340",
+      "image": "./img/shelter/office/313872.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/scottsville-veterinary-hospital-313872/",
+      "imageUrl": "https://cdn.findpawpal.com/office/313872.jpg?f=webp&w=730"
+    }
+  ]
+}

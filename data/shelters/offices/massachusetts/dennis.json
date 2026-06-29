@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:05:52.605489+00:00",
+  "state": {
+    "slug": "massachusetts",
+    "name": "Massachusetts"
+  },
+  "city": {
+    "slug": "dennis",
+    "name": "Dennis",
+    "label": "Dennis, MA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/massachusetts/dennis/",
+  "offices": [
+    {
+      "officeId": 40592,
+      "slug": "scargo-wags-and-wiggles-rescue-inc-40592",
+      "name": "Scargo Wags and Wiggles Rescue, Inc.",
+      "address": "PO Box 812, Dennis, MA 02638",
+      "phone": "508-400-0222",
+      "image": "./img/shelter/office/40592.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/scargo-wags-and-wiggles-rescue-inc-40592/",
+      "imageUrl": "https://cdn.findpawpal.com/office/40592.jpg?f=webp&w=730"
+    }
+  ]
+}

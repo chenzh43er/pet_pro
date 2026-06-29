@@ -1,0 +1,43 @@
+{
+  "fetchedAt": "2026-06-27T20:11:41.915107+00:00",
+  "state": {
+    "slug": "utah",
+    "name": "Utah"
+  },
+  "city": {
+    "slug": "vernal",
+    "name": "Vernal",
+    "label": "Vernal, UT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/utah/vernal/",
+  "offices": [
+    {
+      "officeId": 478621,
+      "slug": "animal-care-association-478621",
+      "name": "Animal Care Association",
+      "address": "PO Box 337, Vernal, UT 84078",
+      "phone": "801-789-2448",
+      "image": "https://cdn.findpawpal.com/office/478621.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-care-association-478621/"
+    },
+    {
+      "officeId": 524516,
+      "slug": "uintah-county-animal-shelter-524516",
+      "name": "Uintah County Animal Shelter",
+      "address": "1387 East 335 South, Vernal, UT 84078",
+      "phone": "435-781-7297",
+      "image": "./img/shelter/office/524516.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/uintah-county-animal-shelter-524516/",
+      "imageUrl": "https://cdn.findpawpal.com/office/524516.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 633356,
+      "slug": "dog-pound-633356",
+      "name": "Dog Pound",
+      "address": "85 East 650 North, Vernal, UT 84078",
+      "phone": "435-789-5601",
+      "image": "https://cdn.findpawpal.com/office/633356.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/dog-pound-633356/"
+    }
+  ]
+}

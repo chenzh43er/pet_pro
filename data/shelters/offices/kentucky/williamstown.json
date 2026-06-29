@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:58:52.306541+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "williamstown",
+    "name": "Williamstown",
+    "label": "Williamstown, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/williamstown/",
+  "offices": [
+    {
+      "officeId": 117366,
+      "slug": "grant-county-animal-shelter-117366",
+      "name": "Grant County Animal Shelter",
+      "address": "218 Barnes Road, Williamstown, KY 41097",
+      "phone": "859-824-9403",
+      "image": "./img/shelter/office/117366.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/grant-county-animal-shelter-117366/",
+      "imageUrl": "https://cdn.findpawpal.com/office/117366.jpg?f=webp&w=730"
+    }
+  ]
+}

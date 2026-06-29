@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:28:20.219159+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "pittsgrove",
+    "name": "Pittsgrove",
+    "label": "Pittsgrove, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/pittsgrove/",
+  "offices": [
+    {
+      "officeId": 97124,
+      "slug": "elmer-animal-shelter-97124",
+      "name": "Elmer Animal Shelter",
+      "address": "81 Almond Road, Pittsgrove, NJ 08318",
+      "phone": "856-691-4333",
+      "image": "./img/shelter/office/97124.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/elmer-animal-shelter-97124/",
+      "imageUrl": "https://cdn.findpawpal.com/office/97124.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 100471,
+      "slug": "r-s-animal-shelter-100471",
+      "name": "R S Animal Shelter",
+      "address": "81 Almond Road, Pittsgrove, NJ 08318",
+      "phone": "856-691-4333",
+      "image": "./img/shelter/office/100471.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/r-s-animal-shelter-100471/",
+      "imageUrl": "https://cdn.findpawpal.com/office/100471.jpg?f=webp&w=730"
+    }
+  ]
+}

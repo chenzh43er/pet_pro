@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T18:52:57.980916+00:00",
+  "state": {
+    "slug": "iowa",
+    "name": "Iowa"
+  },
+  "city": {
+    "slug": "council-bluffs",
+    "name": "Council Bluffs",
+    "label": "Council Bluffs, IA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/iowa/council-bluffs/",
+  "offices": [
+    {
+      "officeId": 416508,
+      "slug": "pottawattamie-county-animal-control-416508",
+      "name": "Pottawattamie County Animal Control",
+      "address": "18670 Applewood Road, Council Bluffs, IA 51503",
+      "phone": "712-366-1143",
+      "image": "./img/shelter/office/416508.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pottawattamie-county-animal-control-416508/",
+      "imageUrl": "https://cdn.findpawpal.com/office/416508.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 427533,
+      "slug": "black-dragon-ferret-rescue-427533",
+      "name": "Black Dragon Ferret Rescue",
+      "address": "715 Cook Avenue, Council Bluffs, IA 51503",
+      "phone": "712-328-8754",
+      "image": "./img/shelter/office/427533.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/black-dragon-ferret-rescue-427533/",
+      "imageUrl": "https://cdn.findpawpal.com/office/427533.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 461062,
+      "slug": "council-bluffs-animal-shelter-461062",
+      "name": "Council Bluffs Animal Shelter",
+      "address": "2821 South 15th Street, Council Bluffs, IA 51501",
+      "phone": "712-328-4656",
+      "image": "./img/shelter/office/461062.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/council-bluffs-animal-shelter-461062/",
+      "imageUrl": "https://cdn.findpawpal.com/office/461062.jpg?f=webp&w=730"
+    }
+  ]
+}

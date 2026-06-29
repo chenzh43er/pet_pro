@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:12:40.899364+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "southfield",
+    "name": "Southfield",
+    "label": "Southfield, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/southfield/",
+  "offices": [
+    {
+      "officeId": 190723,
+      "slug": "southfield-city-animal-control-190723",
+      "name": "Southfield City Animal Control",
+      "address": "25503 Clara Lane, Southfield, MI 48034",
+      "phone": "248-796-5410",
+      "image": "./img/shelter/office/190723.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/southfield-city-animal-control-190723/",
+      "imageUrl": "https://cdn.findpawpal.com/office/190723.jpg?f=webp&w=730"
+    }
+  ]
+}

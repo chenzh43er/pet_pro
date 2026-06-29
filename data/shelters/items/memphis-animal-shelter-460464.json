@@ -1,0 +1,21 @@
+{
+  "officeId": 460464,
+  "slug": "memphis-animal-shelter-460464",
+  "name": "Memphis Animal Shelter",
+  "address": "3456 Tchulahoma Road, Memphis, TN 38118",
+  "street": "3456 Tchulahoma Road",
+  "addressCity": "Memphis",
+  "stateCode": "TN",
+  "zip": "38118",
+  "phone": "901-362-5310",
+  "image": "./img/shelter/office/460464.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/memphis-animal-shelter-460464/",
+  "stateSlug": "tennessee",
+  "stateName": "Tennessee",
+  "citySlug": "memphis",
+  "cityName": "Memphis",
+  "cityLabel": "Memphis, TN",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/tennessee/memphis/",
+  "fetchedAt": "2026-06-27T20:01:09.779207+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/460464.jpg?f=webp&w=730"
+}

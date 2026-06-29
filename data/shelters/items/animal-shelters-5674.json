@@ -1,0 +1,21 @@
+{
+  "officeId": 5674,
+  "slug": "animal-shelters-5674",
+  "name": "Animal Shelters",
+  "address": "1201 Parkwood Drive, Anniston, AL 36201",
+  "street": "1201 Parkwood Drive",
+  "addressCity": "Anniston",
+  "stateCode": "AL",
+  "zip": "36201",
+  "phone": "256-236-1581",
+  "image": "./img/shelter/office/5674.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/animal-shelters-5674/",
+  "stateSlug": "alabama",
+  "stateName": "Alabama",
+  "citySlug": "anniston",
+  "cityName": "Anniston",
+  "cityLabel": "Anniston, AL",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/alabama/anniston/",
+  "fetchedAt": "2026-06-27T18:16:45.183354+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/5674.jpg?f=webp&w=730"
+}

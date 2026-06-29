@@ -1,0 +1,21 @@
+{
+  "officeId": 318074,
+  "slug": "rego-park-animal-shelter-318074",
+  "name": "Rego Park Animal Shelter",
+  "address": "9229 Queens Boulevard, Rego Park, NY 11374",
+  "street": "9229 Queens Boulevard",
+  "addressCity": "Rego Park",
+  "stateCode": "NY",
+  "zip": "11374",
+  "phone": "212-504-4115",
+  "image": "./img/shelter/office/318074.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/rego-park-animal-shelter-318074/",
+  "stateSlug": "new-york",
+  "stateName": "New York",
+  "citySlug": "rego-park",
+  "cityName": "Rego Park",
+  "cityLabel": "Rego Park, NY",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-york/rego-park/",
+  "fetchedAt": "2026-06-27T19:36:22.708178+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/318074.jpg?f=webp&w=730"
+}

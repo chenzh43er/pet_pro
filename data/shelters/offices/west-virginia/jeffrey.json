@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:20:42.865917+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "jeffrey",
+    "name": "Jeffrey",
+    "label": "Jeffrey, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/jeffrey/",
+  "offices": [
+    {
+      "officeId": 507425,
+      "slug": "safe-haven-animal-rescue-effort-inc-507425",
+      "name": "Safe Haven Animal Rescue Effort, Inc.",
+      "address": "PO Box 273, Jeffrey, WV 25114",
+      "phone": "304-369-5751",
+      "image": "https://cdn.findpawpal.com/office/507425.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/safe-haven-animal-rescue-effort-inc-507425/"
+    }
+  ]
+}

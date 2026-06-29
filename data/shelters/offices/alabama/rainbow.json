@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:18:31.400657+00:00",
+  "state": {
+    "slug": "alabama",
+    "name": "Alabama"
+  },
+  "city": {
+    "slug": "rainbow",
+    "name": "Rainbow",
+    "label": "Rainbow, AL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/alabama/rainbow/",
+  "offices": [
+    {
+      "slug": "save-the-animals-5853",
+      "name": "Save the Animals",
+      "address": "224 West Grand Avenue, Rainbow, AL 35906",
+      "phone": "256-442-0044",
+      "image": "./img/shelter/office/5853.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/save-the-animals-5853/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5853.jpg?f=webp&w=730"
+    }
+  ]
+}

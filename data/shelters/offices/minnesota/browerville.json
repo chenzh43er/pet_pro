@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:13:47.164214+00:00",
+  "state": {
+    "slug": "minnesota",
+    "name": "Minnesota"
+  },
+  "city": {
+    "slug": "browerville",
+    "name": "Browerville",
+    "label": "Browerville, MN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/minnesota/browerville/",
+  "offices": [
+    {
+      "officeId": 421096,
+      "slug": "rainbow-cove-rescue-421096",
+      "name": "Rainbow Cove Rescue",
+      "address": "PO Box 308, Browerville, MN 56438",
+      "phone": "320-461-0017",
+      "image": "https://cdn.findpawpal.com/office/421096.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/rainbow-cove-rescue-421096/"
+    }
+  ]
+}

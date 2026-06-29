@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:47:48.731736+00:00",
+  "state": {
+    "slug": "ohio",
+    "name": "Ohio"
+  },
+  "city": {
+    "slug": "wooster",
+    "name": "Wooster",
+    "label": "Wooster, OH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/ohio/wooster/",
+  "offices": [
+    {
+      "officeId": 466769,
+      "slug": "wayne-county-humane-society-466769",
+      "name": "Wayne County Humane Society",
+      "address": "1161 Mechanicsburg Road, Wooster, OH 44691",
+      "phone": "330-262-0152",
+      "image": "./img/shelter/office/466769.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wayne-county-humane-society-466769/",
+      "imageUrl": "https://cdn.findpawpal.com/office/466769.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 580956,
+      "slug": "north-american-shar-pei-rescue-great-lakes-region-580956",
+      "name": "North American Shar-Pei Rescue Great Lakes Region",
+      "address": "2390 Cardinal Court, Wooster, OH 44691",
+      "phone": "330-202-7760",
+      "image": "./img/shelter/office/580956.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/north-american-shar-pei-rescue-great-lakes-region-580956/",
+      "imageUrl": "https://cdn.findpawpal.com/office/580956.jpg?f=webp&w=730"
+    }
+  ]
+}

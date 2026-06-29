@@ -1,0 +1,21 @@
+{
+  "officeId": 253555,
+  "slug": "good-shepherd-humane-society-253555",
+  "name": "Good Shepherd Humane Society",
+  "address": "6486 Highway 62 West, Eureka Springs, AR 72632",
+  "street": "6486 Highway 62 West",
+  "addressCity": "Eureka Springs",
+  "stateCode": "AR",
+  "zip": "72632",
+  "phone": "479-253-9188",
+  "image": "./img/shelter/office/253555.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/good-shepherd-humane-society-253555/",
+  "stateSlug": "arkansas",
+  "stateName": "Arkansas",
+  "citySlug": "eureka-springs",
+  "cityName": "Eureka Springs",
+  "cityLabel": "Eureka Springs, AR",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/arkansas/eureka-springs/",
+  "fetchedAt": "2026-06-27T18:22:01.937590+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/253555.jpg?f=webp&w=730"
+}

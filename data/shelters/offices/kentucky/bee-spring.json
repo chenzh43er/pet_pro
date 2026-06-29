@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:56:20.037741+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "bee-spring",
+    "name": "Bee Spring",
+    "label": "Bee Spring, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/bee-spring/",
+  "offices": [
+    {
+      "officeId": 115955,
+      "slug": "edmonson-county-animal-shelter-115955",
+      "name": "Edmonson County Animal Shelter",
+      "address": "188 Sanders Road, Bee Spring, KY 42207",
+      "phone": "270-286-6096",
+      "image": "https://cdn.findpawpal.com/office/115955.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/edmonson-county-animal-shelter-115955/"
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "fetchedAt": "2026-06-27T17:47:21.866188+00:00",
+  "source": "https://www.findpawpal.com/animal-shelter/",
+  "states": [
+    {
+      "slug": "alabama",
+      "name": "Alabama",
+      "offices": 156,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alabama/",
+      "citiesFile": "cities/alabama.json"
+    },
+    {
+      "slug": "alaska",
+      "name": "Alaska",
+      "offices": 32,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/alaska/",
+      "citiesFile": "cities/alaska.json"
+    },
+    {
+      "slug": "arizona",
+      "name": "Arizona",
+      "offices": 184,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/arizona/",
+      "citiesFile": "cities/arizona.json"
+    },
+    {
+      "slug": "arkansas",
+      "name": "Arkansas",
+      "offices": 139,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/arkansas/",
+      "citiesFile": "cities/arkansas.json"
+    },
+    {
+      "slug": "california",
+      "name": "California",
+      "offices": 627,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/california/",
+      "citiesFile": "cities/california.json"
+    },
+    {
+      "slug": "colorado",
+      "name": "Colorado",
+      "offices": 168,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/colorado/",
+      "citiesFile": "cities/colorado.json"
+    },
+    {
+      "slug": "connecticut",
+      "name": "Connecticut",
+      "offices": 163,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/connecticut/",
+      "citiesFile": "cities/connecticut.json"
+    },
+    {
+      "slug": "delaware",
+      "name": "Delaware",
+      "offices": 13,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/delaware/",
+      "citiesFile": "cities/delaware.json"
+    },
+    {
+      "slug": "district-of-columbia",
+      "name": "District of Columbia",
+      "offices": 9,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/district-of-columbia/",
+      "citiesFile": "cities/district-of-columbia.json"
+    },
+    {
+      "slug": "florida",
+      "name": "Florida",
+      "offices": 364,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/florida/",
+      "citiesFile": "cities/florida.json"
+    },
+    {
+      "slug": "georgia",
+      "name": "Georgia",
+      "offices": 269,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/georgia/",
+      "citiesFile": "cities/georgia.json"
+    },
+    {
+      "slug": "hawaii",
+      "name": "Hawaii",
+      "offices": 26,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/hawaii/",
+      "citiesFile": "cities/hawaii.json"
+    },
+    {
+      "slug": "idaho",
+      "name": "Idaho",
+      "offices": 74,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/idaho/",
+      "citiesFile": "cities/idaho.json"
+    },
+    {
+      "slug": "illinois",
+      "name": "Illinois",
+      "offices": 317,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/illinois/",
+      "citiesFile": "cities/illinois.json"
+    },
+    {
+      "slug": "indiana",
+      "name": "Indiana",
+      "offices": 235,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/indiana/",
+      "citiesFile": "cities/indiana.json"
+    },
+    {
+      "slug": "iowa",
+      "name": "Iowa",
+      "offices": 120,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/iowa/",
+      "citiesFile": "cities/iowa.json"
+    },
+    {
+      "slug": "kansas",
+      "name": "Kansas",
+      "offices": 99,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/kansas/",
+      "citiesFile": "cities/kansas.json"
+    },
+    {
+      "slug": "kentucky",
+      "name": "Kentucky",
+      "offices": 176,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/kentucky/",
+      "citiesFile": "cities/kentucky.json"
+    },
+    {
+      "slug": "louisiana",
+      "name": "Louisiana",
+      "offices": 145,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/louisiana/",
+      "citiesFile": "cities/louisiana.json"
+    },
+    {
+      "slug": "maine",
+      "name": "Maine",
+      "offices": 88,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/maine/",
+      "citiesFile": "cities/maine.json"
+    },
+    {
+      "slug": "maryland",
+      "name": "Maryland",
+      "offices": 133,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/maryland/",
+      "citiesFile": "cities/maryland.json"
+    },
+    {
+      "slug": "massachusetts",
+      "name": "Massachusetts",
+      "offices": 253,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/massachusetts/",
+      "citiesFile": "cities/massachusetts.json"
+    },
+    {
+      "slug": "michigan",
+      "name": "Michigan",
+      "offices": 232,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/michigan/",
+      "citiesFile": "cities/michigan.json"
+    },
+    {
+      "slug": "minnesota",
+      "name": "Minnesota",
+      "offices": 142,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/minnesota/",
+      "citiesFile": "cities/minnesota.json"
+    },
+    {
+      "slug": "mississippi",
+      "name": "Mississippi",
+      "offices": 87,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/mississippi/",
+      "citiesFile": "cities/mississippi.json"
+    },
+    {
+      "slug": "missouri",
+      "name": "Missouri",
+      "offices": 255,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/missouri/",
+      "citiesFile": "cities/missouri.json"
+    },
+    {
+      "slug": "montana",
+      "name": "Montana",
+      "offices": 52,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/montana/",
+      "citiesFile": "cities/montana.json"
+    },
+    {
+      "slug": "nebraska",
+      "name": "Nebraska",
+      "offices": 53,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/nebraska/",
+      "citiesFile": "cities/nebraska.json"
+    },
+    {
+      "slug": "nevada",
+      "name": "Nevada",
+      "offices": 64,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/nevada/",
+      "citiesFile": "cities/nevada.json"
+    },
+    {
+      "slug": "new-hampshire",
+      "name": "New Hampshire",
+      "offices": 68,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire/",
+      "citiesFile": "cities/new-hampshire.json"
+    },
+    {
+      "slug": "new-jersey",
+      "name": "New Jersey",
+      "offices": 312,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-jersey/",
+      "citiesFile": "cities/new-jersey.json"
+    },
+    {
+      "slug": "new-mexico",
+      "name": "New Mexico",
+      "offices": 153,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-mexico/",
+      "citiesFile": "cities/new-mexico.json"
+    },
+    {
+      "slug": "new-york",
+      "name": "New York",
+      "offices": 398,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york/",
+      "citiesFile": "cities/new-york.json"
+    },
+    {
+      "slug": "north-carolina",
+      "name": "North Carolina",
+      "offices": 339,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-carolina/",
+      "citiesFile": "cities/north-carolina.json"
+    },
+    {
+      "slug": "north-dakota",
+      "name": "North Dakota",
+      "offices": 26,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/north-dakota/",
+      "citiesFile": "cities/north-dakota.json"
+    },
+    {
+      "slug": "ohio",
+      "name": "Ohio",
+      "offices": 417,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/ohio/",
+      "citiesFile": "cities/ohio.json"
+    },
+    {
+      "slug": "oklahoma",
+      "name": "Oklahoma",
+      "offices": 150,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oklahoma/",
+      "citiesFile": "cities/oklahoma.json"
+    },
+    {
+      "slug": "oregon",
+      "name": "Oregon",
+      "offices": 152,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/oregon/",
+      "citiesFile": "cities/oregon.json"
+    },
+    {
+      "slug": "pennsylvania",
+      "name": "Pennsylvania",
+      "offices": 233,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/pennsylvania/",
+      "citiesFile": "cities/pennsylvania.json"
+    },
+    {
+      "slug": "rhode-island",
+      "name": "Rhode Island",
+      "offices": 68,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/rhode-island/",
+      "citiesFile": "cities/rhode-island.json"
+    },
+    {
+      "slug": "south-carolina",
+      "name": "South Carolina",
+      "offices": 140,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-carolina/",
+      "citiesFile": "cities/south-carolina.json"
+    },
+    {
+      "slug": "south-dakota",
+      "name": "South Dakota",
+      "offices": 32,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/south-dakota/",
+      "citiesFile": "cities/south-dakota.json"
+    },
+    {
+      "slug": "tennessee",
+      "name": "Tennessee",
+      "offices": 238,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/tennessee/",
+      "citiesFile": "cities/tennessee.json"
+    },
+    {
+      "slug": "texas",
+      "name": "Texas",
+      "offices": 575,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/texas/",
+      "citiesFile": "cities/texas.json"
+    },
+    {
+      "slug": "utah",
+      "name": "Utah",
+      "offices": 104,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/utah/",
+      "citiesFile": "cities/utah.json"
+    },
+    {
+      "slug": "vermont",
+      "name": "Vermont",
+      "offices": 37,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont/",
+      "citiesFile": "cities/vermont.json"
+    },
+    {
+      "slug": "virginia",
+      "name": "Virginia",
+      "offices": 326,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/virginia/",
+      "citiesFile": "cities/virginia.json"
+    },
+    {
+      "slug": "washington",
+      "name": "Washington",
+      "offices": 195,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/washington/",
+      "citiesFile": "cities/washington.json"
+    },
+    {
+      "slug": "west-virginia",
+      "name": "West Virginia",
+      "offices": 128,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/west-virginia/",
+      "citiesFile": "cities/west-virginia.json"
+    },
+    {
+      "slug": "wisconsin",
+      "name": "Wisconsin",
+      "offices": 177,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/wisconsin/",
+      "citiesFile": "cities/wisconsin.json"
+    },
+    {
+      "slug": "wyoming",
+      "name": "Wyoming",
+      "offices": 47,
+      "unit": "Offices",
+      "url": "https://www.findpawpal.com/animal-shelter/wyoming/",
+      "citiesFile": "cities/wyoming.json"
+    }
+  ]
+}

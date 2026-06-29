@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:02:27.116638+00:00",
+  "state": {
+    "slug": "maine",
+    "name": "Maine"
+  },
+  "city": {
+    "slug": "trenton",
+    "name": "Trenton",
+    "label": "Trenton, ME"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maine/trenton/",
+  "offices": [
+    {
+      "officeId": 349127,
+      "slug": "spca-of-hancock-county-349127",
+      "name": "SPCA of Hancock County",
+      "address": "141 Bar Harbor Road, Trenton, ME 04605",
+      "phone": "207-667-8088",
+      "image": "./img/shelter/office/349127.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/spca-of-hancock-county-349127/",
+      "imageUrl": "https://cdn.findpawpal.com/office/349127.jpg?f=webp&w=730"
+    }
+  ]
+}

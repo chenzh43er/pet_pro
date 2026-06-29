@@ -1,0 +1,21 @@
+{
+  "officeId": 521244,
+  "slug": "bristol-animal-shelter-521244",
+  "name": "Bristol Animal Shelter",
+  "address": "10 Minturn Farm Rd, Bristol, RI 02809",
+  "street": "10 Minturn Farm Rd",
+  "addressCity": "Bristol",
+  "stateCode": "RI",
+  "zip": "02809",
+  "phone": "401-253-4834",
+  "image": "./img/shelter/office/521244.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/bristol-animal-shelter-521244/",
+  "stateSlug": "rhode-island",
+  "stateName": "Rhode Island",
+  "citySlug": "bristol",
+  "cityName": "Bristol",
+  "cityLabel": "Bristol, RI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/rhode-island/bristol/",
+  "fetchedAt": "2026-06-27T19:55:51.483517+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/521244.jpg?f=webp&w=730"
+}

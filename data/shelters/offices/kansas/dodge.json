@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:54:48.622855+00:00",
+  "state": {
+    "slug": "kansas",
+    "name": "Kansas"
+  },
+  "city": {
+    "slug": "dodge",
+    "name": "Dodge",
+    "label": "Dodge, KS"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kansas/dodge/",
+  "offices": [
+    {
+      "officeId": 5147,
+      "slug": "ford-county-humane-society-5147",
+      "name": "Ford County Humane Society",
+      "address": "800 Avenue P, Dodge, KS 67801",
+      "phone": "620-225-1481",
+      "image": "./img/shelter/office/5147.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ford-county-humane-society-5147/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5147.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 5856,
+      "slug": "dodge-city-animal-shelter-5856",
+      "name": "Dodge City Animal Shelter",
+      "address": "104 North 14th Avenue, Dodge, KS 67801",
+      "phone": "620-225-1567",
+      "image": "./img/shelter/office/5856.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dodge-city-animal-shelter-5856/",
+      "imageUrl": "https://cdn.findpawpal.com/office/5856.jpg?f=webp&w=730"
+    }
+  ]
+}

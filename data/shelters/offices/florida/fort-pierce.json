@@ -1,0 +1,51 @@
+{
+  "fetchedAt": "2026-06-27T18:14:23.895388+00:00",
+  "state": {
+    "slug": "florida",
+    "name": "Florida"
+  },
+  "city": {
+    "slug": "fort-pierce",
+    "name": "Fort Pierce",
+    "label": "Fort Pierce, FL"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/florida/fort-pierce/",
+  "offices": [
+    {
+      "slug": "feathered-friends-adoption-and-rescue-324707",
+      "name": "Feathered Friends Adoption & Rescue",
+      "address": "5202 Pinetree Drive, Fort Pierce, FL 34982",
+      "phone": "321-633-4744",
+      "image": "./img/shelter/office/324707.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/feathered-friends-adoption-and-rescue-324707/",
+      "imageUrl": "https://cdn.findpawpal.com/office/324707.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dogs-and-cats-forever-324713",
+      "name": "Dogs & Cats Forever",
+      "address": "4600 Selvitz Road, Fort Pierce, FL 34981",
+      "phone": "772-489-5454",
+      "image": "./img/shelter/office/324713.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dogs-and-cats-forever-324713/",
+      "imageUrl": "https://cdn.findpawpal.com/office/324713.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "creature-safe-place-inc-341498",
+      "name": "Creature Safe Place Inc",
+      "address": "4500 McCarty Road, Fort Pierce, FL 34945",
+      "phone": "772-468-6616",
+      "image": "./img/shelter/office/341498.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/creature-safe-place-inc-341498/",
+      "imageUrl": "https://cdn.findpawpal.com/office/341498.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-humane-society-of-st-lucie-county-341550",
+      "name": "The Humane Society of St. Lucie County",
+      "address": "100 Savannah Road, Fort Pierce, FL 34982",
+      "phone": "772-461-0687",
+      "image": "./img/shelter/office/341550.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-humane-society-of-st-lucie-county-341550/",
+      "imageUrl": "https://cdn.findpawpal.com/office/341550.jpg?f=webp&w=730"
+    }
+  ]
+}

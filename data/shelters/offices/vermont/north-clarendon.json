@@ -1,0 +1,43 @@
+{
+  "fetchedAt": "2026-06-27T20:12:13.403565+00:00",
+  "state": {
+    "slug": "vermont",
+    "name": "Vermont"
+  },
+  "city": {
+    "slug": "north-clarendon",
+    "name": "North Clarendon",
+    "label": "North Clarendon, VT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/vermont/north-clarendon/",
+  "offices": [
+    {
+      "officeId": 512297,
+      "slug": "spring-hill-horse-rescue-512297",
+      "name": "Spring Hill Horse Rescue",
+      "address": "175 Middle Road, North Clarendon, VT 05759",
+      "phone": "802-247-2857",
+      "image": "https://cdn.findpawpal.com/office/512297.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/spring-hill-horse-rescue-512297/"
+    },
+    {
+      "officeId": 639584,
+      "slug": "spring-hill-horse-rescue-large-animal-humane-639584",
+      "name": "Spring Hill Horse Rescue Large Animal Humane",
+      "address": "175 Middle Road, North Clarendon, VT 05759",
+      "phone": "802-775-1098",
+      "image": "https://cdn.findpawpal.com/office/639584.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/spring-hill-horse-rescue-large-animal-humane-639584/"
+    },
+    {
+      "officeId": 704717,
+      "slug": "vermont-humane-federation-704717",
+      "name": "Vermont Humane Federation",
+      "address": "PO Box 162, North Clarendon, VT 05759",
+      "phone": "802-747-8022",
+      "image": "./img/shelter/office/704717.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/vermont-humane-federation-704717/",
+      "imageUrl": "https://cdn.findpawpal.com/office/704717.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fetchedAt": "2026-06-27T19:24:08.744899+00:00",
+  "state": {
+    "slug": "new-hampshire",
+    "name": "New Hampshire"
+  },
+  "city": {
+    "slug": "farmington",
+    "name": "Farmington",
+    "label": "Farmington, NH"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-hampshire/farmington/",
+  "offices": [
+    {
+      "officeId": 44146,
+      "slug": "new-hampshire-animal-control-association-44146",
+      "name": "New Hampshire Animal Control Association",
+      "address": "38 Glen Street, Farmington, NH 03835",
+      "phone": "603-755-3631",
+      "image": "./img/shelter/office/44146.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-hampshire-animal-control-association-44146/",
+      "imageUrl": "https://cdn.findpawpal.com/office/44146.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 44164,
+      "slug": "pampered-paws-sanctuary-44164",
+      "name": "Pampered Paws Sanctuary",
+      "address": "5 Deer Cove Circle, Farmington, NH 03835",
+      "phone": "603-755-1091",
+      "image": "https://cdn.findpawpal.com/office/44164.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/pampered-paws-sanctuary-44164/"
+    }
+  ]
+}

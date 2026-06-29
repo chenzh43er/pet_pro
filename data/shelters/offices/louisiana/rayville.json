@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:00:37.901951+00:00",
+  "state": {
+    "slug": "louisiana",
+    "name": "Louisiana"
+  },
+  "city": {
+    "slug": "rayville",
+    "name": "Rayville",
+    "label": "Rayville, LA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/louisiana/rayville/",
+  "offices": [
+    {
+      "officeId": 243552,
+      "slug": "the-delta-humane-society-243552",
+      "name": "The Delta Humane Society",
+      "address": "165 Covington Road, Rayville, LA 71269",
+      "phone": "318-728-2455",
+      "image": "https://cdn.findpawpal.com/office/243552.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/the-delta-humane-society-243552/"
+    }
+  ]
+}

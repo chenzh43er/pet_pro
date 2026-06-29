@@ -1,0 +1,21 @@
+{
+  "officeId": 393945,
+  "slug": "action-pet-rescue-393945",
+  "name": "Action Pet Rescue",
+  "address": "3300 Whitesworth Road, Phoenix, MD 21131",
+  "street": "3300 Whitesworth Road",
+  "addressCity": "Phoenix",
+  "stateCode": "MD",
+  "zip": "21131",
+  "phone": "443-318-4810",
+  "image": "./img/shelter/office/393945.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/action-pet-rescue-393945/",
+  "stateSlug": "maryland",
+  "stateName": "Maryland",
+  "citySlug": "phoenix",
+  "cityName": "Phoenix",
+  "cityLabel": "Phoenix, MD",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/maryland/phoenix/",
+  "fetchedAt": "2026-06-27T19:04:21.414579+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/393945.jpg?f=webp&w=730"
+}

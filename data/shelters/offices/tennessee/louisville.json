@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:00:54.540614+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "louisville",
+    "name": "Louisville",
+    "label": "Louisville, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/louisville/",
+  "offices": [
+    {
+      "officeId": 684892,
+      "slug": "blount-county-animal-rescue-effort-684892",
+      "name": "Blount County Animal Rescue Effort",
+      "address": "PO Box 832, Louisville, TN 37777",
+      "phone": "865-982-7900",
+      "image": "https://cdn.findpawpal.com/office/684892.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/blount-county-animal-rescue-effort-684892/"
+    }
+  ]
+}

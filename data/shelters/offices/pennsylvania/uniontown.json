@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T19:55:18.927912+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "uniontown",
+    "name": "Uniontown",
+    "label": "Uniontown, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/uniontown/",
+  "offices": [
+    {
+      "officeId": 465005,
+      "slug": "fayette-county-spca-465005",
+      "name": "Fayette County SPCA",
+      "address": "215 Rankin Airshaft Road, Uniontown, PA 15401",
+      "phone": "724-438-3121",
+      "image": "./img/shelter/office/465005.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fayette-county-spca-465005/",
+      "imageUrl": "https://cdn.findpawpal.com/office/465005.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 475168,
+      "slug": "noahs-ark-475168",
+      "name": "Noah's Ark",
+      "address": "477 North Gallatin Avenue, Uniontown, PA 15401",
+      "phone": "724-439-8620",
+      "image": "./img/shelter/office/475168.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/noahs-ark-475168/",
+      "imageUrl": "https://cdn.findpawpal.com/office/475168.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 596334,
+      "slug": "fayette-friends-of-animals-596334",
+      "name": "Fayette Friends of Animals",
+      "address": "223 Village of Searights, Uniontown, PA 15401",
+      "phone": "724-245-7815",
+      "image": "https://cdn.findpawpal.com/office/596334.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/fayette-friends-of-animals-596334/"
+    }
+  ]
+}

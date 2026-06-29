@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:03:41.172596+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "hagerstown",
+    "name": "Hagerstown",
+    "label": "Hagerstown, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/hagerstown/",
+  "offices": [
+    {
+      "officeId": 369808,
+      "slug": "humane-society-washington-county-369808",
+      "name": "Humane Society-Washington County",
+      "address": "13011 Maugansville Road, Hagerstown, MD 21740",
+      "phone": "301-733-2060",
+      "image": "./img/shelter/office/369808.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-washington-county-369808/",
+      "imageUrl": "https://cdn.findpawpal.com/office/369808.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 369815,
+      "slug": "shelter-of-saint-francis-369815",
+      "name": "Shelter of Saint Francis",
+      "address": "11826 Peacock Trail, Hagerstown, MD 21742",
+      "phone": "301-797-7174",
+      "image": "./img/shelter/office/369815.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/shelter-of-saint-francis-369815/",
+      "imageUrl": "https://cdn.findpawpal.com/office/369815.jpg?f=webp&w=730"
+    }
+  ]
+}

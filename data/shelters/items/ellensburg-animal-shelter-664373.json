@@ -1,0 +1,21 @@
+{
+  "officeId": 664373,
+  "slug": "ellensburg-animal-shelter-664373",
+  "name": "Ellensburg Animal Shelter",
+  "address": "1007 Industrial Way, Ellensburg, WA 98926",
+  "street": "1007 Industrial Way",
+  "addressCity": "Ellensburg",
+  "stateCode": "WA",
+  "zip": "98926",
+  "phone": "509-962-7246",
+  "image": "./img/shelter/office/664373.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/ellensburg-animal-shelter-664373/",
+  "stateSlug": "washington",
+  "stateName": "Washington",
+  "citySlug": "ellensburg",
+  "cityName": "Ellensburg",
+  "cityLabel": "Ellensburg, WA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/washington/ellensburg/",
+  "fetchedAt": "2026-06-27T20:17:46.227735+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/664373.jpg?f=webp&w=730"
+}

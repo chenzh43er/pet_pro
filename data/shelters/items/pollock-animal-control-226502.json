@@ -1,0 +1,21 @@
+{
+  "officeId": 226502,
+  "slug": "pollock-animal-control-226502",
+  "name": "Pollock Animal Control",
+  "address": "8484 U.s. 165, Pollock, LA 71467",
+  "street": "8484 U.s. 165",
+  "addressCity": "Pollock",
+  "stateCode": "LA",
+  "zip": "71467",
+  "phone": "318-765-5050",
+  "image": "./img/shelter/office/226502.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pollock-animal-control-226502/",
+  "stateSlug": "louisiana",
+  "stateName": "Louisiana",
+  "citySlug": "pollock",
+  "cityName": "Pollock",
+  "cityLabel": "Pollock, LA",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/louisiana/pollock/",
+  "fetchedAt": "2026-06-27T19:00:35.016554+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/226502.jpg?f=webp&w=730"
+}

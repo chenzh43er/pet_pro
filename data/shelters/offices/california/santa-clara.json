@@ -1,0 +1,42 @@
+{
+  "fetchedAt": "2026-06-27T18:30:33.883853+00:00",
+  "state": {
+    "slug": "california",
+    "name": "California"
+  },
+  "city": {
+    "slug": "santa-clara",
+    "name": "Santa Clara",
+    "label": "Santa Clara, CA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/california/santa-clara/",
+  "offices": [
+    {
+      "slug": "k-9-haven-364422",
+      "name": "K-9 Haven",
+      "address": "PO Box 1077, Santa Clara, CA 95052",
+      "phone": "408-371-2662",
+      "image": "./img/shelter/office/364422.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/k-9-haven-364422/",
+      "imageUrl": "https://cdn.findpawpal.com/office/364422.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-silicon-valley-384094",
+      "name": "Humane Society of Silicon Valley",
+      "address": "2530 Lafayette Street, Santa Clara, CA 95050",
+      "phone": "408-727-3383",
+      "image": "./img/shelter/office/384094.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-silicon-valley-384094/",
+      "imageUrl": "https://cdn.findpawpal.com/office/384094.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "silicon-valley-animal-control-668788",
+      "name": "Silicon Valley Animal Control",
+      "address": "3370 Thomas Road, Santa Clara, CA 95054",
+      "phone": "408-764-0344",
+      "image": "./img/shelter/office/668788.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/silicon-valley-animal-control-668788/",
+      "imageUrl": "https://cdn.findpawpal.com/office/668788.jpg?f=webp&w=730"
+    }
+  ]
+}

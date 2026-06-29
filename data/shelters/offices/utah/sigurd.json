@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:11:29.776158+00:00",
+  "state": {
+    "slug": "utah",
+    "name": "Utah"
+  },
+  "city": {
+    "slug": "sigurd",
+    "name": "Sigurd",
+    "label": "Sigurd, UT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/utah/sigurd/",
+  "offices": [
+    {
+      "officeId": 635355,
+      "slug": "sevier-county-animal-shelter-635355",
+      "name": "Sevier County Animal Shelter",
+      "address": "2555 N Interchange Rd, Sigurd, UT 84701",
+      "phone": "435-896-5370",
+      "image": "./img/shelter/office/635355.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sevier-county-animal-shelter-635355/",
+      "imageUrl": "https://cdn.findpawpal.com/office/635355.jpg?f=webp&w=730"
+    }
+  ]
+}

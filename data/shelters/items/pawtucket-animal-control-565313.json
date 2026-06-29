@@ -1,0 +1,21 @@
+{
+  "officeId": 565313,
+  "slug": "pawtucket-animal-control-565313",
+  "name": "Pawtucket Animal Control",
+  "address": "NEWPORT Ave, Pawtucket, RI 02861",
+  "street": "NEWPORT Ave",
+  "addressCity": "Pawtucket",
+  "stateCode": "RI",
+  "zip": "02861",
+  "phone": "401-722-4243",
+  "image": "./img/shelter/office/565313.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pawtucket-animal-control-565313/",
+  "stateSlug": "rhode-island",
+  "stateName": "Rhode Island",
+  "citySlug": "pawtucket",
+  "cityName": "Pawtucket",
+  "cityLabel": "Pawtucket, RI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/rhode-island/pawtucket/",
+  "fetchedAt": "2026-06-27T19:56:24.686534+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/565313.jpg?f=webp&w=730"
+}

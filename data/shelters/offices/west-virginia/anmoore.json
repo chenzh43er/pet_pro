@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:19:42.855831+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "anmoore",
+    "name": "Anmoore",
+    "label": "Anmoore, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/anmoore/",
+  "offices": [
+    {
+      "officeId": 493966,
+      "slug": "hillhaven-animal-sanctuary-rescue-inc-493966",
+      "name": "Hillhaven Animal Sanctuary Rescue, Inc.",
+      "address": "PO Box 254, Anmoore, WV 26323",
+      "phone": "304-476-3779",
+      "image": "https://cdn.findpawpal.com/office/493966.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/hillhaven-animal-sanctuary-rescue-inc-493966/"
+    }
+  ]
+}

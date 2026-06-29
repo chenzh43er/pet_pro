@@ -1,0 +1,83 @@
+{
+  "fetchedAt": "2026-06-27T20:04:10.526127+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "corpus-christi",
+    "name": "Corpus Christi",
+    "label": "Corpus Christi, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/corpus-christi/",
+  "offices": [
+    {
+      "officeId": 478458,
+      "slug": "gulf-coast-humane-society-478458",
+      "name": "Gulf Coast Humane Society",
+      "address": "3118 Cabaniss Road, Corpus Christi, TX 78415",
+      "phone": "361-225-0845",
+      "image": "./img/shelter/office/478458.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/gulf-coast-humane-society-478458/",
+      "imageUrl": "https://cdn.findpawpal.com/office/478458.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 537734,
+      "slug": "animal-control-division-corpus-cristi-537734",
+      "name": "Animal Control Division Corpus Cristi",
+      "address": "2626 Holly Road, Corpus Christi, TX 78415",
+      "phone": "361-882-6082",
+      "image": "./img/shelter/office/537734.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-control-division-corpus-cristi-537734/",
+      "imageUrl": "https://cdn.findpawpal.com/office/537734.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 537761,
+      "slug": "the-cattery-cat-shelter-537761",
+      "name": "The Cattery Cat Shelter",
+      "address": "4232 South Padre Island Drive, Corpus Christi, TX 78411",
+      "phone": "361-854-6369",
+      "image": "./img/shelter/office/537761.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/the-cattery-cat-shelter-537761/",
+      "imageUrl": "https://cdn.findpawpal.com/office/537761.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 633664,
+      "slug": "pals-animal-shelter-633664",
+      "name": "Pals Animal Shelter",
+      "address": "1101 Navigation Boulevard, Corpus Christi, TX 78407",
+      "phone": "361-884-0366",
+      "image": "./img/shelter/office/633664.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pals-animal-shelter-633664/",
+      "imageUrl": "https://cdn.findpawpal.com/office/633664.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 635163,
+      "slug": "compassion-for-animals-635163",
+      "name": "Compassion for Animals",
+      "address": "PO Box 72064, Corpus Christi, TX 78472",
+      "phone": "361-852-6573",
+      "image": "https://cdn.findpawpal.com/office/635163.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/compassion-for-animals-635163/"
+    },
+    {
+      "officeId": 702209,
+      "slug": "welcome-home-barnyard-animal-sanctuary-702209",
+      "name": "Welcome Home Barnyard Animal Sanctuary",
+      "address": "1307 Saratoga Boulevard, Corpus Christi, TX 78417",
+      "phone": "361-215-5668",
+      "image": "./img/shelter/office/702209.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/welcome-home-barnyard-animal-sanctuary-702209/",
+      "imageUrl": "https://cdn.findpawpal.com/office/702209.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 702210,
+      "slug": "corpus-christi-animal-rights-effort-702210",
+      "name": "Corpus Christi Animal Rights Effort",
+      "address": "PO Box 9093, Corpus Christi, TX 78469",
+      "phone": "361-289-7457",
+      "image": "https://cdn.findpawpal.com/office/702210.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/corpus-christi-animal-rights-effort-702210/"
+    }
+  ]
+}

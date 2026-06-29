@@ -1,0 +1,115 @@
+{
+  "fetchedAt": "2026-06-27T19:59:34.399729+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "chattanooga",
+    "name": "Chattanooga",
+    "label": "Chattanooga, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/chattanooga/",
+  "offices": [
+    {
+      "officeId": 426164,
+      "slug": "coast-to-coast-dachshund-rescue-426164",
+      "name": "Coast to Coast Dachshund Rescue",
+      "address": "1713 Valley Forge Drive, Chattanooga, TN 37343",
+      "phone": "",
+      "image": "./img/shelter/office/426164.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/coast-to-coast-dachshund-rescue-426164/",
+      "imageUrl": "https://cdn.findpawpal.com/office/426164.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 426176,
+      "slug": "animal-care-trust-animal-care-and-adoption-center-426176",
+      "name": "Animal Care Trust, Animal Care and Adoption Center",
+      "address": "100 East 11th Street, Chattanooga, TN 37402",
+      "phone": "423-425-3750",
+      "image": "./img/shelter/office/426176.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-care-trust-animal-care-and-adoption-center-426176/",
+      "imageUrl": "https://cdn.findpawpal.com/office/426176.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 451690,
+      "slug": "chattanooga-animal-services-451690",
+      "name": "Chattanooga Animal Services",
+      "address": "3300 Amnicola Highway, Chattanooga, TN 37406",
+      "phone": "423-698-9587",
+      "image": "./img/shelter/office/451690.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/chattanooga-animal-services-451690/",
+      "imageUrl": "https://cdn.findpawpal.com/office/451690.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 452357,
+      "slug": "mckamey-animal-care-and-adoption-center-452357",
+      "name": "Mckamey Animal Care and Adoption Center",
+      "address": "4500 North Access Road, Chattanooga, TN 37415",
+      "phone": "",
+      "image": "./img/shelter/office/452357.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mckamey-animal-care-and-adoption-center-452357/",
+      "imageUrl": "https://cdn.findpawpal.com/office/452357.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 452492,
+      "slug": "chattanooga-animal-control-452492",
+      "name": "Chattanooga Animal Control",
+      "address": "4500 North Access Road, Chattanooga, TN 37415",
+      "phone": "423-305-6511",
+      "image": "./img/shelter/office/452492.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/chattanooga-animal-control-452492/",
+      "imageUrl": "https://cdn.findpawpal.com/office/452492.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 459992,
+      "slug": "pet-placement-center-459992",
+      "name": "Pet Placement Center",
+      "address": "5975 Dayton Boulevard, Chattanooga, TN 37415",
+      "phone": "423-877-0738",
+      "image": "./img/shelter/office/459992.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/pet-placement-center-459992/",
+      "imageUrl": "https://cdn.findpawpal.com/office/459992.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 460233,
+      "slug": "tennessee-animal-league-460233",
+      "name": "Tennessee Animal League",
+      "address": "89 South Crest Road, Chattanooga, TN 37404",
+      "phone": "",
+      "image": "./img/shelter/office/460233.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tennessee-animal-league-460233/",
+      "imageUrl": "https://cdn.findpawpal.com/office/460233.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 636654,
+      "slug": "a-home-for-cats-636654",
+      "name": "A Home for Cats",
+      "address": "20 Mason Drive, Chattanooga, TN 37415",
+      "phone": "423-208-0423",
+      "image": "./img/shelter/office/636654.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/a-home-for-cats-636654/",
+      "imageUrl": "https://cdn.findpawpal.com/office/636654.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 636656,
+      "slug": "cats-are-reason-enough-636656",
+      "name": "Cats Are Reason Enough",
+      "address": "1278 Phils Drive, Chattanooga, TN 37421",
+      "phone": "423-894-4926",
+      "image": "./img/shelter/office/636656.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/cats-are-reason-enough-636656/",
+      "imageUrl": "https://cdn.findpawpal.com/office/636656.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 636673,
+      "slug": "humane-educational-society-636673",
+      "name": "Humane Educational Society",
+      "address": "212 North Highland Park Avenue, Chattanooga, TN 37404",
+      "phone": "423-624-5302",
+      "image": "./img/shelter/office/636673.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-educational-society-636673/",
+      "imageUrl": "https://cdn.findpawpal.com/office/636673.jpg?f=webp&w=730"
+    }
+  ]
+}

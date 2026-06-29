@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T18:50:08.429832+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "franklin",
+    "name": "Franklin",
+    "label": "Franklin, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/franklin/",
+  "offices": [
+    {
+      "officeId": 200279,
+      "slug": "german-shepherd-rescue-adoption-of-central-indiana-200279",
+      "name": "German Shepherd Rescue Adoption of Central Indiana",
+      "address": "6189 East 100 North, Franklin, IN 46131",
+      "phone": "317-736-0446",
+      "image": "./img/shelter/office/200279.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/german-shepherd-rescue-adoption-of-central-indiana-200279/",
+      "imageUrl": "https://cdn.findpawpal.com/office/200279.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 200468,
+      "slug": "johnson-county-animal-shelter-200468",
+      "name": "Johnson County Animal Shelter",
+      "address": "1061 Hospital Road, Franklin, IN 46131",
+      "phone": "317-736-3924",
+      "image": "https://cdn.findpawpal.com/office/200468.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/johnson-county-animal-shelter-200468/"
+    },
+    {
+      "officeId": 251457,
+      "slug": "humane-society-of-johnson-county-251457",
+      "name": "Humane Society of Johnson County",
+      "address": "550 East Jefferson Street, Franklin, IN 46131",
+      "phone": "317-346-7001",
+      "image": "./img/shelter/office/251457.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-johnson-county-251457/",
+      "imageUrl": "https://cdn.findpawpal.com/office/251457.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "officeId": 583590,
+  "slug": "bristol-animal-shelter-583590",
+  "name": "Bristol Animal Shelter",
+  "address": "395 Metacom Avenue, Bristol, RI 02809",
+  "street": "395 Metacom Avenue",
+  "addressCity": "Bristol",
+  "stateCode": "RI",
+  "zip": "02809",
+  "phone": "401-253-4834",
+  "image": "./img/shelter/office/583590.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/bristol-animal-shelter-583590/",
+  "stateSlug": "rhode-island",
+  "stateName": "Rhode Island",
+  "citySlug": "bristol",
+  "cityName": "Bristol",
+  "cityLabel": "Bristol, RI",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/rhode-island/bristol/",
+  "fetchedAt": "2026-06-27T19:55:51.483517+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/583590.jpg?f=webp&w=730"
+}

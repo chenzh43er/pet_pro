@@ -1,0 +1,75 @@
+{
+  "fetchedAt": "2026-06-27T19:30:12.278312+00:00",
+  "state": {
+    "slug": "new-mexico",
+    "name": "New Mexico"
+  },
+  "city": {
+    "slug": "clovis",
+    "name": "Clovis",
+    "label": "Clovis, NM"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-mexico/clovis/",
+  "offices": [
+    {
+      "officeId": 258592,
+      "slug": "wandering-tails-animal-rescue-inc-258592",
+      "name": "Wandering Tails Animal Rescue, Inc.",
+      "address": "PO Box 0546, Clovis, NM 88101",
+      "phone": "253-973-5801",
+      "image": "./img/shelter/office/258592.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/wandering-tails-animal-rescue-inc-258592/",
+      "imageUrl": "https://cdn.findpawpal.com/office/258592.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 282018,
+      "slug": "clovis-county-animal-control-and-shelter-282018",
+      "name": "Clovis County Animal Control & Shelter",
+      "address": "2203 East Brady Avenue, Clovis, NM 88101",
+      "phone": "505-769-7893",
+      "image": "./img/shelter/office/282018.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/clovis-county-animal-control-and-shelter-282018/",
+      "imageUrl": "https://cdn.findpawpal.com/office/282018.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 309828,
+      "slug": "2-can-rescue-inc-309828",
+      "name": "2 Can Rescue, Inc.",
+      "address": "PO Box 5612, Clovis, NM 88102",
+      "phone": "575-742-8508",
+      "image": "./img/shelter/office/309828.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/2-can-rescue-inc-309828/",
+      "imageUrl": "https://cdn.findpawpal.com/office/309828.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 326279,
+      "slug": "curry-county-animal-control-326279",
+      "name": "Curry County Animal Control",
+      "address": "PO Box 1043, Clovis, NM 88102",
+      "phone": "505-769-2335",
+      "image": "./img/shelter/office/326279.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/curry-county-animal-control-326279/",
+      "imageUrl": "https://cdn.findpawpal.com/office/326279.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 327230,
+      "slug": "clovis-animal-welfare-league-327230",
+      "name": "Clovis Animal Welfare League",
+      "address": "407 North Prince Street, Clovis, NM 88101",
+      "phone": "505-762-5008",
+      "image": "./img/shelter/office/327230.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/clovis-animal-welfare-league-327230/",
+      "imageUrl": "https://cdn.findpawpal.com/office/327230.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 327236,
+      "slug": "sundance-ranch-feline-sanctuary-inc-327236",
+      "name": "Sundance Ranch Feline Sanctuary, Inc.",
+      "address": "PO Box 5395, Clovis, NM 88102",
+      "phone": "505-985-0089",
+      "image": "./img/shelter/office/327236.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sundance-ranch-feline-sanctuary-inc-327236/",
+      "imageUrl": "https://cdn.findpawpal.com/office/327236.jpg?f=webp&w=730"
+    }
+  ]
+}

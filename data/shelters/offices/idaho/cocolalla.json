@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:42:53.792638+00:00",
+  "state": {
+    "slug": "idaho",
+    "name": "Idaho"
+  },
+  "city": {
+    "slug": "cocolalla",
+    "name": "Cocolalla",
+    "label": "Cocolalla, ID"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/idaho/cocolalla/",
+  "offices": [
+    {
+      "officeId": 339624,
+      "slug": "wolf-people-339624",
+      "name": "Wolf People",
+      "address": "PO Box 246, Cocolalla, ID 83813",
+      "phone": "208-263-1100",
+      "image": "https://cdn.findpawpal.com/office/339624.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/wolf-people-339624/"
+    }
+  ]
+}

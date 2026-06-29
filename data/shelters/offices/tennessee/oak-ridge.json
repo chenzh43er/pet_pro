@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T20:01:29.290175+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "oak-ridge",
+    "name": "Oak Ridge",
+    "label": "Oak Ridge, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/oak-ridge/",
+  "offices": [
+    {
+      "officeId": 418367,
+      "slug": "oak-ridge-humane-society-418367",
+      "name": "Oak Ridge Humane Society",
+      "address": "969 Oak Ridge Tpke PMB 366, Oak Ridge, TN 37830",
+      "phone": "865-482-1133",
+      "image": "./img/shelter/office/418367.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/oak-ridge-humane-society-418367/",
+      "imageUrl": "https://cdn.findpawpal.com/office/418367.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 426080,
+      "slug": "network-offering-animals-help-426080",
+      "name": "Network Offering Animals Help",
+      "address": "201 Oak Ridge Turnpike, Oak Ridge, TN 37830",
+      "phone": "423-483-1417",
+      "image": "./img/shelter/office/426080.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/network-offering-animals-help-426080/",
+      "imageUrl": "https://cdn.findpawpal.com/office/426080.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 460858,
+      "slug": "dames-for-danes-great-dane-rescue-460858",
+      "name": "Dames for Danes Great Dane Rescue",
+      "address": "PO Box 4922, Oak Ridge, TN 37831",
+      "phone": "865-269-3021",
+      "image": "./img/shelter/office/460858.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/dames-for-danes-great-dane-rescue-460858/",
+      "imageUrl": "https://cdn.findpawpal.com/office/460858.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 685049,
+      "slug": "oak-ridge-animal-shelter-685049",
+      "name": "Oak Ridge Animal Shelter",
+      "address": "395 Belgrade Road, Oak Ridge, TN 37830",
+      "phone": "865-425-3423",
+      "image": "./img/shelter/office/685049.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/oak-ridge-animal-shelter-685049/",
+      "imageUrl": "https://cdn.findpawpal.com/office/685049.jpg?f=webp&w=730"
+    }
+  ]
+}

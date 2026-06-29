@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-06-27T18:20:52.664124+00:00",
+  "state": {
+    "slug": "arizona",
+    "name": "Arizona"
+  },
+  "city": {
+    "slug": "seligman",
+    "name": "Seligman",
+    "label": "Seligman, AZ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/arizona/seligman/",
+  "offices": [
+    {
+      "slug": "our-place-animal-rescue-in-arizona-180663",
+      "name": "Our Place Animal Rescue In Arizona",
+      "address": "PO Box 713, Seligman, AZ 86337",
+      "phone": "805-570-2841",
+      "image": "https://cdn.findpawpal.com/office/180663.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/our-place-animal-rescue-in-arizona-180663/"
+    }
+  ]
+}

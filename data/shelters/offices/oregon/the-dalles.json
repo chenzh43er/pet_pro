@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:51:33.416247+00:00",
+  "state": {
+    "slug": "oregon",
+    "name": "Oregon"
+  },
+  "city": {
+    "slug": "the-dalles",
+    "name": "The Dalles",
+    "label": "The Dalles, OR"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oregon/the-dalles/",
+  "offices": [
+    {
+      "officeId": 580609,
+      "slug": "home-at-last-animal-freinds-580609",
+      "name": "Home at Last Animal Freinds",
+      "address": "PO Box 390, The Dalles, OR 97058",
+      "phone": "541-296-3714",
+      "image": "./img/shelter/office/580609.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/home-at-last-animal-freinds-580609/",
+      "imageUrl": "https://cdn.findpawpal.com/office/580609.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 613123,
+      "slug": "home-at-last-humane-society-613123",
+      "name": "Home At Last Humane Society",
+      "address": "200 River Road, The Dalles, OR 97058",
+      "phone": "541-296-5189",
+      "image": "./img/shelter/office/613123.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/home-at-last-humane-society-613123/",
+      "imageUrl": "https://cdn.findpawpal.com/office/613123.jpg?f=webp&w=730"
+    }
+  ]
+}

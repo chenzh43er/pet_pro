@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:20:19.423415+00:00",
+  "state": {
+    "slug": "missouri",
+    "name": "Missouri"
+  },
+  "city": {
+    "slug": "republic",
+    "name": "Republic",
+    "label": "Republic, MO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/missouri/republic/",
+  "offices": [
+    {
+      "officeId": 209450,
+      "slug": "republic-animal-control-209450",
+      "name": "Republic Animal Control",
+      "address": "225 North Main Avenue, Republic, MO 65738",
+      "phone": "417-732-3190",
+      "image": "./img/shelter/office/209450.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/republic-animal-control-209450/",
+      "imageUrl": "https://cdn.findpawpal.com/office/209450.jpg?f=webp&w=730"
+    }
+  ]
+}

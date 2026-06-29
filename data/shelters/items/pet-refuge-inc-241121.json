@@ -1,0 +1,21 @@
+{
+  "officeId": 241121,
+  "slug": "pet-refuge-inc-241121",
+  "name": "Pet Refuge, Inc.",
+  "address": "4626 South Burnett Drive, South Bend, IN 46614",
+  "street": "4626 South Burnett Drive",
+  "addressCity": "South Bend",
+  "stateCode": "IN",
+  "zip": "46614",
+  "phone": "574-231-1122",
+  "image": "./img/shelter/office/241121.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/pet-refuge-inc-241121/",
+  "stateSlug": "indiana",
+  "stateName": "Indiana",
+  "citySlug": "south-bend",
+  "cityName": "South Bend",
+  "cityLabel": "South Bend, IN",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/indiana/south-bend/",
+  "fetchedAt": "2026-06-27T18:52:05.218371+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/241121.jpg?f=webp&w=730"
+}

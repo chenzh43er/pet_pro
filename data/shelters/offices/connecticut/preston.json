@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:37:07.249250+00:00",
+  "state": {
+    "slug": "connecticut",
+    "name": "Connecticut"
+  },
+  "city": {
+    "slug": "preston",
+    "name": "Preston",
+    "label": "Preston, CT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/connecticut/preston/",
+  "offices": [
+    {
+      "officeId": 156821,
+      "slug": "preston-animal-control-156821",
+      "name": "Preston Animal Control",
+      "address": "108 Ross Road, Preston, CT 06365",
+      "phone": "860-887-8091",
+      "image": "./img/shelter/office/156821.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/preston-animal-control-156821/",
+      "imageUrl": "https://cdn.findpawpal.com/office/156821.jpg?f=webp&w=730"
+    }
+  ]
+}

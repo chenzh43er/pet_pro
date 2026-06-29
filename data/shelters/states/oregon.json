@@ -1,0 +1,1070 @@
+{
+  "stateSlug": "oregon",
+  "count": 152,
+  "shelters": [
+    {
+      "slug": "albany-animal-control-659560",
+      "name": "Albany Animal Control",
+      "address": "1117 Southeast Jackson Street, Albany, OR 97322",
+      "phone": "541-388-1927",
+      "image": "https://cdn.findpawpal.com/office/659560.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "linn-county-dog-control-659617",
+      "name": "Linn County Dog Control",
+      "address": "3008 Southwest Ferry Street, Albany, OR 97322",
+      "phone": "541-967-3925",
+      "image": "https://cdn.findpawpal.com/office/659617.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pet-adoption-network-613200",
+      "name": "Pet Adoption Network",
+      "address": "1658 Southwest Marten Avenue, Albany, OR 97321",
+      "phone": "541-791-1914",
+      "image": "https://cdn.findpawpal.com/office/613200.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "safehaven-humane-society-712977",
+      "name": "SafeHaven Humane Society",
+      "address": "33071 Highway 34, Albany, OR 97322",
+      "phone": "541-928-2789",
+      "image": "https://cdn.findpawpal.com/office/712977.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "encore-farms-inc-580612",
+      "name": "Encore Farms, Inc.",
+      "address": "PO Box 5612, Aloha, OR 97006",
+      "phone": "503-727-5550",
+      "image": "https://cdn.findpawpal.com/office/580612.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "equamore-foundation-600842",
+      "name": "Equamore Foundation",
+      "address": "4723 Highway 66, Ashland, OR 97520",
+      "phone": "541-482-5550",
+      "image": "https://cdn.findpawpal.com/office/600842.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-the-animal-shelter-600838",
+      "name": "Friends of the Animal Shelter",
+      "address": "PO Box 3412, Ashland, OR 97520",
+      "phone": "541-774-6646",
+      "image": "https://cdn.findpawpal.com/office/600838.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spay-and-neuter-humane-association-580386",
+      "name": "Spay & Neuter Humane Association",
+      "address": "389 12th Street, Astoria, OR 97103",
+      "phone": "503-338-6376",
+      "image": "https://cdn.findpawpal.com/office/580386.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "baker-city-animal-control-695528",
+      "name": "Baker City Animal Control",
+      "address": "3410 K Street, Baker, OR 97814",
+      "phone": "541-523-3644",
+      "image": "https://cdn.findpawpal.com/office/695528.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "coos-county-animal-shelter-695485",
+      "name": "Coos County Animal Shelter",
+      "address": "97420 County Road 101, Bandon, OR 97411",
+      "phone": "541-269-2312",
+      "image": "https://cdn.findpawpal.com/office/695485.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "free-flight-bird-and-marine-mammal-rehabilitation-695483",
+      "name": "Free Flight Bird & Marine Mammal Rehabilitation",
+      "address": "1185 Portland Avenue Southwest, Bandon, OR 97411",
+      "phone": "541-347-3882",
+      "image": "https://cdn.findpawpal.com/office/695483.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "red-bear-sanctuary-604443",
+      "name": "Red Bear Sanctuary",
+      "address": "358 Lexington Avenue Northeast, Bandon, OR 97411",
+      "phone": "541-347-9725",
+      "image": "https://cdn.findpawpal.com/office/604443.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oregon-animal-shelter-555238",
+      "name": "Oregon Animal Shelter",
+      "address": "PO Box 3049, Bay, OR 97107",
+      "phone": "503-801-8408",
+      "image": "https://cdn.findpawpal.com/office/555238.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "beaverton-animal-control-601134",
+      "name": "Beaverton Animal Control",
+      "address": "4240 Southwest 185th Avenue, Beaverton, OR 97007",
+      "phone": "503-747-7818",
+      "image": "https://cdn.findpawpal.com/office/601134.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "indigo-rescue-555270",
+      "name": "Indigo Rescue",
+      "address": "PO Box 554, Beaverton, OR 97075",
+      "phone": "503-626-7222",
+      "image": "https://cdn.findpawpal.com/office/555270.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-league-of-central-oregon-555329",
+      "name": "Animal Rescue League of Central Oregon",
+      "address": "63350 North Highway 97, Bend, OR 97701",
+      "phone": "541-318-5377",
+      "image": "https://cdn.findpawpal.com/office/555329.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bend-animal-control-712934",
+      "name": "Bend Animal Control",
+      "address": "PO Box 108, Bend, OR 97709",
+      "phone": "541-388-5550",
+      "image": "https://cdn.findpawpal.com/office/712934.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cat-rescue-adoption-foster-team-659611",
+      "name": "Cat Rescue, Adoption Foster Team",
+      "address": "PO Box 6441, Bend, OR 97708",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/659611.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "chimps-incorporated-622009",
+      "name": "Chimps Incorporated",
+      "address": "PO Box 6973, Bend, OR 97708",
+      "phone": "541-330-8159",
+      "image": "https://cdn.findpawpal.com/office/622009.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "equine-outreach-695491",
+      "name": "Equine Outreach",
+      "address": "63220 Silvis Road, Bend, OR 97701",
+      "phone": "541-419-4842",
+      "image": "https://cdn.findpawpal.com/office/695491.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-central-oregon-613181",
+      "name": "Humane Society of Central Oregon",
+      "address": "61170 Southeast 27th Street, Bend, OR 97702",
+      "phone": "541-382-3537",
+      "image": "https://cdn.findpawpal.com/office/613181.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "south-coast-humane-society-612954",
+      "name": "South Coast Humane Society",
+      "address": "828 Railroad Street, Brookings, OR 97415",
+      "phone": "541-412-0325",
+      "image": "https://cdn.findpawpal.com/office/612954.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "burns-animal-control-722767",
+      "name": "Burns Animal Control",
+      "address": "242 South Broadway Avenue, Burns, OR 97720",
+      "phone": "541-573-6450",
+      "image": "https://cdn.findpawpal.com/office/722767.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clatsop-friends-of-animals-622006",
+      "name": "Clatsop Friends of Animals",
+      "address": "PO Box 732, Cannon Beach, OR 97110",
+      "phone": "503-436-0363",
+      "image": "https://cdn.findpawpal.com/office/622006.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dogs-for-the-deaf-inc-659532",
+      "name": "Dog's For the Deaf Inc",
+      "address": "10175 Wheeler Road, Central Point, OR 97502",
+      "phone": "541-826-9220",
+      "image": "https://cdn.findpawpal.com/office/659532.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clackamas-county-animal-control-613278",
+      "name": "Clackamas County Animal Control",
+      "address": "13141 Southeast Highway 212, Clackamas, OR 97015",
+      "phone": "503-655-8628",
+      "image": "https://cdn.findpawpal.com/office/613278.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "coos-county-humane-society-inc-604447",
+      "name": "Coos County Humane Society, Inc.",
+      "address": "600 South Port Road, Coos Bay, OR 97420",
+      "phone": "541-267-4033",
+      "image": "https://cdn.findpawpal.com/office/604447.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "friends-of-coos-county-animals-695487",
+      "name": "Friends of Coos County Animals",
+      "address": "PO Box 911, Coos Bay, OR 97420",
+      "phone": "541-269-1989",
+      "image": "https://cdn.findpawpal.com/office/695487.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "kohls-kitty-kare-613156",
+      "name": "Kohls Kitty Kare",
+      "address": "1431 Southwest Boulevard, Coos Bay, OR 97420",
+      "phone": "541-294-3876",
+      "image": "https://cdn.findpawpal.com/office/613156.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pacific-animal-rescue-and-sanctuary-paras-613167",
+      "name": "Pacific Animal Rescue and Sanctuary Paras",
+      "address": "483 6th Avenue, Coos Bay, OR 97420",
+      "phone": "541-260-7709",
+      "image": "https://cdn.findpawpal.com/office/613167.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "snipped-601019",
+      "name": "Snipped",
+      "address": "132 North Wasson Street, Coos Bay, OR 97420",
+      "phone": "541-808-2377",
+      "image": "https://cdn.findpawpal.com/office/601019.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "benton-county-dog-control-601048",
+      "name": "Benton County Dog Control",
+      "address": "180 Northwest 5th Street, Corvallis, OR 97330",
+      "phone": "541-753-0732",
+      "image": "https://cdn.findpawpal.com/office/601048.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "freinds-of-fuzzies-ferret-shelter-695498",
+      "name": "Freinds of Fuzzies Ferret Shelter",
+      "address": "2580 Southwest 3rd Street, Corvallis, OR 97333",
+      "phone": "541-753-4889",
+      "image": "https://cdn.findpawpal.com/office/695498.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "heartland-humane-society-555359",
+      "name": "Heartland Humane Society",
+      "address": "398 Southwest Twin Oaks Circle, Corvallis, OR 97333",
+      "phone": "541-757-9000",
+      "image": "https://cdn.findpawpal.com/office/555359.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-cottage-grove-604307",
+      "name": "Humane Society Cottage Grove",
+      "address": "33 North 8th Street, Cottage Grove, OR 97424",
+      "phone": "541-942-3130",
+      "image": "https://cdn.findpawpal.com/office/604307.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "maple-meadows-youth-ranch-604309",
+      "name": "Maple Meadows Youth Ranch",
+      "address": "33447 Ricketts Road, Creswell, OR 97426",
+      "phone": "541-912-7045",
+      "image": "https://cdn.findpawpal.com/office/604309.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wildwood-exotic-animal-shelter-659534",
+      "name": "Wildwood Exotic Animal Shelter",
+      "address": "17630 Highway 62, Eagle Point, OR 97524",
+      "phone": "541-830-5339",
+      "image": "https://cdn.findpawpal.com/office/659534.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "wallowa-county-humane-society-613152",
+      "name": "Wallowa County Humane Society",
+      "address": "207 Northeast Garfield Street, Enterprise, OR 97828",
+      "phone": "541-426-4170",
+      "image": "https://cdn.findpawpal.com/office/613152.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-defense-league-659553",
+      "name": "Animal Defense League",
+      "address": "PO Box 10661, Eugene, OR 97440",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/659553.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-foundation-580466",
+      "name": "Animal Foundation",
+      "address": "621 River Avenue, Eugene, OR 97404",
+      "phone": "541-689-9394",
+      "image": "https://cdn.findpawpal.com/office/580466.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cascades-raptor-center-613014",
+      "name": "Cascades Raptor Center",
+      "address": "32275 Fox Hollow Road, Eugene, OR 97405",
+      "phone": "541-485-1320",
+      "image": "https://cdn.findpawpal.com/office/613014.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "eugene-animal-shelter-695526",
+      "name": "Eugene Animal Shelter",
+      "address": "3970 West 1st Avenue, Eugene, OR 97402",
+      "phone": "541-844-1777",
+      "image": "https://cdn.findpawpal.com/office/695526.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "greenhill-humane-society-661203",
+      "name": "Greenhill Humane Society",
+      "address": "88530 Green Hill Road, Eugene, OR 97402",
+      "phone": "541-689-1503",
+      "image": "https://cdn.findpawpal.com/office/661203.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lane-county-animal-control-622274",
+      "name": "Lane County Animal Control",
+      "address": "3050 North Delta Highway, Eugene, OR 97408",
+      "phone": "541-682-3645",
+      "image": "https://cdn.findpawpal.com/office/622274.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lane-county-dog-licenses-555144",
+      "name": "Lane County Dog Licenses",
+      "address": "3970 West 1st Avenue, Eugene, OR 97402",
+      "phone": "541-682-3645",
+      "image": "https://cdn.findpawpal.com/office/555144.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "teresa-mueller-661209",
+      "name": "Teresa Mueller",
+      "address": "2059 Friendly Street, Eugene, OR 97405",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/661209.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "west-coast-dog-cat-rescue-555147",
+      "name": "West Coast Dog Cat Rescue",
+      "address": "1274 West 7th Avenue, Eugene, OR 97402",
+      "phone": "541-255-4955",
+      "image": "https://cdn.findpawpal.com/office/555147.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "florence-area-humane-society-580467",
+      "name": "Florence Area Humane Society",
+      "address": "2840 Rhododendron Drive, Florence, OR 97439",
+      "phone": "541-997-4277",
+      "image": "https://cdn.findpawpal.com/office/580467.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-foundation-723166",
+      "name": "Animal Rescue Foundation",
+      "address": "41814 Alder Creek Road, Fossil, OR 97830",
+      "phone": "541-468-2056",
+      "image": "https://cdn.findpawpal.com/office/723166.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "gladstone-city-animal-control-659645",
+      "name": "Gladstone City Animal Control",
+      "address": "525 Portland Avenue, Gladstone, OR 97027",
+      "phone": "503-655-8211",
+      "image": "https://cdn.findpawpal.com/office/659645.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "curry-county-animal-control-601124",
+      "name": "Curry County Animal Control",
+      "address": "29921 Airport Way, Gold Beach, OR 97444",
+      "phone": "541-247-2514",
+      "image": "https://cdn.findpawpal.com/office/601124.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "calling-all-pets-inc-695421",
+      "name": "Calling All Pets, Inc.",
+      "address": "1035 Rogue River Highway, Gold Hill, OR 97525",
+      "phone": "541-855-7301",
+      "image": "https://cdn.findpawpal.com/office/695421.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "great-american-enterprizes-580754",
+      "name": "Great American Enterprizes",
+      "address": "2315 Upper River Road Loop, Grants Pass, OR 97526",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/580754.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "josephine-county-animal-control-661275",
+      "name": "Josephine County Animal Control",
+      "address": "1420 Brookside Boulevard, Grants Pass, OR 97526",
+      "phone": "541-474-5450",
+      "image": "https://cdn.findpawpal.com/office/661275.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "my-least-brethren-earthling-rescue-612995",
+      "name": "My Least Brethren Earthling Rescue",
+      "address": "1640 Williams Highway, Grants Pass, OR 97527",
+      "phone": "541-471-0403",
+      "image": "https://cdn.findpawpal.com/office/612995.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rogue-valley-humane-society-712981",
+      "name": "Rogue Valley Humane Society",
+      "address": "429 Northwest Scenic Drive, Grants Pass, OR 97526",
+      "phone": "541-479-5154",
+      "image": "https://cdn.findpawpal.com/office/712981.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "spca-of-josephine-county-555120",
+      "name": "SPCA of Josephine County",
+      "address": "PO Box 5045, Grants Pass, OR 97527",
+      "phone": "541-479-1910",
+      "image": "https://cdn.findpawpal.com/office/555120.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sun-valley-ranch-659540",
+      "name": "Sun Valley Ranch",
+      "address": "487 Penny Lane, Grants Pass, OR 97527",
+      "phone": "541-476-5775",
+      "image": "https://cdn.findpawpal.com/office/659540.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "river-song-foundation-621994",
+      "name": "River Song Foundation",
+      "address": "PO Box 44, Hammond, OR 97121",
+      "phone": "503-861-2003",
+      "image": "https://cdn.findpawpal.com/office/621994.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hermiston-city-police-580606",
+      "name": "Hermiston City Police",
+      "address": "330 South 1st Street, Hermiston, OR 97838",
+      "phone": "541-567-5519",
+      "image": "https://cdn.findpawpal.com/office/580606.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "washington-county-animal-shelter-600991",
+      "name": "Washington County Animal Shelter",
+      "address": "2650 Southeast Tualatin Valley Highway, Hillsboro, OR 97123",
+      "phone": "503-681-7041",
+      "image": "https://cdn.findpawpal.com/office/600991.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hood-river-county-animal-control-661287",
+      "name": "Hood River County Animal Control",
+      "address": "309 State Street, Hood River, OR 97031",
+      "phone": "541-387-7037",
+      "image": "https://cdn.findpawpal.com/office/661287.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hukari-shelter-555085",
+      "name": "Hukari Shelter",
+      "address": "3910 Heron Drive, Hood River, OR 97031",
+      "phone": "541-354-1083",
+      "image": "https://cdn.findpawpal.com/office/555085.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sanctuary-one-600846",
+      "name": "Sanctuary One",
+      "address": "13195 Upper Applegate Road, Jacksonville, OR 97530",
+      "phone": "541-899-8627",
+      "image": "https://cdn.findpawpal.com/office/600846.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "sevadog-613039",
+      "name": "SevaDog",
+      "address": "90558 Alvadore Road, Junction, OR 97448",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/613039.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "klamath-falls-animal-shelter-613272",
+      "name": "Klamath Falls Animal Shelter",
+      "address": "4240 Washburn Way, Klamath Falls, OR 97603",
+      "phone": "541-884-7387",
+      "image": "https://cdn.findpawpal.com/office/613272.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "klamath-humane-society-712943",
+      "name": "Klamath Humane Society",
+      "address": "PO Box 482, Klamath Falls, OR 97601",
+      "phone": "541-882-1119",
+      "image": "https://cdn.findpawpal.com/office/712943.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "blue-mountain-humane-association-600964",
+      "name": "Blue Mountain Humane Association",
+      "address": "3212 U.s. 30, La Grande, OR 97850",
+      "phone": "541-963-0807",
+      "image": "https://cdn.findpawpal.com/office/600964.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "project-pooch-604509",
+      "name": "Project Pooch",
+      "address": "543 3rd Street, Lake Oswego, OR 97034",
+      "phone": "503-697-0623",
+      "image": "https://cdn.findpawpal.com/office/604509.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "the-oregon-cat-adoption-center-555378",
+      "name": "The Oregon Cat Adoption Center",
+      "address": "342 B Avenue, Lake Oswego, OR 97034",
+      "phone": "503-555-0000",
+      "image": "https://cdn.findpawpal.com/office/555378.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "linn-county-animal-control-622271",
+      "name": "Linn County Animal Control",
+      "address": "39389 Plagmann Drive, Lebanon, OR 97355",
+      "phone": "541-258-3422",
+      "image": "https://cdn.findpawpal.com/office/622271.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "high-desrt-humane-society-600847",
+      "name": "High Desrt Humane Society",
+      "address": "PO Box 274, Madras, OR 97741",
+      "phone": "541-475-6639",
+      "image": "https://cdn.findpawpal.com/office/600847.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jefferson-county-dog-control-601065",
+      "name": "Jefferson County Dog Control",
+      "address": "1694 Southeast McTaggart Road, Madras, OR 97741",
+      "phone": "541-475-6889",
+      "image": "https://cdn.findpawpal.com/office/601065.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "freinds-of-pets-of-klamath-basin-580463",
+      "name": "Freinds of Pets of Klamath Basin",
+      "address": "17570 Maupin Road, Malin, OR 97632",
+      "phone": "541-723-6600",
+      "image": "https://cdn.findpawpal.com/office/580463.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "evergree-doe-humane-society-613142",
+      "name": "Evergree-Doe Humane Society",
+      "address": "PO Box 8, McMinnville, OR 97128",
+      "phone": "503-472-0341",
+      "image": "https://cdn.findpawpal.com/office/613142.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "yamhill-county-dog-control-622166",
+      "name": "Yamhill County Dog Control",
+      "address": "535 Northeast 5th Street, McMinnville, OR 97128",
+      "phone": "503-434-7538",
+      "image": "https://cdn.findpawpal.com/office/622166.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "committed-alliance-to-strays-695423",
+      "name": "Committed Alliance To Strays",
+      "address": "104 North Ross Lane, Medford, OR 97501",
+      "phone": "541-779-2916",
+      "image": "https://cdn.findpawpal.com/office/695423.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "southern-oregon-humane-society-555099",
+      "name": "Southern Oregon Humane Society",
+      "address": "2910 Table Rock Road, Medford, OR 97501",
+      "phone": "541-779-3215",
+      "image": "https://cdn.findpawpal.com/office/555099.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "milwaukie-city-animal-control-613260",
+      "name": "Milwaukie City Animal Control",
+      "address": "3200 Southeast Harrison Street, Milwaukie, OR 97222",
+      "phone": "503-786-7553",
+      "image": "https://cdn.findpawpal.com/office/613260.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "newberg-animal-shelter-661285",
+      "name": "Newberg Animal Shelter",
+      "address": "1591 South Avalon Park, Newberg, OR 97132",
+      "phone": "503-554-9285",
+      "image": "https://cdn.findpawpal.com/office/661285.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oregons-rat-adoption-team-shelter-o-rats-659597",
+      "name": "Oregons Rat Adoption Team Shelter O Rats",
+      "address": "2909 Douglas Avenue, Newberg, OR 97132",
+      "phone": "503-899-5905",
+      "image": "https://cdn.findpawpal.com/office/659597.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-central-coast-555169",
+      "name": "Humane Society Central Coast",
+      "address": "831 Northeast Yaquina Heights Drive, Newport, OR 97365",
+      "phone": "541-265-3719",
+      "image": "https://cdn.findpawpal.com/office/555169.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lincoln-county-animal-shelter-555175",
+      "name": "Lincoln County Animal Shelter",
+      "address": "831 Northeast 3rd Street, Newport, OR 97365",
+      "phone": "541-265-6610",
+      "image": "https://cdn.findpawpal.com/office/555175.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "soscat-sutherlin-oakland-stray-cat-action-team-622013",
+      "name": "SOSCAT Sutherlin-Oakland Stray Cat Action Team",
+      "address": "122 Locust Street, Oakland, OR 97462",
+      "phone": "541-378-8852",
+      "image": "https://cdn.findpawpal.com/office/622013.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ontario-animal-control-712983",
+      "name": "Ontario Animal Control",
+      "address": "444 Southwest 4th Street, Ontario, OR 97914",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/712983.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ontario-animal-shelter-601101",
+      "name": "Ontario Animal Shelter",
+      "address": "3616 Oregon 201, Ontario, OR 97914",
+      "phone": "541-881-0079",
+      "image": "https://cdn.findpawpal.com/office/601101.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clakamas-coutny-dog-services-661270",
+      "name": "Clakamas Coutny Dog Services",
+      "address": "2104 Kaen Road, Oregon, OR 97045",
+      "phone": "503-655-8628",
+      "image": "https://cdn.findpawpal.com/office/661270.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-pioneer-humane-society-695469",
+      "name": "PAWS/ Pioneer Humane Society",
+      "address": "517 Southeast 3rd Street, Pendleton, OR 97801",
+      "phone": "541-276-0181",
+      "image": "https://cdn.findpawpal.com/office/695469.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "jackson-county-animal-control-695425",
+      "name": "Jackson County Animal Control",
+      "address": "5595 South Pacific Highway, Phoenix, OR 97535",
+      "phone": "541-776-7035",
+      "image": "https://cdn.findpawpal.com/office/695425.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-morrow-umatilla-659582",
+      "name": "Humane Society of Morrow Umatilla",
+      "address": "PO Box L, Pilot Rock, OR 97868",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/659582.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animalwelfare-network-of-lane-county-661201",
+      "name": "Animalwelfare Network of Lane County",
+      "address": "PO Box 744, Pleasant Hill, OR 97455",
+      "phone": "541-988-3003",
+      "image": "https://cdn.findpawpal.com/office/661201.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-aid-inc-695473",
+      "name": "Animal Aid Inc",
+      "address": "5335 Southwest 42nd Avenue, Portland, OR 97221",
+      "phone": "503-292-6628",
+      "image": "https://cdn.findpawpal.com/office/695473.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-law-review-622100",
+      "name": "Animal Law Review",
+      "address": "10015 Southwest Terwilliger Boulevard, Portland, OR 97219",
+      "phone": "503-768-6600",
+      "image": "https://cdn.findpawpal.com/office/622100.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-legal-defense-fund-622127",
+      "name": "Animal Legal Defense Fund",
+      "address": "919 Southwest Taylor Street, Portland, OR 97205",
+      "phone": "503-231-1602",
+      "image": "https://cdn.findpawpal.com/office/622127.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "animal-rescue-and-care-fund-695459",
+      "name": "Animal Rescue & Care Fund",
+      "address": "PO Box 14956, Portland, OR 97293",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/695459.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "caper-animal-protectionists-659574",
+      "name": "Caper Animal Protectionists",
+      "address": "PO Box 66051, Portland, OR 97290",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/659574.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cascade-dog-defenders-league-622120",
+      "name": "Cascade Dog Defenders' League",
+      "address": "PO Box 3453, Portland, OR 97208",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/622120.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cascade-ferret-network-661216",
+      "name": "Cascade Ferret Network",
+      "address": "PO Box 14884, Portland, OR 97293",
+      "phone": "503-231-0887",
+      "image": "https://cdn.findpawpal.com/office/661216.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "coalition-to-end-primate-experimentation-613064",
+      "name": "Coalition to End Primate Experimentation",
+      "address": "PO Box 6058, Portland, OR 97228",
+      "phone": "503-230-9990",
+      "image": "https://cdn.findpawpal.com/office/613064.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "companion-animal-news-network-international-659575",
+      "name": "Companion Animal News Network International",
+      "address": "5519 Northeast 30th Avenue, Portland, OR 97211",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/659575.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "dog-nose-news-600950",
+      "name": "Dog Nose News",
+      "address": "PO Box 12568, Portland, OR 97212",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/600950.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "donoteatpigs-org-695463",
+      "name": "Donoteatpigs.Org",
+      "address": "PO Box 14442, Portland, OR 97293",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/695463.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "family-dogs-new-life-shelter-555192",
+      "name": "Family Dogs New Life Shelter",
+      "address": "9101 Southeast Stanley Avenue, Portland, OR 97206",
+      "phone": "503-771-5596",
+      "image": "https://cdn.findpawpal.com/office/555192.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "feral-cat-coalition-of-oregon-695453",
+      "name": "Feral Cat Coalition of Oregon",
+      "address": "PO Box 82734, Portland, OR 97282",
+      "phone": "503-797-2606",
+      "image": "https://cdn.findpawpal.com/office/695453.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "fondation-for-global-biodiversity-education-for-children-580531",
+      "name": "Fondation for Global Biodiversity Education for Children",
+      "address": "205 Southeast Grand Avenue, Portland, OR 97214",
+      "phone": "503-232-7067",
+      "image": "https://cdn.findpawpal.com/office/580531.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "four-feet-forward-613068",
+      "name": "Four Feet Forward",
+      "address": "1324 Southeast 36th Avenue, Portland, OR 97214",
+      "phone": "503-704-8598",
+      "image": "https://cdn.findpawpal.com/office/613068.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "house-of-dreams-695455",
+      "name": "House of Dreams",
+      "address": "PO Box 30971, Portland, OR 97294",
+      "phone": "503-262-0763",
+      "image": "https://cdn.findpawpal.com/office/695455.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-oregon-political-action-committee-613097",
+      "name": "Humane Oregon Political Action Committee",
+      "address": "PO Box 40372, Portland, OR 97240",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/613097.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "macaw-landing-foundation-712951",
+      "name": "Macaw Landing Foundation",
+      "address": "PO Box 17364, Portland, OR 97217",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/712951.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oregon-friends-of-shelter-animals-661241",
+      "name": "Oregon Friends of Shelter Animals",
+      "address": "4240 Northwest 185th Avenue, Portland, OR 97229",
+      "phone": "503-747-7818",
+      "image": "https://cdn.findpawpal.com/office/661241.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oregon-humane-society-604420",
+      "name": "Oregon Humane Society",
+      "address": "1067 Northeast Columbia Boulevard, Portland, OR 97211",
+      "phone": "503-285-7722",
+      "image": "https://cdn.findpawpal.com/office/604420.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "other-mothers-animal-rescue-and-rehabilitation-inc-661221",
+      "name": "Other Mothers Animal Rescue and Rehabilitation, Inc.",
+      "address": "PO Box 8021, Portland, OR 97207",
+      "phone": "503-452-0465",
+      "image": "https://cdn.findpawpal.com/office/661221.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "pawsitively-pit-bull-604362",
+      "name": "Pawsitively Pit Bull",
+      "address": "PO Box 16156, Portland, OR 97292",
+      "phone": "503-255-2313",
+      "image": "https://cdn.findpawpal.com/office/604362.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "portland-animal-control-695516",
+      "name": "Portland Animal Control",
+      "address": "1732 Northeast Alberta Street, Portland, OR 97211",
+      "phone": "503-249-9996",
+      "image": "https://cdn.findpawpal.com/office/695516.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rabbit-advocates-659569",
+      "name": "Rabbit Advocates",
+      "address": "PO Box 14235, Portland, OR 97293",
+      "phone": "503-617-1625",
+      "image": "https://cdn.findpawpal.com/office/659569.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "rat-allies-600933",
+      "name": "Rat Allies",
+      "address": "PO Box 3453, Portland, OR 97208",
+      "phone": "503-287-7894",
+      "image": "https://cdn.findpawpal.com/office/600933.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "vets-for-pets-659581",
+      "name": "Vets for Pets",
+      "address": "6327 Southwest Capitol Highway, Portland, OR 97239",
+      "phone": "503-245-4686",
+      "image": "https://cdn.findpawpal.com/office/659581.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "deweys-wheelchairs-for-dogs-661179",
+      "name": "Dewey's Wheelchairs for Dogs",
+      "address": "PO Box 1439, Prineville, OR 97754",
+      "phone": "877-312-2122",
+      "image": "https://cdn.findpawpal.com/office/661179.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "humane-society-of-the-ochocos-580759",
+      "name": "Humane Society of the Ochocos",
+      "address": "1280 Tom McCall Road, Prineville, OR 97754",
+      "phone": "541-447-7178",
+      "image": "https://cdn.findpawpal.com/office/580759.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "oregon-state-animal-shelter-712985",
+      "name": "Oregon State Animal Shelter",
+      "address": "3347 Southeast Umatilla Loop, Prineville, OR 97754",
+      "phone": "971-313-3622",
+      "image": "https://cdn.findpawpal.com/office/712985.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "brightside-animal-center-formerly-humane-society-of-redmond-622196",
+      "name": "BrightSide Animal Center (formerly Humane Society of Redmond)",
+      "address": "1355 Northeast Hemlock Avenue, Redmond, OR 97756",
+      "phone": "541-923-0882",
+      "image": "https://cdn.findpawpal.com/office/622196.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "hooves-and-halos-animal-rescue-604472",
+      "name": "Hooves and Halos Animal Rescue",
+      "address": "6370 Southwest 61st Street, Redmond, OR 97756",
+      "phone": "541-504-4741",
+      "image": "https://cdn.findpawpal.com/office/604472.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "redmond-animal-control-613190",
+      "name": "Redmond Animal Control",
+      "address": "455 Southwest 7th Street, Redmond, OR 97756",
+      "phone": "503-923-1313",
+      "image": "https://cdn.findpawpal.com/office/613190.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "equine-angels-horse-rescue-inc-712935",
+      "name": "Equine Angels Horse Rescue, Inc.",
+      "address": "PO Box 764, Riddle, OR 97469",
+      "phone": "541-874-3517",
+      "image": "https://cdn.findpawpal.com/office/712935.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "douglas-county-animal-control-601105",
+      "name": "Douglas County Animal Control",
+      "address": "1036 Southeast Douglas Avenue, Roseburg, OR 97470",
+      "phone": "541-440-4327",
+      "image": "https://cdn.findpawpal.com/office/601105.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "new-beginnings-spca-604248",
+      "name": "New Beginnings SPCA",
+      "address": "1212 Southeast Stephens Street, Roseburg, OR 97470",
+      "phone": "541-464-4313",
+      "image": "https://cdn.findpawpal.com/office/604248.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "saving-grace-pet-adoption-center-622025",
+      "name": "Saving Grace Pet Adoption Center",
+      "address": "450 Old Del Rio Road, Roseburg, OR 97471",
+      "phone": "541-672-3907",
+      "image": "https://cdn.findpawpal.com/office/622025.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "umpqua-valley-humane-society-659526",
+      "name": "Umpqua Valley Humane Society",
+      "address": "PO Box 217, Roseburg, OR 97470",
+      "phone": "541-629-5634",
+      "image": "https://cdn.findpawpal.com/office/659526.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "foundation-for-puerto-rico-street-animals-661267",
+      "name": "Foundation for Puerto Rico Street Animals",
+      "address": "PO Box 3965, Salem, OR 97302",
+      "phone": "503-544-6610",
+      "image": "https://cdn.findpawpal.com/office/661267.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "marion-county-animal-shelter-661282",
+      "name": "Marion County Animal Shelter",
+      "address": "3550 Aumsville Highway Southeast, Salem, OR 97317",
+      "phone": "503-566-6966",
+      "image": "https://cdn.findpawpal.com/office/661282.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "marion-county-dog-control-712978",
+      "name": "Marion County Dog Control",
+      "address": "5155 Silverton Road Northeast, Salem, OR 97305",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/712978.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tiny-treasures-rescue-712979",
+      "name": "Tiny Treasures Rescue",
+      "address": "1024 Cunningham Lane South, Salem, OR 97302",
+      "phone": "503-949-6212",
+      "image": "https://cdn.findpawpal.com/office/712979.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "willamette-humane-society-622219",
+      "name": "Willamette Humane Society",
+      "address": "4246 Turner Road Southeast, Salem, OR 97317",
+      "phone": "503-585-5900",
+      "image": "https://cdn.findpawpal.com/office/622219.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "my-way-home-dog-rescue-612932",
+      "name": "My Way Home Dog Rescue",
+      "address": "PO Box 713, Sandy, OR 97055",
+      "phone": "503-974-4944",
+      "image": "https://cdn.findpawpal.com/office/612932.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "lighthouse-farm-sanctuary-613101",
+      "name": "Lighthouse Farm Sanctuary",
+      "address": "36831 Richardson Gap Road, Scio, OR 97374",
+      "phone": "503-394-4486",
+      "image": "https://cdn.findpawpal.com/office/613101.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "happy-talk-harbor-712949",
+      "name": "Happy Talk Harbor",
+      "address": "PO Box 339, Seal Rock, OR 97376",
+      "phone": "541-563-5931",
+      "image": "https://cdn.findpawpal.com/office/712949.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "north-coast-animal-haven-659518",
+      "name": "North Coast Animal Haven",
+      "address": "PO Box 149, Seaside, OR 97138",
+      "phone": "503-738-7585",
+      "image": "https://cdn.findpawpal.com/office/659518.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "cat-adoption-team-712963",
+      "name": "Cat Adoption Team",
+      "address": "14175 Southwest Galbreath Drive, Sherwood, OR 97140",
+      "phone": "503-925-8903",
+      "image": "https://cdn.findpawpal.com/office/712963.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "orfan-oregon-feline-adoption-network-604323",
+      "name": "Orfan Oregon Feline Adoption Network",
+      "address": "815 6th Street, Springfield, OR 97477",
+      "phone": "",
+      "image": "https://cdn.findpawpal.com/office/604323.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "springfield-animal-control-661278",
+      "name": "Springfield Animal Control",
+      "address": "230 4th Street, Springfield, OR 97477",
+      "phone": "541-726-3634",
+      "image": "https://cdn.findpawpal.com/office/661278.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "ananda-animal-rescue-sanctuary-555398",
+      "name": "Ananda Animal Rescue Sanctuary",
+      "address": "PO Box 385, St. Helens, OR 97051",
+      "phone": "503-824-2266",
+      "image": "https://cdn.findpawpal.com/office/555398.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "columbia-county-animal-control-604528",
+      "name": "Columbia County Animal Control",
+      "address": "2084 Oregon Street, St. Helens, OR 97051",
+      "phone": "503-397-3935",
+      "image": "https://cdn.findpawpal.com/office/604528.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "home-at-last-humane-society-613123",
+      "name": "Home At Last Humane Society",
+      "address": "200 River Road, The Dalles, OR 97058",
+      "phone": "541-296-5189",
+      "image": "https://cdn.findpawpal.com/office/613123.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "home-at-last-animal-freinds-580609",
+      "name": "Home at Last Animal Freinds",
+      "address": "PO Box 390, The Dalles, OR 97058",
+      "phone": "541-296-3714",
+      "image": "https://cdn.findpawpal.com/office/580609.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tigard-pets-555275",
+      "name": "Tigard PETS",
+      "address": "9035 Southwest Reiling Street, Tigard, OR 97224",
+      "phone": "503-880-2726",
+      "image": "https://cdn.findpawpal.com/office/555275.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bird-rescue-and-sitting-661254",
+      "name": "Bird Rescue and Sitting",
+      "address": "5390 U.S. 101 South, Tillamook, OR 97141",
+      "phone": "503-842-3673",
+      "image": "https://cdn.findpawpal.com/office/661254.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "tillamook-animal-control-601021",
+      "name": "Tillamook Animal Control",
+      "address": "207 Madrona Avenue, Tillamook, OR 97141",
+      "phone": "503-842-2522",
+      "image": "https://cdn.findpawpal.com/office/601021.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "multnomah-county-animal-services-661215",
+      "name": "Multnomah County Animal Services",
+      "address": "1700 West Historic Columbia River Highway, Troutdale, OR 97060",
+      "phone": "503-988-7387",
+      "image": "https://cdn.findpawpal.com/office/661215.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clatsop-animal-assistance-inc-695410",
+      "name": "Clatsop Animal Assistance, Inc.",
+      "address": "PO Box 622, Warrenton, OR 97146",
+      "phone": "503-861-0737",
+      "image": "https://cdn.findpawpal.com/office/695410.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "clatsop-county-animal-shelter-612937",
+      "name": "Clatsop County Animal Shelter",
+      "address": "1315 Southeast 19th Street, Warrenton, OR 97146",
+      "phone": "503-861-7387",
+      "image": "https://cdn.findpawpal.com/office/612937.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "paws-animal-shelter-601073",
+      "name": "Paws Animal Shelter",
+      "address": "1741 Willamette Falls Drive, West Linn, OR 97068",
+      "phone": "503-650-0855",
+      "image": "https://cdn.findpawpal.com/office/601073.jpg?f=webp&w=730"
+    },
+    {
+      "slug": "bear-project-659539",
+      "name": "Bear Project",
+      "address": "PO Box 332, Williams, OR 97544",
+      "phone": "541-846-7643",
+      "image": "https://cdn.findpawpal.com/office/659539.jpg?f=webp&w=730"
+    }
+  ]
+}

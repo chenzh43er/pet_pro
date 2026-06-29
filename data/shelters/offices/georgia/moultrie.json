@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:40:55.799168+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "moultrie",
+    "name": "Moultrie",
+    "label": "Moultrie, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/moultrie/",
+  "offices": [
+    {
+      "officeId": 133580,
+      "slug": "humane-society-of-moultrie-133580",
+      "name": "Humane Society of Moultrie",
+      "address": "1412 1st Street Northeast, Moultrie, GA 31768",
+      "phone": "229-985-5463",
+      "image": "./img/shelter/office/133580.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-moultrie-133580/",
+      "imageUrl": "https://cdn.findpawpal.com/office/133580.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 142381,
+      "slug": "humane-society-of-moultrie-and-colquitt-county-142381",
+      "name": "Humane Society of Moultrie & Colquitt County",
+      "address": "PO Box 1498, Moultrie, GA 31776",
+      "phone": "912-985-5463",
+      "image": "./img/shelter/office/142381.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/humane-society-of-moultrie-and-colquitt-county-142381/",
+      "imageUrl": "https://cdn.findpawpal.com/office/142381.jpg?f=webp&w=730"
+    }
+  ]
+}

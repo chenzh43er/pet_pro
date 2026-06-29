@@ -1,0 +1,44 @@
+{
+  "fetchedAt": "2026-06-27T18:57:50.972745+00:00",
+  "state": {
+    "slug": "kentucky",
+    "name": "Kentucky"
+  },
+  "city": {
+    "slug": "morehead",
+    "name": "Morehead",
+    "label": "Morehead, KY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/kentucky/morehead/",
+  "offices": [
+    {
+      "officeId": 112120,
+      "slug": "tri-county-animal-shelter-112120",
+      "name": "Tri-County Animal Shelter",
+      "address": "2450 Kentucky 519, Morehead, KY 40351",
+      "phone": "606-784-8288",
+      "image": "./img/shelter/office/112120.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tri-county-animal-shelter-112120/",
+      "imageUrl": "https://cdn.findpawpal.com/office/112120.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 119784,
+      "slug": "ferret-family-rescue-119784",
+      "name": "Ferret Family Rescue",
+      "address": "3900 Christy Creek Road, Morehead, KY 40351",
+      "phone": "606-776-3279",
+      "image": "./img/shelter/office/119784.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ferret-family-rescue-119784/",
+      "imageUrl": "https://cdn.findpawpal.com/office/119784.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 119794,
+      "slug": "rowan-county-humane-society-119794",
+      "name": "Rowan County Humane Society",
+      "address": "305 Bullfork Road, Morehead, KY 40351",
+      "phone": "606-784-4930",
+      "image": "https://cdn.findpawpal.com/office/119794.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/rowan-county-humane-society-119794/"
+    }
+  ]
+}

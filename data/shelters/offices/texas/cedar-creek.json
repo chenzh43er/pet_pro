@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:03:46.409625+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "cedar-creek",
+    "name": "Cedar Creek",
+    "label": "Cedar Creek, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/cedar-creek/",
+  "offices": [
+    {
+      "officeId": 539771,
+      "slug": "bucks-quality-k9-539771",
+      "name": "Bucks Quality K9",
+      "address": "515 Pope Bend South, Cedar Creek, TX 78612",
+      "phone": "512-332-0383",
+      "image": "./img/shelter/office/539771.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/bucks-quality-k9-539771/",
+      "imageUrl": "https://cdn.findpawpal.com/office/539771.jpg?f=webp&w=730"
+    }
+  ]
+}

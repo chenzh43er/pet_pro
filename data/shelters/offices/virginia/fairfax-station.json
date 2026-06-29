@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T20:13:54.734329+00:00",
+  "state": {
+    "slug": "virginia",
+    "name": "Virginia"
+  },
+  "city": {
+    "slug": "fairfax-station",
+    "name": "Fairfax Station",
+    "label": "Fairfax Station, VA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/virginia/fairfax-station/",
+  "offices": [
+    {
+      "officeId": 511927,
+      "slug": "animal-allies-burke-alexandria-511927",
+      "name": "Animal Allies Burke Alexandria",
+      "address": "PO Box 7040, Fairfax Station, VA 22039",
+      "phone": "703-940-9183",
+      "image": "./img/shelter/office/511927.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/animal-allies-burke-alexandria-511927/",
+      "imageUrl": "https://cdn.findpawpal.com/office/511927.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 529639,
+      "slug": "fairfax-station-animal-control-529639",
+      "name": "Fairfax Station Animal Control",
+      "address": "7647 Clifton Road, Fairfax Station, VA 22039",
+      "phone": "703-978-4462",
+      "image": "./img/shelter/office/529639.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/fairfax-station-animal-control-529639/",
+      "imageUrl": "https://cdn.findpawpal.com/office/529639.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 646829,
+      "slug": "homeless-animals-rescue-team-646829",
+      "name": "Homeless Animals Rescue Team",
+      "address": "PO Box 7261, Fairfax Station, VA 22039",
+      "phone": "703-691-4278",
+      "image": "./img/shelter/office/646829.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/homeless-animals-rescue-team-646829/",
+      "imageUrl": "https://cdn.findpawpal.com/office/646829.jpg?f=webp&w=730"
+    }
+  ]
+}

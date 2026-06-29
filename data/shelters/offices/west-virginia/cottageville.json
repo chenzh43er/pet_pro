@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T20:20:09.939384+00:00",
+  "state": {
+    "slug": "west-virginia",
+    "name": "West Virginia"
+  },
+  "city": {
+    "slug": "cottageville",
+    "name": "Cottageville",
+    "label": "Cottageville, WV"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/west-virginia/cottageville/",
+  "offices": [
+    {
+      "officeId": 622536,
+      "slug": "jackson-county-animal-shelter-622536",
+      "name": "Jackson County Animal Shelter",
+      "address": "86 County Farm Road, Cottageville, WV 25239",
+      "phone": "304-372-6064",
+      "image": "https://cdn.findpawpal.com/office/622536.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/jackson-county-animal-shelter-622536/"
+    }
+  ]
+}

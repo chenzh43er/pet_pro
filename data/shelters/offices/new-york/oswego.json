@@ -1,0 +1,55 @@
+{
+  "fetchedAt": "2026-06-27T19:35:43.736593+00:00",
+  "state": {
+    "slug": "new-york",
+    "name": "New York"
+  },
+  "city": {
+    "slug": "oswego",
+    "name": "Oswego",
+    "label": "Oswego, NY"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-york/oswego/",
+  "offices": [
+    {
+      "officeId": 316504,
+      "slug": "new-york-state-animal-control-association-316504",
+      "name": "New York State Animal Control Association",
+      "address": "PO Box 885, Oswego, NY 13126",
+      "phone": "315-342-7027",
+      "image": "./img/shelter/office/316504.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/new-york-state-animal-control-association-316504/",
+      "imageUrl": "https://cdn.findpawpal.com/office/316504.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 333940,
+      "slug": "oswego-county-animal-welfare-league-333940",
+      "name": "Oswego County Animal Welfare League",
+      "address": "PO Box 4, Oswego, NY 13126",
+      "phone": "315-625-4895",
+      "image": "./img/shelter/office/333940.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/oswego-county-animal-welfare-league-333940/",
+      "imageUrl": "https://cdn.findpawpal.com/office/333940.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 403212,
+      "slug": "oswego-county-humane-society-403212",
+      "name": "Oswego County Humane Society",
+      "address": "157 East 1st Street, Oswego, NY 13126",
+      "phone": "315-207-1070",
+      "image": "./img/shelter/office/403212.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/oswego-county-humane-society-403212/",
+      "imageUrl": "https://cdn.findpawpal.com/office/403212.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 416799,
+      "slug": "oswego-city-animal-shelter-416799",
+      "name": "Oswego City Animal Shelter",
+      "address": "621 East Seneca Street, Oswego, NY 13126",
+      "phone": "315-343-1803",
+      "image": "./img/shelter/office/416799.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/oswego-city-animal-shelter-416799/",
+      "imageUrl": "https://cdn.findpawpal.com/office/416799.jpg?f=webp&w=730"
+    }
+  ]
+}

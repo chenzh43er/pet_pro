@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:54:44.447360+00:00",
+  "state": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania"
+  },
+  "city": {
+    "slug": "royersford",
+    "name": "Royersford",
+    "label": "Royersford, PA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/pennsylvania/royersford/",
+  "offices": [
+    {
+      "officeId": 474726,
+      "slug": "willing-hearts-dal-recue-474726",
+      "name": "Willing Hearts Dal Recue",
+      "address": "PO Box 11, Royersford, PA 19468",
+      "phone": "610-948-5898",
+      "image": "./img/shelter/office/474726.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/willing-hearts-dal-recue-474726/",
+      "imageUrl": "https://cdn.findpawpal.com/office/474726.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 588720,
+      "slug": "rogers-rescue-588720",
+      "name": "Rogers' Rescue",
+      "address": "PO Box 545, Royersford, PA 19468",
+      "phone": "",
+      "image": "./img/shelter/office/588720.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rogers-rescue-588720/",
+      "imageUrl": "https://cdn.findpawpal.com/office/588720.jpg?f=webp&w=730"
+    }
+  ]
+}

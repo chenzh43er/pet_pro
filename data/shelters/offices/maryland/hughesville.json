@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T19:03:45.641574+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "hughesville",
+    "name": "Hughesville",
+    "label": "Hughesville, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/hughesville/",
+  "offices": [
+    {
+      "officeId": 394249,
+      "slug": "horse-of-maryland-394249",
+      "name": "HORSE of Maryland",
+      "address": "PO Box 67, Hughesville, MD 20637",
+      "phone": "301-292-1524",
+      "image": "./img/shelter/office/394249.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/horse-of-maryland-394249/",
+      "imageUrl": "https://cdn.findpawpal.com/office/394249.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 398655,
+      "slug": "tri-county-animal-shelter-398655",
+      "name": "Tri-County Animal Shelter",
+      "address": "6707 Animal Shelter Road, Hughesville, MD 20637",
+      "phone": "301-932-1713",
+      "image": "./img/shelter/office/398655.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tri-county-animal-shelter-398655/",
+      "imageUrl": "https://cdn.findpawpal.com/office/398655.jpg?f=webp&w=730"
+    }
+  ]
+}

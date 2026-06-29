@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:11:53.047765+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "munising",
+    "name": "Munising",
+    "label": "Munising, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/munising/",
+  "offices": [
+    {
+      "officeId": 209726,
+      "slug": "alger-county-animal-shelter-209726",
+      "name": "Alger County Animal Shelter",
+      "address": "510 East Munising Avenue, Munising, MI 49862",
+      "phone": "906-387-4131",
+      "image": "./img/shelter/office/209726.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/alger-county-animal-shelter-209726/",
+      "imageUrl": "https://cdn.findpawpal.com/office/209726.jpg?f=webp&w=730"
+    }
+  ]
+}

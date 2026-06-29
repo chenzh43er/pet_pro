@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:03:05.686447+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "charlotte-hall",
+    "name": "Charlotte Hall",
+    "label": "Charlotte Hall, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/charlotte-hall/",
+  "offices": [
+    {
+      "officeId": 375777,
+      "slug": "lucky-ones-inc-375777",
+      "name": "Lucky Ones, Inc.",
+      "address": "14136 Oaks Road, Charlotte Hall, MD 20622",
+      "phone": "301-884-2850",
+      "image": "./img/shelter/office/375777.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/lucky-ones-inc-375777/",
+      "imageUrl": "https://cdn.findpawpal.com/office/375777.jpg?f=webp&w=730"
+    }
+  ]
+}

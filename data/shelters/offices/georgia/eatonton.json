@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:39:38.796921+00:00",
+  "state": {
+    "slug": "georgia",
+    "name": "Georgia"
+  },
+  "city": {
+    "slug": "eatonton",
+    "name": "Eatonton",
+    "label": "Eatonton, GA"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/georgia/eatonton/",
+  "offices": [
+    {
+      "officeId": 150252,
+      "slug": "putnam-county-animal-control-150252",
+      "name": "Putnam County Animal Control",
+      "address": "107 Ridley Drive, Eatonton, GA 31024",
+      "phone": "706-485-3970",
+      "image": "./img/shelter/office/150252.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/putnam-county-animal-control-150252/",
+      "imageUrl": "https://cdn.findpawpal.com/office/150252.jpg?f=webp&w=730"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T20:09:31.668992+00:00",
+  "state": {
+    "slug": "texas",
+    "name": "Texas"
+  },
+  "city": {
+    "slug": "sulphur-springs",
+    "name": "Sulphur Springs",
+    "label": "Sulphur Springs, TX"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/texas/sulphur-springs/",
+  "offices": [
+    {
+      "officeId": 523747,
+      "slug": "ppawss-pet-adoptions-welfare-of-sulphur-springs-523747",
+      "name": "PPAWSS Pet Adoptions Welfare of Sulphur Springs",
+      "address": "1209 Fisher Street, Sulphur Springs, TX 75482",
+      "phone": "903-243-4306",
+      "image": "./img/shelter/office/523747.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/ppawss-pet-adoptions-welfare-of-sulphur-springs-523747/",
+      "imageUrl": "https://cdn.findpawpal.com/office/523747.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 538632,
+      "slug": "sulphur-springs-animal-shelter-538632",
+      "name": "Sulphur Springs Animal Shelter",
+      "address": "1313 Hillcrest Drive North, Sulphur Springs, TX 75482",
+      "phone": "903-438-9369",
+      "image": "./img/shelter/office/538632.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/sulphur-springs-animal-shelter-538632/",
+      "imageUrl": "https://cdn.findpawpal.com/office/538632.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 674180,
+      "slug": "hopkins-county-animal-league-674180",
+      "name": "Hopkins County Animal League",
+      "address": "468 Shannon Road East, Sulphur Springs, TX 75482",
+      "phone": "903-439-2953",
+      "image": "./img/shelter/office/674180.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/hopkins-county-animal-league-674180/",
+      "imageUrl": "https://cdn.findpawpal.com/office/674180.jpg?f=webp&w=730"
+    }
+  ]
+}

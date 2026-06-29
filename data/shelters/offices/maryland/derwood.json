@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:03:20.470458+00:00",
+  "state": {
+    "slug": "maryland",
+    "name": "Maryland"
+  },
+  "city": {
+    "slug": "derwood",
+    "name": "Derwood",
+    "label": "Derwood, MD"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/maryland/derwood/",
+  "offices": [
+    {
+      "officeId": 553398,
+      "slug": "montgomery-county-animal-553398",
+      "name": "Montgomery County Animal",
+      "address": "7315 Muncaster Mill Road, Derwood, MD 20855",
+      "phone": "240-773-5900",
+      "image": "./img/shelter/office/553398.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/montgomery-county-animal-553398/",
+      "imageUrl": "https://cdn.findpawpal.com/office/553398.jpg?f=webp&w=730"
+    }
+  ]
+}

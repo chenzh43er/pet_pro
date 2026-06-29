@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:12:06.544317+00:00",
+  "state": {
+    "slug": "michigan",
+    "name": "Michigan"
+  },
+  "city": {
+    "slug": "owosso",
+    "name": "Owosso",
+    "label": "Owosso, MI"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/michigan/owosso/",
+  "offices": [
+    {
+      "officeId": 203213,
+      "slug": "heart-2-heart-kitten-rescue-203213",
+      "name": "Heart 2 Heart Kitten Rescue",
+      "address": "412 East King Street, Owosso, MI 48867",
+      "phone": "989-721-5366",
+      "image": "./img/shelter/office/203213.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/heart-2-heart-kitten-rescue-203213/",
+      "imageUrl": "https://cdn.findpawpal.com/office/203213.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 206031,
+      "slug": "owosso-animal-control-206031",
+      "name": "Owosso Animal Control",
+      "address": "1251 East Hibbard Road, Owosso, MI 48867",
+      "phone": "989-743-2406",
+      "image": "./img/shelter/office/206031.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/owosso-animal-control-206031/",
+      "imageUrl": "https://cdn.findpawpal.com/office/206031.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 207977,
+      "slug": "mid-michigan-pit-bull-rescue-207977",
+      "name": "Mid-Michigan Pit Bull Rescue",
+      "address": "PO Box 1793, Owosso, MI 48867",
+      "phone": "989-721-0864",
+      "image": "./img/shelter/office/207977.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/mid-michigan-pit-bull-rescue-207977/",
+      "imageUrl": "https://cdn.findpawpal.com/office/207977.jpg?f=webp&w=730"
+    }
+  ]
+}

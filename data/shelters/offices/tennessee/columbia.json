@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-06-27T19:59:42.040329+00:00",
+  "state": {
+    "slug": "tennessee",
+    "name": "Tennessee"
+  },
+  "city": {
+    "slug": "columbia",
+    "name": "Columbia",
+    "label": "Columbia, TN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/tennessee/columbia/",
+  "offices": [
+    {
+      "officeId": 438046,
+      "slug": "maury-county-animal-shelter-438046",
+      "name": "Maury County Animal Shelter",
+      "address": "1233 Mapleash Avenue, Columbia, TN 38401",
+      "phone": "931-381-0532",
+      "image": "./img/shelter/office/438046.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/maury-county-animal-shelter-438046/",
+      "imageUrl": "https://cdn.findpawpal.com/office/438046.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 574049,
+      "slug": "abandoned-angels-rescue-574049",
+      "name": "Abandoned Angels Rescue",
+      "address": "111 Tommy Drive, Columbia, TN 38401",
+      "phone": "931-381-2758",
+      "image": "./img/shelter/office/574049.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/abandoned-angels-rescue-574049/",
+      "imageUrl": "https://cdn.findpawpal.com/office/574049.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 636773,
+      "slug": "columbia-animal-control-636773",
+      "name": "Columbia Animal Control",
+      "address": "306 Polk Street, Columbia, TN 38401",
+      "phone": "931-490-8500",
+      "image": "./img/shelter/office/636773.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/columbia-animal-control-636773/",
+      "imageUrl": "https://cdn.findpawpal.com/office/636773.jpg?f=webp&w=730"
+    }
+  ]
+}

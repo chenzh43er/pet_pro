@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T18:52:13.305569+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "upland",
+    "name": "Upland",
+    "label": "Upland, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/upland/",
+  "offices": [
+    {
+      "officeId": 213700,
+      "slug": "rescue-roundup-213700",
+      "name": "Rescue Roundup",
+      "address": "PO Box 675, Upland, IN 46989",
+      "phone": "765-998-8046",
+      "image": "./img/shelter/office/213700.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/rescue-roundup-213700/",
+      "imageUrl": "https://cdn.findpawpal.com/office/213700.jpg?f=webp&w=730"
+    }
+  ]
+}

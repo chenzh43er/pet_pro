@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:49:07.488827+00:00",
+  "state": {
+    "slug": "oklahoma",
+    "name": "Oklahoma"
+  },
+  "city": {
+    "slug": "noble",
+    "name": "Noble",
+    "label": "Noble, OK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oklahoma/noble/",
+  "offices": [
+    {
+      "officeId": 536383,
+      "slug": "noble-animal-shelter-536383",
+      "name": "Noble Animal Shelter",
+      "address": "600 South Front Street, Noble, OK 73068",
+      "phone": "405-872-9231",
+      "image": "./img/shelter/office/536383.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/noble-animal-shelter-536383/",
+      "imageUrl": "https://cdn.findpawpal.com/office/536383.jpg?f=webp&w=730"
+    }
+  ]
+}

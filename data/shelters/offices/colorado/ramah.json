@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T18:35:05.511554+00:00",
+  "state": {
+    "slug": "colorado",
+    "name": "Colorado"
+  },
+  "city": {
+    "slug": "ramah",
+    "name": "Ramah",
+    "label": "Ramah, CO"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/colorado/ramah/",
+  "offices": [
+    {
+      "officeId": 43154,
+      "slug": "ruby-ranch-horse-rescue-43154",
+      "name": "Ruby Ranch Horse Rescue",
+      "address": "36785 Ramah Road East, Ramah, CO 80832",
+      "phone": "719-541-3642",
+      "image": "https://cdn.findpawpal.com/office/43154.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/ruby-ranch-horse-rescue-43154/"
+    }
+  ]
+}

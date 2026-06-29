@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T19:48:43.822438+00:00",
+  "state": {
+    "slug": "oklahoma",
+    "name": "Oklahoma"
+  },
+  "city": {
+    "slug": "inola",
+    "name": "Inola",
+    "label": "Inola, OK"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/oklahoma/inola/",
+  "offices": [
+    {
+      "officeId": 684810,
+      "slug": "inola-voluntary-animal-rescue-684810",
+      "name": "Inola Voluntary Animal Rescue",
+      "address": "PO Box 759, Inola, OK 74036",
+      "phone": "918-607-2888",
+      "image": "./img/shelter/office/684810.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/inola-voluntary-animal-rescue-684810/",
+      "imageUrl": "https://cdn.findpawpal.com/office/684810.jpg?f=webp&w=730"
+    }
+  ]
+}

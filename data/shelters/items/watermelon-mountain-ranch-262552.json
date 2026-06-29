@@ -1,0 +1,21 @@
+{
+  "officeId": 262552,
+  "slug": "watermelon-mountain-ranch-262552",
+  "name": "Watermelon Mountain Ranch",
+  "address": "4320 Ridgecrest Drive Southeast, Rio Rancho, NM 87124",
+  "street": "4320 Ridgecrest Drive Southeast",
+  "addressCity": "Rio Rancho",
+  "stateCode": "NM",
+  "zip": "87124",
+  "phone": "505-771-0140",
+  "image": "./img/shelter/office/262552.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/watermelon-mountain-ranch-262552/",
+  "stateSlug": "new-mexico",
+  "stateName": "New Mexico",
+  "citySlug": "rio-rancho",
+  "cityName": "Rio Rancho",
+  "cityLabel": "Rio Rancho, NM",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-mexico/rio-rancho/",
+  "fetchedAt": "2026-06-27T19:31:00.177102+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/262552.jpg?f=webp&w=730"
+}

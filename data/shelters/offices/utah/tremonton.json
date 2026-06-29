@@ -1,0 +1,25 @@
+{
+  "fetchedAt": "2026-06-27T20:11:40.395382+00:00",
+  "state": {
+    "slug": "utah",
+    "name": "Utah"
+  },
+  "city": {
+    "slug": "tremonton",
+    "name": "Tremonton",
+    "label": "Tremonton, UT"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/utah/tremonton/",
+  "offices": [
+    {
+      "officeId": 539255,
+      "slug": "tremonton-shelter-539255",
+      "name": "Tremonton Shelter",
+      "address": "300 1200 South, Tremonton, UT 84337",
+      "phone": "801-257-3151",
+      "image": "./img/shelter/office/539255.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/tremonton-shelter-539255/",
+      "imageUrl": "https://cdn.findpawpal.com/office/539255.jpg?f=webp&w=730"
+    }
+  ]
+}

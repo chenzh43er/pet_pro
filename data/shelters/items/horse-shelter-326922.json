@@ -1,0 +1,21 @@
+{
+  "officeId": 326922,
+  "slug": "horse-shelter-326922",
+  "name": "Horse Shelter",
+  "address": "1600 Lena Street, Santa Fe, NM 87505",
+  "street": "1600 Lena Street",
+  "addressCity": "Santa Fe",
+  "stateCode": "NM",
+  "zip": "87505",
+  "phone": "505-471-6179",
+  "image": "./img/shelter/office/326922.webp",
+  "url": "https://www.findpawpal.com/animal-shelter/horse-shelter-326922/",
+  "stateSlug": "new-mexico",
+  "stateName": "New Mexico",
+  "citySlug": "santa-fe",
+  "cityName": "Santa Fe",
+  "cityLabel": "Santa Fe, NM",
+  "sourceCityUrl": "https://www.findpawpal.com/animal-shelter/new-mexico/santa-fe/",
+  "fetchedAt": "2026-06-27T19:31:04.771830+00:00",
+  "imageUrl": "https://cdn.findpawpal.com/office/326922.jpg?f=webp&w=730"
+}

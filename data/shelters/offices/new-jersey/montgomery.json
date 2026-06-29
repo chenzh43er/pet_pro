@@ -1,0 +1,24 @@
+{
+  "fetchedAt": "2026-06-27T19:27:37.100693+00:00",
+  "state": {
+    "slug": "new-jersey",
+    "name": "New Jersey"
+  },
+  "city": {
+    "slug": "montgomery",
+    "name": "Montgomery",
+    "label": "Montgomery, NJ"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/new-jersey/montgomery/",
+  "offices": [
+    {
+      "officeId": 103613,
+      "slug": "montgomery-township-pound-103613",
+      "name": "Montgomery Township Pound",
+      "address": "2261 U.s. 206, Montgomery, NJ 08502",
+      "phone": "908-359-4308",
+      "image": "https://cdn.findpawpal.com/office/103613.jpg?f=webp&w=730",
+      "url": "https://www.findpawpal.com/animal-shelter/montgomery-township-pound-103613/"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetchedAt": "2026-06-27T18:51:50.052438+00:00",
+  "state": {
+    "slug": "indiana",
+    "name": "Indiana"
+  },
+  "city": {
+    "slug": "richmond",
+    "name": "Richmond",
+    "label": "Richmond, IN"
+  },
+  "source": "https://www.findpawpal.com/animal-shelter/indiana/richmond/",
+  "offices": [
+    {
+      "officeId": 214787,
+      "slug": "care-coalition-for-animals-214787",
+      "name": "Care Coalition for Animals",
+      "address": "2255 Niewoehner Road, Richmond, IN 47374",
+      "phone": "765-935-6104",
+      "image": "./img/shelter/office/214787.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/care-coalition-for-animals-214787/",
+      "imageUrl": "https://cdn.findpawpal.com/office/214787.jpg?f=webp&w=730"
+    },
+    {
+      "officeId": 251404,
+      "slug": "help-the-animals-inc-251404",
+      "name": "HELP the Animals, Inc",
+      "address": "2101 West Main Street, Richmond, IN 47374",
+      "phone": "765-962-6811",
+      "image": "./img/shelter/office/251404.webp",
+      "url": "https://www.findpawpal.com/animal-shelter/help-the-animals-inc-251404/",
+      "imageUrl": "https://cdn.findpawpal.com/office/251404.jpg?f=webp&w=730"
+    }
+  ]
+}
